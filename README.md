@@ -23,3 +23,12 @@ The fields will and should be expanded in the future, but at the current stage, 
 - [ ] 5. MISCELLANEOUS ENTITIES AND OBJECTS
 - [ ] 6. NATURE AND NATURAL PHENOMENA (Non-Biological)
 - [ ] 7. NATURAL PHENOMENA (BIOLOGICAL/ZOOLOGICAL)
+
+## Scripts
+
+### Minify
+
+```console
+$ deno task minify
+```
+Generate a minified json to `output/minified.json`, which includes all lexicons.
