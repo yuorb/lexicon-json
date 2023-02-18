@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "minify": "deno run --allow-read --allow-write=output scripts/minify.ts"
+    }
+}
