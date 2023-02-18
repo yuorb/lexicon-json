@@ -16,7 +16,7 @@ The fields will and should be expanded in the future, but at the current stage, 
 
 ## Progress
 
-- [ ] 1. ROOTS ASSOCIATED WITH GRAMMATICAL FUNCTIONS
+- [x] 1. ROOTS ASSOCIATED WITH GRAMMATICAL FUNCTIONS
 - [ ] 2. COMMON STATES AND ACTS
 - [ ] 3. SPACETIME and MOTION
 - [ ] 4. PSYCHOLOGICAL AND SOCIOLOGICAL PHENOMENA
