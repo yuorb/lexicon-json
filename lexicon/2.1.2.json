@@ -1,0 +1,44 @@
+{
+    "CŇ": {
+        "refers": "PIN / TACK / STAPLE"
+    },
+    "ČV": {
+        "refers": "TOOL / INSTRUMENT / PIECE OF EQUIPMENT"
+    },
+    "RČV": {
+        "refers": "UTENSIL / IMPLEMENT / FUEL"
+    },
+    "ŢŢ": {
+        "refers": "TRY OUT"
+    },
+    "SST": {
+        "refers": "DEVICE / APPARATUS / MACHINE / ENGINE / MOTOR"
+    },
+    "SSV": {
+        "refers": "DEVISE / CONTRIVANCE / INVENTION"
+    },
+    "LPĻ": {
+        "refers": "TECHNOLOGY"
+    },
+    "KŢG": {
+        "refers": "ELECTRONIC COMPUTER / COMPUTER ACCESSORY"
+    },
+    "KŢGW": {
+        "refers": "COMPUTERIZED DEVICE"
+    },
+    "KŢGY": {
+        "refers": "COMPUTER PROGRAM / APPLICATION"
+    },
+    "LŢV": {
+        "refers": "ELECTRONIC COMPONENT"
+    },
+    "KŢGL": {
+        "refers": "AUTOMATON (ABSTRACT SELF-PROPELLED COMPUTING DEVICE)"
+    },
+    "KŢGR": {
+        "refers": "ALGORITHMIC COMPUTATION / PROGRAMMING / RUN A COMPUTER PROGRAM"
+    },
+    "MFK": {
+        "refers": "RADIO BROADCASTING AND RECEPTION"
+    }
+}

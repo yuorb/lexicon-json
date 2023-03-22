@@ -1,0 +1,44 @@
+{
+    "RDW": {
+        "refers": "BUILDING CONSTRUCTION"
+    },
+    "SŘ": {
+        "refers": "ROOM / CHAMBER / COMPARTMENT"
+    },
+    "DBR": {
+        "refers": "TOWER / SPIRE"
+    },
+    "KÇM": {
+        "refers": "BALCONY / LANDING / MEZZANINE / LOFT"
+    },
+    "TTĻ": {
+        "refers": "WALL / PARTITION / BARRIER"
+    },
+    "ŢLW": {
+        "refers": "SCREEN"
+    },
+    "KTH": {
+        "refers": "FIRMAMENT / GROUND / FLOOR"
+    },
+    "ŢKY": {
+        "refers": "WINDOW / VIEWING APERTURE"
+    },
+    "ŽTĻ": {
+        "refers": "STAIRCASE / LADDER / PEDESTAL"
+    },
+    "NŽH": {
+        "refers": "BRIDGE / WINCH / BOOM"
+    },
+    "RM": {
+        "refers": "ABODE / DWELLING / DOMICILE / HOUSE"
+    },
+    "RHW": {
+        "refers": "OCCUPANCY / TENANCY / RESIDENCY"
+    },
+    "PHW": {
+        "refers": "URBAN RESIDENCY / SUBURBAN RESIDENCY / RURAL RESIDENCY"
+    },
+    "ČHW": {
+        "refers": "RELOCATION / RESETTLEMENT / MIGRATION / REFUGE"
+    }
+}

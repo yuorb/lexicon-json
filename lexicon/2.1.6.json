@@ -1,0 +1,32 @@
+{
+    "PŢT": {
+        "refers": "FURNITURE / FURNISHING / APPLIANCE"
+    },
+    "SKF": {
+        "refers": "TABLE / SHELF / PLATFORM"
+    },
+    "KŠT": {
+        "refers": "CHAIR / STOOL / THRONE"
+    },
+    "KŠTL": {
+        "refers": "BENCH / COUCH / FUTON"
+    },
+    "NKL": {
+        "refers": "BED / SOFA BED / CHAISE LONGUE"
+    },
+    "JKŢ": {
+        "refers": "WORKBENCH / COUNTERTOP / DRAWING BOARD"
+    },
+    "MTY": {
+        "refers": "CABINET"
+    },
+    "VTŘ": {
+        "refers": "DRAWER / FILING SLOT / RACK"
+    },
+    "ŽNW": {
+        "refers": "CARPET / RUG / MAT"
+    },
+    "ŽNY": {
+        "refers": "PILLOW / CUSHION / BOLSTER"
+    }
+}
