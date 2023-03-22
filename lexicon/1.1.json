@@ -1,6 +1,26 @@
 [
     {
         "root": "S",
-        "refers": "[the “carrier” root]"
+        "refers": "[the “carrier” root]",
+        "stems": [
+            {
+                "BSC": "[carrier stem representing an animate being named by the succeeding foreign or proper name/phrase]",
+                "CTE": "[carrier stem representing the identity of the animate being named by the succeeding foreign or proper name/phrase]",
+                "CSV": "[carrier stem representing the physical presence/body of the animate being named by the succeeding foreign or proper name/phrase]",
+                "OBJ": "that which is impacted/targeted or a patient of the animate being named named by the succeeding foreign or proper name/phrase"
+            },
+            {
+                "BSC": "[stem representing inanimate object or abstract entity named by the succeeding foreign or proper name/phrase]",
+                "CTE": "[stem representing the identity of the inanimate object or abstract entity named by the succeeding foreign or proper name/phrase]",
+                "CSV": "[stem representing the physical presence or body of the inanimate entity or tangible manifestation/effect of the abstract entity named by the succeeding foreign or proper name/phrase]",
+                "OBJ": "that which is impacted/targeted or a patient of the inanimate or abstract entity named by the succeeding foreign or proper name/phrase"
+            },
+            {
+                "BSC": "[stem representing geographical or geo-demographic place/location named by the succeeding foreign or proper name/phrase]",
+                "CTE": "[stem representing the identity of the geographical or geo-demographic place/location named by the succeeding foreign or proper name/phrase]",
+                "CSV": "[stem representing the physical/tangible praxes and/or tangible infrastructure of the geographical or geo-demographic place/location named by the succeeding foreign or proper name/phrase]",
+                "OBJ": "that which is impacted/targeted or a patient of the geographical or geo-demographic place/location named by the succeeding foreign or proper name/phrase"
+            }
+        ]
     }
 ]

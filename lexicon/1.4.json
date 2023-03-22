@@ -1,10 +1,30 @@
 [
     {
         "root": "MPW",
-        "refers": "PHONOLOGICAL COMPONENT OF A SPOKEN LANGUAGE"
+        "refers": "PHONOLOGICAL COMPONENT OF A SPOKEN LANGUAGE",
+        "stems": [
+            {
+                "BSC": "(to be) a phoneme [i.e., the smallest meaningful/salient sonic unit, whether consonantal or vocalic, pronounceable/articulable by the human vocal apparatus, that is cognitively distinct from other such sonic units in a particular human language as heard/distinguished by its native speakers]",
+                "CTE": "(to be) a state/process of hearing/understanding/identifying a spoken phoneme (or graphic/written representation thereof)",
+                "CSV": "(to be) an act of pronouncing/articulating a phoneme; to pronounce/articulate a phoneme (or producing a written representation thereof)",
+                "OBJ": "(to be) the particular place and manner of oral/vocal articulation of a particular phoneme"
+            },
+            "(to be) a phone [i.e., a sound pronounceable/articulable by the human vocal apparatus, regardless of whether it functions meaningfully as part of a phonology in a human language]",
+            "(to be) an allophone [i.e., a particular sonic variation on a archetypal phone identified by native speakers of a language as being a phoneme in that language, the variation being predictable based on the structure of the phonetic environment in which the sound occurs]"
+        ]
     },
     {
         "root": "MPH",
-        "refers": "GRAMMATICAL/MORPHOLOGICAL CATEGORY/FORM OF A LANGUAGE"
+        "refers": "GRAMMATICAL/MORPHOLOGICAL CATEGORY/FORM OF A LANGUAGE",
+        "stems": [
+            {
+                "BSC": "(to be) a grammatical/morphological category in a spoken/written language",
+                "CTE": "(to be) a state/process of hearing/understanding/identifying a grammatical/morphological category in a spoken/written language",
+                "CSV": "(to be) an act of using/speaking/writing a grammatical/morphological category in a spoken/written language",
+                "OBJ": "(to be) the particular phonological form of a grammatical/morphological category in a spoken/written language"
+            },
+            "(to be) the function/purpose/meaning/signification of a particular grammatical/morphological category in a spoken/written language",
+            "(to be) an allomorphic/alternative way of expressing a grammatical/morphological category in a spoken/written language"
+        ]
     }
 ]
