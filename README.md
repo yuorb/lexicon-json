@@ -5,14 +5,13 @@ This repository offers the lexicon of New Ithkuil in json format based on the ht
 ## Format
 
 ```ts
-{
-    [lexicon: string]: {
-        refers: string  
-    }
-}
+Array<{
+    root: string
+    refers: string  
+}>
 ```
 
-The fields will and should be expanded in the future, but at the current stage, the top priority is complete the lexicons.
+The fields will and should be expanded in the future, but at the current stage, the top priority is complete the lexicon.
 
 ## Progress
 
@@ -31,4 +30,4 @@ The fields will and should be expanded in the future, but at the current stage, 
 ```console
 $ deno task minify
 ```
-Generate a minified json to `output/minified.json`, which includes all lexicons.
+Generate a minified json to `output/minified.json`, which includes all the roots.

@@ -1,8 +1,10 @@
-{
-    "ŠXR": {
+[
+    {
+        "root": "ŠXR",
         "refers": "MANIPULATION & HANDLING OF FOODSTUFF WHILE PREPARING OR COOKING IT"
     },
-    "ŠGV": {
+    {
+        "root": "ŠGV",
         "refers": "HOLDING & CONTAINING OF FOODSTUFF FOR PREPARING OR COOKING OR SERVING IT"
     }
-}
+]

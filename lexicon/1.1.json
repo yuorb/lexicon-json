@@ -1,5 +1,6 @@
-{
-    "S": {
+[
+    {
+        "root": "S",
         "refers": "[the “carrier” root]"
     }
-}
+]

@@ -1,44 +1,58 @@
-{
-    "RDW": {
+[
+    {
+        "root": "RDW",
         "refers": "BUILDING CONSTRUCTION"
     },
-    "SŘ": {
+    {
+        "root": "SŘ",
         "refers": "ROOM / CHAMBER / COMPARTMENT"
     },
-    "DBR": {
+    {
+        "root": "DBR",
         "refers": "TOWER / SPIRE"
     },
-    "KÇM": {
+    {
+        "root": "KÇM",
         "refers": "BALCONY / LANDING / MEZZANINE / LOFT"
     },
-    "TTĻ": {
+    {
+        "root": "TTĻ",
         "refers": "WALL / PARTITION / BARRIER"
     },
-    "ŢLW": {
+    {
+        "root": "ŢLW",
         "refers": "SCREEN"
     },
-    "KTH": {
+    {
+        "root": "KTH",
         "refers": "FIRMAMENT / GROUND / FLOOR"
     },
-    "ŢKY": {
+    {
+        "root": "ŢKY",
         "refers": "WINDOW / VIEWING APERTURE"
     },
-    "ŽTĻ": {
+    {
+        "root": "ŽTĻ",
         "refers": "STAIRCASE / LADDER / PEDESTAL"
     },
-    "NŽH": {
+    {
+        "root": "NŽH",
         "refers": "BRIDGE / WINCH / BOOM"
     },
-    "RM": {
+    {
+        "root": "RM",
         "refers": "ABODE / DWELLING / DOMICILE / HOUSE"
     },
-    "RHW": {
+    {
+        "root": "RHW",
         "refers": "OCCUPANCY / TENANCY / RESIDENCY"
     },
-    "PHW": {
+    {
+        "root": "PHW",
         "refers": "URBAN RESIDENCY / SUBURBAN RESIDENCY / RURAL RESIDENCY"
     },
-    "ČHW": {
+    {
+        "root": "ČHW",
         "refers": "RELOCATION / RESETTLEMENT / MIGRATION / REFUGE"
     }
-}
+]

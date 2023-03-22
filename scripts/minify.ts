@@ -1,19 +1,16 @@
 import { ensureDirSync } from "https://deno.land/std@0.144.0/fs/ensure_dir.ts";
 
-type Dict = {
-    [lexicon: string]: {
-        refers: string
-    }
-}
+type Lexion = {
+    root: string,
+    refers: string
+}[]
 
-const target: Dict = {}
+let target: Lexion = []
 
 for (const { name } of Deno.readDirSync("./lexicon")) {
     const text = Deno.readTextFileSync(`lexicon/${name}`);
-    const json: Dict = JSON.parse(text);
-    for (const lexicon in json) {
-        target[lexicon] = json[lexicon];
-    }
+    const json: Lexion = JSON.parse(text);
+    target = target.concat(json)
 }
 
 ensureDirSync('output');

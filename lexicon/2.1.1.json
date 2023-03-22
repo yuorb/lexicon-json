@@ -1,263 +1,350 @@
-{
-    "CŘ": {
+[
+    {
+        "root": "CŘ",
         "refers": "GRIND / PULVERIZE / GRAVEL / GRANULE / POWDER"
     },
-    "KÇ": {
+    {
+        "root": "KÇ",
         "refers": "CUT / STAB / CRACK / FISSURE"
     },
-    "ÇR": {
+    {
+        "root": "ÇR",
         "refers": "SEPARATION / SEVERANCE / DETACHMENT"
     },
-    "ZKR": {
+    {
+        "root": "ZKR",
         "refers": "SLICE / PLANE / SHAVE / SHRED"
     },
-    "PPŠ": {
+    {
+        "root": "PPŠ",
         "refers": "SCRATCH * / SCRAPE / PEEL"
     },
-    "ZC": {
+    {
+        "root": "ZC",
         "refers": "CHOP / DICE / MINCE"
     },
-    "ẒČ": {
+    {
+        "root": "ẒČ",
         "refers": "CARVE / GUT / EVISCERATE"
     },
-    "ẒF": {
+    {
+        "root": "ẒF",
         "refers": "PIERCE / PUNCTURE / BREACH / HOLE / TUNNEL"
     },
-    "JJ": {
+    {
+        "root": "JJ",
         "refers": "DIG / HOLE"
     },
-    "RẒČ": {
+    {
+        "root": "RẒČ",
         "refers": "EXCAVATION / DREDGING / MINING"
     },
-    "ẒDW": {
+    {
+        "root": "ẒDW",
         "refers": "BURROW / HOLLOW OUT"
     },
-    "GŢ": {
+    {
+        "root": "GŢ",
         "refers": "TIGHTNESS / FITTEDNESS / COMPATIBILITY"
     },
-    "FŠ": {
+    {
+        "root": "FŠ",
         "refers": "FITTING / ACCOMMODATION / NICHE"
     },
-    "JP": {
+    {
+        "root": "JP",
         "refers": "STRAIGHTENING / ALIGNMENT"
     },
-    "CGV": {
+    {
+        "root": "CGV",
         "refers": "JUNCTURE OF KINEMATIC PAIR"
     },
-    "TKF": {
+    {
+        "root": "TKF",
         "refers": "MECHANICAL JOINT/PIVOT POINT FOR KINEMATIC PAIR"
     },
-    "LTKF": {
+    {
+        "root": "LTKF",
         "refers": "MECHANICAL JOINT/PIVOT POINT FOR KINEMATIC PAIR"
     },
-    "MZK": {
+    {
+        "root": "MZK",
         "refers": "ENERGY OUTPUT DIFFERENTIAL OR REDIRECTION VIA GEAR MECHANISM"
     },
-    "ŘN": {
+    {
+        "root": "ŘN",
         "refers": "SUSPEND / HANG (UP) / DANGLE / PENDENCY"
     },
-    "ĻX": {
+    {
+        "root": "ĻX",
         "refers": "FLOTATION / HOVERING / DRIFTING / ALOFT"
     },
-    "LŘ": {
+    {
+        "root": "LŘ",
         "refers": "FLATTEN / SMOOTH / LEVEL"
     },
-    "GF": {
+    {
+        "root": "GF",
         "refers": "HOLD TOGETHER / HOLD STILL / BIND / RESTRAIN"
     },
-    "TV": {
+    {
+        "root": "TV",
         "refers": "HOLD UP / SUPPORT / BEAR UP / KEEP ALOFT"
     },
-    "ḐJ": {
+    {
+        "root": "ḐJ",
         "refers": "ERECT / BRING TO A VERTICAL POSITION / RAISE UP"
     },
-    "MJ": {
+    {
+        "root": "MJ",
         "refers": "FELL / BRING DOWN / LOWER"
     },
-    "PD": {
+    {
+        "root": "PD",
         "refers": "GRAB / GRASP / PICK UP / PICK OUT / HANDLE / MANIPULATE"
     },
-    "SČ": {
+    {
+        "root": "SČ",
         "refers": "BREAK APART / BREAK INTO PIECES / CRUMBLE"
     },
-    "RKS": {
+    {
+        "root": "RKS",
         "refers": "SPLIT IN HALF / DIVIDE INTO PARTS / SPLIT OFF A PIECE"
     },
-    "ZN": {
+    {
+        "root": "ZN",
         "refers": "MANUAL MANIPULATION"
     },
-    "ČN": {
+    {
+        "root": "ČN",
         "refers": "MOVE APART / DRAW APART / OPEN"
     },
-    "MC": {
+    {
+        "root": "MC",
         "refers": "JUNCTION / CONNECTION / FASTENING / BONDING"
     },
-    "RMC": {
+    {
+        "root": "RMC",
         "refers": "LINKAGE / UNIFICATION / FUSION / MERGING / COALESCING / MELDING"
     },
-    "JŢ": {
+    {
+        "root": "JŢ",
         "refers": "PENETRATION / DRIVING INTO / INJECTION"
     },
-    "ŇÇ": {
+    {
+        "root": "ŇÇ",
         "refers": "EXTRACTION"
     },
-    "FFR": {
+    {
+        "root": "FFR",
         "refers": "BENDING / DISTORTION / TWISTING / WARPING"
     },
-    "RTV": {
+    {
+        "root": "RTV",
         "refers": "TEMPLATE-BASED FORMATION / DRAWING ( = mechanical process) / EXTRUSION"
     },
-    "DKH": {
+    {
+        "root": "DKH",
         "refers": "BULGING / PROLAPSE / ERUPTION / EXPLOSION"
     },
-    "DBW": {
+    {
+        "root": "DBW",
         "refers": "COLLAPSING / SINKING / IMPLOSION"
     },
-    "ḐŘ": {
+    {
+        "root": "ḐŘ",
         "refers": "STRETCH / ELONGATE / SPREAD"
     },
-    "ŘḐŘ": {
+    {
+        "root": "ŘḐŘ",
         "refers": "STRETCH / ELONGATE / SPREAD [under tension]"
     },
-    "CY": {
+    {
+        "root": "CY",
         "refers": "CLUSTERING / CLUMPING / FLOCK / SWARM / MOB"
     },
-    "D": {
+    {
+        "root": "D",
         "refers": "GROUP / GATHERING / ASSEMBLY / MEETING / CONGREGATION / CONFERENCE / CONGRESS"
     },
-    "CḐ": {
+    {
+        "root": "CḐ",
         "refers": "ADHESION / STICKINESS / AGGREGATION / AGGLOMERATION"
     },
-    "TĻ": {
+    {
+        "root": "TĻ",
         "refers": "COMMENCEMENT / ACTIVATION / INITIATION / INSTIGATION"
     },
-    "PĻ": {
+    {
+        "root": "PĻ",
         "refers": "TURN / VEER / PITCH"
     },
-    "RPĻ": {
+    {
+        "root": "RPĻ",
         "refers": "SPINNING / REVOLVING / ORBIT / ROTATION"
     },
-    "LXR": {
+    {
+        "root": "LXR",
         "refers": "ROLL / WHEELED TRANSLATIVE MOTION / WIND UP OR AROUND"
     },
-    "ČPH": {
+    {
+        "root": "ČPH",
         "refers": "STRIKE / HIT / BLOW / KNOCK / TOPPLE"
     },
-    "ŽN": {
+    {
+        "root": "ŽN",
         "refers": "IMPULSE / PUSHING / PROPULSION"
     },
-    "ŽR": {
+    {
+        "root": "ŽR",
         "refers": "THROWING / LAUNCHING / SHOOTING"
     },
-    "ÇV": {
+    {
+        "root": "ÇV",
         "refers": "TRACTION / DRAWING / PULLING / DRAGGING"
     },
-    "RÇV": {
+    {
+        "root": "RÇV",
         "refers": "MANUAL MEANS OF CARRYING & MOVING A LOAD"
     },
-    "FJ": {
+    {
+        "root": "FJ",
         "refers": "IMPEDE / HINDER / BLOCK / STOP / INTERFERE / INTERRUPTION"
     },
-    "RFJ": {
+    {
+        "root": "RFJ",
         "refers": "CONSTRICTION / SEALING / PLUGGING / PREVENTION"
     },
-    "ŢS": {
+    {
+        "root": "ŢS",
         "refers": "COVERING / SUPERIMPOSITION / ENCASEMENT / SHEATH"
     },
-    "RŢS": {
+    {
+        "root": "RŢS",
         "refers": "TOP / ROOF / VENEER / COATING / MASK"
     },
-    "ŇM": {
+    {
+        "root": "ŇM",
         "refers": "SURFACE APPLICATION / OVERLAY / SPRAY"
     },
-    "ÇDR": {
+    {
+        "root": "ÇDR",
         "refers": "LEVERAGE"
     },
-    "ŢŇ": {
+    {
+        "root": "ŢŇ",
         "refers": "FILL / INUNDATE / FILL-IN / STUFF"
     },
-    "ŠŇ": {
+    {
+        "root": "ŠŇ",
         "refers": "INFLATION / PRESSURIZATION / VENTILATION"
     },
-    "ŠḐ": {
+    {
+        "root": "ŠḐ",
         "refers": "REMOVAL / ELIMINATION / EMPTYING / CLEARING / VACUUM"
     },
-    "XV": {
+    {
+        "root": "XV",
         "refers": "COMPRESSION / COMPACTING / CONCENTRATION / POTENTIAL ENERGY STORAGE"
     },
-    "TÇV": {
+    {
+        "root": "TÇV",
         "refers": "DISSIPATION / DISPERSION / SCATTERING / THINNING / CULLING"
     },
-    "SMY": {
+    {
+        "root": "SMY",
         "refers": "SORTING / STRAINING / SIFTING / AGGREGATION"
     },
-    "SXL": {
+    {
+        "root": "SXL",
         "refers": "FILTRATION / DISCRIMINATION / SEGREGATION"
     },
-    "SXR": {
+    {
+        "root": "SXR",
         "refers": "COMBING / BRUSHING / RAKING / CARDING"
     },
-    "VZD": {
+    {
+        "root": "VZD",
         "refers": "RUBBING / MASSAGING / SCRATCHING"
     },
-    "LŢR": {
+    {
+        "root": "LŢR",
         "refers": "DRAINAGE"
     },
-    "FŢR": {
+    {
+        "root": "FŢR",
         "refers": "RINSING / DRYING / EVAPORATION"
     },
-    "ZŢ": {
+    {
+        "root": "ZŢ",
         "refers": "ABSORPTION / IMBUEMENT / INFILTRATION"
     },
-    "RZŢ": {
+    {
+        "root": "RZŢ",
         "refers": "SOAK / DIFFUSION / PERMEATION / OSMOSIS"
     },
-    "ZW": {
+    {
+        "root": "ZW",
         "refers": "CLEANLINESS / PURITY / DECONTAMINATION / DISINFECTION / SANITATION / HYGIENE"
     },
-    "ŢB": {
+    {
+        "root": "ŢB",
         "refers": "TIDINESS / ORDERLINESS / GROOMING"
     },
-    "ŠNY": {
+    {
+        "root": "ŠNY",
         "refers": "WIPING / MOPPING / CLEANING VIA ABSORPTION"
     },
-    "ŠMW": {
+    {
+        "root": "ŠMW",
         "refers": "MEANS USED FOR WIPING/CLEANING"
     },
-    "ŠMY": {
+    {
+        "root": "ŠMY",
         "refers": "MEANS USED FOR WIPING/CLEANING"
     },
-    "MBW": {
+    {
+        "root": "MBW",
         "refers": "SUCTION / PUMPING"
     },
-    "SJ": {
+    {
+        "root": "SJ",
         "refers": "COMBINE / (INTER-)MINGLE / MIX / BLEND / SYNTHESIS"
     },
-    "RSJ": {
+    {
+        "root": "RSJ",
         "refers": "BLENDING / FUSION / AMALGAMATION / SYNERGY"
     },
-    "RČ": {
+    {
+        "root": "RČ",
         "refers": "DAMAGE / CORRUPTION / SUBVERSION / RUIN / DESTRUCTION / DEMOLISH / ELIMINATION / ERADICATION"
     },
-    "BN": {
+    {
+        "root": "BN",
         "refers": "CHANNEL / STEER / AIM"
     },
-    "ḐC": {
+    {
+        "root": "ḐC",
         "refers": "SAFETY / SECURITY / LOCK"
     },
-    "ÇMY": {
+    {
+        "root": "ÇMY",
         "refers": "BUFFER / FAIL-SAFE / LIAISON"
     },
-    "VTĻ": {
+    {
+        "root": "VTĻ",
         "refers": "HANDLE / MANIPULATIVE ASSISTIVE COMPONENT"
     },
-    "TVY": {
+    {
+        "root": "TVY",
         "refers": "POLARITY / NEUTRALITY"
     },
-    "VPW": {
+    {
+        "root": "VPW",
         "refers": "REFLECTION / REFRACTION / DIFFRACTION"
     },
-    "VPY": {
+    {
+        "root": "VPY",
         "refers": "MACRO=LEVEL REFLECTION / REFRACTION / DIFFRACTION"
     }
-}
+]

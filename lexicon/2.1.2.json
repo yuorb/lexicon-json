@@ -1,44 +1,58 @@
-{
-    "CŇ": {
+[
+    {
+        "root": "CŇ",
         "refers": "PIN / TACK / STAPLE"
     },
-    "ČV": {
+    {
+        "root": "ČV",
         "refers": "TOOL / INSTRUMENT / PIECE OF EQUIPMENT"
     },
-    "RČV": {
+    {
+        "root": "RČV",
         "refers": "UTENSIL / IMPLEMENT / FUEL"
     },
-    "ŢŢ": {
+    {
+        "root": "ŢŢ",
         "refers": "TRY OUT"
     },
-    "SST": {
+    {
+        "root": "SST",
         "refers": "DEVICE / APPARATUS / MACHINE / ENGINE / MOTOR"
     },
-    "SSV": {
+    {
+        "root": "SSV",
         "refers": "DEVISE / CONTRIVANCE / INVENTION"
     },
-    "LPĻ": {
+    {
+        "root": "LPĻ",
         "refers": "TECHNOLOGY"
     },
-    "KŢG": {
+    {
+        "root": "KŢG",
         "refers": "ELECTRONIC COMPUTER / COMPUTER ACCESSORY"
     },
-    "KŢGW": {
+    {
+        "root": "KŢGW",
         "refers": "COMPUTERIZED DEVICE"
     },
-    "KŢGY": {
+    {
+        "root": "KŢGY",
         "refers": "COMPUTER PROGRAM / APPLICATION"
     },
-    "LŢV": {
+    {
+        "root": "LŢV",
         "refers": "ELECTRONIC COMPONENT"
     },
-    "KŢGL": {
+    {
+        "root": "KŢGL",
         "refers": "AUTOMATON (ABSTRACT SELF-PROPELLED COMPUTING DEVICE)"
     },
-    "KŢGR": {
+    {
+        "root": "KŢGR",
         "refers": "ALGORITHMIC COMPUTATION / PROGRAMMING / RUN A COMPUTER PROGRAM"
     },
-    "MFK": {
+    {
+        "root": "MFK",
         "refers": "RADIO BROADCASTING AND RECEPTION"
     }
-}
+]

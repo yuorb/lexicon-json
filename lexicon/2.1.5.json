@@ -1,5 +1,6 @@
-{
-    "LCW": {
+[
+    {
+        "root": "LCW",
         "refers": "BUILDING FIXTURE / ARCHITECTURAL FIXTURE"
     }
-}
+]

@@ -1,434 +1,578 @@
-{
-    "PS": {
+[
+    {
+        "root": "PS",
         "refers": "HAPPEN / OCCUR(ENCE) / MANIFEST / EVENT"
     },
-    "PSM": {
+    {
+        "root": "PSM",
         "refers": "STEP / ACT / ACTION / PHENOMENON / INCIDENT"
     },
-    "ŢT": {
+    {
+        "root": "ŢT",
         "refers": "FACT / KNOW"
     },
-    "RŢT": {
+    {
+        "root": "RŢT",
         "refers": "STUDY / LEARN / KNOWLEDGE SOURCE"
     },
-    "LŢT": {
+    {
+        "root": "LŢT",
         "refers": "VOCATION / CAREER / AREA OF EXPERTISE OR PROFICIENCY"
     },
-    "ŘŢT": {
+    {
+        "root": "ŘŢT",
         "refers": "COMPETENCE / QUALIFICATION"
     },
-    "ŇŢT": {
+    {
+        "root": "ŇŢT",
         "refers": "TEST / EVALUATION / VETTING / EXPERIMENT"
     },
-    "MŢT": {
+    {
+        "root": "MŢT",
         "refers": "DEMONSTRATION / PROOF"
     },
-    "NŢT": {
+    {
+        "root": "NŢT",
         "refers": "SUBJECT / TOPIC / MATTER / THEME / POINT / THESIS"
     },
-    "VL": {
+    {
+        "root": "VL",
         "refers": "REALIZATION / UNDERSTANDING / COMPREHENSION"
     },
-    "ŢK": {
+    {
+        "root": "ŢK",
         "refers": "MAKE / CONSTRUCT / INTEGRATE / FORM"
     },
-    "ŘŢK": {
+    {
+        "root": "ŘŢK",
         "refers": "COMMERCIAL MANUFACTURING / FABRICATION / BUILDING / PRODUCTION / ESTABLISHING"
     },
-    "KSF": {
+    {
+        "root": "KSF",
         "refers": "USE / UTILIZATION / CONSUMPTION / EXPENDITURE"
     },
-    "KŠF": {
+    {
+        "root": "KŠF",
         "refers": "ENGAGEMENT / BE IN PLAY / RECOURSE / AGENCY"
     },
-    "MPR": {
+    {
+        "root": "MPR",
         "refers": "TERMINATION / FINISH / END / FINALITY / COMPLETION"
     },
-    "NY": {
+    {
+        "root": "NY",
         "refers": "CHOICE / PREFERENCE"
     },
-    "RNY": {
+    {
+        "root": "RNY",
         "refers": "SELECTION / ALTERNATIVE / OPTION / VOTING"
     },
-    "SN": {
+    {
+        "root": "SN",
         "refers": "CHANGE / VARIATION / VERSION / DEVIATION"
     },
-    "RSN": {
+    {
+        "root": "RSN",
         "refers": "ALTERATION / MODIFICATION / DIVERSIFICATION / MODULATION"
     },
-    "PŢ": {
+    {
+        "root": "PŢ",
         "refers": "SEEK / SEARCH"
     },
-    "PŢR": {
+    {
+        "root": "PŢR",
         "refers": "EXPLORATION / PURSUIT / HUNTING"
     },
-    "GŠ": {
+    {
+        "root": "GŠ",
         "refers": "LOSE / MISPLACE / SQUANDER / DEPRIVATION / FORFEITURE"
     },
-    "GŠT": {
+    {
+        "root": "GŠT",
         "refers": "DEPRIVATION / BEREAVEMENT / FORFEITURE"
     },
-    "ZD": {
+    {
+        "root": "ZD",
         "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING"
     },
-    "ZDR": {
+    {
+        "root": "ZDR",
         "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING"
     },
-    "ŠT": {
+    {
+        "root": "ŠT",
         "refers": "EXPECTATION / SUSPENSE / ANTICIPATION / VIGIL"
     },
-    "RŠT": {
+    {
+        "root": "RŠT",
         "refers": "PREDICTION / FORESEE / FORECAST"
     },
-    "G": {
+    {
+        "root": "G",
         "refers": "AMBULATION"
     },
-    "GTH": {
+    {
+        "root": "GTH",
         "refers": "MARCHING / PRANCING / RACING / SWAGGERING / SAUNTERING"
     },
-    "MZ": {
+    {
+        "root": "MZ",
         "refers": "REMEMBER / RECALL / MEMORY / MEMORIZATION"
     },
-    "MZM": {
+    {
+        "root": "MZM",
         "refers": "TRACE / VESTIGE / MEMORIAL / ARCHIVAL RECORD"
     },
-    "ŇL": {
+    {
+        "root": "ŇL",
         "refers": "SOLVE / FIGURE OUT"
     },
-    "LLT": {
+    {
+        "root": "LLT",
         "refers": "WONDERING"
     },
-    "CC": {
+    {
+        "root": "CC",
         "refers": "MISTAKE / ERROR / MISCONCEPTION / MISCALCULATION"
     },
-    "CT": {
+    {
+        "root": "CT",
         "refers": "LOOK OVER / EXAMINE / INSPECT"
     },
-    "RCT": {
+    {
+        "root": "RCT",
         "refers": "OBSERVE / SCRUTINIZE / RECONNAISSANCE"
     },
-    "XP": {
+    {
+        "root": "XP",
         "refers": "SUBSTITUTION / TRANSPOSITION / REPLACEMENT"
     },
-    "ČTĻ": {
+    {
+        "root": "ČTĻ",
         "refers": "TRANSPORT STOP / STATION / HARBOR"
     },
-    "RČTĻ": {
+    {
+        "root": "RČTĻ",
         "refers": "AIRPORT / SEAPORT / TRANSPORTATION TERMINAL OR HUB"
     },
-    "ÇL": {
+    {
+        "root": "ÇL",
         "refers": "PREPARATION / PRELIMINARY MEASURE / READINESS"
     },
-    "RÇL": {
+    {
+        "root": "RÇL",
         "refers": "PRECAUTIONARY MEASURE / PRECAUTIONARY TRAINING / CONTINGENCY / BACK-UP"
     },
-    "ŇÇL": {
+    {
+        "root": "ŇÇL",
         "refers": "PROVISION / SUPPLYING / FURNISHING / EQUIPPING"
     },
-    "CPH": {
+    {
+        "root": "CPH",
         "refers": "PRESERVATION / CONSERVATION"
     },
-    "CPR": {
+    {
+        "root": "CPR",
         "refers": "RESCUE / EXTRICATION / DELIVERANCE / SALVATION / LIBERATION / EMANCIPATION"
     },
-    "CX": {
+    {
+        "root": "CX",
         "refers": "MANNER / WAY / GUISE / FORM / BEHAVIOR / COMPORT"
     },
-    "RCX": {
+    {
+        "root": "RCX",
         "refers": "METHOD / PROCEDURE / POLICY / PLAN / STRATEGY"
     },
-    "ŘK": {
+    {
+        "root": "ŘK",
         "refers": "ALIENABLE POSSESSION / OWNERSHIP"
     },
-    "ŘKW": {
+    {
+        "root": "ŘKW",
         "refers": "INALIENABLE POSSESSION / OWNERSHIP"
     },
-    "ŽV": {
+    {
+        "root": "ŽV",
         "refers": "GOOD / BENEFICIAL / ADVANTAGEOUS"
     },
-    "LŽV": {
+    {
+        "root": "LŽV",
         "refers": "FAIRNESS / EQUITABILITY / IMPARTIALITY / REASONABLENESS"
     },
-    "TM": {
+    {
+        "root": "TM",
         "refers": "POWER / EFFORT / OPERATION / FUNCTIONING"
     },
-    "RTM": {
+    {
+        "root": "RTM",
         "refers": "WORK / LABOR / JOB"
     },
-    "ŢP": {
+    {
+        "root": "ŢP",
         "refers": "FACULTY / ATTRIBUTE / QUALITY / TRAIT / PROPERTY / CHARACTERISTIC / FEATURE / ATTRIBUTE"
     },
-    "ÇD": {
+    {
+        "root": "ÇD",
         "refers": "IMPRESSION / APPEARANCE / “LOOK” / SEMBLANCE / ASPECT / GUISE"
     },
-    "GT": {
+    {
+        "root": "GT",
         "refers": "OVERSIGHT / RESPONSIBILITY"
     },
-    "GTR": {
+    {
+        "root": "GTR",
         "refers": "SUPERVISION / REGULATION"
     },
-    "TĻP": {
+    {
+        "root": "TĻP",
         "refers": "PERSONAL RESPONSIBILITY / BLAME / LIABILITY"
     },
-    "ŢPH": {
+    {
+        "root": "ŢPH",
         "refers": "OPENNESS / TRANSPARENCY / STRAIGHTFORWARDNESS / ACCOUNTABIILITY"
     },
-    "TKH": {
+    {
+        "root": "TKH",
         "refers": "RULE / PRECEPT / MAXIM / AXIOM / EDICT"
     },
-    "MČ": {
+    {
+        "root": "MČ",
         "refers": "POWER / EFFICACY / POTENCY"
     },
-    "RMČ": {
+    {
+        "root": "RMČ",
         "refers": "FORCE / EFFECTIVENESS / PRODUCTIVITY"
     },
-    "KSM": {
+    {
+        "root": "KSM",
         "refers": "GEOPOLITICAL COUNTRY/LAND/ TERRITORY/REGION"
     },
-    "RC": {
+    {
+        "root": "RC",
         "refers": "COINCIDENCE / SIMULTANEITY"
     },
-    "ZK": {
+    {
+        "root": "ZK",
         "refers": "STRANGENESS / ODDITY / WEIRDNESS"
     },
-    "SX": {
+    {
+        "root": "SX",
         "refers": "COMPLAINT / GRIEVANCE"
     },
-    "ÇPL": {
+    {
+        "root": "ÇPL",
         "refers": "SECRETION / RESIN / SAP"
     },
-    "PP": {
+    {
+        "root": "PP",
         "refers": "PICK UP / TAKE (IN) / AMASSING / ACQUISITION / PROCUREMENT"
     },
-    "RPP": {
+    {
+        "root": "RPP",
         "refers": "GATHERING / COLLECTION / ACCUMULATION"
     },
-    "LPP": {
+    {
+        "root": "LPP",
         "refers": "ACCRUAL / SAVING UP / HOARDING"
     },
-    "LÇM": {
+    {
+        "root": "LÇM",
         "refers": "SIGNATURE / PERSONAL AUTHORIZATION / PERSONAL AUTHENTICATION"
     },
-    "ŇF": {
+    {
+        "root": "ŇF",
         "refers": "PROBLEM / MYSTERY"
     },
-    "RŇF": {
+    {
+        "root": "RŇF",
         "refers": "TROUBLE / MISFORTUNE / DISASTER / CALAMITY"
     },
-    "ŠY": {
+    {
+        "root": "ŠY",
         "refers": "RAISE / FOSTER / NURTURE / CULTIVATE"
     },
-    "ÇTR": {
+    {
+        "root": "ÇTR",
         "refers": "PUZZLE / RIDDLE"
     },
-    "ZJ": {
+    {
+        "root": "ZJ",
         "refers": "CONCEALMENT / SECRECY"
     },
-    "FH": {
+    {
+        "root": "FH",
         "refers": "FIND / DISCOVER / ENCOUNTER / MEET"
     },
-    "MĻ": {
+    {
+        "root": "MĻ",
         "refers": "OBSCURITY / AMBIGUITY / STEALTH / SURREPTITIOUSNESS"
     },
-    "ẒŘ": {
+    {
+        "root": "ẒŘ",
         "refers": "SLOT / GROOVE / FURROW"
     },
-    "RÇ": {
+    {
+        "root": "RÇ",
         "refers": "AESTHETIC APPEAL / PRETTINESS / LOVELINESS / BEAUTY"
     },
-    "ĻN": {
+    {
+        "root": "ĻN",
         "refers": "VALUE / EXPEDIENCE / SUITABILITY"
     },
-    "RĻN": {
+    {
+        "root": "RĻN",
         "refers": "ADVANTAGE / OPPORTUNITY / CONVENIENCE"
     },
-    "MÇ": {
+    {
+        "root": "MÇ",
         "refers": "WELL-FORMEDNESS / AESTHETIC APPEAL / STYLISHNESS / PERFECTION / SPLENDOR"
     },
-    "MÇK": {
+    {
+        "root": "MÇK",
         "refers": "PERFECTION / OPTIMALITY / EXQUISITENESS / SUBLIMITY / SPLENDIDNESS"
     },
-    "KÇT": {
+    {
+        "root": "KÇT",
         "refers": "DECORATION / FANCINESS / ORNATENESS / ORNAMENTATION"
     },
-    "ŘŘ": {
+    {
+        "root": "ŘŘ",
         "refers": "INTENSIFICATION / AMELIORATION / IMPROVEMENT / AGGRAVATION / WORSENING"
     },
-    "TĻT": {
+    {
+        "root": "TĻT",
         "refers": "ADJUSTMENT / REPAIR / MENDING / RESTORATION / CORRECTION"
     },
-    "ŢJ": {
+    {
+        "root": "ŢJ",
         "refers": "EMPHASIS / HIGHLIGHT / UNDERSCORE / IMPRESS UPON / RAVE ABOUT"
     },
-    "VŠ": {
+    {
+        "root": "VŠ",
         "refers": "SHREWDNESS / ARTFULNESS / CRAFTINESS"
     },
-    "KH": {
+    {
+        "root": "KH",
         "refers": "DEGREE OF SUBTLETY / NUANCE / CUNNING / GUILE / STEALTH / INSIDIOUSNESS"
     },
-    "VSK": {
+    {
+        "root": "VSK",
         "refers": "SURVEILLANCE / RECONNAISSANCE / UNDERCOVER OPERATION / ESPIONAGE"
     },
-    "LČ": {
+    {
+        "root": "LČ",
         "refers": "GUESS / SPECULATION / SUPPOSITION / ASSUMPTION"
     },
-    "LČW": {
+    {
+        "root": "LČW",
         "refers": "CONJECTURE / POSTULATING / THEORY / HYPOTHESIS"
     },
-    "ŠH": {
+    {
+        "root": "ŠH",
         "refers": "IMPORTANCE / SIGNIFICANCE / PREVALENCE / CONSPICUOUSNESS / PROMINENCE"
     },
-    "ŇČ": {
+    {
+        "root": "ŇČ",
         "refers": "INFLUENCE / PERSUASION / PREDOMINANCE"
     },
-    "RŇČ": {
+    {
+        "root": "RŇČ",
         "refers": "INCITING / INSTIGATION / ENCOURAGEMENT / ADVOCACY"
     },
-    "ČPĻ": {
+    {
+        "root": "ČPĻ",
         "refers": "USE OF FORCE / COERCION / COMPULSION"
     },
-    "JR": {
+    {
+        "root": "JR",
         "refers": "RIDE / DRIVE / TRANSPORT / PASSENGER"
     },
-    "PŠW": {
+    {
+        "root": "PŠW",
         "refers": "STATION-KEEPING / PARKING / HOLDING AREA / WAITING AREA"
     },
-    "SC": {
+    {
+        "root": "SC",
         "refers": "WASH / LAVE / BATHE / RINSE"
     },
-    "MÇT": {
+    {
+        "root": "MÇT",
         "refers": "EXAMPLE / EXEMPLAR / PRECEDENT / ARCHETYPE"
     },
-    "VLL": {
+    {
+        "root": "VLL",
         "refers": "IMPLICATION / HINT / CONNOTATION / ALLUSION"
     },
-    "ÇÇK": {
+    {
+        "root": "ÇÇK",
         "refers": "MAXIMIZATION / OPTIMALITY / SUPREMACY"
     },
-    "LXL": {
+    {
+        "root": "LXL",
         "refers": "SCIENCE"
     },
-    "LDR": {
+    {
+        "root": "LDR",
         "refers": "APPEAR / SHOW / DISPLAY / EXHIBIT"
     },
-    "DRR": {
+    {
+        "root": "DRR",
         "refers": "CALLING ATTENTION TO / EXPOSURE / ADVERTISING"
     },
-    "ŢRR": {
+    {
+        "root": "ŢRR",
         "refers": "ANNOUNCEMENT / DECLARATION / PRONOUNCEMENT / PROCLAMATION"
     },
-    "ŽW": {
+    {
+        "root": "ŽW",
         "refers": "KIND / SORT / TYPE / GENRE / CLASS / CATEGORIZATION / MODE / MANNER / WAY"
     },
-    "MTF": {
+    {
+        "root": "MTF",
         "refers": "LIST / SERIES / FILE"
     },
-    "ŇŢ": {
+    {
+        "root": "ŇŢ",
         "refers": "DEGREE OF CORRECTNESS/ACCURACY/ERROR/SUITABILITY/FITNESS"
     },
-    "ŘḐ": {
+    {
+        "root": "ŘḐ",
         "refers": "DEGREE OF EXACTITUDE"
     },
-    "RX": {
+    {
+        "root": "RX",
         "refers": "DEGREE OF SIMILARITY / RESEMBLANCE"
     },
-    "RK": {
+    {
+        "root": "RK",
         "refers": "DEGREE/RANGE/EXTENT/INTENSITY"
     },
-    "RT": {
+    {
+        "root": "RT",
         "refers": "SUFFICIENCY/ADEQUACY"
     },
-    "MH": {
+    {
+        "root": "MH",
         "refers": "DEGREE OF CHANGE/STABILITY/VICISSITUDE/FLUCTUATION"
     },
-    "RG": {
+    {
+        "root": "RG",
         "refers": "DEGREE OF STEADFASTNESS/MOBILITY/MOTILITY/ACTIVITY/MOVEMENT"
     },
-    "ČH": {
+    {
+        "root": "ČH",
         "refers": "DEGREE OF AFFECT (CUTENESS/GRANDEUR)"
     },
-    "TH": {
+    {
+        "root": "TH",
         "refers": "DEGREE OF RELIABILITY/INFALLIBILITY/QUALITY"
     },
-    "ŘP": {
+    {
+        "root": "ŘP",
         "refers": "DEGREE OF SPECIALNESS/UNIQUENESS/MARVELOUSNESS"
     },
-    "ŘV": {
+    {
+        "root": "ŘV",
         "refers": "CONSEQUENCE/OUTCOME/RESULT"
     },
-    "ŘG": {
+    {
+        "root": "ŘG",
         "refers": "DEGREE OF CONFORMITY/TYPICALNESS"
     },
-    "RD": {
+    {
+        "root": "RD",
         "refers": "DEGREE OF TRUTH/GENUINENESS/VERACITY/VALIDITY/FACTUALITY"
     },
-    "ŢM": {
+    {
+        "root": "ŢM",
         "refers": "DEGREE OF INTENSITY"
     },
-    "FŢ": {
+    {
+        "root": "FŢ",
         "refers": "DEGREE OF EFFICIENCY/ADEQUACY"
     },
-    "KŢ": {
+    {
+        "root": "KŢ",
         "refers": "DEVELOPMENT / GROWTH / MATURATION / DECLINE"
     },
-    "PH": {
+    {
+        "root": "PH",
         "refers": "DEGREE OF PRECISION / DEFINITION / SCRUTINY"
     },
-    "ŢX": {
+    {
+        "root": "ŢX",
         "refers": "DEGREE OF SOPHISTICATION/CRUDENESS/REFINEMENT/PRIMITIVENESS"
     },
-    "ŇŘ": {
+    {
+        "root": "ŇŘ",
         "refers": "IMPEDIMENT / BLOCKAGE / RESTRICTION / CONSTRAINT / LIMITING / PREVENTION"
     },
-    "ČM": {
+    {
+        "root": "ČM",
         "refers": "DEGREE OF EASE vs. DIFFICULTY"
     },
-    "KP": {
+    {
+        "root": "KP",
         "refers": "DEGREE OF EFFORT"
     },
-    "VH": {
+    {
+        "root": "VH",
         "refers": "DEGREE OF DESIGN / ORDER / ORGANIZATION / SYSTEMATIZATION"
     },
-    "JH": {
+    {
+        "root": "JH",
         "refers": "DEGREE OF PHYSICAL CONTROL"
     },
-    "PT": {
+    {
+        "root": "PT",
         "refers": "DEGREE OF RISK / DANGER"
     },
-    "ŘČ": {
+    {
+        "root": "ŘČ",
         "refers": "DEGREE OF OPERATIONAL FUNCTIONALITY / ACTIVITY / EFFICACY"
     },
-    "BŇ": {
+    {
+        "root": "BŇ",
         "refers": "DEGREE OF NATURAL CAPACITY / TALENT / SKILL"
     },
-    "SP": {
+    {
+        "root": "SP",
         "refers": "DEGREE OF NEWNESS"
     },
-    "Ž": {
+    {
+        "root": "Ž",
         "refers": "CAPACITY / ABILITY / CAPABILITY"
     },
-    "ÇN": {
+    {
+        "root": "ÇN",
         "refers": "SOURCE / ORIGIN / START / BEGINNING"
     },
-    "RÇN": {
+    {
+        "root": "RÇN",
         "refers": "ELEMENT / FUNDAMENTAL BASIS / FOUNDATIONAL PRINCIPLE"
     },
-    "R": {
+    {
+        "root": "R",
         "refers": "NEGATION / DENIAL / ABSENCE"
     },
-    "RXW": {
+    {
+        "root": "RXW",
         "refers": "NULLIFICATION / ABROGATION / CONTRADICTION / CONTRAVENTION"
     },
-    "PŘ": {
+    {
+        "root": "PŘ",
         "refers": "ACCESS / PASSAGE(WAY) / DOORWAY / GATEWAY / PORTAL / ENTRY(WAY) / EXIT"
     },
-    "ŢD": {
+    {
+        "root": "ŢD",
         "refers": "PHYSICAL CONTACT"
     },
-    "SK": {
+    {
+        "root": "SK",
         "refers": "CONTAIN / HOLD / CONTENTS / ENCLOSURE / SURROUNDING / ENVELOPMENT"
     },
-    "THW": {
+    {
+        "root": "THW",
         "refers": "COMPONENT / PART / INGREDIENT"
     }
-}
+]
