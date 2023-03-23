@@ -40,9 +40,16 @@ The fields will and should be expanded in the future, but at the current stage, 
 
 ## Scripts
 
-### Minify
+### `json`
 
 ```console
-$ deno task minify
+$ deno task json
 ```
-Generate a minified json to `output/minified.json`, which includes all the roots.
+Generate a minified json file to `output/lexicon.json`, which includes all the roots.
+
+### `yaml`
+
+```console
+$ deno task yaml
+```
+Generate a yaml file to `output/lexicon.yaml`, which includes all the roots.
