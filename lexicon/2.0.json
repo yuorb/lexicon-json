@@ -1,578 +1,2018 @@
 [
     {
         "root": "PS",
-        "refers": "HAPPEN / OCCUR(ENCE) / MANIFEST / EVENT"
+        "refers": "HAPPEN / OCCUR(ENCE) / MANIFEST / EVENT",
+        "stems": [
+            {
+                "BSC": "(to be) an occurrence of something; to happen / occur / take place / transpire / to “pass” [both the content/nature of the event and its transpiring",
+                "CTE": "(to be) a state of something occurring/transpiring of an act/event/state",
+                "CSV": "(to be) an act of (causing) something to happen/occur",
+                "OBJ": "(to be) that which happens/occurs/transpires"
+            },
+            "a state/act of manifesting; be or make real / reify",
+            "event (spatio-temporal context)"
+        ]
     },
     {
         "root": "PSM",
-        "refers": "STEP / ACT / ACTION / PHENOMENON / INCIDENT"
+        "refers": "STEP / ACT / ACTION / PHENOMENON / INCIDENT",
+        "stems": [
+            {
+                "BSC": "(to be) a step/act/action (to be) taken; to take a step (to do/accomplish something), to act (in order to do/accomplish something), to take an action (to do something",
+                "CTE": "(to be) a state of a step/act/action occurring/transpiring/being taken",
+                "CSV": "(to be) an act of taking a step or action to cause something to happen/occur",
+                "OBJ": "(to be) the step/act/action one takes to so something"
+            },
+            "(to be) a phenomenon; for a phenomenon to happen [i.e., an event/occurrence/state so unusual, surprising, unlikely, or consequential as to be significant]",
+            "(to be) an incident [i.e., an event/occurrence with significant and (potentially) adverse/undesirable consequences]"
+        ]
     },
     {
         "root": "ŢT",
-        "refers": "FACT / KNOW"
+        "refers": "FACT / KNOW",
+        "stems": [
+            {
+                "BSC": "(to be) an act of knowing an ontological fact; to know an ontological fact [ = have awareness/understanding of and ability to recall an ontological fact]",
+                "CTE": "(to be) the ability/capacity to know an ontological fact",
+                "CSV": "(to be) the physical/mental process of (an act of) knowing an ontological fact",
+                "OBJ": "(to be) an ontological fact; (to be) the ontological fact one knows"
+            },
+            "(to be) epistemological/conventionalized fact; know [ = have awareness/understanding and ability to recall] an epistemological/conventionalized fact",
+            "(to be) something known via experience/proficiency; know via familiarity or experience]"
+        ]
     },
     {
         "root": "RŢT",
-        "refers": "STUDY / LEARN / KNOWLEDGE SOURCE"
+        "refers": "STUDY / LEARN / KNOWLEDGE SOURCE",
+        "stems": [
+            {
+                "BSC": "(to be) an act of studying/learning knowledge; to study [CPT version = learn]",
+                "CTE": "(to be) the ability/capacity to study [CPT version = learn]",
+                "CSV": "(to be) a physical act/process of studying [CPT version = learning]",
+                "OBJ": "(to be) what one studies or learns about"
+            },
+            "(to be) an act of practicing; to practice CPT = be proficient at; have proficiency in",
+            "(to be) a source of knowledge, a resource from which facts can be learned, a knowledge base"
+        ]
     },
     {
         "root": "LŢT",
-        "refers": "VOCATION / CAREER / AREA OF EXPERTISE OR PROFICIENCY"
+        "refers": "VOCATION / CAREER / AREA OF EXPERTISE OR PROFICIENCY",
+        "stems": [
+            {
+                "BSC": "(to be) a state/process of pursuing a vocation; to pursue a vocation [i.e., a skill or subject matter one is dedicated to learning and practicing] CPT Version = (to be) a state/process of having/practicing a vocation; to have/practice a vocation",
+                "CTE": "(to be) the ability/capacity to pursue/study [CPT version = practice/engage in] one’s vocation",
+                "CSV": "(to be) a state/process of learning/studying/practicing for one’s vocation; to study/learn/practice infurtherance of one’s vocation CPT = to perform or carry out an act as part of one’s vocation",
+                "OBJ": "(to be) (the particular set of skills or subject matter which is) one’s vocation"
+            },
+            "(to be) a state/process of pursing a career; pursue a career [i.e., one’s chosen set of skills/knowledge/expertise for making one’s living]",
+            "(to be) a state/process of learning/studying an area of expertise; to pursue becoming proficient/expert at something CPT = (to be/have) proficiency/expertise in something"
+        ]
     },
     {
         "root": "ŘŢT",
-        "refers": "COMPETENCE / QUALIFICATION"
+        "refers": "COMPETENCE / QUALIFICATION",
+        "stems": [
+            {
+                "BSC": "(to be) a state/instance of being competent; to be competent (i.e., able to meet expected standards of performance in one’s work/duties)",
+                "CTE": "(to be) the feeling/subjective experience of being competent; to experience the feeling of knowing one is competent",
+                "CSV": "(to be) a physical manifestation of competency; to do something competently or that demonstrates competence",
+                "OBJ": "(to be) what one is competent at"
+            },
+            "(to be) a state/instance of being qualified for something, meeting qualifications for something; to be qualified at/for something, to meet the qualifications for something [i.e., where the qualifying criteria are skill-, knowledge-, or experience-based]",
+            "(to be) a state of/instance of being qualified for something, meeting qualifications for something; to be qualified at/for something, to meet the qualifications for something [i.e., where the qualifying criteria are NOT skill-, knowledge-, or experience-based, but rather are based on an external parameter such as age, height, weight, nationality, one’s religion, one’s location, being in a certain profession, etc.]"
+        ]
     },
     {
         "root": "ŇŢT",
-        "refers": "TEST / EVALUATION / VETTING / EXPERIMENT"
+        "refers": "TEST / EVALUATION / VETTING / EXPERIMENT",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of testing a party/entity (i.e., subjecting a party/entity to a process by which it/they must prove/demonstrate that it /they meet some standard or expected level of performance/knowledge/skill/talent, etc.)",
+                "CTE": "(to be) a state of being subject to testing",
+                "CSV": "(to be) the physical act/process of testing a party/entity; to test, to give a test/exam",
+                "OBJ": "(to be) the test/exam itself which the party/entity takes or is subjected to"
+            },
+            "(to be) a vetting/evaluation process (i.e., a process of investigating/evaluating a party/entity to determine that they meet some standard or expected level of performance/skill/background, etc.); to vet, to evaluate",
+            "(to be) an experiment/test (i.e., a clinical procedure to determine the validity of a specific hypothesis, to determine the presence/absence of (a) particular substance(s), etc.; to conduct an experiment or clinical test"
+        ]
     },
     {
         "root": "MŢT",
-        "refers": "DEMONSTRATION / PROOF"
+        "refers": "DEMONSTRATION / PROOF",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of demonstrating the factuality of something; to demonstrate that something is so CPT Version = verification; to verify",
+                "CTE": "(to be) a state of being subject to demonstration, being demonstrated",
+                "CSV": "(to be) the physical act/process of demonstrating something; to do something that demonstrates something is so",
+                "OBJ": "(to be) that which is (to be) demonstrated"
+            },
+            "(to be) a state/act of proving, presenting evidence that attempts to prove something; to attempt to prove, to present evidence that attempts to prove something CPT Version = proof; to prove",
+            "(to be) a state of establishing/meeting a standard of proof; to establish or meet a standard of proof"
+        ]
     },
     {
         "root": "NŢT",
-        "refers": "SUBJECT / TOPIC / MATTER / THEME / POINT / THESIS"
+        "refers": "SUBJECT / TOPIC / MATTER / THEME / POINT / THESIS",
+        "stems": [
+            {
+                "BSC": "(to be) the topic / subject / subject matter / matter at hand; to address/discuss/ deal with a particular topic / subject (i.e., what is at hand, in mind, under consideration, under advisement, at issue, in question, etc.)",
+                "CTE": "(to be) a state of there being a topic/subject/subject matter/theme",
+                "CSV": "(to be) an act/process of addressing or dealing with a particular topic/subject/theme",
+                "OBJ": "(to be) one’s opinion/take/perspective/point of view/contribution on a topic/subject/theme"
+            },
+            "(to be) the point/argument* one wishes/tries to make (e.g., in a discussion, an essay, an article, a speech, a briefing, etc.); to try to make one’s point [i.e., try to get one’s audience to understand or accept one’s opinion or conclusions]. CPT Version = succeed in making one’s point",
+            "(to be) a thesis; to present a thesis (i.e., a conclusion about something based on a formal analysis and presentation of evidence)"
+        ]
     },
     {
         "root": "VL",
-        "refers": "REALIZATION / UNDERSTANDING / COMPREHENSION"
+        "refers": "REALIZATION / UNDERSTANDING / COMPREHENSION",
+        "stems": [
+            {
+                "BSC": "(to be) an act of realizing something; to realize [ = understand via act of insight/intuition]",
+                "CTE": "(to be) the ability/capacity to realize something",
+                "CSV": "(to be) the physical/mental process of (an act of) realizing something",
+                "OBJ": "(to be) what one realizes"
+            },
+            "(to be) an act of understanding/comprehending something; to understand or comprehend something [ = know via a process of personal and/or shared analysis/contemplation/introspection/discussion]",
+            "(to be) an act of understanding/comprehending something: understand or comprehend something [ = due to intelligibility/distinctness/clarity/coherence/legibility/lucidity of input/medium/message/material]"
+        ]
     },
     {
         "root": "ŢK",
-        "refers": "MAKE / CONSTRUCT / INTEGRATE / FORM"
+        "refers": "MAKE / CONSTRUCT / INTEGRATE / FORM",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘŢK",
-        "refers": "COMMERCIAL MANUFACTURING / FABRICATION / BUILDING / PRODUCTION / ESTABLISHING"
+        "refers": "COMMERCIAL MANUFACTURING / FABRICATION / BUILDING / PRODUCTION / ESTABLISHING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KSF",
-        "refers": "USE / UTILIZATION / CONSUMPTION / EXPENDITURE"
+        "refers": "USE / UTILIZATION / CONSUMPTION / EXPENDITURE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KŠF",
-        "refers": "ENGAGEMENT / BE IN PLAY / RECOURSE / AGENCY"
+        "refers": "ENGAGEMENT / BE IN PLAY / RECOURSE / AGENCY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MPR",
-        "refers": "TERMINATION / FINISH / END / FINALITY / COMPLETION"
+        "refers": "TERMINATION / FINISH / END / FINALITY / COMPLETION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "NY",
-        "refers": "CHOICE / PREFERENCE"
+        "refers": "CHOICE / PREFERENCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RNY",
-        "refers": "SELECTION / ALTERNATIVE / OPTION / VOTING"
+        "refers": "SELECTION / ALTERNATIVE / OPTION / VOTING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "SN",
-        "refers": "CHANGE / VARIATION / VERSION / DEVIATION"
+        "refers": "CHANGE / VARIATION / VERSION / DEVIATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RSN",
-        "refers": "ALTERATION / MODIFICATION / DIVERSIFICATION / MODULATION"
+        "refers": "ALTERATION / MODIFICATION / DIVERSIFICATION / MODULATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PŢ",
-        "refers": "SEEK / SEARCH"
+        "refers": "SEEK / SEARCH",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PŢR",
-        "refers": "EXPLORATION / PURSUIT / HUNTING"
+        "refers": "EXPLORATION / PURSUIT / HUNTING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "GŠ",
-        "refers": "LOSE / MISPLACE / SQUANDER / DEPRIVATION / FORFEITURE"
+        "refers": "LOSE / MISPLACE / SQUANDER / DEPRIVATION / FORFEITURE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "GŠT",
-        "refers": "DEPRIVATION / BEREAVEMENT / FORFEITURE"
+        "refers": "DEPRIVATION / BEREAVEMENT / FORFEITURE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ZD",
-        "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING"
+        "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ZDR",
-        "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING"
+        "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŠT",
-        "refers": "EXPECTATION / SUSPENSE / ANTICIPATION / VIGIL"
+        "refers": "EXPECTATION / SUSPENSE / ANTICIPATION / VIGIL",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RŠT",
-        "refers": "PREDICTION / FORESEE / FORECAST"
+        "refers": "PREDICTION / FORESEE / FORECAST",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "G",
-        "refers": "AMBULATION"
+        "refers": "AMBULATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "GTH",
-        "refers": "MARCHING / PRANCING / RACING / SWAGGERING / SAUNTERING"
+        "refers": "MARCHING / PRANCING / RACING / SWAGGERING / SAUNTERING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MZ",
-        "refers": "REMEMBER / RECALL / MEMORY / MEMORIZATION"
+        "refers": "REMEMBER / RECALL / MEMORY / MEMORIZATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MZM",
-        "refers": "TRACE / VESTIGE / MEMORIAL / ARCHIVAL RECORD"
+        "refers": "TRACE / VESTIGE / MEMORIAL / ARCHIVAL RECORD",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŇL",
-        "refers": "SOLVE / FIGURE OUT"
+        "refers": "SOLVE / FIGURE OUT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LLT",
-        "refers": "WONDERING"
+        "refers": "WONDERING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "CC",
-        "refers": "MISTAKE / ERROR / MISCONCEPTION / MISCALCULATION"
+        "refers": "MISTAKE / ERROR / MISCONCEPTION / MISCALCULATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "CT",
-        "refers": "LOOK OVER / EXAMINE / INSPECT"
+        "refers": "LOOK OVER / EXAMINE / INSPECT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RCT",
-        "refers": "OBSERVE / SCRUTINIZE / RECONNAISSANCE"
+        "refers": "OBSERVE / SCRUTINIZE / RECONNAISSANCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "XP",
-        "refers": "SUBSTITUTION / TRANSPOSITION / REPLACEMENT"
+        "refers": "SUBSTITUTION / TRANSPOSITION / REPLACEMENT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ČTĻ",
-        "refers": "TRANSPORT STOP / STATION / HARBOR"
+        "refers": "TRANSPORT STOP / STATION / HARBOR",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RČTĻ",
-        "refers": "AIRPORT / SEAPORT / TRANSPORTATION TERMINAL OR HUB"
+        "refers": "AIRPORT / SEAPORT / TRANSPORTATION TERMINAL OR HUB",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ÇL",
-        "refers": "PREPARATION / PRELIMINARY MEASURE / READINESS"
+        "refers": "PREPARATION / PRELIMINARY MEASURE / READINESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RÇL",
-        "refers": "PRECAUTIONARY MEASURE / PRECAUTIONARY TRAINING / CONTINGENCY / BACK-UP"
+        "refers": "PRECAUTIONARY MEASURE / PRECAUTIONARY TRAINING / CONTINGENCY / BACK-UP",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŇÇL",
-        "refers": "PROVISION / SUPPLYING / FURNISHING / EQUIPPING"
+        "refers": "PROVISION / SUPPLYING / FURNISHING / EQUIPPING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "CPH",
-        "refers": "PRESERVATION / CONSERVATION"
+        "refers": "PRESERVATION / CONSERVATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "CPR",
-        "refers": "RESCUE / EXTRICATION / DELIVERANCE / SALVATION / LIBERATION / EMANCIPATION"
+        "refers": "RESCUE / EXTRICATION / DELIVERANCE / SALVATION / LIBERATION / EMANCIPATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "CX",
-        "refers": "MANNER / WAY / GUISE / FORM / BEHAVIOR / COMPORT"
+        "refers": "MANNER / WAY / GUISE / FORM / BEHAVIOR / COMPORT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RCX",
-        "refers": "METHOD / PROCEDURE / POLICY / PLAN / STRATEGY"
+        "refers": "METHOD / PROCEDURE / POLICY / PLAN / STRATEGY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘK",
-        "refers": "ALIENABLE POSSESSION / OWNERSHIP"
+        "refers": "ALIENABLE POSSESSION / OWNERSHIP",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘKW",
-        "refers": "INALIENABLE POSSESSION / OWNERSHIP"
+        "refers": "INALIENABLE POSSESSION / OWNERSHIP",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŽV",
-        "refers": "GOOD / BENEFICIAL / ADVANTAGEOUS"
+        "refers": "GOOD / BENEFICIAL / ADVANTAGEOUS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LŽV",
-        "refers": "FAIRNESS / EQUITABILITY / IMPARTIALITY / REASONABLENESS"
+        "refers": "FAIRNESS / EQUITABILITY / IMPARTIALITY / REASONABLENESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "TM",
-        "refers": "POWER / EFFORT / OPERATION / FUNCTIONING"
+        "refers": "POWER / EFFORT / OPERATION / FUNCTIONING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RTM",
-        "refers": "WORK / LABOR / JOB"
+        "refers": "WORK / LABOR / JOB",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢP",
-        "refers": "FACULTY / ATTRIBUTE / QUALITY / TRAIT / PROPERTY / CHARACTERISTIC / FEATURE / ATTRIBUTE"
+        "refers": "FACULTY / ATTRIBUTE / QUALITY / TRAIT / PROPERTY / CHARACTERISTIC / FEATURE / ATTRIBUTE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ÇD",
-        "refers": "IMPRESSION / APPEARANCE / “LOOK” / SEMBLANCE / ASPECT / GUISE"
+        "refers": "IMPRESSION / APPEARANCE / “LOOK” / SEMBLANCE / ASPECT / GUISE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "GT",
-        "refers": "OVERSIGHT / RESPONSIBILITY"
+        "refers": "OVERSIGHT / RESPONSIBILITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "GTR",
-        "refers": "SUPERVISION / REGULATION"
+        "refers": "SUPERVISION / REGULATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "TĻP",
-        "refers": "PERSONAL RESPONSIBILITY / BLAME / LIABILITY"
+        "refers": "PERSONAL RESPONSIBILITY / BLAME / LIABILITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢPH",
-        "refers": "OPENNESS / TRANSPARENCY / STRAIGHTFORWARDNESS / ACCOUNTABIILITY"
+        "refers": "OPENNESS / TRANSPARENCY / STRAIGHTFORWARDNESS / ACCOUNTABIILITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "TKH",
-        "refers": "RULE / PRECEPT / MAXIM / AXIOM / EDICT"
+        "refers": "RULE / PRECEPT / MAXIM / AXIOM / EDICT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MČ",
-        "refers": "POWER / EFFICACY / POTENCY"
+        "refers": "POWER / EFFICACY / POTENCY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RMČ",
-        "refers": "FORCE / EFFECTIVENESS / PRODUCTIVITY"
+        "refers": "FORCE / EFFECTIVENESS / PRODUCTIVITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KSM",
-        "refers": "GEOPOLITICAL COUNTRY/LAND/ TERRITORY/REGION"
+        "refers": "GEOPOLITICAL COUNTRY/LAND/ TERRITORY/REGION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RC",
-        "refers": "COINCIDENCE / SIMULTANEITY"
+        "refers": "COINCIDENCE / SIMULTANEITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ZK",
-        "refers": "STRANGENESS / ODDITY / WEIRDNESS"
+        "refers": "STRANGENESS / ODDITY / WEIRDNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "SX",
-        "refers": "COMPLAINT / GRIEVANCE"
+        "refers": "COMPLAINT / GRIEVANCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ÇPL",
-        "refers": "SECRETION / RESIN / SAP"
+        "refers": "SECRETION / RESIN / SAP",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PP",
-        "refers": "PICK UP / TAKE (IN) / AMASSING / ACQUISITION / PROCUREMENT"
+        "refers": "PICK UP / TAKE (IN) / AMASSING / ACQUISITION / PROCUREMENT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RPP",
-        "refers": "GATHERING / COLLECTION / ACCUMULATION"
+        "refers": "GATHERING / COLLECTION / ACCUMULATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LPP",
-        "refers": "ACCRUAL / SAVING UP / HOARDING"
+        "refers": "ACCRUAL / SAVING UP / HOARDING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LÇM",
-        "refers": "SIGNATURE / PERSONAL AUTHORIZATION / PERSONAL AUTHENTICATION"
+        "refers": "SIGNATURE / PERSONAL AUTHORIZATION / PERSONAL AUTHENTICATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŇF",
-        "refers": "PROBLEM / MYSTERY"
+        "refers": "PROBLEM / MYSTERY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RŇF",
-        "refers": "TROUBLE / MISFORTUNE / DISASTER / CALAMITY"
+        "refers": "TROUBLE / MISFORTUNE / DISASTER / CALAMITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŠY",
-        "refers": "RAISE / FOSTER / NURTURE / CULTIVATE"
+        "refers": "RAISE / FOSTER / NURTURE / CULTIVATE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ÇTR",
-        "refers": "PUZZLE / RIDDLE"
+        "refers": "PUZZLE / RIDDLE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ZJ",
-        "refers": "CONCEALMENT / SECRECY"
+        "refers": "CONCEALMENT / SECRECY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "FH",
-        "refers": "FIND / DISCOVER / ENCOUNTER / MEET"
+        "refers": "FIND / DISCOVER / ENCOUNTER / MEET",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MĻ",
-        "refers": "OBSCURITY / AMBIGUITY / STEALTH / SURREPTITIOUSNESS"
+        "refers": "OBSCURITY / AMBIGUITY / STEALTH / SURREPTITIOUSNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ẒŘ",
-        "refers": "SLOT / GROOVE / FURROW"
+        "refers": "SLOT / GROOVE / FURROW",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RÇ",
-        "refers": "AESTHETIC APPEAL / PRETTINESS / LOVELINESS / BEAUTY"
+        "refers": "AESTHETIC APPEAL / PRETTINESS / LOVELINESS / BEAUTY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ĻN",
-        "refers": "VALUE / EXPEDIENCE / SUITABILITY"
+        "refers": "VALUE / EXPEDIENCE / SUITABILITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RĻN",
-        "refers": "ADVANTAGE / OPPORTUNITY / CONVENIENCE"
+        "refers": "ADVANTAGE / OPPORTUNITY / CONVENIENCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MÇ",
-        "refers": "WELL-FORMEDNESS / AESTHETIC APPEAL / STYLISHNESS / PERFECTION / SPLENDOR"
+        "refers": "WELL-FORMEDNESS / AESTHETIC APPEAL / STYLISHNESS / PERFECTION / SPLENDOR",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MÇK",
-        "refers": "PERFECTION / OPTIMALITY / EXQUISITENESS / SUBLIMITY / SPLENDIDNESS"
+        "refers": "PERFECTION / OPTIMALITY / EXQUISITENESS / SUBLIMITY / SPLENDIDNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KÇT",
-        "refers": "DECORATION / FANCINESS / ORNATENESS / ORNAMENTATION"
+        "refers": "DECORATION / FANCINESS / ORNATENESS / ORNAMENTATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘŘ",
-        "refers": "INTENSIFICATION / AMELIORATION / IMPROVEMENT / AGGRAVATION / WORSENING"
+        "refers": "INTENSIFICATION / AMELIORATION / IMPROVEMENT / AGGRAVATION / WORSENING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "TĻT",
-        "refers": "ADJUSTMENT / REPAIR / MENDING / RESTORATION / CORRECTION"
+        "refers": "ADJUSTMENT / REPAIR / MENDING / RESTORATION / CORRECTION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢJ",
-        "refers": "EMPHASIS / HIGHLIGHT / UNDERSCORE / IMPRESS UPON / RAVE ABOUT"
+        "refers": "EMPHASIS / HIGHLIGHT / UNDERSCORE / IMPRESS UPON / RAVE ABOUT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "VŠ",
-        "refers": "SHREWDNESS / ARTFULNESS / CRAFTINESS"
+        "refers": "SHREWDNESS / ARTFULNESS / CRAFTINESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KH",
-        "refers": "DEGREE OF SUBTLETY / NUANCE / CUNNING / GUILE / STEALTH / INSIDIOUSNESS"
+        "refers": "DEGREE OF SUBTLETY / NUANCE / CUNNING / GUILE / STEALTH / INSIDIOUSNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "VSK",
-        "refers": "SURVEILLANCE / RECONNAISSANCE / UNDERCOVER OPERATION / ESPIONAGE"
+        "refers": "SURVEILLANCE / RECONNAISSANCE / UNDERCOVER OPERATION / ESPIONAGE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LČ",
-        "refers": "GUESS / SPECULATION / SUPPOSITION / ASSUMPTION"
+        "refers": "GUESS / SPECULATION / SUPPOSITION / ASSUMPTION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LČW",
-        "refers": "CONJECTURE / POSTULATING / THEORY / HYPOTHESIS"
+        "refers": "CONJECTURE / POSTULATING / THEORY / HYPOTHESIS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŠH",
-        "refers": "IMPORTANCE / SIGNIFICANCE / PREVALENCE / CONSPICUOUSNESS / PROMINENCE"
+        "refers": "IMPORTANCE / SIGNIFICANCE / PREVALENCE / CONSPICUOUSNESS / PROMINENCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŇČ",
-        "refers": "INFLUENCE / PERSUASION / PREDOMINANCE"
+        "refers": "INFLUENCE / PERSUASION / PREDOMINANCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RŇČ",
-        "refers": "INCITING / INSTIGATION / ENCOURAGEMENT / ADVOCACY"
+        "refers": "INCITING / INSTIGATION / ENCOURAGEMENT / ADVOCACY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ČPĻ",
-        "refers": "USE OF FORCE / COERCION / COMPULSION"
+        "refers": "USE OF FORCE / COERCION / COMPULSION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "JR",
-        "refers": "RIDE / DRIVE / TRANSPORT / PASSENGER"
+        "refers": "RIDE / DRIVE / TRANSPORT / PASSENGER",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PŠW",
-        "refers": "STATION-KEEPING / PARKING / HOLDING AREA / WAITING AREA"
+        "refers": "STATION-KEEPING / PARKING / HOLDING AREA / WAITING AREA",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "SC",
-        "refers": "WASH / LAVE / BATHE / RINSE"
+        "refers": "WASH / LAVE / BATHE / RINSE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MÇT",
-        "refers": "EXAMPLE / EXEMPLAR / PRECEDENT / ARCHETYPE"
+        "refers": "EXAMPLE / EXEMPLAR / PRECEDENT / ARCHETYPE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "VLL",
-        "refers": "IMPLICATION / HINT / CONNOTATION / ALLUSION"
+        "refers": "IMPLICATION / HINT / CONNOTATION / ALLUSION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ÇÇK",
-        "refers": "MAXIMIZATION / OPTIMALITY / SUPREMACY"
+        "refers": "MAXIMIZATION / OPTIMALITY / SUPREMACY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LXL",
-        "refers": "SCIENCE"
+        "refers": "SCIENCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "LDR",
-        "refers": "APPEAR / SHOW / DISPLAY / EXHIBIT"
+        "refers": "APPEAR / SHOW / DISPLAY / EXHIBIT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "DRR",
-        "refers": "CALLING ATTENTION TO / EXPOSURE / ADVERTISING"
+        "refers": "CALLING ATTENTION TO / EXPOSURE / ADVERTISING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢRR",
-        "refers": "ANNOUNCEMENT / DECLARATION / PRONOUNCEMENT / PROCLAMATION"
+        "refers": "ANNOUNCEMENT / DECLARATION / PRONOUNCEMENT / PROCLAMATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŽW",
-        "refers": "KIND / SORT / TYPE / GENRE / CLASS / CATEGORIZATION / MODE / MANNER / WAY"
+        "refers": "KIND / SORT / TYPE / GENRE / CLASS / CATEGORIZATION / MODE / MANNER / WAY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MTF",
-        "refers": "LIST / SERIES / FILE"
+        "refers": "LIST / SERIES / FILE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŇŢ",
-        "refers": "DEGREE OF CORRECTNESS/ACCURACY/ERROR/SUITABILITY/FITNESS"
+        "refers": "DEGREE OF CORRECTNESS/ACCURACY/ERROR/SUITABILITY/FITNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘḐ",
-        "refers": "DEGREE OF EXACTITUDE"
+        "refers": "DEGREE OF EXACTITUDE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RX",
-        "refers": "DEGREE OF SIMILARITY / RESEMBLANCE"
+        "refers": "DEGREE OF SIMILARITY / RESEMBLANCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RK",
-        "refers": "DEGREE/RANGE/EXTENT/INTENSITY"
+        "refers": "DEGREE/RANGE/EXTENT/INTENSITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RT",
-        "refers": "SUFFICIENCY/ADEQUACY"
+        "refers": "SUFFICIENCY/ADEQUACY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "MH",
-        "refers": "DEGREE OF CHANGE/STABILITY/VICISSITUDE/FLUCTUATION"
+        "refers": "DEGREE OF CHANGE/STABILITY/VICISSITUDE/FLUCTUATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RG",
-        "refers": "DEGREE OF STEADFASTNESS/MOBILITY/MOTILITY/ACTIVITY/MOVEMENT"
+        "refers": "DEGREE OF STEADFASTNESS/MOBILITY/MOTILITY/ACTIVITY/MOVEMENT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ČH",
-        "refers": "DEGREE OF AFFECT (CUTENESS/GRANDEUR)"
+        "refers": "DEGREE OF AFFECT (CUTENESS/GRANDEUR)",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "TH",
-        "refers": "DEGREE OF RELIABILITY/INFALLIBILITY/QUALITY"
+        "refers": "DEGREE OF RELIABILITY/INFALLIBILITY/QUALITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘP",
-        "refers": "DEGREE OF SPECIALNESS/UNIQUENESS/MARVELOUSNESS"
+        "refers": "DEGREE OF SPECIALNESS/UNIQUENESS/MARVELOUSNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘV",
-        "refers": "CONSEQUENCE/OUTCOME/RESULT"
+        "refers": "CONSEQUENCE/OUTCOME/RESULT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘG",
-        "refers": "DEGREE OF CONFORMITY/TYPICALNESS"
+        "refers": "DEGREE OF CONFORMITY/TYPICALNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RD",
-        "refers": "DEGREE OF TRUTH/GENUINENESS/VERACITY/VALIDITY/FACTUALITY"
+        "refers": "DEGREE OF TRUTH/GENUINENESS/VERACITY/VALIDITY/FACTUALITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢM",
-        "refers": "DEGREE OF INTENSITY"
+        "refers": "DEGREE OF INTENSITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "FŢ",
-        "refers": "DEGREE OF EFFICIENCY/ADEQUACY"
+        "refers": "DEGREE OF EFFICIENCY/ADEQUACY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KŢ",
-        "refers": "DEVELOPMENT / GROWTH / MATURATION / DECLINE"
+        "refers": "DEVELOPMENT / GROWTH / MATURATION / DECLINE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PH",
-        "refers": "DEGREE OF PRECISION / DEFINITION / SCRUTINY"
+        "refers": "DEGREE OF PRECISION / DEFINITION / SCRUTINY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢX",
-        "refers": "DEGREE OF SOPHISTICATION/CRUDENESS/REFINEMENT/PRIMITIVENESS"
+        "refers": "DEGREE OF SOPHISTICATION/CRUDENESS/REFINEMENT/PRIMITIVENESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŇŘ",
-        "refers": "IMPEDIMENT / BLOCKAGE / RESTRICTION / CONSTRAINT / LIMITING / PREVENTION"
+        "refers": "IMPEDIMENT / BLOCKAGE / RESTRICTION / CONSTRAINT / LIMITING / PREVENTION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ČM",
-        "refers": "DEGREE OF EASE vs. DIFFICULTY"
+        "refers": "DEGREE OF EASE vs. DIFFICULTY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "KP",
-        "refers": "DEGREE OF EFFORT"
+        "refers": "DEGREE OF EFFORT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "VH",
-        "refers": "DEGREE OF DESIGN / ORDER / ORGANIZATION / SYSTEMATIZATION"
+        "refers": "DEGREE OF DESIGN / ORDER / ORGANIZATION / SYSTEMATIZATION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "JH",
-        "refers": "DEGREE OF PHYSICAL CONTROL"
+        "refers": "DEGREE OF PHYSICAL CONTROL",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PT",
-        "refers": "DEGREE OF RISK / DANGER"
+        "refers": "DEGREE OF RISK / DANGER",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŘČ",
-        "refers": "DEGREE OF OPERATIONAL FUNCTIONALITY / ACTIVITY / EFFICACY"
+        "refers": "DEGREE OF OPERATIONAL FUNCTIONALITY / ACTIVITY / EFFICACY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "BŇ",
-        "refers": "DEGREE OF NATURAL CAPACITY / TALENT / SKILL"
+        "refers": "DEGREE OF NATURAL CAPACITY / TALENT / SKILL",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "SP",
-        "refers": "DEGREE OF NEWNESS"
+        "refers": "DEGREE OF NEWNESS",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "Ž",
-        "refers": "CAPACITY / ABILITY / CAPABILITY"
+        "refers": "CAPACITY / ABILITY / CAPABILITY",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ÇN",
-        "refers": "SOURCE / ORIGIN / START / BEGINNING"
+        "refers": "SOURCE / ORIGIN / START / BEGINNING",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RÇN",
-        "refers": "ELEMENT / FUNDAMENTAL BASIS / FOUNDATIONAL PRINCIPLE"
+        "refers": "ELEMENT / FUNDAMENTAL BASIS / FOUNDATIONAL PRINCIPLE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "R",
-        "refers": "NEGATION / DENIAL / ABSENCE"
+        "refers": "NEGATION / DENIAL / ABSENCE",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "RXW",
-        "refers": "NULLIFICATION / ABROGATION / CONTRADICTION / CONTRAVENTION"
+        "refers": "NULLIFICATION / ABROGATION / CONTRADICTION / CONTRAVENTION",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "PŘ",
-        "refers": "ACCESS / PASSAGE(WAY) / DOORWAY / GATEWAY / PORTAL / ENTRY(WAY) / EXIT"
+        "refers": "ACCESS / PASSAGE(WAY) / DOORWAY / GATEWAY / PORTAL / ENTRY(WAY) / EXIT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "ŢD",
-        "refers": "PHYSICAL CONTACT"
+        "refers": "PHYSICAL CONTACT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "SK",
-        "refers": "CONTAIN / HOLD / CONTENTS / ENCLOSURE / SURROUNDING / ENVELOPMENT"
+        "refers": "CONTAIN / HOLD / CONTENTS / ENCLOSURE / SURROUNDING / ENVELOPMENT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     },
     {
         "root": "THW",
-        "refers": "COMPONENT / PART / INGREDIENT"
+        "refers": "COMPONENT / PART / INGREDIENT",
+        "stems": [
+            {
+                "BSC": "",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "",
+            ""
+        ]
     }
 ]
