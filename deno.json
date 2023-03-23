@@ -1,5 +1,6 @@
 {
     "tasks": {
-        "minify": "deno run --allow-read --allow-write=output scripts/minify.ts"
+        "json": "deno run --allow-read --allow-write=output scripts/json.ts",
+        "yaml": "deno run --allow-read --allow-write=output scripts/yaml.ts"
     }
 }
