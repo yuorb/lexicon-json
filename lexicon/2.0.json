@@ -144,13 +144,13 @@
         "refers": "MAKE / CONSTRUCT / INTEGRATE / FORM",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance/act of making/constructing/creating something via integration of material resources according to an implicit or explicit plan/instinct/motive/design",
+                "CTE": "(to be) the existential state of creating/making/constructing",
+                "CSV": "(to be) the method/steps employed/manifested in making/creating/constructing something",
+                "OBJ": "(to be) that which is made/created/constructed; the product of an act of making/creating/constructing"
             },
-            "",
-            ""
+            "(to be) an instance/act of forming or fashioning something via a combination of ingredients, e.g., cooking, mixing together, combining melodies from instruments to make music, tinkering with a variety of parts, etc.",
+            "(to be) an instance/act of bringing something into being via organizing disparate parts into a coherent whole"
         ]
     },
     {
@@ -158,13 +158,13 @@
         "refers": "COMMERCIAL MANUFACTURING / FABRICATION / BUILDING / PRODUCTION / ESTABLISHING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance/act of commercial manufacturing; to manufacture",
+                "CTE": "(to be) the existential state of manufacturing",
+                "CSV": "(to be) the method/steps employed/manifested in manufacturing something",
+                "OBJ": "(to be) that which is; the product of an act of manufacturing; a manufactured good/product"
             },
-            "",
-            ""
+            "(to be) an instance/act of commercial fabrication/building; to fabricate or build something",
+            "(to be) an instance/act of formally producing/establishing/founding something (e.g., publishing a book or piece of music, establishing a church, founding a charity, etc.)"
         ]
     },
     {
@@ -172,13 +172,13 @@
         "refers": "USE / UTILIZATION / CONSUMPTION / EXPENDITURE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance/act of using/utilizing/making use of something/availing oneself of; to use/utilize, to make use of something, to avail oneself of something",
+                "CTE": "(to be) a state of use/utilization/being used/being made use of",
+                "CSV": "(to be) a physical act of using/utilizing/making use of; to physically perform an act of using/utilizing/making use of/availing oneself of",
+                "OBJ": "(to be) that which is used/utilize/made use of"
             },
-            "",
-            ""
+            "(to be) an instance/act of serving as, being put into use as, being made to function as; to serve as, to (be) put into use as, to function as",
+            "(to be) a state/act/instance of consumption/expenditure, being consumed/expended/used up; to consume, to spend a resource, to use (up) a resource"
         ]
     },
     {
