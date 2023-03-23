@@ -5,30 +5,22 @@ This repository offers the lexicon of New Ithkuil in json format based on the ht
 ## Format
 
 ```ts
-Array<{
-    root: string
+type Specs = {
+    "BSC": string,
+    "CTE": string,
+    "CSV": string,
+    "OBJ": string
+}
+
+type Lexicon = {
+    root: string,
     refers: string,
     stems: [
-        {
-            "BSC": string,
-            "CTE": string,
-            "CSV": string,
-            "OBJ": string
-        } | string,
-        {
-            "BSC": string,
-            "CTE": string,
-            "CSV": string,
-            "OBJ": string
-        } | string,
-        {
-            "BSC": string,
-            "CTE": string,
-            "CSV": string,
-            "OBJ": string
-        } | string,
+        Specs | string,
+        Specs | string,
+        Specs | string,
     ]
-}>
+}[]
 ```
 
 The fields will and should be expanded in the future, but at the current stage, the top priority is complete the lexicon.

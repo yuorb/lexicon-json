@@ -1,8 +1,20 @@
 import { ensureDirSync } from "https://deno.land/std@0.144.0/fs/ensure_dir.ts";
 
+type Specs = {
+    "BSC": string,
+    "CTE": string,
+    "CSV": string,
+    "OBJ": string
+}
+
 type Lexicon = {
     root: string,
-    refers: string
+    refers: string,
+    stems: [
+        Specs | string,
+        Specs | string,
+        Specs | string,
+    ]
 }[]
 
 let target: Lexicon = []
