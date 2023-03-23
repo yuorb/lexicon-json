@@ -186,13 +186,13 @@
         "refers": "ENGAGEMENT / BE IN PLAY / RECOURSE / AGENCY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance/act of engagement, putting into action, bringing into play, being brought/put into play; to engage in something, to bring something into action, to put something into play, to have something be part of the action",
+                "CTE": "(to be) a state of engagement/being in play/being in action",
+                "CSV": "(to be) a physical act of bringing/putting into play/action; to engage",
+                "OBJ": "(to be) the action/situation/context in(to) which something is made part of"
             },
-            "",
-            ""
+            "(to be) an instance/act of resorting to something, having recourse to do something, to act on the belief one has to pursue a particular course of action; to resort to something, have recourse to do something, to act on the belief one has to pursue a particular course of action",
+            "(to be) an instance/act of agency/exertion/force/control; to make happen, to cause to happen, to be the agential force behind something, to exert or exercise control over the course of something [i.e., an act of agency which causes/makes/initiates a tangible act/result/change of state affecting another party"
         ]
     },
     {
@@ -200,13 +200,13 @@
         "refers": "TERMINATION / FINISH / END / FINALITY / COMPLETION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of ending/finishing/ being over/concluded; to be ending, be at an end, to be about over, to be about finished/concluded (i.e., no longer taking place, no longer extant/present/active, etc.) [CPT version = ended, finished, concluded, over]",
+                "CTE": "(to be) the state of being at an end, being finished/concluded",
+                "CSV": "(to be) a physical act of finishing, bringing to an end, concluding; to finish, to end, to conclude, to be done (with), to be over",
+                "OBJ": "(to be) that which is ended/finished/over"
             },
-            "",
-            ""
+            "(to be) a state/act of bringing to a final/ultimate state; to bring to a final/ultimate state, to finalize, to be final, to be reaching a final/ultimate (i.e., quasi-permanent) state [CPT version = be in a final/ultimate state]",
+            "(to be) a state/act of completing; to be reaching a state of completion (i.e., of a goal-oriented process) [CPT version = a completed state; to complete, to reach/achieve completion]"
         ]
     },
     {
@@ -214,13 +214,13 @@
         "refers": "CHOICE / PREFERENCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a choice (to be) made; to choose [ = both the state of having a choice to make and the choices available to choose from]",
+                "CTE": "(to be in) a state of having to choose; to face a choice; to have a choice to make",
+                "CSV": "(to be) the act/process of choosing from one’s available options/alternatives",
+                "OBJ": "(to be) the choice made; to be the entity/alternative/option chosen or selected"
             },
-            "",
-            ""
+            "(to be) an act/process of “weighing”/pondering of a choice; conduct a pro-vs.-con analysis",
+            "(to be) an state/act of settling for something (i.e., reluctant choice to avoid the alternative)"
         ]
     },
     {
@@ -228,13 +228,13 @@
         "refers": "SELECTION / ALTERNATIVE / OPTION / VOTING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a selection (to be) made (from limited choices); to select/pick (from limited choices) [ = both the state of having a selection to make and the choices available to select from]",
+                "CTE": "(to be in) a state of having to choose; to face a choice; to have a choice to make",
+                "CSV": "(to be) the act/process of choosing from one’s available options/alternatives",
+                "OBJ": "(to be) the choice made; to be the entity/alternative/option chosen or selected"
             },
-            "",
-            ""
+            "(to be) a state of having an alternative or available option; to have an alternative or available option",
+            "(to be) an act of voting; to vote"
         ]
     },
     {
@@ -242,13 +242,13 @@
         "refers": "CHANGE / VARIATION / VERSION / DEVIATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a change (from one state to another); to change (from one state to another) ",
+                "CTE": "(to be) the state of transformation which occurs during a change",
+                "CSV": "(to be) the physical/tangible process of an act of change (i.e., what an entity physically undergoes while changing); to transform",
+                "OBJ": "(to be) that aspect of an entity which changes; what gets changed about an entity"
             },
-            "",
-            ""
+            "(to be) an act of variance or being a differing version of something; to vary, to be a differing version",
+            "(to be) an act of deviation; to deviate"
         ]
     },
     {
@@ -256,13 +256,13 @@
         "refers": "ALTERATION / MODIFICATION / DIVERSIFICATION / MODULATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/process of alteration, modification; to alter, to modify (i.e., a small change that does not significantly alter the identity or basic nature/essence/form, etc. of an entity)",
+                "CTE": "(to be) the state of transformation which occurs during an alteration/modification",
+                "CSV": "(to be) the physical/tangible process of an act of alteration/modification (i.e., what an entity physically undergoes while changing)",
+                "OBJ": "(to be) what changes during an alteration/modification, what gets altered/modified, the alteration/modification itself"
             },
-            "",
-            ""
+            "(to be) a state/act of diversification/permutation; to diversify, permutate",
+            "(to be) a state/act of modulation; to modulate (i.e., control the variance in the state of an entity)"
         ]
     },
     {
@@ -270,13 +270,13 @@
         "refers": "SEEK / SEARCH",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act of searching/seeking/looking for something specific whose location is unknown; a search for something specific whose location is; to search/seek/look for something unknown (i.e., its location/existence is uncertain)",
+                "CTE": "(to be in) the psychological state of searching/seeking; to be driven by the need/desire to search/seek",
+                "CSV": "(to be) the process or physical act itself of searching/seeking",
+                "OBJ": "(to be) what one is seeking or searching/looking for"
             },
-            "",
-            ""
+            "(to be a) search, seek, look for something lost [i.e., something known to exist which is missing]",
+            "quest / seek to accomplish/achieve something"
         ]
     },
     {
@@ -284,13 +284,13 @@
         "refers": "EXPLORATION / PURSUIT / HUNTING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of exploration; to explore [i.e., to sensorily observe and/or examine something unknown or previously unencountered to learn/discover its nature/structure/attributes, etc.]",
+                "CTE": "(to be) the psychological state of exploration; to be driven by the need/desire to explore",
+                "CSV": "(to be) a physical act/process of exploring; to perform the physical act(s) of exploring",
+                "OBJ": "(to be) what one explores (i.e., the place/area/realm/surface/volume, etc. one explores through or in)"
             },
-            "",
-            ""
+            "(to be) a state/act of pursuit; to pursue, to track down (i.e., the existence of which is certain but whose location is uncertain)",
+            "(to be) a state/act of hunting; to hunt for (i.e., with the goal of capturing/killing/detaining, etc. that which is hunted)"
         ]
     },
     {
@@ -298,13 +298,13 @@
         "refers": "LOSE / MISPLACE / SQUANDER / DEPRIVATION / FORFEITURE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of something being lost/mislaid/missing (i.e., misplaced); to lose something (i.e., to misplace), to misplace",
+                "CTE": "(to be) a state of being lost/misplaced/missing/mislaid",
+                "CSV": "(to be) an act of misplacing/losing/mislaying something; to do something which causes an entity to be(come) lost/misplaced/missing",
+                "OBJ": "(to be) that which is/has been misplaced/lost/mislaid"
             },
-            "",
-            ""
+            "(to be) a state/act of losing something/someone; to lose (i.e., to have an entity taken away or for an entity to go away and not be accessible or potentially recoverable)",
+            "a state/act of squandering or wasting something; to squander, to waste (i.e., to allow something to become lost via neglect or irresponsibility)"
         ]
     },
     {
@@ -312,13 +312,13 @@
         "refers": "DEPRIVATION / BEREAVEMENT / FORFEITURE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of deprivation; to be deprived of, to (have to) do without something",
+                "CTE": "(to be) a state of there being something that is not available",
+                "CSV": "(to be) an act of depriving, to do something which causes one to experience deprivation",
+                "OBJ": "(to be) that which one is deprived of, that which one must do without"
             },
-            "",
-            ""
+            "(to be) a state/act of bereavement; to be bereft/bereaved",
+            "(to be) a state/act of forfeiture; to forfeit"
         ]
     },
     {
@@ -326,13 +326,13 @@
         "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a[n act of] comparison/contrasting; to compare/contrast ",
+                "CTE": "(to be) the state of being compared/contrasted",
+                "CSV": "(to be) the physical act/process of comparison/contrasting (i.e., step(s) taken to conduct the comparison) ",
+                "OBJ": "(to be) the object/entity compared or contrasted with something else, that which is (being) compared"
             },
-            "",
-            ""
+            "(to be) an act of distinguishing; to distinguish ( = process of careful selection from among various alternatives) ",
+            "(to be) an act/process of matching one entity to another; to match something to something else"
         ]
     },
     {
@@ -340,13 +340,13 @@
         "refers": "COMPARISON / CONTRAST / DISTINGUISH / MATCHING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": " (to be) an act/process of measuring; to measure [i.e., to quantify an amount or degree of some attribute of an entity]",
+                "CTE": "(to be) the state of being measured",
+                "CSV": "(to be) the physical act/process of measuring",
+                "OBJ": "(to be) that which is measured"
             },
-            "",
-            ""
+            " (to be) an act/process of discerning; to discern [i.e., to carefully observe a pattern or patterns or sub-phenomenon within an entity or phenomenon]",
+            " (to be) an act/process of collation; to collate [i.e., determine the relationships between entities]"
         ]
     },
     {
@@ -354,13 +354,13 @@
         "refers": "EXPECTATION / SUSPENSE / ANTICIPATION / VIGIL",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of expectation; to have an expectation of/concerning; to expect something (i.e., to have a degree of certainty that a future occurrence/situation/event will manifest in a particular way) ",
+                "CTE": "(to be) the mental/psychological state of a expectation; be in a state of expectation ",
+                "CSV": "(to be) the physical manifestation of a process of expecting; to endure a period of expectation ",
+                "OBJ": "(to be) that which one expects, what/whom one is expecting"
             },
-            "",
-            ""
+            "(to be) a state of anticipation/suspense; to experience a sense/feeling of anticipation/suspense; for something to be impending, the wait/expectation of which generates suspense and anticipation ",
+            "(to be) a state of vigilance, a vigil, a watch; to be vigilant/watchful, to conduct a vigil "
         ]
     },
     {
@@ -368,13 +368,13 @@
         "refers": "PREDICTION / FORESEE / FORECAST",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": " (to be) state/act of prediction; to predict",
+                "CTE": "(to be) a psychological state of a process of prediction; undergo a state of predicting",
+                "CSV": "(to be) the physical act of predicting; to make a prediction ",
+                "OBJ": "(to be) what one predicts"
             },
-            "",
-            ""
+            "(to be) a state/act of foresight; to be something prospective, to be something foreseeable; to foresee",
+            "(to be) a state/act of prognostication/forecasting; to forecast"
         ]
     },
     {
@@ -382,13 +382,13 @@
         "refers": "AMBULATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance of bodily ambulation; to ambulate ( = to use one’s body’s natural method of translative motion along a surface, e.g., walk, hop, crawl, swim, slither, etc.)",
+                "CTE": "(to be) the translative/directed movement through spacetime from one point to another as accomplished via ambulation",
+                "CSV": "(to be) a single iteration/cycle of the particular pattern of bodily movement(s) used in ambulation; to make/undergo a single iteration of the body’s natural ambulatory cycle",
+                "OBJ": "(to be) the surface upon which one ambulates (e.g., the ground, the floor, the firmament, the ramp, the stairs, etc.) "
             },
-            "",
-            ""
+            "(to be) an instance of rapid ambulation; to run, gallop, scamper, scurry, etc.",
+            "(to be) an instance of unnatural/affected ambulation, e.g., limp, stagger"
         ]
     },
     {
@@ -396,13 +396,13 @@
         "refers": "MARCHING / PRANCING / RACING / SWAGGERING / SAUNTERING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": " (to be) an instance of marching or prancing; to march or prance ( = to ambulate in a deliberately formal and structured way)",
+                "CTE": "(to be) the translative/directed movement through spacetime from one point to another as accomplished via marching or prancing ",
+                "CSV": "(to be) a single iteration/cycle of the particular pattern of bodily movement(s) used in marching or prancing; to make/undergo a single iteration of the body’s ambulatory cycle while marching or prancing ",
+                "OBJ": "(to be) the surface upon which one marches or prances (e.g., the ground, the floor, the firmament, the ramp, the stairs, etc.)"
             },
-            "",
-            ""
+            "(to be) an instance of racing [i.e.,competitive speed running]",
+            "(to be) an instance of swaggering or sauntering [i.e., affected ambulation in a deliberately exaggerated manner"
         ]
     },
     {
@@ -410,13 +410,13 @@
         "refers": "REMEMBER / RECALL / MEMORY / MEMORIZATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a memory; to remember something (= recall something) [whether unwilled/affective or self-willed/voluntary] ",
+                "CTE": "(to be) the content of a memory or recollection, what is remembered or recalled",
+                "CSV": "(to be) the act/process of recalling something; to recall",
+                "OBJ": "(to be) the entity/circumstance/event/state which a memory is about "
             },
-            "",
-            ""
+            "(to be) the retention of something past into present; to retain something from the past into the present",
+            "(to be) an act of memorization; to memorize, to remember [i.e., commit to memory] "
         ]
     },
     {
@@ -424,13 +424,13 @@
         "refers": "TRACE / VESTIGE / MEMORIAL / ARCHIVAL RECORD",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of there being a trace/vestige of something occurring [i.e., a physical indication left behind of a previous state or that something has previously occurred]",
+                "CTE": "(to be) the trace/vestige itself",
+                "CSV": "(to be) the act of leaving a trace/vestige behind",
+                "OBJ": "(to be) that which the trace/vestige indicates has occurred"
             },
-            "",
-            ""
+            "(to be) a memorial (i.e., an (object/action formally recognizing or acknowledging something/someone past)",
+            "(to be) a state/act of having/making a record of something; to have/make a record of something, to archive"
         ]
     },
     {
@@ -438,13 +438,13 @@
         "refers": "SOLVE / FIGURE OUT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/process of trying to solve a mystery or puzzle, trying to figure out a riddlesome problem; to attempt to solve a mystery/puzzle/dilemma/ riddlesome problem [CPT Version = to solve it, to figure it out ] ",
+                "CTE": "(to be) a state of mystery, being faced with an unsolved puzzle/mystery/problem/dilemma",
+                "CSV": "(to be) the act/process of trying to figure out an explanation/solution; to try to figure something out",
+                "OBJ": "(to be) the puzzle/mystery/unsolved issue/dilemma/riddlesome problem itself"
             },
-            "",
-            ""
+            "(to be) an act of analytical reasoning/logic as applied to attempting to solve a mystery/puzzle/riddlesome problem/dilemma ",
+            "(to be) an act/state of insight/inspiration as part of one’s attempt to solve a puzzle/mystery/riddlesome problem, dilemma"
         ]
     },
     {
@@ -452,13 +452,13 @@
         "refers": "WONDERING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of wondering about something that is potentially knowable; to wonder about something [i.e., desire to know something that can (presumably/theoretically) be known, e.g., “I wonder what papaya tastes like”, “I wonder if she is religious.”]",
+                "CTE": "(to be in) a state of wondering, i.e., the desire to know something that can (presumably/theoretically) be known",
+                "CSV": "(to be) the act/process of asking oneself (either verbally or in one’s thoughts) something which one desires to know that can (presumably/theoretically) be known; to ask oneself such a question",
+                "OBJ": "(to be) what one wonders about"
             },
-            "",
-            ""
+            "(to be) a state act of wondering about something no longer knowable; to wonder about something [i.e., desire to know something that (presumably/theoretically) can no longer be known, e.g., “I wonder what cooked dinosaur tasted like”, “I wonder what Newton would think of quantum theory.”]",
+            "(to be) a state/act of wondering about something not yet knowable [i.e., desire to know something unknowable until some future time, e.g., “I wonder if I’ll ever be able to walk again”, “I wonder if humankind will ever colonize another planet.”]"
         ]
     },
     {
@@ -466,13 +466,13 @@
         "refers": "MISTAKE / ERROR / MISCONCEPTION / MISCALCULATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of being mistaken or in error regarding something; to be wrong about something, to be mistaken or in error about something",
+                "CTE": "(to be) a state of erroneousness, a state of being wrong about something ",
+                "CSV": "(to be) an act of being mistaken or in error; to make a mistake, to be in error",
+                "OBJ": "(to be) that which one is mistaken about; that which one makes/has made an error concerning"
             },
-            "",
-            ""
+            "(to be) a state/act of misconception; to be under a misconception, to act/do something based upon a misconception ",
+            "(to be) a state/act of miscalculation or misjudgement; to misjudge or miscalculate something"
         ]
     },
     {
@@ -480,13 +480,13 @@
         "refers": "LOOK OVER / EXAMINE / INSPECT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": " (to be) an act of looking something over; to give something a lookover (i.e., perform a casual or brief visual/tactile observation of an entity in order to form an initial reaction/appraisal)",
+                "CTE": "(to be) the state of being looked over ",
+                "CSV": "(to be) the physical process of looking over (i.e., the physical act performed which constitutes looking something over) ",
+                "OBJ": "(to be) that which is looked over "
             },
-            "",
-            ""
+            "(to be) an act of examination; to examine (i.e., to observe/inspect something in order to determine its physical condition and/or character(istics).)",
+            "(to be) an act of inspection/checking; to inspect, to check (i.e., examine something to determine the degree to which it complies with, adheres to, or deviates from some expectation or standard) "
         ]
     },
     {
@@ -494,13 +494,13 @@
         "refers": "OBSERVE / SCRUTINIZE / RECONNAISSANCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": ": (to be) an act of observation; to observe (to watch something closely for the purpose of determining what it does/how it behaves/what happens to it, etc. ",
+                "CTE": "(to be) a state of being under observation",
+                "CSV": "(to be) the physical act/process of observing; to make/conduct an act/process of observation",
+                "OBJ": "(to be) the object/entity being observed "
             },
-            "",
-            ""
+            "(to be) an act of scrutiny; to scrutinize",
+            " (to be) an act of reconnaissance; to reconnoiter"
         ]
     },
     {
@@ -508,13 +508,13 @@
         "refers": "SUBSTITUTION / TRANSPOSITION / REPLACEMENT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": " (to be) an act of substitution ( = having one entity take the place of another)",
+                "CTE": "(to be) the entity which is replaced/discarded/removed by an act of substitution",
+                "CSV": "(to be) the physical (trans-)action of substitution; to physically act to substitute one entity for another",
+                "OBJ": "(to be) the entity which is substituted for or takes the place/role of another"
             },
-            "",
-            ""
+            "(to be) an act of transposition/ interchange ( = switching places)",
+            "(to be) an act of supplanting/replacement/changeout ( = refresh/renew) "
         ]
     },
     {
@@ -522,27 +522,22 @@
         "refers": "TRANSPORT STOP / STATION / HARBOR",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a stop on a transport route; to make a stop at (i.e., where one embarks/disembarks from a means of local transport) ",
+                "CTE": "(to be) state of embarkation/disembarkation on local transport line ",
+                "CSV": "(to be) a physical act of embarking/boarding or disembarking/getting out or off of a form of local transport",
+                "OBJ": "(to be) a particular stop on a transport route/line"
             },
-            "",
-            ""
+            "(to be) transport station (i.e., centralized one goes to purchase tickets and embark/disembark from a form of local transport ",
+            "(to be) harbor, place of anchorage"
         ]
     },
     {
         "root": "RČTĻ",
         "refers": "AIRPORT / SEAPORT / TRANSPORTATION TERMINAL OR HUB",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be) a location served by a commercial sea line or airline",
+            "(to be) a transport terminal",
+            "(to be) a port (e.g., airport, seaport, heliport, etc.) or transportation hub"
         ]
     },
     {
@@ -550,27 +545,22 @@
         "refers": "PREPARATION / PRELIMINARY MEASURE / READINESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of preparation (for something); to prepare (for something) [i.e., to take steps or measures that make one (more) ready to deal with something] (CPT version = ‘state of readiness; be ready’) ",
+                "CTE": "(to be) state of desire to prepare [CPT version = preparedness/readiness] ",
+                "CSV": "(to be) a physical act of preparation; to do something that prepares an entity for something ",
+                "OBJ": "(to be) what one is preparing for"
             },
-            "",
-            ""
+            "(to be) a state/act of establishing preliminary measures necessary for something else to occur; to perform a preliminary step/task/measure, “lay the groundwork for”, “lay a foundation for” ",
+            "(to be) a state/act of preparing/readying something, putting something together, assembling, making something ready for use or consumption; to prepare/ready something for use (e.g., food, a tent, wood in a fireplace, a painter’s palette, a surgeon’s operating room, etc.)"
         ]
     },
     {
         "root": "RÇL",
         "refers": "PRECAUTIONARY MEASURE / PRECAUTIONARY TRAINING / CONTINGENCY / BACK-UP",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be) a state/act of having precaution; take precautionary measure",
+            "(to be) a state/act of instruction/training in order to be prepared/ready for something; to instruct/train (a party to be able to perform some function or duty or skill in order to be prepared/ready for something)",
+            "(to be) a state/act of having/creating a contingency or back-up measure; to have/create/use a contingency or back-up measure"
         ]
     },
     {
@@ -578,13 +568,13 @@
         "refers": "PROVISION / SUPPLYING / FURNISHING / EQUIPPING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of providing; to provide, offer provision [i.e., give something which one can make use of or consume] CPT version = provide",
+                "CTE": "(to be) state of lacking something that needs to be provided; to lack, to need",
+                "CSV": "(to be) a physical act of offering to provide; to make an offer to provide",
+                "OBJ": "(to be) what is being provided, what is being offered as a provision"
             },
-            "",
-            ""
+            "(to be) a state/act of supplying/replenishing/furnishing; to supply, to furnish with, to replenish",
+            "(to be) a state/act of equipping, providing resources for the establishment or carrying out of something; to equip, provide resources/equipment for"
         ]
     },
     {
@@ -592,13 +582,13 @@
         "refers": "PRESERVATION / CONSERVATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of saving/preserving something (from decaying or being damaged through neglect/misuse/mistreatment)",
+                "CTE": "(to be) a state of being/having been saved/preserved (from decay or damage)",
+                "CSV": "(to be) a physical act of preserving/saving something (from decaying or being damaged)",
+                "OBJ": "(to be) what is being saved/preserved"
             },
-            "",
-            ""
+            "(to be) a state/act of saving/preserving something (from being lost or discarded); to save/preserve something (from being lost or discarded)",
+            "(to be) a state/act of preserving/conserving something via a chemical or biological transformation (e.g., freezing, dehydration, pickling, embalming, curing, salting, etc.)"
         ]
     },
     {
@@ -606,13 +596,13 @@
         "refers": "RESCUE / EXTRICATION / DELIVERANCE / SALVATION / LIBERATION / EMANCIPATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "Stem 1: (to be) a state/act of saving/rescuing a party/entity; to save/rescue a party/entity, to come to the rescue of a party/entity, to extricate a party/entity from an undesirable situation",
+                "CTE": "(to be) a state of being/having been saved/rescued (from a harmful or undesirable situation)",
+                "CSV": "(to be) a physical act of saving/rescuing; to physically save/rescue a party/entity; to save/rescue someone/something from danger/harm",
+                "OBJ": "(to be) the party/entity being saved/rescued"
             },
-            "",
-            ""
+            "(to be) a state/act of deliverance/salvation/redemption (i.e., finding a way to end the conditions which keep a party in a state an undesirable social, psychological, spiritual, or personally harmful state); to save/deliver/redeem",
+            "(to be) a state/act of liberation/emancipation (i.e. putting an end to socio-political/economic conditions which have kept a party/entity in a state of being oppressed); to liberate, to emancipate"
         ]
     },
     {
@@ -620,13 +610,13 @@
         "refers": "MANNER / WAY / GUISE / FORM / BEHAVIOR / COMPORT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) the manner/way in which something/someone acts/operates/manifests itself",
+                "CTE": "(to be) the inner/intrinsic/inherent motivation/drive/instructions, etc. which control one’s manner/way",
+                "CSV": "(to be) the outward physical manifestation or discernible praxes of one’s manner/way",
+                "OBJ": "(to be) that which has or manifests a particular manner/way"
             },
-            "",
-            ""
+            "(to be) the guise/form taken by a party/entity",
+            "(to be) one’s behavior/conduct/comport"
         ]
     },
     {
@@ -634,13 +624,13 @@
         "refers": "METHOD / PROCEDURE / POLICY / PLAN / STRATEGY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) the method (i.e., proscribed/conventionalized procedure) by which a party/entity performs/accomplishes something",
+                "CTE": "(to be) the state of there being a methodical process",
+                "CSV": "(to be) a physical step/act in a method(ical procedure); to implement/engage in a step/act that is part of a method(ical procedure)",
+                "OBJ": "(to be) that which a method(ical procedure) is intended to accomplish"
             },
-            "",
-            ""
+            "(to be) the practice/policy used by a party/entity in operating/manifesting itself",
+            "(to be) a plan (i.e., a series of inter-dependent procedural steps toward accomplishing something)"
         ]
     },
     {
@@ -648,13 +638,13 @@
         "refers": "ALIENABLE POSSESSION / OWNERSHIP",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act of physical possession; to have/possess (temporary/circumstantial and alienable – e.g., a book in one’s hand)",
+                "CTE": "(to be) the state of alienable possession; possessing something potentially alienable",
+                "CSV": "(to be) the physical means by which a state of alienable possession is manifested, e.g., by holding or carrying, by a verbal or written statement, via containment within one’s pocket, etc.)",
+                "OBJ": "(to be) the object/entity possessed (temporary/circumstantial and alienable)"
             },
-            "",
-            ""
+            "(to be) an act of possession; have/possess/own; possession, piece of property (alienable but quasi-permanent by law/right/permission and in one’s immediate possession-, e.g., a library book which I’ve checked out)",
+            "(to be) an act of possession; have/possess/own; possession, piece of property (alienable but quasi-permanent by law/right, not in one’s immediate possession -e.g., a book I bought/own but am not currently holding/reading)"
         ]
     },
     {
@@ -662,13 +652,13 @@
         "refers": "INALIENABLE POSSESSION / OWNERSHIP",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act of physical possession; to have/possess (circumstantial and affective + (quasi-) inalienable, either permanent or temporary – e.g., a medical condition, an office at work I occupy, a seat at a cinema showing)",
+                "CTE": "(to be) the state of inalienable possession; possessing something that is potentially inalienable",
+                "CSV": "(to be) the physical means by which a state of inalienable possession is manifested, e.g., by biological/genetic association, by physical connection, by law, etc.)",
+                "OBJ": "(to be) the object/entity inalienably possessed"
             },
-            "",
-            ""
+            "(to be) an act of possession/ownership; have/possess/own; possession, piece of property (quasi-permanent and legally inalienable except through formal/legal separation process – e.g., a house I own, a pet dog I registered",
+            "(to be) an act of physical possession; to have/possess (genetic, intrinsic and inalienable, but not considered property – e.g., a sibling, a child, a limb, a memory)"
         ]
     },
     {
@@ -676,13 +666,13 @@
         "refers": "GOOD / BENEFICIAL / ADVANTAGEOUS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) something good ( = materially beneficial to the context at hand) [both the act/event/situation and its beneficent quality]",
+                "CTE": "(to be) the essential state/quality of material goodness/beneficence manifested in a particular act/state/event/situation/entity, etc.",
+                "CSV": "(to be) a particular act/state/event/situation/entity, etc. identified as being good; to do something materially/tangibly good/beneficial",
+                "OBJ": "(to be) the particular element(s) (e.g., word(s), action(s), emanation(s), appearance, product, presence of something, lack of something, etc.) which makes something describable/identifiable as being materially/tangibly “good/beneficial”"
             },
-            "",
-            ""
+            "(to be) something good [ = morally right; beneficial in a metaphysical sense]",
+            "(to be) something good [ = advantageous or effective]"
         ]
     },
     {
@@ -690,13 +680,13 @@
         "refers": "FAIRNESS / EQUITABILITY / IMPARTIALITY / REASONABLENESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) something fair/equitable/impartial/reasonable",
+                "CTE": "(to be) the essential state/quality of fairness/equitability/impartiality/reasonableness manifested in a particular act/state/event/situation/entity, etc.",
+                "CSV": "(to be) a particular act/state/event/situation/entity, etc. identified as being fair/equitable/impartial/ reasonable; to do something fairly/equitably/impartiality/reasonably",
+                "OBJ": "(to be) the particular element(s) (e.g., word(s), action(s), emanation(s), appearance, product, presence of something, lack of something, etc.) which makes something describable/identifiable as being fair/equitable"
             },
-            "",
-            ""
+            "(to be) something just [ = legally right; morally proper in a metaphysical sense]",
+            "(to be) something unbiased, without prejudice"
         ]
     },
     {
@@ -704,13 +694,13 @@
         "refers": "POWER / EFFORT / OPERATION / FUNCTIONING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance/act of energy expenditure in a particular form; to manifest a display/use of energy in a particular form/manner; exert energy in a particular form/manner",
+                "CTE": "(to be) the process of energy being expended (i.e., conversion of source fuel into power)",
+                "CSV": "(to be) a physical manifestation of energy expenditure (i.e., what action(s) an entity actually does that requires energy to do)",
+                "OBJ": "(to be) that to/for which energy is being used/exerted"
             },
-            "",
-            ""
+            "(to be) an instance/manifestation of action or effort; to act, to perform, to do, make an effort (i.e., energy expenditure focused on a specific task)",
+            "(to be) an act/state of an entity operating or functioning or “working” (i.e., the proper or expected functioning of a device or machine or process as in “Does the washing machine work?”); to operate, to function"
         ]
     },
     {
@@ -718,13 +708,13 @@
         "refers": "WORK / LABOR / JOB",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance of work/labor; to work, to labor (i.e., organized/planned effort over time associated with a commercial or community endeavor)",
+                "CTE": "(to be) the process of energy/effort expended via labor",
+                "CSV": "(to be) a physical manifestation of labor/working; to physically do work/labor; to labor",
+                "OBJ": "(to be) that which one works on or attempts to accomplish/build/make/change via one’s labor"
             },
-            "",
-            ""
+            "(to be) an act of producing a tangible product via labor/effort",
+            "(to be) a job task; employment-related task; do one’s job"
         ]
     },
     {
@@ -732,13 +722,13 @@
         "refers": "FACULTY / ATTRIBUTE / QUALITY / TRAIT / PROPERTY / CHARACTERISTIC / FEATURE / ATTRIBUTE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of having a particular faculty/capacity/ability; to have a particular faculty/capacity for something or ability to do something",
+                "CTE": "(to be) a faculty as an existential state",
+                "CSV": "(to be) a physical act that demonstrates/manifests a particular faculty",
+                "OBJ": "(to be) the particular faculty/ability itself"
             },
-            "",
-            ""
+            "(to be) a state/act of having a particular quality, trait, or property (i.e., an inherent and necessary characteristic that is intrinsic to one’s identity), e.g., mass, spherical shape, being alive, being toxic to certain life-forms, being gelatinous, being a vertebrate, etc.)",
+            "(to be) a state/act of having a particular superficial feature, attribute, or characteristic (out of multiple possibilities, e.g., blue-eyed, having freckles, being fat, having stripes, etc.)"
         ]
     },
     {
@@ -746,13 +736,13 @@
         "refers": "IMPRESSION / APPEARANCE / “LOOK” / SEMBLANCE / ASPECT / GUISE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an impression; to give off an impression (i.e., to incite a reaction or belief in another based upon one’s appearance/behavior/words/actions, etc., whether intentionally or not)",
+                "CTE": "(to be) an impression experienced/received by observing/noticing something; to receive/experience and impression given off by some entity/party",
+                "CSV": "(to be) an act/state of giving off/creating an impression to another",
+                "OBJ": "(to be) the entity/person/party who gives off an impression or whom one has an impression about"
             },
-            "",
-            ""
+            "(to be) the appearance or “look” or semblance or aspect of an entity [i.e., the outward subjective impression upon on observer given off by one’s visual dress, physique, manner]; to appear, to look [ = have the appearance/look/semblance/aspect of]",
+            "(to be) the guise of an entity; to be in the guise of, have the guise of"
         ]
     },
     {
@@ -760,13 +750,13 @@
         "refers": "OVERSIGHT / RESPONSIBILITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act/process of oversight of something/someone; to oversee something/someone (i.e., be aware and mindful of how something or someone functions/behaves/transpires)",
+                "CTE": "(to be) a state of there being oversight",
+                "CSV": "(to be) a rule/procedure/custom/praxis associated with the process of overseeing; to carry out a rule/procedure/custom/praxis associated with oversight",
+                "OBJ": "(to be) a party who is subject to oversight"
             },
-            "",
-            ""
+            "(to be) a state/act of being responsible for something/someone; to look after, to be responsible for (i.e., oversight which carries negative consequences if not performed adequately)",
+            "(to be) an obligation or duty"
         ]
     },
     {
@@ -774,13 +764,13 @@
         "refers": "SUPERVISION / REGULATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act/process of being in charge of something; to be in charge, to take charge of something/someone",
+                "CTE": "(to be) a state of there being someone in charge",
+                "CSV": "(to be) a rule/procedure/custom/praxis associated with being in charge; to do/perform an act which demonstrates one being in charge",
+                "OBJ": "(to be) what one is in charge of"
             },
-            "",
-            ""
+            "(to be) a state/act/process of supervision; to supervise, have supervisory responsibility for something/someone",
+            "(to be) a state/act/process of regulation; to regulate something (i.e., exercise the authority to make rules for the oversight/functioning of something)"
         ]
     },
     {
@@ -788,13 +778,13 @@
         "refers": "PERSONAL RESPONSIBILITY / BLAME / LIABILITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act/process of having personal responsibility for or regarding something or someone",
+                "CTE": "(to be) a state of being [held] personally responsible",
+                "CSV": "(to be) an act/behavior/practice associated with being personally responsible; to do/perform an act which demonstrates one is (being) personally responsible",
+                "OBJ": "(to be) what one is [held] personally responsible for"
             },
-            "",
-            ""
+            "(to be) a state/act/process of blame; to be [held] to blame for something, to (be) blame(d) for something",
+            "(to be) a state/act/process of liability; to be [held] liable for something"
         ]
     },
     {
@@ -802,13 +792,13 @@
         "refers": "OPENNESS / TRANSPARENCY / STRAIGHTFORWARDNESS / ACCOUNTABIILITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act/process of being open/transparent to/with others",
+                "CTE": "(to be) a state of openness/transparency",
+                "CSV": "(to be) an act/behavior/practice associated with being open/transparent; to do/perform an act which demonstrates one is (being) open/transparent",
+                "OBJ": "(to be) what one is open/transparent about"
             },
-            "",
-            ""
+            "(to be) a state/act of straightforwardness, being straight and to-the-point with others; to be/speak straightforward(ly); to be straight with others, to be direct and tothe-point",
+            "(to be) a state/act/process of accountability; to be (potentially) accountable for something [i.e., responsibility for addressing/fixing/dealing with/explaining/making good on something if something goes wrong]"
         ]
     },
     {
@@ -816,13 +806,13 @@
         "refers": "RULE / PRECEPT / MAXIM / AXIOM / EDICT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/instance/process of using/applying/establishing/enforcing/ `being subject to a rule or precept",
+                "CTE": "(to be) a state of there being a rule/precept in place that governs a situation or one’s behavior",
+                "CSV": "(to be) an act/instance of applying/enforcing/establishing/dictating a rule or precept",
+                "OBJ": "(to be) a particular rule/precept"
             },
-            "",
-            ""
+            "(to be) a state/act/process of applying/establishing/being subject to a maxim or axiom (i.e., a foundational/underlying presupposition/assumption as to a state of affairs that constitutes an unquestioned rule or fundamental principle for further decisions)",
+            "(to be) a state/act/instance of dictating/establishing/ announcing an edict or ruling [i.e., a declaration by a recognized authority that establishes/enforces a legally-binding rule/law/decision/state of affairs]"
         ]
     },
     {
@@ -830,13 +820,13 @@
         "refers": "POWER / EFFICACY / POTENCY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of power (i.e., puissant force derived from energy utilization/expenditure); to (em)power, to energize, galvanize",
+                "CTE": "(to be) a state of having physical power/puissance/might/strength; be powerful/puissant/mighty (in terms of strength/degree of forceful utilization of energy)",
+                "CSV": "(to be) an act of physical power; to act in a manner demonstrating/manifesting physical power",
+                "OBJ": "(to be) that which is (em)powered"
             },
-            "",
-            ""
+            "(to be) a state/act of efficacy; be efficacious, be effectual (i.e., ability/capacity to get things done effectively)",
+            "(to be) state/act of potency; be/make potent/powerful"
         ]
     },
     {
@@ -844,13 +834,13 @@
         "refers": "FORCE / EFFECTIVENESS / PRODUCTIVITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of force; use force, act forcefully/with force (i.e., delineated/directed application/utilization of energy)",
+                "CTE": "(to be) a state of being under force, subjected to force",
+                "CSV": "(to be) an act of using/applying force; to use/apply force",
+                "OBJ": "(to be) the force one uses/applies"
             },
-            "",
-            ""
+            "(to be) a state of effectiveness; be/make effective",
+            "(to be) a state/act of productivity; be/make productive"
         ]
     },
     {
@@ -858,13 +848,13 @@
         "refers": "GEOPOLITICAL COUNTRY/LAND/ TERRITORY/REGION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a geopolitical country/land/territory, i.e., the tangible area of land, bodies of water, and airspace subject to control/rule by a governmental entity, often associated or (quasi-)contiguous with a specific ethno-cultural society of people.",
+                "CTE": "(to be) the state of being a geopolitical country/land/territory",
+                "CSV": "(to be) the particular location and/or geographic/terrestrial features/terrain associated with a geopolitical country/land/territory",
+                "OBJ": "(to be) a particular (i.e., named) geopolitical country/land/territory"
             },
-            "",
-            ""
+            "(to be) a state or province or subdivision of Stem 1, subject to some degree of regional autonomous governmental administration",
+            "(to be) a geopolitical or cultural region delineated by a distinct culture, ethnicity, language, history, etc. which does not necessarily align with or have its own separate sovereignty or quasi-autonomous governmental administration."
         ]
     },
     {
@@ -872,13 +862,13 @@
         "refers": "COINCIDENCE / SIMULTANEITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/instance of coinciding, a coincidence; to coincide [not necessarily simultaneous but auspiciously timed in relation to another event]",
+                "CTE": "(to be) a state of coincidence",
+                "CSV": "(to be) an act which constitutes a coincidence; to do something that creates/constitutes a coincidence (with something else)",
+                "OBJ": "(to be) the other “half” of a coincidence, the other coinciding event/entity or circumstance"
             },
-            "",
-            ""
+            "(to be) a state/instance of simultaneity; to occur simultaneously without knowledge/awareness of the other state/event occurring at the same time",
+            "(to be) a state/instance of synchronicity (i.e., a coincidence so unlikely but nevertheless having significant personal impact on a situation, that one can only marvel and/or be suspicious of its occurrence)"
         ]
     },
     {
@@ -886,13 +876,13 @@
         "refers": "STRANGENESS / ODDITY / WEIRDNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) something strange/odd/weird [i.e., having the effect of being unfamiliar, unknown, not previously expected or encountered, and which defies immediate explanation and inspires curiosity]",
+                "CTE": "(to be) strange/odd/weird as a characteristic",
+                "CSV": "(to be) a particular behavior or physical aspect which characterizes something or someone as strange/odd/weird",
+                "OBJ": "(to be) the sense/feeling that something is strange/odd/weird"
             },
-            "",
-            ""
+            "(to be) something strange/odd/weird/disconcerting [i.e., unfamiliar and inexplicable with the effect of inspiring caution, trepidation, apprehension due to being seen as a potential threat]",
+            "(to be) something scary/creepy/frightening [i.e., unfamiliar and inexplicable with the effect of inspiring fear at a perceived threat]"
         ]
     },
     {
@@ -900,13 +890,13 @@
         "refers": "COMPLAINT / GRIEVANCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(be) a act/instance of complaining, (be) a complaint; to complain, to make a complaint",
+                "CTE": "(be) the content of a complaint, i.e., what one is complaining about",
+                "CSV": "(be) the physical act (verbal, written, processual, etc.) of making a complaint (irrespective of the content of the complaint",
+                "OBJ": "(be) the party to whom one complains; the party from whom relief/resolution of the complaint is requested"
             },
-            "",
-            ""
+            "(be) a grievance (requiring compensation/accommodation/recompense), i.e., a formal or legalistic complaint",
+            "(be) a criminal complaint (i.e., a charge/allegation of a criminal offense perpetrated against a party, requiring justice)"
         ]
     },
     {
@@ -914,13 +904,13 @@
         "refers": "SECRETION / RESIN / SAP",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(be) a act/instance of a bodily secretion",
+                "CTE": "(be (in)) the state of having secreted",
+                "CSV": "(be) the physical process of secreting",
+                "OBJ": "(be) an amount of a secreted substance"
             },
-            "",
-            ""
+            "(be) an act/instance of sap secretion from a tree or sapproducing plant",
+            "(be) an act/instance of secretion of a resin"
         ]
     },
     {
@@ -928,13 +918,13 @@
         "refers": "PICK UP / TAKE (IN) / AMASSING / ACQUISITION / PROCUREMENT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/instance of taking or picking something up for the purpose of (temporarily/circumstantially) keeping/guarding/using it or conveying it elsewhere; to pick something up, take something (in), to obtain something",
+                "CTE": "(to be) a state of (temporary/circumstantial) possession as a result of being picked up or taken in",
+                "CSV": "(to be) a physical act of picking up or taking in; to pick up, to take in",
+                "OBJ": "(to be) that which is picked up or taken (in) or obtained"
             },
-            "",
-            ""
+            "(to be) an act/process of amassing/piling up, adding to, growing in number/amount; to amass, to pile up, to add to, to grow in number/amount",
+            "(to be) an act/instance of procurement or acquiring; to procure/acquire CTE something"
         ]
     },
     {
@@ -942,13 +932,13 @@
         "refers": "GATHERING / COLLECTION / ACCUMULATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance of gathering something (up/in) [i.e., bringing separate entities together to form a grouping thereof]",
+                "CTE": "(to be) an act/instance of taking (temporary) possession, oversight or guardianship of something/someone",
+                "CSV": "(to be) a physical act of gathering (up/in); to gather (up/in)",
+                "OBJ": "(to be) that which is gathered (up/in)"
             },
-            "",
-            ""
+            "(to be) an act/process of collection; to collect",
+            "(to be) an act/process of accumulation/accretion"
         ]
     },
     {
@@ -956,13 +946,13 @@
         "refers": "ACCRUAL / SAVING UP / HOARDING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act/process of accrual of something; to accrue something [i.e., a periodic or constant obtaining and holding onto (a supply of) something so that its amount/number continues to increase]",
+                "CTE": "(to be) a state of there being something that has (been) accrued",
+                "CSV": "(to be) a physical act of accruing; to take action to accrue something",
+                "OBJ": "(to be) what one accrues"
             },
-            "",
-            ""
+            "(to be) a state/act/process of saving money or other financial/monetary resources; to accrue (monetary) savings, to save up",
+            "(to be) a state/act/process of hoarding; to hoard [i.e., obsessive and excessive accrual without a rational basis]"
         ]
     },
     {
@@ -970,13 +960,13 @@
         "refers": "SIGNATURE / PERSONAL AUTHORIZATION / PERSONAL AUTHENTICATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of personally authorization or authentication via signature; to personally authorize something by signing one’s written signature",
+                "CTE": "(to be) a state of personal authorization or authentication via signature",
+                "CSV": "(to be) a physical act of signing one’s written signature; to sign one’s written signature",
+                "OBJ": "(to be) what one signs (e.g., a contract, a personal check, a document, etc.)"
             },
-            "",
-            ""
+            "(to be) a state/act personal authorization by means other than signature, e.g., sworn oath, voice command, thumbprint, retinal scan, etc.",
+            "(to be) a state/act of personal authentication (i.e., a process to ensure one’s identity), e.g., signature, fingerprints, voiceprint, DNA test, retinal scan, visual identification by others, etc."
         ]
     },
     {
@@ -984,27 +974,22 @@
         "refers": "PROBLEM / MYSTERY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a problem/issue causing inconvenience/impediment; have an issue/problem with",
+                "CTE": "(to be) the issue/problem requiring resolution caused/created by an entity/party or situation",
+                "CSV": "(to be) the entity/party or situation itself which has caused/created an issue/problem",
+                "OBJ": "(to be) the entity/party affected by or experiencing /perceiving the issue/problem caused/created by another entity/party/situation"
             },
-            "",
-            ""
+            "(to be) a mystery or puzzling situation with no readily apparent explanation/solution",
+            "(to be) something irksome, i.e., an entity or situation that causes annoyance and gives rise to the need/desire to resolve/eliminate the annoyance"
         ]
     },
     {
         "root": "RŇF",
         "refers": "TROUBLE / MISFORTUNE / DISASTER / CALAMITY",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be) a state of being in trouble (i.e., a situation which places/has placed a party in adverse circumstances, e.g., physical danger, legal difficulties, under threat of losing one’s livelihood/possessions/reputation/loved ones, etc.); to be in trouble, to be threatened by adverse circumstances, to be facing an adverse situation",
+            "(to be) a state of suffering misfortune; to suffer from misfortune, to be in unfortunate circumstances",
+            "(to be) a state of suffering disastrous/calamitous circumstances; to be facing a disaster/calamity, to suffer a disaster/calamity"
         ]
     },
     {
@@ -1012,13 +997,13 @@
         "refers": "RAISE / FOSTER / NURTURE / CULTIVATE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act of raising/fostering/being guardian to someone; to raise, foster, function as guardian over",
+                "CTE": "(to be) the state of being fostered/raised by someone",
+                "CSV": "(to be) a physical act of raising/fostering",
+                "OBJ": "(to be) the person/entity raised/fostered"
             },
-            "",
-            ""
+            "(to be) an act of nurturing; to nurture (i.e., provide an environment and resources for an entity’s growth and well-being)",
+            "(to be) an act of cultivation; to cultivate, to garden"
         ]
     },
     {
@@ -1026,13 +1011,13 @@
         "refers": "PUZZLE / RIDDLE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a puzzle (i.e., a recreational game/activity requiring one to resolve/figure out/piece together a solution)",
+                "CTE": "(to be) the specific content/nature of a puzzle",
+                "CSV": "(to be) the form/type/structure of a puzzle",
+                "OBJ": "(to be) the party who undertakes to solve a puzzle"
             },
-            "",
-            ""
+            "(to be) a riddle (i.e., a word-based recreational puzzle usually designed to be witty on its initial face)",
+            "(to be) charade (i.e., a recreational puzzle acted out in real-time)"
         ]
     },
     {
@@ -1040,13 +1025,13 @@
         "refers": "CONCEALMENT / SECRECY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of concealing/hiding something, act of concealment; to conceal, to hide something [i.e., by being placed somewhere so as not to be found/discovered/encountered/accessible]",
+                "CTE": "(to be) a state of concealment/being hidden",
+                "CSV": "(to be) a physical act of concealing/hiding; to do something to conceal/hide an entity",
+                "OBJ": "(to be) what is (to be) concealed"
             },
-            "",
-            ""
+            "(to be) a state/act of concealing/hiding/masking something; act of concealment; to conceal/hide/mask [i.e., by masking, covering up, disguising, enclosing so as not to be directly observed, etc.]",
+            "(to be) a state/act of secrecy; to keep something secret [OBJ Specification = ‘a secret’]"
         ]
     },
     {
@@ -1054,13 +1039,13 @@
         "refers": "FIND / DISCOVER / ENCOUNTER / MEET",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of finding/discovering something (by chance)",
+                "CTE": "(to be) a state of discovery (i.e., the state one is in upon having discovered something.",
+                "CSV": "(to be) a physical act of finding/discovering something by chance",
+                "OBJ": "(to be) that which is found/discovered by chance"
             },
-            "",
-            ""
+            "(to be) a state/act of encountering, coming upon/across something; to encounter or come across/upon something/someone (by chance)",
+            "(to be) a state/act of meeting someone (i.e., mutual encounter by chance)"
         ]
     },
     {
@@ -1068,13 +1053,13 @@
         "refers": "OBSCURITY / AMBIGUITY / STEALTH / SURREPTITIOUSNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of obscuring; render something obscure or unclear [i.e., so that it is not clear or easily discernible as to what it is exactly]",
+                "CTE": "(to be) a state of obscurity/being obscure",
+                "CSV": "(to be) a physical act of obscuring; to do something that makes an entity obscure or unclear",
+                "OBJ": "(to be) what is (made) obscure/unclear"
             },
-            "",
-            ""
+            "(to be) a state/act of ambiguity; to render something ambiguous, to obfuscate",
+            "(to be) a state/act of stealth/surreptitiousness; to act stealthily/surreptitiously, be stealthful/surreptitious (i.e., so as to render something difficult to observe or notice)"
         ]
     },
     {
@@ -1082,13 +1067,13 @@
         "refers": "SLOT / GROOVE / FURROW",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a linear indentation/groove/channel; to make a linear indentation/groove/channel",
+                "CTE": "(to be) the state of being grooved, having a linear indentation/channel/groove",
+                "CSV": "(to be) a physical act of making/fashioning a linear indentation/groove/channel",
+                "OBJ": "(to be) an implement for use with or placement into a linear indentation/groove/channel"
             },
-            "",
-            ""
+            "(to be) a slot; to make a slot (i.e., a linear opening into which something can be placed/fitted; does NOT mean ‘slot’ in a classificatory/schematic sense as in “Can we be slotted in between those appointments?” or “The morpho-phonology of the Ithkuil formative has a slot structure.”)",
+            "(to be) a furrow"
         ]
     },
     {
@@ -1096,13 +1081,13 @@
         "refers": "AESTHETIC APPEAL / PRETTINESS / LOVELINESS / BEAUTY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of perceiving/experiencing something aesthetically appealing; to perceive/experience something aesthetically appealing; to like something aesthetically-speaking",
+                "CTE": "(to be) a state of aesthetic appeal, a state of something being aesthetically appealing",
+                "CSV": "(to be) an act of perceiving/contemplating/experiencing something aesthetically appealing; to like something aesthetically-speaking",
+                "OBJ": "(to be) something aesthetically appealing"
             },
-            "",
-            ""
+            "(to be) a state/act of perceiving/experiencing something pretty/fair/lovely; to perceive/experience something pretty/fair/lovely",
+            "(to be) a state/act of perceiving/experiencing something beautiful; to perceive/experience something beautiful"
         ]
     },
     {
@@ -1110,13 +1095,13 @@
         "refers": "VALUE / EXPEDIENCE / SUITABILITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of something being potentially worthwhile or of worth/value, something worth pursuing / to be something potentially worthwhile; to pursue something potentially worthwhile or of worth/value",
+                "CTE": "(to be) a state of having value/being worthwhile/being valuable",
+                "CSV": "(to be) a physical act of doing/pursuing something worthwhile/of value",
+                "OBJ": "(to be) something worthwhile; (be) something of value; (be) something valuable"
             },
-            "",
-            ""
+            "(to be) a state of something being expedient or opportune; to be/do something expedient or opportune",
+            "(to be) a state of something being fitting, apropos or suitable; to be/do something fitting, apropos or suitable"
         ]
     },
     {
@@ -1124,13 +1109,13 @@
         "refers": "ADVANTAGE / OPPORTUNITY / CONVENIENCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of something being advantageous/favorable; to be advantageous, be to one’s advantage, to be in favorable or advantageous circumstances",
+                "CTE": "(to be) a state of being advantageous/favorable",
+                "CSV": "(to be) a physical act of pursuing an advantage; to pursue an advantage",
+                "OBJ": "(to be) something advantageous/favorable"
             },
-            "",
-            ""
+            "(to be) a state of something being an opportunity / a chance to experience or do something normally unavailable; to pursue an opportunity, take advantage of an opportunity",
+            "(to be) a state of something being a convenience / something convenient; to be convenient / do something convenient"
         ]
     },
     {
@@ -1138,13 +1123,13 @@
         "refers": "WELL-FORMEDNESS / AESTHETIC APPEAL / STYLISHNESS / PERFECTION / SPLENDOR",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of being well-formed/shapely/well-proportioned; to be/make well-formed/shapely/well-proportioned",
+                "CTE": "(to be) a state of shapeliness/well-formedness",
+                "CSV": "(to be) an act of making something well-formed/shapely/well-proportioned",
+                "OBJ": "(to be) that which is shapely/well-formed/well-proportioned"
             },
-            "",
-            ""
+            "(to be) a state of something being aesthetically/sensually pleasing or satisfying (e.g., a fine meal, a glass of wine, a thrill ride, a sexual experience, etc.); to experience a sense of aesthetic/sensual satisfaction/pleasure from something",
+            "(to be) a state of something being stylish/fine (as in a “finely”-made, “finely”-crafted); to be/make something stylish/fine, etc."
         ]
     },
     {
@@ -1152,13 +1137,13 @@
         "refers": "PERFECTION / OPTIMALITY / EXQUISITENESS / SUBLIMITY / SPLENDIDNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of something being perfect/optimal; be/make perfect/optimal (i.e., cannot possibly be better)",
+                "CTE": "(to be) a state of perfection/optimality",
+                "CSV": "(to be) an act of making something perfect/optimal; to perfect, to optimize",
+                "OBJ": "(to be) that which is perfect/optimal"
             },
-            "",
-            ""
+            "(to be) a state of something being exquisite/superb/sublime; to be/make something exquisite/superb/sublime",
+            "(to be) a state of something being magnificent/splendid; be/make something magnificent/splendid"
         ]
     },
     {
@@ -1166,13 +1151,13 @@
         "refers": "DECORATION / FANCINESS / ORNATENESS / ORNAMENTATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state of something being decorative; be/make decorative, to decorate",
+                "CTE": "(to be) a state of decorativeness/decoration; to have a decorative look",
+                "CSV": "(to be) an act of making something look decorative; to do something that decorates",
+                "OBJ": "(to be) that which is decorative-looking"
             },
-            "",
-            ""
+            "(to be) a state of something being fancy/showy; to be/make something fancy/showy",
+            "(to be) a state of something being ornate/ornamental; be/make something ornate/ornamental"
         ]
     },
     {
@@ -1180,13 +1165,13 @@
         "refers": "INTENSIFICATION / AMELIORATION / IMPROVEMENT / AGGRAVATION / WORSENING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of intensifying“heightening”; to intensify/“heighten” (i.e., make the effect of something stronger or more effective/impactful)",
+                "CTE": "(to be) a state of intensification",
+                "CSV": "(to be) an act of intensifying; to do something that causes intensification",
+                "OBJ": "(to be) that which is intensified"
             },
-            "",
-            ""
+            "(to be) a state/act ameliorating/bettering/enhancing/improving; to ameliorate/better/improve (i.e., cause a situation or the condition/state of something to improve or become more desirable/optimal)",
+            "(to be) a state/act of aggravation/worsening; to aggravate/worsen"
         ]
     },
     {
@@ -1194,13 +1179,13 @@
         "refers": "ADJUSTMENT / REPAIR / MENDING / RESTORATION / CORRECTION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/instance/process of adjustment; to adjust [i.e., make a minor change to the state/condition/shape/appearance/workings of something in order to change its function/efficiency/appearance/usability]",
+                "CTE": "(to be) a state of adjustment/being adjusted/having been adjusted",
+                "CSV": "(to be) a physical act of adjustment/adjusting; to perform a physical act of adjustment",
+                "OBJ": "(to be) the adjustment one makes; the specific change to an entity made during an adjustment"
             },
-            "",
-            ""
+            "(to be) an act/instance/process of repairing/fixing/mending/ restoring; to repair/fix/mend/restore [i.e., bring something in a broken/damaged/worn state back to a functioning operative/usable/ presentable state",
+            "(to be) an act/instance/process of correction, rendering something that is in an incorrect/improper/inaccurate state into a correct/proper/accurate state"
         ]
     },
     {
@@ -1208,13 +1193,13 @@
         "refers": "EMPHASIS / HIGHLIGHT / UNDERSCORE / IMPRESS UPON / RAVE ABOUT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of highlighting/bringing attention to; to highlight, to bring attention to, to focus upon",
+                "CTE": "(to be) a state of being highlighted, having attention upon oneself",
+                "CSV": "(to be) an act of highlighting/bringing attention to; to do something that highlights or brings attention to an entity/party",
+                "OBJ": "(to be) the party/entity/object highlighted"
             },
-            "",
-            ""
+            "(to be) a state/act of emphasizing/underscoring/impressing upon others about; to emphasize, underscore, to impress upon others about (i.e., to make another particularly aware or focused on something/someone)",
+            "(to be) a state/act of going on about/raving about, not being able to say enough about; to go on about, rave about, can’t say enough about, sing the praises of"
         ]
     },
     {
@@ -1222,13 +1207,13 @@
         "refers": "SHREWDNESS / ARTFULNESS / CRAFTINESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of shrewdness; be/act shrewd(ly) [i.e., using unobtrusive cleverness and good judgement]",
+                "CTE": "(to be) a state of shrewdness",
+                "CSV": "(to be) an act of shrewdness; to do something shrewd(ly)",
+                "OBJ": "(to be) that which is shrewd"
             },
-            "",
-            ""
+            "(to be) a state/act of artfulness; be/act artful(ly) (i.e., accomplish one’s aims in a manner with the intention that others not realize/see/know exactly what one has done or how one has done it)",
+            "(to be) state/act of craftiness/scheming/underhandedness/sneakiness; to act with craftiness, be crafty/scheming/underhanded, act in a crafty/scheming/underhanded manner (i.e., same as Stem 2 above but with the additional connotation that one’s aims/goals are nefarious)"
         ]
     },
     {
@@ -1236,13 +1221,13 @@
         "refers": "DEGREE OF SUBTLETY / NUANCE / CUNNING / GUILE / STEALTH / INSIDIOUSNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of subtlety/nuance ( = slight but meaningful variation in appearance/manifestation/color/sound, etc.) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of subtlety/nuance",
+                "CSV": "(to be) a degree of subtlety/nuance",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of subtlety/nuance"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of slyness / cunning / guile ( = subtlety/nuance in terms of wordplay/behavior/actions, etc. with intention to manipulate a situation)",
+            "(to be/manifest a) degree of stealth/insidiousness ( = attempt to manipulate/act in an unseen/hidden/discreet manner for (quasi-)nefarious purposes)"
         ]
     },
     {
@@ -1250,13 +1235,13 @@
         "refers": "SURVEILLANCE / RECONNAISSANCE / UNDERCOVER OPERATION / ESPIONAGE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) state/act/process of surveillance; to conduct surveillance [i.e., surreptitious monitoring/observation of something or someone]",
+                "CTE": "(to be) a state of being secretly observed/monitored",
+                "CSV": "(to be) a physical act of secretly observing/monitoring; to physically observe or monitor as an act of surveillance",
+                "OBJ": "(to be) an observation made during surveillance; what is seen via surveillance"
             },
-            "",
-            ""
+            "(to be) an act/process of reconnaissance; to reconnoiter, conduct reconnaissance",
+            "(to be) an act of undercover espionage; conduct undercover operation to learn secrets from a party, to spy, conduct espionage"
         ]
     },
     {
@@ -1264,13 +1249,13 @@
         "refers": "GUESS / SPECULATION / SUPPOSITION / ASSUMPTION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of guessing, state/act of speculation; to guess, to speculate, to venture to say (i.e., conclusion reached in the absence of sufficient evidence)",
+                "CTE": "(to be) a state of speculation; ponder a situation as to how it might/should be interpreted or what conclusion one should come to about it",
+                "CSV": "(to be) an act of speculating, guessing; to make a guess",
+                "OBJ": "(to be) what on is guessing/speculating about"
             },
-            "",
-            ""
+            "(to be) a state/act of supposition; to suppose (i.e., to consider as a possibility or possible interpretation)",
+            "(to be) a state/act of assuming/presuming (i.e., believing one’s interpretation or supposition to be correct in the absence of confirmatory evidence)"
         ]
     },
     {
@@ -1278,13 +1263,13 @@
         "refers": "CONJECTURE / POSTULATING / THEORY / HYPOTHESIS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of postulating/making a conjecture; to postulate, make a conjecture",
+                "CTE": "(to be) a state of postulating or formulating a conjecture",
+                "CSV": "(to be) an act of postulating/conjecturing; to make a conjecture; to make a postulate",
+                "OBJ": "(to be) a conjecture, a postulate, what one postulates/conjectures"
             },
-            "",
-            ""
+            "(to be) a state/act of theorizing; to theorize, create a theorem",
+            "(to be) a state/act of hypothesizing; to hypothesize"
         ]
     },
     {
@@ -1292,13 +1277,13 @@
         "refers": "IMPORTANCE / SIGNIFICANCE / PREVALENCE / CONSPICUOUSNESS / PROMINENCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of importance/significance; to be/make important or significant",
+                "CTE": "(to be) a state of importance/significance",
+                "CSV": "(to be) an act of importance/significance; to do something important/significant",
+                "OBJ": "(to be) that which is important/significant"
             },
-            "",
-            ""
+            "(to be) a state/act of prevailing/prevalence; to prevail upon, to make prevalent",
+            "(to be) salience; to be/make salient/prominent/conspicuous/(pre-)eminent"
         ]
     },
     {
@@ -1306,13 +1291,13 @@
         "refers": "INFLUENCE / PERSUASION / PREDOMINANCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of influencing/influence; to be influential, to influence",
+                "CTE": "(to be) a state of influence/being influential",
+                "CSV": "(to be) an act of influence; to do/say something that influences, do something influential",
+                "OBJ": "(to be) an influence"
             },
-            "",
-            ""
+            "(to be) a state/act of persuasion; to persuade, sway, cajole, talk someone into, convince",
+            "(to be) a state of being preponderant/predominant, being a preponderance; to have/carry weight/predominance, to hold sway, to be/constitute a preponderance of evidence in favor of"
         ]
     },
     {
@@ -1320,13 +1305,13 @@
         "refers": "INCITING / INSTIGATION / ENCOURAGEMENT / ADVOCACY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of stimulation/rousing/inciting/instigating; to stimulate/rouse/incite/instigate",
+                "CTE": "(to be) a state of being stimulated/roused/incited",
+                "CSV": "(to be) an act of stimulating/instigating/inciting; to do something that incites/stimulates/instigates",
+                "OBJ": "(to be) that which a party/entity is stimulated/incited to be/do"
             },
-            "",
-            ""
+            "(to be) a state/act of encouragement; to encourage",
+            "(to be) a state/act of advocacy; to advocate for"
         ]
     },
     {
@@ -1334,13 +1319,13 @@
         "refers": "USE OF FORCE / COERCION / COMPULSION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of using the force of one’s will/personality/demeanor/ power or social standing to make something happen; to force something to happen by means of one’s will/personality/demeanor/power or social standing, to make something happen by force of will, to make somebody do something by force of will",
+                "CTE": "(to be) one’s force of will/power/personality/demeanor/power or social standing as a (potential) means for making things happen",
+                "CSV": "(to be) an act of wielding/exercising one’s force of will/power/personality/demeanor/ power or social standing to make something happen",
+                "OBJ": "(to be) what is made to happen by force of will/power/personality/demeanor/power or social standing"
             },
-            "",
-            ""
+            "(to be) a state/act coercing/compulsion; to coerce/compel [i.e., making someone do something against their will by means of an implied threat]",
+            "(to be) a state/act of using physical/brute force or physical manipulation/handling/attack against resistance to make something happen; to physically force/make something happen, to physically make/force somebody to do something against their will"
         ]
     },
     {
@@ -1348,13 +1333,13 @@
         "refers": "RIDE / DRIVE / TRANSPORT / PASSENGER",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of riding/drive; to ride/drive (i.e., to operate/control a mechanical device, machine, or animal as a means of conveyance/transportation, e.g., a bike, a horse, an automobile) [NOTE: this stem does not mean ‘ride’ where one is simply being conveyed without being the controller/operator, e.g., ride a bus]",
+                "CTE": "(to be) a state of riding/driving something (i.e., operating the means of conveyance/transportation)",
+                "CSV": "(to be) an act of driving/riding (i.e., operating/controlling) a means of personal conveyance/transportation; to perform the physical act(s) of riding/driving something (e.g., a horse, bike, automobile, skateboard, etc.)",
+                "OBJ": "(to be) the person being conveyed/transported, the transportee"
             },
-            "",
-            ""
+            "(to be) a a state/act of being a passenger conveyed/transported somewhere, riding; to ride (on) something (i.e., conveyance or transportation where one is NOT the one controlling/operating the device/machine/animal, e.g., ride a bus/train/escalator, etc.)",
+            "(to be) a state/act of transportation via a means of transportation/conveyance; to transport (i.e., the conveying/carrying of an entity via a device or animal)"
         ]
     },
     {
@@ -1362,13 +1347,13 @@
         "refers": "STATION-KEEPING / PARKING / HOLDING AREA / WAITING AREA",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of station-keeping, holding in place",
+                "CTE": "(to be) a state of being held in place for station-keeping",
+                "CSV": "(to be) an act of holding something in place for station-keeping; to hold in place for station-keeping",
+                "OBJ": "(to be) where something is held in place for station-keeping"
             },
-            "",
-            ""
+            "(to be) a state/act of place-keeping something when not in use, storage-keeping something when not in use; to store something when not in use, to park (a vehicle)",
+            "(to be) a state/act of temporarily holding or waiting in a holding area or waiting area; to temporarily hold/wait in a holding area/room/space or waiting area/room"
         ]
     },
     {
@@ -1376,13 +1361,13 @@
         "refers": "WASH / LAVE / BATHE / RINSE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of washing with water or liquid cleansing solution (i.e., to clean the surface of an entity by means of water or liquid cleansing solution)",
+                "CTE": "(to be) a state of being washed",
+                "CSV": "(to be) a physical act of washing (i.e., the physical motions/actions performed); to perform the physical motions/actions of washing",
+                "OBJ": "(to be) what is (being / to be) washed"
             },
-            "",
-            ""
+            "(to be) a state/act of bathing; to bathe",
+            "(to be) a state/act of rinsing/flushing/showering; to rinse/flush/shower (NOTE: by ‘shower’ is meant use of a controlled spray of water/cleansing fluid, not a rainshower or naturally occurring spray/pouring of water/liquid)"
         ]
     },
     {
@@ -1390,13 +1375,13 @@
         "refers": "EXAMPLE / EXEMPLAR / PRECEDENT / ARCHETYPE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(be) a state/instance of being an example of something; to exemplify something",
+                "CTE": "(be) a state of being seen/used as, or performing the function of being, an example; to be an example",
+                "CSV": "(be) a state/act/process of exemplification; the perform an act/process of exemplification; to make an example out of",
+                "OBJ": "(be) that which is considered an example or made to be an example; an exemplar"
             },
-            "",
-            ""
+            "(be) a precedent; i.e., an entity or situation which establishes a to-beexpected pattern for other/subsequent occurrences or instances of the entity or situation",
+            "(be) an archetype; the most prototypical/definitive/desirable example/pattern/design of an entity or idea"
         ]
     },
     {
@@ -1404,13 +1389,13 @@
         "refers": "IMPLICATION / HINT / CONNOTATION / ALLUSION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(be) a (state/process of) implication [i.e., a statesituation which functions as evidence by which an observer may deduce/infer something; to imply something]",
+                "CTE": "(be) an implication; that which is implied",
+                "CSV": "(be) a process of implying; offer/manifest evidence from which an inference can be made",
+                "OBJ": "(be) that which gives rise to, or is the basis for an implication; a hint, a “tip”"
             },
-            "",
-            ""
+            "(process of) connotation; to connote",
+            "(process of) allusion; to allude (to)"
         ]
     },
     {
@@ -1418,13 +1403,13 @@
         "refers": "MAXIMIZATION / OPTIMALITY / SUPREMACY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(be at) the maximum point/stage/degree/state; to maximize",
+                "CTE": "(be) a state of maximality",
+                "CSV": "(be) a process/act of maximizing",
+                "OBJ": "(be) the entity which in a maximal state"
             },
-            "",
-            ""
+            "(be at) the optimal point/stage/degree/condition/state",
+            "(be at) the supreme/utmost/”highest”/foremost point/stage/degree/state"
         ]
     },
     {
@@ -1432,13 +1417,13 @@
         "refers": "SCIENCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/state of utilizing science; to do something scientifically (i.e., employ the analytical/rational/dispassionate methods/tools/resources of clinical science when analyzing, considering, planning, working on something)",
+                "CTE": "(to be) a state of scientific rationality; for a state/act/situation to have science as its basis for existing/happening",
+                "CSV": "(to be) an act/state of doing something scientifically; to do something scientifically",
+                "OBJ": "(to be) what one does scientifically or the state/act that exists/takes place based upon science"
             },
-            "",
-            ""
+            "(to be) an act/state that is based upon and/or consistent with the scientific method",
+            "(to be) an act/state of relying upon science and/or scientific findings/conclusions when analyzing/judging a situation"
         ]
     },
     {
@@ -1446,13 +1431,13 @@
         "refers": "APPEAR / SHOW / DISPLAY / EXHIBIT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a showing, an appearance, i.e., be/make observable/discernible to others; to show, to manifest, to appear",
+                "CTE": "(to be) the state of appearing, being shown, being apparent",
+                "CSV": "(to be) the physical act/process of making something appear, or be shown, or be apparent",
+                "OBJ": "(to be) the object/entity/party being shown or appearing to others"
             },
-            "",
-            ""
+            "(to be) an act/process of showing off, flaunting; to show off, to flaunt",
+            "(to be) an act/process of displaying or exhibiting something; display, exhibition; to display, to exhibit"
         ]
     },
     {
@@ -1460,13 +1445,13 @@
         "refers": "CALLING ATTENTION TO / EXPOSURE / ADVERTISING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act of bringing/calling attention to something, i.e., make others aware of the appearance/showing of something",
+                "CTE": "(to be) the state of being a focus of attention",
+                "CSV": "(to be) the physical act/process of calling attention to; to do/say something that calls attention to something",
+                "OBJ": "(to be) the object/entity/party/fact/situation that one calls attention to"
             },
-            "",
-            ""
+            "(to be) an act/process of exposure, i.e., letting others observe/discern something they otherwise would not observe/discern",
+            "(to be) an advertisement; to advertise"
         ]
     },
     {
@@ -1474,13 +1459,13 @@
         "refers": "ANNOUNCEMENT / DECLARATION / PRONOUNCEMENT / PROCLAMATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an act/instance of announcing something (verbally or in writing); to announce, to make an announcement",
+                "CTE": "(to be) the state of being/having been announced",
+                "CSV": "(to be) the physical act/process of announcing; to do/say/write/publish something that announces something",
+                "OBJ": "(to be) that which is announcement; an announcement"
             },
-            "",
-            ""
+            "(to be) an act/instance of reporting something; to report [i.e., verbally letting others be aware of something that has heretofore not been so or has not been publicly known]",
+            "(to be) an act/instance of declaring/pronouncing/proclaiming something to be so; to declare/pronounce/proclaim (i.e., where the act of doing so has the performative effect of making it so/true or causing it to be in effect)"
         ]
     },
     {
@@ -1488,13 +1473,13 @@
         "refers": "KIND / SORT / TYPE / GENRE / CLASS / CATEGORIZATION / MODE / MANNER / WAY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of categorization or being/placing in a category; to categorize, to place/label/identify something into or as being in a category/kind/sort /class/variety",
+                "CTE": "(to be) a kind/sort/class/variety/category",
+                "CSV": "(to be) an act of establishing/determining/identifying/creating a kind/sort/genre/category",
+                "OBJ": "(to be) a member of a kind/sort/class/variety/category"
             },
-            "",
-            ""
+            "(to be) a state/act of being/placing in a genre/style; to place/label/identify something into or as being in a particular genre/style",
+            "(to be) a state/act of doing something in a certain way/manner/mode; to do something in a particular way/manner/mode"
         ]
     },
     {
@@ -1502,13 +1487,13 @@
         "refers": "LIST / SERIES / FILE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act/instance of arranging or being arranged in a list; to list, arrange in a list, create/make a list",
+                "CTE": "(to be) the order of items on a list",
+                "CSV": "(to be) an act/process of physically listing or making a list",
+                "OBJ": "(to be) an entity named on a list, be a member of a list"
             },
-            "",
-            ""
+            "(to be) a an act/instance of making/placing in a series; to arrange/order in a sequential series",
+            "(to be) an act/instance of arranging in a file; to file, create/make a file"
         ]
     },
     {
@@ -1516,13 +1501,13 @@
         "refers": "DEGREE OF CORRECTNESS/ACCURACY/ERROR/SUITABILITY/FITNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of correctness/accuracy ( = non-erroneous information) — [both the quality and the manifestation thereof]",
+                "CTE": "(to be) a state of being correct/accurate to a certain degree",
+                "CSV": "(to be) a degree of correctness/accuracy; to manifest a certain degree of correctness/accuracy",
+                "OBJ": "(to be) something that has/manifests a degree of correctness/accuracy"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of suitability / fitness / propriety / effectiveness ( = best choice for the context at hand)",
+            "(to be/manifest a) degree of legitimacy/orthodoxy ( = adherence to legal / ritualistic / societal conventions)"
         ]
     },
     {
@@ -1530,13 +1515,13 @@
         "refers": "DEGREE OF EXACTITUDE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) something having a degree of exactitude [i.e., expected identity/equivalence to some expectation)",
+                "CTE": "(to be) the degree to which an entity meets an expectation of exactitude; to perform an appraisal/comparison of such",
+                "CSV": "(to be) the expectation of exactitude to which an entity is compared; to apply/establish such an expectation/standard",
+                "OBJ": "(to be) the entity so appraised/compared"
             },
-            "",
-            ""
+            "(to be) something of a particular degree of exactitude (i.e., accuracy or identical functionality/performance in comparison to some standard)",
+            "(to be) something that serves/functions/substitutes [comparably] (in comparison to some standard)"
         ]
     },
     {
@@ -1544,13 +1529,13 @@
         "refers": "DEGREE OF SIMILARITY / RESEMBLANCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest) something with a particular degree of similarity/resemblance",
+                "CTE": "(to be/manifest) the degree to which an entity meets an expectation of similarity/resemblance",
+                "CSV": "(to be/manifest) the expectation of similarity/resemblance to which an entity is compared",
+                "OBJ": "(to be) the entity being appraised/compared to the expectation of similarity/resemblance"
             },
-            "",
-            ""
+            "similarity/resemblance to oneself on another/different occasion",
+            "similarity/resemblance to another/different abstract situation or set of circumstances"
         ]
     },
     {
@@ -1558,27 +1543,22 @@
         "refers": "DEGREE/RANGE/EXTENT/INTENSITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) the degree/extent of something ( = scalar amount of the effect/impact/capacity of something) [both the degree/extent and the entity manifesting that degree/extent]",
+                "CTE": "(to be) something with a degree/extent/amount of effect/impact/capacity [focus on the entity itself]",
+                "CSV": "(to be) a degree/extent ( = the amount of effect/impact/capacity)",
+                "OBJ": "(to be) the entity/party affected/impacted by the degree/extent of something"
             },
-            "",
-            ""
+            "(to be) the range of something ( = measure of the “upper” or “outer” limit of the effect/impact of something)",
+            "(to be) the intensity of something ( = measure of the strength of the effect/impact of something)"
         ]
     },
     {
         "root": "RT",
         "refers": "SUFFICIENCY/ADEQUACY",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be) a sufficient amount/extent/degree of something; to suffice, to be enough, to be sufficient",
+            "(to be) an adequate amount/extent/degree of something; to be adequate, to be good enough, to do (= to suffice adequately)",
+            "(to be) something to a satisfactory degree/extent; to be satisfactory, to meet the requirements "
         ]
     },
     {
@@ -1586,27 +1566,22 @@
         "refers": "DEGREE OF CHANGE/STABILITY/VICISSITUDE/FLUCTUATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of change(-ableness)/mutability/constancy/alteration ( = degree to which something becomes altered in form/behavior) [both the degree and the potential for, or nature of, the change",
+                "CTE": "(to be) something with a degree/extent/amount of change(-ableness/mutability [focus on the entity itself]",
+                "CSV": "(to be) the degree/extent of change(-ableness)/mutability ( = the amount/extent of actual or potential change)",
+                "OBJ": "(to be) the entity/party affected/impacted by the degree/extent of (potential) change"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of stability/instability/vicissitude ( = degree of predictability of future pattern/behavior based on past pattern/behavior)",
+            "(to be/manifest a) degree of fluctuation / wavering / variance / deviation ( = degree to which normally stable/predictable pattern/behavior suddenly fluctuates/varies/wavers/deviates unpredictably)"
         ]
     },
     {
         "root": "RG",
         "refers": "DEGREE OF STEADFASTNESS/MOBILITY/MOTILITY/ACTIVITY/MOVEMENT",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be/manifest) a degree of steadfastness/durability ( = [in]ability to be altered in form/behavior)",
+            "(to be/manifest) a degree of mobility/motility/activity ( = [in]ability to move or to be made to move)",
+            "(to be/manifest) a degree of indelibility/fixedness ( = [in]ability to be removed/erased/eliminated)"
         ]
     },
     {
@@ -1614,13 +1589,13 @@
         "refers": "DEGREE OF AFFECT (CUTENESS/GRANDEUR)",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of grandeur, grandiosity, greatness [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of grandeur, grandiosity, greatness",
+                "CSV": "(to be) a degree of grandeur, grandiosity, greatness",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of grandeur, grandiosity, greatness"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of elegance, loveliness, grace",
+            "(to be/manifest a) degree of endearment, cuteness"
         ]
     },
     {
