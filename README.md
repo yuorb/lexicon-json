@@ -15,11 +15,12 @@ type Specs = {
 type Lexicon = {
     root: string,
     refers: string,
-    stems: [
+    stems?: [
         Specs | string,
         Specs | string,
         Specs | string,
-    ]
+    ],
+    notes?: string
 }[]
 ```
 
@@ -29,7 +30,7 @@ The fields will and should be expanded in the future, but at the current stage, 
 
 |                                                  | Roots | Addtional Roots | Stem & Spec | Notes |
 | ------------------------------------------------ | ----- | --------------- | ----------- | ----- |
-| 1. ROOTS ASSOCIATED WITH GRAMMATICAL FUNCTIONS   | ✅     |                 | ✅           |       |
+| 1. ROOTS ASSOCIATED WITH GRAMMATICAL FUNCTIONS   | ✅     | ✅               | ✅           | ✅     |
 | 2. COMMON STATES AND ACTS                        | ✅     |                 |             |       |
 | 3. SPACETIME and MOTION                          |       |                 |             |       |
 | 4. PSYCHOLOGICAL AND SOCIOLOGICAL PHENOMENA      |       |                 |             |       |

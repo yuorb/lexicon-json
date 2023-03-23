@@ -10,11 +10,12 @@ type Specs = {
 type Lexicon = {
     root: string,
     refers: string,
-    stems: [
+    stems?: [
         Specs | string,
         Specs | string,
         Specs | string,
-    ]
+    ],
+    notes?: string
 }[]
 
 let target: Lexicon = []
