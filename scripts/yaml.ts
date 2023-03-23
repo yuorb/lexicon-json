@@ -4,4 +4,4 @@ import { merge } from '../src/index.ts'
 
 const lexicon = merge() as unknown as Record<string, unknown>;
 ensureDirSync('output');
-Deno.writeTextFileSync('output/lexion.yaml', stringify(lexicon))
+Deno.writeTextFileSync('output/lexicon.yaml', stringify(lexicon))

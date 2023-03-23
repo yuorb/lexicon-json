@@ -3,4 +3,4 @@ import { merge } from '../src/index.ts'
 
 const lexicon = merge()
 ensureDirSync('output');
-Deno.writeTextFileSync('output/lexion.json', JSON.stringify(lexicon))
+Deno.writeTextFileSync('output/lexicon.json', JSON.stringify(lexicon))
