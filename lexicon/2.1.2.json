@@ -1,58 +1,188 @@
 [
     {
         "root": "CŇ",
-        "refers": "PIN / TACK / STAPLE"
+        "refers": "PIN / TACK / STAPLE",
+        "stems": [
+            {
+                "BSC": "(be) a state/act of maintaining a state between entities by means of a pin, (be) a pin in use, a pin being used; to utilize/make use of a pin",
+                "CTE": "(be) a pin",
+                "CSV": "(be) an act of utilizing/making use of a pin; use/make use of a pin",
+                "OBJ": "(be) what a pin is holding together"
+            },
+            "(be) a state/act of maintaining a state between entities by means of a tack, (be) a tack in use, a tack being used; to utilize/make use of a tack",
+            "(be) a state/act of maintaining a state between entities by means of a staple, (be) a staple in use, a staple being used; to utilize/make use of a staple"
+        ]
     },
     {
         "root": "ČV",
-        "refers": "TOOL / INSTRUMENT / PIECE OF EQUIPMENT"
+        "refers": "TOOL / INSTRUMENT / PIECE OF EQUIPMENT",
+        "stems": [
+            {
+                "BSC": "(to be) a tool, instrument, implement, piece of equipment as extension of bodily appendage(s) or sensory organs; use a tool (e.g., as per force, strength, precision, reach, pressure, instrument as labor-saving or efficiency-increasing means etc.) — [both implement and the manner/process of its function]",
+                "CTE": "(to be) a tool, instrument or implement; use a tool",
+                "CSV": "(to be) the manner/process (i.e., how it works) of using a tool or implement; to engage in the manner/process of using a tool",
+                "OBJ": "(to be) the party/entity using a tool or implement"
+            },
+            "(to be) a tool, instrument, implement, piece of equipment as a means of “defying” the forces of Nature (e.g., as with a wheel, fulcrum, wedge, clamp, etc.); use such a tool — [both implement and the manner/process of its function]",
+            "(to be a) supply-like resource/implement/piece of equipment used by itself or in association with specific tool to maintain/sustain a constructed state (e.g., a nail, tack, hook, rivet, staple, screw, clothespin, etc.)"
+        ]
     },
     {
         "root": "RČV",
-        "refers": "UTENSIL / IMPLEMENT / FUEL"
+        "refers": "UTENSIL / IMPLEMENT / FUEL",
+        "stems": [
+            {
+                "BSC": "(to be a) utensil, specialized implement for assisting in refined task",
+                "CTE": "",
+                "CSV": "",
+                "OBJ": ""
+            },
+            "(to be a) mechanical / motorized / electric / electronic implement/utensil",
+            "(to be a) supply-like resource/implement used as fuel or input for a mechanical / electrical / electronic implement/utensil"
+        ]
     },
     {
         "root": "ŢŢ",
-        "refers": "TRY OUT"
+        "refers": "TRY OUT",
+        "stems": [
+            {
+                "BSC": "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to see if it works/functions",
+                "CTE": "(to be) a state of wearing something as a trial to see if it works/functions",
+                "CSV": "(to be) an act of trying something out to see if it works/functions",
+                "OBJ": "(to be) that which is being tried out to see if it works/functions"
+            },
+            "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to observe/learn/understand what it does or how it works/functions or whether it improves efficiency/productivity",
+            "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to see if one can successfully operate it, work with it, or learn to use it skillfully"
+        ]
     },
     {
         "root": "SST",
-        "refers": "DEVICE / APPARATUS / MACHINE / ENGINE / MOTOR"
+        "refers": "DEVICE / APPARATUS / MACHINE / ENGINE / MOTOR",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act/process of a mechanical device/apparatus/contraption functioning/operating; for a mechanical device, apparatus, or contraption to operate/function",
+                "CTE": "(to be) a state/act/process of a mechanical device/apparatus/contraption designed or used to do/perform/accomplish something to be in operation/functioning; for there to be such a device/apparatus/contraption functioning /operation",
+                "CSV": "(to be) a state/act of operating/utilizing/using a device/apparatus/contraption; to operate/use/make use of a device/apparatus/contraption",
+                "OBJ": "(to be) a mechanical device/apparatus/contraption itself (seen as a gestalt entity)"
+            },
+            "(to be) a state/act/process of an engine/motor (whether electrical, chemically-fueled, steam-driven, wind-driven, solar-powered, nuclear-powered, etc.) to be operating/functioning",
+            "(to be) a state/act/process of a powered machine (whether electrical, chemically-fueled, steam-driven, wind-driven, solar-powered, nuclear-powered, etc.) to be operating/functioning"
+        ]
     },
     {
         "root": "SSV",
-        "refers": "DEVISE / CONTRIVANCE / INVENTION"
+        "refers": "DEVISE / CONTRIVANCE / INVENTION",
+        "stems": [
+            {
+                "BSC": "(to be) an act/process/instance of devising something; to devise something [i.e., to bring an idea for a device or mechanical process into reality]",
+                "CTE": "(to be) a state/act/process of having/coming up with an idea for devising something",
+                "CSV": "(to be) a physical state/act of devising something based upon the idea one has for it",
+                "OBJ": "(to be) that which one devises (or has the idea for devising)"
+            },
+            "(to be) an act/process/instance of contriving/jury-rigging; to contrive/jury-rig [i.e., to bring a simple or quickly-formed idea for a device or mechanical process into reality as a temporary or stop-gap solution]",
+            "(to be) a state/act/process of inventing; to invent something"
+        ]
     },
     {
         "root": "LPĻ",
-        "refers": "TECHNOLOGY"
+        "refers": "TECHNOLOGY",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act/process of using a technological invention or inventions to do/perform something (i.e., accomplishing something by means of, or with the assistance of an invented machine/device or a discovered process/procedure)",
+                "CTE": "(to be) a state of there being a technological invention (potentially) available in order to do/perform something",
+                "CSV": "(to be) an act/process of using a technological invention; to use a technological invention",
+                "OBJ": "(to be) the specific/particular technological invention (to be) used"
+            },
+            "(to be) a process/procedure based upon a biological/medical/scientific discovery or scientific research/experiments.",
+            "(to be) a state/act of doing/performing something using digital/electronic/cyber- technology (e.g., running of algorithmic programs, digitized data, interconnected/networked computers, etc.)"
+        ]
     },
     {
         "root": "KŢG",
-        "refers": "ELECTRONIC COMPUTER / COMPUTER ACCESSORY"
+        "refers": "ELECTRONIC COMPUTER / COMPUTER ACCESSORY",
+        "stems": [
+            "personal electronic computing device (e.g., PC, laptop, tablet, touchpad, etc.)",
+            "keyboard, keypad or other finger-manipulated alphanumeric interface to a computing device",
+            "mouse, pen, or other non-alphanumeric interface to a computing device"
+        ]
     },
     {
         "root": "KŢGW",
-        "refers": "COMPUTERIZED DEVICE"
+        "refers": "COMPUTERIZED DEVICE",
+        "stems": [
+            "computerized, algorithmically controlled device",
+            "central processor (e.g., microchip, central gearing mechanism of a Babbage difference engine, etc.) of an algorithmic computing device",
+            "input-output interface for an algorithmic computing device"
+        ]
     },
     {
         "root": "KŢGY",
-        "refers": "COMPUTER PROGRAM / APPLICATION"
+        "refers": "COMPUTER PROGRAM / APPLICATION",
+        "stems": [
+            "computer program, computer application, software",
+            "firmware",
+            "basic input-output instruction program for a computer, computer operating system"
+        ]
     },
     {
         "root": "LŢV",
-        "refers": "ELECTRONIC COMPONENT"
+        "refers": "ELECTRONIC COMPONENT",
+        "stems": [
+            "transistor",
+            "diode",
+            "LED"
+        ]
     },
     {
         "root": "KŢGL",
-        "refers": "AUTOMATON (ABSTRACT SELF-PROPELLED COMPUTING DEVICE)"
+        "refers": "AUTOMATON (ABSTRACT SELF-PROPELLED COMPUTING DEVICE)",
+        "stems": [
+            {
+                "BSC": "(to be) an automatic computing device (i.e., an automaton per automata theory – not necessarily electronic or numerically/digitally-based); to run an automatic computational device",
+                "CTE": "(to be) the internal configurational state of an automaton/self-propelled computing device",
+                "CSV": "(to be) the process of transitioning between states/forms in an automaton; to transition between states/forms in an automaton",
+                "OBJ": "(to be) the input or saved memory used by an automaton to transition between states/forms"
+            },
+            "(to be) a Turing machine or the lambda calculus representation thereof",
+            "(to be) a finite-state machine / finite-state automaton"
+        ]
     },
     {
         "root": "KŢGR",
-        "refers": "ALGORITHMIC COMPUTATION / PROGRAMMING / RUN A COMPUTER PROGRAM"
+        "refers": "ALGORITHMIC COMPUTATION / PROGRAMMING / RUN A COMPUTER PROGRAM",
+        "stems": [
+            {
+                "BSC": "(to be) an act/process of producing a computer-implementable instruction, a “line of computer code”; to write a line of programming code",
+                "CTE": "(to be) a computer-implementable instruction, to be a line of programming code",
+                "CSV": "(to be) an act of creating/composing a line of programming code",
+                "OBJ": "(to be) that which a line of programming code accomplishes; what a line of computer code does/performs when implemented or run"
+            },
+            "(to be) the act/process of transformation/compilation of instructions/text into a different format for a computer to execute",
+            "(to be) a state/process of computation; to implement/run a computer program"
+        ]
     },
     {
         "root": "MFK",
-        "refers": "RADIO BROADCASTING AND RECEPTION"
+        "refers": "RADIO BROADCASTING AND RECEPTION",
+        "stems": [
+            {
+                "BSC": "(to be) an act/instance of using (i.e., listening to) radio broadcast ",
+                "CTE": "(to be) a state of receiving/processing information learned (i.e., heard) from a radio broadcast ",
+                "CSV": "(to be) an act/process of tuning in / finding a radio broadcast to listen to",
+                "OBJ": "(to be) the information heard on the radio"
+            },
+            {
+                "BSC": "(to be) an act/instance of broadcasting via radio",
+                "CTE": "(to be) a state of there being information (having been) disseminated/broadcast via radio",
+                "CSV": "(to be) an act/process of broadcasting information on a particular radio frequency",
+                "OBJ": "(to be) the information broadcast via radio"
+            },
+            {
+                "BSC": "(to be) a radio (set or receiver)",
+                "CTE": "(to be) a state of receiving/processing information learned (i.e., heard) on a particular radio set or receiver",
+                "CSV": "(to be) an act/process of tuning in / finding a radio broadcast to listen to on a particular radio set or receiver",
+                "OBJ": "(to be) the information heard on a particular radio set or receiver"
+            }
+        ]
     }
 ]

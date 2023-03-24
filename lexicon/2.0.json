@@ -1603,13 +1603,13 @@
         "refers": "DEGREE OF RELIABILITY/INFALLIBILITY/QUALITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of reliability/infallibility/quality (in terms of ruggedness/durability of workmanship or mechanical craftsmanship) [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of reliability/infallibility/quality",
+                "CSV": "(to be) a degree of reliability/infallibility/quality",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of reliability/infallibility/quality"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of quality, fineness, quality of effort (in terms of artisanality, artistry, artistic craftsmanship)",
+            "(to be/manifest a) degree of durability / lastingness / permanence / persistence"
         ]
     },
     {
@@ -1617,13 +1617,13 @@
         "refers": "DEGREE OF SPECIALNESS/UNIQUENESS/MARVELOUSNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of specialness, extraordinariness (in terms of variance with the usual/expected) [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of specialness, extraordinariness",
+                "CSV": "(to be) a degree of specialness, extraordinariness",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of specialness, extraordinariness"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of uniqueness ( = the degree to which something is unlike anything else, one-of-akind)",
+            "(to be/manifest a) degree of marvelousness/wonder/awesomeness"
         ]
     },
     {
@@ -1631,13 +1631,13 @@
         "refers": "CONSEQUENCE/OUTCOME/RESULT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest) a consequence of something ( = a change in pre-existing circumstances resulting from a state/act/event/occurrence) [both the consequence itself and the state of consequentiality]",
+                "CTE": "(to be) a specific consequence",
+                "CSV": "(to be) a state of consequentiality; a state of there being a consequence; to manifest consequentiality",
+                "OBJ": "(to be) an entity/party from which arises a consequence"
             },
-            "",
-            ""
+            "(to be/manifest a) result of something ( = a concrete/tangible “product” or specific/nameable abstract entity resulting from a state/act/event/occurrence)",
+            "(to be/manifest a) abstract result/outcome ( = an abstract set of non-preexisting circumstances arising out of an occurrence/event/act/state)"
         ]
     },
     {
@@ -1645,13 +1645,13 @@
         "refers": "DEGREE OF CONFORMITY/TYPICALNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of conformity to a norm, stereotype or standard [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of conformity/typicalness",
+                "CSV": "(to be) a degree of conformity/typicalness",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of conformity/typicalness"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of being commonplace / typical / run-of-the-mill; to typify to a particular degree, to be typical of to a particular degree",
+            "(to be/manifest a) degree of being original / innovative / “out-of-the-box”"
         ]
     },
     {
@@ -1659,13 +1659,13 @@
         "refers": "DEGREE OF TRUTH/GENUINENESS/VERACITY/VALIDITY/FACTUALITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of truth/veracity/reality (in terms of something actually being ontologically valid as true or real) [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of truth/veracity/reality",
+                "CSV": "(to be) a degree of truth/veracity/reality",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of truth/veracity/reality"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of authenticity/genuineness (in terms of an entity’s identity/nature/behavior/essence actually being what it is purported/assumed/believed to be)",
+            "(to be/manifest a) degree of validity/factuality/actuality (in terms of being an accurate assessment, description, representation, or identification)"
         ]
     },
     {
@@ -1673,13 +1673,13 @@
         "refers": "DEGREE OF INTENSITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of intensity/power ( = ratio of physical manifestation/change/activity/energy to period of time) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of intensity/power",
+                "CSV": "(to be) a degree of intensity/power",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of intensity/power"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of activity/acuteness",
+            "(to be/manifest a) degree of agitation/ebullience/bustle"
         ]
     },
     {
@@ -1687,13 +1687,13 @@
         "refers": "DEGREE OF EFFICIENCY/ADEQUACY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of efficiency ( = ratio of amount of effort/energy/resources to results)— [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of efficiency",
+                "CSV": "(to be) a degree of efficiency",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of efficiency"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of adequacy ( = extent to which something serves sufficiently)",
+            "(to be/manifest a) degree of reward/value/ “pay-off”/ “bang-for-the-buck” ( = extent/value of return on investment of resources/effort/energy)"
         ]
     },
     {
@@ -1701,13 +1701,13 @@
         "refers": "DEVELOPMENT / GROWTH / MATURATION / DECLINE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) developmental stage, stage of developmental or maturational cycle; stage of a life-cycle— [both the stage and the entity manifesting such]",
+                "CTE": "(to be) something manifesting a developmental stage, stage of developmental or maturational cycle; stage of a life-cycle",
+                "CSV": "(to be/manifest) a developmental stage, stage of developmental or maturational cycle; stage of a lifecycle",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s developmental stage, stage of developmental or maturational cycle; stage of a life-cycle"
             },
-            "",
-            ""
+            "(to be/manifest) goal-oriented development/maturation, growth; develop, grow, mature (growth not necessarily in size, but rather in maturational development as part of a life-cycle); CPT Version = ripe(n), ripening",
+            "(to be/manifest) the declining stage(s) of a life-cycle; decline, fade, age; CPT Version = die"
         ]
     },
     {
@@ -1715,13 +1715,13 @@
         "refers": "DEGREE OF PRECISION / DEFINITION / SCRUTINY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of precision ( = exactness of fine-tuning, fineness of or attention to detail, carefulness in workmanship/craftsmanship) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of precision",
+                "CSV": "(to be) a degree of precision",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of precision"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of definition, being well-defined ( = exactness of distinction, contrast with background, separability from background milieu)",
+            "(to be/manifest a) degree of scrutiny / attention / scrupulousness ( = thoroughness/exactitude in procedure / task / activity)"
         ]
     },
     {
@@ -1729,13 +1729,13 @@
         "refers": "DEGREE OF SOPHISTICATION/CRUDENESS/REFINEMENT/PRIMITIVENESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of physical/technical refinement/sophistication (vs. crudeness, i.e., level to which an entity manifests a high level of technical workmanship/craftsmanship/artisanality) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of physical/technical refinement/sophistication",
+                "CSV": "(to be) a degree of physical/technical refinement/sophistication",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of physical/technical refinement/sophistication"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of evolvement (vs. primitiveness, i.e., temporal, evolutionary perspective over time)",
+            "(to be/manifest a) degree of cultural refinement/sophistication/finesse (vs. cultural primitiveness/savagery/simplicity)"
         ]
     },
     {
@@ -1743,13 +1743,13 @@
         "refers": "IMPEDIMENT / BLOCKAGE / RESTRICTION / CONSTRAINT / LIMITING / PREVENTION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "STEM 1. (to be) a state/process of something under restriction; something impeded or blocked from occurring or manifesting — [both the act/process/state of restriction and the method/means used to restrict]",
+                "CTE": "(to be) a process/state of restricting/impeding/blocking from manifesting or occurring",
+                "CSV": "(to be) a the means/method of restricting/impeding/blocking from manifesting or occurring",
+                "OBJ": "(to be) an entity/party/state being restricted/blocked/impeded"
             },
-            "",
-            ""
+            "STEM 2. (to be) a state/process of something being constrained or limited in its path/direction/area; to constrain, to limit, to narrow",
+            "STEM 3. (to be) a state/process of preventing something from happening; the prevention of something; to prevent"
         ]
     },
     {
@@ -1757,13 +1757,13 @@
         "refers": "DEGREE OF EASE vs. DIFFICULTY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of ease vs. difficulty ( = effort in terms of physical hardship/toil and/or perplexity/complexity/mental challenge involved) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of ease vs. difficulty",
+                "CSV": "(to be) a degree of ease vs. difficulty",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of ease vs. difficulty"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of ease vs. difficulty ( = effort in terms of practicality, return/value-for-energy expended, likelihood of desired outcome)",
+            "(to be/manifest a) degree of ease vs. difficulty ( = effort in terms of being faced with a quandary / dilemma / predicament)"
         ]
     },
     {
@@ -1771,13 +1771,13 @@
         "refers": "DEGREE OF EFFORT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of effort ( = in terms of physical harship/toil and/or perplexity/complexity/mental challenge involved) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of effort",
+                "CSV": "(to be) a degree of effort",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of effort"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of effort ( = in terms of mental challenge involved)",
+            "(to be/manifest a) degree of effort ( = in terms of organizational complexity)"
         ]
     },
     {
@@ -1785,13 +1785,13 @@
         "refers": "DEGREE OF DESIGN / ORDER / ORGANIZATION / SYSTEMATIZATION",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of design/planning — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of design/planning",
+                "CSV": "(to be) a degree of design/planning",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of design/planning"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of order(liness) / organization / arrangement / structure",
+            "(to be/manifest a) degree of systematization ( = extent to which components/parts are arranged for optimal interrelationships/functionality)"
         ]
     },
     {
@@ -1799,13 +1799,13 @@
         "refers": "DEGREE OF PHYSICAL CONTROL",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of physical control ( = degree of brute strength / agility / prowess / forbearance, etc. needed to physically handle/manipulate something, e.g., a tool, a machine, etc.) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of physical control",
+                "CSV": "(to be) a degree of physical control",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of physical control"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of physical fine motor control / dexterity / finesse ( = degree of ability to manipulate/handle delicate or fragile entity)",
+            "(to be/manifest a) degree of control via potential force ( = having the ability/means/resources to physically hold/contain/restrain/restrict something from breaking free, running wild, causing damage, attacking, etc.)"
         ]
     },
     {
@@ -1813,13 +1813,13 @@
         "refers": "DEGREE OF RISK / DANGER",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of physical risk or danger ( = threat or potential for physical harm) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of physical risk or danger",
+                "CSV": "(to be) a degree of physical risk or danger",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of physical risk or danger"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of emotional risk or danger",
+            "(to be/manifest a) degree of socially-oriented risk or danger ( = threat to one’s status, plans, life circumstances, assumptions, finances, property, etc.)"
         ]
     },
     {
@@ -1827,13 +1827,13 @@
         "refers": "DEGREE OF OPERATIONAL FUNCTIONALITY / ACTIVITY / EFFICACY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of operational functionality; degree of being in working order ( = extent to which something is functioning/operating/working normally or as per expectation or design) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of operational functionality; degree of being in working order",
+                "CSV": "(to be) a degree of operational functionality; degree of being in working order",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of operational functionality; degree of being in working order"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of activity ( = amount / extent to which entities are acting/functioning/moving)",
+            "(to be/manifest a) degree of efficacy ( = extent to which an activity / operation achieves/accomplishes/delivers what it is supposed/expected to)"
         ]
     },
     {
@@ -1841,13 +1841,13 @@
         "refers": "DEGREE OF NATURAL CAPACITY / TALENT / SKILL",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of natural capacity/ability to — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of natural capacity/ability to",
+                "CSV": "(to be) a degree of natural capacity/ability to",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of natural capacity/ability to"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of natural talent / aptitude / “gift” for; be adept at",
+            "(to be/manifest a) degree of natural virtue ( = desired behavioral quality/characteristic/attribute)"
         ]
     },
     {
@@ -1855,13 +1855,13 @@
         "refers": "DEGREE OF NEWNESS",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest a) degree of newness ( = freshly made/born/developed, newly created, not previously existing, e.g., a new book just published; a new baby; a brand new shirt) — [both the quality and the entity manifesting such]",
+                "CTE": "(to be) something with a degree of newness",
+                "CSV": "(to be) a degree of newness",
+                "OBJ": "(to be) an entity/party impacted/affected by one’s degree of newness"
             },
-            "",
-            ""
+            "(to be/manifest a) degree of newness ( = not previously seen/functioning/experienced in current context, e.g., the new student; a new book, i.e., that I’ve not owned/read before)",
+            "(to be/manifest a) degree of newness ( = another / different / replacement / substitute / revision, e.g., Please turn to a new page in your sketchpad; Hand me a new fork, this one is dirty.)"
         ]
     },
     {
@@ -1869,13 +1869,13 @@
         "refers": "CAPACITY / ABILITY / CAPABILITY",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest) the physical capability/ability to do something particular; to be able (i.e., or have the physical capability/ability) to do something particular",
+                "CTE": "(to be) the physical capability/ability; to be able ( = have the or physical capability/ability)",
+                "CSV": "(to be) the particular (nature of the) physical capacity/ability needed",
+                "OBJ": "(to be) the task/endeavor requiring a certain physical capacity/ability to perform/accomplish"
             },
-            "",
-            ""
+            "(to have) the physical stamina, fortitude or strength (needed) to do something",
+            "(to have) the physical prowess or finesse or specialized physical skill (needed) to do something"
         ]
     },
     {
@@ -1883,27 +1883,22 @@
         "refers": "SOURCE / ORIGIN / START / BEGINNING",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of origination; to come into being, to get one’s start, to originate",
+                "CTE": "(to be) the origin / source of something — [both the point in spacetime and the fact of being the initial manifestation of something] (to be) an act/process of origin(ating) or functioning as a/the source",
+                "CSV": "(to be) a physical act of originating; to originate [i.e., come into existence or be formed at a paticular place and time]",
+                "OBJ": "(to be) that whose source/origin is being identified"
             },
-            "",
-            ""
+            "(to be) a state/act of begining, initiating, starting; to begin, to start, to initiate",
+            "(to be) a state/act of causation; to cause (i.e., primary/direct, not secondary or enabling cause)"
         ]
     },
     {
         "root": "RÇN",
         "refers": "ELEMENT / FUNDAMENTAL BASIS / FOUNDATIONAL PRINCIPLE",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be/manifest a) basic element / fundamental starting point or principle",
+            "(to be/manifest a) fundamental reason for something; fundamental reason why; a basis for something",
+            "(to be a) first principle / foundational principle / axiom "
         ]
     },
     {
@@ -1911,27 +1906,22 @@
         "refers": "NEGATION / DENIAL / ABSENCE",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest) an instance/act of negation; make something negative; to negate, i.e., to make/render the status of an entity so that it is as if it does not exist / manifest / apply / matter / act / take effect or have relevance [both the act/process of negation and the status of being (rendered) negative]",
+                "CTE": "(to be) an instance/act of denial; to deny -- to act as if something is not true or non-existent or inapplicable",
+                "CSV": "(to be) the physical/tangible process of negation, whether verbal, physical, by written proclamation, by memory loss, etc.",
+                "OBJ": "(to be) that which is negated"
             },
-            "",
-            ""
+            "(to be) an instance/act of denial; to deny -- to act as if something is not true or non-existent or inapplicable",
+            "(to be) an instance of being absent; an absence; to be absent"
         ]
     },
     {
         "root": "RXW",
         "refers": "NULLIFICATION / ABROGATION / CONTRADICTION / CONTRAVENTION",
         "stems": [
-            {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
-            },
-            "",
-            ""
+            "(to be) an instance/act of nullification or abrogation; to nullify, render null, abrogate, render as having no effect",
+            "(to be) an instance/act of contradiction; to contradict",
+            "(to be) an instance/act of contravention; to contravene"
         ]
     },
     {
@@ -1939,13 +1929,13 @@
         "refers": "ACCESS / PASSAGE(WAY) / DOORWAY / GATEWAY / PORTAL / ENTRY(WAY) / EXIT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be/manifest) a 2-way access point or passage way/gateway/portal; to pass through to a different area or physical space — [both the passage way itself and the act of passage]",
+                "CTE": "(to be) an act of passage through, an act of accessing another physical space; to pass through, to enter or exit",
+                "CSV": "(to be) a passage way or access point or doorway/gateway/portal",
+                "OBJ": "(to be) the party passing through an access point or doorway/gateway/portal"
             },
-            "",
-            ""
+            "(to be/manifest a) an entry point, a point of ingress, an entry portal, entry gateway, a passageway by which to enter",
+            "(to be/manifest a) an exit point, a point of egress, an exit portal, a passageway by which to exit"
         ]
     },
     {
@@ -1953,13 +1943,13 @@
         "refers": "PHYSICAL CONTACT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) a state/act of physical contact between entities; to make contact; touch — [both the state/act of contact and its effect/consequence]",
+                "CTE": "(to be) the effect/consequence of a state/act of physical contact between entities",
+                "CSV": "(to be) a state/act of physical contact between entities; make contact; touch",
+                "OBJ": "(to be) a party/entity in physical contact with another"
             },
-            "",
-            ""
+            "(to be) an application of physical pressure/force + effect/consequence",
+            "(to be) a move or setting in motion via physical contact + resulting motion; to set in motion + resulting motion"
         ]
     },
     {
@@ -1967,13 +1957,13 @@
         "refers": "CONTAIN / HOLD / CONTENTS / ENCLOSURE / SURROUNDING / ENVELOPMENT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) an instance/act/state of containment via gravity (e.g., basin); to contain (via gravity) [both the container and the state of containment]",
+                "CTE": "(to be) the state of containment (via gravity)",
+                "CSV": "(to be) the container (via gravity)",
+                "OBJ": "(to be) that which is contained (via gravity); the content(s)"
             },
-            "",
-            ""
+            "(to be) an instance/act/state of containment via an enclosing/surrounding/enveloping/encircling medium/conveyance; to enclose, to suround, to envelop, to encircle, to circumscribe",
+            "(to be) an instance of containment via imbuement/mixing/blending in (i.e., as an ingredient/component); to mix something into, to blend something into [see also the root -SJ-]"
         ]
     },
     {
@@ -1981,13 +1971,13 @@
         "refers": "COMPONENT / PART / INGREDIENT",
         "stems": [
             {
-                "BSC": "",
-                "CTE": "",
-                "CSV": "",
-                "OBJ": ""
+                "BSC": "(to be) the state/process of being/constituting a component/part/piece of an entity [i.e., a quasi- or semi-autonomous object/entity that can be (at least theoretically) separated from the whole or was such prior to being joined/connected/fused/built in to the larger whole]",
+                "CTE": "(to be) the state of constituting/being composed of/being made from a collection of parts",
+                "CSV": "(to be) an act of separating out a component/part from a whole; to isolate/have/hold/remove/separate a component/part",
+                "OBJ": "(to be) a particular component/part/piece of a whole"
             },
-            "",
-            ""
+            "(to be) the state/process of being/constituting an ingredient within a larger whole [i.e., an entity which (theoretically) has/had an autonomous existence prior to being merged with the whole but is now imbued within /inseparable from the whole",
+            "(to be) a state/act/process of being an instruction"
         ]
     }
 ]

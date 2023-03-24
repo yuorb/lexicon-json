@@ -1,10 +1,30 @@
 [
     {
         "root": "ŠXR",
-        "refers": "MANIPULATION & HANDLING OF FOODSTUFF WHILE PREPARING OR COOKING IT"
+        "refers": "MANIPULATION & HANDLING OF FOODSTUFF WHILE PREPARING OR COOKING IT",
+        "stems": [
+            {
+                "BSC": "(to be) an act/state of handling/manipulating food while preparing it for cooking",
+                "CTE": "(to be) in a state of being handled/manipulated while under preparation for cooking",
+                "CSV": "(to be) the physical act of handling/manipulating food while cooking it",
+                "OBJ": "(to be) the tool/utensil used to handle/manipulate food while cooking/preparing it"
+            },
+            "(to be) an act/state of handling/manipulating food while cooking it or processing it for ingestion",
+            "(to be) an act/state of handling manipulating food while serving it or ingesting it"
+        ]
     },
     {
         "root": "ŠGV",
-        "refers": "HOLDING & CONTAINING OF FOODSTUFF FOR PREPARING OR COOKING OR SERVING IT"
+        "refers": "HOLDING & CONTAINING OF FOODSTUFF FOR PREPARING OR COOKING OR SERVING IT",
+        "stems": [
+            {
+                "BSC": "(to be) an act/state of holding/containing food while preparing it for cooking",
+                "CTE": "(to be) in a state of being held/contained while under preparation for cooking",
+                "CSV": "(to be) the physical act of holding/containing food while cooking it",
+                "OBJ": "(to be) the object/implement used to hold/contain food while cooking/preparing it"
+            },
+            "(to be) an act/state of holding/containing food while cooking it or preparing it for ingestion",
+            "(to be) an act/state of holding/containing food for the purpose of serving it or as a result of serving it"
+        ]
     }
 ]

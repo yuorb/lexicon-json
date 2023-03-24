@@ -1,6 +1,26 @@
 [
     {
         "root": "LCW",
-        "refers": "BUILDING FIXTURE / ARCHITECTURAL FIXTURE"
+        "refers": "BUILDING FIXTURE / ARCHITECTURAL FIXTURE",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act/of serving/functioning as a builtin/permanent fixture in a building/domicile for the purposes of maintaining/providing a continuous mechanical, electrical, plumbing, or living state or process; to serve/function as such a fixture (e.g., wall-mounted or built-in feature, fireplace, chimney, window shutter, ceiling fan, tapware, sink/basin, tub, toilet, water or gas pipe, electrical conduit, wiring, etc.)",
+                "CTE": "(to be) the state/service maintained/delivered by a fixture",
+                "CSV": "(to be) an act/process of a building fixture functioning or in operation; for a fixture to function/operate",
+                "OBJ": "(to be) the fixture itself"
+            },
+            {
+                "BSC": "(to be) a state/act of utilizing/making use of a builtin/permanent fixture in a building/domicile in order to obtain some needed/desired function/service",
+                "CTE": "(to be) the state of a fixture being in use",
+                "CSV": "(to be) an act of a person utilizing/making use of a fixture",
+                "OBJ": "(to be) the fixture used"
+            },
+            {
+                "BSC": "(to be) a state/act of doing without, being deprived of, or being unable to utilize a needed/desired fixture in a building/domicile",
+                "CTE": "(to be) the state of a needed/desired fixture being absent/unavailable ",
+                "CSV": "(to be) a physical act/state of a person having to do/go without a needed/desired fixture",
+                "OBJ": "(to be) the consequence(s) of a needed/desired fixture being absent/unavailable"
+            }
+        ]
     }
 ]

@@ -1,58 +1,198 @@
 [
     {
         "root": "RDW",
-        "refers": "BUILDING CONSTRUCTION"
+        "refers": "BUILDING CONSTRUCTION",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of constructing/erecting a building (i.e., a constructed space with enclosed rooms for residential and/or commercial occupancy or storage); to construct/erect a building",
+                "CTE": "(to be) a state of a building under construction",
+                "CSV": "(to be) a physical act of building/constructing/erecting a building; to perform the work of building/constructing/erecting a building",
+                "OBJ": "(to be) the building under construction [CPT version = finished building]"
+            },
+            "(to be) a state/act of constructing a commercial building",
+            "(to be) a state/act of constructing a non-residential, non-commercial building used for storage or other activities (e.g., a workshop, a studio, etc.)"
+        ]
     },
     {
         "root": "SŘ",
-        "refers": "ROOM / CHAMBER / COMPARTMENT"
+        "refers": "ROOM / CHAMBER / COMPARTMENT",
+        "stems": [
+            {
+                "BSC": "(to be) a room/chamber",
+                "CTE": "(to be) the state of a room/chamber being a partitioned off quasi-autonomous (sub- )section of a larger building interior space",
+                "CSV": "(to be) the boundary planar partitions/surfaces/elements that constitute the form of a room/chamber (i.e., the walls, ceiling, floor, doorway, etc.); to make/construct a room (by putting up dividing walls, an entryway, etc.)",
+                "OBJ": "(to be) what a particular room/chamber is (used) for, what function it serves"
+            },
+            "(to be) a compartment",
+            "(to be) a cubicle, partially partitioned-off section of a larger room"
+        ]
     },
     {
         "root": "DBR",
-        "refers": "TOWER / SPIRE"
+        "refers": "TOWER / SPIRE",
+        "stems": [
+            {
+                "BSC": "(to be) a tower room of a building where the enclosed room is intended as a normal dwelling space",
+                "CTE": "(to be) the state of a building having a tower room",
+                "CSV": "(to be) the boundary planar partitions/surfaces/elements that constitute the form of a tower room",
+                "OBJ": "(to be) what a tower room is used for, what function it serves"
+            },
+            "(to be) a tower room of a building where the enclosed room is a specialized ancillary space (e.g., bell tower, clock tower, a room containing air conditioning or heating or electrical infrastructure, etc.",
+            "(to be) a spire on a building (decorative/aesthetic only with no enclosed or functional interior room"
+        ]
     },
     {
         "root": "KÇM",
-        "refers": "BALCONY / LANDING / MEZZANINE / LOFT"
+        "refers": "BALCONY / LANDING / MEZZANINE / LOFT",
+        "stems": [
+            {
+                "BSC": "(to be) a(n outdoor) balcony",
+                "CTE": "(to be) the state of there being an elevated outdoor space as part of a building",
+                "CSV": "(to be) the platform-like area with guard wall/railing that constitutes a balcony; to make/construct a balcony",
+                "OBJ": "(to be) what a balcony is used for, what function it serves"
+            },
+            "(to be) a landing (at the end of a stretch of stairs)",
+            "(to be) a mezzanine or loft (a partial floor or partial storey of a building between or above a full floor or storey"
+        ]
     },
     {
         "root": "TTĻ",
-        "refers": "WALL / PARTITION / BARRIER"
+        "refers": "WALL / PARTITION / BARRIER",
+        "stems": [
+            {
+                "BSC": "(to be) a planar wall/partition/barrier as the boundary of an enclosure/container, the surface partition constituting the boundary of an inclosed/contained space",
+                "CTE": "(to be) the state of enclosure/containment due to the presence of a wall/partition",
+                "CSV": "(to be) the tangible material component of a planar wall/partition/barrier; to build/erect a wall/partition/barrier",
+                "OBJ": "(to be) what is contained/inside the boundaries established by a wall/partition/barrier"
+            },
+            "(to be) a planar wall/partition/barrier as a defense against visibility by or intrusion of elements/entities from/on the other side",
+            "(to be) a planar wall/partition as a component of a building or architectural structure"
+        ]
     },
     {
         "root": "ŢLW",
-        "refers": "SCREEN"
+        "refers": "SCREEN",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of placing or there being a screen (as partition) between two areas of space; to partition using a screen, to place a screen between, to put up a screen",
+                "CTE": "(to be) the state of partitioning due to the presence of a screen",
+                "CSV": "(to be) the screen itself; to put up/erect a screen as a partition",
+                "OBJ": "(to be) what is partitioned by there being a screen in place"
+            },
+            "(to be) a state/act of screening as a means of filtering (e.g., light, air, water, etc.) ; to filter something (e.g., light, air, water) using a screen",
+            "(to be) a state/act of using a screen to display or project an image; to display/project an image on(to) a screen"
+        ]
     },
     {
         "root": "KTH",
-        "refers": "FIRMAMENT / GROUND / FLOOR"
+        "refers": "FIRMAMENT / GROUND / FLOOR",
+        "stems": [
+            {
+                "BSC": "(to be) the (quasi-) planar surface on which an entity naturally rests due to gravity, i.e., firmament, “ground”, “surface of the earth”, “floor”",
+                "CTE": "(to be) the tangible material substance of the firmament/surface/ground/floor upon which an entity is situated due to gravity",
+                "CSV": "(to be) the state/act of being bound to, being (up)on, or falling toward a (quasi-)planar surface/firmament due to gravity; to be bound to or headed for the ground due to gravity, to fall",
+                "OBJ": "(to be) that which is bound to, situated (up)on, or falling toward the ground due to gravity"
+            },
+            "(to be) the Earth’s natural land surface, i.e., the ground [in a literal sense] (whether dirt, sand, grass, rock, forest floor, mud, swamp, etc.)",
+            "(to be) a (manually constructed) floor (of a building, room)"
+        ]
     },
     {
         "root": "ŢKY",
-        "refers": "WINDOW / VIEWING APERTURE"
+        "refers": "WINDOW / VIEWING APERTURE",
+        "stems": [
+            {
+                "BSC": "(to be) an aperture / “window” in a surface for the purpose of being able to visually view what is on the other side",
+                "CTE": "(to be) the state of there being (potential) visibility to the other side of a partition/wall or planar surface due to there being a window",
+                "CSV": "(to be) the physical aperture within a (quasi-) planar surface which constitutes a window",
+                "OBJ": "(to be) the (quasi-) transparent/transluscent planar entity situated within the bounds of a window/aperture to function as a protective partition between one side of the window and the other, e.g., plane of glass, screen, plane of plastic/acrylic, etc."
+            },
+            "(to be) an aperture/window in a surface for the purpose of letting in sunlight (or artificial light) from outside or another room",
+            "(to be) an aperture/window in a surface for the purpose of limited physical access between one side of a partition and another (e.g., as in a ticket window, a pass-through slot, etc.)"
+        ]
     },
     {
         "root": "ŽTĻ",
-        "refers": "STAIRCASE / LADDER / PEDESTAL"
+        "refers": "STAIRCASE / LADDER / PEDESTAL",
+        "stems": [
+            {
+                "BSC": "(to be) a staircase",
+                "CTE": "(to be) the state of ascent/descent permitted by use of stairs",
+                "CSV": "(to be) the act/process of ambulating upon stairs; to ambulate upon stairs, go up or down stairs",
+                "OBJ": "(to be) a single individual stair of a staircase"
+            },
+            "(to be) a ladder",
+            "(to be) a pedestal, plinth, or dais (i.e., a shelf-like planar surface for the purpose of positioning an entity at a higher level than the surrounding firmament)"
+        ]
     },
     {
         "root": "NŽH",
-        "refers": "BRIDGE / WINCH / BOOM"
+        "refers": "BRIDGE / WINCH / BOOM",
+        "stems": [
+            {
+                "BSC": "(to be) a bridge [both the physical object itself and the accessibility between two point it allows]",
+                "CTE": "(to be) in a state of two points being accessible to each other via a bridge; to cross a bridge",
+                "CSV": "(to be) an act/process of bridging/spanning; to bridge, to span",
+                "OBJ": "(to be) the physical bridge itself"
+            },
+            "(to be) a winch or windlass and the ability to move a superheavy object",
+            "(to be) an extended/extendable boom and the ability to lift/move a superheavy object"
+        ]
     },
     {
         "root": "RM",
-        "refers": "ABODE / DWELLING / DOMICILE / HOUSE"
+        "refers": "ABODE / DWELLING / DOMICILE / HOUSE",
+        "stems": [
+            {
+                "BSC": "(to be) an abode/dwelling, i.e., where an entity dwells/lives, e.g., burrow, hole, nest, cave, den, lair, warren, house, apartment, trailer, etc.; to dwell, to live in [a place]",
+                "CTE": "(to be) a in a state of dwelling somewhere; to have a place to live",
+                "CSV": "(to be) an act of dwelling; to go about the day-to-day activities that constitute living in a particular place",
+                "OBJ": "(to be) the party/entity that dwells within a dwelling"
+            },
+            "(to be) a domicile (i.e., an artificially constructed quasipermanent residential dwelling which provides protection from outside environmental elements)",
+            "(to be) a house (i.e., a quasi-permanent constructed residence with conveniences for quasi-permanent residence)"
+        ]
     },
     {
         "root": "RHW",
-        "refers": "OCCUPANCY / TENANCY / RESIDENCY"
+        "refers": "OCCUPANCY / TENANCY / RESIDENCY",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of occupancy within a delineated/demarcated place and time; to occupy",
+                "CTE": "(to be) the location one occupies, the place/locaton one occupies",
+                "CSV": "(to be) an act of occupancy; to take up space for a certain amount of time in a particular place",
+                "OBJ": "(to be) the party that occupies a place/domicile/residence/burrow/nest, etc."
+            },
+            "(to be) an act/state of tenancy (i.e., long-term occupancy with no assumptions regarding property rights or ownership claims",
+            "(to be) an act/state of residency (i.e., long-term occupancy with assumptions of certain property rights/ownership claims)"
+        ]
     },
     {
         "root": "PHW",
-        "refers": "URBAN RESIDENCY / SUBURBAN RESIDENCY / RURAL RESIDENCY"
+        "refers": "URBAN RESIDENCY / SUBURBAN RESIDENCY / RURAL RESIDENCY",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of residency or being situated or taking place in an urban(ized)/city environment or locale",
+                "CTE": "(to be) a place of urban residency (use appropriate Configuration and SIZ affix to specify village, town, city, etc.)",
+                "CSV": "(to be) an act of making happen/take place/be situated in an urban environment/city",
+                "OBJ": "(to be) the party/entity/situation that takes place/occurs/resides in an urban environment/city"
+            },
+            "(to be) an act/state of residency or being situated or taking place in a suburban environment or the suburbs of a city",
+            "(to be) an act/state of residency or being situated or taking place in a non-urban/rural environment/the countryside"
+        ]
     },
     {
         "root": "ČHW",
-        "refers": "RELOCATION / RESETTLEMENT / MIGRATION / REFUGE"
+        "refers": "RELOCATION / RESETTLEMENT / MIGRATION / REFUGE",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of relocation, resettlement of an entity in a new quasi-permanent residence/domicile/home away from that entity’s previous residence/domicile/home",
+                "CTE": "(to be) where one is or has been relocated/resettled",
+                "CSV": "(to be) an act of relocating/resettling; to physically move from one location to another as part of an act/process of relocation/resettlement",
+                "OBJ": "(to be) the party/entity/situation that undergoes relocation/resettlement"
+            },
+            "(to be) an act/state of migration/immigration",
+            "(to be) an act/state of taking refuge"
+        ]
     }
 ]
