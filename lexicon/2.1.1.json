@@ -35,7 +35,8 @@
             },
             "(be) an act of stabbing (i.e., puncturing in a quasi-linear manner perpendicular to the surface integument of an object/entity using a sharppointed quasi-linear object).",
             "(be) an act of making a quasi-linear rent or crack or fissure in the surface integument of an object/entity; to (make a) rent, to (make a) crack"
-        ]
+        ],
+        "notes": "(i.e., quasi-linear puncturing or quasi-planar breaking of surface integument)"
     },
     {
         "root": "ÇR",
@@ -77,7 +78,8 @@
             },
             "(be) an act of scraping, i.e., using an implement to remove a shallow layer of material from a surface; to scrape",
             "(be) an act of peeling; to peel"
-        ]
+        ],
+        "notes": "* for the meaning of scratching for grooming purposes or to relieve an itch, see **-VZD-**; for the sensation of being scratched, see **-VZW-**"
     },
     {
         "root": "ZC",
@@ -143,7 +145,8 @@
                 "CSV": "(be) an act of making a depression/concavity/hole* by digging; make a depression or concavity by digging ",
                 "OBJ": "(be) the medium/firmament in which a depression or concavity is made"
             }
-        ]
+        ],
+        "notes": "Use of the word “hole” in translating the stems of this root is within the narrow context of being a synonym for “scooped-out depression/concavity within a 3-dimensional medium; it does not mean “hole” as an access point between two spaces or through some two- or 3-dimensional medium as in “a hole in my jeans” or “a hole through the wall” (use the root **-ẒF-** below instead).\n\nNOTE: Use the above root with the **SVS** affix to derive words for scoop, excavate and to derive words for ‘drill’, ‘bore’, ‘cavern’. Combine it with other appropriate morphology to render the word for ‘delve’ and ‘worm one’s way into’. "
     },
     {
         "root": "RẒČ",
@@ -171,7 +174,8 @@
             },
             "(be) an act of removing material by hollowing out, burrowing or tunneling* [Specification pattern is like Stem 2 of the root ‘DIG’]",
             "(be) an act of leaving behind a hollow, burrow or tunnel* [Specification pattern is like Stem 3 of the root ‘DIG’]"
-        ]
+        ],
+        "notes": "This root refers to the creation of a tube-like space within a 3-dimensional medium; it does not necessarily imply that the tube-like space functions as a conduit or passageway to another separate space or medium -- thus, use of the translation “tunnel” here is in a limited context. If one wishes to signify a tunnel-like conduit connecting two separate spaces, use the root **-ẒF-** above instead. "
     },
     {
         "root": "GŢ",
@@ -241,7 +245,8 @@
             },
             "(be) a hinge-like joint allowing relative rotation about a single axis, a.k.a. pin joint, revolute joint",
             "(be) a cylindrical joint allowing circular rotation upon an axis"
-        ]
+        ],
+        "notes": "(allowing limited movement in one or two dimensions)"
     },
     {
         "root": "LTKF",
@@ -255,7 +260,8 @@
             },
             "(be) a universal joint",
             "(be) a snake-like flexible entity"
-        ]
+        ],
+        "notes": "(allowing 3-dimensional movement)"
     },
     {
         "root": "MZK",
@@ -269,7 +275,8 @@
             },
             "[same as Stem 1 except that the gear mechanism is designed to redirect energy into a different direction as opposed to a change in energy output ratio or speed]",
             "[combination of Stems 1 and 2; both change in energy output ratio or speed plus change in direction of energy output/utilization"
-        ]
+        ],
+        "notes": "(allowing 3-dimensional movement)"
     },
     {
         "root": "ŘN",
@@ -283,7 +290,8 @@
             },
             "(be) an act/instance of dangling something; to dangle",
             "(be) an act/instance of overhanging, jutting (out)"
-        ]
+        ],
+        "notes": "Morphological derivatives: swing"
     },
     {
         "root": "ĻX",
@@ -311,7 +319,8 @@
             },
             "(be) an act/instance of making smooth (i.e., not having surface roughness, projections, or perturbations)",
             "(be) an act/instance of make (more) level or even or parallel (i.e., make a quasi-linear or quasi-planar surface be as parallel to another surface or measuring line/plane as possible)"
-        ]
+        ],
+        "notes": "Morphological derivatives: polish"
     },
     {
         "root": "GF",
@@ -325,7 +334,8 @@
             },
             "(be) an act/instance of binding something (i.e., keeping it from coming apart, coming loose, or escaping by internal motion in-situ)",
             "(be) an act/instance of holding something still; restrain (i.e., keeping it from moving from one place to another; keeping it in one place)"
-        ]
+        ],
+        "notes": "This root refers to long-term, (quasi-)permanent states of holding things together. For incidental, temporary contexts, see the next root(**-TV-**) below."
     },
     {
         "root": "TV",
@@ -353,7 +363,8 @@
             },
             "(be) an act/instance of letting rise up to an erect position",
             "(be) an act/instance of raising something up to a high(er) level, involving a use of energy and manipulation (as opposed to letting it rise freely on its own); to physically raise something to a high(er) level"
-        ]
+        ],
+        "notes": "(i.e., perpendicular to the ground)"
     },
     {
         "root": "MJ",
@@ -460,7 +471,8 @@
             "(be) an act/instance of linking; a link, linkage; to link (i.e., a joining together of entities with a focus on the individual members of the resulting set maintaining their individual autonomy/identity)",
             "(be) an act/instance of unifying, uniting (i.e., joining entities together so that they are objectively or subjectively a unit, a single gestalt entity",
             "(be) an act/instance of fusion/merging/coalescing/melding (i.e., joining entities together so that each loses its individual boundaries or compositional integrity and becomes part of or mixed with others into a (quasi-)indivisible physical whole."
-        ]
+        ],
+        "notes": "See also -MC-"
     },
     {
         "root": "JŢ",
@@ -474,7 +486,8 @@
             },
             "(be) an act/instance of driving into (i.e., forceful insertion or penetration through a resistant/hard surface by breaking/interrupting its surface integrity and passing into the resistant/hard three-dimensional volume beyond via pure force and quasi-violent breaking/distortion/displacement of the structural integrity of that volume",
             "(be) an act/instance of injection"
-        ]
+        ],
+        "notes": "This root refers only to the act/process of penetration of an external entity through a two-dimensional medium or into a three-dimensional medium; it is not focused on the resulting state of interiority itself. Thus, for translations of English words focused on the resulting state of interiority rather than the interruption of the surface integrity, e.g., ‘insert, infuse, immerse, instill, imbue, implant’, use an appropriate SPATIO-TEMPORAL Root instead, e.g., **-XW-**, **-XL-**, **-CW-**, **-ŢP-**, **-ḐB-** and/or appropriate SpatioTemporal affixes associated with these roots."
     },
     {
         "root": "ŇÇ",
@@ -558,11 +571,13 @@
             },
             "(be) an act/instance of planar (two-dimensional) stretching, expansion or spreading; to spread (two-dimensionally), to expand in terms of surface area",
             "(be) an act/instance of quasi-spheroidal (3-dimensional) stretching or expansion; to expand (3-dimensionally)"
-        ]
+        ],
+        "notes": "This root refers to expansion in size **without** an entity’s individual component members/contents/nodes themselves expanding, but rather only the space [or underlying substrate or connective medium] between them"
     },
     {
         "root": "ŘḐŘ",
-        "refers": "STRETCH / ELONGATE / SPREAD [under tension]"
+        "refers": "STRETCH / ELONGATE / SPREAD [under tension]",
+        "notes": "The three stems of this root are identical to the stems of the above root **-ḐŘ-** except that they connote a concurrent physical strain/tension with the act of stretching/spreading/expansion, so that the elongated/expanded entity is subject to potential recoil or collapse back to its original state if the stretching/expansion force being applied is terminated.\n\nSee also -ḐŘ-"
     },
     {
         "root": "CY",
@@ -618,7 +633,8 @@
             },
             "(be) an act/instance of initiating/activating something; to activate, to initiate, to start up (i.e., the act/process/procedure necessary to bring energy to a non-active state/entity so that it becomes active, e.g., starting a motor, activating a device, initiating a complex procedure, etc.)",
             "(be) an act/instance of instigation; to instigate (i.e., set in motion a series of events or arranging a precursor state/act/event that will lead to a specific outcome)"
-        ]
+        ],
+        "notes": "This root refers to ‘beginning/initiation’ meaning ‘activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity; for the ‘beginning/initiation’ meaning “origination, first-time occurrence, first-time causation”, see the root **-ÇN-**."
     },
     {
         "root": "PĻ",
@@ -632,7 +648,8 @@
             },
             "(be) an act of veering; to veer (i.e., a sudden, unexpected turn)",
             "(be) an act of changing one’s pitch; to pitch upward or downward (i.e., to turn one’s orientation on a vertical axis upward or downward relative to one’s (quasi-)static horizontal frame of reference)"
-        ]
+        ],
+        "notes": "Use this root with various spatial affixes to add specific detail, e.g., SPR, CRC, SPM, SWM, SPN, IPE, IPF, PFL, etc."
     },
     {
         "root": "RPĻ",
@@ -641,7 +658,8 @@
             "(be) an act/instance of spinning/revolving (i.e., revolving in place on one’s own rotational axis)",
             "(be) an act/instance of revolving/orbiting; to revolve/orbit (i.e., to follow a (quasi-)circular motion around another entity/object)",
             "(be) an act of rotation; to rotate (e.g., twisting a handle or turning a steering wheel)"
-        ]
+        ],
+        "notes": "See also -PĻ-"
     },
     {
         "root": "LXR",
@@ -669,7 +687,8 @@
             },
             "(be) an act/instance of striking/hitting something, using one’s body/appendages or an implement/device used as an extension of one’s body/appendages, either as an offensive attack or in self-defense, with the intention of causing physical harm or physically thwarting a perceived attack",
             "(be) an act/instance of knocking something down or over by means of striking, hitting or delivering a blow, whether by using one’s body/appendages or an implement/ device used as an extension of one’s body/appendages; to knock over, to knock down, to push/shove to the ground, to physically topple something"
-        ]
+        ],
+        "notes": "Derivations: tap, punch, beat, kick, pat, tamp, cudgel, nudge"
     },
     {
         "root": "ŽN",
@@ -711,7 +730,8 @@
             },
             "(be) an act/instance of dragging, tugging, towing, lugging (i.e., to pull/draw with resistance from the entity being towed either due to gravity, friction, or the pulled entity’s own resistive efforts)",
             "(be) an act/instance of hauling, trawling, raking (i.e., using pulling/drawing force to carry/convey/transport a load/object/entity)"
-        ]
+        ],
+        "notes": "Morphological derivative: hoist"
     },
     {
         "root": "RÇV",
@@ -720,7 +740,8 @@
             "(be) a hand-held stretcher ",
             "(be) a dragged platform (e.g., with one end tied to a pack animal and the other end dragged along the ground to carry supplies or as a stretcher)",
             "(be) a sled [for moving, not recreation]"
-        ]
+        ],
+        "notes": "See also -ÇV-"
     },
     {
         "root": "FJ",
@@ -743,7 +764,8 @@
             "(be) an act of constricting or choking something; a constriction; to constrict, to choke [CPT = to cut off the flow of something]",
             "(be) an act/instance of sealing or plugging ; to seal, to plug",
             "(be) an act/instance of prevention; to prevent something from happening [CPT version = to thwart]"
-        ]
+        ],
+        "notes": "See also -FJ-"
     },
     {
         "root": "ŢS",
@@ -766,7 +788,8 @@
             "(be) an act/instance of placing a top or roof(-like covering); to roof, to tent, to put a top upon something",
             "(be) an act/instance of placing a veneer, facing, coating, crust, or protective layer (of a substance/material) onto something",
             "(be) an act/instance of masking something; put a mask on something; to mask (i.e., a false face or false exterior covering designed to hide the appearance of something)"
-        ]
+        ],
+        "notes": "See also -ŢS-"
     },
     {
         "root": "ŇM",
@@ -783,6 +806,87 @@
         ]
     },
     {
+        "root": "ŇVW",
+        "stems": [
+            "housepaint/industrial paint",
+            "artist’s paint",
+            "watercolor paint"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇVY",
+        "stems": [
+            "varnish",
+            "polymer-based sealant",
+            "shellac"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇVR",
+        "stems": [
+            "facial make-up / rouge",
+            "body paint/body make-up",
+            "theatrical make-up"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇVL",
+        "stems": [
+            "eyeshadow",
+            "eye-liner",
+            "false eyelash"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇVŘ",
+        "stems": [
+            "mascara",
+            "lipstick",
+            "lip gloss"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇFW",
+        "stems": [
+            "cream",
+            "lotion",
+            "ointment"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇFY",
+        "stems": [
+            "salve/balm",
+            "lacquer",
+            "butter (indicating a type of topical application, e.g., tanning butter, not the edible milk-based subtance)"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇFL",
+        "stems": [
+            "disinfectant",
+            "insecticide/pesticide",
+            "insect repellent"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
+        "root": "ŇFR",
+        "stems": [
+            "moisturizer/emollient ",
+            "sunscreen",
+            "bronzer/tanning topical application"
+        ],
+        "notes": "See also -ŇM-"
+    },
+    {
         "root": "ÇDR",
         "refers": "LEVERAGE",
         "stems": [
@@ -794,7 +898,8 @@
             },
             "(be) an act/instance of being the balancing point for an act of leverage; function as/like a fulcrum",
             "(be) an instance of being the force/pressure/power applied to move/hoist something by means of leverage"
-        ]
+        ],
+        "notes":"\\*If using this stem figuratively (as is common in contemporary business English), it must be morphologically marked as being metaphorical. "
     },
     {
         "root": "ŢŇ",
@@ -920,7 +1025,8 @@
             },
             "(to be) an act/state of massaging with one’s hand(s) or other body part",
             "(to be) an act/state of scratching with one’s fingernails/claws or other sharp body part **"
-        ]
+        ],
+        "notes": "\\* for the sensation of being rubbed, massaged, or scratched, see **-VZW-**\n\n\\*\\* this stem refers only to scratching for grooming purposes or to relieve an itch; for the meaning of “to make/leave a scratch or scratches in something” see **-PPŠ-**"
     },
     {
         "root": "LŢR",
@@ -943,11 +1049,12 @@
             "(to be) a state/act of rinsing; to rinse [i.e., pour/spray water or other liquid upon/over an object/entity for the purpose of removing superficial material]",
             "(to be) a state/act of drying; to dry [i.e., remove all presence of wetness or moisture]",
             "(to be) an act/state of evaporation; to evaporate"
-        ]
+        ],
+        "notes":"See also -LŢR-"
     },
     {
         "root": "ZŢ",
-        "refers": "ABSORPTION / IMBUEMENT / INFILTRATION",
+        "refers": "ABSORPTION* / IMBUEMENT / INFILTRATION",
         "stems": [
             {
                 "BSC": "(be) an act/instance of absorption*; to absorb (i.e., for a [quasi-]liquid substance to be soaked up into a porous material)",
@@ -957,7 +1064,8 @@
             },
             "(be) an act/instance of imbuement/infusion; to imbue, to infuse (i.e., to introduce a quality or characteristic into an entity so that it spreads throughout and becomes part of that entity’s character/essence/identity, etc.)",
             "(be) an instance of infiltration"
-        ]
+        ],
+        "notes":"\\* This stem refers to the drawing up of a (quasi-)liquid substance into an absorbable material; for a focus on removing/cleaning up a spilled substance, see **-ŠNY-** below. "
     },
     {
         "root": "RZŢ",
@@ -985,7 +1093,7 @@
             },
             "(be) a state of purity, being pure; be/make pure, purify, decontaminate, disinfect (i.e., to be/make free from foreign/invasive/polluting substances)",
             "(be) a state/act of proper sanitation/hygiene; be sanitary/hygienic, exercise proper sanitation/hygiene (i.e., practices which help to ensure an entity/party/environment remains clean or pure)"
-        ]
+        ],"notes":"\\* This stem does not mean ‘organize’ or ‘de-clutter’ as in “to clean a room” — see the next root(-ŢB-) below."
     },
     {
         "root": "ŢB",
@@ -1022,7 +1130,7 @@
             "(be) a rag",
             "(be) a towel",
             "(be) a mop"
-        ]
+        ],"notes":"See also -ŠNY-"
     },
     {
         "root": "ŠMY",
@@ -1031,7 +1139,7 @@
             "(be) a sponge",
             "(be) an absorbent pad or bandage",
             "(be) an absorbent substance or material (e.g., sand, powder, cellulose granules, etc.)"
-        ]
+        ],"notes":"See also -ŠNY-"
     },
     {
         "root": "MBW",
@@ -1059,7 +1167,8 @@
             },
             "(be) an act/instance of mixing or (inter-)mingling two or more parties/entities (i.e., for the purpose of having the entities interact/associate with each other in some way); to mix",
             "(be) an instance of synthesizing; to synthesize (i.e., to combine elements to form a new gestalt)"
-        ]
+        ],
+        "notes":"For the meaning of the old FORMAL stems previously associated with this root, use the following new root(-RSJ-)"
     },
     {
         "root": "RSJ",
@@ -1170,6 +1279,7 @@
     },
     {
         "root": "VPY",
-        "refers": "MACRO=LEVEL REFLECTION / REFRACTION / DIFFRACTION"
+        "refers": "MACRO=LEVEL REFLECTION / REFRACTION / DIFFRACTION",
+        "notes":"The three stems of this root are identical to the stems of the root **-VPW-** above except that they deal with the reflection/deflection/bending of macro-level phenomena, e.g., water waves, a tennis ball against a raquet, a billiard ball against a snooker cushion, a person diving into a swimming pool, a metal object deflected from its trajectory by a magnet, etc.\n\nSee also -VPW-"
     }
 ]

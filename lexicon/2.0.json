@@ -39,21 +39,23 @@
             },
             "(to be) epistemological/conventionalized fact; know [ = have awareness/understanding and ability to recall] an epistemological/conventionalized fact",
             "(to be) something known via experience/proficiency; know via familiarity or experience]"
-        ]
+        ],
+        "notes": "Derivations: find out, discover, determine, wisdom, insight, enlightenment, scholar"
     },
     {
         "root": "RŢT",
         "refers": "STUDY / LEARN / KNOWLEDGE SOURCE",
         "stems": [
             {
-                "BSC": "(to be) an act of studying/learning knowledge; to study [CPT version = learn]",
+                "BSC": "(to be) an act of studying/learning knowledge; to study [CPT version = learn] *",
                 "CTE": "(to be) the ability/capacity to study [CPT version = learn]",
                 "CSV": "(to be) a physical act/process of studying [CPT version = learning]",
                 "OBJ": "(to be) what one studies or learns about"
             },
             "(to be) an act of practicing; to practice CPT = be proficient at; have proficiency in",
             "(to be) a source of knowledge, a resource from which facts can be learned, a knowledge base"
-        ]
+        ],
+        "notes": "\\* This stem signifies learning from static knowledge sources (e.g., books/documents and/or personal research; for learning from a teacher, see **-DDY-** ‘TEACHING ↔ BEING A STUDENT’"
     },
     {
         "root": "LŢT",
@@ -151,7 +153,8 @@
             },
             "(to be) an instance/act of forming or fashioning something via a combination of ingredients, e.g., cooking, mixing together, combining melodies from instruments to make music, tinkering with a variety of parts, etc.",
             "(to be) an instance/act of bringing something into being via organizing disparate parts into a coherent whole"
-        ]
+        ],
+        "notes": "Associated affix: ***MAK***\n\n(NOTE: This root does not refer to ‘make/create’ meaning ‘emit/secrete/produce’as in ‘make noise’ or ‘make milk’, etc.)"
     },
     {
         "root": "ŘŢK",
@@ -228,14 +231,15 @@
         "refers": "SELECTION / ALTERNATIVE / OPTION / VOTING",
         "stems": [
             {
-                "BSC": "(to be) a selection (to be) made (from limited choices); to select/pick (from limited choices) [ = both the state of having a selection to make and the choices available to select from]",
+                "BSC": "(to be) a selection (to be) made (from limited choices); to select/pick (from limited choices) [ = both the state of having a selection to make and the choices available to select from] *",
                 "CTE": "(to be in) a state of having to choose; to face a choice; to have a choice to make",
                 "CSV": "(to be) the act/process of choosing from one’s available options/alternatives",
                 "OBJ": "(to be) the choice made; to be the entity/alternative/option chosen or selected"
             },
             "(to be) a state of having an alternative or available option; to have an alternative or available option",
             "(to be) an act of voting; to vote"
-        ]
+        ],
+        "notes": "\\* This stem is distinguished from Stem 1 of the the root **-NY-** above in that it implies a limited number of choices available"
     },
     {
         "root": "SN",
@@ -249,7 +253,8 @@
             },
             "(to be) an act of variance or being a differing version of something; to vary, to be a differing version",
             "(to be) an act of deviation; to deviate"
-        ]
+        ],
+        "notes": "Derivations: mutate, convert, shift, tamper with, transform, transition"
     },
     {
         "root": "RSN",
@@ -417,7 +422,8 @@
             },
             "(to be) the retention of something past into present; to retain something from the past into the present",
             "(to be) an act of memorization; to memorize, to remember [i.e., commit to memory] "
-        ]
+        ],
+        "notes": "MORPHOLOGICAL DERIVATIONS: recollect(ion), remind, memorize, memento, monument, archive, commemorate, commemoration, souvenir/keepsake, relic, to bear in mind, ponder/relish a memory, sear into one’s memory, visual record / recorded image, camera, movie"
     },
     {
         "root": "MZM",
@@ -538,7 +544,8 @@
             "(to be) a location served by a commercial sea line or airline",
             "(to be) a transport terminal",
             "(to be) a port (e.g., airport, seaport, heliport, etc.) or transportation hub"
-        ]
+        ],
+        "notes": "See also -ČTĻ-"
     },
     {
         "root": "ÇL",
@@ -631,7 +638,8 @@
             },
             "(to be) the practice/policy used by a party/entity in operating/manifesting itself",
             "(to be) a plan (i.e., a series of inter-dependent procedural steps toward accomplishing something)"
-        ]
+        ],
+        "notes": "Morphological Derivations: technique, process, procedure, regimen, strategy"
     },
     {
         "root": "ŘK",
@@ -990,7 +998,8 @@
             "(to be) a state of being in trouble (i.e., a situation which places/has placed a party in adverse circumstances, e.g., physical danger, legal difficulties, under threat of losing one’s livelihood/possessions/reputation/loved ones, etc.); to be in trouble, to be threatened by adverse circumstances, to be facing an adverse situation",
             "(to be) a state of suffering misfortune; to suffer from misfortune, to be in unfortunate circumstances",
             "(to be) a state of suffering disastrous/calamitous circumstances; to be facing a disaster/calamity, to suffer a disaster/calamity"
-        ]
+        ],
+        "notes": "See also -ŇF-"
     },
     {
         "root": "ŠY",
@@ -1018,7 +1027,8 @@
             },
             "(to be) a riddle (i.e., a word-based recreational puzzle usually designed to be witty on its initial face)",
             "(to be) charade (i.e., a recreational puzzle acted out in real-time)"
-        ]
+        ],
+        "notes": "Derivation: ‘maze’ = Stem 1 above plus the Type-2 concatenated stem for ‘pathway/trail’"
     },
     {
         "root": "ZJ",
@@ -1046,7 +1056,8 @@
             },
             "(to be) a state/act of encountering, coming upon/across something; to encounter or come across/upon something/someone (by chance)",
             "(to be) a state/act of meeting someone (i.e., mutual encounter by chance)"
-        ]
+        ],
+        "notes": "NOTE: For a find/discovery made through a directed process of inquiry/investigation, see the root -ND-. "
     },
     {
         "root": "MĻ",
@@ -1228,7 +1239,8 @@
             },
             "(to be/manifest a) degree of slyness / cunning / guile ( = subtlety/nuance in terms of wordplay/behavior/actions, etc. with intention to manipulate a situation)",
             "(to be/manifest a) degree of stealth/insidiousness ( = attempt to manipulate/act in an unseen/hidden/discreet manner for (quasi-)nefarious purposes)"
-        ]
+        ],
+        "notes": "Affix: **SBT** (use SUF/EXN/EXD, etc.)"
     },
     {
         "root": "VSK",
@@ -1340,7 +1352,8 @@
             },
             "(to be) a a state/act of being a passenger conveyed/transported somewhere, riding; to ride (on) something (i.e., conveyance or transportation where one is NOT the one controlling/operating the device/machine/animal, e.g., ride a bus/train/escalator, etc.)",
             "(to be) a state/act of transportation via a means of transportation/conveyance; to transport (i.e., the conveying/carrying of an entity via a device or animal)"
-        ]
+        ],
+        "notes": "This root focuses on operation/conveyance/carrying of an entity on a mode of transportation, NOT on the physical passage/trajectory through spacetime; for this latter notion, use an appropriate root/stem from Sec. 9.1. "
     },
     {
         "root": "PŠW",
@@ -1382,7 +1395,8 @@
             },
             "(be) a precedent; i.e., an entity or situation which establishes a to-beexpected pattern for other/subsequent occurrences or instances of the entity or situation",
             "(be) an archetype; the most prototypical/definitive/desirable example/pattern/design of an entity or idea"
-        ]
+        ],
+        "notes": "This root is also used as the **ARCHETYPAL (ACH) Bias Affix**: *what (a) ...!; how . . .! ; Boy! Did (does) X ever* …"
     },
     {
         "root": "VLL",
@@ -1396,7 +1410,8 @@
             },
             "(process of) connotation; to connote",
             "(process of) allusion; to allude (to)"
-        ]
+        ],
+        "notes": "This root is also used as the **IMPLICATIVE (IPL) Bias affix**: = *‘of course,’ ‘after all,’ or ‘needless to say’*"
     },
     {
         "root": "ÇÇK",
@@ -1410,7 +1425,8 @@
             },
             "(be at) the optimal point/stage/degree/condition/state",
             "(be at) the supreme/utmost/”highest”/foremost point/stage/degree/state"
-        ]
+        ],
+        "notes": "This root is also used as the **OPTIMAL (OPT) Bias affix**: = prolonged ‘so’ or ‘totally’ as in *‘I so don’t care!’* or *‘That is totally what I wanted.’*"
     },
     {
         "root": "LXL",
@@ -1452,7 +1468,8 @@
             },
             "(to be) an act/process of exposure, i.e., letting others observe/discern something they otherwise would not observe/discern",
             "(to be) an advertisement; to advertise"
-        ]
+        ],
+        "notes": "This root is also used as the **ANNUNCIATIVE (ANN) Bias Affix**: = *‘Guess what!’* or *‘Wait till you hear this!’*"
     },
     {
         "root": "ŢRR",
@@ -1508,7 +1525,8 @@
             },
             "(to be/manifest a) degree of suitability / fitness / propriety / effectiveness ( = best choice for the context at hand)",
             "(to be/manifest a) degree of legitimacy/orthodoxy ( = adherence to legal / ritualistic / societal conventions)"
-        ]
+        ],
+        "notes": "Affix: **ERR** (use SUF/EXN/EXD, etc. )\n\nThis root is also used as the **CORRECTIVE (CRR) Bias Affix**: *‘that is to say…,’ ‘What I mean(t) to say is…’ ‘I mean….’* "
     },
     {
         "root": "ŘḐ",
@@ -1522,7 +1540,8 @@
             },
             "(to be) something of a particular degree of exactitude (i.e., accuracy or identical functionality/performance in comparison to some standard)",
             "(to be) something that serves/functions/substitutes [comparably] (in comparison to some standard)"
-        ]
+        ],
+        "notes": "Associated Affix: **EXT**\n\nThis root is usually used with affixes such as **EXN**, **SUF**, **EXD**, or similar to indicate the particular degree of the named quality. "
     },
     {
         "root": "RX",
@@ -1536,7 +1555,8 @@
             },
             "similarity/resemblance to oneself on another/different occasion",
             "similarity/resemblance to another/different abstract situation or set of circumstances"
-        ]
+        ],
+        "notes": "Associated Affix: **SIM** (use with the EXN, SUF, EXD, etc. affixes if necessary)"
     },
     {
         "root": "RK",
@@ -1550,7 +1570,8 @@
             },
             "(to be) the range of something ( = measure of the “upper” or “outer” limit of the effect/impact of something)",
             "(to be) the intensity of something ( = measure of the strength of the effect/impact of something)"
-        ]
+        ],
+        "notes": "Associated Affix: **EXN**"
     },
     {
         "root": "RT",
@@ -1559,7 +1580,8 @@
             "(to be) a sufficient amount/extent/degree of something; to suffice, to be enough, to be sufficient",
             "(to be) an adequate amount/extent/degree of something; to be adequate, to be good enough, to do (= to suffice adequately)",
             "(to be) something to a satisfactory degree/extent; to be satisfactory, to meet the requirements "
-        ]
+        ],
+        "notes": "Associated Affix: **SUF**\n\nSee also -RK-"
     },
     {
         "root": "MH",
@@ -1573,7 +1595,8 @@
             },
             "(to be/manifest a) degree of stability/instability/vicissitude ( = degree of predictability of future pattern/behavior based on past pattern/behavior)",
             "(to be/manifest a) degree of fluctuation / wavering / variance / deviation ( = degree to which normally stable/predictable pattern/behavior suddenly fluctuates/varies/wavers/deviates unpredictably)"
-        ]
+        ],
+        "notes": "Associated Affix: **FLS** (use SUF/EXN/EXD, etc.)"
     },
     {
         "root": "RG",
@@ -1582,7 +1605,8 @@
             "(to be/manifest) a degree of steadfastness/durability ( = [in]ability to be altered in form/behavior)",
             "(to be/manifest) a degree of mobility/motility/activity ( = [in]ability to move or to be made to move)",
             "(to be/manifest) a degree of indelibility/fixedness ( = [in]ability to be removed/erased/eliminated)"
-        ]
+        ],
+        "notes": "Affix: **MVT** (use SUF/EXN/EXD, etc.)\n\nSee also -MH-"
     },
     {
         "root": "ČH",
@@ -1596,7 +1620,8 @@
             },
             "(to be/manifest a) degree of elegance, loveliness, grace",
             "(to be/manifest a) degree of endearment, cuteness"
-        ]
+        ],
+        "notes": "Associated Affix: **AFT** (use SUF/EXN/EXD, etc. to specify degree)"
     },
     {
         "root": "TH",
@@ -1610,7 +1635,8 @@
             },
             "(to be/manifest a) degree of quality, fineness, quality of effort (in terms of artisanality, artistry, artistic craftsmanship)",
             "(to be/manifest a) degree of durability / lastingness / permanence / persistence"
-        ]
+        ],
+        "notes": "Affix: **QUA** (use SUF/EXN/EXD, etc. to specify degree)"
     },
     {
         "root": "ŘP",
@@ -1624,7 +1650,8 @@
             },
             "(to be/manifest a) degree of uniqueness ( = the degree to which something is unlike anything else, one-of-akind)",
             "(to be/manifest a) degree of marvelousness/wonder/awesomeness"
-        ]
+        ],
+        "notes": "Associated Affix: **UNQ** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "ŘV",
@@ -1638,7 +1665,8 @@
             },
             "(to be/manifest a) result of something ( = a concrete/tangible “product” or specific/nameable abstract entity resulting from a state/act/event/occurrence)",
             "(to be/manifest a) abstract result/outcome ( = an abstract set of non-preexisting circumstances arising out of an occurrence/event/act/state)"
-        ]
+        ],
+        "notes": "Affix: **CNQ** (use SUF/EXN/EXD, etc. to specify degree)"
     },
     {
         "root": "ŘG",
@@ -1652,7 +1680,8 @@
             },
             "(to be/manifest a) degree of being commonplace / typical / run-of-the-mill; to typify to a particular degree, to be typical of to a particular degree",
             "(to be/manifest a) degree of being original / innovative / “out-of-the-box”"
-        ]
+        ],
+        "notes": "Affix: **TYP** (use SUF/EXN/EXD, etc. to specify degree)"
     },
     {
         "root": "RD",
@@ -1666,7 +1695,8 @@
             },
             "(to be/manifest a) degree of authenticity/genuineness (in terms of an entity’s identity/nature/behavior/essence actually being what it is purported/assumed/believed to be)",
             "(to be/manifest a) degree of validity/factuality/actuality (in terms of being an accurate assessment, description, representation, or identification)"
-        ]
+        ],
+        "notes": "Affix: **REA** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "ŢM",
@@ -1680,7 +1710,8 @@
             },
             "(to be/manifest a) degree of activity/acuteness",
             "(to be/manifest a) degree of agitation/ebullience/bustle"
-        ]
+        ],
+        "notes": "Affix: **ITY** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "FŢ",
@@ -1694,7 +1725,8 @@
             },
             "(to be/manifest a) degree of adequacy ( = extent to which something serves sufficiently)",
             "(to be/manifest a) degree of reward/value/ “pay-off”/ “bang-for-the-buck” ( = extent/value of return on investment of resources/effort/energy)"
-        ]
+        ],
+        "notes": "Affix: **EFI** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "KŢ",
@@ -1708,7 +1740,8 @@
             },
             "(to be/manifest) goal-oriented development/maturation, growth; develop, grow, mature (growth not necessarily in size, but rather in maturational development as part of a life-cycle); CPT Version = ripe(n), ripening",
             "(to be/manifest) the declining stage(s) of a life-cycle; decline, fade, age; CPT Version = die"
-        ]
+        ],
+        "notes": "Affix: **MAT**"
     },
     {
         "root": "PH",
@@ -1722,7 +1755,8 @@
             },
             "(to be/manifest a) degree of definition, being well-defined ( = exactness of distinction, contrast with background, separability from background milieu)",
             "(to be/manifest a) degree of scrutiny / attention / scrupulousness ( = thoroughness/exactitude in procedure / task / activity)"
-        ]
+        ],
+        "notes": "Affix: **PCN** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "ŢX",
@@ -1736,7 +1770,8 @@
             },
             "(to be/manifest a) degree of evolvement (vs. primitiveness, i.e., temporal, evolutionary perspective over time)",
             "(to be/manifest a) degree of cultural refinement/sophistication/finesse (vs. cultural primitiveness/savagery/simplicity)"
-        ]
+        ],
+        "notes": "Affix: **SPH** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "ŇŘ",
@@ -1750,7 +1785,8 @@
             },
             "STEM 2. (to be) a state/process of something being constrained or limited in its path/direction/area; to constrain, to limit, to narrow",
             "STEM 3. (to be) a state/process of preventing something from happening; the prevention of something; to prevent"
-        ]
+        ],
+        "notes": "Affix: **PRV**"
     },
     {
         "root": "ČM",
@@ -1764,7 +1800,8 @@
             },
             "(to be/manifest a) degree of ease vs. difficulty ( = effort in terms of practicality, return/value-for-energy expended, likelihood of desired outcome)",
             "(to be/manifest a) degree of ease vs. difficulty ( = effort in terms of being faced with a quandary / dilemma / predicament)"
-        ]
+        ],
+        "notes": "Affix: **DIF** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "KP",
@@ -1778,7 +1815,8 @@
             },
             "(to be/manifest a) degree of effort ( = in terms of mental challenge involved)",
             "(to be/manifest a) degree of effort ( = in terms of organizational complexity)"
-        ]
+        ],
+        "notes": "Affix: **EFT** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "VH",
@@ -1792,7 +1830,8 @@
             },
             "(to be/manifest a) degree of order(liness) / organization / arrangement / structure",
             "(to be/manifest a) degree of systematization ( = extent to which components/parts are arranged for optimal interrelationships/functionality)"
-        ]
+        ],
+        "notes": "Affix: **DSG** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "JH",
@@ -1806,7 +1845,8 @@
             },
             "(to be/manifest a) degree of physical fine motor control / dexterity / finesse ( = degree of ability to manipulate/handle delicate or fragile entity)",
             "(to be/manifest a) degree of control via potential force ( = having the ability/means/resources to physically hold/contain/restrain/restrict something from breaking free, running wild, causing damage, attacking, etc.)"
-        ]
+        ],
+        "notes": "Affix: **CRL** (use SUF/EXN/EXD, etc. )\n\nNOTE: This root does not mean control in terms of hierarchical authority, oversight or influence."
     },
     {
         "root": "PT",
@@ -1820,7 +1860,8 @@
             },
             "(to be/manifest a) degree of emotional risk or danger",
             "(to be/manifest a) degree of socially-oriented risk or danger ( = threat to one’s status, plans, life circumstances, assumptions, finances, property, etc.)"
-        ]
+        ],
+        "notes": "Affix: **DNG** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "ŘČ",
@@ -1834,7 +1875,8 @@
             },
             "(to be/manifest a) degree of activity ( = amount / extent to which entities are acting/functioning/moving)",
             "(to be/manifest a) degree of efficacy ( = extent to which an activity / operation achieves/accomplishes/delivers what it is supposed/expected to)"
-        ]
+        ],
+        "notes": "Affix: **OPF** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "BŇ",
@@ -1848,7 +1890,8 @@
             },
             "(to be/manifest a) degree of natural talent / aptitude / “gift” for; be adept at",
             "(to be/manifest a) degree of natural virtue ( = desired behavioral quality/characteristic/attribute)"
-        ]
+        ],
+        "notes": "Affix: **TAL** (use SUF/EXN/EXD, etc. ) "
     },
     {
         "root": "SP",
@@ -1862,7 +1905,8 @@
             },
             "(to be/manifest a) degree of newness ( = not previously seen/functioning/experienced in current context, e.g., the new student; a new book, i.e., that I’ve not owned/read before)",
             "(to be/manifest a) degree of newness ( = another / different / replacement / substitute / revision, e.g., Please turn to a new page in your sketchpad; Hand me a new fork, this one is dirty.)"
-        ]
+        ],
+        "notes": "Affix: **NEW** (use SUF/EXN/EXD, etc. )"
     },
     {
         "root": "Ž",
@@ -1876,11 +1920,12 @@
             },
             "(to have) the physical stamina, fortitude or strength (needed) to do something",
             "(to have) the physical prowess or finesse or specialized physical skill (needed) to do something"
-        ]
+        ],
+        "notes": "Affix: -**CPC**-"
     },
     {
         "root": "ÇN",
-        "refers": "SOURCE / ORIGIN / START / BEGINNING",
+        "refers": "SOURCE / ORIGIN / START* / BEGINNING*",
         "stems": [
             {
                 "BSC": "(to be) a state/act of origination; to come into being, to get one’s start, to originate",
@@ -1890,7 +1935,8 @@
             },
             "(to be) a state/act of begining, initiating, starting; to begin, to start, to initiate",
             "(to be) a state/act of causation; to cause (i.e., primary/direct, not secondary or enabling cause)"
-        ]
+        ],
+        "notes": "Affix: **OAU**\n\n* This root refers to origination, first-time occurrence, first-time causation only. For ‘beginning/initiation’ meaning ‘activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity, see the root **-TĻ-**."
     },
     {
         "root": "RÇN",
@@ -1899,7 +1945,8 @@
             "(to be/manifest a) basic element / fundamental starting point or principle",
             "(to be/manifest a) fundamental reason for something; fundamental reason why; a basis for something",
             "(to be a) first principle / foundational principle / axiom "
-        ]
+        ],
+        "notes": "See also -ÇN-"
     },
     {
         "root": "R",
@@ -1913,7 +1960,8 @@
             },
             "(to be) an instance/act of denial; to deny -- to act as if something is not true or non-existent or inapplicable",
             "(to be) an instance of being absent; an absence; to be absent"
-        ]
+        ],
+        "notes": "Affix: **NEG**"
     },
     {
         "root": "RXW",
@@ -1922,7 +1970,8 @@
             "(to be) an instance/act of nullification or abrogation; to nullify, render null, abrogate, render as having no effect",
             "(to be) an instance/act of contradiction; to contradict",
             "(to be) an instance/act of contravention; to contravene"
-        ]
+        ],
+        "notes": "Affix: **ACS**"
     },
     {
         "root": "PŘ",
@@ -1931,12 +1980,13 @@
             {
                 "BSC": "(to be/manifest) a 2-way access point or passage way/gateway/portal; to pass through to a different area or physical space — [both the passage way itself and the act of passage]",
                 "CTE": "(to be) an act of passage through, an act of accessing another physical space; to pass through, to enter or exit",
-                "CSV": "(to be) a passage way or access point or doorway/gateway/portal",
-                "OBJ": "(to be) the party passing through an access point or doorway/gateway/portal"
+                "CSV": "(to be) a passage way or access point or doorway/gateway/portal*",
+                "OBJ": "(to be) the party passing through an access point or doorway/gateway/portal*"
             },
             "(to be/manifest a) an entry point, a point of ingress, an entry portal, entry gateway, a passageway by which to enter",
             "(to be/manifest a) an exit point, a point of egress, an exit portal, a passageway by which to exit"
-        ]
+        ],
+        "notes": "Affix: **ACS**\n\n\\* **NOTE**: The word for a “door” itself would be the BSC stem for ‘access/passageway’ plus the MDF2/3 affix ‘that which impedes/prevents X’, so that a ‘door’ is literally a “passage-impeding implement’. Consequently, one does not say “open door” in the language — one says “unrestricted passageway” or “unrestricted doorway.” "
     },
     {
         "root": "ŢD",
@@ -1950,7 +2000,8 @@
             },
             "(to be) an application of physical pressure/force + effect/consequence",
             "(to be) a move or setting in motion via physical contact + resulting motion; to set in motion + resulting motion"
-        ]
+        ],
+        "notes": "Affix: **CTC**"
     },
     {
         "root": "SK",
@@ -1964,7 +2015,98 @@
             },
             "(to be) an instance/act/state of containment via an enclosing/surrounding/enveloping/encircling medium/conveyance; to enclose, to suround, to envelop, to encircle, to circumscribe",
             "(to be) an instance of containment via imbuement/mixing/blending in (i.e., as an ingredient/component); to mix something into, to blend something into [see also the root -SJ-]"
-        ]
+        ],
+        "notes": "Associated affix: **CNM**"
+    },
+    {
+        "root": "VSKW",
+        "stems": [
+            "bag/sack",
+            "sealable plastic “baggie”",
+            "satchel"
+        ],
+        "notes": "- **BSC**: (to be) an instance/act/state of containing/holding/keeping something in a container\n- **CTE**: (to be) the state of containment\n- **CSV**: (to be) the container itself\n- **OBJ**: (to be) that which is contained (via gravity); the content(s)"
+    },
+    {
+        "root": "VSKY",
+        "stems": [
+            "purse",
+            "wallet",
+            "coin purse"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKL",
+        "stems": [
+            "box",
+            "carton",
+            "custom-shaped carton/storage inlay"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKR",
+        "stems": [
+            "can",
+            "drum",
+            "tank/cylinder"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKF",
+        "stems": [
+            "bottle",
+            "jar",
+            "lidded pot"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKŢ-",
+        "stems": [
+            "bucket",
+            "tub",
+            "catch basin"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKÇ",
+        "stems": [
+            "bin",
+            "crate",
+            "shipping container"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKV",
+        "stems": [
+            "vial",
+            "flask",
+            "beaker"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VSKH",
+        "stems": [
+            "tube",
+            "sealed wrapper",
+            "blister pack"
+        ],
+        "notes": "See also -VSKW-"
+    },
+    {
+        "root": "VŠT",
+        "stems": [
+            "test tube",
+            "pipette",
+            "eye-dropper"
+        ],
+        "notes": "See also -VSKW-"
     },
     {
         "root": "THW",
@@ -1978,6 +2120,7 @@
             },
             "(to be) the state/process of being/constituting an ingredient within a larger whole [i.e., an entity which (theoretically) has/had an autonomous existence prior to being merged with the whole but is now imbued within /inseparable from the whole",
             "(to be) a state/act/process of being an instruction"
-        ]
+        ],
+        "notes": "For positionally-defined component parts of an entity or system (e.g., the “front”, “back”, “side”, “bottom” of an object), see Sec. 3.5."
     }
 ]

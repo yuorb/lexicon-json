@@ -14,7 +14,7 @@ type Specs = {
 
 type Lexicon = {
     root: string,
-    refers: string,
+    refers?: string,
     stems?: [
         Specs | string,
         Specs | string,
@@ -28,15 +28,16 @@ The fields will and should be expanded in the future, but at the current stage, 
 
 ## Progress
 
-|                                                  | Roots | Addtional Roots | Stem & Spec | Notes |
-| ------------------------------------------------ | ----- | --------------- | ----------- | ----- |
-| 1. ROOTS ASSOCIATED WITH GRAMMATICAL FUNCTIONS   | ✅     | ✅               | ✅           | ✅     |
-| 2. COMMON STATES AND ACTS                        | ✅     |                 | ✅           |       |
-| 3. SPACETIME and MOTION                          |       |                 |             |       |
-| 4. PSYCHOLOGICAL AND SOCIOLOGICAL PHENOMENA      |       |                 |             |       |
-| 5. MISCELLANEOUS ENTITIES AND OBJECTS            |       |                 |             |       |
-| 6. NATURE AND NATURAL PHENOMENA (Non-Biological) |       |                 |             |       |
-| 7. NATURAL PHENOMENA (BIOLOGICAL/ZOOLOGICAL)     |       |                 |             |       |
+|               | Roots | Addtional Roots | Stem & Spec | Notes |
+| ------------- | ----- | --------------- | ----------- | ----- |
+| Chapter 1     | ✅     | ✅               | ✅           | ✅     |
+| 2.0 - 2.1.1   | ✅     | ✅               | ✅           | ✅     |
+| 2.1.2 - 2.1.7 | ✅     |                 | ✅           |       |
+| Chapter 3     |       |                 |             |       |
+| Chapter 4     |       |                 |             |       |
+| Chapter 5     |       |                 |             |       |
+| Chapter 6     |       |                 |             |       |
+| Chapter 7     |       |                 |             |       |
 
 ## Scripts
 
