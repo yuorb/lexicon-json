@@ -14,6 +14,190 @@
         ]
     },
     {
+        "root": "CPY",
+        "stems": [
+            "nail",
+            "spike",
+            "pile (i.e., a foundational support structure)"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "CPW",
+        "stems": [
+            "screw",
+            "bolt",
+            "rivet"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "DBL",
+        "stems": [
+            "stopper",
+            "plug/cap",
+            "seal/suture"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "GDY",
+        "stems": [
+            "cement",
+            "mortar",
+            "plaster"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "GDW",
+        "stems": [
+            "putty",
+            "caulk",
+            "grout"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "GDL",
+        "stems": [
+            "resin",
+            "polymer",
+            "solder"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "GDR",
+        "stems": [
+            "adhesive",
+            "paste",
+            "glue"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "KŢT",
+        "stems": [
+            "clip",
+            "clamp",
+            "magnet"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "KŢW",
+        "stems": [
+            "string/twine",
+            "wire",
+            "strap"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "KŢY",
+        "stems": [
+            "button",
+            "zipper",
+            "velcro fastener"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "FSM",
+        "stems": [
+            "brace",
+            "girder",
+            "crossbeam"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "FSN",
+        "stems": [
+            "hook",
+            "frame",
+            "rigging/scaffolding"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "JDY",
+        "stems": [
+            "stent",
+            "tubing",
+            "valve"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "MZT",
+        "stems": [
+            "strand of cord",
+            "strand of rope",
+            "strand of wicker/thatching"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "ÇMW",
+        "stems": [
+            "nut, lug nut",
+            "washer",
+            "drywall anchor"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "DDŘ",
+        "stems": [
+            "needle [as perforator]",
+            "needle [as thread-drawer/puller]",
+            "needle [as probe or delivery mechanism]; syringe"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "RBB",
+        "refers": "LIQUID MEDIA USED AS TOOL",
+        "stems": [
+            "soaking agent/medium",
+            "hydration agent/medium",
+            "lubricant/lubricating agent/medium"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "ŽDV",
+        "refers": "GUIDING ALONG/THROUGH A CHANNEL",
+        "stems": [
+            "funnel",
+            "trough",
+            "chute"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "XBL",
+        "refers": "LIQUID AS RESOURCE CONSUMED IN A PROCESS 1",
+        "stems": [
+            "fuel",
+            "machine oil",
+            "cooking oil"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
+        "root": "XBR",
+        "refers": "LIQUID AS RESOURCE CONSUMED IN A PROCESS 2",
+        "stems": [
+            "cleansing agent",
+            "hydraulic fluid",
+            "solvent"
+        ],
+        "notes": "See also -CŇ-"
+    },
+    {
         "root": "ČV",
         "refers": "TOOL / INSTRUMENT / PIECE OF EQUIPMENT",
         "stems": [
@@ -25,7 +209,431 @@
             },
             "(to be) a tool, instrument, implement, piece of equipment as a means of “defying” the forces of Nature (e.g., as with a wheel, fulcrum, wedge, clamp, etc.); use such a tool — [both implement and the manner/process of its function]",
             "(to be a) supply-like resource/implement/piece of equipment used by itself or in association with specific tool to maintain/sustain a constructed state (e.g., a nail, tack, hook, rivet, staple, screw, clothespin, etc.)"
-        ]
+        ],
+        "notes": "Affix: **TDM**"
+    },
+    {
+        "root": "GPW",
+        "stems": [
+            "hammer",
+            "mallet",
+            "sledgehammer"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "GPŘ",
+        "stems": [
+            "ball-peen hammer",
+            "half-hatchet hammer",
+            "specialized hammer (e.g., body mechanic’s hammer, drywall hammer, tack hammer, etc.))"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "GPY",
+        "stems": [
+            "hatchet",
+            "axe",
+            "specialized axe (e.g., fireman’s axe, executioner’s axe, double bit axe, etc.)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "TGW",
+        "stems": [
+            "(round-point) awl",
+            "bradawl",
+            "birdcage awl"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "TGY",
+        "stems": [
+            "sewing awl",
+            "stitching awl",
+            "other specialty awl (e.g.,saddler’s, sailmaker’s, scratching, closing, etc.)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ZXW",
+        "stems": [
+            "chisel",
+            "dovetail chisel",
+            "other specialized hand-driven chisel (e.g., skew chisel, framing chisel, bolster chisel, socket chisel, crankedhandled chisel)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ZXL",
+        "stems": [
+            "concrete chisel",
+            "cold chisel",
+            "other specialized hammer- or power-driven chisel (i.e., not hand-driven)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŢST",
+        "stems": [
+            "adjustable/slip-joint pliers",
+            "non-adjustable/needle-nose pliers",
+            "locking pliers"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KŠVW",
+        "stems": [
+            "fixed-size open-ended wrench",
+            "box-end wrench",
+            "combination wrench"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KŠVY",
+        "stems": [
+            "Allen wrench / hex wrench",
+            "lug wrench",
+            "other non-adjustable wrench"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KŠVL",
+        "stems": [
+            "adjustable wrench",
+            "monkey wrench / pipe wrench",
+            "ratcheting wrench"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KŠVR",
+        "stems": [
+            "socket wrench",
+            "other adjustable wrench",
+            "specialized wrench (e.g., basin/sink wrench, strap wrench, star-head key)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŽTŘ",
+        "stems": [
+            "(flathead) screwdriver",
+            "Phillips screwdriver",
+            "specialty-head screwdriver (e.g., torx, hex, pozidrive, tri-wing, etc.)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŠŠX",
+        "stems": [
+            "rasp / file",
+            "plane (jack, block, surform)",
+            "sanding block"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KSFW",
+        "stems": [
+            "crosscut saw",
+            "backsaw",
+            "hacksaw, coping saw, bow saw"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KSFY",
+        "stems": [
+            "jigsaw",
+            "circular saw",
+            "chainsaw"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "GŽK",
+        "stems": [
+            "crowbar / ripping bar",
+            "cat’s paw",
+            "flat bar"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŽBV",
+        "stems": [
+            "hand drill",
+            "carpenter’s brace",
+            "power drill / motorized drill"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŽBL",
+        "stems": [
+            "twist drill bit",
+            "brad-point drill bit",
+            "auger drill bit"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŽBR",
+        "stems": [
+            "self-feed drill bit",
+            "spade drill bit / paddle drill bit",
+            "Forstner drill bit"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŽBW",
+        "stems": [
+            "hole saw",
+            "countersink drill bit",
+            "plug cutter"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŽBY",
+        "stems": [
+            "step drill bit",
+            "tile drill bit",
+            "other specialty drill bit (e.g., masonry drill bit, installer drill bit)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "FSV",
+        "stems": [
+            "C-clamp / G-clamp",
+            "hand-screw clamp",
+            " bench vise"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "FSVW",
+        "stems": [
+            "spring clamp",
+            "bench clamp",
+            "other specialty clamp (e.g., mitre clamp, trigger clamp, drill press clamp, bar clamp, vise-grip, etc.)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "DFW",
+        "stems": [
+            "trowel",
+            "shovel / spade",
+            "pick"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "DFY",
+        "stems": [
+            "pitchfork / garden fork / potato fork / compost fork",
+            "hoe",
+            "rake"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "DFL",
+        "stems": [
+            "auger",
+            "planting dibble / hand seeder",
+            "post-hole pincer"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "DFR",
+        "stems": [
+            "aerator",
+            "tiller",
+            "plow"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "FÇT",
+        "stems": [
+            "hand-held brush (e.g., paint brush)",
+            "cleaning brush, whisk broom",
+            "broom"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ÇNW",
+        "stems": [
+            "scissors",
+            "pruning shears / snips / topiary shears",
+            "gardening shears / hedge shears"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ÇNY",
+        "stems": [
+            "bolt cutters",
+            "lopper",
+            "pole pruner / tree pruner"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŇHW",
+        "stems": [
+            "fireplace poker / stoker",
+            "bellows",
+            "anvil"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "LZDR",
+        "stems": [
+            "measuring ruler",
+            "measuring tape",
+            "tailor’s measuring tape"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "NZDR",
+        "stems": [
+            "measuring square",
+            "measuring compass",
+            "protractor"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ZZDR",
+        "stems": [
+            "calipers",
+            "micrometer",
+            "angle gauge"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŘZDR",
+        "stems": [
+            "level",
+            "bubble inclinometer",
+            "angle locator"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "DGR",
+        "stems": [
+            "scale",
+            "thermometer",
+            "pressure gauge"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "FŠŘ",
+        "stems": [
+            "clock / watch / timepiece",
+            "speedometer",
+            "odometer"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "LÇF",
+        "stems": [
+            "wheel",
+            "roller, rolling shaft",
+            "ball bearing"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "NZH",
+        "stems": [
+            "ramp",
+            "gangway, portable bridge",
+            "bracing, crossbeam"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KŠB",
+        "stems": [
+            "key",
+            "lockpick",
+            "other lock-opening device/instrument/means (e.g., fingerprint scanner)"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "VPÇ",
+        "stems": [
+            "mirror",
+            "lens",
+            "prism"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ĻTH",
+        "stems": [
+            "net",
+            "mesh",
+            "web"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "KŠŇ",
+        "stems": [
+            "(spirally-coiled) compression spring",
+            "(spirally-coiled) torsion spring",
+            "constant force spring"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "ŠPH",
+        "stems": [
+            "worm gear (of a worm drive)",
+            "worm screw (of a worm drive)",
+            "Archimedes screw"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "LČF",
+        "stems": [
+            "section of a roller chain",
+            "section of a leaf chain",
+            "sprocket/chainwheel"
+        ],
+        "notes": "See also -ČV-"
+    },
+    {
+        "root": "BKH",
+        "stems": [
+            "winch",
+            "crankshaft (to convert back-and-forth motion into rotary motion",
+            "slider-crank linkage (to convert rotary motion into linear motion)"
+        ],
+        "notes": "[Stem Zero = crank(ing mechanism)]\n\nSee also -ČV-"
     },
     {
         "root": "RČV",
@@ -53,7 +661,8 @@
             },
             "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to observe/learn/understand what it does or how it works/functions or whether it improves efficiency/productivity",
             "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to see if one can successfully operate it, work with it, or learn to use it skillfully"
-        ]
+        ],
+        "notes": "For trying on an article of clothing or other wearable implement (e.g., a spacesuit), see the root **-FF-** instead. "
     },
     {
         "root": "SST",

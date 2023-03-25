@@ -28,16 +28,16 @@ The fields will and should be expanded in the future, but at the current stage, 
 
 ## Progress
 
-|               | Roots | Addtional Roots | Stem & Spec | Notes |
-| ------------- | ----- | --------------- | ----------- | ----- |
-| Chapter 1     | ✅     | ✅               | ✅           | ✅     |
-| 2.0 - 2.1.1   | ✅     | ✅               | ✅           | ✅     |
-| 2.1.2 - 2.1.7 | ✅     |                 | ✅           |       |
-| Chapter 3     |       |                 |             |       |
-| Chapter 4     |       |                 |             |       |
-| Chapter 5     |       |                 |             |       |
-| Chapter 6     |       |                 |             |       |
-| Chapter 7     |       |                 |             |       |
+|                         | Roots | Addtional Roots | Stem & Spec | Notes |
+| ----------------------- | ----- | --------------- | ----------- | ----- |
+| Chapter 1               | ✅     | ✅               | ✅           | ✅     |
+| Chapter 2               | ✅     | ✅               | ✅           | ✅     |
+| Chapter 2 (P85 - P98)   | ✅     |                 | ✅           |       |
+| Chapter 3 (P99 - P115)  |       |                 |             |       |
+| Chapter 4 (P115 - P244) |       |                 |             |       |
+| Chapter 5 (P245 - P260) |       |                 |             |       |
+| Chapter 6 (P261 - P319) |       |                 |             |       |
+| Chapter 7 (P319 - P570) |       |                 |             |       |
 
 ## Scripts
 

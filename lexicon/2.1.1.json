@@ -899,7 +899,7 @@
             "(be) an act/instance of being the balancing point for an act of leverage; function as/like a fulcrum",
             "(be) an instance of being the force/pressure/power applied to move/hoist something by means of leverage"
         ],
-        "notes":"\\*If using this stem figuratively (as is common in contemporary business English), it must be morphologically marked as being metaphorical. "
+        "notes": "\\*If using this stem figuratively (as is common in contemporary business English), it must be morphologically marked as being metaphorical. "
     },
     {
         "root": "ŢŇ",
@@ -1050,7 +1050,7 @@
             "(to be) a state/act of drying; to dry [i.e., remove all presence of wetness or moisture]",
             "(to be) an act/state of evaporation; to evaporate"
         ],
-        "notes":"See also -LŢR-"
+        "notes": "See also -LŢR-"
     },
     {
         "root": "ZŢ",
@@ -1065,7 +1065,7 @@
             "(be) an act/instance of imbuement/infusion; to imbue, to infuse (i.e., to introduce a quality or characteristic into an entity so that it spreads throughout and becomes part of that entity’s character/essence/identity, etc.)",
             "(be) an instance of infiltration"
         ],
-        "notes":"\\* This stem refers to the drawing up of a (quasi-)liquid substance into an absorbable material; for a focus on removing/cleaning up a spilled substance, see **-ŠNY-** below. "
+        "notes": "\\* This stem refers to the drawing up of a (quasi-)liquid substance into an absorbable material; for a focus on removing/cleaning up a spilled substance, see **-ŠNY-** below. "
     },
     {
         "root": "RZŢ",
@@ -1093,7 +1093,8 @@
             },
             "(be) a state of purity, being pure; be/make pure, purify, decontaminate, disinfect (i.e., to be/make free from foreign/invasive/polluting substances)",
             "(be) a state/act of proper sanitation/hygiene; be sanitary/hygienic, exercise proper sanitation/hygiene (i.e., practices which help to ensure an entity/party/environment remains clean or pure)"
-        ],"notes":"\\* This stem does not mean ‘organize’ or ‘de-clutter’ as in “to clean a room” — see the next root(-ŢB-) below."
+        ],
+        "notes": "\\* This stem does not mean ‘organize’ or ‘de-clutter’ as in “to clean a room” — see the next root(-ŢB-) below."
     },
     {
         "root": "ŢB",
@@ -1130,7 +1131,8 @@
             "(be) a rag",
             "(be) a towel",
             "(be) a mop"
-        ],"notes":"See also -ŠNY-"
+        ],
+        "notes": "See also -ŠNY-"
     },
     {
         "root": "ŠMY",
@@ -1139,7 +1141,8 @@
             "(be) a sponge",
             "(be) an absorbent pad or bandage",
             "(be) an absorbent substance or material (e.g., sand, powder, cellulose granules, etc.)"
-        ],"notes":"See also -ŠNY-"
+        ],
+        "notes": "See also -ŠNY-"
     },
     {
         "root": "MBW",
@@ -1168,7 +1171,7 @@
             "(be) an act/instance of mixing or (inter-)mingling two or more parties/entities (i.e., for the purpose of having the entities interact/associate with each other in some way); to mix",
             "(be) an instance of synthesizing; to synthesize (i.e., to combine elements to form a new gestalt)"
         ],
-        "notes":"For the meaning of the old FORMAL stems previously associated with this root, use the following new root(-RSJ-)"
+        "notes": "For the meaning of the old FORMAL stems previously associated with this root, use the following new root(-RSJ-)"
     },
     {
         "root": "RSJ",
@@ -1280,6 +1283,6 @@
     {
         "root": "VPY",
         "refers": "MACRO=LEVEL REFLECTION / REFRACTION / DIFFRACTION",
-        "notes":"The three stems of this root are identical to the stems of the root **-VPW-** above except that they deal with the reflection/deflection/bending of macro-level phenomena, e.g., water waves, a tennis ball against a raquet, a billiard ball against a snooker cushion, a person diving into a swimming pool, a metal object deflected from its trajectory by a magnet, etc.\n\nSee also -VPW-"
+        "notes": "The three stems of this root are identical to the stems of the root **-VPW-** above except that they deal with the reflection/deflection/bending of macro-level phenomena, e.g., water waves, a tennis ball against a raquet, a billiard ball against a snooker cushion, a person diving into a swimming pool, a metal object deflected from its trajectory by a magnet, etc.\n\nSee also -VPW-"
     }
 ]
