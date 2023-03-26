@@ -14,6 +14,87 @@
         ]
     },
     {
+        "root": "ČKR",
+        "stems": [
+            "knife",
+            "serrated knife",
+            "chef’s knife"
+        ],
+        "notes": "use Type-2 SIX affix to distinguish knives by funciton, e.g., paring knife, bread knife\n\nSee also -ŠXR-"
+    },
+    {
+        "root": "ČXR",
+        "stems": [
+            "vegetable peeler",
+            "potato masher",
+            "whisk"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "JXR",
+        "stems": [
+            "colander / strainer",
+            "grater",
+            "salad spinner"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "ZXR",
+        "stems": [
+            "fork",
+            "“spork”",
+            "ladle"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "MXR",
+        "stems": [
+            "spoon",
+            "slotted spoon",
+            "measuring spoon"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "NSXR",
+        "stems": [
+            "spatula",
+            "chopstick",
+            "tongs"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "ŘXR",
+        "stems": [
+            "can opener",
+            "bottle opener",
+            "citrus juicer"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "LSXR",
+        "stems": [
+            "garlic press",
+            "mushroom slicing press / strawberry slicing press",
+            "knife sharpening rod / stone"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
+        "root": "MZP",
+        "stems": [
+            "mortar",
+            "pestle",
+            "grinding stone"
+        ],
+        "notes": "See also -ŠXR-"
+    },
+    {
         "root": "ŠGV",
         "refers": "HOLDING & CONTAINING OF FOODSTUFF FOR PREPARING OR COOKING OR SERVING IT",
         "stems": [
@@ -26,5 +107,78 @@
             "(to be) an act/state of holding/containing food while cooking it or preparing it for ingestion",
             "(to be) an act/state of holding/containing food for the purpose of serving it or as a result of serving it"
         ]
+    },
+    {
+        "root": "SBW",
+        "stems": [
+            "skillet / frying pan",
+            "sauté pan",
+            "grilling pan"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "SBY",
+        "stems": [
+            "saucepan",
+            "pot / stockpot",
+            "casserole dish"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "SBR",
+        "stems": [
+            "baking sheet",
+            "muffin pan",
+            "broiler pan"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "SBŘ",
+        "stems": [
+            "pie tin",
+            "baking dish or mold",
+            "other metallic or ceramic baking dish/container/platform"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "SBV",
+        "stems": [
+            "barbecue grille",
+            "griddle",
+            "rotisserie"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "ŠGW",
+        "stems": [
+            "cup",
+            "bowl",
+            "measuring cup"
+        ],
+        "notes": "use Type-2 SIZ affix to distinguish bowls by function, e.g., serving-, soup-, salad bowl, etc.\n\nSee also -ŠGV-"
+    },{
+        "root": "ŠGY",
+        "stems": [
+            "plate / dish",
+            "ceramic drinking vessel (e.g., cup, mug)",
+            "glass or crystal drinking vessel"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "ŠGL",
+        "stems": [
+            "serving pitcher",
+            "decanter",
+            "flagon"
+        ],
+        "notes": "See also -ŠGV-"
+    },{
+        "root": "ŠGR",
+        "stems": [
+            "cutting board",
+            "serving board",
+            "trivet"
+        ],
+        "notes": "See also -ŠGV-"
     }
 ]

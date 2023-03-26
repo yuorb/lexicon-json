@@ -713,7 +713,8 @@
             "personal electronic computing device (e.g., PC, laptop, tablet, touchpad, etc.)",
             "keyboard, keypad or other finger-manipulated alphanumeric interface to a computing device",
             "mouse, pen, or other non-alphanumeric interface to a computing device"
-        ]
+        ],
+        "notes": "For computer monitor/screen, concatenate Stem 1 of this root with Stem 3 of **-ŢLW-**.\n\nSee also -LPĻ-"
     },
     {
         "root": "KŢGW",
@@ -793,5 +794,30 @@
                 "OBJ": "(to be) the information heard on a particular radio set or receiver"
             }
         ]
+    },
+    {
+        "root": "MFŇ",
+        "refers": "commercial television",
+        "notes": "See also -MFK-"
+    },
+    {
+        "root": "LMḐ",
+        "refers": "commercial internet-based streaming",
+        "notes": "See also -MFK-"
+    },
+    {
+        "root": "LMḐL",
+        "refers": "private/independent internet-based streaming/podcasting",
+        "notes": "See also -MFK-"
+    },
+    {
+        "root": "LMḐR",
+        "refers": "internet-based social media platform",
+        "notes": "See also -MFK-"
+    },
+    {
+        "root": "KSŇ",
+        "refers": "a newspaper ",
+        "notes": "See also -MFK-"
     }
 ]

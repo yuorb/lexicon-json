@@ -31,8 +31,8 @@ The fields will and should be expanded in the future, but at the current stage, 
 |                         | Roots | Addtional Roots | Stem & Spec | Notes |
 | ----------------------- | ----- | --------------- | ----------- | ----- |
 | Chapter 1               | ✅     | ✅               | ✅           | ✅     |
-| Chapter 2               | ✅     | ✅               | ✅           | ✅     |
-| Chapter 2 (P85 - P98)   | ✅     |                 | ✅           |       |
+| Chapter 2 (P7 - P90)    | ✅     | ✅               | ✅           | ✅     |
+| Chapter 2 (P91 - P98)   | ✅     |                 | ✅           |       |
 | Chapter 3 (P99 - P115)  |       |                 |             |       |
 | Chapter 4 (P115 - P244) |       |                 |             |       |
 | Chapter 5 (P245 - P260) |       |                 |             |       |
