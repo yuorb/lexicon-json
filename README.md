@@ -35,7 +35,7 @@ The fields will and should be expanded in the future, but at the current stage, 
 | Chapter 1               | ✅     | ✅               | ✅           | ✅     |
 | Chapter 2               | ✅     | ✅               | ✅           | ✅     |
 | Chapter 3.0             | ✅     | ✅               | ✅           | ✅     |
-| Chapter 3.1 (P100-P103) |       |                 |             |       |
+| Chapter 3.1 (P100-P103) | ✅     |                 | ✅           |       |
 | Chapter 3.2 (P103-P104) |       |                 |             |       |
 | Chapter 3.3 (P104-P105) |       |                 |             |       |
 | Chapter 3.4 (P105-P107) |       |                 |             |       |
