@@ -22,5 +22,175 @@
                 "OBJ": "(to be) the consequence(s) of a needed/desired fixture being absent/unavailable"
             }
         ]
+    },
+    {
+        "root": "MBL",
+        "refers": "water tap / water faucet / tap valve",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "VBL",
+        "refers": "pipe (for water, gas, sewage, etc.)",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "BBL",
+        "refers": "sink",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "BBR",
+        "refers": "washbasin",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "BBW",
+        "refers": "bathtub",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "BBY",
+        "refers": "shower stall",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "BBŘ",
+        "refers": "bidet",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "LČŘ",
+        "refers": "toilet / loo",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŘČŘ",
+        "refers": "urinal",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "GŢR",
+        "refers": "cistern",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "JŢR",
+        "refers": "artificial fountain",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "VBR",
+        "refers": "electrical conduit",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "VBŘ",
+        "refers": "electrical wire/wiring",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "VBŽ",
+        "refers": "electrical outlet / wall outlet",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "RVB",
+        "refers": "power system protection unit (e.g., fusebox / circuit breaker box)",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŇSL",
+        "refers": "electrical socket",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "LČL",
+        "refers": "lamp (i.e., powered local light source)",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "NKV",
+        "refers": "air-conditioning unit",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŢGV",
+        "refers": "ceiling fan",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "NŽX",
+        "refers": "built-in heater, heating unit",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "RŽX",
+        "refers": "HVAC unit",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŽXL",
+        "refers": "fireplace",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "BŢR",
+        "refers": "outdoor swimming pool",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "GZŇ",
+        "refers": "sewer",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "GZV",
+        "refers": "cesspool",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "GZX",
+        "refers": "septic tank",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "PÇT",
+        "refers": "bucket / pail / portable basin",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "VPŘ",
+        "refers": "wall-mount for a wall-hanging or for a wall-mounted device",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŽXR",
+        "refers": "chimney",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŠFL",
+        "refers": "built-in storage shelf",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "ŠFR",
+        "refers": "built-in storage drawer",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "MFW",
+        "refers": "railing / handrail / banister / balustrade",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "LMTR",
+        "refers": "hat rack / hat stand / hat tree",
+        "notes": "See also -LCW-"
+    },
+    {
+        "root": "LSTL",
+        "refers": "coat rack",
+        "notes": "See also -LCW-"
     }
 ]

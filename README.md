@@ -2,6 +2,8 @@
 
 This repository offers the lexicon of New Ithkuil in json format based on the http://ithkuil.net/newithkuil_lexicon.pdf.
 
+Currently it does not include the affixes like `-řst` but is planned in the future.
+
 ## Format
 
 ```ts
@@ -32,7 +34,7 @@ The fields will and should be expanded in the future, but at the current stage, 
 | ----------------------- | ----- | --------------- | ----------- | ----- |
 | Chapter 1               | ✅     | ✅               | ✅           | ✅     |
 | Chapter 2               | ✅     | ✅               | ✅           | ✅     |
-| Chapter 2 (P91 - P98)   | ✅     |                 | ✅           |       |
+| Chapter 2 (P93 - P98)   | ✅     |                 | ✅           |       |
 | Chapter 3.0             | ✅     | ✅               | ✅           | ✅     |
 | Chapter 3.1 (P100-P103) |       |                 |             |       |
 | Chapter 3.2 (P103-P104) |       |                 |             |       |
