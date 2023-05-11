@@ -15,6 +15,111 @@
         "notes": "use with the SUF, EXD, FLC, PTW, ITY, etc. affixes"
     },
     {
+        "root": "ẒB",
+        "refers": "PLANARITY/FLATNESS RELATIVE TO THE FORM OF AN OBJECT ITSELF",
+        "notes": "See also -JG-\n\ni.e., the extent to which all the points of a surface are parallel to each other in the dimensional context of the surface itself, such as the surface of a blanket (regardless of whether it is folded or laid flat) or the surface of a sphere (where the sphere’s surface can be considered flat/planar from the perspective of the surface itself, regardless of the fact the sphere as a whole is not"
+    },
+    {
+        "root": "ČF",
+        "refers": "WIDTH/SLENDERNESS",
+        "notes": "See also -JG-\n\ni.e., the linear distance between the two points furthest from each other on a cross-sectional plane through an object"
+    },
+    {
+        "root": "ẒD",
+        "refers": "GIRTH/CIRCUMFERENCE",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "JN",
+        "refers": "LENGTH",
+        "notes": "See also -JG-\n\ni.e., the longest spatial dimension of an object/entity"
+    },
+    {
+        "root": "CH",
+        "refers": "HEIGHT",
+        "notes": "See also -JG-\n\n= TALLNESS PARALLEL TO THE DIRECTION OF GRAVITY"
+    },
+    {
+        "root": "VJ",
+        "refers": "AMPLITUDE",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "ZẒ",
+        "refers": "BINARY POLARITY",
+        "notes": "See also -JG-\n\ni.e., the degree to which something reverses direction of a binary attribute, e.g., rotation, spin, charge, etc."
+    },
+    {
+        "root": "KČ",
+        "refers": "REACH",
+        "notes": "See also -JG-\n\ni.e., the degree to which something extends outward in a quasi-linear manner"
+    },
+    {
+        "root": "ẒX",
+        "refers": "SPREAD",
+        "notes": "See also -JG-\n\ni.e., the degree to which something extends outward in 2-dimensional quasi-planar coverage"
+    },
+    {
+        "root": "VČ",
+        "refers": "EXTENT",
+        "notes": "See also -JG-\n\ni.e., the degree to which something extends outward as a three-dimensional volume"
+    },
+    {
+        "root": "BẒ",
+        "refers": "DEPTH",
+        "notes": "See also -JG-\n\ni.e., the shortest spatial dimension of an object/entity"
+    },
+    {
+        "root": "ŠL",
+        "refers": "THINNESS / THICKNESS",
+        "notes": "See also -JG-\n\ni.e., ratio of shortest dimensional end-to-end axis-length to next longest dimensional end-to-end axis-length"
+    },
+    {
+        "root": "JĻ",
+        "refers": "SPATIAL GAP",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "GẒ",
+        "refers": "TEMPORAL INTERVAL",
+        "notes": "See also -JG-\n\ni.e., the elapsed time/duration between two events/occurrences/states"
+    },
+    {
+        "root": "FC",
+        "refers": "3-DIMENSIONAL VOLUME",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "ŢC",
+        "refers": "RECTILINEAR / POLYHEDRAL / STRAIGHT-ANGLED",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "GJ",
+        "refers": "ROUNDEDNESS",
+        "notes": "See also -JG-\n\ni.e., the extent to which a surface is spheroidally curved from an external perspective"
+    },
+    {
+        "root": "CF",
+        "refers": "FLATNESS / LEVELNESS OF A SURFACE",
+        "notes": "See also -JG-\n\ni.e., the extent to which the points of a surface constitute a flat plane from an external perspective"
+    },
+    {
+        "root": "CŢ",
+        "refers": "2-DIMENSIONAL AMORPHOUS/SHAPELESS",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "ẒŢ",
+        "refers": "3-DIMENSIONAL AMORPHOUS/SHAPELESS",
+        "notes": "See also -JG-"
+    },
+    {
+        "root": "ẒḐ",
+        "refers": "LINEAR (i.e., ONE-DIMENSIONAL) CURVATURE",
+        "notes": "See also -JG-"
+    },
+    {
         "root": "FKL",
         "refers": "PHYSICAL SPATIO-TEMPORAL EXTENSION",
         "stems": [
@@ -82,7 +187,8 @@
             },
             "(to be) a an act/state/instance of arranging/ordering or being arranged/ordered based on a specific criterion or criteria",
             "(to be) an act/instance of symmetrical arrangement; to arrange symmetrically"
-        ]
+        ],
+        "notes": "Affix: **CLS**\n\nMORPHOLOGICAL DERIVATIVES: array, setting, hierarchy, symmetry, disarray, scatter, mess, chaos"
     },
     {
         "root": "ŇŽW",
@@ -96,6 +202,7 @@
             },
             "(to be) a state/act/instance of being in or making a classification (i.e., an arranged scheme for storage-and-retrieval); to classify",
             "(to be) a state/act/instance of being in or making an assortment (i.e., an arranged selection of members/components); to sort"
-        ]
+        ],
+        "notes": "MORPHOLOGICAL DERIVATIVES: regularity, regulate"
     }
 ]
