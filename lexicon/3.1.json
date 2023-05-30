@@ -1,208 +1,221 @@
 [
-    {
-        "root": "JG",
-        "refers": "DIMENSIONAL ATTRIBUTE",
-        "stems": [
-            {
-                "BSC": "(to be) a degree of a (static) dimensional attribute (e.g., length, width, volume, etc.)",
-                "CTE": "(to be) the intrinsic nature/essence of a particular attribute (i.e., the existence of the attribute within or as part of an entity regardless of its physical manifestation ",
-                "CSV": "(to be) the physical manifestation of a particular dimensional attribute",
-                "OBJ": "(to be) the object/entity having the particular dimensional attribute"
-            },
-            "(to be) a decrease in the degree of a particular dimensional attribute",
-            "(to be) an increase in the degree of a particular dimensional attribute"
-        ],
-        "notes": "use with the SUF, EXD, FLC, PTW, ITY, etc. affixes"
-    },
-    {
-        "root": "ẒB",
-        "refers": "PLANARITY/FLATNESS RELATIVE TO THE FORM OF AN OBJECT ITSELF",
-        "notes": "See also -JG-\n\ni.e., the extent to which all the points of a surface are parallel to each other in the dimensional context of the surface itself, such as the surface of a blanket (regardless of whether it is folded or laid flat) or the surface of a sphere (where the sphere’s surface can be considered flat/planar from the perspective of the surface itself, regardless of the fact the sphere as a whole is not"
-    },
-    {
-        "root": "ČF",
-        "refers": "WIDTH/SLENDERNESS",
-        "notes": "See also -JG-\n\ni.e., the linear distance between the two points furthest from each other on a cross-sectional plane through an object"
-    },
-    {
-        "root": "ẒD",
-        "refers": "GIRTH/CIRCUMFERENCE",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "JN",
-        "refers": "LENGTH",
-        "notes": "See also -JG-\n\ni.e., the longest spatial dimension of an object/entity"
-    },
-    {
-        "root": "CH",
-        "refers": "HEIGHT",
-        "notes": "See also -JG-\n\n= TALLNESS PARALLEL TO THE DIRECTION OF GRAVITY"
-    },
-    {
-        "root": "VJ",
-        "refers": "AMPLITUDE",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "ZẒ",
-        "refers": "BINARY POLARITY",
-        "notes": "See also -JG-\n\ni.e., the degree to which something reverses direction of a binary attribute, e.g., rotation, spin, charge, etc."
-    },
-    {
-        "root": "KČ",
-        "refers": "REACH",
-        "notes": "See also -JG-\n\ni.e., the degree to which something extends outward in a quasi-linear manner"
-    },
-    {
-        "root": "ẒX",
-        "refers": "SPREAD",
-        "notes": "See also -JG-\n\ni.e., the degree to which something extends outward in 2-dimensional quasi-planar coverage"
-    },
-    {
-        "root": "VČ",
-        "refers": "EXTENT",
-        "notes": "See also -JG-\n\ni.e., the degree to which something extends outward as a three-dimensional volume"
-    },
-    {
-        "root": "BẒ",
-        "refers": "DEPTH",
-        "notes": "See also -JG-\n\ni.e., the shortest spatial dimension of an object/entity"
-    },
-    {
-        "root": "ŠL",
-        "refers": "THINNESS / THICKNESS",
-        "notes": "See also -JG-\n\ni.e., ratio of shortest dimensional end-to-end axis-length to next longest dimensional end-to-end axis-length"
-    },
-    {
-        "root": "JĻ",
-        "refers": "SPATIAL GAP",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "GẒ",
-        "refers": "TEMPORAL INTERVAL",
-        "notes": "See also -JG-\n\ni.e., the elapsed time/duration between two events/occurrences/states"
-    },
-    {
-        "root": "FC",
-        "refers": "3-DIMENSIONAL VOLUME",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "ŢC",
-        "refers": "RECTILINEAR / POLYHEDRAL / STRAIGHT-ANGLED",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "GJ",
-        "refers": "ROUNDEDNESS",
-        "notes": "See also -JG-\n\ni.e., the extent to which a surface is spheroidally curved from an external perspective"
-    },
-    {
-        "root": "CF",
-        "refers": "FLATNESS / LEVELNESS OF A SURFACE",
-        "notes": "See also -JG-\n\ni.e., the extent to which the points of a surface constitute a flat plane from an external perspective"
-    },
-    {
-        "root": "CŢ",
-        "refers": "2-DIMENSIONAL AMORPHOUS/SHAPELESS",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "ẒŢ",
-        "refers": "3-DIMENSIONAL AMORPHOUS/SHAPELESS",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "ẒḐ",
-        "refers": "LINEAR (i.e., ONE-DIMENSIONAL) CURVATURE",
-        "notes": "See also -JG-"
-    },
-    {
-        "root": "FKL",
-        "refers": "PHYSICAL SPATIO-TEMPORAL EXTENSION",
-        "stems": [
-            {
-                "BSC": "(to be) a state/act of spatio-temporal extension linearly/unidimensionally (up/out/along/back, etc.) to a certain point/level/height, etc.; to extend in such a manner, to“reach” (to) a certain point/level/height, etc.",
-                "CTE": "(to be) a state of extension / being extended unidimensionally",
-                "CSV": "(to be) an act of spatio-temporal extension unidimensionally ",
-                "OBJ": "(to be) that which spatio-temporally extends or “reaches” unidimensionally to a particular point/level/height, etc."
-            },
-            "(to be) a state of extension two-dimensionally (out/among/away, etc.) to a certain distance/edge/linear landmark/linear boundary, etc., “reach” (to) a certain ",
-            " (to be) a state of spatio-temporal extension three-dimensionally (out/among/away, etc.) to a certain distance/planar edge/planar landmark/planar boundary, etc., “reach” (to) a certain distance/planar edge/planar landmark/planar boundary, etc.; to extend/ “reach” three-dimensionally in such a manner "
-        ]
-    },
-    {
-        "root": "TŇ",
-        "refers": "LEVEL / FLOOR / TIER",
-        "stems": [
-            {
-                "BSC": " (to be in) a position at/on a particular planar level of a vertically sequential series of levels; to be positioned on a particular level (of a vertically sequential series of levels) ",
-                "CTE": "(to be) in a state of being on a particular physical level of a vertically sequential series of levels",
-                "CSV": "(to be) an act of physically positioning oneself or being positioned on a particular level ",
-                "OBJ": " (to be) the particular physical level something or someone is positioned on"
-            },
-            "(to be in) a position on a particular floor/story of a building (e.g., be on the fifth floor/story of a hotel); be on a particular floor/story of a building",
-            " (to be in) a position on a particular abstract level/tier of a series of metaphorical/abstract tiers/levels of something (e.g., ‘He plays at grandmaster level/tier when it comes to chess.’)"
-        ]
-    },
-    {
-        "root": "TŇW",
-        "refers": "ROW / FILE / QUEUE",
-        "stems": [
-            {
-                "BSC": " (to be in) a position in a particular linear/planar row of a horizontally sequential series of rows; to be positioned in a particular row (of a horizontally sequential series of rows) [as viewed externally from the row] ",
-                "CTE": "(to be) in a state of being in a particular physical row of a horizontally sequential series of row",
-                "CSV": "(to be) an act of physically positioning oneself or being positioned on a particular row",
-                "OBJ": "(to be) the particular physical row something or someone is placed/positioned in"
-            },
-            "(to be in) a position in a particular linear/planar rank/file/line of a sequential series of front-to-back ranks/files/line; to be positioned in a particular rank/file (of a sequential series of front-to-back ranks/files) [as viewed externally]",
-            "(to be in) a position in a queue; to be (lined up) in a queue"
-        ]
-    },
-    {
-        "root": "ŘTŇ",
-        "refers": "COLUMNAR POSITION",
-        "stems": [
-            {
-                "BSC": " (to be in) a position in a particular linear vertical column of a sequential series of horizontally-aligned columns; to be positioned oin a particular vertical column (of a sequential series of horizontally-aligned columns) ",
-                "CTE": "(to be) in a state of being in a particular physical vertical column of a sequential series of horizontally-aligned columns ",
-                "CSV": "(to be) an act of physically positioning oneself or being positioned in a particular physical vertical column of a sequential series of horizontally-aligned columns ",
-                "OBJ": "(to be) the particular physical column something or someone is positioned in"
-            },
-            "(to be in) a position in a particular linear vertical column of a sequential series of front-to-back-aligned columns; to be positioned oin a particular vertical column (of a sequential series of front-to-back-aligned columns)",
-            "(to be in) a position in a vertical column (i.e., a vertical/columnar queue)"
-        ]
-    },
-    {
-        "root": "ŇŽ",
-        "refers": "ARRANGEMENT / ORDER / SYMMETRY",
-        "stems": [
-            {
-                "BSC": "(to be) a state/act/instance of arranging or b",
-                "CTE": "(to be) a particular arrangement or pattern",
-                "CSV": "(to be) an act/process of physically placing entities into an arrangement or pattern",
-                "OBJ": "(to be) an entity in or part of a particular arrangement or pattern"
-            },
-            "(to be) a an act/state/instance of arranging/ordering or being arranged/ordered based on a specific criterion or criteria",
-            "(to be) an act/instance of symmetrical arrangement; to arrange symmetrically"
-        ],
-        "notes": "Affix: **CLS**\n\nMORPHOLOGICAL DERIVATIVES: array, setting, hierarchy, symmetry, disarray, scatter, mess, chaos"
-    },
-    {
-        "root": "ŇŽW",
-        "refers": "REGULARITY / CLASSIFICATION / ASSORTMENT",
-        "stems": [
-            {
-                "BSC": " (to be) a state/act/instance of being/making regular or displaying regularity (i.e., having an expected/conventionalized/predictable pattern); be/make regular, regularize ",
-                "CTE": "(to be) a state of being regular",
-                "CSV": "(to be) an act/process of making something regular; to regularize",
-                "OBJ": "(to be) something that is in a state of being regular or having been regularized "
-            },
-            "(to be) a state/act/instance of being in or making a classification (i.e., an arranged scheme for storage-and-retrieval); to classify",
-            "(to be) a state/act/instance of being in or making an assortment (i.e., an arranged selection of members/components); to sort"
-        ],
-        "notes": "MORPHOLOGICAL DERIVATIVES: regularity, regulate"
-    }
+  {
+    "root": "JG",
+    "refers": "DIMENSIONAL ATTRIBUTE",
+    "stems": [
+      {
+        "BSC": "(to be) a degree of a (static) dimensional attribute (e.g., length, width, volume, etc.)",
+        "CTE": "(to be) the intrinsic nature/essence of a particular attribute (i.e., the existence of the attribute within or as part of an entity regardless of its physical manifestation ",
+        "CSV": "(to be) the physical manifestation of a particular dimensional attribute",
+        "OBJ": "(to be) the object/entity having the particular dimensional attribute"
+      },
+      "(to be) a decrease in the degree of a particular dimensional attribute",
+      "(to be) an increase in the degree of a particular dimensional attribute"
+    ],
+    "notes": "use with the SUF, EXD, FLC, PTW, ITY, etc. affixes"
+  },
+  {
+    "root": "ẒB",
+    "refers": "PLANARITY/FLATNESS RELATIVE TO THE FORM OF AN OBJECT ITSELF",
+    "see": "JG",
+    "notes": "i.e., the extent to which all the points of a surface are parallel to each other in the dimensional context of the surface itself, such as the surface of a blanket (regardless of whether it is folded or laid flat) or the surface of a sphere (where the sphere’s surface can be considered flat/planar from the perspective of the surface itself, regardless of the fact the sphere as a whole is not"
+  },
+  {
+    "root": "ČF",
+    "refers": "WIDTH/SLENDERNESS",
+    "see": "JG",
+    "notes": "i.e., the linear distance between the two points furthest from each other on a cross-sectional plane through an object"
+  },
+  {
+    "root": "ẒD",
+    "refers": "GIRTH/CIRCUMFERENCE",
+    "see": "JG"
+  },
+  {
+    "root": "JN",
+    "refers": "LENGTH",
+    "see": "JG",
+    "notes": "i.e., the longest spatial dimension of an object/entity"
+  },
+  {
+    "root": "CH",
+    "refers": "HEIGHT",
+    "see": "JG",
+    "notes": "= TALLNESS PARALLEL TO THE DIRECTION OF GRAVITY"
+  },
+  {
+    "root": "VJ",
+    "refers": "AMPLITUDE",
+    "see": "JG"
+  },
+  {
+    "root": "ZẒ",
+    "refers": "BINARY POLARITY",
+    "see": "JG",
+    "notes": "i.e., the degree to which something reverses direction of a binary attribute, e.g., rotation, spin, charge, etc."
+  },
+  {
+    "root": "KČ",
+    "refers": "REACH",
+    "see": "JG",
+    "notes": "i.e., the degree to which something extends outward in a quasi-linear manner"
+  },
+  {
+    "root": "ẒX",
+    "refers": "SPREAD",
+    "see": "JG",
+    "notes": "i.e., the degree to which something extends outward in 2-dimensional quasi-planar coverage"
+  },
+  {
+    "root": "VČ",
+    "refers": "EXTENT",
+    "see": "JG",
+    "notes": "i.e., the degree to which something extends outward as a three-dimensional volume"
+  },
+  {
+    "root": "BẒ",
+    "refers": "DEPTH",
+    "see": "JG",
+    "notes": "i.e., the shortest spatial dimension of an object/entity"
+  },
+  {
+    "root": "ŠL",
+    "refers": "THINNESS / THICKNESS",
+    "see": "JG",
+    "notes": "i.e., ratio of shortest dimensional end-to-end axis-length to next longest dimensional end-to-end axis-length"
+  },
+  {
+    "root": "JĻ",
+    "refers": "SPATIAL GAP",
+    "see": "JG"
+  },
+  {
+    "root": "GẒ",
+    "refers": "TEMPORAL INTERVAL",
+    "see": "JG",
+    "notes": "i.e., the elapsed time/duration between two events/occurrences/states"
+  },
+  {
+    "root": "FC",
+    "refers": "3-DIMENSIONAL VOLUME",
+    "see": "JG"
+  },
+  {
+    "root": "ŢC",
+    "refers": "RECTILINEAR / POLYHEDRAL / STRAIGHT-ANGLED",
+    "see": "JG"
+  },
+  {
+    "root": "GJ",
+    "refers": "ROUNDEDNESS",
+    "see": "JG",
+    "notes": "i.e., the extent to which a surface is spheroidally curved from an external perspective"
+  },
+  {
+    "root": "CF",
+    "refers": "FLATNESS / LEVELNESS OF A SURFACE",
+    "see": "JG",
+    "notes": "i.e., the extent to which the points of a surface constitute a flat plane from an external perspective"
+  },
+  {
+    "root": "CŢ",
+    "refers": "2-DIMENSIONAL AMORPHOUS/SHAPELESS",
+    "see": "JG"
+  },
+  {
+    "root": "ẒŢ",
+    "refers": "3-DIMENSIONAL AMORPHOUS/SHAPELESS",
+    "see": "JG"
+  },
+  {
+    "root": "ẒḐ",
+    "refers": "LINEAR (i.e., ONE-DIMENSIONAL) CURVATURE",
+    "see": "JG"
+  },
+  {
+    "root": "FKL",
+    "refers": "PHYSICAL SPATIO-TEMPORAL EXTENSION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of spatio-temporal extension linearly/unidimensionally (up/out/along/back, etc.) to a certain point/level/height, etc.; to extend in such a manner, to“reach” (to) a certain point/level/height, etc.",
+        "CTE": "(to be) a state of extension / being extended unidimensionally",
+        "CSV": "(to be) an act of spatio-temporal extension unidimensionally ",
+        "OBJ": "(to be) that which spatio-temporally extends or “reaches” unidimensionally to a particular point/level/height, etc."
+      },
+      "(to be) a state of extension two-dimensionally (out/among/away, etc.) to a certain distance/edge/linear landmark/linear boundary, etc., “reach” (to) a certain ",
+      " (to be) a state of spatio-temporal extension three-dimensionally (out/among/away, etc.) to a certain distance/planar edge/planar landmark/planar boundary, etc., “reach” (to) a certain distance/planar edge/planar landmark/planar boundary, etc.; to extend/ “reach” three-dimensionally in such a manner "
+    ]
+  },
+  {
+    "root": "TŇ",
+    "refers": "LEVEL / FLOOR / TIER",
+    "stems": [
+      {
+        "BSC": " (to be in) a position at/on a particular planar level of a vertically sequential series of levels; to be positioned on a particular level (of a vertically sequential series of levels) ",
+        "CTE": "(to be) in a state of being on a particular physical level of a vertically sequential series of levels",
+        "CSV": "(to be) an act of physically positioning oneself or being positioned on a particular level ",
+        "OBJ": " (to be) the particular physical level something or someone is positioned on"
+      },
+      "(to be in) a position on a particular floor/story of a building (e.g., be on the fifth floor/story of a hotel); be on a particular floor/story of a building",
+      " (to be in) a position on a particular abstract level/tier of a series of metaphorical/abstract tiers/levels of something (e.g., ‘He plays at grandmaster level/tier when it comes to chess.’)"
+    ]
+  },
+  {
+    "root": "TŇW",
+    "refers": "ROW / FILE / QUEUE",
+    "stems": [
+      {
+        "BSC": " (to be in) a position in a particular linear/planar row of a horizontally sequential series of rows; to be positioned in a particular row (of a horizontally sequential series of rows) [as viewed externally from the row] ",
+        "CTE": "(to be) in a state of being in a particular physical row of a horizontally sequential series of row",
+        "CSV": "(to be) an act of physically positioning oneself or being positioned on a particular row",
+        "OBJ": "(to be) the particular physical row something or someone is placed/positioned in"
+      },
+      "(to be in) a position in a particular linear/planar rank/file/line of a sequential series of front-to-back ranks/files/line; to be positioned in a particular rank/file (of a sequential series of front-to-back ranks/files) [as viewed externally]",
+      "(to be in) a position in a queue; to be (lined up) in a queue"
+    ]
+  },
+  {
+    "root": "ŘTŇ",
+    "refers": "COLUMNAR POSITION",
+    "stems": [
+      {
+        "BSC": " (to be in) a position in a particular linear vertical column of a sequential series of horizontally-aligned columns; to be positioned oin a particular vertical column (of a sequential series of horizontally-aligned columns) ",
+        "CTE": "(to be) in a state of being in a particular physical vertical column of a sequential series of horizontally-aligned columns ",
+        "CSV": "(to be) an act of physically positioning oneself or being positioned in a particular physical vertical column of a sequential series of horizontally-aligned columns ",
+        "OBJ": "(to be) the particular physical column something or someone is positioned in"
+      },
+      "(to be in) a position in a particular linear vertical column of a sequential series of front-to-back-aligned columns; to be positioned oin a particular vertical column (of a sequential series of front-to-back-aligned columns)",
+      "(to be in) a position in a vertical column (i.e., a vertical/columnar queue)"
+    ]
+  },
+  {
+    "root": "ŇŽ",
+    "refers": "ARRANGEMENT / ORDER / SYMMETRY",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act/instance of arranging or b",
+        "CTE": "(to be) a particular arrangement or pattern",
+        "CSV": "(to be) an act/process of physically placing entities into an arrangement or pattern",
+        "OBJ": "(to be) an entity in or part of a particular arrangement or pattern"
+      },
+      "(to be) a an act/state/instance of arranging/ordering or being arranged/ordered based on a specific criterion or criteria",
+      "(to be) an act/instance of symmetrical arrangement; to arrange symmetrically"
+    ],
+    "notes": "Affix: **CLS**\n\nMORPHOLOGICAL DERIVATIVES: array, setting, hierarchy, symmetry, disarray, scatter, mess, chaos"
+  },
+  {
+    "root": "ŇŽW",
+    "refers": "REGULARITY / CLASSIFICATION / ASSORTMENT",
+    "stems": [
+      {
+        "BSC": " (to be) a state/act/instance of being/making regular or displaying regularity (i.e., having an expected/conventionalized/predictable pattern); be/make regular, regularize ",
+        "CTE": "(to be) a state of being regular",
+        "CSV": "(to be) an act/process of making something regular; to regularize",
+        "OBJ": "(to be) something that is in a state of being regular or having been regularized "
+      },
+      "(to be) a state/act/instance of being in or making a classification (i.e., an arranged scheme for storage-and-retrieval); to classify",
+      "(to be) a state/act/instance of being in or making an assortment (i.e., an arranged selection of members/components); to sort"
+    ],
+    "notes": "MORPHOLOGICAL DERIVATIVES: regularity, regulate"
+  }
 ]

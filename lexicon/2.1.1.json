@@ -472,7 +472,7 @@
             "(be) an act/instance of unifying, uniting (i.e., joining entities together so that they are objectively or subjectively a unit, a single gestalt entity",
             "(be) an act/instance of fusion/merging/coalescing/melding (i.e., joining entities together so that each loses its individual boundaries or compositional integrity and becomes part of or mixed with others into a (quasi-)indivisible physical whole."
         ],
-        "notes": "See also -MC-"
+        "see": "MC"
     },
     {
         "root": "JŢ",
@@ -659,7 +659,7 @@
             "(be) an act/instance of revolving/orbiting; to revolve/orbit (i.e., to follow a (quasi-)circular motion around another entity/object)",
             "(be) an act of rotation; to rotate (e.g., twisting a handle or turning a steering wheel)"
         ],
-        "notes": "See also -PĻ-"
+        "see": "$1"
     },
     {
         "root": "LXR",
@@ -741,7 +741,7 @@
             "(be) a dragged platform (e.g., with one end tied to a pack animal and the other end dragged along the ground to carry supplies or as a stretcher)",
             "(be) a sled [for moving, not recreation]"
         ],
-        "notes": "See also -ÇV-"
+        "see": "$1"
     },
     {
         "root": "FJ",
@@ -765,7 +765,7 @@
             "(be) an act/instance of sealing or plugging ; to seal, to plug",
             "(be) an act/instance of prevention; to prevent something from happening [CPT version = to thwart]"
         ],
-        "notes": "See also -FJ-"
+        "see": "FJ"
     },
     {
         "root": "ŢS",
@@ -789,7 +789,7 @@
             "(be) an act/instance of placing a veneer, facing, coating, crust, or protective layer (of a substance/material) onto something",
             "(be) an act/instance of masking something; put a mask on something; to mask (i.e., a false face or false exterior covering designed to hide the appearance of something)"
         ],
-        "notes": "See also -ŢS-"
+        "see": "$1"
     },
     {
         "root": "ŇM",
@@ -812,7 +812,7 @@
             "artist’s paint",
             "watercolor paint"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇVY",
@@ -821,7 +821,7 @@
             "polymer-based sealant",
             "shellac"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇVR",
@@ -830,7 +830,7 @@
             "body paint/body make-up",
             "theatrical make-up"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇVL",
@@ -839,7 +839,7 @@
             "eye-liner",
             "false eyelash"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇVŘ",
@@ -848,7 +848,7 @@
             "lipstick",
             "lip gloss"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇFW",
@@ -857,7 +857,7 @@
             "lotion",
             "ointment"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇFY",
@@ -866,7 +866,7 @@
             "lacquer",
             "butter (indicating a type of topical application, e.g., tanning butter, not the edible milk-based subtance)"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇFL",
@@ -875,7 +875,7 @@
             "insecticide/pesticide",
             "insect repellent"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ŇFR",
@@ -884,7 +884,7 @@
             "sunscreen",
             "bronzer/tanning topical application"
         ],
-        "notes": "See also -ŇM-"
+        "see": "$1"
     },
     {
         "root": "ÇDR",
@@ -1050,7 +1050,7 @@
             "(to be) a state/act of drying; to dry [i.e., remove all presence of wetness or moisture]",
             "(to be) an act/state of evaporation; to evaporate"
         ],
-        "notes": "See also -LŢR-"
+        "see": "$1"
     },
     {
         "root": "ZŢ",
@@ -1132,7 +1132,7 @@
             "(be) a towel",
             "(be) a mop"
         ],
-        "notes": "See also -ŠNY-"
+        "see": "$1"
     },
     {
         "root": "ŠMY",
@@ -1142,7 +1142,7 @@
             "(be) an absorbent pad or bandage",
             "(be) an absorbent substance or material (e.g., sand, powder, cellulose granules, etc.)"
         ],
-        "notes": "See also -ŠNY-"
+        "see": "$1"
     },
     {
         "root": "MBW",

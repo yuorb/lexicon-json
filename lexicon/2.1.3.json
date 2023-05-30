@@ -7,246 +7,246 @@
     {
         "root": "KSMY",
         "refers": "oven",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KSC",
         "refers": "refrigerator",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KSČ",
         "refers": "freezer",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "LVB",
         "refers": "washing machine",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "LVD",
         "refers": "clothes dryer",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "MŽK",
         "refers": "air conditioner",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "MŽX",
         "refers": "air purifier",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "JJW",
         "refers": "blender",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŢCW",
         "refers": "calculator",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "PÇM",
         "refers": "coffee maker",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŢMY",
         "refers": "doorbell camera",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ẒKW",
         "refers": "telephone",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ẒKL",
         "refers": "smartphone",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ẒKR",
         "refers": "digital tablet/pad",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ČNW",
         "refers": "clock",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŠDR",
         "refers": "DVD player",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŠDL",
         "refers": "CD player",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "LÇN",
         "refers": "charging unit for electronic device",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŢNW",
         "refers": "curling iron",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŢNY",
         "refers": "hair dryer",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "GPĻ",
         "refers": "earphones/headphones",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "TFW",
         "refers": "video game controller",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "TFR",
         "refers": "garage door opener",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "-ČČW",
         "refers": "lawn mower",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "RČT",
         "refers": "inkjet/laser printer",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "RČTW",
         "refers": "photocopier",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "RČTY",
         "refers": "scanner",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "RČTR",
         "refers": "FAX machine",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "RČTF",
         "refers": "3-D printer",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "LCŘ",
         "refers": "mp3 player",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KŠČ",
         "refers": "remote control",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŢČW",
         "refers": "generator",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KÇP",
         "refers": "rice cooker",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KÇPL",
         "refers": "pressure cooker",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KÇPR",
         "refers": "crockpot",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "KÇPW",
         "refers": "microwave cooker",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "LČR",
         "refers": "toaster",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "FGY",
         "refers": "water pump",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "CCW",
         "refers": "sewing machine",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŠČW",
         "refers": "bathroom scale",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "PÇN",
         "refers": "juicer",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "LPH",
         "refers": "vacuum cleaner",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "FGL",
         "refers": "water heater",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "FGR",
         "refers": "heating unit / radiator",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŠDW",
         "refers": "stereo receiver",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "ŠDY",
         "refers": "stereo speaker",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "FGW",
         "refers": "water purifier",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "DBY",
         "refers": "flashlight",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     },
     {
         "root": "CBW",
         "refers": "memory stick/flash memory unit",
-        "notes": "See also -KSMW-"
+        "see": "KSMW"
     }
 ]

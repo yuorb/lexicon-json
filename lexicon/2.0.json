@@ -545,7 +545,7 @@
             "(to be) a transport terminal",
             "(to be) a port (e.g., airport, seaport, heliport, etc.) or transportation hub"
         ],
-        "notes": "See also -ČTĻ-"
+        "see": "$1"
     },
     {
         "root": "ÇL",
@@ -999,7 +999,7 @@
             "(to be) a state of suffering misfortune; to suffer from misfortune, to be in unfortunate circumstances",
             "(to be) a state of suffering disastrous/calamitous circumstances; to be facing a disaster/calamity, to suffer a disaster/calamity"
         ],
-        "notes": "See also -ŇF-"
+        "see": "$1"
     },
     {
         "root": "ŠY",
@@ -1946,7 +1946,7 @@
             "(to be/manifest a) fundamental reason for something; fundamental reason why; a basis for something",
             "(to be a) first principle / foundational principle / axiom "
         ],
-        "notes": "See also -ÇN-"
+        "see": "$1"
     },
     {
         "root": "R",
@@ -2034,7 +2034,7 @@
             "wallet",
             "coin purse"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKL",
@@ -2043,7 +2043,7 @@
             "carton",
             "custom-shaped carton/storage inlay"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKR",
@@ -2052,7 +2052,7 @@
             "drum",
             "tank/cylinder"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKF",
@@ -2061,7 +2061,7 @@
             "jar",
             "lidded pot"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKŢ-",
@@ -2070,7 +2070,7 @@
             "tub",
             "catch basin"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKÇ",
@@ -2079,7 +2079,7 @@
             "crate",
             "shipping container"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKV",
@@ -2088,7 +2088,7 @@
             "flask",
             "beaker"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VSKH",
@@ -2097,7 +2097,7 @@
             "sealed wrapper",
             "blister pack"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "VŠT",
@@ -2106,7 +2106,7 @@
             "pipette",
             "eye-dropper"
         ],
-        "notes": "See also -VSKW-"
+        "see": "VSKW"
     },
     {
         "root": "THW",

@@ -25,6 +25,7 @@ type Lexicon = {
     Specs | string,
   ];
   notes?: string;
+  see?: string;
 }[];
 ```
 

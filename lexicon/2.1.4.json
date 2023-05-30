@@ -29,7 +29,7 @@
             "potato masher",
             "whisk"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "JXR",
@@ -38,7 +38,7 @@
             "grater",
             "salad spinner"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "ZXR",
@@ -47,7 +47,7 @@
             "“spork”",
             "ladle"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "MXR",
@@ -56,7 +56,7 @@
             "slotted spoon",
             "measuring spoon"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "NSXR",
@@ -65,7 +65,7 @@
             "chopstick",
             "tongs"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "ŘXR",
@@ -74,7 +74,7 @@
             "bottle opener",
             "citrus juicer"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "LSXR",
@@ -83,7 +83,7 @@
             "mushroom slicing press / strawberry slicing press",
             "knife sharpening rod / stone"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "MZP",
@@ -92,7 +92,7 @@
             "pestle",
             "grinding stone"
         ],
-        "notes": "See also -ŠXR-"
+        "see": "$1"
     },
     {
         "root": "ŠGV",
@@ -115,7 +115,7 @@
             "sauté pan",
             "grilling pan"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "SBY",
@@ -124,7 +124,7 @@
             "pot / stockpot",
             "casserole dish"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "SBR",
@@ -133,7 +133,7 @@
             "muffin pan",
             "broiler pan"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "SBŘ",
@@ -142,7 +142,7 @@
             "baking dish or mold",
             "other metallic or ceramic baking dish/container/platform"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "SBV",
@@ -151,7 +151,7 @@
             "griddle",
             "rotisserie"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "ŠGW",
@@ -169,7 +169,7 @@
             "ceramic drinking vessel (e.g., cup, mug)",
             "glass or crystal drinking vessel"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "ŠGL",
@@ -178,7 +178,7 @@
             "decanter",
             "flagon"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     },
     {
         "root": "ŠGR",
@@ -187,6 +187,6 @@
             "serving board",
             "trivet"
         ],
-        "notes": "See also -ŠGV-"
+        "see": "$1"
     }
 ]

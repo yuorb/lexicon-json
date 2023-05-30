@@ -16,12 +16,12 @@
     {
         "root": "MPY",
         "refers": "morpheme",
-        "notes": "See also -MPW-"
+        "see": "MPW"
     },
     {
         "root": "MPŘ",
         "refers": "lexeme / word",
-        "notes": "See also -MPW-"
+        "see": "MPW"
     },
     {
         "root": "MPH",
@@ -40,161 +40,161 @@
     {
         "root": "MPÇ",
         "refers": "lexical root",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MPĻ",
         "refers": "lexical stem",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MPM",
         "refers": "concatenated root",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MPN",
         "refers": "concatenated stem",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMP",
         "refers": "noun case or verbal format",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPW",
         "refers": "case-accessor affix",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPY",
         "refers": "bias category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPL",
         "refers": "expectation category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢP",
         "refers": "level category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPW",
         "refers": "phase category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPY",
         "refers": "valence category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPL",
         "refers": "essence category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "LMP",
         "refers": "VXCS affix",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "LMPW",
         "refers": "VXCS affix-type",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "LMPY",
         "refers": "VXCS affix-degree",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "LMPL",
         "refers": "formative (part of speech)",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "LMPR",
         "refers": "adjunct (part of speech)",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "LMPŘ",
         "refers": "referential (part of speech)",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPŘ",
         "refers": "illocution category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPÇ",
         "refers": "validation category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPĻ",
         "refers": "mood category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPM",
         "refers": "context category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPN",
         "refers": "aspect category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "RMPH",
         "refers": "effect category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPR",
         "refers": "perspective category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPŘ",
         "refers": "extension category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPF",
         "refers": "plexity category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPŢ",
         "refers": "similarity catetgory",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPÇ",
         "refers": "separability category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPS",
         "refers": "version category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPŠ",
         "refers": "function category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     },
     {
         "root": "MŢPH",
         "refers": "specification category",
-        "notes": "See also -MPH-"
+        "see": "MPH"
     }
 ]
