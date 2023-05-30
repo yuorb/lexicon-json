@@ -1,0 +1,121 @@
+[
+  {
+    "root": "TR",
+    "refers": "PATH-ORIENTED, QUASI-LINEAR TRANSLATIVE MOTION",
+    "stems": [
+      {
+        "BSC": "act of translative motion from one spacetime location to another; to move from one place to another [both the motion and the entity moving] ",
+        "CTE": "The process of movement itself from one place to another; to be moving from one place to another [focus on the movement, not the entity moving] ",
+        "CSV": "The path/trajectory/course/route followed between two places; to move along/through the path/trajectory/course/route from one place to another",
+        "OBJ": "The entity moving from one place to another; to be the entity moving from one place to another"
+      },
+      "As per Stem 1 w/ perspective is on motion to(ward) the topical referent of the sentence or clause, i.e., “come; approach”; CPT = “arrive”",
+      "As per Stem 1 w/ perspective is on motion away from the topical referent of the sentence or clause, i.e., “go; go away; move away”; CPT = “leave; depart”"
+    ],
+    "notes": "Affix: **M01**\n\nWhen using the affix the above fourteen roots, to specify the Stem 2 meaning of the respective root, add **-w** to the affix form, e.g., **-tr** becomes **-trw**, **-kl** becomes **-klw**. To specify the Stem 3 meaning of the respective root, add **-y** to the affix form, e.g., **-tr** becomes **-try**, **-kl** becomes **-kly**."
+  },
+  {
+    "root": "PR",
+    "refers": "VERTICAL QUASI-LINEAR TRANSLATIVE MOTION",
+    "stems": [
+      "i.e., movement up/down",
+      "ascent/ascend; going (straight) up; rise/raise/elevate",
+      "descent/descend; going (straight) down; “drop”; lower(ing)"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "KR",
+    "refers": "OBLIQUE VERTICAL QUASI-LINEAR MOTION",
+    "stems": [
+      "i.e., ascending/descending at an angle/slant",
+      "oblique ascent, upward incline, uphill",
+      "oblique descent, downward incline, downhill"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "DR",
+    "refers": "HORIZONTAL PLANAR TRANSLATIVE MOTION",
+    "stems": [
+      "i.e., movement along a line/path on a horizontal plane between the topical referent and a second location",
+      "approach, getting nearer",
+      "recede/receding, getting farther away"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "FR",
+    "refers": "PARALLEL TRANSLATIVE MOTION",
+    "stems": [
+      "i.e., movement along same path/trajectory as the topical referent",
+      "parallel movement in same direction alongside topical referent",
+      "parallel movement alongside but in opposite direction to topical referent"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "BR",
+    "refers": "PERPENDICULAR-PLANAR TRANSLATIVE MOTION",
+    "stems": [
+      "i.e., movement along a line/path “across” one’s forward path or field of vision, moving laterally (i.e., horizontally perpendicular) to the positional/orientational position or path of the topical referent (i.e., analogous to watching something moving in a line across a screen held in front of one’s eyes)",
+      "movement from left-to-right relative to the topical referent",
+      "movement from right-to-left relative to the topical referent"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "GR",
+    "refers": "OBLIQUE LATERAL TRANSLATIVE MOTION",
+    "stems": [
+      "i.e., moving laterally at an oblique angle on same horizontal plane as the topical referent",
+      "lateral movement at an oblique angle approaching (i.e., getting nearer to) the topical referent",
+      "lateral movement at an oblique angle moving away from (getting farther away from) the topical referent"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "GL",
+    "refers": "HORIZONTAL-PLANAR RANGE OF MOTION",
+    "notes": "i.e., random directed movement within/throughout a 2-dimensional horizontal plane.",
+    "see": "TR"
+  },
+  {
+    "root": "DL",
+    "refers": "VERTICAL-PLANAR RANGE OF MOTION",
+    "notes": "i.e., random directed movement within/throughout a 2-dimensional vertical plane. ",
+    "see": "TR"
+  },
+  {
+    "root": "KL",
+    "refers": "PERPENDICULAR-PLANAR RANGE OF MOTION",
+    "notes": "i.e., random directed movement within/throughout a 2-dimensional vertical plane perpendicular to the perspective of the topical referent (i.e., lying “across” one’s visual field or directional path, analogous to a painting or flat screen held up in front of a person).",
+    "see": "TR"
+  },
+  {
+    "root": "PL",
+    "refers": "TRANSLATIVE MOTION ALONG PARABOLIC/ARC-LIKE TRAJECTORY RELATIVE TO GRAVITY",
+    "see": "TR"
+  },
+  {
+    "root": "BL",
+    "refers": "MOTION IN A CURVE",
+    "see": "TR"
+  },
+  {
+    "root": "FL",
+    "refers": "MOTION IN A PLANAR CIRCULAR PATH",
+    "stems": [
+      "",
+      "counter-clockwise motion",
+      "clockwise motion, relative to the speaker/observer"
+    ],
+    "see": "TR"
+  },
+  {
+    "root": "TL",
+    "refers": "GENERIC/OBLIQUE 3-DIMENSIONAL RANGE OF MOTION",
+    "notes": "i.e., 3-D pervasive movement throughout or within a volume of space",
+    "see": "TR"
+  }
+]

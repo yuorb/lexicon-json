@@ -41,7 +41,7 @@ the top priority is complete the lexicon.
 | Chapter 3.0             | ✅    | ✅              | ✅          | ✅    |
 | Chapter 3.1             | ✅    | ✅              | ✅          | ✅    |
 | Chapter 3.2             | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.3 (P104-P105) |       |                 |             |       |
+| Chapter 3.3             | ✅    | ✅              | ✅          | ✅    |
 | Chapter 3.4 (P105-P107) |       |                 |             |       |
 | Chapter 3.5 (P107-P108) |       |                 |             |       |
 | Chapter 3.6 (P109-P110) |       |                 |             |       |
