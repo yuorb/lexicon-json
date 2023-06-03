@@ -1,192 +1,194 @@
 [
-    {
-        "root": "ŠXR",
-        "refers": "MANIPULATION & HANDLING OF FOODSTUFF WHILE PREPARING OR COOKING IT",
-        "stems": [
-            {
-                "BSC": "(to be) an act/state of handling/manipulating food while preparing it for cooking",
-                "CTE": "(to be) in a state of being handled/manipulated while under preparation for cooking",
-                "CSV": "(to be) the physical act of handling/manipulating food while cooking it",
-                "OBJ": "(to be) the tool/utensil used to handle/manipulate food while cooking/preparing it"
-            },
-            "(to be) an act/state of handling/manipulating food while cooking it or processing it for ingestion",
-            "(to be) an act/state of handling manipulating food while serving it or ingesting it"
-        ]
-    },
-    {
-        "root": "ČKR",
-        "stems": [
-            "knife",
-            "serrated knife",
-            "chef’s knife"
-        ],
-        "notes": "use Type-2 SIX affix to distinguish knives by funciton, e.g., paring knife, bread knife\n\nSee also -ŠXR-"
-    },
-    {
-        "root": "ČXR",
-        "stems": [
-            "vegetable peeler",
-            "potato masher",
-            "whisk"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "JXR",
-        "stems": [
-            "colander / strainer",
-            "grater",
-            "salad spinner"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ZXR",
-        "stems": [
-            "fork",
-            "“spork”",
-            "ladle"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "MXR",
-        "stems": [
-            "spoon",
-            "slotted spoon",
-            "measuring spoon"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "NSXR",
-        "stems": [
-            "spatula",
-            "chopstick",
-            "tongs"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŘXR",
-        "stems": [
-            "can opener",
-            "bottle opener",
-            "citrus juicer"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "LSXR",
-        "stems": [
-            "garlic press",
-            "mushroom slicing press / strawberry slicing press",
-            "knife sharpening rod / stone"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "MZP",
-        "stems": [
-            "mortar",
-            "pestle",
-            "grinding stone"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŠGV",
-        "refers": "HOLDING & CONTAINING OF FOODSTUFF FOR PREPARING OR COOKING OR SERVING IT",
-        "stems": [
-            {
-                "BSC": "(to be) an act/state of holding/containing food while preparing it for cooking",
-                "CTE": "(to be) in a state of being held/contained while under preparation for cooking",
-                "CSV": "(to be) the physical act of holding/containing food while cooking it",
-                "OBJ": "(to be) the object/implement used to hold/contain food while cooking/preparing it"
-            },
-            "(to be) an act/state of holding/containing food while cooking it or preparing it for ingestion",
-            "(to be) an act/state of holding/containing food for the purpose of serving it or as a result of serving it"
-        ]
-    },
-    {
-        "root": "SBW",
-        "stems": [
-            "skillet / frying pan",
-            "sauté pan",
-            "grilling pan"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "SBY",
-        "stems": [
-            "saucepan",
-            "pot / stockpot",
-            "casserole dish"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "SBR",
-        "stems": [
-            "baking sheet",
-            "muffin pan",
-            "broiler pan"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "SBŘ",
-        "stems": [
-            "pie tin",
-            "baking dish or mold",
-            "other metallic or ceramic baking dish/container/platform"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "SBV",
-        "stems": [
-            "barbecue grille",
-            "griddle",
-            "rotisserie"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŠGW",
-        "stems": [
-            "cup",
-            "bowl",
-            "measuring cup"
-        ],
-        "notes": "use Type-2 SIZ affix to distinguish bowls by function, e.g., serving-, soup-, salad bowl, etc.\n\nSee also -ŠGV-"
-    },
-    {
-        "root": "ŠGY",
-        "stems": [
-            "plate / dish",
-            "ceramic drinking vessel (e.g., cup, mug)",
-            "glass or crystal drinking vessel"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŠGL",
-        "stems": [
-            "serving pitcher",
-            "decanter",
-            "flagon"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŠGR",
-        "stems": [
-            "cutting board",
-            "serving board",
-            "trivet"
-        ],
-        "see": "$1"
-    }
+  {
+    "root": "ŠXR",
+    "refers": "MANIPULATION & HANDLING OF FOODSTUFF WHILE PREPARING OR COOKING IT",
+    "stems": [
+      {
+        "BSC": "(to be) an act/state of handling/manipulating food while preparing it for cooking",
+        "CTE": "(to be) in a state of being handled/manipulated while under preparation for cooking",
+        "CSV": "(to be) the physical act of handling/manipulating food while cooking it",
+        "OBJ": "(to be) the tool/utensil used to handle/manipulate food while cooking/preparing it"
+      },
+      "(to be) an act/state of handling/manipulating food while cooking it or processing it for ingestion",
+      "(to be) an act/state of handling manipulating food while serving it or ingesting it"
+    ]
+  },
+  {
+    "root": "ČKR",
+    "stems": [
+      "knife",
+      "serrated knife",
+      "chef’s knife"
+    ],
+    "notes": "use Type-2 SIX affix to distinguish knives by funciton, e.g., paring knife, bread knife",
+    "see": "ŠXR"
+  },
+  {
+    "root": "ČXR",
+    "stems": [
+      "vegetable peeler",
+      "potato masher",
+      "whisk"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "JXR",
+    "stems": [
+      "colander / strainer",
+      "grater",
+      "salad spinner"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "ZXR",
+    "stems": [
+      "fork",
+      "“spork”",
+      "ladle"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "MXR",
+    "stems": [
+      "spoon",
+      "slotted spoon",
+      "measuring spoon"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "NSXR",
+    "stems": [
+      "spatula",
+      "chopstick",
+      "tongs"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "ŘXR",
+    "stems": [
+      "can opener",
+      "bottle opener",
+      "citrus juicer"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "LSXR",
+    "stems": [
+      "garlic press",
+      "mushroom slicing press / strawberry slicing press",
+      "knife sharpening rod / stone"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "MZP",
+    "stems": [
+      "mortar",
+      "pestle",
+      "grinding stone"
+    ],
+    "see": "ŠXR"
+  },
+  {
+    "root": "ŠGV",
+    "refers": "HOLDING & CONTAINING OF FOODSTUFF FOR PREPARING OR COOKING OR SERVING IT",
+    "stems": [
+      {
+        "BSC": "(to be) an act/state of holding/containing food while preparing it for cooking",
+        "CTE": "(to be) in a state of being held/contained while under preparation for cooking",
+        "CSV": "(to be) the physical act of holding/containing food while cooking it",
+        "OBJ": "(to be) the object/implement used to hold/contain food while cooking/preparing it"
+      },
+      "(to be) an act/state of holding/containing food while cooking it or preparing it for ingestion",
+      "(to be) an act/state of holding/containing food for the purpose of serving it or as a result of serving it"
+    ]
+  },
+  {
+    "root": "SBW",
+    "stems": [
+      "skillet / frying pan",
+      "sauté pan",
+      "grilling pan"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "SBY",
+    "stems": [
+      "saucepan",
+      "pot / stockpot",
+      "casserole dish"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "SBR",
+    "stems": [
+      "baking sheet",
+      "muffin pan",
+      "broiler pan"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "SBŘ",
+    "stems": [
+      "pie tin",
+      "baking dish or mold",
+      "other metallic or ceramic baking dish/container/platform"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "SBV",
+    "stems": [
+      "barbecue grille",
+      "griddle",
+      "rotisserie"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "ŠGW",
+    "stems": [
+      "cup",
+      "bowl",
+      "measuring cup"
+    ],
+    "notes": "use Type-2 SIZ affix to distinguish bowls by function, e.g., serving-, soup-, salad bowl, etc.",
+    "see": "ŠGV"
+  },
+  {
+    "root": "ŠGY",
+    "stems": [
+      "plate / dish",
+      "ceramic drinking vessel (e.g., cup, mug)",
+      "glass or crystal drinking vessel"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "ŠGL",
+    "stems": [
+      "serving pitcher",
+      "decanter",
+      "flagon"
+    ],
+    "see": "ŠGV"
+  },
+  {
+    "root": "ŠGR",
+    "stems": [
+      "cutting board",
+      "serving board",
+      "trivet"
+    ],
+    "see": "ŠGV"
+  }
 ]

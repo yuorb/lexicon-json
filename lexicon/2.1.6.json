@@ -1,106 +1,106 @@
 [
-    {
-        "root": "PŢT",
-        "refers": "FURNITURE / FURNISHING / APPLIANCE",
-        "stems": [
-            {
-                "BSC": "(to be) a piece of functional furniture; to furnish an environment with a piece of functional furniture (i.e., piece of furniture whose primary purpose is functional rather than decorative, e.g., chair, table, lamp, armoir, cabinet, chest of drawers, desk, bed, bookcase, etc.); utilize or make use of a piece of functional furniture",
-                "CTE": "(to be) the function(al purpose) of a piece of furniture; to utilize/make use of a piece of furniture",
-                "CSV": "(to be) the physical structure/design of a piece of furniture; to design a piece of functional furniture (CPT = construct a piece of functional furniture)",
-                "OBJ": "(to be) the space in a room or environment taken up by a piece of functional furniture"
-            },
-            "(to be) a piece of decorative furniture; to furnish an environment with a piece of decorative furniture (e.g., antique curio cabinet, fancy rug, designer furnishing, decorative mirror, chandelier, wallpaper, etc.)",
-            "(to be) a major household or office appliance; to furnish an environment with a major functional appliance (e.g., stove, oven, refrigerator, generator, sewing machine, washing machine, freezer, heating unit, air conditioner, television set, etc.)"
-        ]
-    },
-    {
-        "root": "SKF",
-        "refers": "TABLE / SHELF / PLATFORM",
-        "stems": [
-            "(to be) a table; utilize a table (i.e., a personal-sized (quasi-) rectangular or symmetrically shaped flat surface perpendicular to the direction of gravity positioned to allow one to either stand or sit and use it as a surface for working, storage, or performing some function)",
-            "(to be) a shelf",
-            "(to be) a platform or large flat artificially-surfaced area to provide a large planar surface for goods or people engaged in some specialized function (e.g., a stage)"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "KŠT",
-        "refers": "CHAIR / STOOL / THRONE",
-        "stems": [
-            "(to be) a chair; sit in a chair",
-            "(to be) a stool; sit on a stool",
-            "(to be) an ottoman, a footstool; rest oneself or one’s feet on an ottoman"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "KŠTL",
-        "refers": "BENCH / COUCH / FUTON",
-        "stems": [
-            "(to be) a bench for sitting multiple persons; sit on a bench",
-            "(to be) a couch/sofa/divan; sit on a couch/sofa/divan",
-            "(to be) a futon; sit or lie on a futon"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "NKL",
-        "refers": "BED / SOFA BED / CHAISE LONGUE",
-        "stems": [
-            "(to be) a bed; to sit/lie in a bed",
-            "(to be) a sofa bed; to sit/lie on a sofa bed",
-            "(to be) a chaise longue; sit/lie on a chaise longue"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "JKŢ",
-        "refers": "WORKBENCH / COUNTERTOP / DRAWING BOARD",
-        "stems": [
-            "(to be) a workbench",
-            "(to be) a countertop",
-            "(to be) a drawing board"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "MTY",
-        "refers": "CABINET",
-        "stems": [
-            "(to be) a cabinet with doors for storage; to store in a cabinet",
-            "(to be) a display case; to display in a display case",
-            "(to be) a hutch or specialty cabinet for storage of specific items"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "VTŘ",
-        "refers": "DRAWER / FILING SLOT / RACK",
-        "stems": [
-            "(to be) a drawer [container within a supporting/enclosing structure that slides or rolls out to allow access",
-            "(to be) a filing slot (i.e., as within the drawer of a filing cabinet)",
-            "(to be) a rack (i.e., a framework, lattice, or partition for holding or displaying objects, keeping them spatially separated from each other)"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŽNW",
-        "refers": "CARPET / RUG / MAT",
-        "stems": [
-            "(to be) a (wall-to-wall) carpet; to cover a floor with a carpet, to have carpeting on a floor",
-            "(to be) a rug; to cover an area of the floor/ground with a rug, to have a rug on the floor/ground",
-            "(to be) a mat; to cover an area of the floor/ground with a mat, to have a mat on the floor/ground"
-        ],
-        "see": "$1"
-    },
-    {
-        "root": "ŽNY",
-        "refers": "PILLOW / CUSHION / BOLSTER",
-        "stems": [
-            "(to be) a pillow; to use a pillow",
-            "(to be) a cushion; to use a cushion",
-            "(to be) a bolster; use a bolster"
-        ],
-        "see": "$1"
-    }
+  {
+    "root": "PŢT",
+    "refers": "FURNITURE / FURNISHING / APPLIANCE",
+    "stems": [
+      {
+        "BSC": "(to be) a piece of functional furniture; to furnish an environment with a piece of functional furniture (i.e., piece of furniture whose primary purpose is functional rather than decorative, e.g., chair, table, lamp, armoir, cabinet, chest of drawers, desk, bed, bookcase, etc.); utilize or make use of a piece of functional furniture",
+        "CTE": "(to be) the function(al purpose) of a piece of furniture; to utilize/make use of a piece of furniture",
+        "CSV": "(to be) the physical structure/design of a piece of furniture; to design a piece of functional furniture (CPT = construct a piece of functional furniture)",
+        "OBJ": "(to be) the space in a room or environment taken up by a piece of functional furniture"
+      },
+      "(to be) a piece of decorative furniture; to furnish an environment with a piece of decorative furniture (e.g., antique curio cabinet, fancy rug, designer furnishing, decorative mirror, chandelier, wallpaper, etc.)",
+      "(to be) a major household or office appliance; to furnish an environment with a major functional appliance (e.g., stove, oven, refrigerator, generator, sewing machine, washing machine, freezer, heating unit, air conditioner, television set, etc.)"
+    ]
+  },
+  {
+    "root": "SKF",
+    "refers": "TABLE / SHELF / PLATFORM",
+    "stems": [
+      "(to be) a table; utilize a table (i.e., a personal-sized (quasi-) rectangular or symmetrically shaped flat surface perpendicular to the direction of gravity positioned to allow one to either stand or sit and use it as a surface for working, storage, or performing some function)",
+      "(to be) a shelf",
+      "(to be) a platform or large flat artificially-surfaced area to provide a large planar surface for goods or people engaged in some specialized function (e.g., a stage)"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "KŠT",
+    "refers": "CHAIR / STOOL / THRONE",
+    "stems": [
+      "(to be) a chair; sit in a chair",
+      "(to be) a stool; sit on a stool",
+      "(to be) an ottoman, a footstool; rest oneself or one’s feet on an ottoman"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "KŠTL",
+    "refers": "BENCH / COUCH / FUTON",
+    "stems": [
+      "(to be) a bench for sitting multiple persons; sit on a bench",
+      "(to be) a couch/sofa/divan; sit on a couch/sofa/divan",
+      "(to be) a futon; sit or lie on a futon"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "NKL",
+    "refers": "BED / SOFA BED / CHAISE LONGUE",
+    "stems": [
+      "(to be) a bed; to sit/lie in a bed",
+      "(to be) a sofa bed; to sit/lie on a sofa bed",
+      "(to be) a chaise longue; sit/lie on a chaise longue"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "JKŢ",
+    "refers": "WORKBENCH / COUNTERTOP / DRAWING BOARD",
+    "stems": [
+      "(to be) a workbench",
+      "(to be) a countertop",
+      "(to be) a drawing board"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "MTY",
+    "refers": "CABINET",
+    "stems": [
+      "(to be) a cabinet with doors for storage; to store in a cabinet",
+      "(to be) a display case; to display in a display case",
+      "(to be) a hutch or specialty cabinet for storage of specific items"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "VTŘ",
+    "refers": "DRAWER / FILING SLOT / RACK",
+    "stems": [
+      "(to be) a drawer [container within a supporting/enclosing structure that slides or rolls out to allow access",
+      "(to be) a filing slot (i.e., as within the drawer of a filing cabinet)",
+      "(to be) a rack (i.e., a framework, lattice, or partition for holding or displaying objects, keeping them spatially separated from each other)"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "ŽNW",
+    "refers": "CARPET / RUG / MAT",
+    "stems": [
+      "(to be) a (wall-to-wall) carpet; to cover a floor with a carpet, to have carpeting on a floor",
+      "(to be) a rug; to cover an area of the floor/ground with a rug, to have a rug on the floor/ground",
+      "(to be) a mat; to cover an area of the floor/ground with a mat, to have a mat on the floor/ground"
+    ],
+    "see": "PŢT"
+  },
+  {
+    "root": "ŽNY",
+    "refers": "PILLOW / CUSHION / BOLSTER",
+    "stems": [
+      "(to be) a pillow; to use a pillow",
+      "(to be) a cushion; to use a cushion",
+      "(to be) a bolster; use a bolster"
+    ],
+    "see": "PŢT"
+  }
 ]
