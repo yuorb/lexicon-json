@@ -10,13 +10,17 @@ future.
 
 ```ts
 type Specs = {
+  /** basic */
   "BSC": string;
+  /** contential */
   "CTE": string;
+  /** constitutive */
   "CSV": string;
+  /** objective */
   "OBJ": string;
 };
 
-type Lexicon = {
+type Root = {
   root: string;
   refers?: string;
   stems?: [
@@ -24,13 +28,14 @@ type Lexicon = {
     Specs | string,
     Specs | string,
   ];
+  /** Notes in markdown format */
   notes?: string;
+  /** See the root below if the stems are empty as they may have similar rules */
   see?: string;
 }[];
-```
 
-The fields will and should be expanded in the future, but at the current stage,
-the top priority is complete the lexicon.
+type Lexicon = Array<Root>
+```
 
 ## Progress
 
