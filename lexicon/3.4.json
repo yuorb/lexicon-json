@@ -1,0 +1,73 @@
+[
+    {
+        "root": "Ţ",
+        "refers": "SPATIAL POSITION, LOCATION, ORIENTATION, DIRECTION",
+        "stems": [
+            {
+                "BSC": "spatial position of an entity; to be situated/located at",
+                "CTE": "The act of physically occupying a/the position/location in space; to physically occupy a/the position in space",
+                "CSV": "A/the position/location in space occupied by an entity; to be a/the position/location in space",
+                "OBJ": "The entity situated/located at; to be that which situated/located at"
+            },
+            "Direction relative to the observer (i.e., linear directional path between an object and the observer)",
+            "The opposing direction from which something emergeces/originates/appears/etc."
+        ],
+        "notes": "Stem Zero = area, general vicinity of a particular position/location relative to the observer, whether 2-dimensional or 3-dimensional according to the situational context"
+    },
+    {
+        root: "Ḑ",
+        refers: "POSITION/LOCATION AT 0 / 0 / 0",
+        notes: "'right here', at the center point of the observer's 3-dimensional spatial frame of reference",
+        see: "Ţ"
+    },
+    {
+        root: "ŢY",
+        refers: "POSITION/LOCATION AT 0 / 0 / +Z",
+        notes: "'above the observer'",
+        see: "Ţ"
+    },
+    {
+        root: "ŢW",
+        refers: "POSITION/LOCATION AT 0 / 0 / -Z",
+        notes: "'below the observer'",
+        see: "Ţ"
+    },
+    {
+        root: "P",
+        refers: "POSITION/LOCATION AT 0 / +Y / 0",
+        notes: "'in front of the observer'",
+        see: "Ţ"
+    },
+    {
+        root: "K",
+        refers: "POSITION/LOCATION AT 0 / -Y / 0",
+        notes: "'behind the observer'",
+        see: "Ţ"
+    },
+    {
+        root: "F",
+        refers: "POSITION/LOCATION AT +X / 0 / 0",
+        notes: "'to the right of the observer'",
+        see: "Ţ"
+    },
+    {
+        root: "V",
+        refers: "POSITION/LOCATION AT -X / 0 / 0",
+        notes: "'to the left of the observer'",
+        see: "Ţ"
+    },
+    {
+        "root": "NH",
+        "refers": "DEGREE OF PROXIMITY/DISTANCE",
+        "stems": [
+            {
+                "BSC": "(to be/manifest) a degree of linear proximity/distance in space and/or time between entities — [both the spatio-temporal expanse and the effect/consequences thereof]",
+                "CTE": "(to be/manifest) the effect/consequences of the spatio-temporal distance/proximity between entities",
+                "CSV": "(to be/manifest) a degree of linear proximity/distance in space and/or time between entities",
+                "OBJ": "(to be) an entity/party at a certain distance/proximity to another"
+            },
+            "(to be/manifest a) degree of linear spatial proximity/distance/spatial interval between entities",
+            "(to be/manifest a) degree of temporal proximity/distance (i.e., elapsed time between entities)"
+        ]
+    }
+]
