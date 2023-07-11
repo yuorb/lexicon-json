@@ -20,4 +20,5 @@ jobs:
         with:
           allowUpdates: true
           artifacts: "output/lexicon.json"
+          tag: lastest
           token: ${{ secrets.GITHUB_TOKEN }}
