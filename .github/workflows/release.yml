@@ -20,4 +20,4 @@ jobs:
         with:
           allowUpdates: true
           artifacts: "output/lexicon.json"
-          token: ${{ secrets.YOUR_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
