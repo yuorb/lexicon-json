@@ -21,12 +21,18 @@
                 "CSV": "(to be) a physical act/state of a person having to do/go without a needed/desired fixture",
                 "OBJ": "(to be) the consequence(s) of a needed/desired fixture being absent/unavailable"
             }
-        ]
+        ],
+        "notes": "The LCM affix -řst is useful in conjunction with the roots for fixtures."
     },
     {
         "root": "MBL",
         "refers": "water tap / water faucet / tap valve",
-        "see": "LCW"
+        "see": "LCW",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "VBL",
@@ -191,6 +197,11 @@
     {
         "root": "LSTL",
         "refers": "coat rack",
-        "see": "LCW"
+        "see": "LCW",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     }
 ]

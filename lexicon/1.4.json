@@ -16,12 +16,22 @@
     {
         "root": "MPY",
         "refers": "morpheme",
-        "see": "MPW"
+        "see": "MPW",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MPŘ",
         "refers": "lexeme / word",
-        "see": "MPW"
+        "see": "MPW",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MPH",
@@ -35,82 +45,158 @@
             },
             "(to be) the function/purpose/meaning/signification of a particular grammatical/morphological category in a spoken/written language",
             "(to be) an allomorphic/alternative way of expressing a grammatical/morphological category in a spoken/written language"
-        ]
+        ],
+        "notes": "To name a particular grammatical sub-category (e.g., comitative case), use the appropriate root/stem above in conjunction with one of the following rules:\n- To name a noun case or verbal format, use the stem ­-- above in conjunction with the specialized Cs-root (see Sec. 4.2 of the Design Document) of the Type-2 case-accessor affix for the case in question. For example, the COMITATIVE case would be named ***warmpa ëizyi’ve*** *‘grammatical case/format associated with that which accompanies’*.\n- For categories other than noun cases or verbal formats, use the appropriate root/stem from the list above in conjunction with one of the following stems as appropriate, where that stem in turn manifests (i.e., is declined into) the particular morphological category: *-PS-* Stem 1: ‘to happen/occur’; *-PS-* Stem 2: ‘to be/manifest’. For example, the Ithkuil term for the subjunctive mood would be ***warmpļa hre psi’ve*** *‘grammatical mood associated with what may happen’*."
     },
     {
         "root": "MPÇ",
         "refers": "lexical root",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MPĻ",
         "refers": "lexical stem",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MPM",
         "refers": "concatenated root",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MPN",
         "refers": "concatenated stem",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "RMP",
         "refers": "noun case or verbal format",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "RMPW",
         "refers": "case-accessor affix",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "RMPY",
         "refers": "bias category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "RMPL",
         "refers": "expectation category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MŢP",
         "refers": "level category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MŢPW",
         "refers": "phase category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MŢPY",
         "refers": "valence category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "MŢPL",
         "refers": "essence category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "LMP",
-        "refers": "VXCS affix",
-        "see": "MPH"
+        "refers": "VxCs affix",
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "LMPW",
-        "refers": "VXCS affix-type",
-        "see": "MPH"
+        "refers": "VxCs affix-type",
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "LMPY",
-        "refers": "VXCS affix-degree",
-        "see": "MPH"
+        "refers": "VxCs affix-degree",
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "root": "LMPL",
@@ -195,6 +281,11 @@
     {
         "root": "MŢPH",
         "refers": "specification category",
-        "see": "MPH"
+        "see": "MPH",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     }
 ]

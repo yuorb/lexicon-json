@@ -247,6 +247,11 @@
     {
         "root": "CBW",
         "refers": "memory stick/flash memory unit",
-        "see": "KSMW"
+        "see": "KSMW",
+        "stems": [
+            "",
+            "",
+            ""
+        ]
     }
 ]
