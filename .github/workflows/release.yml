@@ -1,0 +1,23 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "main"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: denoland/setup-deno@v1
+        with:
+            deno-version: v1.x
+      - run: deno task json
+      - uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: "output/lexicon.json"
+          token: ${{ secrets.YOUR_GITHUB_TOKEN }}
