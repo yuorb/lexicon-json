@@ -1,0 +1,210 @@
+[
+    {
+        "root": "LN",
+        "refers": "TIME OF DAY",
+        "stems": [
+            {
+                "BSC": "(to be) daytime (= portion of the 24-hour day when the sun is above the horizon)",
+                "CTE": "(to be) the elapsing/passing of time during the daytime, to spend/pass the daylight hours",
+                "CSV": "(to be) the state of being in daylight; to occur/manifest during daylight hours",
+                "OBJ": "(to be) that which occurs/passes during daylight hours"
+            },
+            {
+                "BSC": "(to be) evening or nighttime (= portion of the 24-hour day when the sun is below the horizon)",
+                "CTE": "(to be) the elapsing/passing of time during the evening/nighttime; to spend/pass the evening/nighttime hours",
+                "CSV": "(to be) the state of being evening/night; to occur/manifest during evening/nighttime hours; to be occur at night",
+                "OBJ": "(to be) that which occurs/passes during evening/nighttime hours"
+            },
+            {
+                "BSC": "(to be) a particular 'o'clock'-time of the day as named by the hour [use numerical roots or affixes to specify the number of hours since midnight] (includes both the time and the event occuring then)",
+                "CTE": "(to be) the measuring/delineation of time as specified by a particular 'o'clock'-time of day",
+                "CSV": "(to be) the state of being/occuring at a particular 'o'clock'-time of day",
+                "OBJ": "(to be) the event which occurs at or is specified by a particular 'o'clock'-time of day"
+            }
+        ],
+        "notes": "for specific times, e.g., 10:15 am and 34.3 seconds, use Stem 3 with appropriate numerical affix, followed by numerical stems with a COO affix plus the appropriate stems of the -RW- root declined in the PARTITIVE case. Alternatively, one may use numerical stems with the various degrees of the ELA affix."
+    },
+    {
+        "root": "RV",
+        "refers": "TEMPORARY DURATION",
+        "stems": [
+            {
+                "BSC": "(to be) a particular amount of elapsed time which something occurs/exists; for something to occur/exist lasting/during a particular amount of time [Stem 1 = a moment]",
+                "CTE": "(to be) the event(s) occuring during a particular amount of elapsed time",
+                "CSV": "(to be) the duration of elapsed time [regardless of what may occur/exist during that period]",
+                "OBJ": "(to be) the 'volume' of spacetime during/in which something occurs/exists"
+            },
+            "a 'while'",
+            "a portion of a day"
+        ],
+        "notes": "Affix: **TD1**\n\nFor the meaning of the old FORMAL stems previously associated with this root, use the new root(-RW-)"
+    },
+    {
+        "root": "RW",
+        "refers": "SHORT-TERM CONVENTIONALIZED TIME PERIOD",
+        "stems": [
+            "(to be) a second",
+            "(to be) a minute",
+            "(to be) an hour"
+        ],
+        "see": "RV"
+    },
+    {
+        "root": "Ř",
+        "refers": "CONVENTIONALIZED TIME PERIOD",
+        "stems": [
+            "(to be) a day (= 24-hour period)",
+            "(to be) a week",
+            "(to be) a lunar period / month"
+        ],
+        "see": "RV",
+        "notes": "For the meaning of the old FORMAL stems previously associated with this root, use the following new root(-RḐ-)"
+    },
+    {
+        "root": "RḐ",
+        "refers": "CALENDRICAL TIME PERIOD",
+        "stems": [
+            "(to be) a calendrical day, designated day (for planning/scheduling purposes)",
+            "(to be) a calendrical week, designated week (for planning/scheduling purposes)",
+            "(to be) a calendrical month, designated month (for planning/scheduling purposes)"
+        ],
+        "see": "RV",
+        "notes": "Affix: **TD2**"
+    },
+    {
+        "root": "RN",
+        "refers": "LONGER TIME PERIOD",
+        "stems": [
+            "(to be) a calendrical year, designated year (for planning/scheduling purposes)",
+            "(to be) a calendrical decade, designated decade (for planning/scheduling purposes)",
+            "(to be) a designated lifetime of an individual (for planning/scheduling purposes)"
+        ],
+        "see": "RV",
+        "notes": "Affix: **LTD**\n\nFor the meaning of the old INFORMAL stems previously associated with this root, use the above stems with the DGR/8 affix."
+    },
+    {
+        "root": "ŘŢ",
+        "refers": "LONG-TERM TIME PERIOD",
+        "stems": [
+            "(to be) a calendrical century",
+            "(to be) a calendrical millenium",
+            "(to be) a calendrical ten-thousand year period"
+        ],
+        "see": "RV",
+        "notes": "Affix: **LGD**\n\nFor the meaning of the old INFORMAL stems previously associated with this root, use the above stems with the DGR/8 affix."
+    },
+    {
+        "root": "ŘŇ",
+        "refers": "EPOCH-LENGTH TIME PERIOD",
+        "stems": [
+            "(to be) a geologic age",
+            "(to be) a geologic epoch",
+            "(to be) a geologic era"
+        ],
+        "see": "RV",
+        "notes": "Affix: **EPC**\n\nFor the meaning of the old INFORMAL stems previously associated with this root, use the above stems with the DGR/8 affix."
+    },
+    {
+        "root": "RP",
+        "refers": "CYCLE / REGULARITY / FREQUENCY / PERIODICITY / ITERATION",
+        "stems": [
+            {
+                "BSC": "(to be) something having a cycle or pattern of regularity; to be something cyclic, regular, or periodic [both the entity and the cyclic pattern]",
+                "CTE": "(to be) a pattern of cyclic/regular/periodic activity [focus on pattern as distinct from other/different potential patterns]",
+                "CSV": "(to be) a process of cycling/periodicity [focus on significance that a pattern exists/occurs]",
+                "OBJ": "(to be) the object/entity which displays cyclic/regular/periodic activity"
+            },
+            {
+                "BSC": "(to be) something with a particular cycle or pattern of regularity; to be something with a particular cycle or regular period [both the entity and the cyclic/periodic pattern]",
+                "CTE": "(to be) the particular frequency/periodicity of a phenomenon (= the rate of its recurrences/manifestations); to recur; to repeat (in terms of temporal periodicity)",
+                "CSV": "(to be) a process of cycling/recurring with a particular period [focus on the signficance that such a pattern exists/occurs]",
+                "OBJ": "(to be) the object/entity which displays the particular cycle/recurring/periodic pattern"
+            },
+            {
+                "BSC": "(to be) something manifesting iteration/recurrence, i.e., happening more than once; to be something iterative/concurrent [both the entity and the recurrence]",
+                "CTE": "(to be) a pattern of iteration/recurrence [focus on the fact that iteration/recurrence demonstrates a potential pattern or precedence for further recurrence]",
+                "CSV": "(to be) a process of iteration/recurrence [focus on the fact that there's been a recurrence]",
+                "OBJ": "(to be) the event/entity which has recurred"
+            }
+        ],
+        "notes": "Affix: **FRQ**"
+    },
+    {
+        "root": "KT",
+        "refers": "PAST / PRESENT / FUTURE",
+        "stems": [
+            {
+                "BSC": "(to be) a past event/occurrence/entity (relative to the contextual present); to be/occur in the past [both the event/entity and its place on a linear timeline relative to the contextual present]",
+                "CTE": "(to be) a past event [focus on what occured, not when]",
+                "CSV": "(to be) when a past event occured [focus on when it occured, not what occured]",
+                "OBJ": "(to be) the entity/object/circumstance impacted/affected by a past event/occurence/entity"
+            },
+            "present event, entity, occurrence",
+            "future event, entity, occurrence"
+        ],
+        "notes": "Affix: **TPF**\n\nThe above stems may be used in spatial contexts as well, in which case English translations might differ depending on context, e.g., ‘previous', ‘former', ‘once-', ‘one-time', ‘here', ‘...at hand', ‘there', ‘-to-come', ‘expected/awaited', etc."
+    },
+    {
+        "root": "KM",
+        "refers": "TIMELINESS / PUNCTUALITY / EARLINESS / LATENESS",
+        "stems": [
+            {
+                "BSC": "(to manifest) a degree of timeliness/punctuality; the extent to which something is timely/on-time [use a quantitative affix such as EXN, EXD, SUF, etc., to specify]",
+                "CTE": "(to be) that which manifests a degree of timeliness/punctuality",
+                "CSV": "(to be) a state of timeliness/punctuality, being on time",
+                "OBJ": "(to be) that to/with which one is (intended to be) punctual"
+            },
+            {
+                "BSC": "(to be) something that is early, sooner-than-expected, sooner-than-required",
+                "CTE": "(to be) that which is early",
+                "CSV": "(to be) a state of earliness, being sooner-than-required; to be early",
+                "OBJ": "(to be) the event/place/situation at/to which one is (or intends to be) early"
+            },
+            "(to be something that is) late, untimely, tardy — Specification pattern modeled after Stem 2."
+        ],
+        "notes": "Affix: **TME** (formerly **LAT**)"
+    },
+    {
+        "root": "RŠ",
+        "refers": "STAGE / STEP PHASE OF A PROCESS",
+        "stems": [
+            {
+                "BSC": "(to be) a step/stage/phase in a process [both the entity/entities/event/acts constituting the portion of the larger process and the process/state of being subvided from the larger process]",
+                "CTE": "(to be) the entity/entities/activity/activities/act(s) within (or which constitute) a step/stage/phase of a process; to constitute the particulars of a stage in a process",
+                "CSV": "(to be) the act/state/process of being/functioning as a step/stage/phase of a process; to perform a step in a process",
+                "OBJ": "(to be) the process which is divided up into steps/stages/phases"
+            },
+            "(to be) a degree/grade or point on a progressive/scalar gradient",
+            "(to be) a section, sub-unit, discernible/identifiable/differentiated 'stretch' or portion of a progressively/successively structured entity/phenomenon"
+        ],
+        "notes": "Affix: **STG**"
+    },
+    {
+        "root": "TPH",
+        "refers": "SCHEDULE / TIMETABLE / ITINERARY / CALENDAR",
+        "stems": [
+            {
+                "BSC": "(to be) an act/process/instance of using/making/relying upon a schedule/timetable; to use/rely on a schedule/timetable [i.e., a written/graphic listing of sequential events delineated by a time index]",
+                "CTE": "(to be) a state of being on a schedule, of being scheduled",
+                "CSV": "(to be) a physical act of scheduling; to put/place/input on/in a schedule, to schedule",
+                "OBJ": "(to be) a schedule"
+            },
+            "(to be) an act/process/instance of using/making/relying upon an itinerary; to use/rely on an itinerary",
+            "(to be) an act/process/instance of using/making/relying upon a calendar"
+        ]
+    },
+    {
+        "root": "LPŠ",
+        "refers": "REFRESH / RENEWAL / UPDATE",
+        "stems": [
+            {
+                "BSC": "(to be) an act/process/state of needing to be refreshed/replenished; to be in need of refreshment/replenishment/resupply [i.e., to make something return to having its initial appearance/condition/supply] (CPT Version = refresh/replenish/resupply)",
+                "CTE": "(to be) a state of needing to be refreshed/replenished/resupplied (CPT Version = state of being refreshed)",
+                "CSV": "(to be) a physical act of refreshing/replenishing/resupplying; to refresh/replenish/resupply",
+                "OBJ": "(to be) what is in need of refreshment/replenishment (CPT Version = what is/has been refreshed/replenished)"
+            },
+            "(to be) an act/process/instance of renewing/reviving/renewal/revival; to renew/revive [i.e., to make something return to the state it had when new]",
+            "(to be) an act/process/instance of updating, bringing soething up-to-date; to update [i.e., to correct aspects of an entity that has become obsolete/inaccurate]"
+        ]
+    }
+]
