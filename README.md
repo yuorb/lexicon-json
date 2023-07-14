@@ -39,22 +39,27 @@ type Lexicon = Array<Root>;
 
 ## Progress
 
-|                         | Roots | Addtional Roots | Stem & Spec | Notes |
-| ----------------------- | ----- | --------------- | ----------- | ----- |
-| Chapter 1               | ✅    | ✅              | ✅          | ✅    |
-| Chapter 2               | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.0             | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.1             | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.2             | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.3             | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.4             | ✅    | ✅              | ✅          | ✅    |
-| Chapter 3.5 (P107-P108) |       |                 |             |       |
-| Chapter 3.6 (P109-P110) |       |                 |             |       |
-| Chapter 3.7 (P111-P115) |       |                 |             |       |
-| Chapter 4 (P115 - P244) |       |                 |             |       |
-| Chapter 5 (P245 - P260) |       |                 |             |       |
-| Chapter 6 (P261 - P319) |       |                 |             |       |
-| Chapter 7 (P319 - P570) |       |                 |             |       |
+|                           | Roots | Additional Roots | Stem & Spec | Notes |
+| ------------------------- | ----- | ---------------- | ----------- | ----- |
+| Chapter 1                 | ✅    | ✅               | ✅          | ✅    |
+| Chapter 2                 | ✅    | ✅               | ✅          | ✅    |
+| Chapter 3                 | ✅    | ✅               | ✅          | ✅    |
+| Chapter 4.0 (P115 - P116) |       |                  |             |       |
+| Chapter 4.1 (P117 - P154) |       |                  |             |       |
+| Chapter 4.2 (P154 - P155) |       |                  |             |       |
+| Chapter 4.3 (P156 - P200) |       |                  |             |       |
+| Chapter 4.4 (P200 - P203) |       |                  |             |       |
+| Chapter 4.5 (P203 - P244) |       |                  |             |       |
+| Chapter 5                 | ✅    | ✅               | ✅          | ✅    |
+| Chapter 6.0               | ✅    | ✅               | ✅          | ✅    |
+| Chapter 6.1 (P261 - P268) |       |                  |             |       |
+| Chapter 6.2 (P269 - P281) |       |                  |             |       |
+| Chapter 6.3 (P281 - P295) |       |                  |             |       |
+| Chapter 6.4 (P296 - P319) |       |                  |             |       |
+| Chapter 7.0 (P319 - P319) |       |                  |             |       |
+| Chapter 7.1 (P320 - P332) |       |                  |             |       |
+| Chapter 7.2 (P333 - P397) |       |                  |             |       |
+| Chapter 7.3 (P397 - P570) |       |                  |             |       |
 
 ## Scripts
 
