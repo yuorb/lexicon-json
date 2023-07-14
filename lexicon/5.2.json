@@ -1,0 +1,437 @@
+[
+    {
+        "root": "DKŘ",
+        "refers": "WEAPON",
+        "stems": [
+            {
+                "BSC": "(to be) an object (circumstantially) used to physically harm/injure/kill a living entity",
+                "CTE": "(to be) an act of using an object (circumstantially) to harm/injure/kill; to wield/brandish/use an object to harm/injure/kill",
+                "CSV": "(to be) the physical object used (circumstantially) as a means to harm/injure/kill a living entity",
+                "OBJ": "(to be) the target/victim of an object used (circumstantially) for harming/injuring/killing"
+            },
+            "(to be) an object/device/force designed/constructed specifically for the purpose of harming/injuring/killing a living entity; (to be) a weapon",
+            "(to be) an intangible or abstract entity used as a weapon (e.g., words, propoganda, one's intimidating/bullying behavior, one's passive-aggressive 'game-playing', etc.)"
+        ]
+    },
+    {
+        "root": "DKL",
+        "refers": "NON-BALLISTIC WEAPON",
+        "stems": [
+            {
+                "BSC": "(to be) a hand-held or hand-thrown bladed weapon for cutting or stabbing something or someone",
+                "CTE": "(to be) an act of using a hand-held or hand-thrown bladed weapon; to wield/brandish/use a weapon",
+                "CSV": "(to be) the physical object used as a hand-held or hand-thrown bladed weapon",
+                "OBJ": "(to be) the target/victim of a non-ballistic weapon"
+            },
+            "(to be) a pointed-tipped handheld or propelled weapon for piercing something or someone",
+            "(to be) a blunt force-driven hand-held or propelled weapon"
+        ]
+    },
+    {
+        "root": "DKR",
+        "refers": "BALLISTIC WEAPON",
+        "stems": [
+            "(to be) a ballistically launched projectile used as a weapon; to launch a ballistic projectile",
+            "(to be) an used as a weapon; to detonate an explosive/incendiary substance/device",
+            "(to be) an implement/device used for propelling/launching a ballistic projectile or explosive/incendiary device used as a weapon"
+        ],
+        "see": "DKL"
+    },
+    {
+        "root": "DKW",
+        "refers": "MICROBIAL, SONIC, CYBER- WEAPON",
+        "stems": [
+            "(to be) a microbial agent used as a weapon",
+            "(to be) a sonic weapon",
+            "(to be) a cyber-weapon"
+        ],
+        "see": "DKL"
+    },
+    {
+        "root": "XVL",
+        "refers": "HAND-ASSOCIATED MELEE WEAPON I",
+        "stems": [
+            {
+                "BSC": "(to be) a particular weapon; to use (i.e., stab/cut/throw/fire, etc.) a particular weapon [Stem 1 = hand-held or hand-attached clawed or spiked weapon (e.g., tiger claws, bagh naka)]",
+                "CTE": "(to be) a state of wielding/brandish/carrying a particular weapon",
+                "CSV": "(to be) an act of physically attacking with a particular weapon",
+                "OBJ": "(to be) the target/victim of a particular weapon"
+            },
+            "brass knuckles / knuckle dusters",
+            "caestus / battle glove"
+        ]
+    },
+    {
+        "root": "XVR",
+        "refers": "HAND-ASSOCIATED MELEE WEAPON II",
+        "stems": [
+            "deer horn knives-like weapon",
+            "wind-and-fire wheel",
+            "tekkō"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "XVW",
+        "refers": "HAND-ASSOCIATED MELEE WEAPON III",
+        "stems": [
+            "push dagger-like weapon (e.g., katar, African finger knife",
+            "emeici",
+            "wrist-knife-like weapon (e.g., larim, nyepel)"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "XVY",
+        "refers": "HAND-ASSOCIATED MELEE WEAPON IV",
+        "stems": [
+            "Japanese war fan (e.g., tessen, gunsen, gunbai)",
+            "Korean war fan / mubuchae",
+            "other hand-held or hand-attached bladed or point-sharpened weapon"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "KLY",
+        "refers": "CHAKRAM / SHURIKEN / BOOMERANG",
+        "stems": [
+            "chakram / chalikar / war-quoit",
+            "shuriken / ninja star / throwing star",
+            "boomerang / valari"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "KLW",
+        "refers": "SLING / BOLAS / LASSO",
+        "stems": [
+            "sling",
+            "bolas or bolas-like weapon (e.g., ayllo, lliwi, qilumitautit)",
+            "lasso / lariat"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ČY",
+        "refers": "CLUB / BLUDGEON",
+        "stems": [
+            "club or club-like weapon (e.g., bludgeon, baseball bat, truncheon, cudgel, shillelagh, knobkerrie)",
+            "stave-like weapon (e.g., quarterstaff, bō, jousting pole)",
+            "morning star"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ẒY",
+        "refers": "FLAIL / MACE",
+        "stems": [
+            "flail",
+            "mace",
+            "pernach"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "GPL",
+        "refers": "WAR HAMMER / MAUL",
+        "stems": [
+            "war hammer / totokia / maul",
+            "bec de corbin",
+            "lucerne hammer"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "GPR",
+        "refers": "BATTLE AXE",
+        "stems": [
+            "battle axe",
+            "poleaxe / sparth / bardiche",
+            "horseman's pick"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ČKH",
+        "refers": "STRAIGHT DAGGER / SWORD",
+        "stems": [
+            "dagger / shortsword",
+            "one-handed sword / rapier",
+            "two-handed sword / longsword"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ČKŘ",
+        "refers": "CURVED DAGGER / SWORD",
+        "stems": [
+            "curved dagger",
+            "curved one-handed sword / sabre",
+            "curved two-handed sword"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ČKŢ",
+        "refers": "AXE-LIKE SWORD",
+        "stems": [
+            "machete",
+            "falx/rhomphaia-like or other hand-held sickle-like or scythe-like weapon",
+            "other single-bladed axe-like sword"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ČKF",
+        "refers": "SWITCHBLADE / GRAVITY KNIFE",
+        "stems": [
+            "switchblade / butterfly-knife / fan knife / folding knife",
+            "gravity knife / telescoping knife",
+            "brandistock"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "TGL",
+        "refers": "SPEAR / PIKE",
+        "stems": [
+            "spear/javelin-like throwing weapon",
+            "pike/lance-like thrusting/stabbing weapon",
+            "bill/halberd-like weapon"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "TGR",
+        "refers": "WAR SCYTHE / FAUCHARD",
+        "stems": [
+            "war scythe / fauchard",
+            "guisarme/glaive-like weapon",
+            "voulge-like weapon"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "TGŘ",
+        "refers": "PARTISAN / PLANÇON",
+        "stems": [
+            "partisan-/ranseur-/spetum-like weapon",
+            "plançon/goedendag-like weapon",
+            "sword-like weapon extension (e.g., patta, bayonet)"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ŠXW",
+        "refers": "BOW",
+        "stems": [
+            "flatbow/longbow/recurve bow",
+            "crossbow",
+            "arrow"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "KŠV",
+        "refers": "WEAPONIZED PROJECTILE",
+        "stems": [
+            "dart",
+            "arrow (used with bow, lanyard, armentum, atlatl, etc.)",
+            "propelled bladed projectile"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "GŽB",
+        "refers": "BATTERING RAM / BALLISTA / PETRARY",
+        "stems": [
+            "battering ram",
+            "ballista",
+            "petrary (e.g., catapult, trebuchet, mangonel)"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "GŽD",
+        "refers": "COMPRESSED-AIR PROJECTILE WEAPON",
+        "stems": [
+            "blowgun",
+            "flamethrower",
+            "other pump-based or compression-based projectile weapon"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JTW",
+        "refers": "LARGE GUNPOWDER WEAPON",
+        "stems": [
+            "hand cannon",
+            "bombard / mortar",
+            "cannon"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JTY",
+        "refers": "EARLY FIREARM",
+        "stems": [
+            "arquebus / caliver / hackbut / harquebus",
+            "culverin / musket",
+            "blunderbuss / shotgun"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JTL",
+        "refers": "MODERN FIREARM I",
+        "stems": [
+            "handgun / pistol / revolver",
+            "rifle",
+            "carbine"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JTŘ",
+        "refers": "MODERN FIREARM II",
+        "stems": [
+            "submachine gun",
+            "machine gun",
+            "grenade launcher"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JTÇ",
+        "refers": "MODERN FIREARM III",
+        "stems": [
+            "multi-barrel firearm",
+            "grenade launcher",
+            "anti-tank rifle"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JVL",
+        "refers": "FIREARM-LAUNCHED PROJECTILE",
+        "stems": [
+            "ball (small)",
+            "shot",
+            "bullet"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JVŘ",
+        "refers": "ROCKET LAUNCHER",
+        "stems": [
+            "bazooka / RPG / gyrojet",
+            "tank gun",
+            "rocket pod"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JVW",
+        "refers": "LARGE GUNPOWDER OR ROCKET-LAUNCHED PROJECTILE",
+        "stems": [
+            "cannon ball",
+            "grenade or other non-self-powered explosive projectile",
+            "self-powered explosive or warhead-containing projectile/missile"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "JXL",
+        "refers": "BOMB",
+        "stems": [
+            "explosive/incendiary device / bomb",
+            "grenade",
+            "depth charge"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "LŢX",
+        "refers": "CHEMICAL WEAPON",
+        "stems": [
+            "noxious gas or aerosol (e.g., tear gas, pepper spray)",
+            "chemical weapon (e.g., mustard gas)",
+            "nerve gas / nerve agent"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ẒVW",
+        "refers": "ELECTROSHOCK WEAPON",
+        "stems": [
+            "taser",
+            "stun gun",
+            "stun baton / cattle prod"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "ẒVY",
+        "refers": "DIRECTED ENERGY WEAPON",
+        "stems": [
+            "electromagnetic energy weapon (e.g., laser-based)",
+            "atomic particle beam",
+            "'disruptor'-style weapon"
+        ],
+        "see": "XVL"
+    },
+    {
+        "root": "PTW",
+        "refers": "ANTI-PERSONNEL OR ANTI-VEHICLE DEFENSIVE WEAPON",
+        "stems": [
+            {
+                "BSC": "(to be) a particular defensive weapon; to deploy a particular weapon [Stem 1 = punji stick]",
+                "CTE": "(to be) a state of protection afforded by deployment of a particular defensive weapon",
+                "CSV": "(to be) the physical act/process of a particular defensive weapon engaged in countering an attacking entity",
+                "OBJ": "(to be) the target/victim of a particular defensive weapon"
+            },
+            "caltrop",
+            "Czech hedgehog"
+        ]
+    },
+    {
+        "root": "PTY",
+        "refers": "BOOBY-TRAP / MINE",
+        "stems": [
+            "non-explosive booby trap",
+            "explosive booby-trap",
+            "explosive mine"
+        ],
+        "see": "PTW"
+    },
+    {
+        "root": "ŽTW",
+        "refers": "POISONOUS, VENOMOUS, OR RADIOACTIVE SUBSTANCE",
+        "stems": [
+            {
+                "BSC": "(to be) a poisonous [i.e., chemical] substance, poison; to poison [with a chemical substance]",
+                "CTE": "(to be) the experience of suffering from poisoning; to be poisoned",
+                "CSV": "(to be) the act of poisoning; to poison, to utilize poison",
+                "OBJ": "(to be) the entity/party which is poisoned"
+            },
+            "(to be) a venom; to poison by means of venom",
+            "(to be) a radioactive substance; to expose to a radioactive substance"
+        ],
+        "notes": "For the meaning of the old FORMAL stems previously associated with this root, use the above stems with Degree 9 of the new ARO affix."
+    },
+    {
+        "root": "SKH",
+        "refers": "AIMING (A PROJECTILE/WEAPON) / TARGET / GOAL / OBJECTIVE",
+        "stems": [
+            {
+                "BSC": "(to be) a act/process of targeting or aiming at a target; to target, to aim (at a target)",
+                "CTE": "(to be) what one is aiming (e.g., a projectile weapon, a hand-held projectile, a basketball)",
+                "CSV": "(to be) an act/process of aiming, training one's sights upon; to aim at, to target, to train one's sights upon",
+                "OBJ": "(to be) a target, what one aims at"
+            },
+            "(to be) an act/process of targeting one's (verbal/written) communication/message at a party; to aim for/at a (particular) audience",
+            "(to be) a state/process of pursuing, driving at/towards a goal or objective; to drive towards/pursue a goal or objective"
+        ]
+    }
+]
