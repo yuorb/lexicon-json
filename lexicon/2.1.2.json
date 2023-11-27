@@ -4,13 +4,13 @@
     "refers": "PIN / TACK / STAPLE",
     "stems": [
       {
-        "BSC": "(be) a state/act of maintaining a state between entities by means of a pin, (be) a pin in use, a pin being used; to utilize/make use of a pin",
-        "CTE": "(be) a pin",
-        "CSV": "(be) an act of utilizing/making use of a pin; use/make use of a pin",
-        "OBJ": "(be) what a pin is holding together"
+        "BSC": "(to be) a state/act of maintaining a state between entities by means of a pin, (be) a pin in use, a pin being used; to utilize/make use of a pin",
+        "CTE": "(to be) a pin",
+        "CSV": "(to be) an act of utilizing/making use of a pin; use/make use of a pin",
+        "OBJ": "(to be) what a pin is holding together"
       },
-      "(be) a state/act of maintaining a state between entities by means of a tack, (be) a tack in use, a tack being used; to utilize/make use of a tack",
-      "(be) a state/act of maintaining a state between entities by means of a staple, (be) a staple in use, a staple being used; to utilize/make use of a staple"
+      "(to be) a state/act of maintaining a state between entities by means of a tack, (be) a tack in use, a tack being used; to utilize/make use of a tack",
+      "(to be) a state/act of maintaining a state between entities by means of a staple, (be) a staple in use, a staple being used; to utilize/make use of a staple"
     ]
   },
   {
