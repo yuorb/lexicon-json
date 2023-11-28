@@ -1,0 +1,76 @@
+[
+    {
+        "root": "ŠK",
+        "refers": "EXTERNAL SENSATION / EXTERNAL SENSORY PERCEPTION",
+        "stems": [
+            {
+                "BSC": "(to be/manifest) a sense/sensation [act of sensing + sensation itself]; an act of sensing something — [both the sensation and the sensing thereof]",
+                "CTE": "(to be) a sensation, feeling, sensory input",
+                "CSV": "(to be) an act of sensing; to sense; to engage one's sense(s); perceive via one's sense(s)",
+                "OBJ": "(to be) the entity/event/object one applies/aims one's senses at or which is the stimulus for one's sensory state"
+            },
+            "(to be) a sensory organ",
+            "(to be a) a sensory faculty; a bodily sense"
+        ],
+        "notes": "Associated Affix: **SNX**\n\nDoes not include proprioceptive, interoceptive, or vestibular senses.\n\nThe meaning of the old FORMAL stems previously associated with the root can be expressed by the following: for Stems 1 and 3, use the appropriate Transrelative case marking for the arguments/participants; for Stem 2, use the MEC affix."
+    },
+    {
+        "root": "ŇJ",
+        "refers": "AWARENESS",
+        "stems": [
+            {
+                "BSC": "(to be) an act of being aware of something; the awareness of something",
+                "CTE": "(to be) the ability/capacity to notice something",
+                "CSV": "(to be) the physical/mental process of (an act of) noticing something",
+                "OBJ": "(to be) what one notices"
+            },
+            "(to be) an act of keeping/bearing something in mind; to have in the back of one's mind",
+            "(to be) a state of being down-to-earth or having one's bearings (or an act demonstrating such a trait); to do something indicative of or consistent with one having a natural well-rounded awareness or down-to-earth quality"
+        ],
+        "notes": "Use the ICP extension or the SUD or OPL affixes with Stem 1 to signify 'to notice (something), take note of something'\n\nThis root is also used as the **ATTENTIVE (ATE) Bias Affix**: *'Well, whaddya know...', 'Well, will you look at that...!', 'Well, go figure...', 'Who would've thought...?', 'Well I'll be!'*"
+    },
+    {
+        "root": "MGŘ",
+        "refers": "INTEROCEPTION",
+        "stems": [
+            {
+                "BSC": "(to be) an interoceptive sensation and the sensing thereof [act of sensing + sensation itself]; an act of interoceptively sensing something — [both the sensation and the sensing thereof]",
+                "CTE": "(to be) an interoceptive sensation, interoceptive feeling",
+                "CSV": "(to be) an act of interoception; to sense interoceptively; to perceive via one's interoceptive sense(s)",
+                "OBJ": "(to be) the organ/bodily system/process which gives rise to an interoceptive sensation"
+            },
+            "(to be) one of the body's potentially interoceptive organs/structures/tissues",
+            "(to be) the interoceptive faculty; the sense of interoception"
+        ]
+    },
+    {
+        "root": "LVŘ",
+        "refers": "PROPRIOCEPTION / KINAESTHESIA",
+        "stems": [
+            {
+                "BSC": "(to be) an proprioceptive sensation and the sensing thereof [act of sensing + sensation itself]; an act of proprioceptively sensing something — [both the sensation and the sensing thereof]",
+                "CTE": "(to be) an proprioceptive sensation, proprioceptive feeling, feeling of bodily motor coordination",
+                "CSV": "(to be) an act of proprioception; to sense proprioceptively; to perceive via one's proprioceptive sense(s)",
+                "OBJ": "(to be) an organ/bodily system/process which gives rise to an proprioceptive sensation, i.e., muscle, joint, tendon."
+            },
+            "(to be) one of the body's proprioceptive organs/structures/tissues, i.e., muscle, joint, tendon.",
+            "(to be) the proprioceptive/kinaesthetic faculty; the sense of proprioception/kinaesthesia"
+        ],
+        "notes": "i.e., physical sense of bodily movement, position, and coordination."
+    },
+    {
+        "root": "NDŘ",
+        "refers": "VESTIBULAR SENSATION",
+        "stems": [
+            {
+                "BSC": "(to be) a vestibular sensation and the sensing thereof [act of sensing + sensation itself]; an act of sensing one's balance and spatial orientation — [both the sensation and the sensing thereof]",
+                "CTE": "(to be) one's feeling of physical balance and spatial orientation",
+                "CSV": "(to be) an act of vestibular sensation; to perceive one's feeling of balance and spatial orientation",
+                "OBJ": "(to be) an organ/bodily system/process which gives rise to a vestibular sensation, i.e., inner ear organelle(s)."
+            },
+            "(to be) one of the body's vestibular organs/structures/tissues",
+            "(to be) the vestibular faculty; the sense of balance and spatial orientation"
+        ],
+        "notes": "i.e., physical sense of bodily balance and spatial coordination"
+    }
+]

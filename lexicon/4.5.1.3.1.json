@@ -1,0 +1,1177 @@
+[
+    {
+        "root": "LHW",
+        "refers": "MUSICAL INSTRUMENT / MUSICAL VOCALIZATION",
+        "stems": [
+            {
+                "BSC": "(to be) a state/act of playing a musical instrument (or object/device used to make musical sound or to accompany singing or music)",
+                "CTE": "(to be) a musical instrument itself",
+                "CSV": "(to be) an act/state of playing a musical instrument; to play (i.e., make musical sound from) a musical instrument",
+                "OBJ": "(to be) the sound emanating from playing a musical instrument"
+            },
+            "(to be) a state/act of sounding a musical instrument (i.e., making a sound/note on a musical instrument, but not necessarily playing something musical)",
+            "(to be) a state/act of using one's voice or vocal apparatus to make/mimic a musical sound (i.e., not singing a song with words [see the root(-LLY-)], but rather used in its capacity to make musical sound, as in humming, mimicking percussion sounds, used as a drone accompaniment, chanting, etc.); to make/mimic a musical sound using one's vocal apparatus"
+        ],
+        "notes": "The affixes GAB, BCD, DEF, and FGA are used with the above root to indicate specific musical notes/tones, and the affixes MIA, CAM, and the eleven Areal/Cultural Association affixes can be used to derive additional musical affixes from this and other related musical instrument roots."
+    },
+    {
+        "root": "ẒP",
+        "refers": "IDIOPHONIC PERCUSSIVE MUSICAL INSTRUMENT",
+        "stems": [
+            "concussion/percussion idiophonic musical instrument (struck with the hand or other non-vibrating foreign object, or by being struck against each other)",
+            "friction/rattling idiophonic musical instrument (shaking and/or scraping)",
+            "lamellophone / plucked idiophonic musical instrument (e.g., jaw harp, mbira, music box)"
+        ],
+        "see": "LHW",
+        "notes": "i.e., vibration of the instrument itself"
+    },
+    {
+        "root": "ẒPW",
+        "stems": [
+            "musical block (e.g., of wood or metal)",
+            "musical stick",
+            "clave"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPY",
+        "stems": [
+            "castanet",
+            "musical clapper (e.g., khartal, qraqeb)",
+            "musical spoon"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPL",
+        "stems": [
+            "triangle",
+            "musical metal plaque (e.g., of vibraphone)",
+            "musical plaque of wood or gourd (e.g., of xylophone or balafon)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPR",
+        "stems": [
+            "cymbal",
+            "finger cymbal / hand cymbal (e.g., manjira, taal)",
+            "gong"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPŘ",
+        "stems": [
+            "bell",
+            "chime",
+            "standing bell / resting bell / singing bowl"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPÇ",
+        "stems": [
+            "musical rattle/shaker",
+            "vibra-slap/quijada",
+            "flexatone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPF",
+        "stems": [
+            "tambourine (without membrane)",
+            "maraca",
+            "rainstick"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPŢ",
+        "stems": [
+            "güiro/güira/guayo/guacharaca/reco-reco",
+            "washboard/frottoir",
+            "ratchet/noisemaker"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPĻ",
+        "stems": [
+            "slit drum",
+            "steel drum",
+            "steel tongue drum / tank drum"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPH",
+        "stems": [
+            "musical saw",
+            "thunder sheet / wobble board",
+            "daxophone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒPHW",
+        "stems": [
+            "clay/ceramic pot (e.g., ghatam, fou)",
+            "aerophone ceramic pot (e.g., udu, botija)",
+            "handpan (e.g., Hang)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒMW",
+        "stems": [
+            "jaw harp",
+            "morsing/gogona",
+            "mbira/kalimba"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ẒMY",
+        "stems": [
+            "nail violin",
+            "waterphone",
+            "glass harmonica / glass harp / verrophone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBW",
+        "refers": "STRUCK, SHAKEN, OR PLUCKED MEMBRANOPHONE MUSICAL INSTRUMENT",
+        "stems": [
+            "struck membranophone (e.g., drum, conga drum, bongo, bodhran, tar, etc.)",
+            "shaken membranophones (e.g., rattle drum)",
+            "plucked membranophone (e.g., khamak/bugchu/anondo lahori, gubguba)"
+        ],
+        "notes": "i.e., the vibration of a membrane",
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBY",
+        "stems": [
+            "tubular/cylindrical two-headed drum",
+            "tubular/cylindrical single-headed (open-ended) drum",
+            "kettle drum/bowl-shaped drum"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBL",
+        "stems": [
+            "snare drum",
+            "tom-tom",
+            "bass drum / kick-drum"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBR",
+        "stems": [
+            "bongo",
+            "conga drum",
+            "taiko / Japanese drum"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBŘ",
+        "stems": [
+            "tabla drum (either dayan or bayan)",
+            "dayan (of a set of tabla drums)",
+            "bayan (of a set of tabla drums)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBV",
+        "stems": [
+            "pakhawaj",
+            "dholak",
+            "naal"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBZ",
+        "stems": [
+            "mridangam",
+            "mridanga",
+            "dhol"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBŽ",
+        "stems": [
+            "djembe",
+            "dabakan",
+            "other goblet-type drum (e.g., davul, tapan, atabal, tabl, darbuka, tonbak)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBZW",
+        "stems": [
+            "tambourine (w/membrane)/riq/mazhar/dayereh",
+            "bodhrán",
+            "tar / daf / frame drum"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŘBŽW",
+        "stems": [
+            "rattle drum",
+            "khamak/gopichand",
+            "bugchu/anondo lahori/gubguba"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "GZDV",
+        "refers": "FRICTION, RUBBED, OR AIR-DRIVEN MEMBRANOPHONE MUSICAL INSTRUMENT",
+        "stems": [
+            "friction membranophone (e.g., cuica, rommelpot)",
+            "rubbed membranophone",
+            "air-driven membranophone (e.g., kazoo, mirliton, swazzle)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "GZDW",
+        "stems": [
+            "cuica",
+            "rommelpot",
+            "other friction-driven membranophone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "GZDY",
+        "stems": [
+            "kazoo",
+            "mirliton",
+            "swazzle"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇN",
+        "refers": "CHORDOPHONE MUSICAL INSTRUMENT",
+        "stems": [
+            "zither-like or zither-based musical instrument (i.e., strings stretched across a frame with or without a non-integrated resonator box)",
+            "lute-like musical instrument [whether strummed/, plucked, or bowed (i.e., string-bearing frame is integrated with a resonator box)",
+            "harp-like musical instrument (i.e., plane of strings is perpendicular to the resonator box)"
+        ],
+        "see": "LHW",
+        "notes": "i.e., vibration of a string or strings"
+    },
+    {
+        "root": "ŇÇT",
+        "stems": [
+            "guitar",
+            "guitarrón/huapanguera",
+            "Latin guitar-like instrument (e.g., jarana,bajo quinto, bajo sexto, requinto jarocho)"
+        ],
+        "see": "LHW",
+        "notes": "Concatenate a number stem with these stems to indicate the number of strings for Latin guitar-like instruments such as the *tres*, *cuatro*, *bajo quinto*, etc., and Central Asian lutes such as the *dutar*, *chartar*, *setar*, *shashtar*, etc."
+    },
+    {
+        "root": "ŇÇTW",
+        "stems": [
+            "lute",
+            "ukulele",
+            "dulcimer-guitar"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTY",
+        "stems": [
+            "Portuguese guitar",
+            "cavaquinho",
+            "viola braguesa"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTL",
+        "stems": [
+            "cittern/cithren/waldzither",
+            "tamburica/tamburitza",
+            "bağlama / saz"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTR",
+        "stems": [
+            "oud",
+            "sintir/guembri",
+            "kabuli rebab/rubab"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTŘ",
+        "stems": [
+            "mandolin",
+            "mandola",
+            "Algerian mandole"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTF",
+        "stems": [
+            "domra",
+            "bandura",
+            "kobza/bandurka"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTÇ",
+        "stems": [
+            "balalaika",
+            "torban",
+            "shamisen/sangen"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTĻ",
+        "stems": [
+            "pipa",
+            "ruan",
+            "yueqin / moon lute"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTH",
+        "stems": [
+            "charango/charanga",
+            "đàn tỳ bà",
+            "dranyen"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTM",
+        "stems": [
+            "çifteli",
+            "geierleier",
+            "tar (Persian/Middle-Eastern long-necked lute)"
+        ],
+        "see": "LHW",
+        "notes": "Concatenate a number stem with these stems to indicate the number of strings for Latin guitar-like instruments such as the *tres*, *cuatro*, *bajo quinto*, etc., and Central Asian lutes such as the *dutar*, *chartar*, *setar*, *shashtar*, etc."
+    },
+    {
+        "root": "ŇÇTĻW",
+        "stems": [
+            "Greek bouzouki",
+            "Irish bouzouki",
+            "bandurria"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTÇW",
+        "stems": [
+            "topshur",
+            "tovshuur",
+            "doshpuluur"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇTHW",
+        "stems": [
+            "banjo",
+            "sazbüş",
+            "sanxian / sanshin"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇC",
+        "stems": [
+            "zither or zither-like instrument",
+            "musical bow / harp-bow / berimbau",
+            "harp-zither"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇCW",
+        "stems": [
+            "psaltery",
+            "koto",
+            "gayageum"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇČ",
+        "stems": [
+            "piano",
+            "harpsichord",
+            "clavichord"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇČW",
+        "stems": [
+            "dulcimer",
+            "santur",
+            "cimbalon or dulcimer/cimbalon-like instruments (e.g., yangquin, khim, klezmer)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇCM",
+        "stems": [
+            "harp",
+            "lyre",
+            "kora"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇCN",
+        "stems": [
+            "cithara / kithara",
+            "krar/kirar",
+            "qanun"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇP",
+        "stems": [
+            "viola/violin",
+            "cello/double-bass",
+            "pochette / sardino / kit violin / treble violin"
+        ],
+        "see": "LHW",
+        "notes": "Use the CAM/3 affix with Stem 1 to designate a violin, use the CAM/1 affix with Stem 2 to designate a double-bass from a cello."
+    },
+    {
+        "root": "ŇÇPW",
+        "stems": [
+            "viola d'amore",
+            "viol/viola da gamba",
+            "baryton"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPY",
+        "stems": [
+            "Hardanger fiddle",
+            "lảtfiol",
+            "nyckelharpa"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPL",
+        "stems": [
+            "bowed zither (e.g., bowed psaltery, ajaeng, harppu, gue, yazheng/yaqin, zhengni)",
+            "crwth",
+            "bowed lyre (e.g., jouhikko, talharpa)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPR",
+        "stems": [
+            "lyra",
+            "gadulka",
+            "gudok/gudochek/hudok"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPŘ",
+        "stems": [
+            "rebab",
+            "lijerica",
+            "rabeca"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPF",
+        "stems": [
+            "kemenche",
+            "ghijak",
+            "gheychak"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPŢ",
+        "stems": [
+            "sataer",
+            "khushtar",
+            "yayli tambur"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPÇ",
+        "stems": [
+            "imzad",
+            "kobyz",
+            "sorahi"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPĻ",
+        "stems": [
+            "morin khuur",
+            "igil",
+            "byzaanchy"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPS",
+        "stems": [
+            "tro (incl. tro Khmer, tro sau toch, tro sau toch, tro sau thorn)",
+            "[Thai] saw (incl. saw duang, saw sam sai, saw u, saw lo)",
+            "masenqo"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPŠ",
+        "stems": [
+            "đàn nhị",
+            "đàn hồ",
+            "đàn gáo"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPH",
+        "stems": [
+            "kokyu",
+            "haegeum",
+            "suroz"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPHW",
+        "stems": [
+            "agiarut",
+            "tautirut",
+            "laruan"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPĻW",
+        "stems": [
+            "zhuihu/zhuiqin",
+            "leihu/leiqin",
+            "paqin"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇPÇW",
+        "stems": [
+            "mid-pitched huqin-type instrument (e.g., erhu, banhu, erxian, tiqin, sihu, maguhu, niutuiqin/niubaqin/niubatui)",
+            "lower-pitched huqin-type instrument (e.g., zhonghu, dihu, gehu, dihu, diyingehu, tuhu)",
+            "higher-pitched huqin-type instrument (e.g., gaohu, jinghu)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇM",
+        "stems": [
+            "sarod",
+            "sitar",
+            "tanpura"
+        ],
+        "see": "LHW",
+        "notes": "Use the CAM/2 affix below with Stem 1 to designate a *surshringar* and with Stem 2 to designate a *surbahar*."
+    },
+    {
+        "root": "ŇÇMW",
+        "stems": [
+            "saraswati veena",
+            "rudra veena",
+            "vichitra veena / sagar veena"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇMY",
+        "stems": [
+            "ektara",
+            "dotara",
+            "tumbi"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇML",
+        "stems": [
+            "swarmandal",
+            "swarabat",
+            "gethuvadyam/jhallari"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇMR",
+        "stems": [
+            "sarangi",
+            "sarinda",
+            "chikara"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇMŘ",
+        "stems": [
+            "esraj / tarshenai",
+            "dilruba",
+            "taus / mayuri vina"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ŇÇŇ",
+        "stems": [
+            "hurdy-gurdy",
+            "dulcigurdy",
+            "other rosined wheel instrument (e.g., bowed clavier / ninera / viola organista)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKM",
+        "refers": "AEROPHONE MUSICAL INSTRUMENT",
+        "stems": [
+            "'wind' instrument which, when played, contains an enclosed column of vibrating air (e.g., clarinet, oboe, flute, didgeridoo, etc.)",
+            "'free reed' instrument which utilize a reed or band but do not contain the vibrating air (e.g., harmonica, accordion, harmonium)",
+            "instrument where an unenclosed air flow is interrupted other than by a reed or band (e.g., bullroarer, siren, boomwhacker, corrugaphone, whip)"
+        ],
+        "see": "i.e., vibration of a volume of air"
+    },
+    {
+        "root": "ÇKW",
+        "stems": [
+            "end-blown flute",
+            "end-blown flute with fingerholes",
+            "end-blown flute without fingerholes"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKY",
+        "stems": [
+            "side-blown flute",
+            "side-blown flute with fingerholes",
+            "side-blown flute without fingerholes"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKL",
+        "stems": [
+            "ductless flute (e.g., hocchiku, palendagpulalu/shakuhachi/tumpong)",
+            "pan pipe",
+            "Western concert flute"
+        ],
+        "see": "LHW",
+        "notes": "Use the CAM/3 affix with Stem 3 to signify a piccolo."
+    },
+    {
+        "root": "ÇKR",
+        "stems": [
+            "kaval",
+            "kawala",
+            "ney"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKŘ",
+        "stems": [
+            "blul",
+            "svirka/tsafara/svorche",
+            "kobyrach/quray/choor"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKF",
+        "stems": [
+            "duct flute",
+            "suling/barbarak/lantey, dagoyong",
+            "whistle"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKŢ",
+        "stems": [
+            "fipple flute (e.g., bansuri, diple, flabiol, flageolet, khloy, khlui, salamuri, shvi, souravli, stabule, txistu, frula)",
+            "recorder",
+            "fujara"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKÇ",
+        "stems": [
+            "willow flute/sallow flute",
+            "tin whistle/penny whistle",
+            "slide whistle/piston flute/swanee"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKH",
+        "stems": [
+            "vessel flute (e.g., xun, jug)",
+            "ocarina / huaca",
+            "gemshorn"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKHW",
+        "stems": [
+            "pipe organ",
+            "calliope",
+            "non-pipe organ (e.g., reed organ / pump organ / harmonium, electric organ)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKW",
+        "stems": [
+            "single-reed instrument",
+            "double-reed instrument",
+            "reedless brass instrument (e.g., horn, trumpet)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKY",
+        "stems": [
+            "clarinet",
+            "chalumeau",
+            "zummara / double clarinet"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKL",
+        "stems": [
+            "saxophone",
+            "xaphoon",
+            "venova"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKR",
+        "stems": [
+            "octavin",
+            "(modern) táragató",
+            "sneng"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKŘ",
+        "stems": [
+            "hornpipe",
+            "pku/pzuk",
+            "erkencho"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKF",
+        "stems": [
+            "stock-and-horn",
+            "pibgorn",
+            "alboka"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKŢ",
+        "stems": [
+            "zhaleika/bryolka",
+            "birbyné",
+            "ganurags"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKÇ",
+        "stems": [
+            "diplica",
+            "launeddas",
+            "çifte"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKH",
+        "stems": [
+            "arghul/yarghul",
+            "mijwiz",
+            "sipsi"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "MÇKHW",
+        "stems": [
+            "dozaleh/zanbooreh",
+            "pungi/geen/murli",
+            "pepa"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇK",
+        "stems": [
+            "oboe",
+            "cor anglais",
+            "oboe d'amore"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKW",
+        "stems": [
+            "bassoon",
+            "contrabassoon",
+            "sarrusophone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKY",
+        "stems": [
+            "shawm",
+            "surma",
+            "bombard"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKL",
+        "stems": [
+            "crumhorn",
+            "cromorne",
+            "(traditional) táragató"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKR",
+        "stems": [
+            "zurna",
+            "mizmar",
+            "duduk/tsiranapogh"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKŘ",
+        "stems": [
+            "hichiriki / fue",
+            "piri",
+            "taepyeongso/hojok/nallari/saenap"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKF",
+        "stems": [
+            "guan/bili/houguan",
+            "gyaling",
+            "suona/laba/haidi"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKŢ",
+        "stems": [
+            "shehnai",
+            "nadaswaram",
+            "kuzhal"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKÇ",
+        "stems": [
+            "sundari",
+            "tangmuri",
+            "mukhavina"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKH",
+        "stems": [
+            "sralai",
+            "pi nai",
+            "Southeast Asian quadruple reed instrument (e.g., hne, sawnay, sarunay, serunai)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LÇKHW",
+        "stems": [
+            "dulzaina/dolçaina",
+            "piffero",
+            "sopile"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇKN",
+        "stems": [
+            "bagpipe(s)",
+            "breath-blown bagpipes",
+            "bellows-driven bagpipes (e.g., uilleann pipes)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇK",
+        "stems": [
+            "conch-shell/seashell horn",
+            "didgeridoo",
+            "shofar"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKW",
+        "stems": [
+            "alphorn",
+            "trembita",
+            "vuvuzela / kuduzela"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKY",
+        "stems": [
+            "lur",
+            "bucium",
+            "Tibetan horn"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKL",
+        "stems": [
+            "tiba",
+            "erke",
+            "trutruca"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKR",
+        "stems": [
+            "jez kernei/karnay",
+            "muiuz kernei/karnay",
+            "surnai"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKŘ",
+        "stems": [
+            "ekkalam",
+            "kamal",
+            "kombu/kompu"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKF",
+        "stems": [
+            "bhankora",
+            "buki",
+            "putaatara"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKŢ",
+        "stems": [
+            "nabal",
+            "kakaki",
+            "other straight and long valveless horn"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKÇ",
+        "stems": [
+            "cornetto/zink",
+            "serpent",
+            "vladimirskiy rozhok"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "NÇKH",
+        "stems": [
+            "natural horn",
+            "natural trumpet",
+            "bugle"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "TÇK",
+        "stems": [
+            "valved horn",
+            "baritone horn",
+            "euphonium"
+        ],
+        "see": "LHW",
+        "notes": "Stem 1 includes French horns, German horns, and Vienna horns."
+    },
+    {
+        "root": "TÇKW",
+        "stems": [
+            "valved trumpet",
+            "cornet",
+            "flugelhorn"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "TÇKY",
+        "stems": [
+            "saxhorn",
+            "helicon",
+            "mellophone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "TÇKL",
+        "stems": [
+            "tuba",
+            "sousaphone",
+            "contrabass bugle"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "TÇKR",
+        "stems": [
+            "trombone",
+            "sackbut / slide trumpet",
+            "bazooka (musical instrument)"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "TÇKŘ",
+        "stems": [
+            "Firebird trumpet",
+            "saxotromba",
+            "saxtuba"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "TÇKF",
+        "stems": [
+            "jazzophone",
+            "kuhlohorn",
+            "ophicleide / sudrophone"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇÇKW",
+        "stems": [
+            "harmonica",
+            "melodica",
+            "shruti box"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇÇKY",
+        "stems": [
+            "accordion",
+            "concertina",
+            "melodeon"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇÇKL",
+        "stems": [
+            "sheng / yu / he",
+            "khaen/khene",
+            "sho"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "ÇÇKR",
+        "stems": [
+            "hulusi / gourd flute",
+            "hulusheng",
+            "bawu"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LHM",
+        "refers": "ELECTRO-MECHANICAL OR ELECTRONIC MUSICAL INSTRUMENT",
+        "stems": [
+            "electro-mechanical taped music controller (e.g., mellotron, byrotron)",
+            "early electronic (or electro-mechanical) musical instrument (e.g., telharmonium, theramin, Ondes Martenot, Trautonium, Hammond Organ, Novachord)",
+            "electronic synthesizer"
+        ],
+        "see": "LHW"
+    },
+    {
+        "root": "LHR",
+        "refers": "PRE-PROGRAMMED MUSICAL INSTRUMENT",
+        "stems": [
+            "music(al) box",
+            "player piano",
+            "pre-programmed musical instrument/device"
+        ],
+        "see": "LHW",
+        "notes": "Use the MEC/5, MEC/9, or MEA/4 affixes as appropriate to designate modern MIDI, sequenced, or software-based music."
+    }
+]

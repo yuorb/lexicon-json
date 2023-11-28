@@ -1,0 +1,86 @@
+[
+    {
+        "root": "JW",
+        "refers": "LAUGHTER",
+        "stems": [
+            {
+                "BSC": "(to be/experience) laughter and the experience of laughing",
+                "CTE": "(to be) laughter",
+                "CSV": "(to be/undergo/experience) the physical manifestation of laughter",
+                "OBJ": "(to be) the organ(s)/bodily system/process which gives rise to laughter"
+            },
+            "snicker",
+            "chuckle"
+        ]
+    },
+    {
+        "root": "SŇ",
+        "refers": "ORAL-NASAL REFLEX",
+        "stems": [
+            "make oral sound of derisiveness (e.g., 'pfft', 'pshhh', etc.)",
+            "drop jaw (i.e., open mouth suddenly in surprise/shock/pain)",
+            "snort (e.g., in disgust)"
+        ],
+        "see": "JW"
+    },
+    {
+        "root": "ŽBŘ",
+        "refers": "OSCILLATIVE AFFECTIVE BODILY STATE",
+        "stems": [
+            "shiver",
+            "fidget (unconsiously)",
+            "shake leg or foot (unconsciously)"
+        ],
+        "see": "JW"
+    },
+    {
+        "root": "BDY",
+        "refers": "MISC. AUTONOMIC BODILY PROCESS",
+        "stems": [
+            "blink eyelids",
+            "digest stomach contents",
+            "sweat"
+        ],
+        "see": "JW"
+    },
+    {
+        "root": "ẒN",
+        "refers": "AFFECTIVE SEXUAL RESPONSE",
+        "stems": [
+            "sexual arousal response (e.g., erection, lubrication, hardening of nipples, etc.)",
+            "approach orgasm [CPT = achieve orgasm]",
+            "ejaculation"
+        ],
+        "see": "JW"
+    },
+    {
+        "root": "GŽ",
+        "refers": "FLINCH / JOLT / DUCK",
+        "stems": [
+            "flinch/jolt",
+            "duck/crouch (as self-preservation reflex)",
+            "jump/leap out of the way (as self-preservation reflex)"
+        ],
+        "see": "JW"
+    },
+    {
+        "root": "NGR",
+        "refers": "SEMI-CONSCIOUS ORAL-NASAL SOUND/ACTION",
+        "stems": [
+            "grunt",
+            "clear throat",
+            "sniffle / snort (to clear nasal mucus)"
+        ],
+        "see": "JW"
+    },
+    {
+        "root": "TKŘ",
+        "refers": "NEURO-MUSCULAR REACTION",
+        "stems": [
+            "nervous tic",
+            "spasm",
+            "cramp"
+        ],
+        "see": "JW"
+    }
+]

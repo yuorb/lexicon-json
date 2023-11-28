@@ -1,0 +1,200 @@
+[
+    {
+        "root": "BJ",
+        "refers": "SOUND OF A BANG / BOOM / SUDDEN EXPLOSIVE SOUND",
+        "stems": [
+            {
+                "BSC": "(be) a state/instance of hearing a banging sound; a sound of a bang(ing), / sharp explosive sound (e.g., automobile engine backfiring, gunshot, etc.), including the circumstance(s) creating the sound and the hearing thereof.",
+                "CTE": "(be) the sound of a bang",
+                "CSV": "(be) the act/state of hearing a bang(ing sound); to hear a banging sound",
+                "OBJ": "(be) the entity or circumstances creating a banging sound"
+            },
+            "(be) a state/instance of hearing a boom (i.e., a low-pitched bang/explosive sound)",
+            "(be) a state/instance of hearing an explosion (e.g., detonation of a bomb, an explosion of an engine or large powerful machine, etc.)"
+        ],
+        "notes": "Particular attention should be paid to the use of Phase categories when using this and related roots, as well as various qualitative affixes, e.g., the word for a 'crackling' sound would be derived from stem referring to a more basic single sound such as 'pop' or 'snap', 'rattle' would be derived from 'click' or 'clack', while 'jingling/tinkling' would be derived from 'clank' or 'ping/ding/ring' (or perhaps the concatenation of one with the other)."
+    },
+    {
+        "root": "GP",
+        "refers": "SOUND OF A CLAP / SNAP / CRACK",
+        "stems": [
+            "clap / slap (e.g., sound of hand clap or a hand slap onto a flat surface)",
+            "snap(ping) (e.g., finger snap, bone breaking, twig being stepped on, sudden burst of sparks from a wood fire, etc.)",
+            "crack (e.g., large tree branch snapping, thunderclap, sudden cracking of a machine block, etc.)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "DP",
+        "refers": "SOUND OF A KNOCK / THUMP / SMACK",
+        "stems": [
+            "sound of a knock (i.e., sound of a light impact between solid objects)",
+            "sound of a thump (i.e., sound of a light impact between semi-solid objects",
+            "sound of a smack (i.e., sound of a forceful impact between semi-solid objects)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ÇG",
+        "refers": "SOUND OF A CRUNCH / SLAM / CRASH",
+        "stems": [
+            "sound of a crunch / scrunch / grinding sound (e.g., something being pulverized/crushed, hard cookie being eaten, junked automobile being mechanically crushed, etc.)",
+            "sound of a slam (i.e., sound of a forceful impact between solid objects)",
+            "sound of a crash"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ZŇ",
+        "refers": "SOUND OF A CLINK / CLANK / CLACK",
+        "stems": [
+            "sound of a clink (e.g., sound of a wineglass being lightly struck or 'light' metallic striking sound, etc.)",
+            "sound of a clank(ing) (e.g., something metallic striking a hard surface)",
+            "sound of a clack (i.e., a higher-pitched knock between solid objects, e.g., of passing train wheels on a track)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ŽP",
+        "refers": "SOUND OF A THUD / CLUNK / POP",
+        "stems": [
+            "sound of a thud",
+            "sound of a pop",
+            "sound of a clunk / kerplunk"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ĻT",
+        "refers": "SOUND OF TICKING / CLICKING / TAPPING",
+        "stems": [
+            "sound of a tick(ing)",
+            "sound of a click(ing)",
+            "sound of a tap(ping)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ÇŢ",
+        "refers": "SOUND OF A HISS / WIND HOWLING / WHISTLE",
+        "stems": [
+            "sound of a hiss",
+            "sound of wind blowing/howling",
+            "sound of whistle (i.e., the sound of air under pressure/constriction, e.g., high wind, a teapot, a person whistling [the sound, not the melody])"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ÇW",
+        "refers": "SOUND OF A POOF / WHOOSH / SIZZLE",
+        "stems": [
+            "sound of a poof (i.e., the soft/slight 'popping' sound of sudden air (de-)pressurization due to a sudden displacement of air)",
+            "sound of a woosh (i.e., the sound of drawn-out air displacement due to air (re-)pressurization through a constriction or narrowing of a channel)",
+            "sound of sizzling"
+        ],
+        "see": "BJ",
+        "notes": "EDITOR NOTE: Listed as the root(-ÇT-) in the Lexicon, identical to the entry for 'SOUND OF A HISS / WIND HOWLING / WHISTLE', replaced with the more onomatopoeic -ÇW- based on a suggestion from Reddit user /u/ChinskiEpierOzki."
+    },
+    {
+        "root": "ŘẒ",
+        "refers": "SOUND OF A LOW HUM / WHIR / RUMBLE",
+        "stems": [
+            "sound of a low hum / drone (e.g., an electrical or electronic device, a power line, etc.)",
+            "sound of a whir(ring) (i.e., continuous sound of light machinery in operation, e.g., an electric fan, an electric blender, a dentist's drill, etc.)",
+            "sound of a rumble (e.g., of an idling engine, of a distant thunderstorm, etc.)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ŽD",
+        "refers": "SOUND OF A ZAP / BUZZ / BEEP / PING",
+        "stems": [
+            "sound of a zap / buzz (i.e., a low-oscillating sound which becomes the word 'buzz' under duration, e.g., a bee flying, a door buzzer, a 'wrong answer' signal on a TV game show, etc.)",
+            "sound of a beep / bleep (i.e., a high-pitched buzz)",
+            "sound of a ping / ding"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ŘĻ",
+        "refers": "SOUND OF CREAKING / SQUISHING / SQUELCHING / TEARING",
+        "stems": [
+            "sound of a creak (e.g., walls of old wooden house shifting, old floorboards being walked upon, etc.)",
+            "sound of squishing / squelching (i.e., a sound of something 'liquidy' or gelatinous being squeezed or crushed)",
+            "sound of a tearing/ripping (e.g., of paper, cardboard, fabric, etc.)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ŽB",
+        "refers": "SOUND OF RINGING / CHIMING / CLANGING",
+        "stems": [
+            "sound of a ring (e.g., of a small bell)",
+            "sound of a chime (e.g., of a bell)",
+            "sound of a clang (e.g., of a large bell)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ĻB",
+        "refers": "SOUND OF FIZZING / GURGLING / BUBBLING / SPLASHING",
+        "stems": [
+            "sound of fizzing (e.g., sound of a carbonated beverage or effervescent liquid)",
+            "sound of babbling / gurgling / boiling / bubbling sound",
+            "sound of a splash"
+        ],
+        "see": "BJ",
+        "notes": "Stem 3 derivation: tip-tap dripping of liquid"
+    },
+    {
+        "root": "ŠĻ",
+        "refers": "SOUND OF RUSHING / SWIRLING / SWISHING",
+        "stems": [
+            "sound of rushing / swirling / churning (i.e., of a large volume of fast-moving water or other liquid)",
+            "sound of swishing / swooshing (e.g., a broom sweeping, a scrub-brush being used, etc.)",
+            "sound of ocean wave crashing"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "ČD",
+        "refers": "SOUND OF CHIRPING / SQUEAKING / SQUEALING / TOOTING",
+        "stems": [
+            "sound of a cheep / chirp",
+            "sound of a squeak / squeal",
+            "sound of a toot / hoot (e.g., an old-style steam-based train whistle, an owl, etc.)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "MŇ",
+        "refers": "SOUND OF A WHINE / SNARL / GROWL / ROAR / HOWL / SHRIEK",
+        "stems": [
+            "sound of a whine / screech / shriek (i.e., a general high-pitched annoying sound, e.g., of metal-on-metal friction, an animal in distress, fingernails on a chalkboard, etc.)",
+            "sound of a defensive animal (e.g., growl, snarl, hiss)",
+            "sound of an animal at maximum vocalization (i.e., due to hostility/pain/excitement/alarm, etc., e.g., roar, bark, bray, neigh/whinny, howl, scream, shriek, squawk, etc.)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "PḐ",
+        "refers": "SOUND OF A FOOTFALL / BODILY MOVEMENT / ORAL SOUND",
+        "stems": [
+            "sound of footstep / footfall / footpad / patter of animal paw",
+            "sound of a body moving (e.g., a person, an animal)",
+            "a non-linguistic and inadvertent/non-deliberate oral sound (e.g., clucking of tongue, smacking of lips, sound of swallowing/gulping, etc.)"
+        ],
+        "see": "BJ"
+    },
+    {
+        "root": "CPĻ",
+        "refers": "SOUND MADE BY OR WITH PART OF ONE'S BODY",
+        "stems": [
+            "sound made by a part of one's body that mimics a non-bodily sound",
+            "sound made by a part of one's body that potentially creates a humorous or embarassing effect (e.g., fart, cracking knuckles)",
+            "a non-linguistic oral sound made to/for humorous or shocking effect (e.g., a 'raspberry', a sound of deliberate slobbering, a whistle, etc.)"
+        ],
+        "see": "BJ",
+        "notes": "Concatenate a stem from another auditory root with these stems to specify the type or nature of the sound being made."
+    }
+]

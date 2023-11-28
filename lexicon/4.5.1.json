@@ -1,0 +1,16 @@
+[
+    {
+        "root": "C",
+        "refers": "HEAR(ING) / SOUND",
+        "stems": [
+            {
+                "BSC": "(to be) a sound and the hearing thereof [act of hearing + sound heard]; an act of hearing something — [both the sound and the hearing thereof]",
+                "CTE": "(to be) a sound; something heard",
+                "CSV": "(to be) an act of hearing; to hear; to use one's aural faculty",
+                "OBJ": "(to be) the entity/event/object whose sound(s) one hears"
+            },
+            "(to be) an inner ear (i.e., the organ(s)/tissue(s) responsible for generating aural signals to the brain)",
+            "(to be) one's aural faculty; one's sense of hearing"
+        ]
+    }
+]

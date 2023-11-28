@@ -1,0 +1,321 @@
+[
+    {
+        "root": "FT",
+        "refers": "TOUCH / FEEL / TEXTURE / TACTILE PERCEPTION",
+        "stems": [
+            {
+                "BSC": "(to be) a tactile sensation/texture and the act of touching [act of tactilely feeling something + the sensation itself]; an act of touching/feeling something",
+                "CTE": "(to be) a tactile sensation, a tactile feeling, a texture; to feel a particular texture",
+                "CSV": "(to be) an act of touching; to touch, to feel (tactilely); to engage one's tactile sense",
+                "OBJ": "(to be) the entity//object one touches/feels"
+            },
+            "(to be) one's tactile organ(s) (i.e., the epidermal layer of the body as tactile sensor)",
+            "(to be a) the tactile faculty; sense of touch"
+        ],
+        "notes": "The meaning of the old FORMAL stems previously associated with this root can be expressed by the following: for Stems 1 and 3, use appropriate Transrelative case marking for the arguments/participants; for Stem 2 use the MEC affix."
+    },
+    {
+        "root": "GS",
+        "refers": "CHUNKY/GRITTY TEXTURE",
+        "stems": [
+            {
+                "BSC": "(to be) something having a chunky texture or tactile sensation (chunk-like, irregular/coarse pieces one can easily hold between thumb and forefinger)",
+                "CTE": "(to be/have) a chunky texture or tactile sensation",
+                "CSV": "(to be) the chunky texture or tactile sensation perceived and being identifiable as a particular texture or tactile sensation (i.e., the texture or tactile sensation of something known)",
+                "OBJ": "(to be) an object/entity having a chunky texture or tactile sensation (e.g., 'the chunky-feeling one')"
+            },
+            "gravel-like sensation",
+            "coarse/gritty sensation like sand"
+        ]
+    },
+    {
+        "root": "DF",
+        "refers": "BUMPY TEXTURE",
+        "stems": [
+            "bumpy, i.e., having individually discernible bumps on an otherwise quasi-linear or quasi-planar surface",
+            "stucco-like texture, i.e., rough texture of small, irregular bumps individually discernible only through closer inspection",
+            "pitted or serrated texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "VŢ",
+        "refers": "FLAKY / SCALY TEXTURE",
+        "stems": [
+            "flaky textured",
+            "scaly textured",
+            "'confetti' textured - like small flat pieces of paper"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ẒH",
+        "refers": "ROUGH / BRISTLY TEXTURE",
+        "stems": [
+            "rough-textured like sandpaper",
+            "bristly textured",
+            "prickly textured"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "KD",
+        "refers": "HARD / RIGID TEXTURE",
+        "stems": [
+            "hard/rigid (not malleable/pliable when subject to pressure from a blow/hit/sustained pressure point, etc.)",
+            "hard/-rigid and naturally smooth/even-surfaced",
+            "hard/-rigid and naturally rough/uneven-surfaced"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "VX",
+        "refers": "SEMI-HARD / SEMI-RIGID TEXTURE",
+        "stems": [
+            "semi-hard/semi-rigid (slightly malleable/pliable when subject to pressure from a blow/hit/sustained pressure point, etc.)",
+            "semi-hard/semi-rigid and naturally smooth/even-surfaced",
+            "semi-hard/semi-rigid and naturally rough/uneven-surfaced"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "GC",
+        "refers": "SOLID BUT MALLEABLE TEXTURE",
+        "stems": [
+            "solid but malleable/bendable texture (e.g., like a piece of wire or thin piece of copper plating)",
+            "plastic-like texture",
+            "cartilaginous texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "BŠ",
+        "refers": "SOFT TEXTURE",
+        "stems": [
+            "soft like a cushion",
+            "downy texture",
+            "curvaceous/sensual (= soft/smooth/squeezable/rounded) texture/sensation"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "VC",
+        "refers": "GROOVED / STRIATED TEXTURE",
+        "stems": [
+            "grooved textural pattern",
+            "striated textural pattern",
+            "cross-hatched textural pattern"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "BŢ",
+        "refers": "WET / MOIST TEXTURE",
+        "stems": [
+            "wet / liquidy",
+            "moist / damp",
+            "soggy / waterlogged / liquid-saturated"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "JX",
+        "refers": "GRATED TEXTURE",
+        "stems": [
+            "grated / honeycomb-like texture (2-D planar)",
+            "grated / honeycomb-like texture (3-D volume, e.g., like a pinecone)",
+            "grated / honeycomb-like texture (malleable, pliable surface)"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "XẒ",
+        "refers": "DUSTY/POWDERY TEXTURE",
+        "stems": [
+            "dusty, soot-like or ash-like texture",
+            "powdery",
+            "smooth granular (e.g., processed granules)"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "FZ",
+        "refers": "VISCOUS / GOOEY TEXTURE",
+        "stems": [
+            "viscous, gooey textured",
+            "jelly-like texture",
+            "sticky textured"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "SG",
+        "refers": "SLICK / SLIPPERY TEXTURE",
+        "stems": [
+            "silky, slick to the touch",
+            "slippery",
+            "slimy"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ZF",
+        "refers": "GUMMY / RUBBERY TEXTURE",
+        "stems": [
+            "gummy texture",
+            "rubbery texture",
+            "clay-like texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ḐĻ",
+        "refers": "WAXY / OILY TEXTURE",
+        "stems": [
+            "oily texture",
+            "waxy texture",
+            "lard-like, greasy texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ŠD",
+        "refers": "SLUSHY / MUSHY TEXTURE",
+        "stems": [
+            "slushy texture",
+            "mushy texture",
+            "frothy / foamy texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "FG",
+        "refers": "HAIRY / FURRY TEXTURE",
+        "stems": [
+            "hairy texture/sensation",
+            "soft furry/feathery/downy texture",
+            "woolly texture/sensation"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "TG",
+        "refers": "PAPERY / FOIL-LIKE TEXTURE",
+        "stems": [
+            "texture like paper",
+            "texture like metallic foil",
+            "texture like cellophane"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ŽŢ",
+        "refers": "VARIATED TEXTURE",
+        "stems": [
+            "lumpy texture; having congealed/harder lumps within a surrounding less- congealed or more pliable/malleable medium",
+            "multi-textured; quasi-predictable tactile patterns alternating between 2 or more sensations within the same tactile experience",
+            "irregularly textured; unpredictable tactile pattern alternating between two or more sensations within the same tactile experience"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "SB",
+        "refers": "SMOOTH / ROUNDED TEXTURE",
+        "stems": [
+            "smooth (i.e., having no discernible surface changes/irregularities/indentations",
+            "rounded / knobbed (e.g., a doorknob)",
+            "dull / blunt"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "SD",
+        "refers": "BOUNCY / ELASTIC / SPONGY TEXTURE",
+        "stems": [
+            "bouncy texture",
+            "elastic / stretchy texture",
+            "sponge-like recoiling texture / spongy"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "VD",
+        "refers": "SHARPNESS",
+        "stems": [
+            "point-like, needle-like sharpness",
+            "blade-like sharpness",
+            "sharpness of an irregular edge (e.g., broken glass)"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "KḐ",
+        "refers": "CAUSTIC / BURNING TACTILE SENSATION",
+        "stems": [
+            "burning tactile sensation",
+            "caustic / corrosive tactile sensation",
+            "irritating tactile sensation"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ZX",
+        "refers": "TINGLY / VIBRATING TEXTURE",
+        "stems": [
+            "tingly / tingling texture",
+            "vibrating/purring texture",
+            "pulsating/thumping texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ŠB",
+        "refers": "ORAL TEXTURE",
+        "stems": [
+            "chewy texture (in mouth)",
+            "'tough' texture (in mouth, e.g., of meat)",
+            "'melt-in-your-mouth' savory texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "VT",
+        "refers": "STRINGY, FIBROUS TEXTURE",
+        "stems": [
+            "stringy, thread-like texture",
+            "fibrous, twine-like texture",
+            "rope-like, cord-like texture"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "KVW",
+        "refers": "COOL / COLD TACTILE SENSATION",
+        "stems": [
+            "cool to the touch",
+            "cold to the touch",
+            "freezing cold to the touch"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ŽXW",
+        "refers": "WARM / HOT TACTILE SENSATION",
+        "stems": [
+            "warm to the touch",
+            "hot to the touch",
+            "burning hot to the touch"
+        ],
+        "see": "GS"
+    },
+    {
+        "root": "ĻV",
+        "refers": "WISPY / FLUFFY TEXTURE",
+        "stems": [
+            "wispy/wafting/misty texture",
+            "fluffy/puffy/cottony texture",
+            "'cobwebby'/like cotton-candy texture"
+        ],
+        "see": "GS"
+    }
+]

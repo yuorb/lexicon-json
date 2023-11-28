@@ -28,7 +28,7 @@
     "refers": "CUT / STAB / CRACK / FISSURE",
     "stems": [
       {
-        "BSC": "(be) an act of cutting something with a (quasi-) bladed instrument or force (“cut” = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument)",
+        "BSC": "(be) an act of cutting something with a (quasi-) bladed instrument or force ('cut' = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument)",
         "CTE": "(be) the physical cut itself; a quasi-linear break in the structural/cohesive integrity of the surface integument of an entity/object",
         "CSV": "(be) the physical act/process of cutting; to cut",
         "OBJ": "(be) a blade (the portion of a knife/sword/axe/scissors, etc. that effectuates a cut)"
@@ -92,7 +92,7 @@
         "OBJ": "(be) a blade (the portion of a knife/cleaver/axe, etc. that effectuates an act of chopping)"
       },
       "(be) an act of dicing (i.e., slicing into quasicubic pieces)",
-      "(be) an act of mincing (i.e., slicing in crosshatched fashion to the point of making an entity’s texture a slurry or paste-like)"
+      "(be) an act of mincing (i.e., slicing in crosshatched fashion to the point of making an entity's texture a slurry or paste-like)"
     ]
   },
   {
@@ -119,8 +119,8 @@
         "CSV": "(be) an act of piercing, puncturing",
         "OBJ": "(be) the appendage/implement/tool used for piercing, puncturing"
       },
-      "(be) an act of removing material by burrowing or tunneling* [Specification pattern is like Stem 2 of the root ‘DIG’]",
-      "(be) an act of leaving behind a hole, puncture, tunnel, i.e., an access point or passageway through a medium to another side or separate space [Specification pattern is like Stem 3 of the root ‘DIG’]"
+      "(be) an act of removing material by burrowing or tunneling* [Specification pattern is like Stem 2 of the root 'DIG']",
+      "(be) an act of leaving behind a hole, puncture, tunnel, i.e., an access point or passageway through a medium to another side or separate space [Specification pattern is like Stem 3 of the root 'DIG']"
     ]
   },
   {
@@ -128,10 +128,10 @@
     "refers": "DIG / HOLE",
     "stems": [
       {
-        "BSC": "(be) an act of digging; to dig, i.e., to use an implement or one’s appendage to break the surface of the 3-dimensional volume of a substance or entity, for the purpose of remove an amount of material from the volume, leaving behind a concave depression/pit/hole* )",
-        "CTE": "(be) the state/process undergone by an entity when material is dug from it and a depression or concavity left behind ",
-        "CSV": "(be) a physical act of digging; remove material by digging leaving a depression or concavity behind ",
-        "OBJ": "(be) the appendage/implement used for digging "
+        "BSC": "(be) an act of digging; to dig, i.e., to use an implement or one's appendage to break the surface of the 3-dimensional volume of a substance or entity, for the purpose of remove an amount of material from the volume, leaving behind a concave depression/pit/hole",
+        "CTE": "(be) the state/process undergone by an entity when material is dug from it and a depression or concavity left behind",
+        "CSV": "(be) a physical act of digging; remove material by digging leaving a depression or concavity behind",
+        "OBJ": "(be) the appendage/implement used for digging"
       },
       {
         "BSC": "(be) the act of removing material via digging",
@@ -146,7 +146,7 @@
         "OBJ": "(be) the medium/firmament in which a depression or concavity is made"
       }
     ],
-    "notes": "Use of the word “hole” in translating the stems of this root is within the narrow context of being a synonym for “scooped-out depression/concavity within a 3-dimensional medium; it does not mean “hole” as an access point between two spaces or through some two- or 3-dimensional medium as in “a hole in my jeans” or “a hole through the wall” (use the root **-ẒF-** below instead).\n\nNOTE: Use the above root with the **SVS** affix to derive words for scoop, excavate and to derive words for ‘drill’, ‘bore’, ‘cavern’. Combine it with other appropriate morphology to render the word for ‘delve’ and ‘worm one’s way into’. "
+    "notes": "Use of the word 'hole' in translating the stems of this root is within the narrow context of being a synonym for 'scooped-out depression/concavity within a 3-dimensional medium; it does not mean 'hole' as an access point between two spaces or through some two- or 3-dimensional medium as in 'a hole in my jeans' or 'a hole through the wall' (use the root **-ẒF-** below instead).\n\nNOTE: Use the above root with the **SVS** affix to derive words for scoop, excavate and to derive words for 'drill', 'bore', 'cavern'. Combine it with other appropriate morphology to render the word for 'delve' and 'worm one's way into'. "
   },
   {
     "root": "RẒČ",
@@ -172,10 +172,10 @@
         "CSV": "(be) an act of hollowing out or burrowing",
         "OBJ": "(be) the appendage/implement/device/machine used for hollowing/burrowing/tunneling"
       },
-      "(be) an act of removing material by hollowing out, burrowing or tunneling* [Specification pattern is like Stem 2 of the root ‘DIG’]",
-      "(be) an act of leaving behind a hollow, burrow or tunnel* [Specification pattern is like Stem 3 of the root ‘DIG’]"
+      "(be) an act of removing material by hollowing out, burrowing or tunneling* [Specification pattern is like Stem 2 of the root 'DIG']",
+      "(be) an act of leaving behind a hollow, burrow or tunnel* [Specification pattern is like Stem 3 of the root 'DIG']"
     ],
-    "notes": "This root refers to the creation of a tube-like space within a 3-dimensional medium; it does not necessarily imply that the tube-like space functions as a conduit or passageway to another separate space or medium -- thus, use of the translation “tunnel” here is in a limited context. If one wishes to signify a tunnel-like conduit connecting two separate spaces, use the root **-ẒF-** above instead. "
+    "notes": "This root refers to the creation of a tube-like space within a 3-dimensional medium; it does not necessarily imply that the tube-like space functions as a conduit or passageway to another separate space or medium -- thus, use of the translation 'tunnel' here is in a limited context. If one wishes to signify a tunnel-like conduit connecting two separate spaces, use the root **-ẒF-** above instead. "
   },
   {
     "root": "GŢ",
@@ -196,7 +196,7 @@
     "refers": "FITTING / ACCOMMODATION / NICHE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of one entity physically fitting into/with another so that one is “carried” along as the other moves/operates",
+        "BSC": "(be) an act/instance of one entity physically fitting into/with another so that one is 'carried' along as the other moves/operates",
         "CTE": "(be) the state of fitting into another",
         "CSV": "(be) the physical act of fitting",
         "OBJ": "(be) the juncture itself which one establishes or seeks to establish by an act of fitting something into something else"
@@ -215,7 +215,7 @@
         "CSV": "(be) the physical act of straightening; make something straight/rectilinear",
         "OBJ": "(be) that which is straight(ened)"
       },
-      "(be) an act/instance of straightening something out; to straighten out (i.e., fix something that was crooked/bent/curved/warped by making it rectilinear/straight as it should be )",
+      "(be) an act/instance of straightening something out; to straighten out (i.e., fix something that was crooked/bent/curved/warped by making it rectilinear/straight as it should be)",
       "(be) a act/instance of aligning/alignment; to align (i.e., make an entity or collection of entities line up in a rectilinear shape/pattern for aesthetic reasons or for proper/optimal functioning)"
     ]
   },
@@ -269,7 +269,7 @@
     "stems": [
       {
         "BSC": "(be) a change in ratio of speed or energy output caused by a geared differential mechanism",
-        "CTE": "(be) the state of a having one’s energy output or speed changed via a gear mechanism",
+        "CTE": "(be) the state of a having one's energy output or speed changed via a gear mechanism",
         "CSV": "(be) the physical act of changing the kinematic ratio or speed of energy output via a gear mechanism",
         "OBJ": "(be) the gear mechanism which creates a change in kinematic ratio of energy output or speed"
       },
@@ -327,7 +327,7 @@
     "refers": "HOLD TOGETHER / HOLD STILL / BIND / RESTRAIN",
     "stems": [
       {
-        "BSC": "(be) an act/instance of holding something together on a long-term or (quasi-) permanent basis (i.e., so that it doesn’t separate, come apart, or disassemble)",
+        "BSC": "(be) an act/instance of holding something together on a long-term or (quasi-) permanent basis (i.e., so that it doesn't separate, come apart, or disassemble)",
         "CTE": "(be) a state of being held together",
         "CSV": "(be) the physical act of holding together",
         "OBJ": "(be) the implement/tool/medium used to keep something held together (e.g., clip, clasp, clamp, vice, clothespin, string/cord, rubber band, bookend(s), etc.)"
@@ -377,7 +377,7 @@
         "OBJ": "(be) the means/implement/procedure/command used to make something fall"
       },
       "(be) an act/instance of letting something fall; to drop",
-      "(be) an act/instance of lowering something down to (quasi-) ground level from on high, involving a use of energy and manipulation (as opposed to letting it fall freely via gravity); to physically lower something to one’s level"
+      "(be) an act/instance of lowering something down to (quasi-) ground level from on high, involving a use of energy and manipulation (as opposed to letting it fall freely via gravity); to physically lower something to one's level"
     ]
   },
   {
@@ -385,13 +385,13 @@
     "refers": "GRAB / GRASP / PICK UP / PICK OUT / HANDLE / MANIPULATE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of grabbing/grasping something with one’s hand or manipulative appendage(s)",
-        "CTE": "(be) a state of being in another’s grasp",
+        "BSC": "(be) an act/instance of grabbing/grasping something with one's hand or manipulative appendage(s)",
+        "CTE": "(be) a state of being in another's grasp",
         "CSV": "(be) the physical act of grabbing/grasping",
         "OBJ": "(be) the hand or appendage with which one grabs/grasps"
       },
       "(be) an act/instance of picking something up or picking something out of something else (i.e., physically isolating and removing something from its surface/medium/substrate)",
-      "(be) an act/instance of handling/manipulating something with one’s hands or manipulative appendage(s)"
+      "(be) an act/instance of handling/manipulating something with one's hands or manipulative appendage(s)"
     ]
   },
   {
@@ -427,7 +427,7 @@
     "refers": "MANUAL MANIPULATION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of incidentally or temporarily holding something together (i.e., so that it doesn’t separate, come apart, or disassemble)",
+        "BSC": "(be) an act/instance of incidentally or temporarily holding something together (i.e., so that it doesn't separate, come apart, or disassemble)",
         "CTE": "(be) a state of being incidentally or temporarily held together",
         "CSV": "(be) the physical act of incidentally or temporarily holding together",
         "OBJ": "(be) the implement/tool/medium used to keep something incidentally or temporarily held together (e.g., pliers, tweezers, forceps, etc.)"
@@ -487,7 +487,7 @@
       "(be) an act/instance of driving into (i.e., forceful insertion or penetration through a resistant/hard surface by breaking/interrupting its surface integrity and passing into the resistant/hard three-dimensional volume beyond via pure force and quasi-violent breaking/distortion/displacement of the structural integrity of that volume",
       "(be) an act/instance of injection"
     ],
-    "notes": "This root refers only to the act/process of penetration of an external entity through a two-dimensional medium or into a three-dimensional medium; it is not focused on the resulting state of interiority itself. Thus, for translations of English words focused on the resulting state of interiority rather than the interruption of the surface integrity, e.g., ‘insert, infuse, immerse, instill, imbue, implant’, use an appropriate SPATIO-TEMPORAL Root instead, e.g., **-XW-**, **-XL-**, **-CW-**, **-ŢP-**, **-ḐB-** and/or appropriate SpatioTemporal affixes associated with these roots."
+    "notes": "This root refers only to the act/process of penetration of an external entity through a two-dimensional medium or into a three-dimensional medium; it is not focused on the resulting state of interiority itself. Thus, for translations of English words focused on the resulting state of interiority rather than the interruption of the surface integrity, e.g., 'insert, infuse, immerse, instill, imbue, implant', use an appropriate SPATIO-TEMPORAL Root instead, e.g., **-XW-**, **-XL-**, **-CW-**, **-ŢP-**, **-ḐB-** and/or appropriate SpatioTemporal affixes associated with these roots."
   },
   {
     "root": "ŇÇ",
@@ -499,7 +499,7 @@
         "CSV": "(be) the physical act of extraction; to do something that physically extracts, draws something forth/out",
         "OBJ": "(be) the entity/object employed to extract"
       },
-      "(be) an act/instance of removing something from some surrounding medium/substrate by physically invading/cutting into that medium and forcibly extracting (e.g., surgery, digging for something, immersing one’s hands or appendage(s) into and grabbing, etc.)",
+      "(be) an act/instance of removing something from some surrounding medium/substrate by physically invading/cutting into that medium and forcibly extracting (e.g., surgery, digging for something, immersing one's hands or appendage(s) into and grabbing, etc.)",
       "(be) an act/instance of obtaining or drawing out something from a surrounding medium/substrate by chemical or other non-manual means (e.g., osmosis, titration, burning, chemical reaction, etc)."
     ]
   },
@@ -572,7 +572,7 @@
       "(be) an act/instance of planar (two-dimensional) stretching, expansion or spreading; to spread (two-dimensionally), to expand in terms of surface area",
       "(be) an act/instance of quasi-spheroidal (3-dimensional) stretching or expansion; to expand (3-dimensionally)"
     ],
-    "notes": "This root refers to expansion in size **without** an entity’s individual component members/contents/nodes themselves expanding, but rather only the space [or underlying substrate or connective medium] between them"
+    "notes": "This root refers to expansion in size **without** an entity's individual component members/contents/nodes themselves expanding, but rather only the space [or underlying substrate or connective medium] between them"
   },
   {
     "root": "ŘḐŘ",
@@ -635,7 +635,7 @@
       "(be) an act/instance of initiating/activating something; to activate, to initiate, to start up (i.e., the act/process/procedure necessary to bring energy to a non-active state/entity so that it becomes active, e.g., starting a motor, activating a device, initiating a complex procedure, etc.)",
       "(be) an act/instance of instigation; to instigate (i.e., set in motion a series of events or arranging a precursor state/act/event that will lead to a specific outcome)"
     ],
-    "notes": "This root refers to ‘beginning/initiation’ meaning ‘activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity; for the ‘beginning/initiation’ meaning “origination, first-time occurrence, first-time causation”, see the root **-ÇN-**."
+    "notes": "This root refers to 'beginning/initiation' meaning 'activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity; for the 'beginning/initiation' meaning 'origination, first-time occurrence, first-time causation', see the root **-ÇN-**."
   },
   {
     "root": "PĻ",
@@ -648,7 +648,7 @@
         "OBJ": "(be) an entity/object used to make something turn"
       },
       "(be) an act of veering; to veer (i.e., a sudden, unexpected turn)",
-      "(be) an act of changing one’s pitch; to pitch upward or downward (i.e., to turn one’s orientation on a vertical axis upward or downward relative to one’s (quasi-)static horizontal frame of reference)"
+      "(be) an act of changing one's pitch; to pitch upward or downward (i.e., to turn one's orientation on a vertical axis upward or downward relative to one's (quasi-)static horizontal frame of reference)"
     ],
     "notes": "Use this root with various spatial affixes to add specific detail, e.g., SPR, CRC, SPM, SWM, SPN, IPE, IPF, PFL, etc."
   },
@@ -656,7 +656,7 @@
     "root": "RPĻ",
     "refers": "SPINNING / REVOLVING / ORBIT / ROTATION",
     "stems": [
-      "(be) an act/instance of spinning/revolving (i.e., revolving in place on one’s own rotational axis)",
+      "(be) an act/instance of spinning/revolving (i.e., revolving in place on one's own rotational axis)",
       "(be) an act/instance of revolving/orbiting; to revolve/orbit (i.e., to follow a (quasi-)circular motion around another entity/object)",
       "(be) an act of rotation; to rotate (e.g., twisting a handle or turning a steering wheel)"
     ],
@@ -681,13 +681,13 @@
     "refers": "STRIKE / HIT / BLOW / KNOCK / TOPPLE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of striking/hitting something using one’s body/appendages or an implement/device used as an extension of one’s body/appendages, with the intention of changing its location, placement, movement, state, arrangement, etc. (e.g., as in hitting a ball in sport, or striking a nail with a hammer)",
+        "BSC": "(be) an act/instance of striking/hitting something using one's body/appendages or an implement/device used as an extension of one's body/appendages, with the intention of changing its location, placement, movement, state, arrangement, etc. (e.g., as in hitting a ball in sport, or striking a nail with a hammer)",
         "CTE": "(be) a state of being struck/hit",
         "CSV": "(be) the physical act of striking/hitting",
         "OBJ": "(be) the implement/tool used to strike/hit something"
       },
-      "(be) an act/instance of striking/hitting something, using one’s body/appendages or an implement/device used as an extension of one’s body/appendages, either as an offensive attack or in self-defense, with the intention of causing physical harm or physically thwarting a perceived attack",
-      "(be) an act/instance of knocking something down or over by means of striking, hitting or delivering a blow, whether by using one’s body/appendages or an implement/ device used as an extension of one’s body/appendages; to knock over, to knock down, to push/shove to the ground, to physically topple something"
+      "(be) an act/instance of striking/hitting something, using one's body/appendages or an implement/device used as an extension of one's body/appendages, either as an offensive attack or in self-defense, with the intention of causing physical harm or physically thwarting a perceived attack",
+      "(be) an act/instance of knocking something down or over by means of striking, hitting or delivering a blow, whether by using one's body/appendages or an implement/ device used as an extension of one's body/appendages; to knock over, to knock down, to push/shove to the ground, to physically topple something"
     ],
     "notes": "Derivations: tap, punch, beat, kick, pat, tamp, cudgel, nudge"
   },
@@ -696,12 +696,12 @@
     "refers": "IMPULSE / PUSHING / PROPULSION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of pushing something; to push (i.e., make something move by exerting an impulsive force upon it via one’s hands or appendages or via a manually-controlled object/device)",
+        "BSC": "(be) an act/instance of pushing something; to push (i.e., make something move by exerting an impulsive force upon it via one's hands or appendages or via a manually-controlled object/device)",
         "CTE": "(be) a state of being pushed",
         "CSV": "(be) the physical act of pushing",
         "OBJ": "(be) an entity/object used to push"
       },
-      "(be) an act/instance of shoving, bumping, butting, prodding (i.e., using one’s hands or body, or a manually-controlled extension thereof, to deliver a sudden push to another entity for the ostensible purpose of making it move out of one’s path or to gain the entity’s attention)",
+      "(be) an act/instance of shoving, bumping, butting, prodding (i.e., using one's hands or body, or a manually-controlled extension thereof, to deliver a sudden push to another entity for the ostensible purpose of making it move out of one's path or to gain the entity's attention)",
       "(be) an act/instance of thrusting or propulsion; to make something (or oneself) move quickly via a sudden, violent use of impulsive force"
     ]
   },
@@ -710,7 +710,7 @@
     "refers": "THROWING / LAUNCHING / SHOOTING",
     "stems": [
       {
-        "BSC": "(be) an act/instance of throwing something (i.e., using one’s arms or other appendage to suddenly and forcefully impel/project an object into the surrounding air/space where its path of motion then becomes subject to gravitational/environmental forces)",
+        "BSC": "(be) an act/instance of throwing something (i.e., using one's arms or other appendage to suddenly and forcefully impel/project an object into the surrounding air/space where its path of motion then becomes subject to gravitational/environmental forces)",
         "CTE": "(be) a state of being thrown",
         "CSV": "(be) the physical act of throwing",
         "OBJ": "(be) an entity/object used to throw"
@@ -724,12 +724,12 @@
     "refers": "TRACTION / DRAWING / PULLING / DRAGGING",
     "stems": [
       {
-        "BSC": "(be) an act/instance of pulling or drawing (i.e., make something move by exerting a tractive force upon it via one’s hands or appendages or via a manually-controlled object/device)",
+        "BSC": "(be) an act/instance of pulling or drawing (i.e., make something move by exerting a tractive force upon it via one's hands or appendages or via a manually-controlled object/device)",
         "CTE": "(be) a state of being pulled or drawn",
         "CSV": "(be) the physical act of pulling or drawing",
         "OBJ": "(be) an entity/object used to pull or draw, e.g., rope, reins, chain, etc."
       },
-      "(be) an act/instance of dragging, tugging, towing, lugging (i.e., to pull/draw with resistance from the entity being towed either due to gravity, friction, or the pulled entity’s own resistive efforts)",
+      "(be) an act/instance of dragging, tugging, towing, lugging (i.e., to pull/draw with resistance from the entity being towed either due to gravity, friction, or the pulled entity's own resistive efforts)",
       "(be) an act/instance of hauling, trawling, raking (i.e., using pulling/drawing force to carry/convey/transport a load/object/entity)"
     ],
     "notes": "Morphological derivative: hoist"
@@ -803,14 +803,14 @@
         "OBJ": "(be) the material or substance (to be) applied"
       },
       "(be) an act/instance of applying/spreading/overlaying a gel-like substance or material to the surface of something; to apply, spread on (to), coat, smear a gel-like substance or material [CPT = foam up, froth]",
-      "(be) an act/instance of spraying a substance or medium onto another so that it is flush with, in complete contact with, or adheres to the underlying entity; to spray on, to apply via a spray(er) OBJ Specification = ‘aerosol’"
+      "(be) an act/instance of spraying a substance or medium onto another so that it is flush with, in complete contact with, or adheres to the underlying entity; to spray on, to apply via a spray(er) OBJ Specification = 'aerosol'"
     ]
   },
   {
     "root": "ŇVW",
     "stems": [
       "housepaint/industrial paint",
-      "artist’s paint",
+      "artist's paint",
       "watercolor paint"
     ],
     "see": "ŇM"
@@ -955,7 +955,7 @@
         "OBJ": "(to be) the means/implement/procedure by which something is compressed/compacted/squeezed"
       },
       "(to be) a state/act of compression/compaction/concentration/ condensing; to compress, to compact, to concentrate, to condense [i.e., to fit a greater amount of a material, substance, content, into a fixed space via increasing its density per volume]",
-      "(to be) a state/act of energy storage; to store potential energy [OBJ = ‘battery’]"
+      "(to be) a state/act of energy storage; to store potential energy [OBJ = 'battery']"
     ]
   },
   {
@@ -1019,15 +1019,15 @@
     "refers": "RUBBING / MASSAGING / SCRATCHING",
     "stems": [
       {
-        "BSC": "(to be) an act/state of rubbing something with one’s hand(s) or other body part",
-        "CTE": "(to be) a state of being rubbed with an entity’s hand(s) or other body part",
-        "CSV": "(to be) the physical act of rubbing with an entity’s hand(s) or other body part",
+        "BSC": "(to be) an act/state of rubbing something with one's hand(s) or other body part",
+        "CTE": "(to be) a state of being rubbed with an entity's hand(s) or other body part",
+        "CSV": "(to be) the physical act of rubbing with an entity's hand(s) or other body part",
         "OBJ": "(to be) what is being rubbed"
       },
-      "(to be) an act/state of massaging with one’s hand(s) or other body part",
-      "(to be) an act/state of scratching with one’s fingernails/claws or other sharp body part **"
+      "(to be) an act/state of massaging with one's hand(s) or other body part",
+      "(to be) an act/state of scratching with one's fingernails/claws or other sharp body part **"
     ],
-    "notes": "\\* for the sensation of being rubbed, massaged, or scratched, see **-VZW-**\n\n\\*\\* this stem refers only to scratching for grooming purposes or to relieve an itch; for the meaning of “to make/leave a scratch or scratches in something” see **-PPŠ-**"
+    "notes": "\\* for the sensation of being rubbed, massaged, or scratched, see **-VZW-**\n\n\\*\\* this stem refers only to scratching for grooming purposes or to relieve an itch; for the meaning of 'to make/leave a scratch or scratches in something' see **-PPŠ-**"
   },
   {
     "root": "LŢR",
@@ -1063,7 +1063,7 @@
         "CSV": "(be) the physical act of absorbing",
         "OBJ": "(be) a porous material/object/entity which absorbs"
       },
-      "(be) an act/instance of imbuement/infusion; to imbue, to infuse (i.e., to introduce a quality or characteristic into an entity so that it spreads throughout and becomes part of that entity’s character/essence/identity, etc.)",
+      "(be) an act/instance of imbuement/infusion; to imbue, to infuse (i.e., to introduce a quality or characteristic into an entity so that it spreads throughout and becomes part of that entity's character/essence/identity, etc.)",
       "(be) an instance of infiltration"
     ],
     "notes": "\\* This stem refers to the drawing up of a (quasi-)liquid substance into an absorbable material; for a focus on removing/cleaning up a spilled substance, see **-ŠNY-** below. "
@@ -1095,7 +1095,7 @@
       "(be) a state of purity, being pure; be/make pure, purify, decontaminate, disinfect (i.e., to be/make free from foreign/invasive/polluting substances)",
       "(be) a state/act of proper sanitation/hygiene; be sanitary/hygienic, exercise proper sanitation/hygiene (i.e., practices which help to ensure an entity/party/environment remains clean or pure)"
     ],
-    "notes": "\\* This stem does not mean ‘organize’ or ‘de-clutter’ as in “to clean a room” — see the next root(-ŢB-) below."
+    "notes": "\\* This stem does not mean 'organize' or 'de-clutter' as in 'to clean a room' — see the next root(-ŢB-) below."
   },
   {
     "root": "ŢB",
@@ -1150,7 +1150,7 @@
     "refers": "SUCTION / PUMPING",
     "stems": [
       {
-        "BSC": "(be) a state/act of orally sucking; to orally suck (i.e., create a velaric ingressive airstream in one’s oral cavity in order to suck in liquid, food, air, etc.)",
+        "BSC": "(be) a state/act of orally sucking; to orally suck (i.e., create a velaric ingressive airstream in one's oral cavity in order to suck in liquid, food, air, etc.)",
         "CTE": "(be) a state of being sucked",
         "CSV": "(be) an act of sucking; to physically suck something",
         "OBJ": "(be) that into which something is suck"
@@ -1194,7 +1194,7 @@
         "OBJ": "(be) that which is used to physically damage"
       },
       "(be) an act/instance of rendering less-than-fully operable/functional; corrupt, subvert, undermine [CPT Version = ruin, devastate, break up, destroy operationally, i.e., damage, corrupt, or subvert to the point of being unable to function/operate]",
-      "(be) an act/instance of reducing the presence/existence of; to reduce, lessen [CPT version = eradicate, eliminate, annihilate, “disappear”, i.e., to render something nonexistent]"
+      "(be) an act/instance of reducing the presence/existence of; to reduce, lessen [CPT version = eradicate, eliminate, annihilate, 'disappear', i.e., to render something nonexistent]"
     ]
   },
   {
@@ -1202,12 +1202,12 @@
     "refers": "CHANNEL / STEER / AIM",
     "stems": [
       {
-        "BSC": "(be) an act/instance of channeling; to channel (i.e., direct one’s translative course or that of another through a channel or conduit)",
+        "BSC": "(be) an act/instance of channeling; to channel (i.e., direct one's translative course or that of another through a channel or conduit)",
         "CTE": "(be) a state of being moved through/within/along a channel/conduit",
         "CSV": "(be) the physical act of moving through spacetime via a channel/conduit",
         "OBJ": "(be) that which is used to channel the course of something (e.g., a funnel, chute, conduit, pipe, tube, trough, shaft, tunnel, etc.)"
       },
-      "(be) an act/instance of steering; to steer (i.e., direct one’s course via manually-manipulated means)",
+      "(be) an act/instance of steering; to steer (i.e., direct one's course via manually-manipulated means)",
       "(be) an act/instance of aiming; aim for, take aim at"
     ]
   },

@@ -1,0 +1,82 @@
+[
+    {
+        "root": "SF",
+        "refers": "SENSE OF TASTE / THE TASTE OF SOMETHING",
+        "stems": [
+            {
+                "BSC": "(to be) the flavor of something and the act of tasting thereof [act of tasting + the flavor itself]; an act of tasting the flavor of something — [both the flavor and the sensing thereof]",
+                "CTE": "(to be) a flavor",
+                "CSV": "(to be) an act of tasting; to taste; to engage one's gustatory sense",
+                "OBJ": "(to be) the entity/event/object whose flavor one tastes"
+            },
+            "(to be) a taste bud (i.e., the gustatory organ)",
+            "(to be) one's gustatory faculty; one's sense of taste"
+        ],
+        "notes": "The meaning of the old FORMAL stems previously associated with this root can be expressed by the following: for Stems 1 and 3, use appropriate Transrelative case marking for the arguments/participants; for Stem 2, use the MEC affix.\n\nThe GST affix can be used to create additional flavors and smells from any applicable formatives."
+    },
+    {
+        "root": "MS",
+        "refers": "SWEET FLAVOR",
+        "stems": [
+            {
+                "BSC": "(to be) something having a sweet flavor",
+                "CTE": "(to be/manifest) a particular sweet flavor (of something)",
+                "CSV": "(to be) an identifiable sweet flavor",
+                "OBJ": "(to be) an entity having a sweet flavor (e.g., 'the sweet-tasting one')"
+            },
+            "fruity/citrus/tarty-flavor",
+            "floral-like sweet flavor"
+        ],
+        "notes": "The GST affix can be used to create additional flavors and smells from any applicable formatives."
+    },
+    {
+        "root": "ZG",
+        "refers": "BITTER FLAVOR",
+        "stems": [
+            "bitter flavor",
+            "bitter + sweet",
+            "bitter + sour"
+        ],
+        "see": "MS"
+    },
+    {
+        "root": "ĻK",
+        "refers": "SALTY / SPICY / UMAMI",
+        "stems": [
+            "salty flavor",
+            "spiciness / piquant flavor",
+            "umami/savory flavor"
+        ],
+        "see": "MS"
+    },
+    {
+        "root": "XX",
+        "refers": "FOUL/RANCID FLAVOR",
+        "stems": [
+            "foul/rancid flavor",
+            "spoiled/rotten flavor",
+            "vinegary flavor"
+        ],
+        "see": "MS"
+    },
+    {
+        "root": "SFŘ",
+        "refers": "SOUR FLAVOR",
+        "stems": [
+            "sour flavor",
+            "sour + rancid flavor",
+            "sweet + sour flavor"
+        ],
+        "see": "MS"
+    },
+    {
+        "root": "ŇŇ",
+        "refers": "CHEMICAL-LIKE FLAVOR",
+        "stems": [
+            "chemical-like flavor",
+            "metallic flavor",
+            "astringent/acidy flavor"
+        ],
+        "see": "MS"
+    }
+]

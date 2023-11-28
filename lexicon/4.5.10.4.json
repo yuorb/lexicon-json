@@ -1,0 +1,470 @@
+[
+    {
+        "root": "KSK",
+        "stems": [
+            "annoyance/irritation (caused by external event/state/situation/person)",
+            "anger, ire",
+            "rage, fury; feel furious"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "JGR",
+        "stems": [
+            "feel(ing of) disappointment, feel let down",
+            "feel(ing of) disillusionment",
+            "feel(ing of being) jaded, cynical"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "MŘŘ",
+        "stems": [
+            "sadness/grief",
+            "sorrow/lamentation",
+            "woefulness/despair/desolation /misery"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "PŠŠ",
+        "stems": [
+            "feel(ing of being) misunderstood",
+            "feel(ing of) indignation/being offended/feel insulted",
+            "feel(ing of) resentment, bitterness, being treated unfairly"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "KÇÇ",
+        "stems": [
+            "feel(ing of) frustration, exasperation",
+            "feel(ing) emotionally upset, 'not know what to think'",
+            "feel(ing of being) disconcerted, defeated"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "MḐR",
+        "stems": [
+            "puzzlement as to why one is uncomfortable in a situation",
+            "feeling that something is wrong with a situation",
+            "restlessness/dissatisfaction that something is wrong w/ one's life"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "RNG",
+        "stems": [
+            "feel(ing of) self-directed annoyance/irritation",
+            "feel(ing of) self-directed disappointment/letdown (at failure to meet one's own expectations)",
+            "feel(ing of) anger at oneself over failure to meet one's own expectations"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "KSB",
+        "stems": [
+            "feel(ing of) emotional numbness/ emotional weariness / emotional fatigue/saturation/burn-out",
+            "feel(ing of being) emotionally unavailable/closed/cold",
+            "feel(ing of being) stoic/phlegmatic/stolid/repressed"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "JDR",
+        "stems": [
+            "feel(ing of) emotional stress/pressure",
+            "feel(ing of being) at emotional breaking-point, feel(ing) that one 'can't take it anymore'",
+            "feel(ing of being) on the verge of loss of control of one's composure or inhibitions [CPT = loss of emotional control; nervous breakdown]"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ŠŠTĻ",
+        "stems": [
+            "repugnance/repellent feeling in reaction to sensory input",
+            "disgust at a situation or someone's behavior, words, etc.",
+            "shock/disbelief in the face of unexpected repugnance/horror"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "GZJ",
+        "stems": [
+            "uncertainty, feel unsure of oneself",
+            "discomfiture at being out of one's element or one's depth",
+            "self-doubt, lacking self-confidence, low self-esteem"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "BGR",
+        "stems": [
+            "feel(ing of) mental 'fogginess', inability to concentrate or focus",
+            "feel(ing of) mental lassitude, mental laziness, feel uninspired / 'stuck in a rut'",
+            "feel(ing of) anhedonia [inability to feel/experience pleasure]"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "JBR",
+        "stems": [
+            "feel(ing of) restlessness/disquietude/tension/being 'on edge'",
+            "feel(ing of) nervousness / agitation",
+            "feel(ing of) hysteria/loss of emotional control"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ZGL",
+        "stems": [
+            "feel(ing of) regret/remorse/ruefulness over one's acts, behavior or words",
+            "feel(ing of) regret/remorse/pining over past might-have-beens or inactions",
+            "feel(ing of being) penitent, feel need to make amends for past sins"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ẒGR",
+        "stems": [
+            "feel(ing of) apprehension, foreboding",
+            "feel(ing of) anxiety/nervousness/unease",
+            "feel(ing of) fear/trepidation / fright / panic"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "BZG",
+        "stems": [
+            "feel(ing of) melancholy/emotional malaise",
+            "feel(ing of being) glum / gloomy / discontented",
+            "feel(ing of) depression/unhappiness"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ŘŘN",
+        "stems": [
+            "feel(ing of) envy",
+            "feel(ing of) jealousy",
+            "feel(ing of) covetousness"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "RMZ",
+        "stems": [
+            "feel(ing of being) sullen/moody/morose",
+            "feel(ing of being) churlish, antisocial, irascible",
+            "feel(ing of being) rebellious"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "FKȚ",
+        "stems": [
+            "feel(ing of being) flustered at not knowing how to react or what to think/do",
+            "feel(ing of) embarrassment due to social faux pas/misstep",
+            "feel(ing of being) foolish, feel(ing of) shame over playing the fool"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "GVV",
+        "stems": [
+            "feel(ing of) puzzlement, perplexity",
+            "feel(ing of) confusion, feel one doesn't understand a situation",
+            "feel(ing of) bewilderment"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "KȚP",
+        "stems": [
+            "feel(ing of being) spiteful, vindictive",
+            "feel(ing of being) begrudged, feel rancorous. unforgiving, holding a grudge",
+            "feel(ing of being) vengeful / feel a desire for revenge"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "TMW",
+        "stems": [
+            "feel(ing of being) cheated",
+            "feel(ing of being) victimized/used/violated",
+            "feel(ing of being) traumatized"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "PŇ",
+        "stems": [
+            "feel(ing of being) mean/malicious/malevolent/ill-willed",
+            "feel (a desire to be) cruel or sadistic",
+            "feel(ing of) sadistic pleasure at another's pain or torment"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "BZB",
+        "stems": [
+            "feel(ing of) bashfulness, timidity",
+            "feel(ing of) shyness",
+            "feel(ing of) stagefright"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "LLČ",
+        "stems": [
+            "feel(ing of) dismay",
+            "feel(ing of) alarm, surprise (at negative occurrence/experience)",
+            "feel(ing of) shock/reeling (from unexpected bad news/experience)"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "GVR",
+        "stems": [
+            "feel(ing of) awkwardness",
+            "feel(ing of) embarrassment",
+            "feel(ing of) humiliation"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "JGL",
+        "stems": [
+            "feel(ing of) world-weariness (German: Lebenskrankheit)",
+            "feel(ing of) Weltschmerz",
+            "feel(ing of) feeling of futility in the face of realizing the transience and seeming meaninglessness of life and the universe"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "KNY",
+        "stems": [
+            "feel(ing of) stinginess, feel stingy",
+            "feel(ing of) selfishness",
+            "feel(ing of) uncharitableness, uncompassionate, miserliness"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "VVZ",
+        "stems": [
+            "feel(ing of) worry/ feel(ing of being) preoccupied/fretful/concerned over",
+            "feel(ing of) dread (anticipation of something negative/detrimental)",
+            "feel(ing of) feel(ing of) angst"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ZDL",
+        "stems": [
+            "feel(ing of) emotional emptiness/hollowness/shallowness",
+            "feel(ing of being) unemotional / lacking emotion / feel nothing",
+            "feel(ing of) cavalierness/lack of empathy"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "RGZ",
+        "stems": [
+            "feel(ing of being) flustered due to conflicting sensory/emotional input",
+            "feel(ing of) emotional overload/feel need to take an emotional break",
+            "feel(ing of being) emotionally overwhelmed / swooning"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "VXW",
+        "stems": [
+            "feel(ing of) shame or guilt",
+            "feel(ing of) apprehension and guilt that one is in trouble or has done something wrong",
+            "feel(ing of) self-loathing over one's own failings/wrongdoings"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "RNŽ",
+        "stems": [
+            "feel(ing of) doubt, dubiousness (= uncertainty as to whether to believe something is true/accurate)",
+            "feel(ing of) skepticism",
+            "feel(ing of) disbelief, incredulity"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "MMF",
+        "stems": [
+            "feel(ing of) doubt ( = feel misgivings, feel one is being fooled or doesn't have all the facts",
+            "feel(ing of) suspicion (that someone/something is not what it seems)",
+            "feel(ing of) caution ( = feeling that one may be in unsafe situation)"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ŽŽG",
+        "stems": [
+            "feel(ing of) dejection, downheartedness, crestfallenness",
+            "feel(ing of) rejection",
+            "feel(ing of) heartbreak, heartache"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "KSP",
+        "stems": [
+            "feel(ing of) pessimism / feeling that things are not okay",
+            "feel(ing of) defeatism, feel defeatist",
+            "feel(ing of) paranoia, feel paranoid"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "VGR",
+        "stems": [
+            "feel(ing of being) full of nervous energy, feel manic",
+            "feel(ing a) need to lash out or to make a scene,",
+            "feel(ing of being) nihilistic, feel like destroying/defacing the sublime"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "PMW",
+        "stems": [
+            "feel(ing of) stubbornness, obstinacy",
+            "feel(ing of) unyielding, steadfast",
+            "feel(ing of) intransigence/implacability"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "XPL",
+        "stems": [
+            "feel(ing of being) distracted, distraction, feel difficulty in focusing or paying attention, feel unable to get one's mind off something",
+            "feel(ing of being) unaware/ignorant of what's going on in a situation",
+            "feel(ing of being) unaware/ignorant of what's going on in the world or in life"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "SGR",
+        "stems": [
+            "feel(ing of being) indecisive",
+            "feel(ing of being) fickle, vacillating",
+            "feel(ing of being) irresolute, lacking commitment, half-hearted"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "FSL",
+        "stems": [
+            "feel(ing of) mental fatigue/weariness at the state one has let their life become; tired of the same stale dead-end routine...",
+            "feel(ing of) worthlessness, uselessness",
+            "feel(ing of being) suicidal"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "PXR",
+        "stems": [
+            "feel(ing of) reluctance/disinclination, feel(ing of) a desire to avoid",
+            "feel(ing of) unwillingness/aversion",
+            "feel(ing of) opposition, feel desire to stand against/oppose"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "VKR",
+        "stems": [
+            "feel(ing of) resignation, no further willingness to fight, giving up",
+            "feel(ing of) helplessness/inefficacy/inability",
+            "feel(ing of) renunciation, desire to turn one's back on the world and become a hermit"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "VZG",
+        "stems": [
+            "feel(ing of being) like a stranger in one's own life, like one does not understand oneself",
+            "feel(ing of) alienation from self and others (resigned disgust with oneself and one's inability to understand the world)",
+            "feel(ing of) disconnection or inability to relate to the world, feeling emotionally 'adrift' (i.e., a quiet combination of boredom and resignation and bewilderment) in relation to the world"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "RKR",
+        "stems": [
+            "feel(ing of) aloofness",
+            "feel(ing of) emotional superiority/maturity/feeling 'above it all'",
+            "feel(ing of) disgust/spite at the inferiority/stupidity of other people"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "ŽŽV",
+        "stems": [
+            "feel(ing of) impatience",
+            "feel(ing of) irritability/being easily-angered, being on-edge",
+            "feel(ling of) needing to take matters into one's own hands, get things moving; feeling tired of sitting around not doing anything"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "FFX",
+        "stems": [
+            "feel(ing of) dislike/distaste/disapproval",
+            "feel(ing of) loathsomeness/abhorrence/repugnance/detesting",
+            "feel(ing of) hate/hatred/enmity"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "XTL",
+        "stems": [
+            "feel(ing of) aesthetic fatigue/saturation; exposure to so much beauty that one ceases to appreciate it",
+            "feel(ing of) compassion fatigue",
+            "feel(ing of) futility, feel that all one's efforts are for naught in that they make no difference"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "LNY",
+        "stems": [
+            "feel(ing of being) lonesome, wanting company/companionship",
+            "feel(ing of) loneliness, feel a lack of love/friendship",
+            "feel(ing of) invisibility (as if no one ever notices you)"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "JVR",
+        "stems": [
+            "feel(ing of) pettiness, feel(ing of) unwarranted concern for trivial matters",
+            "feel(ing of) fussiness, finickiness (= spirit of uncooperativeness over trivial matters)",
+            "feel(ing of) a need to meddle/interfere/'butt in'"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "VTR",
+        "stems": [
+            "feel(ing of) sadness or melancholy in the face of happiness due to knowing the happiness is transient/ephemeral",
+            "feel(ing of) sadness or melancholy in the face of happiness due to knowing others are not happy",
+            "feel(ing of) inability to feel/enjoy happiness even upon achieving one's desires due to believing one does not deserve happiness"
+        ],
+        "see": "ÇM"
+    },
+    {
+        "root": "PFC",
+        "stems": [
+            "light-hearted or innocent amusement at another's behavior or words",
+            "mean-spirited amusement at another's behavior or predicament",
+            "Schadenfreude"
+        ],
+        "see": "ÇM"
+    }
+]
