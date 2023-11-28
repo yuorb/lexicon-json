@@ -44,12 +44,7 @@ type Lexicon = Array<Root>;
 | Chapter 1                 | ✅    | ✅               | ✅          | ✅    |
 | Chapter 2                 | ✅    | ✅               | ✅          | ✅    |
 | Chapter 3                 | ✅    | ✅               | ✅          | ✅    |
-| Chapter 4.0 (P115 - P116) |       |                  |             |       |
-| Chapter 4.1 (P117 - P154) |       |                  |             |       |
-| Chapter 4.2 (P154 - P155) |       |                  |             |       |
-| Chapter 4.3 (P156 - P200) |       |                  |             |       |
-| Chapter 4.4 (P200 - P203) |       |                  |             |       |
-| Chapter 4.5 (P203 - P244) |       |                  |             |       |
+| Chapter 4                 | ✅    | ✅               | ✅          | ✅    |
 | Chapter 5                 | ✅    | ✅               | ✅          | ✅    |
 | Chapter 6.0               | ✅    | ✅               | ✅          | ✅    |
 | Chapter 6.1 (P261 - P268) |       |                  |             |       |
