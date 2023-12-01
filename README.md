@@ -39,22 +39,19 @@ type Lexicon = Array<Root>;
 
 ## Progress
 
-|                           | Roots | Additional Roots | Stem & Spec | Notes |
-| ------------------------- | ----- | ---------------- | ----------- | ----- |
-| Chapter 1                 | ✅    | ✅               | ✅          | ✅    |
-| Chapter 2                 | ✅    | ✅               | ✅          | ✅    |
-| Chapter 3                 | ✅    | ✅               | ✅          | ✅    |
-| Chapter 4                 | ✅    | ✅               | ✅          | ✅    |
-| Chapter 5                 | ✅    | ✅               | ✅          | ✅    |
-| Chapter 6.0               | ✅    | ✅               | ✅          | ✅    |
-| Chapter 6.1 (P261 - P268) |       |                  |             |       |
-| Chapter 6.2 (P269 - P281) |       |                  |             |       |
-| Chapter 6.3 (P281 - P295) |       |                  |             |       |
-| Chapter 6.4 (P296 - P319) |       |                  |             |       |
-| Chapter 7.0 (P319 - P319) |       |                  |             |       |
-| Chapter 7.1 (P320 - P332) |       |                  |             |       |
-| Chapter 7.2 (P333 - P397) |       |                  |             |       |
-| Chapter 7.3 (P397 - P570) |       |                  |             |       |
+|                           | Roots |
+| ------------------------- | ----- |
+| Chapter 1                 | ✅    |
+| Chapter 2                 | ✅    |
+| Chapter 3                 | ✅    |
+| Chapter 4                 | ✅    |
+| Chapter 5                 | ✅    |
+| Chapter 6.0               | ✅    |
+| Chapter 6.1 (P261 - P268) |       |
+| Chapter 6.2 (P269 - P281) |       |
+| Chapter 6.3 (P281 - P295) |       |
+| Chapter 6.4 (P296 - P319) |       |
+| Chapter 7                 | ✅    |
 
 ## Scripts
 
