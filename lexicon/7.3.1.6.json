@@ -1,0 +1,146 @@
+[
+  {
+    "root": "LMZW",
+    "refers": "STARFISH / BRITTLE STAR / BASKET STAR",
+    "stems": [
+      {
+        "BSC": "(to be) an animal identified as **(Asteroidea; numerous genera) starfish, sea star**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Asteroidea; numerous genera) starfish, sea star** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Asteroidea; numerous genera) starfish, sea star**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Asteroidea; numerous genera) starfish, sea star**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Ophiurids; numerous genera) brittle star**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Ophiurids; numerous genera) brittle star** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Ophiurids; numerous genera) brittle star**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Ophiurids; numerous genera) brittle star**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Euryalids; several genera) basket star**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Euryalids; several genera) basket star** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Euryalids; several genera) basket star**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Euryalids; several genera) basket star**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      }
+    ]
+  },
+  {
+    "root": "LMZY",
+    "refers": "SEA URCHIN / SAND DOLLAR",
+    "stems": [
+      {
+        "BSC": "(to be) an animal identified as **(all Echinoids except Clypeasteroids and Spatangoids) sea urchin**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(all Echinoids except Clypeasteroids and Spatangoids) sea urchin** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(all Echinoids except Clypeasteroids and Spatangoids) sea urchin**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(all Echinoids except Clypeasteroids and Spatangoids) sea urchin**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Clypeasteroids; numerous genera) sand dollar**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Clypeasteroids; numerous genera) sand dollar** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Clypeasteroids; numerous genera) sand dollar**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Clypeasteroids; numerous genera) sand dollar**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Spantagoids; several genera) heart urchin**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Spantagoids; several genera) heart urchin** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Spantagoids; several genera) heart urchin**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Spantagoids; several genera) heart urchin**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      }
+    ]
+  },
+  {
+    "root": "LMZL",
+    "refers": "SEA CUCUMBER",
+    "stems": [
+      {
+        "BSC": "(to be) an animal identified as **(Holothuroids other than Molpadiids, Dendrochirotids, and Elasipodids) sea cucumber**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Holothuroids other than Molpadiids, Dendrochirotids, and Elasipodids) sea cucumber** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Holothuroids other than Molpadiids, Dendrochirotids, and Elasipodids) sea cucumber**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Holothuroids other than Molpadiids, Dendrochirotids, and Elasipodids) sea cucumber**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Molpadiids; several genera) molpadiid sea cucumber**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Molpadiids; several genera) molpadiid sea cucumber** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Molpadiids; several genera) molpadiid sea cucumber**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Molpadiids; several genera) molpadiid sea cucumber**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Dendrochirotids and Elasipodids; numerous genera) tentacled sea cucumber**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Dendrochirotids and Elasipodids; numerous genera) tentacled sea cucumber** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Dendrochirotids and Elasipodids; numerous genera) tentacled sea cucumber**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Dendrochirotids and Elasipodids; numerous genera) tentacled sea cucumber**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      }
+    ]
+  },
+  {
+    "root": "LMZR",
+    "refers": "SEA FLOWER",
+    "stems": [
+      {
+        "BSC": "(to be) an animal identified as **(all Crinoids except Comatulids; several genera) sea lily**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(all Crinoids except Comatulids; several genera) sea lily** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(all Crinoids except Comatulids; several genera) sea lily**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(all Crinoids except Comatulids; several genera) sea lily**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Comatulids; several genera) feather star**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Comatulids; several genera) feather star** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Comatulids; several genera) feather star**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Comatulids; several genera) feather star**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(genus Xyloplax) sea daisy**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(genus Xyloplax) sea daisy** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(genus Xyloplax) sea daisy**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Xyloplax) sea daisy**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      }
+    ]
+  },
+  {
+    "root": "LMZŘ",
+    "refers": "HEMICHORDATE",
+    "stems": [
+      {
+        "BSC": "(to be) an animal identified as **(Enteropneusta; numerous genera) acorn worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Enteropneusta; numerous genera) acorn worm** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Enteropneusta; numerous genera) acorn worm**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Enteropneusta; numerous genera) acorn worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(genus Cephalodiscus) cephalodiscus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(genus Cephalodiscus) cephalodiscus** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(genus Cephalodiscus) cephalodiscus**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Cephalodiscus) cephalodiscus**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(genus Rhabdopleura) rhabdopleura**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(genus Rhabdopleura) rhabdopleura** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(genus Rhabdopleura) rhabdopleura**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Rhabdopleura) rhabdopleura**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      }
+    ]
+  },
+  {
+    "root": "LMZV",
+    "refers": "XENACOELOMORPH",
+    "stems": [
+      {
+        "BSC": "(to be) an animal identified as **(genus Xenoturbella) xenoturbella**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(genus Xenoturbella) xenoturbella** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(genus Xenoturbella) xenoturbella**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Xenoturbella) xenoturbella**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Acoela; numerous genera) acoel**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Acoela; numerous genera) acoel** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Acoela; numerous genera) acoel**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Acoela; numerous genera) acoel**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      },
+      {
+        "BSC": "(to be) an animal identified as **(Nemertodermatids; several genera) nemertodermatid acoel**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Nemertodermatids; several genera) nemertodermatid acoel** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Nemertodermatids; several genera) nemertodermatid acoel**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Nemertodermatids; several genera) nemertodermatid acoel**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+      }
+    ]
+  }
+]

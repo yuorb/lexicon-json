@@ -1,0 +1,926 @@
+[
+  {
+    "root": "MMSPW",
+    "refers": "autoimmune myocarditis, autoimmune cardiomyopathy, Coxsackie myocarditis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSPY",
+    "refers": "postmyocardial infarction syndrome / Dressler's syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSPL",
+    "refers": "postpericardiotomy syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSPR",
+    "refers": "anti-glomerular basement membrane nephritis / Goodpastures syndrome, glomerulonephritis Type 1",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSKW",
+    "refers": "Autoimmune hepatitis / Lupoid hepatitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSKY",
+    "refers": "Primary biliary cholangitis (PBC)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSKL",
+    "refers": "Primary sclerosing cholangitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSKR",
+    "refers": "Churg-Strauss syndrome / Eosinophilic pneumonia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSTW",
+    "refers": "Antisynthetase syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSTY",
+    "refers": "Alopecia Areata",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSTL",
+    "refers": "Autoimmune Angioedema",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSTR",
+    "refers": "Autoimmune progesterone dermatitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSTŘ",
+    "refers": "Autoimmune urticaria",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMSTH",
+    "refers": "Bullous pemphigoid",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠPW",
+    "refers": "Cicatricial pemphigoid / Benign Mucosal Pemphigoid / Ocular cicatricial pemphigoid",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠPY",
+    "refers": "Dermatitis herpetiformis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠPL",
+    "refers": "Discoid lupus erythematosus",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠPR",
+    "refers": "Epidermolysis bullosa acquisita",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠPŘ",
+    "refers": "Erythema nodosum",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠPH",
+    "refers": "Gestational pemphigoid",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠKW",
+    "refers": "Hidradenitis suppurativa",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠKY",
+    "refers": "Lichen planus",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠKL",
+    "refers": "Lichen sclerosus",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠKR",
+    "refers": "Linear IgA disease (LAD)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠKŘ",
+    "refers": "Morphea",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠKH",
+    "refers": "Pemphigus vulgaris",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠTW",
+    "refers": "Pityriasis lichenoides et varioliformis acuta",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠTY",
+    "refers": "Mucha–Habermann disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠTL",
+    "refers": "Psoriasis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠTR",
+    "refers": "Systemic scleroderma",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŠTŘ",
+    "refers": "Vitiligo",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇPW",
+    "refers": "Addisons Disease / Autoimmune polyendocrine syndrome (APS) type 1 / Whitaker's Syndrome / Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED) / Polyglandular Autoimmune Syndrome 1 (PGAS-1)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇPY",
+    "refers": "Autoimmune polyendocrine syndrome (APS) type 2 / Schmidt syndrome / Polyglandular Autoimmune Syndrome 2 (PGAS-2)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇPL",
+    "refers": "Autoimmune polyendocrine syndrome (APS) type 3",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇPR",
+    "refers": "Autoimmune pancreatitis (AIP)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇPŘ",
+    "refers": "Diabetes mellitus type 1",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇPH",
+    "refers": "Autoimmune thyroiditis / Chronic lymphocytic thyroiditis / Hashimoto's thyroiditis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇKW",
+    "refers": "Ord's thyroiditis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇKY",
+    "refers": "Graves' disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇKL",
+    "refers": "Autoimmune oophoritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇKR",
+    "refers": "Endometriosis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇKŘ",
+    "refers": "Autoimmune orchitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇKH",
+    "refers": "Sjögren syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇTW",
+    "refers": "Autoimmune enteropathy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇTY",
+    "refers": "Coeliac disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇTL",
+    "refers": "Crohn's disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇTR",
+    "refers": "Esophageal achalasia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇTŘ",
+    "refers": "Microscopic colitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMÇTH",
+    "refers": "Ulcerative colitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFPW",
+    "refers": "Antiphospholipid syndrome (APS, APLS) / Hughes syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFPY",
+    "refers": "Aplastic anemia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFPL",
+    "refers": "Autoimmune hemolytic anemia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFPR",
+    "refers": "Autoimmune lymphoproliferative syndrome / Canale-Smith syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFPŘ",
+    "refers": "Autoimmune neutropenia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFPH",
+    "refers": "Autoimmune thrombocytopenic purpura / Idiopathic Thrombocytopenic Purpura (ITP)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFKW",
+    "refers": "Cold agglutinin disease / Autoimmune hemolytic anemia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFKY",
+    "refers": "Essential mixed cryoglobulinemia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFKL",
+    "refers": "Evans syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFKR",
+    "refers": "Pernicious anemia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFKŘ",
+    "refers": "Pure red cell aplasia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFKH",
+    "refers": "Thrombocytopenia / Neonatal thrombocytopenia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFTW",
+    "refers": "Adiposis dolorosa / Dercum's disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFTY",
+    "refers": "Adult-onset Still's disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFTL",
+    "refers": "Ankylosing spondylitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFTR",
+    "refers": "CREST syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFTŘ",
+    "refers": "Drug-induced lupus",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMFTH",
+    "refers": "Enthesitis-related arthritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢPW",
+    "refers": "Eosinophilic fasciitis / Shulman's syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢPY",
+    "refers": "Felty syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢPL",
+    "refers": "IgG4-related autoimmune disease / IgG4-related systemic sclerosing disease / IgG4-associated multifocal systemic fibrosis / IgG4 syndrome / Hyper-IgG4 disease / Systemic IgG4-related plasmacytic syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢPR",
+    "refers": "Juvenile arthritis / Juvenile rheumatoid arthritis / Juvenile idiopathic arthritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢPŘ",
+    "refers": "Lyme disease (chronic)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢKW",
+    "refers": "Mixed connective tissue disease (MCTD)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢKY",
+    "refers": "Palindromic rheumatism / Hench-Rosenberg syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢKL",
+    "refers": "Parry–Romberg syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢKR",
+    "refers": "Parsonage–Turner syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢKŘ",
+    "refers": "Psoriatic arthritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢTW",
+    "refers": "Reactive arthritis / Reiter's syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢTY",
+    "refers": "Relapsing polychondritis / Atrophic polychondritis / systemic chondromalacia / chronic atrophic polychondritis / Meyenburg-Altherr-Uehlinger syndrome / generalized chondromalacia / systemic chondromalacia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢTL",
+    "refers": "Retroperitoneal fibrosis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢTR",
+    "refers": "Rheumatic fever",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMŢTŘ",
+    "refers": "Rheumatoid arthritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZPW",
+    "refers": "Sarcoidosis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZPY",
+    "refers": "Schnitzler syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZPL",
+    "refers": "Systemic lupus erythematosus (SLE) / Lupus",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZPR",
+    "refers": "Undifferentiated connective tissue disease (UCTD) / Latent lupus, incomplete lupus",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZKW",
+    "refers": "Dermatomyositis / Juvenile dermatomyositis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZKY",
+    "refers": "Fibromyalgia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZKL",
+    "refers": "Inclusion body myositis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZKR",
+    "refers": "Myositis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZTW",
+    "refers": "Myasthenia gravis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZTY",
+    "refers": "Neuromyotonia / Isaacs' syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZTL",
+    "refers": "Paraneoplastic cerebellar degeneration",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZTR",
+    "refers": "Polymyositis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSPW",
+    "refers": "Acute disseminated encephalomyelitis (ADEM) / Perivenous encephalomyelitis / Acute hemorrhagic leukoencephalitis (AHL, AHLE) / Acute necrotizing encephalopathy (ANE) / Acute hemorrhagic encephalomyelitis (AHEM) / Acute necrotizing hemorrhagic leukoencephalitis (ANHLE) / Weston-Hurst syndrome /Hurst's disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSPY",
+    "refers": "Acute motor axonal neuropathy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSPL",
+    "refers": "Anti-N-Methyl-D-Aspartate (Anti-NMDA) Receptor Encephalitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSPR",
+    "refers": "Balo concentric sclerosis / Balo disease / Schilders disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSPŘ",
+    "refers": "Bickerstaff's encephalitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSPH",
+    "refers": "Chronic inflammatory demyelinating polyneuropathy / Relapsing polyneuropathy (CRP) / chronic inflammatory demyelinating polyradiculoneuropathy / Chronic inflammatory demyelinating polyneuritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSKW",
+    "refers": "Guillain–Barré syndrome / Miller–Fisher syndrome / Landry's paralysis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSKY",
+    "refers": "Hashimoto's encephalopathy / Steroid-responsive encephalopathy associated with autoimmune thyroiditis (SREAT) / Nonvasculitic autoimmune meningoencephalitis (NAIM) / Encephalopathy Associated with Autoimmune Thyroid Disease (EAATD)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSKL",
+    "refers": "Idiopathic inflammatory demyelinating diseases",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSKR",
+    "refers": "Lambert–Eaton myasthenic syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSKŘ",
+    "refers": "Multiple sclerosis, pattern II / Primary progressive multiple sclerosis / Relapsing-remitting multiple sclerosis / disseminated sclerosis / encephalomyelitis disseminata",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSKH",
+    "refers": "Oshtoran syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSTW",
+    "refers": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus (PANDAS)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSTY",
+    "refers": "Progressive inflammatory neuropathy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSTL",
+    "refers": "Restless legs syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSTR",
+    "refers": "Stiff-person syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSTŘ",
+    "refers": "Sydenham's chorea",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNSTH",
+    "refers": "Transverse myelitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠPW",
+    "refers": "Autoimmune retinopathy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠPY",
+    "refers": "Autoimmune uveitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠPL",
+    "refers": "Cogan syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠPR",
+    "refers": "Glaucoma",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠPŘ",
+    "refers": "Graves' ophthalmopathy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠKW",
+    "refers": "Intermediate uveitis / Pars planitis / peripheral uveitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠKY",
+    "refers": "Ligneous conjunctivitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠKL",
+    "refers": "Mooren's ulcer",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠKR",
+    "refers": "Neuromyelitis optica / Devic's disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠKŘ",
+    "refers": "Opsoclonus myoclonus syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠTW",
+    "refers": "Optic neuritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠTY",
+    "refers": "Scleritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠTL",
+    "refers": "Susac's syndrome / Retinocochleocerebral vasculopathy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠTR",
+    "refers": "Sympathetic ophthalmia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠTŘ",
+    "refers": "Tolosa–Hunt syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠPH",
+    "refers": "Autoimmune inner ear disease (AIED)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŠKH",
+    "refers": "Ménière's disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇPW",
+    "refers": "Behçet's disease, Hughes–Stovin syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇPY",
+    "refers": "Eosinophilic granulomatosis with polyangiitis (EGPA)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇPL",
+    "refers": "Giant cell arteritis / Cranial arteritis / temporal arteritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇPR",
+    "refers": "Granulomatosis with polyangiitis (GPA)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇPŘ",
+    "refers": "IgA vasculitis (IgAV) / Anaphylactoid purpura / Henoch-Schonlein purpura / purpura rheumatica / Schönlein–Henoch purpura",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇKW",
+    "refers": "Kawasaki disease / Kawasaki syndrome / lymph node syndrome / mucocutaneous lymph node syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇKY",
+    "refers": "Leukocytoclastic vasculitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇKL",
+    "refers": "Lupus vasculitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇKR",
+    "refers": "Rheumatoid vasculitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇKŘ",
+    "refers": "Microscopic polyangiitis (MPA) / Microscopic polyarteritis / microscopic polyarteritis nodosa",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇTW",
+    "refers": "Podoconiosis / non-filarial elephantiasis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇTY",
+    "refers": "Polyarteritis nodosa (PAN) / Panarteritis nodosa / periarteritis nodosa / Kussmaul disease / Kussmaul–Maier disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇTL",
+    "refers": "Polymyalgia rheumatica",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇTR",
+    "refers": "Urticarial vasculitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNÇTŘ",
+    "refers": "Vasculitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢPW",
+    "refers": "Chronic fatigue syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢPY",
+    "refers": "Complex regional pain syndrome / Amplified Musculoskeletal Pain Syndrome / Reflex Neurovascular Dystrophy / Reflex sympathetic dystrophy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢPL",
+    "refers": "Eosinophilic esophagitis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢPR",
+    "refers": "Gastritis",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢPŘ",
+    "refers": "Interstitial lung disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢKW",
+    "refers": "POEMS syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢKY",
+    "refers": "Raynaud's phenomenon",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢKL",
+    "refers": "Primary immunodeficiency",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢKR",
+    "refers": "Pyoderma gangrenosum",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNŢKŘ",
+    "refers": "IPEX syndrome / X-linked polyendocrinopathy / immunodeficiency and diarrhea-syndrome (XLAAD)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "root": "NŢ",
+    "refers": "BIRTH / BE BORN / GESTATION / CONCEPTION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of birth; to give birth or be born (i.e., the leaving of a child from their mother’s womb to enter the world, with no implied perspective as to it being an act/state of the mother or the child)",
+        "CTE": "(to be) a state/act of being born [from the child’s perspective]",
+        "CSV": "(to be) the physical act of giving birth [from the perspective of the mother]",
+        "OBJ": "(to be) the newborn infant"
+      },
+      "(to be) a state of maternal gestation; to gestate, carry a developing fetus within one’s womb",
+      "(to be) an act of biological conception; to conceive a zygote"
+    ]
+  },
+  {
+    "root": "Š",
+    "refers": "SEX",
+    "stems": [
+      {
+        "BSC": "(be/manifest) a particular sex of an organism that is normally one of two sexes (e.g., chordates) [both the existence and the clinical/biological determination/identification thereof]",
+        "CTE": "(be) a particular biological sex",
+        "CSV": "(be) an act/process/state of clinical/biological determination/identification of sex; to clinically/biologically determine a particular sex",
+        "OBJ": "(to be) that which biologically determines or by which one identifies a particular sex"
+      },
+      "(to be/manifest) the female sex of an organism that is normally one of two biological sexes",
+      "(to be/manifest) the male sex of an organism that is normally one of two biological sexes"
+    ],
+    "notes":
+      " (i.e., genetically-based, the normally 2-way distinction in higher living organisms for reproductive/procreative purposes)\n\nAsociated Affix: SEX"
+  },
+  {
+    "root": "ŽF",
+    "refers": "HEALTHINESS / PHYSICAL CONDITION / FITNESS / SANITY",
+    "stems": [
+      {
+        "BSC": "(to be) a state of physical and mental healthiness (i.e., freedom from illness or malady)",
+        "CTE": "(to be) the state of healthiness itself; good health",
+        "CSV": "(to be) the state of living and going about one’s desired normal life due to good health; to live in a state of healthiness, be healthy",
+        "OBJ": "(to be) what one does to stay healthy; a healthy living praxis (e.g., diet, exercise, avoiding stress, prophylactic medication, healthy lifestyle, etc.) "
+      },
+      "(to be) one’s state of mental health",
+      "(to be) one’s physical condition or state of health/fitness (i.e., the extent to which one is sufficiently healthy/fit to carry out specialized physical tasks or feats of physical prowess/stress)"
+    ],
+    "notes": "Associated Affix: HEA"
+  },
+  {
+    "root": "MT",
+    "refers": "ONE’S AGE / LIFE-STAGE OR PHASE",
+    "stems": [
+      {
+        "BSC": "(to be) a state of aging; to age, get older",
+        "CTE": "(to be) a state of being/having a certain age",
+        "CSV": "(to be) the state/process of aging, getting older; to do/feel/notice/observe something that manifests/demonstrates one is aging/getting older",
+        "OBJ": "(to be) one’s age (i.e., the amount of elapsed time since an entity came into being)"
+      },
+      "(to be) a (developmental) stage/phase in one’s life (i.e., a period of time during the life of an entity where it displays/manifests certain characteristics, activities, ideas, values, attributes, etc. specific to that period of time)",
+      "(to be) a state/act of celebration/recognition/acknowledgement of one reaching a particular age; a birthday; to celebrate/recognize/acknowledge one’s birthday (i.e., anniversary of one’s birth)"
+    ]
+  },
+  {
+    "root": "ḐḐ",
+    "refers": "SLEEP / UNCONSCIOUSNESS / COMA",
+    "stems": [
+      {
+        "BSC": "(to be) a state of sleep, being asleep; (be) an act of putting to sleep; to sleep, be asleep",
+        "CTE": "(to be) the state of sleeping",
+        "CSV": "(to be) a state/act of falling asleep; to fall asleep, put to sleep",
+        "OBJ": "(to be) the quality/duration/description of one’s sleep; how one sleeps"
+      },
+      "(to be) a state of unconsciousness, act of rendering an entity unconscious; to be/render unconscious",
+      "(to be) a state of coma; act of putting someone into a coma; to be in a coma, to put into/induce a coma"
+    ]
+  },
+  {
+    "root": "ĻF",
+    "refers": "WAKEFULNESS / CONSCIOUSNESS",
+    "stems": [
+      {
+        "BSC": "(to be) a state of being awake, being fully conscious",
+        "CTE": "(to be) the state of wakefulness/consciousness",
+        "CSV": "(to be) a state/act of doing something that demonstrates one is awake/conscious",
+        "OBJ": "(to be) the level of awareness of oneself and one’s surroundings one has while awake"
+      },
+      "(to be) a state/process of waking (up); to transition from sleep to wakefulness, to “come about”, to be waking up, to be regaining consciousness [CPT version = to regain consciousness, to come fully awake]",
+      "(to be) a state of dozing or being half-awake; to doze, to be half-asleep, half- awake, to be in a state of half-sleep"
+    ]
+  },
+  {
+    "root": "MR",
+    "refers": "DEATH",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of dying; to die/perish",
+        "CTE": "(to be) the state of being dead",
+        "CSV": "(to be) an act of dying; to undergo the act of passing from life to death",
+        "OBJ": "(to be) the cause/manner of one’s death "
+      },
+      "(to be) a state/process of approaching death, to be dying, to have a fatal condition, to be in a fatal state (i.e., to be in a terminal state where death is immanent, e.g., from a terminal illness, starvation, a mortal wound, etc.)",
+      "(to be) a state of mortality; be mortal (i.e., certain that one will eventually die)"
+    ]
+  },
+  {
+    "root": "LM",
+    "refers": "DEGREE OF BODILY STRENGTH / ENERGY / VIGOR",
+    "stems": [
+      {
+        "BSC": "(to be/manifest a) degree of brute bodily strength; to manifest/apply a particular degree of strength ( = available bodily dynamic energy) — [both the quality and the entity manifesting such]",
+        "CTE": "(to be) something with a degree of brute bodily strength",
+        "CSV": "(to be) a degree of brute bodily strength",
+        "OBJ": "(to be) an entity/party impacted/affected by one’s degree of brute bodily strength"
+      },
+      "(to be/manifest a) degree of bodily energy/vigor/vitality; “feel weak/strong”",
+      "(to be/manifest a) degree of stamina"
+    ],
+    "notes": "Affix: STR (use SUF/EXN/EXD, etc.)"
+  },
+  {
+    "root": "SM",
+    "refers":
+      "DEGREE OF BODILY APPLIED ENERGY / POWER / FORCE",
+    "stems": [
+      {
+        "BSC": "(to be/manifest a) degree of applied physical force — [both the quality and the entity manifesting such]",
+        "CTE": "(to be) something with a degree of applied physical force",
+        "CSV": "(to be) a degree of applied physical force",
+        "OBJ": "(to be) an entity/party impacted/affected by one’s degree of applied physical force"
+      },
+      "(to be/manifest a) degree of energy",
+      "(to be/manifest a) degree of potency, “might” ( = potential strength/power to cause or accomplish something)"
+    ],
+    "notes": "Affix: FRC (use SUF/EXN/EXD, etc.)"
+  },
+  {
+    "root": "ẒŇ",
+    "refers": "DEGREE OF PHYSICAL STAMINA / ENDURANCE / RESISTANCE TO PAIN",
+    "stems": [
+      {
+        "BSC": "(to be) a degree of brute bodily/physical stamina/endurance",
+        "CTE": "(to be) one’s physical stamina as a faculty",
+        "CSV": "(to be) an act of maintaining physical stamina",
+        "OBJ": "(to be) what one is/must have stamina/endurance against or for"
+      },
+      "(to be) a degree of resistance to physical pain; display/manifest a degree of resistance to physical pain, endure physical pain",
+      "(to be) a degree of physical hardship; undergo physical hardship"
+    ],
+    "notes": "(use with SUF/EXN affixes)"
+  },
+  {
+    "root": "JMW",
+    "refers": "HAND AS FLAT RIGID “BLADE”",
+    "stems": [
+      {
+        "BSC": "(to be) a hand as flat rigid “blade” for use of outside “edge” of rigidly-held hand (as in a karate chop)",
+        "CTE": "(to be) the physical process of chopping with one’s hand",
+        "CSV": "(to be) a closed fist used in chopping with one’s hand",
+        "OBJ": "(to be) the blow/impact delivered from chopping with one’s hand "
+      },
+      "(to be) a hand as flat rigid “blade” for use of fingers used “head-on” for pressing/jabbing/poking",
+      "(to be) a hand held flat and rigid for use in covering something or stopping something from escaping (e.g., from a hole or tear)"
+    ]
+  },
+  {
+    "root": "JMY",
+    "refers": "CLOSED FIST",
+    "stems": [
+      {
+        "BSC": "(to be) a closed fist for pounding; use outside surface of closed fist in hammer-like manner for pounding",
+        "CTE": "(to be) the physical process of pounding with one’s fist",
+        "CSV": "(to be) a closed fist used in pounding",
+        "OBJ": "(to be) the blow/impact delivered from a pounding fist"
+      },
+      "(to be) a closed fist for hitting; use front of fist (i.e, the surface created by the dorsal side of one’s fingers) in cudgel-like manner for hitting",
+      "(to be) a closed fist for knocking; use knuckles of fist for knocking"
+    ]
+  },
+  {
+    "root": "ŇP",
+    "refers": "COMMON HUMAN BODILY POSITION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of standing upright/erect; to (be) stand(ing) upright, stand erect",
+        "CTE": "(to be) a state of being standing (upright/erect)",
+        "CSV": "(to be) a physical act of standing up; to stand up, to get up on one’s feet",
+        "OBJ": "(to be) what one stands/is standing upon or within"
+      },
+      "(to be) a state/act of sitting, being seated, being in a sitting/seated position; to sit, be seated, be in sitting/seated position, to be sitting down",
+      "(to be) a state of lying prostrate; in prostrate postion [whether prone, supine, or laterally recumbent]; to lie prostrate, to be lying down"
+    ]
+  },
+  {
+    "root": "ŇPY",
+    "refers": "RECUMBENT BODILY POSITION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of lying in laterally recumbent position; to lie with one’s body in a laterally position position [i.e., on one’s side]",
+        "CTE": "(to be) a state of being in a laterally recumbent position",
+        "CSV": "(to be) a physical act of lying down on one’s side",
+        "OBJ": "(to be) what one is lying (down) on"
+      },
+      "(to be) a state/act of lying prone; to lie in a prone position [i.e., face-down on one’s stomach]",
+      "(to be) a state of lying in a supine position; to lie in a supine position [i.e., flat on one’s back]"
+    ]
+  },
+  {
+    "root": "ŇPW",
+    "refers": "LESS COMMON HUMAN BODILY POSITIONS",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of crouching (down), being in a crouch(ed position); to be crouched (down), be in a crouched/crouching position",
+        "CTE": "(to be) a state of being in a crouched/crouching position",
+        "CSV": "(to be) a physical act of crouching down; to crouch down, to get down into a crouched/crouching position",
+        "OBJ": "(to be) what one crouches upon or within "
+      },
+      "(to be) a state/act of (being in a) kneeling (position); to kneel, be in a kneeling position, be on one’s knees",
+      "(to be) a state,act of being curled up in to a (quasi-)fetal position; to (be) curl(ed) up into a (quasi-)fetal position"
+    ]
+  }
+]

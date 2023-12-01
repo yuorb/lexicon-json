@@ -1,0 +1,326 @@
+[
+  {
+    "root": "MMZBW",
+    "refers": "intellectual disability / intellectual developmental disorder / global development delay",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZBY",
+    "refers": "autism spectrum disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZBL",
+    "refers": "attention-deficit hyperactivity disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZBR",
+    "refers": "bipolar disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZBŘ",
+    "refers": "mania",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZGW",
+    "refers": "monopolar depression, depressive disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZGY",
+    "refers": "generalized anxiety disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZGL",
+    "refers": "social anxiety disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZGR",
+    "refers": "panic disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZGŘ",
+    "refers": "separation anxiety disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZDW",
+    "refers": "acute stress disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZDY",
+    "refers": "adjustment disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZDL",
+    "refers": "PTSD",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZDR",
+    "refers": "reactive adjustment disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZDŘ",
+    "refers": "dissociative amnesia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZBW",
+    "refers": "dissociative identity disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZBY",
+    "refers": "depersonalization/derealization disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZBL",
+    "refers": "somatic symptom disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZBR",
+    "refers": "conversion disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZBŘ",
+    "refers": "factitious disorder (e.g., Munchausen syndrome)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZGW",
+    "refers": "anorexia nervosa",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZGY",
+    "refers": "bulimia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZGL",
+    "refers": "rumination disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZGR",
+    "refers": "pica",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZGŘ",
+    "refers": "binge-eating disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZDW",
+    "refers": "prasomnia (e.g., sleepwalking, night terrors)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZDY",
+    "refers": "kleptomania",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZDL",
+    "refers": "pyromania",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZDR",
+    "refers": "intermittent explosive disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZDŘ",
+    "refers": "conduct disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZBW",
+    "refers": "oppositional defiant disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZBY",
+    "refers": "substance addiction",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZBL",
+    "refers": "gambling disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZBR",
+    "refers": "sex addiction",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZBŘ",
+    "refers": "delirium",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZGW",
+    "refers": "neurocognitive disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZGY",
+    "refers": "schizophrenia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZGL",
+    "refers": "catatonia",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZGR",
+    "refers": "obsessive-compulsive disorder (OCD)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZGŘ",
+    "refers": "body-dysmorphic disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZDW",
+    "refers": "hoarding disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZDY",
+    "refers": "excoriation disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZDL",
+    "refers": "personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZDR",
+    "refers": "antisocial personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZDŘ",
+    "refers": "avoidant personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZVL",
+    "refers": "borderline personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZVR",
+    "refers": "dependent personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MMZVŘ",
+    "refers": "histrionic personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZVL",
+    "refers": "narcissistic personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZVR",
+    "refers": "obsessive-compulsive personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "NNZVŘ",
+    "refers": "paranoid personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZVL",
+    "refers": "schizoid personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZVR",
+    "refers": "schizotypal personality disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇŇZVŘ",
+    "refers": "Tourette syndrome",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  }
+]

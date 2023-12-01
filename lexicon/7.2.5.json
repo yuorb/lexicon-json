@@ -1,0 +1,38 @@
+[
+  {
+    "root": "ŇZT",
+    "refers": "nutrient deficiency, malnutrition",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇZTW",
+    "refers": "scurvy",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇZTY",
+    "refers": "rickets",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇZTL",
+    "refers": "diabetes Type 2",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇZTR",
+    "refers": "electrolyte imbalance",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇZTŘ",
+    "refers": "ADH imbalance",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  }
+]
