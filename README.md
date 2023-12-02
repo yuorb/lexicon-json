@@ -39,19 +39,21 @@ type Lexicon = Array<Root>;
 
 ## Progress
 
-|                           | Roots |
-| ------------------------- | ----- |
-| Chapter 1                 | ✅    |
-| Chapter 2                 | ✅    |
-| Chapter 3                 | ✅    |
-| Chapter 4                 | ✅    |
-| Chapter 5                 | ✅    |
-| Chapter 6.0               | ✅    |
-| Chapter 6.1 (P261 - P268) |       |
-| Chapter 6.2 (P269 - P281) |       |
-| Chapter 6.3 (P281 - P295) |       |
-| Chapter 6.4 (P296 - P319) |       |
-| Chapter 7                 | ✅    |
+### Roots
+
+|           | Roots |
+| --------- | ----- |
+| Chapter 1 | ✅    |
+| Chapter 2 | ✅    |
+| Chapter 3 | ✅    |
+| Chapter 4 | ✅    |
+| Chapter 5 | ✅    |
+| Chapter 6 | ✅    |
+| Chapter 7 | ✅    |
+
+### Affixes
+
+Planned after [Enthrirhs](https://github.com/yuorb/enthrirhs) released v0.2.0.
 
 ## Scripts
 
