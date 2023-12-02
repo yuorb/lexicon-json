@@ -123,25 +123,25 @@
   },
   {
     "root": "PÇW",
-    "refers": "common cold/nasal congestion/pneumonia",
+    "refers": "common cold / nasal congestion / pneumonia",
     "stems": ["common cold", "nasal congestion", "pneumonia"],
     "see": "ÇK"
   },
   {
     "root": "NŢM",
-    "refers": "inflammation/sore throat/fever",
+    "refers": "inflammation / sore throat / fever",
     "stems": ["inflammation, immune reaction", "sore throat", "fever"],
     "see": "ÇK"
   },
   {
     "root": "VMW",
-    "refers": "nausea/vomitting/diarrhea",
+    "refers": "nausea / vomitting / diarrhea",
     "stems": ["nausea, stomach ache", "vomiting, to vomit", "diarrhea"],
     "see": "ÇK"
   },
   {
     "root": "DPH",
-    "refers": "shortness of breath/asthma/sleep apnea",
+    "refers": "shortness of breath / asthma / sleep apnea",
     "stems": [
       "shortness of breath, difficulty breathing",
       "asthma",
@@ -151,13 +151,13 @@
   },
   {
     "root": "ŇMW",
-    "refers": "anemia/hemochromatosis/hypercholesterolemia",
+    "refers": "anemia / hemochromatosis / hypercholesterolemia",
     "stems": ["anemia", "hemochromatosis", "hypercholesterolemia"],
     "see": "ÇK"
   },
   {
     "root": "ŇMY",
-    "refers": "ischemia/hemorrhage/blood clot",
+    "refers": "ischemia / hemorrhage / blood clot",
     "stems": [
       "ischemia",
       "hemorrhage, bruising, hematoma",
@@ -167,13 +167,13 @@
   },
   {
     "root": "ŇNW",
-    "refers": "hypertension/aneurysm/venous thromboembolism",
+    "refers": "hypertension / aneurysm / venous thromboembolism",
     "stems": ["hypertension", "aneurysm", "venous thromboembolism"],
     "see": "ÇK"
   },
   {
     "root": "ŇNY",
-    "refers": "cardiac arrhythmia/fibrillation/palpitation",
+    "refers": "cardiac arrhythmia / fibrillation / palpitation",
     "stems": [
       "cardiac arrhythmia",
       "cardiac fibrillation, flutter",
@@ -183,7 +183,7 @@
   },
   {
     "root": "ŠKM",
-    "refers": "syncope/altitude sickness/nitrogen narcosis",
+    "refers": "syncope / altitude sickness / nitrogen narcosis",
     "stems": [
       "syncope (fainting)",
       "altitude sickness",
@@ -193,19 +193,19 @@
   },
   {
     "root": "ŠKN",
-    "refers": "dehydration/heat exhaustion/stroke",
+    "refers": "dehydration / heat exhaustion / stroke",
     "stems": ["dehydration", "heat exhaustion", "heat stroke / sunstroke"],
     "see": "ÇK"
   },
   {
     "root": "LCR",
-    "refers": "GI upset/ulcer/diverticulitis",
+    "refers": "GI upset / ulcer / diverticulitis",
     "stems": ["gastro-intestinal upset", "ulcer", "diverticulitis"],
     "see": "ÇK"
   },
   {
     "root": "JDŘ",
-    "refers": "organ failure/arrest/hyperactivity",
+    "refers": "organ failure / arrest / hyperactivity",
     "stems": [
       "organ failure (i.e., insufficiency)",
       "organ arrest (i.e., complete shutdown)",
@@ -215,19 +215,19 @@
   },
   {
     "root": "RCL",
-    "refers": "osteoporosis/osteopenia/osteomalacia",
+    "refers": "osteoporosis / osteopenia / osteomalacia",
     "stems": ["osteoporosis", "osteopenia", "osteomalacia"],
     "see": "ÇK"
   },
   {
     "root": "ĻPL",
-    "refers": "spasm/tremor/convulsion",
+    "refers": "spasm / tremor / convulsion",
     "stems": ["spasm", "tremor", "convulsion => tonic-clonic seizure"],
     "see": "ÇK"
   },
   {
     "root": "ĻPR",
-    "refers": "trance/seizure/dissociation",
+    "refers": "trance / seizure / dissociation",
     "stems": [
       "spell, trance",
       "non-convulsive seizure, absence seizure",
@@ -237,7 +237,7 @@
   },
   {
     "root": "PSX",
-    "refers": "lethargy/listlessness/palpitation",
+    "refers": "lethargy / listlessness / palpitation",
     "stems": [
       "lethargy, torpor",
       "listlessness, inability to come to full alertness",
@@ -247,13 +247,13 @@
   },
   {
     "root": "LKSX",
-    "refers": "muscle weakness/cramping",
+    "refers": "muscle weakness / cramping",
     "stems": ["muscle weakness", "muscle cramping", "abdominal cramping"],
     "see": "ÇK"
   },
   {
     "root": "RPSX",
-    "refers": "calcification/ossification/fibrosis",
+    "refers": "calcification / ossification / fibrosis",
     "stems": [
       "calcification, calciferous hardening",
       "ossification, hardening",
@@ -273,7 +273,7 @@
   },
   {
     "root": "SLY",
-    "refers": "paralysis/plegia",
+    "refers": "paralysis / plegia",
     "stems": [
       "paralysis, monoplegia",
       "hemiplegia, paraplegia",
@@ -283,13 +283,13 @@
   },
   {
     "root": "ĻNW",
-    "refers": "paresthesia/dyskinesia/locked-in syndrome",
+    "refers": "paresthesia / dyskinesia / locked-in syndrome",
     "stems": ["paresthesia", "dyskinesia", "locked-in syndrome"],
     "see": "ÇK"
   },
   {
     "root": "VPĻ",
-    "refers": "bone fracture/concussion/locked retinal detachment",
+    "refers": "bone fracture / concussion / locked retinal detachment",
     "stems": [
       "bone fracture",
       "concussion / traumatic brain injury",

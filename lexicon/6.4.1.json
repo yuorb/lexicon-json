@@ -1,0 +1,633 @@
+[
+  {
+    "root": "VR",
+    "refers": "0 / Zero / NULL",
+    "stem": [
+      {
+        "BSC": "(to be) zero as the empty-set / a set having no members; to have no quantity or amount",
+        "CTE": "(to be) a party/entity of whom/which there are no members",
+        "CSV": "(to be) a set having no members; to have no (i.e., zero) members in a set",
+        "OBJ": "(to be) a null value / a value for a parameter that is undefined and/or for which the expected or standard value(s) is/are inapplicable"
+      },
+      {
+        "BSC": "(to be) the zero-dimension; to have geometrically no length, area or volume",
+        "CTE": "(to be) the state of having no substance/tangibility due to being zero-dimensional",
+        "CSV": "(to be) the process/act of determining/identifying zero-dimensionality",
+        "OBJ": "(to be) an entity having zero-dimensionality; (to be) a Euclidean point; to have geometrically no length, area or volume, i.e., to be a Euclidean point"
+      },
+      {
+        "BSC": "(to be) the baseline “zero”-state or null-state in a sequence, hierarchy, gradient, pattern, etc.",
+        "CTE": "(to be) the state of being the baseline “zero”-state or null-state",
+        "CSV": "(to be) a process which determines/identifies an entity’s being the baseline “zero”-state or null-state",
+        "OBJ": "(to be) the entity/party in the baseline “zero”-state or null- state in a sequence, hierarchy, gradient, pattern, etc."
+      }
+    ],
+    "notes": "Associated Affix: XX0"
+  },
+  {
+    "root": "LL",
+    "refers": "1 / ONE / UNITY",
+    "stem": [
+      {
+        "BSC": "(to be) a set or group of one; to have one member",
+        "CTE": "(to be) a party/entity of whom/which there is only one",
+        "CSV": "(to be) a process which determines/identifies a set as being one in number; to count out to one; to determine that there is only one of something",
+        "OBJ": "[same as CTE]"
+      },
+      {
+        "BSC": "(to be) something (quasi-)indivisible, (quasi-)inseparable, unified, unitary, united, a union, a unit",
+        "CTE": "(to be) the state of having only one functional aspect/facet; to function/manifest as a unified whole or unit",
+        "CSV": "(to be) a process which determines/identifies an entity as having only one functional aspect/facet; to determine that an entity is a (quasi-)indivisible whole/unit",
+        "OBJ": "(to be) the party/entity having only one functional aspect/facet; to be an entity which functions/manifests as single unit"
+      },
+      {
+        "BSC": "(to be) the first entity/party in a group or sequence",
+        "CTE": "(to be) the state of being first in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be first",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is first"
+      }
+    ],
+    "notes": "Associated Affix: XX1 (-zc)"
+  },
+  {
+    "root": "KS",
+    "refers": "2 / TWO / BINARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **2** entities; (to be) a **2**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **2**",
+        "CSV": "(to be) a process which determines/identifies a set as being **2** in number; to count out to **2**; to determine that there are **2** of something",
+        "OBJ": "(to be) one in a group or sequence of **2**; to be one of **2**"
+      },
+      {
+        "BSC": "(to be) something manifesting **2** aspects / facets; to manifest **2**-ariness; be **2**-ary",
+        "CTE": "(to be) the state of having **2** aspects/facets; to be **2**-ary; to be **2**-fold or **2**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **2** aspects/facets; identify/determine that something is **2**-ary/**2**-fold/**2**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **2**-ary, **2**-fold, **2**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **2**nd entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **2**nd in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **2**nd",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **2**nd"
+      }
+    ],
+    "notes": "Associated Affix: XX2"
+  },
+  {
+    "root": "Z",
+    "refers": "3 / THREE / TERNARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **3** entities; (to be) a **3**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **3**",
+        "CSV": "(to be) a process which determines/identifies a set as being **3** in number; to count out to **3**; to determine that there are **3** of something",
+        "OBJ": "(to be) one in a group or sequence of **3**; to be one of **3**"
+      },
+      {
+        "BSC": "(to be) something manifesting **3** aspects / facets; to manifest **3**-ariness; be **3**-ary",
+        "CTE": "(to be) the state of having **3** aspects/facets; to be **3**-ary; to be **3**-fold or **3**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **3** aspects/facets; identify/determine that something is **3**-ary/**3**-fold/**3**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **3**-ary, **3**-fold, **3**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **3**rd entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **3**rd in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **3**rd",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **3**rd"
+      }
+    ],
+    "notes": "Associated Affix: XX3"
+  },
+  {
+    "root": "PŠ",
+    "refers": "4 / FOUR / QUATERNARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **4** entities; (to be) a **4**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **4**",
+        "CSV": "(to be) a process which determines/identifies a set as being **4** in number; to count out to **4**; to determine that there are **4** of something",
+        "OBJ": "(to be) one in a group or sequence of **4**; to be one of **4**"
+      },
+      {
+        "BSC": "(to be) something manifesting **4** aspects / facets; to manifest **4**-ariness; be **4**-ary",
+        "CTE": "(to be) the state of having **4** aspects/facets; to be **4**-ary; to be **4**-fold or **4**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **4** aspects/facets; identify/determine that something is **4**-ary/**4**-fold/**4**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **4**-ary, **4**-fold, **4**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **4**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **4**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **4**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **4**th"
+      }
+    ],
+    "notes": "Associated Affix: XX4"
+  },
+  {
+    "root": "ST",
+    "refers": "5 / FIVE / QUINARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **5** entities; (to be) a **5**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **5**",
+        "CSV": "(to be) a process which determines/identifies a set as being **5** in number; to count out to **5**; to determine that there are **5** of something",
+        "OBJ": "(to be) one in a group or sequence of **5**; to be one of **5**"
+      },
+      {
+        "BSC": "(to be) something manifesting **5** aspects / facets; to manifest **5**-ariness; be **5**-ary",
+        "CTE": "(to be) the state of having **5** aspects/facets; to be **5**-ary; to be **5**-fold or **5**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **5** aspects/facets; identify/determine that something is **5**-ary/**5**-fold/**5**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **5**-ary, **5**-fold, **5**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **5**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **5**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **5**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **5**th"
+      }
+    ],
+    "notes": "Associated Affix: XX5"
+  },
+  {
+    "root": "CP",
+    "refers": "6 / SIX / SENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **6** entities; (to be) a **6**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **6**",
+        "CSV": "(to be) a process which determines/identifies a set as being **6** in number; to count out to **6**; to determine that there are **6** of something",
+        "OBJ": "(to be) one in a group or sequence of **6**; to be one of **6**"
+      },
+      {
+        "BSC": "(to be) something manifesting **6** aspects / facets; to manifest **6**-ariness; be **6**-ary",
+        "CTE": "(to be) the state of having **6** aspects/facets; to be **6**-ary; to be **6**-fold or **6**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **6** aspects/facets; identify/determine that something is **6**-ary/**6**-fold/**6**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **6**-ary, **6**-fold, **6**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **6**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **6**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **6**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **6**th"
+      }
+    ],
+    "notes": "Associated Affix: XX6"
+  },
+  {
+    "root": "NS",
+    "refers": "7 / SEVEN / SEPTENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **7** entities; (to be) a **7**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **7**",
+        "CSV": "(to be) a process which determines/identifies a set as being **7** in number; to count out to **7**; to determine that there are **7** of something",
+        "OBJ": "(to be) one in a group or sequence of **7**; to be one of **7**"
+      },
+      {
+        "BSC": "(to be) something manifesting **7** aspects / facets; to manifest **7**-ariness; be **7**-ary",
+        "CTE": "(to be) the state of having **7** aspects/facets; to be **7**-ary; to be **7**-fold or **7**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **7** aspects/facets; identify/determine that something is **7**-ary/**7**-fold/**7**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **7**-ary, **7**-fold, **7**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **7**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **7**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **7**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **7**th"
+      }
+    ],
+    "notes": "Associated Affix: XX7"
+  },
+  {
+    "root": "ČK",
+    "refers": "8 / EIGHT / OCTONARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **8** entities; (to be) a **8**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **8**",
+        "CSV": "(to be) a process which determines/identifies a set as being **8** in number; to count out to **8**; to determine that there are **8** of something",
+        "OBJ": "(to be) one in a group or sequence of **8**; to be one of **8**"
+      },
+      {
+        "BSC": "(to be) something manifesting **8** aspects / facets; to manifest **8**-ariness; be **8**-ary",
+        "CTE": "(to be) the state of having **8** aspects/facets; to be **8**-ary; to be **8**-fold or **8**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **8** aspects/facets; identify/determine that something is **8**-ary/**8**-fold/**8**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **8**-ary, **8**-fold, **8**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **8**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **8**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **8**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **8**th"
+      }
+    ],
+    "notes": "Associated Affix: XX8"
+  },
+  {
+    "root": "LẒ",
+    "refers": "9 / NINE / NOVENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **9** entities; (to be) a **9**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **9**",
+        "CSV": "(to be) a process which determines/identifies a set as being **9** in number; to count out to **9**; to determine that there are **9** of something",
+        "OBJ": "(to be) one in a group or sequence of **9**; to be one of **9**"
+      },
+      {
+        "BSC": "(to be) something manifesting **9** aspects / facets; to manifest **9**-ariness; be **9**-ary",
+        "CTE": "(to be) the state of having **9** aspects/facets; to be **9**-ary; to be **9**-fold or **9**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **9** aspects/facets; identify/determine that something is **9**-ary/**9**-fold/**9**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **9**-ary, **9**-fold, **9**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **9**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **9**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **9**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **9**th"
+      }
+    ],
+    "notes": "Associated Affix: XX9"
+  },
+  {
+    "root": "J",
+    "refers": "10 / TEN / DENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **10** entities; (to be) a **10**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **10**",
+        "CSV": "(to be) a process which determines/identifies a set as being **10** in number; to count out to **10**; to determine that there are **10** of something",
+        "OBJ": "(to be) one in a group or sequence of **10**; to be one of **10**"
+      },
+      {
+        "BSC": "(to be) something manifesting **10** aspects / facets; to manifest **10**-ariness; be **10**-ary",
+        "CTE": "(to be) the state of having **10** aspects/facets; to be **10**-ary; to be **10**-fold or **10**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **10** aspects/facets; identify/determine that something is **10**-ary/**10**-fold/**10**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **10**-ary, **10**-fold, **10**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **10**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **10**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **10**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **10**th"
+      }
+    ],
+    "notes": "Associated Affix: X10"
+  },
+  {
+    "root": "GZ",
+    "refers": "100 / HUNDRED / CENTENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **100** entities; (to be) a **100**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **100**",
+        "CSV": "(to be) a process which determines/identifies a set as being **100** in number; to count out to **100**; to determine that there are **100** of something",
+        "OBJ": "(to be) one in a group or sequence of **100**; to be one of **100**"
+      },
+      {
+        "BSC": "(to be) something manifesting **100** aspects / facets; to manifest **100**-ariness; be **100**-ary",
+        "CTE": "(to be) the state of having **100** aspects/facets; to be **100**-ary; to be **100**-fold or **100**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **100** aspects/facets; identify/determine that something is **100**-ary/**100**-fold/**100**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **100**-ary, **100**-fold, **100**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **100**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **100**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100**th"
+      }
+    ],
+    "notes": "Associated Affix: XOH"
+  },
+  {
+    "root": "PC",
+    "refers": "100² / TEN THOUSAND",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **100²** entities; (to be) a **100²**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **100²**",
+        "CSV": "(to be) a process which determines/identifies a set as being **100²** in number; to count out to **100²**; to determine that there are **100²** of something",
+        "OBJ": "(to be) one in a group or sequence of **100²**; to be one of **100²**"
+      },
+      {
+        "BSC": "(to be) something manifesting **100²** aspects / facets; to manifest **100²**-ariness; be **100²**-ary",
+        "CTE": "(to be) the state of having **100²** aspects/facets; to be **100²**-ary; to be **100²**-fold or **100²**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **100²** aspects/facets; identify/determine that something is **100²**-ary/**100²**-fold/**100²**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **100²**-ary, **100²**-fold, **100²**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **100²**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **100²**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100²**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100²**th"
+      }
+    ],
+    "notes": "Associated Affix: XTT"
+  },
+  {
+    "root": "KẒ",
+    "refers": "100⁴ / HUNDRED MILLION",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **100⁴** entities; (to be) a **100⁴**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **100⁴**",
+        "CSV": "(to be) a process which determines/identifies a set as being **100⁴** in number; to count out to **100⁴**; to determine that there are **100⁴** of something",
+        "OBJ": "(to be) one in a group or sequence of **100⁴**; to be one of **100⁴**"
+      },
+      {
+        "BSC": "(to be) something manifesting **100⁴** aspects / facets; to manifest **100⁴**-ariness; be **100⁴**-ary",
+        "CTE": "(to be) the state of having **100⁴** aspects/facets; to be **100⁴**-ary; to be **100⁴**-fold or **100⁴**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **100⁴** aspects/facets; identify/determine that something is **100⁴**-ary/**100⁴**-fold/**100⁴**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **100⁴**-ary, **100⁴**-fold, **100⁴**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **100⁴**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **100⁴**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100⁴**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100⁴**th"
+      }
+    ],
+    "notes": "Associated Affix: XTM"
+  },
+  {
+    "root": "ČG",
+    "refers": "100⁸ / TEN QUADRILLION",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **100⁸** entities; (to be) a **100⁸**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **100⁸**",
+        "CSV": "(to be) a process which determines/identifies a set as being **100⁸** in number; to count out to **100⁸**; to determine that there are **100⁸** of something",
+        "OBJ": "(to be) one in a group or sequence of **100⁸**; to be one of **100⁸**"
+      },
+      {
+        "BSC": "(to be) something manifesting **100⁸** aspects / facets; to manifest **100⁸**-ariness; be **100⁸**-ary",
+        "CTE": "(to be) the state of having **100⁸** aspects/facets; to be **100⁸**-ary; to be **100⁸**-fold or **100⁸**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **100⁸** aspects/facets; identify/determine that something is **100⁸**-ary/**100⁸**-fold/**100⁸**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **100⁸**-ary, **100⁸**-fold, **100⁸**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **100⁸**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **100⁸**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100⁸**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100⁸**th"
+      }
+    ],
+    "notes": "Associated Affix: XTQ"
+  },
+  {
+    "root": "CG",
+    "refers": "11 / ELEVEN / UNDENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **11** entities; (to be) a **11**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **11**",
+        "CSV": "(to be) a process which determines/identifies a set as being **11** in number; to count out to **11**; to determine that there are **11** of something",
+        "OBJ": "(to be) one in a group or sequence of **11**; to be one of **11**"
+      },
+      {
+        "BSC": "(to be) something manifesting **11** aspects / facets; to manifest **11**-ariness; be **11**-ary",
+        "CTE": "(to be) the state of having **11** aspects/facets; to be **11**-ary; to be **11**-fold or **11**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **11** aspects/facets; identify/determine that something is **11**-ary/**11**-fold/**11**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **11**-ary, **11**-fold, **11**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **11**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **11**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **11**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **11**th"
+      }
+    ],
+    "notes": "Associated Affix: X11"
+  },
+  {
+    "root": "JD",
+    "refers": "12 / TWELVE / DUODENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **12** entities; (to be) a **12**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **12**",
+        "CSV": "(to be) a process which determines/identifies a set as being **12** in number; to count out to **12**; to determine that there are **12** of something",
+        "OBJ": "(to be) one in a group or sequence of **12**; to be one of **12**"
+      },
+      {
+        "BSC": "(to be) something manifesting **12** aspects / facets; to manifest **12**-ariness; be **12**-ary",
+        "CTE": "(to be) the state of having **12** aspects/facets; to be **12**-ary; to be **12**-fold or **12**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **12** aspects/facets; identify/determine that something is **12**-ary/**12**-fold/**12**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **12**-ary, **12**-fold, **12**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **12**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **12**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **12**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **12**th"
+      }
+    ],
+    "notes": "Associated Affix: X12"
+  },
+  {
+    "root": "ĻJ",
+    "refers": "13 / THIRTEEN / TREDENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **13** entities; (to be) a **13**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **13**",
+        "CSV": "(to be) a process which determines/identifies a set as being **13** in number; to count out to **13**; to determine that there are **13** of something",
+        "OBJ": "(to be) one in a group or sequence of **13**; to be one of **13**"
+      },
+      {
+        "BSC": "(to be) something manifesting **13** aspects / facets; to manifest **13**-ariness; be **13**-ary",
+        "CTE": "(to be) the state of having **13** aspects/facets; to be **13**-ary; to be **13**-fold or **13**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **13** aspects/facets; identify/determine that something is **13**-ary/**13**-fold/**13**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **13**-ary, **13**-fold, **13**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **13**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **13**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **13**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **13**th"
+      }
+    ],
+    "notes": "Associated Affix: X13"
+  },
+  {
+    "root": "BC",
+    "refers": "14 / FOURTEEN / QUATTUORDENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **14** entities; (to be) a **14**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **14**",
+        "CSV": "(to be) a process which determines/identifies a set as being **14** in number; to count out to **14**; to determine that there are **14** of something",
+        "OBJ": "(to be) one in a group or sequence of **14**; to be one of **14**"
+      },
+      {
+        "BSC": "(to be) something manifesting **14** aspects / facets; to manifest **14**-ariness; be **14**-ary",
+        "CTE": "(to be) the state of having **14** aspects/facets; to be **14**-ary; to be **14**-fold or **14**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **14** aspects/facets; identify/determine that something is **14**-ary/**14**-fold/**14**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **14**-ary, **14**-fold, **14**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **14**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **14**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **14**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **14**th"
+      }
+    ],
+    "notes": "Associated Affix: X14"
+  },
+  {
+    "root": "ŢẒ",
+    "refers": "15 / FIFTEEN / QUINDENARY",
+    "stem": [
+      {
+        "BSC": "(to be a) set or group of **15** entities; (to be) a **15**-some",
+        "CTE": "(to be) a party/entity of whom/which there are **15**",
+        "CSV": "(to be) a process which determines/identifies a set as being **15** in number; to count out to **15**; to determine that there are **15** of something",
+        "OBJ": "(to be) one in a group or sequence of **15**; to be one of **15**"
+      },
+      {
+        "BSC": "(to be) something manifesting **15** aspects / facets; to manifest **15**-ariness; be **15**-ary",
+        "CTE": "(to be) the state of having **15** aspects/facets; to be **15**-ary; to be **15**-fold or **15**-faceted",
+        "CSV": "(to be) a process which determines/identifies an entity as having **15** aspects/facets; identify/determine that something is **15**-ary/**15**-fold/**15**-faceted",
+        "OBJ": "(to be) one of the aspects/facets of a **15**-ary, **15**-fold, **15**-faceted entity"
+      },
+      {
+        "BSC": "(to be) the **15**th entity/party in a group or sequence",
+        "CTE": "(to be) the state of being **15**th in a sequence/group/pattern",
+        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **15**th",
+        "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **15**th"
+      }
+    ],
+    "notes": "Associated Affix: X15"
+  },
+  {
+    "root": "TF",
+    "refers": "ADDITION / SUBTRACTION",
+    "stem": [
+      {
+        "BSC": "(to be) an act/instance of changing the number of something via addition or subtraction",
+        "CTE": "(to be) the party/entity that performs/initiates an act of adding or subtracting",
+        "CSV": "(to be) a process of adding or subtracting",
+        "OBJ": "(to be) the party/entity whose number is changed via addition or subtraction"
+      },
+      {
+        "BSC": "(to be) an act/instance of adding the number of something; to add something",
+        "CTE": "(to be) the party/entity that performs/initiates an act of addition",
+        "CSV": "(to be) a process of addition",
+        "OBJ": "(to be) the party/entity whose number is added to"
+      },
+      {
+        "BSC": "(to be) an act/instance of subtracting the number of something; to subtract something",
+        "CTE": "(to be) the party/entity that performs/initiates an act of subtraction",
+        "CSV": "(to be) a process of subtraction",
+        "OBJ": "(to be) the party/entity whose number is subtracted"
+      }
+    ]
+  },
+  {
+    "root": "ẒV",
+    "refers": "MULTIPLICATION / DIVISION",
+    "stem": [
+      {
+        "BSC": "(to be) an act/instance of changing the number of something via multiplication or division; to multiply either by iteration or by division",
+        "CTE": "(to be) the party/entity that performs/initiates an act of multiplying or dividing something",
+        "CSV": "(to be) a process of increasing via multiplication or division",
+        "OBJ": "(to be) the party/entity whose number is multiplied or divided"
+      },
+      {
+        "BSC": "(to be) an act/instance of multiplying the number of something; to multiply something",
+        "CTE": "(to be) the party/entity that performs/initiates an act of multiplying something",
+        "CSV": "(to be) a process of multiplication",
+        "OBJ": "(to be) the party/entity whose number is multiplied"
+      },
+      {
+        "BSC": "(to be) an act/instance of dividing the number of something; to divide something",
+        "CTE": "(to be) the party/entity that performs/initiates an act of dividing something",
+        "CSV": "(to be) a process of division",
+        "OBJ": "(to be) the party/entity whose number is divided"
+      }
+    ]
+  },
+  {
+    "root": "NT",
+    "refers": "COUNTING / TALLYING / SEQUENTIAL ENUMERATION",
+    "stems": [
+      {
+        "BSC": "(to be) a sequential numerical count(ing) of entities by natural numbers (i.e., positive integers) to determine the numerical quantity thereof; to count a set of entities, to tally the number of entities",
+        "CTE": "(to be) the [natural] number of entities counted; the count; to count (up)/tally using natural numbers [ = focusing on the accrual/addition of numbers in anticipation of the total/tally]",
+        "CSV": "(to be) the process of counting/tallying; to count (up)/tally [ = focusing on the counting process itself irrespective of the eventual total]",
+        "OBJ": "(to be) the entity/entities so counted"
+      },
+      "(to be) a sequential numerical labeling [of entities by natural numbers] for purpose of identification, individuation, arrangement, etc.",
+      "(to be) a numerical(ly-based) pattern/arrangement; to enumerate  "
+    ],
+    "notes": "Associated Affix: SEQ"
+  },
+  {
+    "root": "NTH",
+    "refers": "NUMBER / INTEGER / RATIONAL NUMBER",
+    "stems": [
+      {
+        "BSC": "(to be) a number; to express numerically",
+        "CTE": "(to be) a state of being expressed/expressable numerically",
+        "CSV": "(to be) an act of performing something by expressing it numerically, do something by using numbers",
+        "OBJ": "(to be) a numerical expression"
+      },
+      "(to be) an integer, express via integers *",
+      "(to be) a rational number, express via rational numbers * (i.e., expressable as a ratio of two integers)  "
+    ],
+    "notes": "(* concatenate an appropriate stem from the root -TVY- with this stem to indicate positive or negative numbers)"
+  },
+  {
+    "root": "RNT",
+    "refers": "REAL NUMBER / IRRATIONAL NUMBER / IMAGINARY NUMBER",
+    "stems": [
+      {
+        "BSC": "(to be) a real number",
+        "CTE": "(to be) a state of being expressed/expressable as a real number",
+        "CSV": "(to be) an act of performing something by expressing it as a real number, do something by using real numbers",
+        "OBJ": "(to be) a real number expression  "
+      },
+      "(to be) an irrational number (i.e., not expressable as a ratio of two integers)",
+      "(to be) an imaginary/complex number [i.e., a multiple of i]  "
+    ]
+  },
+  {
+    "root": "NTHW",
+    "refers": "VARIABLE / COEFFICIENT / CONSTANT",
+    "stems": [
+      {
+        "BSC": "(to be) a mathematical variable; to express as a mathematical variable",
+        "CTE": "(to be) a state of being expressed/expressable as a mathematical variable",
+        "CSV": "(to be) an act of performing something by expressing it as a mathematical variable, do something by using a mathematical variable",
+        "OBJ": "(to be) a mathematical function, a mathematical expression using a variable or variables"
+      },
+      "(to be) a mathematical coefficient; to express as a mathematical coefficient",
+      "(to be) a mathematical constant; to express as a mathematical constant  "
+    ]
+  },
+  {
+    "root": "ŇZX",
+    "refers": "ABSTRACT OBJECT / ABSTRACT STRUCTURE / ABSTRACT OPERATION",
+    "stem": [
+      {
+        "BSC": "(to be) an abstract object; to operate/ function as an abstract object [i.e., an abstract entity governed by abstract rules]",
+        "CTE": "(to be) a defining property (or set of defining properties) of an abstract object",
+        "CSV": "(to be) the specific identity of an abstract object; to identify an abstract object",
+        "OBJ": "(to be) a property/attribute peculiar to a particular abstract object"
+      },
+      {
+        "BSC": "(to be) an abstract structure; to operate/function as an abstract structure [i.e., a grouping of abstract objects that displays certain predetermined qualities and supports certain operations, e.g., an algebraic structure]",
+        "CTE": "(to be) a component of such a structure",
+        "CSV": "(to be) the defining purpose/function of such a structure; to define the purpose/function of such a structure",
+        "OBJ": "(to be) a property/operation manifested or supported by such a structure"
+      },
+      {
+        "BSC": "(to be) an operation performed upon an abstract object or structure; to perform such an operation [i.e., a rule-based transformation of abstract objects]",
+        "CTE": "(to be) the underlying rule that forms the basis for an abstract operation",
+        "CSV": "(to be) an act/process of performing/carrying out such an operation; to peform/carry out/apply an abstract operation",
+        "OBJ": "(to be) the (desired) transformation precipitated by performance/application of an abstract operation"
+      }
+    ],
+    "notes": "Use an appropriate degree of the OAU affix with the stems of the above root to generate a term for “argument” or “abstract entity” meaning a logical participant or referenced entity within a logical argument, e.g., “In linguistics, we speak of the various nouns within a sentence as being *arguments* to a verb.”"
+  }
+]

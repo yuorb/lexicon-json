@@ -1,0 +1,451 @@
+[
+  {
+    "root": "TKL",
+    "refers": "PHYSICAL STATE OF MATTER",
+    "stems": [
+      {
+        "BSC": "(to be) a solid, something solid; to be/make solid, solidify",
+        "CTE": "(to be) a state of being solid",
+        "CSV": "(to be) the physical process(es) by which one solidifies something (e.g., freezing, dehydration, oxidation, etc.)",
+        "OBJ": "(to be) that which is solid"
+      },
+      "(to be) a liquid, something liquid; to be/make liquid, to liquefy",
+      "(to be) a gas, something gaseous; to be/make into a gas, to render into a gaseous state"
+    ]
+  },
+  {
+    "root": "RTKL",
+    "refers": "LESS TYPICAL PHYSICAL STATES OF MATTER",
+    "stems": [
+      {
+        "BSC": "(to be) something in a semi-solid, semi-liquid, viscous, state (e.g., mud, something gelatinous, slime, etc.)",
+        "CTE": "(to be) a state of being semi-solid",
+        "CSV": "(to be) the physical process(es) by which one makes something semi-solid",
+        "OBJ": "(to be) that which is semi-solid"
+      },
+      "(to be) a plasma; to be/make into a plasma",
+      "(to be) a Bose-Einstein condensate; to be/make into a Bose-Einstein condensate"
+    ]
+  },
+  {
+    "root": "CN",
+    "refers": "SUBSTANCE",
+    "stems": [
+      {
+        "BSC": "(to be) a fundamental manifestation (e.g., chunk, drop, flume, bit, piece, etc.) of a material substance + substance itself",
+        "CTE": "(to be) the material substance being manifested",
+        "CSV": "(to be) the form of a fundamental manifestation of a material substance (i.e., chunk, drop, flume, bit, piece, etc.)",
+        "OBJ": "(to be) the party/entity in contact with, confronted with, observing, handling, etc. a material substance"
+      },
+      "(to be) an instance/act of utilizing, manipulating, handling, or working with a substance; to handle, manipulate, work with, utilizing a substance",
+      "(to be) the source of a material substance / compound"
+    ]
+  },
+  {
+    "root": "ŘB",
+    "refers": "QUALITY, ATTRIBUTE OR PROPERTY OF MATTER",
+    "stems": [
+      {
+        "BSC": "(to be) a degree of a particular quality (= intrinsic/inherent behavioral property) of matter",
+        "CTE": "(to be) the intrinsic nature/essence of a particular quality of matter (i.e., the existence of the quality within or as part of an entity regardless of its physical manifestation)",
+        "CSV": "(to be) the physical manifestation of a particular quality of matter; to manifest a particular quality of matter",
+        "OBJ": "(to be) the object/entity having the particular quality of matter"
+      },
+      "(to be) a decrease in the degree of a particular quality/attribute/property of matter",
+      "(to be) an increase in the degree of a particular quality/attribute/property of matter"
+    ],
+    "notes": "(use with the SUF, EXD, FLC, PTW, ITY, etc. affixes)"
+  },
+  {
+    "root": "BG",
+    "refers": "FULLNESS / EMPTINESS",
+    "see": "ŘB"
+  },
+  {
+    "root": "DB",
+    "refers": "SOLIDITY / HOLLOWNESS",
+    "see": "ŘB"
+  },
+  {
+    "root": "DG",
+    "refers": "WEIGHT / MASS",
+    "see": "ŘB"
+  },
+  {
+    "root": "XB",
+    "refers": "TENSION",
+    "notes": "(= STRAIN / MECHANICAL STRESS)",
+    "see": "ŘB"
+  },
+  {
+    "root": "XD",
+    "refers": "TIGHTNESS / SLACK",
+    "see": "ŘB",
+    "notes": "(= TAUTNESS)"
+  },
+  {
+    "root": "ĻG",
+    "refers": "PERMEABILITY / POROUSNESS",
+    "see": "ŘB"
+  },
+  {
+    "root": "MB",
+    "refers": "ABSORPTIVITY",
+    "see": "ŘB"
+  },
+  {
+    "root": "MD",
+    "refers": "REFLECTIVITY",
+    "see": "ŘB"
+  },
+  {
+    "root": "MG",
+    "refers": "TRANSPARENCY / OPACITY",
+    "see": "ŘB"
+  },
+  {
+    "root": "BD",
+    "refers": "CONCAVITY / DEPRESSED",
+    "see": "ŘB"
+  },
+  {
+    "root": "GD",
+    "refers": "CONVEXITY / ROTUNDITY",
+    "see": "ŘB"
+  },
+  {
+    "root": "GB",
+    "refers": "COMPRESSED / SQUEEZED",
+    "see": "ŘB"
+  },
+  {
+    "root": "ŇB",
+    "refers": "RESILIENCE / DELICATENESS",
+    "notes": "(= CAPACITY FOR RECOVERY FROM DAMAGE)",
+    "see": "ŘB"
+  },
+  {
+    "root": "ŇD",
+    "refers": "DURABILITY / FRAGILITY",
+    "notes": "(= CAPACITY FOR NOT BEING DAMAGED)",
+    "see": "ŘB"
+  },
+  {
+    "root": "NG",
+    "refers": "PRESSURE",
+    "see": "ŘB"
+  },
+  {
+    "root": "LB",
+    "refers": "STABILITY / INSTABILITY",
+    "see": "ŘB"
+  },
+  {
+    "root": "LD",
+    "refers": "VOLATILITY / INERTNESS",
+    "see": "ŘB"
+  },
+  {
+    "root": "LG",
+    "refers": "DURATION / TEMPORARINESS",
+    "notes": "[i.e., the amount of elapsed time over which an event or state occurs]",
+    "see": "ŘB"
+  },
+  {
+    "root": "BB",
+    "refers": "EVEN / LEVEL",
+    "notes": "(i.e., parallel in comparison to an external linear or planar reference standard)",
+    "see": "ŘB"
+  },
+  {
+    "root": "DD",
+    "refers": "PERPENDICULAR / UPRIGHT",
+    "notes": "(relative to gravity)",
+    "see": "ŘB"
+  },
+  {
+    "root": "GG",
+    "refers": "STRAIGHTNESS/LINEARITY RELATIVE TO OBJECT ITSELF",
+    "see": "ŘB"
+  },
+  {
+    "root": "ŢH",
+    "refers": "PLUME / CLOUD OF GAS / SMOKE / STEAM / GASEOUS PHENOMENON",
+    "stems": [
+      {
+        "BSC": "(to be) a plume/cloud of smoke from an act/process of combustion (e.g., smoke from a fireplace, from an explosion, from a volcano, from a forest fire, etc.)",
+        "CTE": "(to be) a state of smokiness; for the air to be filled with smoke",
+        "CSV": "(to be) an act/process of combustion which gives rise to a plume of smoke; for there to be smoke due to an act/process of combustion",
+        "OBJ": "(to be) the plume of smoke itself"
+      },
+      "(to be) a plume/cloud of steam/water vapor [NOTE: for a cloud in the sky, see the root -FTH-]",
+      "(to be) a plume/cloud of gas other than steam or smoke from combustion (e.g., a gas leak)"
+    ]
+  },
+  {
+    "root": "TPR",
+    "refers": "CONSISTENCY / MALLEABILITY / FLEXIBILITY / PLASTICITY / RHEOLOGICAL PHENOMENON",
+    "stems": [
+      {
+        "BSC": "(to be) a particular degree of malleability, flexibility, plasticity; to have a certain degree of malleability, flexibility, plasticity",
+        "CTE": "(to be) a state of malleability, flexibility, plasticity; to be malleable, flexible",
+        "CSV": "(to be) an act of determining the degree of malleability, flexibility, plasticity of something; to determine the degree of malleability, flexibility, plasticity of something",
+        "OBJ": "(to be) that which has a particular consistency in terms of malleability, flexibility, plasticity"
+      },
+      "(to be) a particular degree of squeezability, compressibility",
+      "(to be) a particular degree of elasticity"
+    ]
+  },
+  {
+    "root": "TPW",
+    "refers": "SPRINGINESS / BUOYANCY / RECOIL",
+    "stems": [
+      {
+        "BSC": "(to be) a particular degree of springiness; to have/manifest a particular degree of springiness",
+        "CTE": "(to be) a state of springiness; to be springy",
+        "CSV": "(to be) an act of determining the degree of springiness",
+        "OBJ": "(to be) that which has a particular degree of springiness"
+      },
+      "(to be) a particular degree of buoyancy; to have/display a particular degree of buoyancy",
+      "(to be) a particular degree of recoil; to have/display a particular degree of recoil"
+    ]
+  },
+  {
+    "root": "ĻMW",
+    "refers": "FRAGILITY / BRITTLENESS / CRUMBLINESS",
+    "stems": [
+      {
+        "BSC": "(to be) a particular degree of fragility; to have/manifest a particular degree of flimsiness",
+        "CTE": "(to be) a state of fragility; to be fragile",
+        "CSV": "(to be) an act of determining the degree of fragility; to determine the degree of fragility of something",
+        "OBJ": "(to be) that which has a particular degree of fragility"
+      },
+      "(to be) a partticular degree of brittleness",
+      "(to be) a particular degree of crumbliness"
+    ]
+  },
+  {
+    "root": "BGW",
+    "refers": "LIMPNESS / FLACCIDITY / JIGGLINESS / FLABBINESS",
+    "stems": [
+      {
+        "BSC": "(to be) a particular degree of limpness/flaccidity; to have/manifest a particular degree of limpness/flaccidity",
+        "CTE": "(to be) a state of limpness/flaccidity; to be limp/flaccid",
+        "CSV": "(to be) an act of determining the degree of limpness/flaccidity; to determine the degree of limpness/flaccidity of something",
+        "OBJ": "(to be) that which has a particular degree of limpness/flaccidity"
+      },
+      "(to be) a particular degree of jiggliness",
+      "(to be) a particular degree of flabbiness"
+    ]
+  },
+  {
+    "root": "ĻPW",
+    "refers": "PLIANCY / DUCTILITY / SUPPLENESS / DEFORMABILITY / SPREADABILITY",
+    "stems": [
+      {
+        "BSC": "(to be) a particular degree of pliancy/ductility/suppleness; to have/manifest a particular degree of pliancy/ductility/suppleness",
+        "CTE": "(to be) a state of pliancy/ductility/suppleness; to be pliant/ductile/supple",
+        "CSV": "(to be) an act of determining the degree of limpness/flaccidity; to determine the degree of pliancy/ductility/suppleness of something",
+        "OBJ": "(to be) that which has a particular degree of pliancy/ductility/suppleness"
+      },
+      "(to be) a particular degree of deformability or “dentability” (i.e., how easily deformed or dented a material is)",
+      "(to be) a particular degree of spreadability"
+    ]
+  },
+  {
+    "root": "CKW",
+    "refers": "FLIMSINESS / COHESIVENESS / STRUCTURAL INTEGRITY / STABILITY",
+    "stems": [
+      {
+        "BSC": "(to be) a particular degree of flimsiness; to have/manifest a particular degree of flimsiness",
+        "CTE": "(to be) a state of flimsiness; to be flimsy",
+        "CSV": "(to be) an act of determining the degree of flimsiness; to determine the degree of flimsiness of something",
+        "OBJ": "(to be) that which has a particular degree of flimsiness"
+      },
+      "(to be) a particular degree of cohesiveness (tendency to not break apart)",
+      "(to be) a particular degree of structural integrity/stability"
+    ]
+  },
+  {
+    "root": "LLW",
+    "refers": "LIGHT / ILLUMINATION / BRIGHTNESS",
+    "stems": [
+      {
+        "BSC": "(to be) a state of being bright/luminous; to be bright/luminous (i.e., either emanating or reflecting a relatively large amount of light from either external or internal illumination)",
+        "CTE": "(to be) the state of being bright/luminous",
+        "CSV": "(to be) a physical act of brightening/illuminating; to brighten, to illuminate",
+        "OBJ": "(to be) something that is bright, highly reflective, or lit up, (to be) a (source of) light"
+      },
+      "(to be) a state of being bright/luminous due to internal illumination (i.e., entity is, or carries within, its own source of illumination)",
+      "(to be) a state/act of being bright/luminous due to high surface reflectivity"
+    ]
+  },
+  {
+    "root": "ŘM",
+    "refers": "DIMNESS / PALENESS / SHADOW",
+    "stems": [
+      {
+        "BSC": "(to be) a state of being dim or act of dimming; to be/make dim, to dim (i.e., difficult to see, not very visible due to insufficient external or internal illumination)",
+        "CTE": "(to be) the state of being dim",
+        "CSV": "(to be) a physical act of dimming; do something to make an entity dim",
+        "OBJ": "(to be) something that is dim"
+      },
+      "(to be) a state of being pale/blanched/pallid/wan; to be/make pale/pallid/wan/blanched",
+      "(to be) a state/act of being/placing in the shade or in shadow; to be/place in the shade or in shadow"
+    ]
+  },
+  {
+    "root": "ŘMW",
+    "refers": "DULLNESS / FADEDNESS / MURKINESS / GLOOMINESS",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of being/making something dull/lackluster in appearance; be/make dull/lackluster in appearance (i.e., decreased reflectivity)",
+        "CTE": "(to be) the state of being dull/lackluster",
+        "CSV": "(to be) a physical act of making dull/lackluster; do something to make an entity dull/lackluster",
+        "OBJ": "(to be) something that is dull/lackluster"
+      },
+      "(to be) a state/act of being something faded; to be faded, to fade (i.e., loss of former degree of brightness/visibility due to age, wear, decay)",
+      "(to be) a state/act of being something murky/gloomy; be/make murky/gloomy"
+    ]
+  },
+  {
+    "root": "ŽX",
+    "refers": "FIRE / BURNING / MELTING / CALEFACTION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of burning with/by fire; to burn by fire",
+        "CTE": "(to be) a state of being burned, being on fire; to be on fire, to be in flames",
+        "CSV": "(to be) an act of igniting or combustion; to ignite, to combust, to catch fire",
+        "OBJ": "(to be) a flame [Derivatives: a fire, a blaze, a conflagration, etc.]"
+      },
+      "(to be) a state of a substance being/becoming heated by an external source of heat; to heat (up), to warm (up)",
+      "(to be) a state of melting/liquefaction; to melt, to liquefy via heat"
+    ]
+  },
+  {
+    "root": "KV",
+    "refers": "‘COLDNESS / COOLING / FREEZING’ Derivations: air conditioner, refrigerator",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of being/becoming cold/frigid; to be(come) cold/frigid",
+        "CTE": "(to be) a state of coldness, a state of being cold",
+        "CSV": "(to be) an act of chilling; to chill something",
+        "OBJ": "(to be) a tangible sign/indicator of coldness (e.g., ice, snow, frost, etc.) "
+      },
+      "(to be) a state of a substance being/becoming cool/cold by an external source of cold; to cool (down), to get cold",
+      "(to be) a state of being frozen; to freeze"
+    ]
+  },
+  {
+    "root": "GÇ",
+    "refers": "DISCARD AS RUBBISH / TRASH / GARBAGE / DETRITUS / REFUSE / RUBBLE / DEBRIS",
+    "stems": [
+      {
+        "BSC": "(to be) an act/process of discarding something as rubbish/trash/garbage/refuse",
+        "CTE": "(to be) a state of being/constituting rubbish/trash/garbage/refuse",
+        "CSV": "(to be) a physical act of discarding something as rubbish/trash/garbage/refuse",
+        "OBJ": "(to be) an object/item/entity/amount of material discarded as rubbish/trash/garbage/ refuse"
+      },
+      "(to be) an act/process of discarding something as junk/flotsam/ dross/offal/leavings/scraps/remnants (i.e., worthless leftover material from some productive or consumptive process)",
+      "(to be) an act/process whose material result/outcome constitutes rubble/debris/detritus/remains (i.e., disintegrated remnant material)"
+    ]
+  },
+  {
+    "root": "DGL",
+    "refers": "PLANAR ORIENTATIONAL INVERSION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of being/placing sideways; to (be) position(ed)/orient(ed) sideways (relative to an observer)",
+        "CTE": "(to be) the state of being in a sideways position",
+        "CSV": "(to be) an act of physically orienting/placing something sideways (relative to an observer)",
+        "OBJ": "(to be) the entity which is positioned sideways"
+      },
+      "(to be) a state/act of being/placing upside-down; (be) position(ed)/orient(ed) upside-down",
+      "(to be) a (to be) a state/act of being/placing backwards [i.e., only in sense of facing the opposite direction than expected]; (be) position(ed)/orient(ed) backward [i.e., facing the opposite direction]"
+    ]
+  },
+  {
+    "root": "BGL",
+    "refers": "TOPOLOGICAL INVERSION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of being a mirror-image; to invert in a mirror-image fashion",
+        "CTE": "(to be) the state of being a mirror-image",
+        "CSV": "(to be) an act of physically causing/making a mirror-image",
+        "OBJ": "(to be) the entity which is mirror-imaged"
+      },
+      "(to be) a state/act of being/placing ; to (be) position(ed)/orient(ed) inside-out",
+      "(to be) a state/act of being a mirror-image both laterally and vertically (i.e., mirror-image plus upside-down)"
+    ]
+  },
+  {
+    "root": "KSW",
+    "refers": "BIFURCATION / MULTIFURCATION / BRANCHING",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of forking into two, bifurcation; to bifurcate",
+        "CTE": "(to be) a state of being bifurcate(d)",
+        "CSV": "(to be) a physical act/process of bifurcation",
+        "OBJ": "(to be) that which forks into two, that which is forked in two"
+      },
+      "(to be) a state of forking into three or more branches/paths, etc.",
+      "(to be) a state of continous (bi-)furcation/branching, so that the number of branches/paths multiplies over time or space (e.g., tree branches, a philogenic taxonomic chart, etc.)"
+    ]
+  },
+  {
+    "root": "ĻR",
+    "refers": "BALANCE / EQUILIBRIUM / PROPORTION",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of being in balance / act of balancing; to balance / to be/make balanced (i.e., so that a state/entity/construction is stable)",
+        "CTE": "(to be) a state of balance",
+        "CSV": "(to be) an act of balancing; adjust the position/state of something so that it is in balance",
+        "OBJ": "(to be) that which is balanced or in balance"
+      },
+      "(to be) a state/act of equilibrium",
+      "(to be) a state/act of a set of entities being in proper proportion to one another; to be in proper proportion to one other (i.e., in terms of optimal functionality or well-being)"
+    ]
+  },
+  {
+    "root": "TĻR",
+    "refers": "SYMMETRY / PARITY / HOMEOSTASIS",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of being symmetrical, or having/displaying symmetry; to be/make symmetrical, to have/display symmetry",
+        "CTE": "(to be) a state of symmetry",
+        "CSV": "(to be) an act of making something symmetrical; to make symmetrical",
+        "OBJ": "(to be) that which is symmetrical"
+      },
+      "(to be) a state/act of being in parity; to be/place in parity",
+      "(to be) a state/act of homeostasis; to be/make homeostatic, have/display homeostasis"
+    ]
+  },
+  {
+    "root": "ÇŇ",
+    "refers": "CURL / COIL / LOOP",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of curling; to curl, to (be)form(ed) into a curl (both the shape/form and the entity so shaped/formed)",
+        "CTE": "(to be) in (the form of) a curl, be curled, be curly",
+        "CSV": "(to be) an act of forming into a curl; to (form into a) curl",
+        "OBJ": "(to be) that which is curled"
+      },
+      "(to be) a state/act of looping, being in a loop; to (be) form(ed) into a loop",
+      "(to be) a state/act of coiling, being coiled; to coil, be formed into a coil"
+    ]
+  },
+  {
+    "root": "RÇŇ",
+    "refers": "TWIST / TANGLE / KNOT",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of twisting; to twist, be twisted, form into a twist [i.e., curled in more than one planar dimension]",
+        "CTE": "(to be) in (the form of) a twist; to be twisted",
+        "CSV": "(to be) an act of twisting; to (form into a) twist",
+        "OBJ": "(to be) that which is twisted or in a twist"
+      },
+      "(to be) an act/state of being knotted, tied in a knot; to knot, tie in a knot",
+      "(to be) a state/act of tangling; to tangle, be tangled, form into a tangle"
+    ]
+  }
+]

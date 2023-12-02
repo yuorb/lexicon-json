@@ -15,37 +15,37 @@
   },
   {
     "root": "PPW",
-    "refers": "cellular nucleus/nucleolus/chromatin",
+    "refers": "cellular nucleus / nucleolus / chromatin",
     "stems": ["cellular nucleus", "nucleolus", "chromatin"],
     "see": "LCP"
   },
   {
     "root": "PPY",
-    "refers": "nuclear envelope/nuclear pore/endoplasmic reticulum",
+    "refers": "nuclear envelope / nuclear pore / endoplasmic reticulum",
     "stems": ["nuclear envelope", "nuclear pore", "endoplasmic reticulum"],
     "see": "LCP"
   },
   {
     "root": "PPL",
-    "refers": "ribosome/centrosome/peroxisome",
+    "refers": "ribosome / centrosome / peroxisome",
     "stems": ["ribosome", "centrosome", "peroxisome"],
     "see": "LCP"
   },
   {
     "root": "PPR",
-    "refers": "mitochondrion/lysosome/microtubule",
+    "refers": "mitochondrion / lysosome / microtubule",
     "stems": ["mitochondrion", "lysosome", "microtubule"],
     "see": "LCP"
   },
   {
     "root": "PPŘ",
-    "refers": "Golgi apparatus/Golgi vesicle/secretory vesicle",
+    "refers": "Golgi apparatus / Golgi vesicle / secretory vesicle",
     "stems": ["Golgi apparatus", "Golgi vesicle", "secretory vesicle"],
     "see": "LCP"
   },
   {
     "root": "PPH",
-    "refers": "microfilament/intermediate filament/vacuole",
+    "refers": "microfilament / intermediate filament / vacuole",
     "stems": ["microfilament", "intermediate filament", "vacuole"],
     "see": "LCP"
   }

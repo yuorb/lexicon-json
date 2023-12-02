@@ -44,19 +44,19 @@
   },
   {
     "root": "SDL",
-    "refers": "mash/grind/pulverize/granulize",
+    "refers": "mash / grind / pulverize / granulize",
     "stems": ["mash", "grind", "pulverize / granulize"],
     "see": "SDR"
   },
   {
     "root": "SDŘ",
-    "refers": "sprinkle onto/brush onto/baste",
+    "refers": "sprinkle onto / brush onto / baste",
     "stems": ["sprinkle onto", "brush onto", "baste"],
     "see": "SDR"
   },
   {
     "root": "SDW",
-    "refers": "smear onto/spread",
+    "refers": "smear onto / spread",
     "stems": [
       "smear onto",
       "spread with finger(s) (CPT = coat by means of spreading)",
@@ -66,7 +66,7 @@
   },
   {
     "root": "SDY",
-    "refers": "dip into/melt/whip",
+    "refers": "dip into / melt / whip",
     "stems": [
       "dip into (CPT = coat by dipping into)",
       "melt / soften via heat",
@@ -244,7 +244,7 @@
   },
   {
     "root": "ḐMW",
-    "refers": "ICE CREAM / SHERBET/GELATO",
+    "refers": "ICE CREAM / SHERBET / GELATO",
     "see": "LKS"
   },
   {
@@ -289,7 +289,7 @@
   },
   {
     "root": "ḐḐN",
-    "refers": "CUSTARD/ PUDDING",
+    "refers": "CUSTARD /  PUDDING",
     "see": "LKS"
   },
   {
@@ -324,7 +324,7 @@
   },
   {
     "root": "BVY",
-    "refers": "GRUEL/PORRIDGE",
+    "refers": "GRUEL / PORRIDGE",
     "see": "LKS"
   },
   {
@@ -374,7 +374,7 @@
   },
   {
     "root": "ĻPĻ",
-    "refers": "‘ICING/FROSTING",
+    "refers": "‘ICING / FROSTING",
     "see": "LKS"
   }
 ]

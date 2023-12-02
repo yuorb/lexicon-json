@@ -1,7 +1,7 @@
 [
   {
     "root": "LPL",
-    "refers": "blood/blood plasma/lymph",
+    "refers": "blood / blood plasma / lymph",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular blood",
@@ -25,7 +25,7 @@
   },
   {
     "root": "TÇN",
-    "refers": "sweat/saliva/sebum",
+    "refers": "sweat / saliva / sebum",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular sweat",
@@ -49,7 +49,7 @@
   },
   {
     "root": "NGM",
-    "refers": "breast milk/vaginal fluid/amniotic fluid",
+    "refers": "breast milk / vaginal fluid / amniotic fluid",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular breast milk",
@@ -73,7 +73,7 @@
   },
   {
     "root": "ŇZR",
-    "refers": "earwax/perilymph/synovial fluid",
+    "refers": "earwax / perilymph / synovial fluid",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular earwax",
@@ -97,7 +97,7 @@
   },
   {
     "root": "GPH",
-    "refers": "feces/urine/pus",
+    "refers": "feces / urine / pus",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular feces",
@@ -121,7 +121,7 @@
   },
   {
     "root": "ŇZL",
-    "refers": "mucus/phlegm/sputum/rheum",
+    "refers": "mucus / phlegm / sputum / rheum",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular mucus",
@@ -145,7 +145,7 @@
   },
   {
     "root": "NXM",
-    "refers": "tears/vitreous humor/aqueous humor",
+    "refers": "tears / vitreous humor / aqueous humor",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular tears",
@@ -169,7 +169,7 @@
   },
   {
     "root": "KŢČ",
-    "refers": "semen/bile/gastric acid",
+    "refers": "semen / bile / gastric acid",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of (the body) producing/having (a volume/amount of) the particular semen",
