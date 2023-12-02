@@ -157,21 +157,6 @@
         "see": "MTR"
     },
     {
-        "root": "CTR",
-        "refers": "TUNIC",
-        "see": "MTR"
-    },
-    {
-        "root": "VDN",
-        "refers": "SLEEVE",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTV",
-        "refers": "TIE PIN / TIE CLIP",
-        "see": "MTR"
-    },
-    {
         "root": "ZTL",
         "refers": "SARI / SARI-LIKE ARTICLE OF CLOTHING",
         "see": "MTR"
