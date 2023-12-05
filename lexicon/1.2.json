@@ -4,14 +4,14 @@
         "refers": "General Demonstrative Root",
         "stems": [
             {
-                "BSC": "(to be) ‘this (one) near, at, by, or associated w/ speaker’ referring to entities, situations, abstract notions, etc. (depending on the CA complex); [STA:] to be this/what is near, at, by, or associated w/ speaker / [DYN:] to do this/what is near, at, by, or associated w/ speaker",
-                "CTE": "(to be) that which is the essence or essential point or meaning of this/what is near, at, by, or associated w/ speaker",
-                "CSV": "(to be) that which is the form/structure or physical manifestation of this/what is near, at, by, or associated w/ speaker",
-                "OBJ": "(to be) the object/entity/situation/idea, etc. being referred to by this/what is near, at, by, or associated w/ speaker"
+                "BSC": "(to be) 'this / the one at-hand / the one in question' referring to entities, situations, abstract notions, etc. (depending on the CA complex); [STA:] to be this/what is under discussion / [DYN:] to do this/what is under discussion",
+                "CTE": "(to be) that which is the essence or essential point or meaning of this/what is at-hand",
+                "CSV": "(to be) that which is the form/structure or physical manifestation of this/what is at-hand",
+                "OBJ": "(to be) the object/entity/situation/idea, etc. being referred to by this/what is under discussion or at-hand"
             },
             "that (one), near, at, by or associated w/ addressee",
             "that (one yonder), not near, at, by or associated with either speaker or addressee"
         ],
-        "notes": "Stem Zero: ‘this / the one at-hand / the one in question’.\n\n Using various noun cases and other morphology, the above root provides translations for phrases such as “thus”/”in this/that manner”, “there”/”in that place/location”, “Yes”/”It is that”, “No”/”It is not that”, “some / some of that”, etc."
+        "notes": "Stem Zero: 'this / the one at-hand / the one in question'.\n\nUsing various noun cases and other morphology, the above root provides translations for phrases such as 'thus'/'in this/that manner', 'there'/'in that place/location', 'Yes'/'It is that', 'No'/'It is not that', 'some / some of that', etc."
     }
 ]

@@ -49,7 +49,7 @@
   },
   {
     "root": "LÇPW",
-    "refers": "‘TARSAL BONES’ I",
+    "refers": "'TARSAL BONES' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **calcaneus bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -73,7 +73,7 @@
   },
   {
     "root": "LÇTW",
-    "refers": "‘TARSAL BONES’ II",
+    "refers": "'TARSAL BONES' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **metatarsal bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -121,7 +121,7 @@
   },
   {
     "root": "LÇTY",
-    "refers": "‘CARPAL BONES’ I",
+    "refers": "'CARPAL BONES' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **scaphoid bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -145,7 +145,7 @@
   },
   {
     "root": "LÇTL",
-    "refers": "‘CARPAL BONES’ II",
+    "refers": "'CARPAL BONES' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **metacarpal bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -457,7 +457,7 @@
   },
   {
     "root": "LTÇG",
-    "refers": "‘JAW BONES’ I",
+    "refers": "'JAW BONES' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **mandible/dentary bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -481,7 +481,7 @@
   },
   {
     "root": "LTÇB",
-    "refers": "‘JAW BONES’ II",
+    "refers": "'JAW BONES' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **articular bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -529,7 +529,7 @@
   },
   {
     "root": "LTÇW",
-    "refers": "‘SKULL BONES’ I",
+    "refers": "'SKULL BONES' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **temporal bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -553,7 +553,7 @@
   },
   {
     "root": "LTÇL",
-    "refers": "‘SKULL BONES’ II",
+    "refers": "'SKULL BONES' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **vomer bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -577,7 +577,7 @@
   },
   {
     "root": "LTÇR",
-    "refers": "‘SKULL BONES’ III",
+    "refers": "'SKULL BONES' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **hard palate [i.e., the bone underlying the tissue covering the hard palate]** [both the material/physical aspect and the functional aspect thereof]",
@@ -601,7 +601,7 @@
   },
   {
     "root": "LTÇV",
-    "refers": "‘SKULL BONES’ IV",
+    "refers": "'SKULL BONES' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **frontal bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -769,7 +769,7 @@
   },
   {
     "root": "MZŇW",
-    "refers": "‘ADDITIONAL MUSCLE FIBER FORM PLUS RETINACULUM",
+    "refers": "'ADDITIONAL MUSCLE FIBER FORM PLUS RETINACULUM",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **convergent muscle fiber** [both the material/physical aspect and the functional aspect thereof]",
@@ -1141,7 +1141,7 @@
   },
   {
     "root": "MZPW",
-    "refers": "‘FOREARM MUSCLE’ I",
+    "refers": "'FOREARM MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **flexor carpi radialis** [both the material/physical aspect and the functional aspect thereof]",
@@ -1166,7 +1166,7 @@
   },
   {
     "root": "MZPY",
-    "refers": "‘FOREARM MUSCLE’ II",
+    "refers": "'FOREARM MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **flexor carpi ulnaris** [both the material/physical aspect and the functional aspect thereof]",
@@ -1191,7 +1191,7 @@
   },
   {
     "root": "MZPL",
-    "refers": "‘FOREARM MUSCLE’ III",
+    "refers": "'FOREARM MUSCLE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **palmaris longus** [both the material/physical aspect and the functional aspect thereof]",
@@ -1216,7 +1216,7 @@
   },
   {
     "root": "MZPR",
-    "refers": "‘FOREARM MUSCLE’ IV",
+    "refers": "'FOREARM MUSCLE' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **extensor carpi radialis longus** [both the material/physical aspect and the functional aspect thereof]",
@@ -1241,7 +1241,7 @@
   },
   {
     "root": "MZPF",
-    "refers": "‘FOREARM MUSCLE’ V",
+    "refers": "'FOREARM MUSCLE' V",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **brachioradialis** [both the material/physical aspect and the functional aspect thereof]",
@@ -1266,7 +1266,7 @@
   },
   {
     "root": "MZPŢ",
-    "refers": "‘FOREARM MUSCLE’ VI",
+    "refers": "'FOREARM MUSCLE' VI",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **extensor pollicis** [both the material/physical aspect and the functional aspect thereof]",
@@ -1291,7 +1291,7 @@
   },
   {
     "root": "MZKW",
-    "refers": "‘ANTERIOR THIGH MUSCLE’ I",
+    "refers": "'ANTERIOR THIGH MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **vastus lateralis** [both the material/physical aspect and the functional aspect thereof]",
@@ -1316,7 +1316,7 @@
   },
   {
     "root": "MZKY",
-    "refers": "‘ANTERIOR THIGH MUSCLE’ II",
+    "refers": "'ANTERIOR THIGH MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **rectus femoris** [both the material/physical aspect and the functional aspect thereof]",
@@ -1341,7 +1341,7 @@
   },
   {
     "root": "MZKL",
-    "refers": "‘ANTERIOR THIGH MUSCLE’ III",
+    "refers": "'ANTERIOR THIGH MUSCLE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **sartorius** [both the material/physical aspect and the functional aspect thereof]",
@@ -1516,7 +1516,7 @@
   },
   {
     "root": "MVG",
-    "refers": "‘ARM MUSCLE’ I",
+    "refers": "'ARM MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **biceps brachii** [both the material/physical aspect and the functional aspect thereof]",
@@ -1541,7 +1541,7 @@
   },
   {
     "root": "MVGL",
-    "refers": "‘ARM MUSCLE’ II",
+    "refers": "'ARM MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **triceps brachii (long head)** [both the material/physical aspect and the functional aspect thereof]",
@@ -1566,7 +1566,7 @@
   },
   {
     "root": "MVGR",
-    "refers": "‘ARM MUSCLE’ III",
+    "refers": "'ARM MUSCLE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **coracobrachialis** [both the material/physical aspect and the functional aspect thereof]",
@@ -1716,7 +1716,7 @@
   },
   {
     "root": "MŽKŘ",
-    "refers": "‘PERINEAL MUSCLE’ I",
+    "refers": "'PERINEAL MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **ischiocavernosus muscle** [both the material/physical aspect and the functional aspect thereof]",
@@ -1741,7 +1741,7 @@
   },
   {
     "root": "MŽKÇ",
-    "refers": "‘PERINEAL MUSCLE’ II",
+    "refers": "'PERINEAL MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anal sphincter** [both the material/physical aspect and the functional aspect thereof]",
@@ -1916,7 +1916,7 @@
   },
   {
     "root": "LŽBR",
-    "refers": "‘BACK MUSCLES’ I",
+    "refers": "'BACK MUSCLES' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **trapezius** [both the material/physical aspect and the functional aspect thereof]",
@@ -1941,7 +1941,7 @@
   },
   {
     "root": "LŽBŘ",
-    "refers": "‘BACK MUSCLES’ II",
+    "refers": "'BACK MUSCLES' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **serratus posterior inferior** [both the material/physical aspect and the functional aspect thereof]",
@@ -1991,7 +1991,7 @@
   },
   {
     "root": "LŽGY",
-    "refers": "‘INNER CHEST MUSCLE’ I",
+    "refers": "'INNER CHEST MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **diaphragm** [both the material/physical aspect and the functional aspect thereof]",
@@ -2016,7 +2016,7 @@
   },
   {
     "root": "LŽGL",
-    "refers": "‘INNER CHEST MUSCLE’ II",
+    "refers": "'INNER CHEST MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **intercostal muscle** [both the material/physical aspect and the functional aspect thereof]",
@@ -2216,7 +2216,7 @@
   },
   {
     "root": "MŽT",
-    "refers": "‘NECK MUSCLE’ I",
+    "refers": "'NECK MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **longus colli** [both the material/physical aspect and the functional aspect thereof]",
@@ -2241,7 +2241,7 @@
   },
   {
     "root": "MŽTW",
-    "refers": "‘NECK MUSCLE’ II",
+    "refers": "'NECK MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **scalene muscle** [both the material/physical aspect and the functional aspect thereof]",
@@ -2266,7 +2266,7 @@
   },
   {
     "root": "MŽTY",
-    "refers": "‘NECK MUSCLE’ III",
+    "refers": "'NECK MUSCLE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **platysma** [both the material/physical aspect and the functional aspect thereof]",
@@ -2291,7 +2291,7 @@
   },
   {
     "root": "MŽTL",
-    "refers": "‘THROAT MUSCLE’ I",
+    "refers": "'THROAT MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **digastric** [both the material/physical aspect and the functional aspect thereof]",
@@ -2316,7 +2316,7 @@
   },
   {
     "root": "MŽTR",
-    "refers": "‘THROAT MUSCLE’ II",
+    "refers": "'THROAT MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **omohyoid** [both the material/physical aspect and the functional aspect thereof]",
@@ -2341,7 +2341,7 @@
   },
   {
     "root": "MŽTŘ",
-    "refers": "‘THROAT MUSCLE’ III",
+    "refers": "'THROAT MUSCLE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **sternohyoid** [both the material/physical aspect and the functional aspect thereof]",
@@ -2391,7 +2391,7 @@
   },
   {
     "root": "MŽPW",
-    "refers": "‘PHARYNGEAL/TRACHEAL MUSCLE’ I",
+    "refers": "'PHARYNGEAL/TRACHEAL MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **inferior pharyngeal constrictor** [both the material/physical aspect and the functional aspect thereof]",
@@ -2416,7 +2416,7 @@
   },
   {
     "root": "MŽPY",
-    "refers": "‘PHARYNGEAL/TRACHEAL MUSCLE’ II",
+    "refers": "'PHARYNGEAL/TRACHEAL MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **stylopharyngeus** [both the material/physical aspect and the functional aspect thereof]",
@@ -2441,7 +2441,7 @@
   },
   {
     "root": "MŽPL",
-    "refers": "‘TONGUE MUSCLE & TISSUE’ I",
+    "refers": "'TONGUE MUSCLE & TISSUE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **styloglossus** [both the material/physical aspect and the functional aspect thereof]",
@@ -2466,7 +2466,7 @@
   },
   {
     "root": "MŽPR",
-    "refers": "‘TONGUE MUSCLE & TISSUE’ II",
+    "refers": "'TONGUE MUSCLE & TISSUE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **superior longitudinal muscle** [both the material/physical aspect and the functional aspect thereof]",
@@ -2491,7 +2491,7 @@
   },
   {
     "root": "MŽPŘ",
-    "refers": "‘TONGUE MUSCLE & TISSUE’ III",
+    "refers": "'TONGUE MUSCLE & TISSUE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **vertical muscle of the tongue** [both the material/physical aspect and the functional aspect thereof]",
@@ -2516,7 +2516,7 @@
   },
   {
     "root": "MŽPF",
-    "refers": "‘SOFT PALATE’ I",
+    "refers": "'SOFT PALATE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **tensor veli palatini** [both the material/physical aspect and the functional aspect thereof]",
@@ -2541,7 +2541,7 @@
   },
   {
     "root": "MŽPŢ",
-    "refers": "‘SOFT PALATE’ II",
+    "refers": "'SOFT PALATE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **musculus uvulae (uvula)** [both the material/physical aspect and the functional aspect thereof]",
@@ -2666,7 +2666,7 @@
   },
   {
     "root": "MŽN",
-    "refers": "‘NASAL MUSCLE’ I",
+    "refers": "'NASAL MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **procerus** [both the material/physical aspect and the functional aspect thereof]",
@@ -2691,7 +2691,7 @@
   },
   {
     "root": "MŽNW",
-    "refers": "‘NASAL MUSCLE’ II",
+    "refers": "'NASAL MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **alar nasalis** [both the material/physical aspect and the functional aspect thereof]",
@@ -2716,7 +2716,7 @@
   },
   {
     "root": "MŽNY",
-    "refers": "‘NASAL MUSCLE’ III",
+    "refers": "'NASAL MUSCLE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **dilator naris anterior** [both the material/physical aspect and the functional aspect thereof]",
@@ -2766,7 +2766,7 @@
   },
   {
     "root": "MÇFW",
-    "refers": "‘EYEBALL MUSCLE’ I",
+    "refers": "'EYEBALL MUSCLE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **superior rectus** [both the material/physical aspect and the functional aspect thereof]",
@@ -2791,7 +2791,7 @@
   },
   {
     "root": "MÇFY",
-    "refers": "‘EYEBALL MUSCLE’ II",
+    "refers": "'EYEBALL MUSCLE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **levator palpebrae superioris** [both the material/physical aspect and the functional aspect thereof]",
@@ -2816,7 +2816,7 @@
   },
   {
     "root": "MÇFL",
-    "refers": "‘HEAD MUSCLE & TISSUE’ I",
+    "refers": "'HEAD MUSCLE & TISSUE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **frontalis** [both the material/physical aspect and the functional aspect thereof]",
@@ -2841,7 +2841,7 @@
   },
   {
     "root": "MÇFR",
-    "refers": "‘HEAD MUSCLE & TISSUE’ II",
+    "refers": "'HEAD MUSCLE & TISSUE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **temporal fascia** [both the material/physical aspect and the functional aspect thereof]",
@@ -2966,7 +2966,7 @@
   },
   {
     "root": "VZKW",
-    "refers": "‘FOOT LIGAMENT’ I",
+    "refers": "'FOOT LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **plantar interphalangeal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -2991,7 +2991,7 @@
   },
   {
     "root": "VZKY",
-    "refers": "‘FOOT LIGAMENT’ II",
+    "refers": "'FOOT LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **collateral interphalangeal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3016,7 +3016,7 @@
   },
   {
     "root": "VZKL",
-    "refers": "‘FOOT LIGAMENT’ III",
+    "refers": "'FOOT LIGAMENT' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **plantar intermetatarsal/metatarsal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3041,7 +3041,7 @@
   },
   {
     "root": "VZKR",
-    "refers": "‘FOOT LIGAMENT’ IV",
+    "refers": "'FOOT LIGAMENT' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **dorsal intermetatarsal/metatarsal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3066,7 +3066,7 @@
   },
   {
     "root": "VZKŘ",
-    "refers": "‘FOOT LIGAMENT’ V",
+    "refers": "'FOOT LIGAMENT' V",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **plantar cuneonavicular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3091,7 +3091,7 @@
   },
   {
     "root": "VZKÇ",
-    "refers": "‘FOOT LIGAMENT’ VI",
+    "refers": "'FOOT LIGAMENT' VI",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **dorsal cuneonavicular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3116,7 +3116,7 @@
   },
   {
     "root": "VZKF",
-    "refers": "‘FOOT LIGAMENT’ VII",
+    "refers": "'FOOT LIGAMENT' VII",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **plantar calcaneonavicular/spring ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3141,7 +3141,7 @@
   },
   {
     "root": "VZKŢ",
-    "refers": "‘FOOT LIGAMENT’ VIII",
+    "refers": "'FOOT LIGAMENT' VIII",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **plantar or long plantar calcaneocuboid ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3166,7 +3166,7 @@
   },
   {
     "root": "VZKV",
-    "refers": "‘FOOT LIGAMENT’ IX",
+    "refers": "'FOOT LIGAMENT' IX",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior talocalcaneal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3191,7 +3191,7 @@
   },
   {
     "root": "VZKM",
-    "refers": "‘FOOT LIGAMENT’ X",
+    "refers": "'FOOT LIGAMENT' X",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **posterior talocalcaneal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3216,7 +3216,7 @@
   },
   {
     "root": "VZKN",
-    "refers": "‘FOOT LIGAMENT’ XI",
+    "refers": "'FOOT LIGAMENT' XI",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior tibiotalar ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3241,7 +3241,7 @@
   },
   {
     "root": "VZKH",
-    "refers": "‘FOOT LIGAMENT’ XII",
+    "refers": "'FOOT LIGAMENT' XII",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior talofibular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3316,7 +3316,7 @@
   },
   {
     "root": "KŢC",
-    "refers": "‘KNEE LIGAMENT’ I",
+    "refers": "'KNEE LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior cruciate ligament / cranial cruciate ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3341,7 +3341,7 @@
   },
   {
     "root": "KŢCW",
-    "refers": "‘KNEE LIGAMENT’ II",
+    "refers": "'KNEE LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **posterior cruciate ligament / caudal cruciate ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3366,7 +3366,7 @@
   },
   {
     "root": "KŢCY",
-    "refers": "‘KNEE LIGAMENT’ III",
+    "refers": "'KNEE LIGAMENT' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior meniscofemoral ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3391,7 +3391,7 @@
   },
   {
     "root": "KŢCM",
-    "refers": "‘KNEE LIGAMENT’ IV",
+    "refers": "'KNEE LIGAMENT' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **posterior meniscofemoral ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3441,7 +3441,7 @@
   },
   {
     "root": "KSLW",
-    "refers": "‘HIP LIGAMENT’ I",
+    "refers": "'HIP LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **iliofemoral ligament / Y-ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3466,7 +3466,7 @@
   },
   {
     "root": "KSLY",
-    "refers": "‘HIP LIGAMENT’ II",
+    "refers": "'HIP LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **head of the femur ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3566,7 +3566,7 @@
   },
   {
     "root": "Q1",
-    "refers": "‘PELVIC LIGAMENT’ I",
+    "refers": "'PELVIC LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior sacroiliac ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3591,7 +3591,7 @@
   },
   {
     "root": "Q2",
-    "refers": "‘PELVIC LIGAMENT’ II",
+    "refers": "'PELVIC LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **superior pubic ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3641,7 +3641,7 @@
   },
   {
     "root": "BZLW",
-    "refers": "‘THORACO-VERTEBRAL LIGAMENT’ I",
+    "refers": "'THORACO-VERTEBRAL LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior sacrococcygeal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3666,7 +3666,7 @@
   },
   {
     "root": "GZLW",
-    "refers": "‘THORACO-VERTEBRAL LIGAMENT’ II",
+    "refers": "'THORACO-VERTEBRAL LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **costotransverse ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3691,7 +3691,7 @@
   },
   {
     "root": "ẒLW",
-    "refers": "‘THORACO-VERTEBRAL LIGAMENT’ III",
+    "refers": "'THORACO-VERTEBRAL LIGAMENT' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **intra-articular sternocostal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3716,7 +3716,7 @@
   },
   {
     "root": "BZLY",
-    "refers": "‘VERTEBRAL LIGAMENT’ I",
+    "refers": "'VERTEBRAL LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **iliolumbar ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3741,7 +3741,7 @@
   },
   {
     "root": "GZLY",
-    "refers": "‘VERTEBRAL LIGAMENT’ II",
+    "refers": "'VERTEBRAL LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **cruciate ligament of atlas (transverse ligament of atlas)** [both the material/physical aspect and the functional aspect thereof]",
@@ -3766,7 +3766,7 @@
   },
   {
     "root": "ẒLY",
-    "refers": "‘VERTEBRAL LIGAMENT’ III",
+    "refers": "'VERTEBRAL LIGAMENT' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior longitudinal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3791,7 +3791,7 @@
   },
   {
     "root": "JLY",
-    "refers": "‘VERTEBRAL LIGAMENT’ IV",
+    "refers": "'VERTEBRAL LIGAMENT' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **supraspinous (nuchal) ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3891,7 +3891,7 @@
   },
   {
     "root": "KŢTW",
-    "refers": "‘HAND LIGAMENT’ I",
+    "refers": "'HAND LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **collateral interphalangeal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3916,7 +3916,7 @@
   },
   {
     "root": "KŢTY",
-    "refers": "‘HAND LIGAMENT’ II",
+    "refers": "'HAND LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **palmar interphalangeal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3941,7 +3941,7 @@
   },
   {
     "root": "KŢTL",
-    "refers": "‘HAND LIGAMENT’ III",
+    "refers": "'HAND LIGAMENT' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **dorsal carpometacarpal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3966,7 +3966,7 @@
   },
   {
     "root": "KŢTR",
-    "refers": "‘HAND LIGAMENT’ IV",
+    "refers": "'HAND LIGAMENT' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **palmar carpometacarpal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -3991,7 +3991,7 @@
   },
   {
     "root": "KŢTŘ",
-    "refers": "‘HAND LIGAMENT’ V",
+    "refers": "'HAND LIGAMENT' V",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **radiate carpal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4016,7 +4016,7 @@
   },
   {
     "root": "KŢTÇ",
-    "refers": "‘HAND LIGAMENT’ VI",
+    "refers": "'HAND LIGAMENT' VI",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **dorsal radiocarpal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4041,7 +4041,7 @@
   },
   {
     "root": "KŢTH",
-    "refers": "‘OTHER HAND/WRIST TISSUE’ I",
+    "refers": "'OTHER HAND/WRIST TISSUE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **palmar radiocarpal ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4066,7 +4066,7 @@
   },
   {
     "root": "PŢTW",
-    "refers": "‘OTHER HAND/WRIST TISSUE’ II",
+    "refers": "'OTHER HAND/WRIST TISSUE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **pisohamate ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4091,7 +4091,7 @@
   },
   {
     "root": "RŢTH",
-    "refers": "‘OTHER HAND/WRIST TISSUE’ III",
+    "refers": "'OTHER HAND/WRIST TISSUE' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **carpal tunnel** [both the material/physical aspect and the functional aspect thereof]",
@@ -4100,10 +4100,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **carpal tunnel** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **ulnar canal / Guyon’s canal** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **ulnar canal / Guyon’s canal**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **ulnar canal / Guyon’s canal**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **ulnar canal / Guyon’s canal** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **ulnar canal / Guyon's canal** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **ulnar canal / Guyon's canal**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **ulnar canal / Guyon's canal**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **ulnar canal / Guyon's canal** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **hook of the hamate bone** [both the material/physical aspect and the functional aspect thereof]",
@@ -4141,7 +4141,7 @@
   },
   {
     "root": "PŢTL",
-    "refers": "‘ELBOW LIGAMENT’ I",
+    "refers": "'ELBOW LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **annular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4166,7 +4166,7 @@
   },
   {
     "root": "PŢTR",
-    "refers": "‘ELBOW LIGAMENT’ II",
+    "refers": "'ELBOW LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **radial collateral ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4191,7 +4191,7 @@
   },
   {
     "root": "PŢTŘ",
-    "refers": "‘SHOULDER LIGAMENT’ I",
+    "refers": "'SHOULDER LIGAMENT' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **anterior sternoclavicular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4216,7 +4216,7 @@
   },
   {
     "root": "PŢTĻ",
-    "refers": "‘SHOULDER LIGAMENT’ II",
+    "refers": "'SHOULDER LIGAMENT' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **costoclavicular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4241,7 +4241,7 @@
   },
   {
     "root": "PŢTÇ",
-    "refers": "‘SHOULDER LIGAMENT’ III",
+    "refers": "'SHOULDER LIGAMENT' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **superior transverse scapular ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4266,7 +4266,7 @@
   },
   {
     "root": "PŢTH",
-    "refers": "‘SHOULDER LIGAMENT’ IV",
+    "refers": "'SHOULDER LIGAMENT' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **superior glenohumeral ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4291,7 +4291,7 @@
   },
   {
     "root": "PŢTHW",
-    "refers": "‘SHOULDER LIGAMENT’ V",
+    "refers": "'SHOULDER LIGAMENT' V",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **coracohumeral ligament** [both the material/physical aspect and the functional aspect thereof]",
@@ -4316,7 +4316,7 @@
   },
   {
     "root": "PÇL",
-    "refers": "‘OTHER BODILY TISSUE’ I",
+    "refers": "'OTHER BODILY TISSUE' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **tendinous intersection / tendinous inscription** [both the material/physical aspect and the functional aspect thereof]",
@@ -4341,7 +4341,7 @@
   },
   {
     "root": "PÇR",
-    "refers": "‘OTHER BODILY TISSUE’ II",
+    "refers": "'OTHER BODILY TISSUE' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **xiphoid process / ensiform process / xiphisternum / metasternum** [both the material/physical aspect and the functional aspect thereof]",

@@ -112,10 +112,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **leg as ambulatory appendage of animal or ambulatory entity** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **leg as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **leg as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **leg as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **leg as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **leg as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **leg as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **leg as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **leg as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)** belongs or is from"
       }
     ]
   },
@@ -136,10 +136,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **arm as appendage of animal (or anthropomorphic entity) for holding, carrying, lifting** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **arm as functional “tool”/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **arm as functional “tool”/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **arm as functional “tool”/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **arm as functional “tool”/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **arm as functional 'tool'/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **arm as functional 'tool'/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **arm as functional 'tool'/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **arm as functional 'tool'/manipulator by which to reach, hit, push, press, apply force, protect oneself, etc.** belongs or is from"
       }
     ]
   },
@@ -196,22 +196,22 @@
     "refers": "HEAD",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **head as a living being’s primary “interface” or “access point” for communication, ingestion, non-tactile sensory input, etc.** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **head as a living being’s primary “interface” or “access point” for communication, ingestion, non-tactile sensory input, etc.**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **head as a living being’s primary “interface” or “access point” for communication, ingestion, non-tactile sensory input, etc.**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **head as a living being’s primary “interface” or “access point” for communication, ingestion, non-tactile sensory input, etc.** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **head as a living being's primary 'interface' or 'access point' for communication, ingestion, non-tactile sensory input, etc.** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **head as a living being's primary 'interface' or 'access point' for communication, ingestion, non-tactile sensory input, etc.**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **head as a living being's primary 'interface' or 'access point' for communication, ingestion, non-tactile sensory input, etc.**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **head as a living being's primary 'interface' or 'access point' for communication, ingestion, non-tactile sensory input, etc.** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **head as seat of one’s consciousness/personality/identity/mind/brain** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **head as seat of one’s consciousness/personality/identity/mind/brain**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **head as seat of one’s consciousness/personality/identity/mind/brain**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **head as seat of one’s consciousness/personality/identity/mind/brain** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **head as seat of one's consciousness/personality/identity/mind/brain** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **head as seat of one's consciousness/personality/identity/mind/brain**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **head as seat of one's consciousness/personality/identity/mind/brain**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **head as seat of one's consciousness/personality/identity/mind/brain** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **head as “top” or “forward” extension of bodily form** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **head as “top” or “forward” extension of bodily form**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **head as “top” or “forward” extension of bodily form**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **head as “top” or “forward” extension of bodily form** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **head as 'top' or 'forward' extension of bodily form** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **head as 'top' or 'forward' extension of bodily form**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **head as 'top' or 'forward' extension of bodily form**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **head as 'top' or 'forward' extension of bodily form** belongs or is from"
       }
     ]
   },
@@ -220,10 +220,10 @@
     "refers": "HAND",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **hand as an animal’s primary body part for fine-motor physical manipulation/handling of external entities** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **hand as an animal’s primary body part for fine-motor physical manipulation/handling of external entities**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **hand as an animal’s primary body part for fine-motor physical manipulation/handling of external entities**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **hand as an animal’s primary body part for fine-motor physical manipulation/handling of external entities** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **hand as an animal's primary body part for fine-motor physical manipulation/handling of external entities** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **hand as an animal's primary body part for fine-motor physical manipulation/handling of external entities**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **hand as an animal's primary body part for fine-motor physical manipulation/handling of external entities**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **hand as an animal's primary body part for fine-motor physical manipulation/handling of external entities** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **hand as holder, grasper, striker** [both the material/physical aspect and the functional aspect thereof]",
@@ -232,10 +232,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **hand as holder, grasper, striker** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, “feeler”, toucher** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, “feeler”, toucher**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, “feeler”, toucher**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, “feeler”, toucher** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, 'feeler', toucher** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, 'feeler', toucher**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, 'feeler', toucher**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **hand as primary tactile-sensory interface, 'feeler', toucher** belongs or is from"
       }
     ]
   },
@@ -293,10 +293,10 @@
     "refers": "FOOT / PAW",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **foot/paw as an entity’s primary contact/support point with ground/firmament when standing/ambulating** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **foot/paw as an entity’s primary contact/support point with ground/firmament when standing/ambulating**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **foot/paw as an entity’s primary contact/support point with ground/firmament when standing/ambulating**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **foot/paw as an entity’s primary contact/support point with ground/firmament when standing/ambulating** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **foot/paw as an entity's primary contact/support point with ground/firmament when standing/ambulating** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **foot/paw as an entity's primary contact/support point with ground/firmament when standing/ambulating**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **foot/paw as an entity's primary contact/support point with ground/firmament when standing/ambulating**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **foot/paw as an entity's primary contact/support point with ground/firmament when standing/ambulating** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **foot/paw as ambulatory appendage** [both the material/physical aspect and the functional aspect thereof]",
@@ -305,10 +305,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **foot/paw as ambulatory appendage** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **foot/paw as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **foot/paw as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **foot/paw as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **foot/paw as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **foot/paw as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **foot/paw as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **foot/paw as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **foot/paw as functional 'tool'/manipulator (e.g., with which to kick, push, press, apply force, etc.)** belongs or is from"
       }
     ]
   },
@@ -317,22 +317,22 @@
     "refers": "PART OF HAND OR FOOT",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate ‘hand’ or ‘foot’ to specify whether palm or underside of foot)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate ‘hand’ or ‘foot’ to specify whether palm or underside of foot)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate ‘hand’ or ‘foot’ to specify whether palm or underside of foot)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate ‘hand’ or ‘foot’ to specify whether palm or underside of foot)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate 'hand' or 'foot' to specify whether palm or underside of foot)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate 'hand' or 'foot' to specify whether palm or underside of foot)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate 'hand' or 'foot' to specify whether palm or underside of foot)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **quasi-flat ventral mid-part of appendage (concatenate 'hand' or 'foot' to specify whether palm or underside of foot)** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate ‘hand’ or ‘foot’ to specify which)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate ‘hand’ or ‘foot’ to specify which)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate ‘hand’ or ‘foot’ to specify which)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate ‘hand’ or ‘foot’ to specify which)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate 'hand' or 'foot' to specify which)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate 'hand' or 'foot' to specify which)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate 'hand' or 'foot' to specify which)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **ball of the foot or upper palmar ridge of the hand (concatenate 'hand' or 'foot' to specify which)** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate ‘hand’ or ‘foot’ to specify whether butt of the palm or heel)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate ‘hand’ or ‘foot’ to specify whether butt of the palm or heel)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate ‘hand’ or ‘foot’ to specify whether butt of the palm or heel)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate ‘hand’ or ‘foot’ to specify whether butt of the palm or heel)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate 'hand' or 'foot' to specify whether butt of the palm or heel)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate 'hand' or 'foot' to specify whether butt of the palm or heel)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate 'hand' or 'foot' to specify whether butt of the palm or heel)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **butt of the hand or foot (concatenate 'hand' or 'foot' to specify whether butt of the palm or heel)** belongs or is from"
       }
     ]
   },
@@ -755,16 +755,16 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **face (as gestalt entity made up of the various facial quasi-planar surfaces plus the eyes, nose, lips, eyebrows, etc.)** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **face (as one’s primary interface area for vocalization and display of emotion)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **face (as one’s primary interface area for vocalization and display of emotion)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **face (as one’s primary interface area for vocalization and display of emotion)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **face (as one’s primary interface area for vocalization and display of emotion)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **face (as one's primary interface area for vocalization and display of emotion)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **face (as one's primary interface area for vocalization and display of emotion)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **face (as one's primary interface area for vocalization and display of emotion)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **face (as one's primary interface area for vocalization and display of emotion)** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **face/visage (as one’s primary source/trait for recognition/identification)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **face/visage (as one’s primary source/trait for recognition/identification)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **face/visage (as one’s primary source/trait for recognition/identification)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **face/visage (as one’s primary source/trait for recognition/identification)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **face/visage (as one's primary source/trait for recognition/identification)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **face/visage (as one's primary source/trait for recognition/identification)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **face/visage (as one's primary source/trait for recognition/identification)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **face/visage (as one's primary source/trait for recognition/identification)** belongs or is from"
       }
     ]
   },
@@ -803,10 +803,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **chest, pectoral area** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **abdomen, midriff, waist, “stomach”/ “belly” / “tummy” area** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **abdomen, midriff, waist, “stomach”/ “belly” / “tummy” area**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **abdomen, midriff, waist, “stomach”/ “belly” / “tummy” area**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **abdomen, midriff, waist, “stomach”/ “belly” / “tummy” area** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **abdomen, midriff, waist, 'stomach'/ 'belly' / 'tummy' area** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **abdomen, midriff, waist, 'stomach'/ 'belly' / 'tummy' area**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **abdomen, midriff, waist, 'stomach'/ 'belly' / 'tummy' area**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **abdomen, midriff, waist, 'stomach'/ 'belly' / 'tummy' area** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **trunk, thorax** [both the material/physical aspect and the functional aspect thereof]",
@@ -917,16 +917,16 @@
     "refers": "SPECIALTY HAIR-LIKE TISSUE",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for “eyelashes”]** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for “eyelashes”]**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for “eyelashes”]**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for “eyelashes”]** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for 'eyelashes']** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for 'eyelashes']**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for 'eyelashes']**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **an eyelash hair [use appropriate configuration for 'eyelashes']** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for “eyebrow”]** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for “eyebrow”]**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for “eyebrow”]**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for “eyebrow”]** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for 'eyebrow']** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for 'eyebrow']**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for 'eyebrow']**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **an eyebrow hair [use appropriate configuration for 'eyebrow']** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **a whisker/vibrissa** [both the material/physical aspect and the functional aspect thereof]",
@@ -1193,10 +1193,10 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **bicuspid** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render ‘premolar’]** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render ‘premolar’]**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render ‘premolar’]**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render ‘premolar’]** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render 'premolar']** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render 'premolar']**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render 'premolar']**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **molar [concatenate this stem with -PFW- to render 'premolar']** belongs or is from"
       }
     ]
   },
@@ -1301,10 +1301,10 @@
     "refers": "PARTS OF A BODILY JOINT",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the “hard/bony” side of a bodily joint]*** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the “hard/bony” side of a bodily joint]***",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the “hard/bony” side of a bodily joint]***",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the “hard/bony” side of a bodily joint]*** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the 'hard/bony' side of a bodily joint]*** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the 'hard/bony' side of a bodily joint]***",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the 'hard/bony' side of a bodily joint]***",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **(to be) the superior/dorsal side of a bodily joint [i.e., the 'hard/bony' side of a bodily joint]*** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **(to be) the inferior/ventral side of a bodily joint [i.e., the soft, concave side of a bodily joint]*** [both the material/physical aspect and the functional aspect thereof]",
@@ -1313,17 +1313,17 @@
         "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **(to be) the inferior/ventral side of a bodily joint [i.e., the soft, concave side of a bodily joint]*** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **(to be) the internal “swivel” mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)*** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **(to be) the internal “swivel” mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)***",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **(to be) the internal “swivel” mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)***",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **(to be) the internal “swivel” mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)*** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **(to be) the internal 'swivel' mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)*** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **(to be) the internal 'swivel' mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)***",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **(to be) the internal 'swivel' mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)***",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **(to be) the internal 'swivel' mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)*** belongs or is from"
       }
     ],
-    "notes": "*concatenate the stem of a specific limb or digit to specify ‘elbow’, ‘knee’, ‘knuckle (of finger)’, ‘knuckle (of toe), ‘shoulder’, etc."
+    "notes": "*concatenate the stem of a specific limb or digit to specify 'elbow', 'knee', 'knuckle (of finger)', 'knuckle (of toe), 'shoulder', etc."
   },
   {
     "root": "LDN",
-    "refers": "‘GUM TISSUE / HARD PALATE",
+    "refers": "'GUM TISSUE / HARD PALATE",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **gum tissue** [both the material/physical aspect and the functional aspect thereof]",
@@ -1470,16 +1470,16 @@
     "refers": "PROBOSCIS / NOSE / SNOUT / BEAK",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one’s olfactory sense organ (see -ŽG-)]** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one’s olfactory sense organ (see -ŽG-)]**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one’s olfactory sense organ (see -ŽG-)]**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one’s olfactory sense organ (see -ŽG-)]** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one's olfactory sense organ (see -ŽG-)]** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one's olfactory sense organ (see -ŽG-)]**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one's olfactory sense organ (see -ŽG-)]**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **nose [i.e., the visible external proboscis, not the nostrils or one's olfactory sense organ (see -ŽG-)]** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir’s snout, etc.]** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir’s snout, etc.]**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir’s snout, etc.]**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir’s snout, etc.]** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir's snout, etc.]** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir's snout, etc.]**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir's snout, etc.]**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **snout, proboscis [mammalian, e.g., elephant trunk, tapir's snout, etc.]** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **beak** [both the material/physical aspect and the functional aspect thereof]",
@@ -1563,13 +1563,13 @@
   },
   {
     "root": "MFP",
-    "refers": "‘LIP’ *",
+    "refers": "'LIP' *",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **lip as aperture or “seal” to one’s mouth** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **lip as aperture or “seal” to one’s mouth**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **lip as aperture or “seal” to one’s mouth**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **lip as aperture or “seal” to one’s mouth** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **lip as aperture or 'seal' to one's mouth** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **lip as aperture or 'seal' to one's mouth**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **lip as aperture or 'seal' to one's mouth**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **lip as aperture or 'seal' to one's mouth** belongs or is from"
       },
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **lip as manipulative organ for the production of spoken language** [both the material/physical aspect and the functional aspect thereof]",
@@ -1591,28 +1591,28 @@
     "refers": "CHEEK / CHIN / JAW",
     "stems": [
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **one’s cheek (on face)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **one’s cheek (on face)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **one’s cheek (on face)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **one’s cheek (on face)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **one's cheek (on face)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **one's cheek (on face)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **one's cheek (on face)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **one's cheek (on face)** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **one’s chin** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **one’s chin**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **one’s chin**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **one’s chin** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **one's chin** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **one's chin**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **one's chin**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **one's chin** belongs or is from"
       },
       {
-        "BSC": "(to be) a particular bodily part/organ/tissue identified as **one’s jaw (i.e., lower portion of face that moves on hinge-like joint)** [both the material/physical aspect and the functional aspect thereof]",
-        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **one’s jaw (i.e., lower portion of face that moves on hinge-like joint)**",
-        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **one’s jaw (i.e., lower portion of face that moves on hinge-like joint)**",
-        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **one’s jaw (i.e., lower portion of face that moves on hinge-like joint)** belongs or is from"
+        "BSC": "(to be) a particular bodily part/organ/tissue identified as **one's jaw (i.e., lower portion of face that moves on hinge-like joint)** [both the material/physical aspect and the functional aspect thereof]",
+        "CTE": "(to be) the function of a particular bodily part/organ/tissue identified as **one's jaw (i.e., lower portion of face that moves on hinge-like joint)**",
+        "CSV": "(to be) the physical/material make-up of a particular bodily part/organ/tissue identified as **one's jaw (i.e., lower portion of face that moves on hinge-like joint)**",
+        "OBJ": "(to be) the body to whom the particular bodily part/organ/tissue identified as **one's jaw (i.e., lower portion of face that moves on hinge-like joint)** belongs or is from"
       }
     ]
   },
   {
     "root": "LPSL",
-    "refers": "‘MAJOR ARTERY’ I",
+    "refers": "'MAJOR ARTERY' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **aorta** [both the material/physical aspect and the functional aspect thereof]",
@@ -1636,7 +1636,7 @@
   },
   {
     "root": "LPÇL",
-    "refers": "‘MAJOR ARTERY’ II",
+    "refers": "'MAJOR ARTERY' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **brachiocephalic artery** [both the material/physical aspect and the functional aspect thereof]",
@@ -1660,7 +1660,7 @@
   },
   {
     "root": "LPFL",
-    "refers": "‘MAJOR ARTERY’ III",
+    "refers": "'MAJOR ARTERY' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **iliac artery** [both the material/physical aspect and the functional aspect thereof]",
@@ -1684,7 +1684,7 @@
   },
   {
     "root": "LBZL",
-    "refers": "‘MAJOR VEIN’ I",
+    "refers": "'MAJOR VEIN' I",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **vena cava** [both the material/physical aspect and the functional aspect thereof]",
@@ -1708,7 +1708,7 @@
   },
   {
     "root": "LBŽL",
-    "refers": "‘MAJOR VEIN’ II",
+    "refers": "'MAJOR VEIN' II",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **brachiocephalic vein** [both the material/physical aspect and the functional aspect thereof]",
@@ -1732,7 +1732,7 @@
   },
   {
     "root": "LẒL",
-    "refers": "‘MAJOR VEIN’ III",
+    "refers": "'MAJOR VEIN' III",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **subclavian vein** [both the material/physical aspect and the functional aspect thereof]",
@@ -1756,7 +1756,7 @@
   },
   {
     "root": "LJL",
-    "refers": "‘MAJOR VEIN’ IV",
+    "refers": "'MAJOR VEIN' IV",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **iliac vein** [both the material/physical aspect and the functional aspect thereof]",
@@ -2026,7 +2026,7 @@
         "BSC": "(to be) the mouth [of a chordate animal]",
         "CTE": "(to be) the oral cavity (i.e., the interior space of a mouth)",
         "CSV": "(to be) the structural tissue(s) which form a mouth",
-        "OBJ": "(to be) that which enters or is placed within one’s mouth"
+        "OBJ": "(to be) that which enters or is placed within one's mouth"
       },
       "(to be) the gullet [of a non-chordate animal, plant, protist]",
       "(to be) the bodily apparatus/process by which an entity takes in external food"
@@ -2106,7 +2106,7 @@
   },
   {
     "root": "LCBR",
-    "refers": "STRUCTURES OF THE EAR’S SEMICIRCULAR CANAL",
+    "refers": "STRUCTURES OF THE EAR'S SEMICIRCULAR CANAL",
     "stems": [
       {
         "BSC": "(to be) a particular bodily part/organ/tissue identified as **osseous ampulla** [both the material/physical aspect and the functional aspect thereof]",

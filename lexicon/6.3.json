@@ -4,12 +4,12 @@
     "refers": "PLANETARY BODY",
     "stems": [
       {
-        "BSC": "(to be) a planet/planetary body; to travel one’s orbit in space as a planet",
+        "BSC": "(to be) a planet/planetary body; to travel one's orbit in space as a planet",
         "CTE": "(to be) a world [i.e., the planetary home of a holistic eco-system/biosphere, etc.]",
         "CSV": "(to be) a physical planetary body",
         "OBJ": "(to be) the orbit(al path) of a planetary body; to orbit"
       },
-      "(to be) a moon of planetary body [i.e., sufficiently large to be spherical in shape]; to travel one’s orbit in space as a moon/satellite of a planet",
+      "(to be) a moon of planetary body [i.e., sufficiently large to be spherical in shape]; to travel one's orbit in space as a moon/satellite of a planet",
       "(to be) a large (spherical) asteroid or micro-planet"
     ]
   },
@@ -18,8 +18,8 @@
     "refers": "EARTH / MOON / NAMED MICRO-PLANET",
     "stems": [
       {
-        "BSC": "(to be) the Earth/Terra (as both a planetary body and a “world” encompassing a particular biosphere/ecosystem and civilization)",
-        "CTE": "(to be) “the world” [i.e., the Terran-based biosphere, ecosystem, environment and civilizaton which Terran life inhabits]",
+        "BSC": "(to be) the Earth/Terra (as both a planetary body and a 'world' encompassing a particular biosphere/ecosystem and civilization)",
+        "CTE": "(to be) 'the world' [i.e., the Terran-based biosphere, ecosystem, environment and civilizaton which Terran life inhabits]",
         "CSV": "(to be) the physical planetary body itself that constitutes the planet Earth/Terra",
         "OBJ": "(to be) the orbit(al path) of the planet Earth/Terra"
       },
@@ -75,7 +75,7 @@
     "stems": [
       {
         "BSC": "(to be) a volume of celestial (i.e., interplanetary, interstellar/intergalactic) space; to be (situated) in space",
-        "CTE": "(to be) the state/quality of three-dimensional “spaciousness” or “room” within a volume of celestial space",
+        "CTE": "(to be) the state/quality of three-dimensional 'spaciousness' or 'room' within a volume of celestial space",
         "CSV": "(to be) the physical body/structure/medium of celestial space; to occur or be situated in celestial space",
         "OBJ": "(to be) a location in space (relative to celestial bodies within that space)"
       },
@@ -104,10 +104,10 @@
       {
         "BSC": "(to be) an atom",
         "CTE": "(to be) the state of an atom in terms of its interaction (or lack thereof) with other atoms; for an atom to interact (via atomic bonding) with other atoms",
-        "CSV": "(to be) the tangible/physical “embodiment”/manifestation of an atom",
+        "CSV": "(to be) the tangible/physical 'embodiment'/manifestation of an atom",
         "OBJ": "(to be) a component/attribute/aspect of an atom (i.e., a particle, a charge, a force, etc.)"
       },
-      "(to be) the electron cloud of an atom (i.e., set of electron shells with “orbiting” electrons) of an atom",
+      "(to be) the electron cloud of an atom (i.e., set of electron shells with 'orbiting' electrons) of an atom",
       "(to be) an orbital state (i.e., state and behavior of an electron based on its orbital probability distribution)"
     ]
   },
@@ -118,7 +118,7 @@
       {
         "BSC": "(to be) the nucleus of an atom",
         "CTE": "(to be) the state of an atomic nucleus in terms of its interaction (or lack thereof) with other atoms; for an atom to interact (via atomic bonding) with other atoms",
-        "CSV": "(to be) the tangible/physical “embodiment”/manifestation of an atomic nucleus",
+        "CSV": "(to be) the tangible/physical 'embodiment'/manifestation of an atomic nucleus",
         "OBJ": "(to be) a component/attribute/aspect of an atomic nucleus (i.e., a particle, a charge, a force, etc.)"
       },
       "(to be) a nuclide (i.e., specific configuration of Z- value, N-value, and energy state for a particular atomic nucleus)",
@@ -136,8 +136,8 @@
     "stems": [
       {
         "BSC": "(to be) a sub-atomic particle",
-        "CTE": "(to be) the sub-atomic state or “force” (i.e., interaction) mediated or maintained by a sub- atomic particle",
-        "CSV": "(to be) the tangible/physical “embodiment”/manifestation/“stuff” of a sub-atomic particle",
+        "CTE": "(to be) the sub-atomic state or 'force' (i.e., interaction) mediated or maintained by a sub- atomic particle",
+        "CSV": "(to be) the tangible/physical 'embodiment'/manifestation/'stuff' of a sub-atomic particle",
         "OBJ": "(to be) an attribute of sub-atomic particle (e.g., mass, charge, spin, angular momentum, etc.)"
       },
       "(to be) an elementary particle (i.e., fermion or boson)",
@@ -174,7 +174,7 @@
     "refers": "BOSON",
     "stems": [
       "boson",
-      "“string” (from string theory) [CTE Specification = vibration of “string”]",
+      "'string' (from string theory) [CTE Specification = vibration of 'string']",
       "acceleron (i.e., hypothetical particle associated with dark energy theory)"
     ],
     "see": "LŢK"
@@ -193,7 +193,7 @@
   },
   {
     "root": "LŢKÇ",
-    "refers": "‘WEAK GAUGE BOSON (Weak Nuclear Force)",
+    "refers": "'WEAK GAUGE BOSON (Weak Nuclear Force)",
     "stems": ["W+ boson", "W- boson", "Z-zero boson"],
     "see": "LŢK"
   },
@@ -211,25 +211,25 @@
   },
   {
     "root": "Q3",
-    "refers": "‘OTHER SUB-ATOMIC PARTICLE’ I",
+    "refers": "'OTHER SUB-ATOMIC PARTICLE' I",
     "stems": ["pion", "kaon", "theta meson"],
     "see": "LŢK"
   },
   {
     "root": "Q4",
-    "refers": "‘OTHER SUB-ATOMIC PARTICLE’ II",
+    "refers": "'OTHER SUB-ATOMIC PARTICLE' II",
     "stems": ["rho meson", "eta meson", "D-meson"],
     "see": "LŢK"
   },
   {
     "root": "Q5",
-    "refers": "‘OTHER SUB-ATOMIC PARTICLE’ III",
+    "refers": "'OTHER SUB-ATOMIC PARTICLE' III",
     "stems": ["B-meson", "omega meson", "phi meson"],
     "see": "LŢK"
   },
   {
     "root": "Q6",
-    "refers": "‘OTHER SUB-ATOMIC PARTICLE’ IV",
+    "refers": "'OTHER SUB-ATOMIC PARTICLE' IV",
     "stems": [
       "psion",
       "upsilon meson",
@@ -271,12 +271,12 @@
     "stems": [
       {
         "BSC": "(to be) the state/act/process of there being air in a particular spatio-temporal location (i.e., the standard combination of nitrogen/oxygen/argon/CO₂, etc. that constitutes the breathable atmosphere of Earth)",
-        "CTE": "(to be) air as the primary/relevant component of Earth’s (or a planet’s) atmosphere",
+        "CTE": "(to be) air as the primary/relevant component of Earth's (or a planet's) atmosphere",
         "CSV": "(to be) an act of obtaining/providing/disseminating air (into a volume of space); to get air, give air, let air in",
         "OBJ": "(to be) the air one breathes"
       },
-      "(to be) the state/act/process of there being “fresh” air (i.e., air let in from an external source/outside to replenish the recycled or “stale” air in a location)",
-      "(to be) the state/act/process of there being “stale” air (i.e., air with a lowered oxygen content and/or higher CO₂ concentration and/or pollutants due to breathing in an enclosed space, air pollution, etc.)"
+      "(to be) the state/act/process of there being 'fresh' air (i.e., air let in from an external source/outside to replenish the recycled or 'stale' air in a location)",
+      "(to be) the state/act/process of there being 'stale' air (i.e., air with a lowered oxygen content and/or higher CO₂ concentration and/or pollutants due to breathing in an enclosed space, air pollution, etc.)"
     ]
   },
   {
@@ -493,7 +493,7 @@
   },
   {
     "root": "LZ",
-    "refers": "‘BODY OF FRESH WATER’",
+    "refers": "'BODY OF FRESH WATER'",
     "stems": [
       {
         "BSC": "(to be) a pond/lake",
@@ -586,7 +586,7 @@
         "CSV": "(to be) a phenomenon occurring during a particular season",
         "OBJ": "(to be) a seasonal activity/event/state, i.e., something that happens during a particular season; be something seasonal"
       },
-      "(to be) the natural condition or state of growth/dormancy of Nature’s flora, as associated with a particular season",
+      "(to be) the natural condition or state of growth/dormancy of Nature's flora, as associated with a particular season",
       "(to be) the solstice or equinox associated with a particular season; to be the first day of a season as determined by it being a solstice or equinox"
     ]
   },
@@ -600,7 +600,7 @@
         "CSV": "(to be) a phenomenon/event/state/act occurring during (or because it is) springtime; to occur during (or because it is) springtime",
         "OBJ": "(to be) an activity one does/performs during/because it is springtime"
       },
-      "(to be) the blooming/flowering/growing phenomenon of Nature’s flora occurring/due to it being springtime",
+      "(to be) the blooming/flowering/growing phenomenon of Nature's flora occurring/due to it being springtime",
       "(to be) the Spring equinox"
     ]
   },
@@ -614,7 +614,7 @@
         "CSV": "(to be) a phenomenon/event/state/act occurring during (or because it is) summertime; to occur during (or because it is) summertime",
         "OBJ": "(to be) an activity one does/performs during/because it is summertime"
       },
-      "(to be) the peak state/condition of growth/vibrancy/life of Nature’s flora occurring/due to it being summertime",
+      "(to be) the peak state/condition of growth/vibrancy/life of Nature's flora occurring/due to it being summertime",
       "(to be) the Summer solstice"
     ]
   },
@@ -628,7 +628,7 @@
         "CSV": "(to be) a phenomenon/event/state/act occurring during (or because it is) autumn; to occur during (or because it is) autumn",
         "OBJ": "(to be) an activity one does/performs during/because it is autumn"
       },
-      "(to be) the withering/dying phenomenon of Nature’s flora occurring/due to it being autumn",
+      "(to be) the withering/dying phenomenon of Nature's flora occurring/due to it being autumn",
       "(to be) the Autumn equinox"
     ]
   },
@@ -642,7 +642,7 @@
         "CSV": "(to be) a phenomenon/event/state/act occurring during (or because it is) wintertime; to occur during (or because it is) wintertime",
         "OBJ": "(to be) an activity one does/performs during/because it is wintertime"
       },
-      "(to be) the state/condition of dormancy/lifelessness of Nature’s flora occurring/due to it being wintertime",
+      "(to be) the state/condition of dormancy/lifelessness of Nature's flora occurring/due to it being wintertime",
       "(to be) the Winter solstice"
     ]
   },
@@ -657,7 +657,7 @@
         "OBJ": "(to be) the ambient temperature (as expected for the season)"
       },
       "(to be) the duration of daylight during a 24-hour period in a location due to the time (i.e., season) of the year",
-      "(to be) the angle of the sun (i.e., height of the arc of the sun’s passage) due to the time (i.e., season) of the year"
+      "(to be) the angle of the sun (i.e., height of the arc of the sun's passage) due to the time (i.e., season) of the year"
     ]
   },
   {
@@ -697,7 +697,7 @@
       "(to be) the state/act/process of there being a particular amount of air pressure in the atmosphere; to be a certain atmospheric pressure [i.e., at any given altitude)",
       "(to be) the state/act/process of there being a cloud (in the sky); to be a cloud (in the sky), for a cloud (in the sky) to be present"
     ],
-    "notes": "for ‘fog; to be foggy’, concatenate Stem 2 of -KTH- (‘ground/surface of Earth’) in LOCATIVE format into Stem 3 of the above root (‘cloud’)"
+    "notes": "for 'fog; to be foggy', concatenate Stem 2 of -KTH- ('ground/surface of Earth') in LOCATIVE format into Stem 3 of the above root ('cloud')"
   },
   {
     "root": "TTH",
@@ -714,12 +714,12 @@
         "BSC": "(to be) an amount of rainfall; to rain [CPT version = fallen rain, fallen precipitation]",
         "CTE": "(to be) a state of rainfall, for rain to be falling",
         "CSV": "(to be) a state/act of rain falling",
-        "OBJ": "(to be) an amount of rainwater (e.g., in a puddle, in a container, in one’s hand, etc.)"
+        "OBJ": "(to be) an amount of rainwater (e.g., in a puddle, in a container, in one's hand, etc.)"
       },
       "(to be) an amount of snow; to snow [CPT = fallen snow]",
       "(to be) an amount of hail; to hail [CPT = ice on the ground]"
     ],
-    "notes": "for ‘fog; to be foggy’, concatenate Stem 2 of -KTH- (‘ground/surface of Earth’) in LOCATIVE format into Stem 3 of -FTH- (‘cloud’)"
+    "notes": "for 'fog; to be foggy', concatenate Stem 2 of -KTH- ('ground/surface of Earth') in LOCATIVE format into Stem 3 of -FTH- ('cloud')"
   },
   {
     "root": "FPH",
@@ -788,7 +788,7 @@
         "OBJ": "(to be) the atmospheric state of aerosolized water vapor conducive to/needed for seeing a rainbow"
       },
       "(to be) a state of there being a visible aurora",
-      "(to be) a state of there being sunlight reflected from interplanetary dust particles visible under certain conditions (e.g., zodiacal light (“false dawn”), gegenschein/counterglow)"
+      "(to be) a state of there being sunlight reflected from interplanetary dust particles visible under certain conditions (e.g., zodiacal light ('false dawn'), gegenschein/counterglow)"
     ]
   }
 ]

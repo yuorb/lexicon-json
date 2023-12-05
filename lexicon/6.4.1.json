@@ -16,10 +16,10 @@
         "OBJ": "(to be) an entity having zero-dimensionality; (to be) a Euclidean point; to have geometrically no length, area or volume, i.e., to be a Euclidean point"
       },
       {
-        "BSC": "(to be) the baseline “zero”-state or null-state in a sequence, hierarchy, gradient, pattern, etc.",
-        "CTE": "(to be) the state of being the baseline “zero”-state or null-state",
-        "CSV": "(to be) a process which determines/identifies an entity’s being the baseline “zero”-state or null-state",
-        "OBJ": "(to be) the entity/party in the baseline “zero”-state or null- state in a sequence, hierarchy, gradient, pattern, etc."
+        "BSC": "(to be) the baseline 'zero'-state or null-state in a sequence, hierarchy, gradient, pattern, etc.",
+        "CTE": "(to be) the state of being the baseline 'zero'-state or null-state",
+        "CSV": "(to be) a process which determines/identifies an entity's being the baseline 'zero'-state or null-state",
+        "OBJ": "(to be) the entity/party in the baseline 'zero'-state or null- state in a sequence, hierarchy, gradient, pattern, etc."
       }
     ],
     "notes": "Associated Affix: XX0"
@@ -43,7 +43,7 @@
       {
         "BSC": "(to be) the first entity/party in a group or sequence",
         "CTE": "(to be) the state of being first in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be first",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be first",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is first"
       }
     ],
@@ -68,7 +68,7 @@
       {
         "BSC": "(to be) the **2**nd entity/party in a group or sequence",
         "CTE": "(to be) the state of being **2**nd in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **2**nd",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **2**nd",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **2**nd"
       }
     ],
@@ -93,7 +93,7 @@
       {
         "BSC": "(to be) the **3**rd entity/party in a group or sequence",
         "CTE": "(to be) the state of being **3**rd in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **3**rd",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **3**rd",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **3**rd"
       }
     ],
@@ -118,7 +118,7 @@
       {
         "BSC": "(to be) the **4**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **4**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **4**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **4**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **4**th"
       }
     ],
@@ -143,7 +143,7 @@
       {
         "BSC": "(to be) the **5**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **5**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **5**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **5**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **5**th"
       }
     ],
@@ -168,7 +168,7 @@
       {
         "BSC": "(to be) the **6**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **6**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **6**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **6**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **6**th"
       }
     ],
@@ -193,7 +193,7 @@
       {
         "BSC": "(to be) the **7**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **7**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **7**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **7**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **7**th"
       }
     ],
@@ -218,7 +218,7 @@
       {
         "BSC": "(to be) the **8**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **8**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **8**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **8**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **8**th"
       }
     ],
@@ -243,7 +243,7 @@
       {
         "BSC": "(to be) the **9**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **9**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **9**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **9**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **9**th"
       }
     ],
@@ -268,7 +268,7 @@
       {
         "BSC": "(to be) the **10**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **10**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **10**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **10**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **10**th"
       }
     ],
@@ -293,7 +293,7 @@
       {
         "BSC": "(to be) the **100**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **100**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **100**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100**th"
       }
     ],
@@ -318,7 +318,7 @@
       {
         "BSC": "(to be) the **100²**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **100²**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100²**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **100²**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100²**th"
       }
     ],
@@ -343,7 +343,7 @@
       {
         "BSC": "(to be) the **100⁴**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **100⁴**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100⁴**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **100⁴**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100⁴**th"
       }
     ],
@@ -368,7 +368,7 @@
       {
         "BSC": "(to be) the **100⁸**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **100⁸**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **100⁸**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **100⁸**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **100⁸**th"
       }
     ],
@@ -393,7 +393,7 @@
       {
         "BSC": "(to be) the **11**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **11**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **11**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **11**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **11**th"
       }
     ],
@@ -418,7 +418,7 @@
       {
         "BSC": "(to be) the **12**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **12**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **12**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **12**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **12**th"
       }
     ],
@@ -443,7 +443,7 @@
       {
         "BSC": "(to be) the **13**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **13**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **13**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **13**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **13**th"
       }
     ],
@@ -468,7 +468,7 @@
       {
         "BSC": "(to be) the **14**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **14**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **14**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **14**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **14**th"
       }
     ],
@@ -493,7 +493,7 @@
       {
         "BSC": "(to be) the **15**th entity/party in a group or sequence",
         "CTE": "(to be) the state of being **15**th in a sequence/group/pattern",
-        "CSV": "(to be) a process which determines/identifies an entity’s sequential place in a sequence or group/pattern to be **15**th",
+        "CSV": "(to be) a process which determines/identifies an entity's sequential place in a sequence or group/pattern to be **15**th",
         "OBJ": "(to be) the entity/party whose numerical place in a sequence/group/pattern is **15**th"
       }
     ],
@@ -628,6 +628,6 @@
         "OBJ": "(to be) the (desired) transformation precipitated by performance/application of an abstract operation"
       }
     ],
-    "notes": "Use an appropriate degree of the OAU affix with the stems of the above root to generate a term for “argument” or “abstract entity” meaning a logical participant or referenced entity within a logical argument, e.g., “In linguistics, we speak of the various nouns within a sentence as being *arguments* to a verb.”"
+    "notes": "Use an appropriate degree of the OAU affix with the stems of the above root to generate a term for 'argument' or 'abstract entity' meaning a logical participant or referenced entity within a logical argument, e.g., 'In linguistics, we speak of the various nouns within a sentence as being *arguments* to a verb.'"
   }
 ]

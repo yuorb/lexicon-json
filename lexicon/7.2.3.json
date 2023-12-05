@@ -29,7 +29,7 @@
     "stems": [
       {
         "BSC": "(to be) a state of living with a static/permanent physical or mental disability (i.e., not disease-related, e.g., missing a limb, paralysis due to a war injury, blindness due to an accident, etc.)",
-        "CTE": "(to be) a state of physical disability (i.e., not having all of one’s poential abilities)",
+        "CTE": "(to be) a state of physical disability (i.e., not having all of one's poential abilities)",
         "CSV": "(to be) a state of suffering/enduring/dealing with the effect(s) of a disability",
         "OBJ": "(to be) the disability itself"
       },
@@ -187,7 +187,7 @@
     "stems": [
       "syncope (fainting)",
       "altitude sickness",
-      "nitrogen narcosis (“the bends”)"
+      "nitrogen narcosis ('the bends')"
     ],
     "see": "ÇK"
   },
