@@ -22,7 +22,7 @@
                 "BSC": "(to be) something having a chunky texture or tactile sensation (chunk-like, irregular/coarse pieces one can easily hold between thumb and forefinger)",
                 "CTE": "(to be/have) a chunky texture or tactile sensation",
                 "CSV": "(to be) the chunky texture or tactile sensation perceived and being identifiable as a particular texture or tactile sensation (i.e., the texture or tactile sensation of something known)",
-                "OBJ": "(to be) an object/entity having a chunky texture or tactile sensation (e.g., 'the chunky-feeling one')"
+                "OBJ": "(to be) an object/entity having a chunky texture or tactile sensation (e.g., \"the chunky-feeling one\")"
             },
             "gravel-like sensation",
             "coarse/gritty sensation like sand"
@@ -44,7 +44,7 @@
         "stems": [
             "flaky textured",
             "scaly textured",
-            "'confetti' textured - like small flat pieces of paper"
+            "\"confetti\" textured - like small flat pieces of paper"
         ],
         "see": "GS"
     },
@@ -273,8 +273,8 @@
         "refers": "ORAL TEXTURE",
         "stems": [
             "chewy texture (in mouth)",
-            "'tough' texture (in mouth, e.g., of meat)",
-            "'melt-in-your-mouth' savory texture"
+            "\"tough\" texture (in mouth, e.g., of meat)",
+            "\"melt-in-your-mouth\" savory texture"
         ],
         "see": "GS"
     },
@@ -314,7 +314,7 @@
         "stems": [
             "wispy/wafting/misty texture",
             "fluffy/puffy/cottony texture",
-            "'cobwebby'/like cotton-candy texture"
+            "\"cobwebby\"/like cotton-candy texture"
         ],
         "see": "GS"
     }

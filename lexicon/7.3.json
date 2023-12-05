@@ -91,8 +91,8 @@
     "root": "VN",
     "refers": "BASIC ANIMAL TYPES",
     "stems": [
-      "animal of land or air ('terroid')",
-      "waterlife-animal, animal living in water ('aquoid')",
+      "animal of land or air (\"terroid\")",
+      "waterlife-animal, animal living in water (\"aquoid\")",
       "amphibian"
     ],
     "see": "ŠW"
@@ -109,7 +109,7 @@
     "stems": [
       "adult human being",
       "human child",
-      "adolescent human being, 'teenager'"
+      "adolescent human being, \"teenager\""
     ],
     "see": "ŠW"
   },
@@ -218,7 +218,7 @@
     "stems": [
       "beetle or beetle-like insect (in terms of appearance/behavior)",
       "ant or ant-like insect (in terms of behavior/appearance)",
-      "rounded 'bug'-like insect other than beetle (e.g., bed bug, stink bug, junebug, etc.)"
+      "rounded \"bug\"-like insect other than beetle (e.g., bed bug, stink bug, junebug, etc.)"
     ],
     "see": "ŠW"
   },
@@ -297,7 +297,7 @@
         "OBJ": "(to be) a cocoon or chrysalis"
       },
       {
-        "BSC": "(to be) the 'birth' or hatching of a life-form from a cocoon, chrysalis, external (shell-bearing) egg, or other interim metamorphic life-stage; to hatch, emerge from a cocoon, emerge from a marsupial pouch, etc.",
+        "BSC": "(to be) the \"birth\" or hatching of a life-form from a cocoon, chrysalis, external (shell-bearing) egg, or other interim metamorphic life-stage; to hatch, emerge from a cocoon, emerge from a marsupial pouch, etc.",
         "CTE": "(to be) the state of having completed a metamorphic life-stage and becoming one's final corporeal form",
         "CSV": "(to be) the process of hatching/emerging itself",
         "OBJ": "(to be) the discarded cocoon, egg-casing, bud, etc. emerged from"

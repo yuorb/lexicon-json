@@ -706,16 +706,16 @@
         "OBJ": "(to be) an activity engaged in by an animal identified as **dzo/yakow (cow/bull + yak)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
       },
       {
-        "BSC": "(to be) an animal identified as **'beefalo'/ 'zubron' (cow + bison)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **'beefalo'/ 'zubron' (cow + bison)** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **'beefalo'/ 'zubron' (cow + bison)**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **'beefalo'/ 'zubron' (cow + bison)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+        "BSC": "(to be) an animal identified as **\"beefalo\"/ \"zubron\" (cow + bison)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **\"beefalo\"/ \"zubron\" (cow + bison)** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **\"beefalo\"/ \"zubron\" (cow + bison)**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **\"beefalo\"/ \"zubron\" (cow + bison)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
       },
       {
-        "BSC": "(to be) an animal identified as **'yakalo' (bison + yak)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **'yakalo' (bison + yak)** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **'yakalo' (bison + yak)**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **'yakalo' (bison + yak)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+        "BSC": "(to be) an animal identified as **\"yakalo\" (bison + yak)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **\"yakalo\" (bison + yak)** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **\"yakalo\" (bison + yak)**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **\"yakalo\" (bison + yak)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
       }
     ]
   },
@@ -1576,10 +1576,10 @@
         "OBJ": "(to be) an activity engaged in by an animal identified as **hinny**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
       },
       {
-        "BSC": "(to be) an animal identified as **'zebroid' (including 'zorse', 'zeedonk', 'zony')**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **'zebroid' (including 'zorse', 'zeedonk', 'zony')** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **'zebroid' (including 'zorse', 'zeedonk', 'zony')**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **'zebroid' (including 'zorse', 'zeedonk', 'zony')**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+        "BSC": "(to be) an animal identified as **\"zebroid\" (including \"zorse\", \"zeedonk\", \"zony\")**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **\"zebroid\" (including \"zorse\", \"zeedonk\", \"zony\")** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **\"zebroid\" (including \"zorse\", \"zeedonk\", \"zony\")**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **\"zebroid\" (including \"zorse\", \"zeedonk\", \"zony\")**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
       }
     ]
   },
@@ -2809,7 +2809,7 @@
   },
   {
     "root": "VXL",
-    "refers": "PHOCID ('EARLESS' / 'TRUE') SEAL",
+    "refers": "PHOCID (\"EARLESS\" / \"TRUE\") SEAL",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Arctic/Northern seals: genera Phoca, Pusa, Halichoerus, Histriophoca, Pagophilus, Erignathus, Cystophora) seal**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2833,7 +2833,7 @@
   },
   {
     "root": "VXR",
-    "refers": "OTARIID ('EARED') SEAL",
+    "refers": "OTARIID (\"EARED\") SEAL",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Arctocephalus, Callorhinus) fur seal**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",

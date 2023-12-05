@@ -805,7 +805,7 @@
   },
   {
     "root": "LCNY",
-    "refers": "sugar (any molecular '-ose' compound)",
+    "refers": "sugar (any molecular \"-ose\" compound)",
     "see": "RẒB"
   },
   {
@@ -1748,7 +1748,7 @@
     "refers": "SUBSTANCE / MATERIAL / WHAT SOMETHING CONSISTS OF OR IS COMPOSED/MADE OF",
     "stems": [
       {
-        "BSC": "(to be a) an instance/amount of a material substance; (to be a) manifestation of matter/material/ 'stuff' / something material — [both the substance itself and the form/entity consisting thereof]",
+        "BSC": "(to be a) an instance/amount of a material substance; (to be a) manifestation of matter/material/ \"stuff\" / something material — [both the substance itself and the form/entity consisting thereof]",
         "CTE": "(to be) the material substance of which something consists or is made; something material",
         "CSV": "(to be) a form taken by something material, the shape/form of something material",
         "OBJ": "(to be) an object/entity made from or consisting of a particular material"
@@ -1784,7 +1784,7 @@
   },
   {
     "root": "ŇŽKW",
-    "refers": "polystyrene foam ('styrofoam')",
+    "refers": "polystyrene foam (\"styrofoam\")",
     "see": "SY"
   },
   {

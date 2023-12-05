@@ -1,7 +1,7 @@
 [
   {
     "root": "NSD",
-    "refers": "'PALEOGNATH' I",
+    "refers": "\"PALEOGNATH\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Struthionids; genus Struthio) ostrich**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -25,7 +25,7 @@
   },
   {
     "root": "NSDW",
-    "refers": "'PALEOGNATH' II",
+    "refers": "\"PALEOGNATH\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Casuariids; genus Casuarius) cassowary**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -193,7 +193,7 @@
   },
   {
     "root": "NSPL",
-    "refers": "'PHASIANINE (PHEASANT)' I",
+    "refers": "\"PHASIANINE (PHEASANT)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Phasianus) [common] pheasant**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -217,7 +217,7 @@
   },
   {
     "root": "NSPR",
-    "refers": "'PHASIANINE (PHEASANT)' II",
+    "refers": "\"PHASIANINE (PHEASANT)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Pavonii; genera Pavo, Afropavo) peafowl (inluding peacock and peahen)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -241,7 +241,7 @@
   },
   {
     "root": "NSPŘ",
-    "refers": "'PHASIANINE (PHEASANT)' III",
+    "refers": "\"PHASIANINE (PHEASANT)\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Argusianus) great argus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -265,7 +265,7 @@
   },
   {
     "root": "NSPF",
-    "refers": "'PHASIANINE (PHEASANT)' IV",
+    "refers": "\"PHASIANINE (PHEASANT)\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Chrysolophus) ruffed pheasant, golden pheasant**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -289,7 +289,7 @@
   },
   {
     "root": "NSPV",
-    "refers": "'PHASIANINE (PHEASANT)' V",
+    "refers": "\"PHASIANINE (PHEASANT)\" V",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Lophura) gallopheasant, fireback**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -337,7 +337,7 @@
   },
   {
     "root": "NSG",
-    "refers": "'DUCK' I",
+    "refers": "\"DUCK\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Anatines; numerous genera) dabbling duck, mallard, teal, shoveler, pintail, widgeon, gadwall, Asian/Madagascar/East African/Pacific duck**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -361,7 +361,7 @@
   },
   {
     "root": "NSGW",
-    "refers": "'DUCK' II",
+    "refers": "\"DUCK\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Dendrocynines; genera Dendrocygna, Thalassornis) whistling duck, white-backed duck**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -577,7 +577,7 @@
   },
   {
     "root": "NSBR",
-    "refers": "'RALLID (RAIL)' I",
+    "refers": "\"RALLID (RAIL)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Rallus, Lewinia, Gallirallus, Rallicula, Dryolimnas, Gymnocrex, Hypotaenidia, Pardirallus, Aramides, Himantornis, Megacrex, Coturnicops) rail, weka**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -601,7 +601,7 @@
   },
   {
     "root": "NSBŘ",
-    "refers": "'RALLID (RAIL)' II",
+    "refers": "\"RALLID (RAIL)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Canirallus) grey-throated rail**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -673,7 +673,7 @@
   },
   {
     "root": "ŇSDV",
-    "refers": "'CAPRIMULGIFORM (NIGHTJAR / NIGHTHAWK)' I",
+    "refers": "\"CAPRIMULGIFORM (NIGHTJAR / NIGHTHAWK)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Caprimulgines and Eurostopodines; numerous genera) nightjar, poorwill, whip-poor-will, pauraque**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -697,7 +697,7 @@
   },
   {
     "root": "ŇSGV",
-    "refers": "'CAPRIMULGIFORM (NIGHTJAR / NIGHTHAWK)' II",
+    "refers": "\"CAPRIMULGIFORM (NIGHTJAR / NIGHTHAWK)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Podargids; genera Podgarus, Batrachostomus, Rigidipenna) frogmouth**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -769,7 +769,7 @@
   },
   {
     "root": "NŠT",
-    "refers": "'CHARADRIIFORM' I",
+    "refers": "\"CHARADRIIFORM\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Charadriids; genera Pluvialis, Pluvianus, Charadrius, Thinornis, Phegornis) plover**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -793,7 +793,7 @@
   },
   {
     "root": "NŠTW",
-    "refers": "'CHARADRIIFORM' II",
+    "refers": "\"CHARADRIIFORM\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Haematopodids; genus Haematopus) oystercatcher**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -889,7 +889,7 @@
   },
   {
     "root": "NŠTL",
-    "refers": "'SCOLOPACID (SANDPIPER)' I",
+    "refers": "\"SCOLOPACID (SANDPIPER)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Calidris/Eriola/Ereunetes, Bartramia, Actitis, Xenus, Prosobonia ) sandpiper, stint / peep, knot, sanderling, dunlin, ruff, surfbird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -913,7 +913,7 @@
   },
   {
     "root": "NŠTR",
-    "refers": "'SCOLOPACID (SANDPIPER)' II",
+    "refers": "\"SCOLOPACID (SANDPIPER)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Arenaria) turnstone**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1201,7 +1201,7 @@
   },
   {
     "root": "NŠKM",
-    "refers": "'SULIFORM (BOOBY / GANNET / FRIGATEBIRD)' I",
+    "refers": "\"SULIFORM (BOOBY / GANNET / FRIGATEBIRD)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Sulids; genera Sula, Papasula) booby**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1225,7 +1225,7 @@
   },
   {
     "root": "NŠKN",
-    "refers": "'SULIFORM (CORMORANT / DARTER)' II",
+    "refers": "\"SULIFORM (CORMORANT / DARTER)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Phalacrocoracids; genera Phalacrocorax, Microcarbo) cormorant, shag**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1369,7 +1369,7 @@
   },
   {
     "root": "ŇSDY",
-    "refers": "'ACCIPITRIID' I",
+    "refers": "\"ACCIPITRIID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Aquilines; numerous genera) eagle, hawk-eagle**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1393,7 +1393,7 @@
   },
   {
     "root": "ŇSDL",
-    "refers": "'ACCIPITRIID' II",
+    "refers": "\"ACCIPITRIID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Milvines and Elanines; numerous genera) kite**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1417,7 +1417,7 @@
   },
   {
     "root": "ŇSDR",
-    "refers": "'ACCIPITRIID' III",
+    "refers": "\"ACCIPITRIID\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Buteonines; numerous genera) hawk, buzzard, buzzard-eagle**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1537,7 +1537,7 @@
   },
   {
     "root": "ŇSPW",
-    "refers": "'PICIFORM' I",
+    "refers": "\"PICIFORM\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Indicatorids; several genera) honeyguide, honeybird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1561,7 +1561,7 @@
   },
   {
     "root": "ŇSPY",
-    "refers": "'PICIFORM' II",
+    "refers": "\"PICIFORM\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Galbulids; several genera) jacamar**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1585,7 +1585,7 @@
   },
   {
     "root": "ŇSPL",
-    "refers": "'CORACIIFORM' I",
+    "refers": "\"CORACIIFORM\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Coraciids; genera Coracias, Eurystomus) roller, dollarbird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1609,7 +1609,7 @@
   },
   {
     "root": "ŇSPR",
-    "refers": "'CORACIIFORM' II",
+    "refers": "\"CORACIIFORM\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Alcedinids; numerous genera) kingfisher, kookaburra**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1777,7 +1777,7 @@
   },
   {
     "root": "ŇSGL",
-    "refers": "'TYRANNIOID BIRD' I",
+    "refers": "\"TYRANNIOID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Piprids; numerous genera) manakin, tyrant-manakin, piprites**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1801,7 +1801,7 @@
   },
   {
     "root": "ŇSGR",
-    "refers": "'TYRANNIOID BIRD' II",
+    "refers": "\"TYRANNIOID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Tyrannids; numerous genera) flycatcher, tyrant, tyrannulet, kiskadee**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1825,7 +1825,7 @@
   },
   {
     "root": "ŇSBW",
-    "refers": "'FORMICAROID BIRD' I",
+    "refers": "\"FORMICAROID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Melanopareiids; genus Malanopareia) crescentchest**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1849,7 +1849,7 @@
   },
   {
     "root": "ŇSBY",
-    "refers": "'FORMICAROID BIRD' II",
+    "refers": "\"FORMICAROID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Grallariids; several genera) antpitta**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1873,7 +1873,7 @@
   },
   {
     "root": "ŇSBL",
-    "refers": "'FURNARIID (NEOTROPICAL OVENBIRD)' I",
+    "refers": "\"FURNARIID (NEOTROPICAL OVENBIRD)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Furnariini; numerous genera) neotropical ovenbird, hornero, reedhaunter, rushbird, streamcreeper, earthcreeper, barbtail, tuftedcheeks**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1897,7 +1897,7 @@
   },
   {
     "root": "ŇSBR",
-    "refers": "'FURNARIID (NEOTROPICAL OVENBIRD)' II",
+    "refers": "\"FURNARIID (NEOTROPICAL OVENBIRD)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Synallaxini; numerous genera) spintail, treerunner, rayadito, wiretail, tit-spinetail, thornbird, firweood-gatherer, brushrunner, cacholote, false canastero, wren-spinetail, prickletail, plushcrown, graveteiro, softtail, barbtail, reedhaunter**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -1993,7 +1993,7 @@
   },
   {
     "root": "ŇSTL",
-    "refers": "'ACANTHIZID (AUSTRALIAN WARBLER)' I",
+    "refers": "\"ACANTHIZID (AUSTRALIAN WARBLER)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Sericornis, Aethomyias, Neosericornis) scrubwren**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2017,7 +2017,7 @@
   },
   {
     "root": "ŇSTR",
-    "refers": "'ACANTHIZID (AUSTRALIAN WARBLER)' II",
+    "refers": "\"ACANTHIZID (AUSTRALIAN WARBLER)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Acanthiza) thornbill**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2041,7 +2041,7 @@
   },
   {
     "root": "ŇSTŘ",
-    "refers": "'ACANTHIZID (AUSTRALIAN WARBLER)' III",
+    "refers": "\"ACANTHIZID (AUSTRALIAN WARBLER)\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Gerygone) gerygone**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2065,7 +2065,7 @@
   },
   {
     "root": "ŇSTÇ",
-    "refers": "'ACANTHIZID (AUSTRALIAN WARBLER)' IV",
+    "refers": "\"ACANTHIZID (AUSTRALIAN WARBLER)\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Pyncoptilus) pilotbird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2209,7 +2209,7 @@
   },
   {
     "root": "ŇSKW",
-    "refers": "'ORIOLOID BIRD' I",
+    "refers": "\"ORIOLOID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Pachycephalids; several genera) whistler, strike-thrush**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2233,7 +2233,7 @@
   },
   {
     "root": "ŇSKY",
-    "refers": "'ORIOLOID BIRD' II",
+    "refers": "\"ORIOLOID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Psophodids; genera Psophodes, Androphobus) whipbird, wedgebill**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2257,7 +2257,7 @@
   },
   {
     "root": "ŇSKL",
-    "refers": "'VIREONID' I",
+    "refers": "\"VIREONID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Vireo) vireo**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2281,7 +2281,7 @@
   },
   {
     "root": "ŇSKR",
-    "refers": "'VIREONID' II",
+    "refers": "\"VIREONID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Cyclarhis) peppershrike**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2329,7 +2329,7 @@
   },
   {
     "root": "ŇSKM",
-    "refers": "'MALACONOTOID BIRD' I",
+    "refers": "\"MALACONOTOID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Machaerirhynchids; genus Machaerirhynchus) boatbill**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2353,7 +2353,7 @@
   },
   {
     "root": "ŇSKN",
-    "refers": "'MALACONOTOID BIRD' II",
+    "refers": "\"MALACONOTOID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Pityriaseids; genus Pityriasis) bristled shrike / bald-headed wood-shrike / Bornean bristlehead**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2401,7 +2401,7 @@
   },
   {
     "root": "ŇSKF",
-    "refers": "'VANGID' I",
+    "refers": "\"VANGID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Vanga, Calicalicus, Schetba, Xenopirostris, Falculea, Artamella, Leptopterus, Cyanolanius, Oriolia, Tylas, Hypositta) vanga**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2425,7 +2425,7 @@
   },
   {
     "root": "ŇSKV",
-    "refers": "'VANGID' II",
+    "refers": "\"VANGID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Prionops) helmetshrike**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2473,7 +2473,7 @@
   },
   {
     "root": "NSTW",
-    "refers": "'CORVID' I",
+    "refers": "\"CORVID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Pica, Cyanopica, Cissa, Urocissa) magpie**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2497,7 +2497,7 @@
   },
   {
     "root": "NSTY",
-    "refers": "'CORVID' II",
+    "refers": "\"CORVID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Podoces) ground jay / ground chough**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2521,7 +2521,7 @@
   },
   {
     "root": "NSTL",
-    "refers": "'CORVID' III",
+    "refers": "\"CORVID\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Cyanocorax, Cyanocitta, Cyanolyca) jay, blue-jay, Steller's jay**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2545,7 +2545,7 @@
   },
   {
     "root": "NSTR",
-    "refers": "'CORVID' IV",
+    "refers": "\"CORVID\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Aphelocoma, Gymnorhinus) scrub-jay, pinyon jay**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2569,7 +2569,7 @@
   },
   {
     "root": "NSTM",
-    "refers": "'CORVOID' I",
+    "refers": "\"CORVOID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Laniids; several genera) shrike**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2593,7 +2593,7 @@
   },
   {
     "root": "NSTN",
-    "refers": "'CORVOID' II",
+    "refers": "\"CORVOID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Dicrurids; genus Dicrurus) drongo, balicassiao**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2665,7 +2665,7 @@
   },
   {
     "root": "NSTÇ",
-    "refers": "'PARADISAEID (BIRD-OF-PARADISE)' I",
+    "refers": "\"PARADISAEID (BIRD-OF-PARADISE)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Paradisaea, Pteridophora, Semioptera, Seleucidis, Cicinnurus, Paradisornis) bird-of-paradise**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2689,7 +2689,7 @@
   },
   {
     "root": "NSTF",
-    "refers": "'PARADISAEID (BIRD-OF-PARADISE)' II",
+    "refers": "\"PARADISAEID (BIRD-OF-PARADISE)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Manucodia, Phonygammus) manucode**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2713,7 +2713,7 @@
   },
   {
     "root": "NSTV",
-    "refers": "'PARADISAEID (BIRD-OF-PARADISE)' III",
+    "refers": "\"PARADISAEID (BIRD-OF-PARADISE)\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Lycocorax) paradise-crow**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2737,7 +2737,7 @@
   },
   {
     "root": "MST",
-    "refers": "'PASSERID' I",
+    "refers": "\"PASSERID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Melanocharitids; genera Melanocharis, Rhamphocharis) berrypecker**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2761,7 +2761,7 @@
   },
   {
     "root": "MSTW",
-    "refers": "'PASSERID' II",
+    "refers": "\"PASSERID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Notiomystids; genus Notiomystis) stitchbird / hihi**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2881,7 +2881,7 @@
   },
   {
     "root": "MSP",
-    "refers": "'SYLVIOID BIRD' I",
+    "refers": "\"SYLVIOID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Alaudids; numerous genera) lark, skylark, sparrow-lark, hoopoe-lark**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2905,7 +2905,7 @@
   },
   {
     "root": "MSPW",
-    "refers": "'SYLVIOID BIRD' II",
+    "refers": "\"SYLVIOID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Pnoepygids; genus Pnoepyga) cupwing / wren-babbler**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2929,7 +2929,7 @@
   },
   {
     "root": "MSPY",
-    "refers": "'SYLVIOID BIRD' III",
+    "refers": "\"SYLVIOID BIRD\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Donacobiids; genus Donacobius) black-capped donacobius**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2953,7 +2953,7 @@
   },
   {
     "root": "MSPL",
-    "refers": "'SYLVIOID BIRD' IV",
+    "refers": "\"SYLVIOID BIRD\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Pycnonotids; numerous genera) bulbul, greenbul, bristlebill, brownbul, leaflove**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -2977,7 +2977,7 @@
   },
   {
     "root": "MSPR",
-    "refers": "'SYLVIOID BIRD' V",
+    "refers": "\"SYLVIOID BIRD\" V",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Sylviids; genus Sylvia) [Old World] warbler, blackcap, whitethroat, parisoma**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3001,7 +3001,7 @@
   },
   {
     "root": "MSPŘ",
-    "refers": "'SYLVIOID BIRD' VI",
+    "refers": "\"SYLVIOID BIRD\" VI",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Sylviids; genera Myzornis, Pseudoalcippe, Horizorhinus, Lioptilus, Fulvetta, Chrysomma, Moupinia, Rhopophilus) babbler, thrush-babbler, fulvetta**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3025,7 +3025,7 @@
   },
   {
     "root": "MSPÇ",
-    "refers": "'SYLVIOID BIRD' VII",
+    "refers": "\"SYLVIOID BIRD\" VII",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Timaliids; numerous genera) [Old World] babbler, wren-babbler, scimitar-babbler, tit-babbler, tawny-bellied babbler, chestnut-capped babbler, wedge-billed babbler, dark-fronted babbler**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3049,7 +3049,7 @@
   },
   {
     "root": "MSPŢ",
-    "refers": "'SYLVIOID BIRD' VIII",
+    "refers": "\"SYLVIOID BIRD\" VIII",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Scotocercids; genus Scotocerca) streaked scrub warbler**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3097,7 +3097,7 @@
   },
   {
     "root": "ŇSB",
-    "refers": "'CISTICOLID (AFRICAN & ASIAN WARBLER)' I",
+    "refers": "\"CISTICOLID (AFRICAN & ASIAN WARBLER)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Cisticola) cisticola**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3121,7 +3121,7 @@
   },
   {
     "root": "ŇSBŘ",
-    "refers": "'CISTICOLID (AFRICAN & ASIAN WARBLER)' II",
+    "refers": "\"CISTICOLID (AFRICAN & ASIAN WARBLER)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Prinia, Schistolais, Phragmacia) prinia**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3145,7 +3145,7 @@
   },
   {
     "root": "ŇSG",
-    "refers": "'CISTICOLID (AFRICAN & ASIAN WARBLER)' III",
+    "refers": "\"CISTICOLID (AFRICAN & ASIAN WARBLER)\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Micromacronus) miniature babbler**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3169,7 +3169,7 @@
   },
   {
     "root": "ŇSGŘ",
-    "refers": "'CISTICOLID (AFRICAN & ASIAN WARBLER)' IV",
+    "refers": "\"CISTICOLID (AFRICAN & ASIAN WARBLER)\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Camaroptera) camaroptera**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3217,7 +3217,7 @@
   },
   {
     "root": "NSKW",
-    "refers": "'ERITHACINE' I",
+    "refers": "\"ERITHACINE\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Erithacus) European robin / robin redbreast**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3241,7 +3241,7 @@
   },
   {
     "root": "NSKY",
-    "refers": "'ERITHACINE' II",
+    "refers": "\"ERITHACINE\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Swynnertonia, Pogonocichla, Stiphrornis) forest robin, robin-chat**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3265,7 +3265,7 @@
   },
   {
     "root": "NSKL",
-    "refers": "'SAXICOLINE' I",
+    "refers": "\"SAXICOLINE\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Luscinia) nightingale, thrust nightingale, redstart, bluethroat**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3289,7 +3289,7 @@
   },
   {
     "root": "NSKR",
-    "refers": "'SAXICOLINE' II",
+    "refers": "\"SAXICOLINE\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Saxicola, Campicoloides, Pinarochroa, Thamnolaea, Emarginata,Myrmecocichla, Pinarornis, Namibornis) chat, stonechat, cliff chat, moorland chat**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3313,7 +3313,7 @@
   },
   {
     "root": "NSKŘ",
-    "refers": "'SAXICOLINE' III",
+    "refers": "\"SAXICOLINE\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Calliope) rubythroat, firethroat, blackthroat**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3337,7 +3337,7 @@
   },
   {
     "root": "NSKF",
-    "refers": "'SAXICOLINE' IV",
+    "refers": "\"SAXICOLINE\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Myophonus) whistling thrush**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3361,7 +3361,7 @@
   },
   {
     "root": "RNSK",
-    "refers": "'MUSCICAPOID BIRD' I",
+    "refers": "\"MUSCICAPOID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Troglodytids; numerous genera) wren**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3385,7 +3385,7 @@
   },
   {
     "root": "RNSKW",
-    "refers": "'MUSCICAPOID BIRD 'II",
+    "refers": "\"MUSCICAPOID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Tichodromadids; genus Tichodroma) wallcreeper**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3409,7 +3409,7 @@
   },
   {
     "root": "RNSKY",
-    "refers": "'MUSCICAPOID BIRD' III",
+    "refers": "\"MUSCICAPOID BIRD\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Elachurids; genus Elachura) spotted elachura / spotted wren-babbler**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3433,7 +3433,7 @@
   },
   {
     "root": "RNSKL",
-    "refers": "'MUSCICAPOID BIRD' IV",
+    "refers": "\"MUSCICAPOID BIRD\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Bombycillids; genus Bombycilla) waxwing**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3457,7 +3457,7 @@
   },
   {
     "root": "RNSKR",
-    "refers": "'MUSCICAPOID BIRD' V",
+    "refers": "\"MUSCICAPOID BIRD\" V",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Mimids; numerous genera) mockingbird, catbird, thrasher**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3577,7 +3577,7 @@
   },
   {
     "root": "ŇŠTY",
-    "refers": "'PASSERIFORM BIRD' I",
+    "refers": "\"PASSERIFORM BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Promeropids; genus Promerops) sugarbird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3601,7 +3601,7 @@
   },
   {
     "root": "ŇŠTL",
-    "refers": "'PASSERIFORM BIRD' II",
+    "refers": "\"PASSERIFORM BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Nectariniids; numerous genera) sunbird, spiderhunter**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3625,7 +3625,7 @@
   },
   {
     "root": "ŇŠTR",
-    "refers": "'PASSERIFORM BIRD' III",
+    "refers": "\"PASSERIFORM BIRD\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Chloropseids; genus Chloropsis) leafbird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3673,7 +3673,7 @@
   },
   {
     "root": "ŇŠTÇ",
-    "refers": "'ICTERID' I",
+    "refers": "\"ICTERID\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Agelaius, Xanthspar, Agelasticus, Chrysomus, Nesopsar, Xanthocephalus, Dives, Euphagus, Gymnomystax, Amblyramphus, Curaeus, Anumara, Gnorimopsar, Oreopsar) [New World] blackbird**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3697,7 +3697,7 @@
   },
   {
     "root": "ŇŠTF",
-    "refers": "'ICTERID' II",
+    "refers": "\"ICTERID\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Molothrus, Agelaioides) cowbird, baywing**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3721,7 +3721,7 @@
   },
   {
     "root": "ŇŠTV",
-    "refers": "'ICTERID' III",
+    "refers": "\"ICTERID\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Psarocolius) oropendola**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3745,7 +3745,7 @@
   },
   {
     "root": "NŠP",
-    "refers": "'EMBERIZOID BIRD' I",
+    "refers": "\"EMBERIZOID BIRD\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Passerellids; numerous genera) [American] sparrow, towhee, lark bunting, ground sparrow, junco**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3769,7 +3769,7 @@
   },
   {
     "root": "NŠPW",
-    "refers": "'EMBERIZOID BIRD' II",
+    "refers": "\"EMBERIZOID BIRD\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Phaenicophilids; genera Phaenicophilus, Xenoligea, Microligea) tanager, white-winged warbler, green-tailed warbler**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3793,7 +3793,7 @@
   },
   {
     "root": "NŠPY",
-    "refers": "'EMBERIZOID BIRD' III",
+    "refers": "\"EMBERIZOID BIRD\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Parulids; numerous genera) [New World] warbler, wood warbler, oven bird, waterthrush, yellowthroat, whitestart, parula, redstart**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3817,7 +3817,7 @@
   },
   {
     "root": "NŠPL",
-    "refers": "'EMBERIZOID BIRD' IV",
+    "refers": "\"EMBERIZOID BIRD\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Microspingids; genera Mitrospingus, Orthogonys, Lamprospiza) micropspingid tanager**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3841,7 +3841,7 @@
   },
   {
     "root": "NŠPR",
-    "refers": "'THRAUPID (TANAGER)' I",
+    "refers": "\"THRAUPID (TANAGER)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(numerous genera) tanager, tanager-finch, conebill, flowerpiercer**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3865,7 +3865,7 @@
   },
   {
     "root": "NŠPŘ",
-    "refers": "'THRAUPID (TANAGER)' II",
+    "refers": "\"THRAUPID (TANAGER)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Tersina, Cyanerpes, Chlorophanes, Iridophanes) honeycreeper**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3889,7 +3889,7 @@
   },
   {
     "root": "NŠPF",
-    "refers": "'THRAUPID (TANAGER)' III",
+    "refers": "\"THRAUPID (TANAGER)\" III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Emberizoides, Embernagra) grass-finch, pampa-finch**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3913,7 +3913,7 @@
   },
   {
     "root": "NŠPV",
-    "refers": "'THRAUPID (TANAGER)' IV",
+    "refers": "\"THRAUPID (TANAGER)\" IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Catamblyrhynchus) plushcap**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3937,7 +3937,7 @@
   },
   {
     "root": "MSTF",
-    "refers": "'CARDINALID (CARDINAL)' I",
+    "refers": "\"CARDINALID (CARDINAL)\" I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genera Cardinalis, Gubernatrix) cardinal**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -3961,7 +3961,7 @@
   },
   {
     "root": "MSTV",
-    "refers": "'CARDINALID (CARDINAL)' II",
+    "refers": "\"CARDINALID (CARDINAL)\" II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Passerina) [North American] bunting**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",

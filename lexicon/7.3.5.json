@@ -219,7 +219,7 @@
         "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Staphylococcus) staphylococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       }
     ],
-    "notes": "To name a particular pathogenic disease, **anthrax**, either concatenate the stem 1, **bacillus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **listeriasis**, either concatenate the stem 2, **listeria**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **staphylococcosis / 'staph' infection**, either concatenate the stem 3, **staphylococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "To name a particular pathogenic disease, **anthrax**, either concatenate the stem 1, **bacillus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **listeriasis**, either concatenate the stem 2, **listeria**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **staphylococcosis / \"staph\" infection**, either concatenate the stem 3, **staphylococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
   },
   {
     "root": "PFPW",
@@ -244,7 +244,7 @@
         "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Lactobacillaceae; numerous genera) lactobacillaceous bacterium [formerly all included in genus Lactobacillus]**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       }
     ],
-    "notes": "To name a particular pathogenic disease, **urinary tract infection**, either concatenate the stem 1, **enterococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **'strep' infection, pneumococcal infection, scarlet fever, rheumatic fever**, either concatenate the stem 2, **streptococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "To name a particular pathogenic disease, **urinary tract infection**, either concatenate the stem 1, **enterococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **\"strep\" infection, pneumococcal infection, scarlet fever, rheumatic fever**, either concatenate the stem 2, **streptococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
   },
   {
     "root": "PFPY",
@@ -1158,10 +1158,10 @@
     "refers": "ARCHAEON",
     "stems": [
       {
-        "BSC": "(to be) a species identified as **('DPANN' Archaea; numerous genera) DPANN archaeon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **('DPANN' Archaea; numerous genera) DPANN archaeon** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **('DPANN' Archaea; numerous genera) DPANN archaeon**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **('DPANN' Archaea; numerous genera) DPANN archaeon**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
+        "BSC": "(to be) a species identified as **(\"DPANN\" Archaea; numerous genera) DPANN archaeon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
+        "CTE": "(to be) that which gives a particular species identified as **(\"DPANN\" Archaea; numerous genera) DPANN archaeon** its individual identity; the living essence of such a species",
+        "CSV": "(to be) the physical body of a species identified as **(\"DPANN\" Archaea; numerous genera) DPANN archaeon**; the corporeal aspect of such a species",
+        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(\"DPANN\" Archaea; numerous genera) DPANN archaeon**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       },
       {
         "BSC": "(to be) a species identified as **(Euryarchaeota; numerous genera) euryarchaeotic archaeon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",

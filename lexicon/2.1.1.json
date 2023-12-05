@@ -28,7 +28,7 @@
     "refers": "CUT / STAB / CRACK / FISSURE",
     "stems": [
       {
-        "BSC": "(be) an act of cutting something with a (quasi-) bladed instrument or force ('cut' = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument)",
+        "BSC": "(be) an act of cutting something with a (quasi-) bladed instrument or force (\"cut\" = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument)",
         "CTE": "(be) the physical cut itself; a quasi-linear break in the structural/cohesive integrity of the surface integument of an entity/object",
         "CSV": "(be) the physical act/process of cutting; to cut",
         "OBJ": "(be) a blade (the portion of a knife/sword/axe/scissors, etc. that effectuates a cut)"
@@ -119,8 +119,8 @@
         "CSV": "(be) an act of piercing, puncturing",
         "OBJ": "(be) the appendage/implement/tool used for piercing, puncturing"
       },
-      "(be) an act of removing material by burrowing or tunneling* [Specification pattern is like Stem 2 of the root 'DIG']",
-      "(be) an act of leaving behind a hole, puncture, tunnel, i.e., an access point or passageway through a medium to another side or separate space [Specification pattern is like Stem 3 of the root 'DIG']"
+      "(be) an act of removing material by burrowing or tunneling* [Specification pattern is like Stem 2 of the root \"DIG\"]",
+      "(be) an act of leaving behind a hole, puncture, tunnel, i.e., an access point or passageway through a medium to another side or separate space [Specification pattern is like Stem 3 of the root \"DIG\"]"
     ]
   },
   {
@@ -146,7 +146,7 @@
         "OBJ": "(be) the medium/firmament in which a depression or concavity is made"
       }
     ],
-    "notes": "Use of the word 'hole' in translating the stems of this root is within the narrow context of being a synonym for 'scooped-out depression/concavity within a 3-dimensional medium; it does not mean 'hole' as an access point between two spaces or through some two- or 3-dimensional medium as in 'a hole in my jeans' or 'a hole through the wall' (use the root **-ẒF-** below instead).\n\nNOTE: Use the above root with the **SVS** affix to derive words for scoop, excavate and to derive words for 'drill', 'bore', 'cavern'. Combine it with other appropriate morphology to render the word for 'delve' and 'worm one's way into'. "
+    "notes": "Use of the word \"hole\" in translating the stems of this root is within the narrow context of being a synonym for 'scooped-out depression/concavity within a 3-dimensional medium; it does not mean \"hole\" as an access point between two spaces or through some two- or 3-dimensional medium as in \"a hole in my jeans\" or \"a hole through the wall\" (use the root **-ẒF-** below instead).\n\nNOTE: Use the above root with the **SVS** affix to derive words for scoop, excavate and to derive words for \"drill\", \"bore\", \"cavern\". Combine it with other appropriate morphology to render the word for \"delve\" and \"worm one's way into\". "
   },
   {
     "root": "RẒČ",
@@ -172,10 +172,10 @@
         "CSV": "(be) an act of hollowing out or burrowing",
         "OBJ": "(be) the appendage/implement/device/machine used for hollowing/burrowing/tunneling"
       },
-      "(be) an act of removing material by hollowing out, burrowing or tunneling* [Specification pattern is like Stem 2 of the root 'DIG']",
-      "(be) an act of leaving behind a hollow, burrow or tunnel* [Specification pattern is like Stem 3 of the root 'DIG']"
+      "(be) an act of removing material by hollowing out, burrowing or tunneling* [Specification pattern is like Stem 2 of the root \"DIG\"]",
+      "(be) an act of leaving behind a hollow, burrow or tunnel* [Specification pattern is like Stem 3 of the root \"DIG\"]"
     ],
-    "notes": "This root refers to the creation of a tube-like space within a 3-dimensional medium; it does not necessarily imply that the tube-like space functions as a conduit or passageway to another separate space or medium -- thus, use of the translation 'tunnel' here is in a limited context. If one wishes to signify a tunnel-like conduit connecting two separate spaces, use the root **-ẒF-** above instead. "
+    "notes": "This root refers to the creation of a tube-like space within a 3-dimensional medium; it does not necessarily imply that the tube-like space functions as a conduit or passageway to another separate space or medium -- thus, use of the translation \"tunnel\" here is in a limited context. If one wishes to signify a tunnel-like conduit connecting two separate spaces, use the root **-ẒF-** above instead. "
   },
   {
     "root": "GŢ",
@@ -196,7 +196,7 @@
     "refers": "FITTING / ACCOMMODATION / NICHE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of one entity physically fitting into/with another so that one is 'carried' along as the other moves/operates",
+        "BSC": "(be) an act/instance of one entity physically fitting into/with another so that one is \"carried\" along as the other moves/operates",
         "CTE": "(be) the state of fitting into another",
         "CSV": "(be) the physical act of fitting",
         "OBJ": "(be) the juncture itself which one establishes or seeks to establish by an act of fitting something into something else"
@@ -487,7 +487,7 @@
       "(be) an act/instance of driving into (i.e., forceful insertion or penetration through a resistant/hard surface by breaking/interrupting its surface integrity and passing into the resistant/hard three-dimensional volume beyond via pure force and quasi-violent breaking/distortion/displacement of the structural integrity of that volume",
       "(be) an act/instance of injection"
     ],
-    "notes": "This root refers only to the act/process of penetration of an external entity through a two-dimensional medium or into a three-dimensional medium; it is not focused on the resulting state of interiority itself. Thus, for translations of English words focused on the resulting state of interiority rather than the interruption of the surface integrity, e.g., 'insert, infuse, immerse, instill, imbue, implant', use an appropriate SPATIO-TEMPORAL Root instead, e.g., **-XW-**, **-XL-**, **-CW-**, **-ŢP-**, **-ḐB-** and/or appropriate SpatioTemporal affixes associated with these roots."
+    "notes": "This root refers only to the act/process of penetration of an external entity through a two-dimensional medium or into a three-dimensional medium; it is not focused on the resulting state of interiority itself. Thus, for translations of English words focused on the resulting state of interiority rather than the interruption of the surface integrity, e.g., \"insert, infuse, immerse, instill, imbue, implant\", use an appropriate SPATIO-TEMPORAL Root instead, e.g., **-XW-**, **-XL-**, **-CW-**, **-ŢP-**, **-ḐB-** and/or appropriate SpatioTemporal affixes associated with these roots."
   },
   {
     "root": "ŇÇ",
@@ -635,7 +635,7 @@
       "(be) an act/instance of initiating/activating something; to activate, to initiate, to start up (i.e., the act/process/procedure necessary to bring energy to a non-active state/entity so that it becomes active, e.g., starting a motor, activating a device, initiating a complex procedure, etc.)",
       "(be) an act/instance of instigation; to instigate (i.e., set in motion a series of events or arranging a precursor state/act/event that will lead to a specific outcome)"
     ],
-    "notes": "This root refers to 'beginning/initiation' meaning 'activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity; for the 'beginning/initiation' meaning 'origination, first-time occurrence, first-time causation', see the root **-ÇN-**."
+    "notes": "This root refers to \"beginning/initiation\" meaning 'activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity; for the \"beginning/initiation\" meaning \"origination, first-time occurrence, first-time causation\", see the root **-ÇN-**."
   },
   {
     "root": "PĻ",
@@ -803,7 +803,7 @@
         "OBJ": "(be) the material or substance (to be) applied"
       },
       "(be) an act/instance of applying/spreading/overlaying a gel-like substance or material to the surface of something; to apply, spread on (to), coat, smear a gel-like substance or material [CPT = foam up, froth]",
-      "(be) an act/instance of spraying a substance or medium onto another so that it is flush with, in complete contact with, or adheres to the underlying entity; to spray on, to apply via a spray(er) OBJ Specification = 'aerosol'"
+      "(be) an act/instance of spraying a substance or medium onto another so that it is flush with, in complete contact with, or adheres to the underlying entity; to spray on, to apply via a spray(er) OBJ Specification = \"aerosol\""
     ]
   },
   {
@@ -955,7 +955,7 @@
         "OBJ": "(to be) the means/implement/procedure by which something is compressed/compacted/squeezed"
       },
       "(to be) a state/act of compression/compaction/concentration/ condensing; to compress, to compact, to concentrate, to condense [i.e., to fit a greater amount of a material, substance, content, into a fixed space via increasing its density per volume]",
-      "(to be) a state/act of energy storage; to store potential energy [OBJ = 'battery']"
+      "(to be) a state/act of energy storage; to store potential energy [OBJ = \"battery\"]"
     ]
   },
   {
@@ -1027,7 +1027,7 @@
       "(to be) an act/state of massaging with one's hand(s) or other body part",
       "(to be) an act/state of scratching with one's fingernails/claws or other sharp body part **"
     ],
-    "notes": "\\* for the sensation of being rubbed, massaged, or scratched, see **-VZW-**\n\n\\*\\* this stem refers only to scratching for grooming purposes or to relieve an itch; for the meaning of 'to make/leave a scratch or scratches in something' see **-PPŠ-**"
+    "notes": "\\* for the sensation of being rubbed, massaged, or scratched, see **-VZW-**\n\n\\*\\* this stem refers only to scratching for grooming purposes or to relieve an itch; for the meaning of \"to make/leave a scratch or scratches in something\" see **-PPŠ-**"
   },
   {
     "root": "LŢR",
@@ -1095,7 +1095,7 @@
       "(be) a state of purity, being pure; be/make pure, purify, decontaminate, disinfect (i.e., to be/make free from foreign/invasive/polluting substances)",
       "(be) a state/act of proper sanitation/hygiene; be sanitary/hygienic, exercise proper sanitation/hygiene (i.e., practices which help to ensure an entity/party/environment remains clean or pure)"
     ],
-    "notes": "\\* This stem does not mean 'organize' or 'de-clutter' as in 'to clean a room' — see the next root(-ŢB-) below."
+    "notes": "\\* This stem does not mean \"organize\" or \"de-clutter\" as in \"to clean a room\" — see the next root(-ŢB-) below."
   },
   {
     "root": "ŢB",
@@ -1194,7 +1194,7 @@
         "OBJ": "(be) that which is used to physically damage"
       },
       "(be) an act/instance of rendering less-than-fully operable/functional; corrupt, subvert, undermine [CPT Version = ruin, devastate, break up, destroy operationally, i.e., damage, corrupt, or subvert to the point of being unable to function/operate]",
-      "(be) an act/instance of reducing the presence/existence of; to reduce, lessen [CPT version = eradicate, eliminate, annihilate, 'disappear', i.e., to render something nonexistent]"
+      "(be) an act/instance of reducing the presence/existence of; to reduce, lessen [CPT version = eradicate, eliminate, annihilate, \"disappear\", i.e., to render something nonexistent]"
     ]
   },
   {

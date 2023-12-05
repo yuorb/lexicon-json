@@ -7,7 +7,7 @@
         "BSC": "(to be/manifest) a two-dimensional shape or outline form — [both the shape and the entity manifesting that shape]",
         "CTE": "(to be) the entity manifesting a particular 2-D shape or outline form",
         "CSV": "(to be/manifest) a two-dimensional shape or outline form",
-        "OBJ": "(to be) the background or 'negative space' behind a 2-dimensional shape or outline form"
+        "OBJ": "(to be) the background or \"negative space\" behind a 2-dimensional shape or outline form"
       },
       "(to be/manifest) a three-dimensional shape/form",
       "(to be a) figure (reminiscent of something) based on shape/form"
@@ -50,7 +50,7 @@
         "OBJ": "(be) an object/entity which manifests the particular (quasi-)linear outline shape"
       },
       "(be) the (quasi-)planar extension (in 3-dimensional space) of the Stem 1 linear shape, e.g., a hemisphere shape based on the Stem-1 linear shape of an arc, or a notch- or wedge-shaped indentation based on the  Stem-1 linear shape of a V-shape.",
-      "(be) the 'negative' space delineated by a (quasi-)linear outline shape, e.g., the pointed area of one's plane of vision created as the negative space set off by something in the foreground having a V-shaped outline."
+      "(be) the \"negative\" space delineated by a (quasi-)linear outline shape, e.g., the pointed area of one's plane of vision created as the negative space set off by something in the foreground having a V-shaped outline."
     ]
   },
   {
@@ -286,7 +286,7 @@
         "OBJ": "(be) an object/entity which manifests the particular closed (quasi-)linear outline shape"
       },
       "(be) a (quasi-)planar object/entity whose edge(s) constitute the Stem 1 closed linear shape, e.g., a cookie in the shape of a circle, or a stop-sign in the shape of an octagon.",
-      "(be) the background 'negative' space delineated by a closed (quasi-)linear outline shape, e.g., the area of one's plane of vision with a 'hole' in it, created as the negative space set off by something in the foreground having a closed-linear outline."
+      "(be) the background \"negative\" space delineated by a closed (quasi-)linear outline shape, e.g., the area of one's plane of vision with a \"hole\" in it, created as the negative space set off by something in the foreground having a closed-linear outline."
     ]
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "root": "SSKR",
-    "refers": "3-DIMENSIONAL IRREGULAR 'AMOEBOID' SHAPE",
+    "refers": "3-DIMENSIONAL IRREGULAR \"AMOEBOID\" SHAPE",
     "see": "TĻK"
   },
   {

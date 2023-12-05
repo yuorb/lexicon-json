@@ -17,205 +17,205 @@
     {
         "root": "Ḑ",
         "refers": "POSITION/LOCATION AT 0 / 0 / 0",
-        "notes": "'right here', at the center point of the observer's 3-dimensional spatial frame of reference",
+        "notes": "\"right here\", at the center point of the observer's 3-dimensional spatial frame of reference",
         "see": "Ţ"
     },
     {
         "root": "ŢY",
         "refers": "POSITION/LOCATION AT 0 / 0 / +Z",
-        "notes": "'above the observer'",
+        "notes": "above the observer",
         "see": "Ţ"
     },
     {
         "root": "ŢW",
         "refers": "POSITION/LOCATION AT 0 / 0 / -Z",
-        "notes": "'below the observer'",
+        "notes": "below the observer",
         "see": "Ţ"
     },
     {
         "root": "P",
         "refers": "POSITION/LOCATION AT 0 / +Y / 0",
-        "notes": "'in front of the observer'",
+        "notes": "in front of the observer",
         "see": "Ţ"
     },
     {
         "root": "K",
         "refers": "POSITION/LOCATION AT 0 / -Y / 0",
-        "notes": "'behind the observer'",
+        "notes": "behind the observer",
         "see": "Ţ"
     },
     {
         "root": "F",
         "refers": "POSITION/LOCATION AT +X / 0 / 0",
-        "notes": "'to the right of the observer'",
+        "notes": "to the right of the observer",
         "see": "Ţ"
     },
     {
         "root": "V",
         "refers": "POSITION/LOCATION AT -X / 0 / 0",
-        "notes": "'to the left of the observer'",
+        "notes": "to the left of the observer",
         "see": "Ţ"
     },
     {
         "root": "PY",
         "refers": "POSITION/LOCATION AT 0 / +Y / +Z",
-        "notes": "'in front of and above the observer'",
+        "notes": "in front of and above the observer",
         "see": "Ţ"
     },
     {
         "root": "PW",
         "refers": "POSITION/LOCATION AT 0 / +Y / -Z",
-        "notes": "'in front of and below the observer'",
+        "notes": "in front of and below the observer",
         "see": "Ţ"
     },
     {
         "root": "KY",
         "refers": "POSITION/LOCATION AT 0 / -Y / +Z",
-        "notes": "'behind and above the observer'",
+        "notes": "behind and above the observer",
         "see": "Ţ"
     },
     {
         "root": "KW",
         "refers": "POSITION/LOCATION AT 0 / -Y / -Z",
-        "notes": "'behind and below the observer'",
+        "notes": "behind and below the observer",
         "see": "Ţ"
     },
     {
         "root": "FP",
         "refers": "POSITION/LOCATION AT +X / +Y / 0",
-        "notes": "'to the right and in front of the observer'",
+        "notes": "to the right and in front of the observer",
         "see": "Ţ"
     },
     {
         "root": "FK",
         "refers": "POSITION/LOCATION AT +X / -Y / 0",
-        "notes": "'to the right and behind the observer'",
+        "notes": "to the right and behind the observer",
         "see": "Ţ"
     },
     {
         "root": "FY",
         "refers": "POSITION/LOCATION AT +X / 0 / +Z",
-        "notes": "'to the right and above the observer'",
+        "notes": "to the right and above the observer",
         "see": "Ţ"
     },
     {
         "root": "FW",
         "refers": "POSITION/LOCATION AT +X / 0 / -Z",
-        "notes": "'to the right and below the observer'",
+        "notes": "to the right and below the observer",
         "see": "Ţ"
     },
     {
         "root": "VB",
         "refers": "POSITION/LOCATION AT -X / +Y / 0",
-        "notes": "'to the left and in front of the observer'",
+        "notes": "to the left and in front of the observer",
         "see": "Ţ"
     },
     {
         "root": "VG",
         "refers": "POSITION/LOCATION AT -X / -Y / 0",
-        "notes": "'to the left and behind the observer'",
+        "notes": "to the left and behind the observer",
         "see": "Ţ"
     },
     {
         "root": "VY",
         "refers": "POSITION/LOCATION AT -X / 0 / +Z",
-        "notes": "'to the left and above the observer'",
+        "notes": "to the left and above the observer",
         "see": "Ţ"
     },
     {
         "root": "VW",
         "refers": "POSITION/LOCATION AT -X / 0 / -Z",
-        "notes": "'to the left and below the observer'",
+        "notes": "to the left and below the observer",
         "see": "Ţ"
     },
     {
         "root": "FPY",
         "refers": "POSITION/LOCATION AT +X / +Y / +Z",
-        "notes": "'to the right, in front, and above the observer'",
+        "notes": "to the right, in front, and above the observer",
         "see": "Ţ"
     },
     {
         "root": "FPW",
         "refers": "POSITION/LOCATION AT +X / +Y / -Z",
-        "notes": "'to the right, in front, and below the observer'",
+        "notes": "to the right, in front, and below the observer",
         "see": "Ţ"
     },
     {
         "root": "FKY",
         "refers": "POSITION/LOCATION AT +X / -Y / +Z",
-        "notes": "'to the right, behind, and above the observer'",
+        "notes": "to the right, behind, and above the observer",
         "see": "Ţ"
     },
     {
         "root": "FKW",
         "refers": "POSITION/LOCATION AT +X / -Y / -Z",
-        "notes": "'to the right, behind, and below the observer'",
+        "notes": "to the right, behind, and below the observer",
         "see": "Ţ"
     },
     {
         "root": "VBY",
         "refers": "POSITION/LOCATION AT -X / +Y / +Z",
-        "notes": "'to the left, in front, and above the observer'",
+        "notes": "to the left, in front, and above the observer",
         "see": "Ţ"
     },
     {
         "root": "VBW",
         "refers": "POSITION/LOCATION AT -X / +Y / -Z",
-        "notes": "'to the left, in front, and below the observer'",
+        "notes": "to the left, in front, and below the observer",
         "see": "Ţ"
     },
     {
         "root": "VGY",
         "refers": "POSITION/LOCATION AT -X / -Y / +Z",
-        "notes": "'to the left, behind, and above the observer'",
+        "notes": "to the left, behind, and above the observer",
         "see": "Ţ"
     },
     {
         "root": "VGW",
         "refers": "POSITION/LOCATION AT -X / -Y / -Z",
-        "notes": "'to the left, behind, and below the observer'",
+        "notes": "to the left, behind, and below the observer",
         "see": "Ţ"
     },
     {
         "root": "FK",
         "refers": "POSITION BETWEEN/AMIDST/AMONG [IN A QUASI-PLANAR CONTEXT]",
-        "notes": "e.g., 'among others in a crowded room'",
+        "notes": "e.g., \"among others in a crowded room\"",
         "see": "Ţ"
     },
     {
         "root": "DK",
         "refers": "POSITION BETWEEN/AMONG [IN A LINEAR UNIDIMENSIONAL CONTEXT]",
-        "notes": "e.g., 'between two others in a queue'",
+        "notes": "e.g., \"between two others in a queue\"",
         "see": "Ţ"
     },
     {
         "root": "TK",
         "refers": "INDEFINITE POSITION AMIDST/AMONG [IN A 3-DIMENSIONAL VOLUME]",
-        "notes": "e.g., 'among a sky full of balloonists'",
+        "notes": "e.g., \"among a sky full of balloonists\"",
         "see": "Ţ"
     },
     {
         "root": "ḐD",
         "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 2-DIMESIONAL PLANAR CONTEXT [INDIVIDUAL COMPONENTS SEPARABLE/EXTRACTABLE]",
-        "notes": "e.g., 'red marbles amidst a tabletop covered with different colored marbles'",
+        "notes": "e.g., \"red marbles amidst a tabletop covered with different colored marbles\"",
         "see": "Ţ"
     },
     {
         "root": "ḐB",
         "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 3-DIMESIONAL VOLUME [INDIVIDUAL COMPONENTS SEPARABLE/EXTRACTABLE]",
-        "notes": "e.g., 'red marbles within a jar full of different colored marbles'",
+        "notes": "e.g., \"red marbles within a jar full of different colored marbles\"",
         "see": "Ţ"
     },
     {
         "root": "ḐV",
         "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 2-DIMESIONAL PLANAR CONTEXT [INDIVIDUAL COMPONENTS INSEPARABLE/PERMANENTLY COMBINED]",
-        "notes": "e.g., 'yellow paint spread onto a blue canvas to make a green area'",
+        "notes": "e.g., \"yellow paint spread onto a blue canvas to make a green area\"",
         "see": "Ţ"
     },
     {
         "root": "ḐG",
         "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 3-DIMESIONAL VOLUME [INDIVIDUAL COMPONENTS INSEPARABLE/PERMANENTLY COMBINED]",
-        "notes": "e.g., 'sugar granules poured into a cup of coffee'",
+        "notes": "e.g., \"sugar granules poured into a cup of coffee\"",
         "see": "Ţ"
     },
     {
