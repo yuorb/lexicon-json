@@ -4,7 +4,7 @@
     "refers": "FURNITURE / FURNISHING / APPLIANCE",
     "stems": [
       {
-        "BSC": "(to be) a piece of functional furniture; to furnish an environment with a piece of functional furniture (i.e., piece of furniture whose primary purpose is functional rather than decorative, e.g., chair, table, lamp, armoir, cabinet, chest of drawers, desk, bed, bookcase, etc.); utilize or make use of a piece of functional furniture",
+        "BSC": "(to be) a piece of functional furniture; to furnish an environment with a piece of functional furniture (i.e., piece of furniture whose primary purpose is functional rather than decorative, e.g., chair, table, lamp, armoire, cabinet, chest of drawers, desk, bed, bookcase, etc.); utilize or make use of a piece of functional furniture",
         "CTE": "(to be) the function(al purpose) of a piece of furniture; to utilize/make use of a piece of furniture",
         "CSV": "(to be) the physical structure/design of a piece of furniture; to design a piece of functional furniture (CPT = construct a piece of functional furniture)",
         "OBJ": "(to be) the space in a room or environment taken up by a piece of functional furniture"
@@ -29,7 +29,7 @@
     "stems": [
       "(to be) a chair; sit in a chair",
       "(to be) a stool; sit on a stool",
-      "(to be) an ottoman, a footstool; rest oneself or one’s feet on an ottoman"
+      "(to be) an ottoman, a footstool; rest oneself or one's feet on an ottoman"
     ],
     "see": "PŢT"
   },

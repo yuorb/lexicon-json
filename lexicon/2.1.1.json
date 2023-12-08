@@ -33,7 +33,7 @@
         "CSV": "(be) the physical act/process of cutting; to cut",
         "OBJ": "(be) a blade (the portion of a knife/sword/axe/scissors, etc. that effectuates a cut)"
       },
-      "(be) an act of stabbing (i.e., puncturing in a quasi-linear manner perpendicular to the surface integument of an object/entity using a sharppointed quasi-linear object).",
+      "(be) an act of stabbing (i.e., puncturing in a quasi-linear manner perpendicular to the surface integument of an object/entity using a sharp-pointed quasi-linear object).",
       "(be) an act of making a quasi-linear rent or crack or fissure in the surface integument of an object/entity; to (make a) rent, to (make a) crack"
     ],
     "notes": "(i.e., quasi-linear puncturing or quasi-planar breaking of surface integument)"
@@ -58,7 +58,7 @@
     "stems": [
       {
         "BSC": "(be) an act of slicing/sectioning something with a bladed (or blade-like) instrument (i.e., cut quasi-perpendicularly relative to the surface plane of an entity into quasi-planar piece/section)",
-        "CTE": "(be) the physical gash/divide caused by an act of slicing; a quasi-planar break in the structural/cohesive integrity of the surface integument of an entity/object and the threedimensional volume beneath",
+        "CTE": "(be) the physical gash/divide caused by an act of slicing; a quasi-planar break in the structural/cohesive integrity of the surface integument of an entity/object and the three-dimensional volume beneath",
         "CSV": "(be) the physical act/process of slicing; to slice",
         "OBJ": "(be) a blade (the portion of a knife that effectuates slice/section)"
       },
@@ -91,7 +91,7 @@
         "CSV": "(be) the physical act/process of chopping; to chop",
         "OBJ": "(be) a blade (the portion of a knife/cleaver/axe, etc. that effectuates an act of chopping)"
       },
-      "(be) an act of dicing (i.e., slicing into quasicubic pieces)",
+      "(be) an act of dicing (i.e., slicing into quasi-cubic pieces)",
       "(be) an act of mincing (i.e., slicing in crosshatched fashion to the point of making an entity's texture a slurry or paste-like)"
     ]
   },
@@ -159,7 +159,7 @@
         "OBJ": "(to be) an implement/tool/process/device used in the act/process of excavation/exhumation"
       },
       "(to be) an act/process of dredging; to dredge (i.e., remove material from an underwater surface to improve the use of that substrate as a conduit/passage or to find something within the material removed]",
-      "(to be) an act/process of mining; to mine [i.e., to use an implement or machinery to remove desired ore or other desired material from a surrounding subterranean or underwater subtrate]"
+      "(to be) an act/process of mining; to mine [i.e., to use an implement or machinery to remove desired ore or other desired material from a surrounding subterranean or underwater substrate]"
     ]
   },
   {
@@ -238,7 +238,7 @@
     "refers": "MECHANICAL JOINT/PIVOT POINT FOR KINEMATIC PAIR",
     "stems": [
       {
-        "BSC": "(be) a connection utilizing a prismatic joint [allowing linear back-and-forth (or upand-down) movement only]",
+        "BSC": "(be) a connection utilizing a prismatic joint [allowing linear back-and-forth (or up-and-down) movement only]",
         "CTE": "(be) the state of being connected via a prismatic joint",
         "CSV": "(be) the physical act of connecting via a prismatic joint",
         "OBJ": "(be) the prismatic joint implement itself"
@@ -585,7 +585,7 @@
     "refers": "CLUSTERING / CLUMPING / FLOCK / SWARM / MOB",
     "stems": [
       {
-        "BSC": "(to be) an act/process of entities (e.g., molecules, bacteria, rodents, leaves, etc.) clustering/clumping together into a cluster/clump; to cluster/glump together",
+        "BSC": "(to be) an act/process of entities (e.g., molecules, bacteria, rodents, leaves, etc.) clustering/clumping together into a cluster/clump; to cluster/clump together",
         "CTE": "(to be) a cluster/clump",
         "CSV": "(to be) an act/process of clumping/clustering together, to participate in a process of clumping/clustering, to cluster, to clump",
         "OBJ": "(to be) the entity/means/procedure utilized to achieve clustering/clumping"
@@ -865,7 +865,7 @@
     "stems": [
       "salve/balm",
       "lacquer",
-      "butter (indicating a type of topical application, e.g., tanning butter, not the edible milk-based subtance)"
+      "butter (indicating a type of topical application, e.g., tanning butter, not the edible milk-based substance)"
     ],
     "see": "ŇM"
   },
@@ -1102,7 +1102,7 @@
     "refers": "TIDINESS / ORDERLINESS / GROOMING",
     "stems": [
       {
-        "BSC": "(be) a state of tidiness/orderliness/neatness, being tidy/orderly;neat; to tidy (up), put in order, to neaten (i.e., to organize/arramge the location/placement of entities in an environment so that they are logically and neatly arranged for ease of use and so the environment has a positive aesthetic appearance)",
+        "BSC": "(be) a state of tidiness/orderliness/neatness, being tidy/orderly;neat; to tidy (up), put in order, to neaten (i.e., to organize/arrange the location/placement of entities in an environment so that they are logically and neatly arranged for ease of use and so the environment has a positive aesthetic appearance)",
         "CTE": "(be) a state of orderliness/tidiness/neatness",
         "CSV": "(be) an act of tidying/neatening; to make tidy or neat, to tidy up",
         "OBJ": "(be) that which is (to be) tidy/neat/orderly"
@@ -1122,7 +1122,7 @@
         "OBJ": "(be) that which is removed via wiping (up); a stain, a spill, etc."
       },
       "(be) a state/act of mopping; to use a mop, to mop (up)",
-      "(be) a state/act/process of removing/cleaing an undesired (quasi-)liquid substance via an absorptive material (e.g., a towel, a tissue, gauze, etc.)"
+      "(be) a state/act/process of removing/cleaning an undesired (quasi-)liquid substance via an absorptive material (e.g., a towel, a tissue, gauze, etc.)"
     ]
   },
   {
@@ -1277,14 +1277,14 @@
         "CSV": "(to be) a physical act/process of reflecting; to have/use a reflective surface that causes electromagnetic energy to change direction",
         "OBJ": "(to be) a reflection, i.e., what gets reflected (i.e., a beam of light, a visual image)"
       },
-      "(to be) a state of refraction; to refract [i.e., the bending of, and change in speed and/or waveleng",
+      "(to be) a state of refraction; to refract [i.e., the bending of, and change in speed and/or wavelength",
       "(to be) a state of diffraction; to diffract [i.e., the bending of, and change in direction of electronic energy to due to passage through an opening or around a barrier]"
     ]
   },
   {
     "root": "VPY",
     "refers": "MACRO=LEVEL REFLECTION / REFRACTION / DIFFRACTION",
-    "notes": "The three stems of this root are identical to the stems of the root **-VPW-** above except that they deal with the reflection/deflection/bending of macro-level phenomena, e.g., water waves, a tennis ball against a raquet, a billiard ball against a snooker cushion, a person diving into a swimming pool, a metal object deflected from its trajectory by a magnet, etc.",
+    "notes": "The three stems of this root are identical to the stems of the root **-VPW-** above except that they deal with the reflection/deflection/bending of macro-level phenomena, e.g., water waves, a tennis ball against a racquet, a billiard ball against a snooker cushion, a person diving into a swimming pool, a metal object deflected from its trajectory by a magnet, etc.",
     "see": "VPW"
   }
 ]
