@@ -64,7 +64,7 @@
       {
         "BSC": "(to be) a state/process of pursuing a vocation; to pursue a vocation [i.e., a skill or subject matter one is dedicated to learning and practicing] CPT Version = (to be) a state/process of having/practicing a vocation; to have/practice a vocation",
         "CTE": "(to be) the ability/capacity to pursue/study [CPT version = practice/engage in] one's vocation",
-        "CSV": "(to be) a state/process of learning/studying/practicing for one's vocation; to study/learn/practice infurtherance of one's vocation CPT = to perform or carry out an act as part of one's vocation",
+        "CSV": "(to be) a state/process of learning/studying/practicing for one's vocation; to study/learn/practice in furtherance of one's vocation CPT = to perform or carry out an act as part of one's vocation",
         "OBJ": "(to be) (the particular set of skills or subject matter which is) one's vocation"
       },
       "(to be) a state/process of pursing a career; pursue a career [i.e., one's chosen set of skills/knowledge/expertise for making one's living]",
@@ -266,7 +266,7 @@
         "CSV": "(to be) the physical/tangible process of an act of alteration/modification (i.e., what an entity physically undergoes while changing)",
         "OBJ": "(to be) what changes during an alteration/modification, what gets altered/modified, the alteration/modification itself"
       },
-      "(to be) a state/act of diversification/permutation; to diversify, permutate",
+      "(to be) a state/act of diversification/permutation; to diversify, permute",
       "(to be) a state/act of modulation; to modulate (i.e., control the variance in the state of an entity)"
     ]
   },
@@ -478,7 +478,7 @@
         "OBJ": "(to be) that which one is mistaken about; that which one makes/has made an error concerning"
       },
       "(to be) a state/act of misconception; to be under a misconception, to act/do something based upon a misconception ",
-      "(to be) a state/act of miscalculation or misjudgement; to misjudge or miscalculate something"
+      "(to be) a state/act of miscalculation or misjudgment; to misjudge or miscalculate something"
     ]
   },
   {
@@ -797,7 +797,7 @@
   },
   {
     "root": "ŢPH",
-    "refers": "OPENNESS / TRANSPARENCY / STRAIGHTFORWARDNESS / ACCOUNTABIILITY",
+    "refers": "OPENNESS / TRANSPARENCY / STRAIGHTFORWARDNESS / ACCOUNTABILITY",
     "stems": [
       {
         "BSC": "(to be) a state/act/process of being open/transparent to/with others",
@@ -805,7 +805,7 @@
         "CSV": "(to be) an act/behavior/practice associated with being open/transparent; to do/perform an act which demonstrates one is (being) open/transparent",
         "OBJ": "(to be) what one is open/transparent about"
       },
-      "(to be) a state/act of straightforwardness, being straight and to-the-point with others; to be/speak straightforward(ly); to be straight with others, to be direct and tothe-point",
+      "(to be) a state/act of straightforwardness, being straight and to-the-point with others; to be/speak straightforward(ly); to be straight with others, to be direct and to-the-point",
       "(to be) a state/act/process of accountability; to be (potentially) accountable for something [i.e., responsibility for addressing/fixing/dealing with/explaining/making good on something if something goes wrong]"
     ]
   },
@@ -917,7 +917,7 @@
         "CSV": "(be) the physical process of secreting",
         "OBJ": "(be) an amount of a secreted substance"
       },
-      "(be) an act/instance of sap secretion from a tree or sapproducing plant",
+      "(be) an act/instance of sap secretion from a tree or sap-producing plant",
       "(be) an act/instance of secretion of a resin"
     ]
   },
@@ -1393,7 +1393,7 @@
         "CSV": "(be) a state/act/process of exemplification; the perform an act/process of exemplification; to make an example out of",
         "OBJ": "(be) that which is considered an example or made to be an example; an exemplar"
       },
-      "(be) a precedent; i.e., an entity or situation which establishes a to-beexpected pattern for other/subsequent occurrences or instances of the entity or situation",
+      "(be) a precedent; i.e., an entity or situation which establishes a to-be-expected pattern for other/subsequent occurrences or instances of the entity or situation",
       "(be) an archetype; the most prototypical/definitive/desirable example/pattern/design of an entity or idea"
     ],
     "notes": "This root is also used as the **ARCHETYPAL (ACH) Bias Affix**: *what (a) ...!; how . . .! ; Boy! Did (does) X ever* …"
@@ -1403,7 +1403,7 @@
     "refers": "IMPLICATION / HINT / CONNOTATION / ALLUSION",
     "stems": [
       {
-        "BSC": "(be) a (state/process of) implication [i.e., a statesituation which functions as evidence by which an observer may deduce/infer something; to imply something]",
+        "BSC": "(be) a (state/process of) implication [i.e., a state/situation which functions as evidence by which an observer may deduce/infer something; to imply something]",
         "CTE": "(be) an implication; that which is implied",
         "CSV": "(be) a process of implying; offer/manifest evidence from which an inference can be made",
         "OBJ": "(be) that which gives rise to, or is the basis for an implication; a hint, a \"tip\""
@@ -1650,7 +1650,7 @@
         "CSV": "(to be) a degree of specialness, extraordinariness",
         "OBJ": "(to be) an entity/party impacted/affected by one's degree of specialness, extraordinariness"
       },
-      "(to be/manifest a) degree of uniqueness ( = the degree to which something is unlike anything else, one-of-akind)",
+      "(to be/manifest a) degree of uniqueness ( = the degree to which something is unlike anything else, one-of-a-kind)",
       "(to be/manifest a) degree of marvelousness/wonder/awesomeness"
     ],
     "notes": "Associated Affix: **UNQ** (use SUF/EXN/EXD, etc.)"
@@ -1810,7 +1810,7 @@
     "refers": "DEGREE OF EFFORT",
     "stems": [
       {
-        "BSC": "(to be/manifest a) degree of effort ( = in terms of physical harship/toil and/or perplexity/complexity/mental challenge involved) — [both the quality and the entity manifesting such]",
+        "BSC": "(to be/manifest a) degree of effort ( = in terms of physical hardship/toil and/or perplexity/complexity/mental challenge involved) — [both the quality and the entity manifesting such]",
         "CTE": "(to be) something with a degree of effort",
         "CSV": "(to be) a degree of effort",
         "OBJ": "(to be) an entity/party impacted/affected by one's degree of effort"
@@ -1932,10 +1932,10 @@
       {
         "BSC": "(to be) a state/act of origination; to come into being, to get one's start, to originate",
         "CTE": "(to be) the origin / source of something — [both the point in spacetime and the fact of being the initial manifestation of something] (to be) an act/process of origin(ating) or functioning as a/the source",
-        "CSV": "(to be) a physical act of originating; to originate [i.e., come into existence or be formed at a paticular place and time]",
+        "CSV": "(to be) a physical act of originating; to originate [i.e., come into existence or be formed at a particular place and time]",
         "OBJ": "(to be) that whose source/origin is being identified"
       },
-      "(to be) a state/act of begining, initiating, starting; to begin, to start, to initiate",
+      "(to be) a state/act of beginning, initiating, starting; to begin, to start, to initiate",
       "(to be) a state/act of causation; to cause (i.e., primary/direct, not secondary or enabling cause)"
     ],
     "notes": "Affix: **OAU**\n\n* This root refers to origination, first-time occurrence, first-time causation only. For \"beginning/initiation\" meaning 'activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity, see the root **-TĻ-**."
@@ -2015,7 +2015,7 @@
         "CSV": "(to be) the container (via gravity)",
         "OBJ": "(to be) that which is contained (via gravity); the content(s)"
       },
-      "(to be) an instance/act/state of containment via an enclosing/surrounding/enveloping/encircling medium/conveyance; to enclose, to suround, to envelop, to encircle, to circumscribe",
+      "(to be) an instance/act/state of containment via an enclosing/surrounding/enveloping/encircling medium/conveyance; to enclose, to surround, to envelop, to encircle, to circumscribe",
       "(to be) an instance of containment via imbuement/mixing/blending in (i.e., as an ingredient/component); to mix something into, to blend something into [see also the root -SJ-]"
     ],
     "notes": "Associated affix: **CNM**"

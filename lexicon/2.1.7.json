@@ -93,7 +93,7 @@
                 "CSV": "(to be) the state/act of being bound to, being (up)on, or falling toward a (quasi-)planar surface/firmament due to gravity; to be bound to or headed for the ground due to gravity, to fall",
                 "OBJ": "(to be) that which is bound to, situated (up)on, or falling toward the ground due to gravity"
             },
-            "(to be) the Earth’s natural land surface, i.e., the ground [in a literal sense] (whether dirt, sand, grass, rock, forest floor, mud, swamp, etc.)",
+            "(to be) the Earth's natural land surface, i.e., the ground [in a literal sense] (whether dirt, sand, grass, rock, forest floor, mud, swamp, etc.)",
             "(to be) a (manually constructed) floor (of a building, room)"
         ]
     },
@@ -105,7 +105,7 @@
                 "BSC": "(to be) an aperture / “window” in a surface for the purpose of being able to visually view what is on the other side",
                 "CTE": "(to be) the state of there being (potential) visibility to the other side of a partition/wall or planar surface due to there being a window",
                 "CSV": "(to be) the physical aperture within a (quasi-) planar surface which constitutes a window",
-                "OBJ": "(to be) the (quasi-) transparent/transluscent planar entity situated within the bounds of a window/aperture to function as a protective partition between one side of the window and the other, e.g., plane of glass, screen, plane of plastic/acrylic, etc."
+                "OBJ": "(to be) the (quasi-) transparent/translucent planar entity situated within the bounds of a window/aperture to function as a protective partition between one side of the window and the other, e.g., plane of glass, screen, plane of plastic/acrylic, etc."
             },
             "(to be) an aperture/window in a surface for the purpose of letting in sunlight (or artificial light) from outside or another room",
             "(to be) an aperture/window in a surface for the purpose of limited physical access between one side of a partition and another (e.g., as in a ticket window, a pass-through slot, etc.)"
@@ -150,7 +150,7 @@
                 "CSV": "(to be) an act of dwelling; to go about the day-to-day activities that constitute living in a particular place",
                 "OBJ": "(to be) the party/entity that dwells within a dwelling"
             },
-            "(to be) a domicile (i.e., an artificially constructed quasipermanent residential dwelling which provides protection from outside environmental elements)",
+            "(to be) a domicile (i.e., an artificially constructed quasi-permanent residential dwelling which provides protection from outside environmental elements)",
             "(to be) a house (i.e., a quasi-permanent constructed residence with conveniences for quasi-permanent residence)"
         ]
     },
@@ -160,7 +160,7 @@
         "stems": [
             {
                 "BSC": "(to be) a state/act of occupancy within a delineated/demarcated place and time; to occupy",
-                "CTE": "(to be) the location one occupies, the place/locaton one occupies",
+                "CTE": "(to be) the location one occupies, the place/location one occupies",
                 "CSV": "(to be) an act of occupancy; to take up space for a certain amount of time in a particular place",
                 "OBJ": "(to be) the party that occupies a place/domicile/residence/burrow/nest, etc."
             },
@@ -188,7 +188,7 @@
         "refers": "RELOCATION / RESETTLEMENT / MIGRATION / REFUGE",
         "stems": [
             {
-                "BSC": "(to be) a state/act of relocation, resettlement of an entity in a new quasi-permanent residence/domicile/home away from that entity’s previous residence/domicile/home",
+                "BSC": "(to be) a state/act of relocation, resettlement of an entity in a new quasi-permanent residence/domicile/home away from that entity's previous residence/domicile/home",
                 "CTE": "(to be) where one is or has been relocated/resettled",
                 "CSV": "(to be) an act of relocating/resettling; to physically move from one location to another as part of an act/process of relocation/resettlement",
                 "OBJ": "(to be) the party/entity/situation that undergoes relocation/resettlement"

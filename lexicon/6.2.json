@@ -40,7 +40,7 @@
   },
   {
     "root": "STR",
-    "refers": "DURATION / TAKING UP A SPAN OF TIME / SPENDING ONE'S TIME",
+    "refers": "DURATION / TAKING UP A SPAN OF TIME / SPENDING ONE's TIME",
     "stems": [
       {
         "BSC": "(to be) a state/act of being/lasting/enduring making something last a certain amount of time; to be a certain amount of time in duration, to last for a certain amount of time",
@@ -472,7 +472,7 @@
   },
   {
     "root": "MŠPŘ",
-    "refers": "ELECTROMAGNETIC EMITIVITY",
+    "refers": "ELECTROMAGNETIC EMISSIVITY",
     "notes": "as measured by electrical capacitance per distance",
     "see": "ŇŠP"
   },
@@ -652,7 +652,7 @@
     "refers": "PORTION / AMOUNT / RATION / ALLOTMENT",
     "stems": [
       {
-        "BSC": "(to be) an amount/quantity of a non-countable substance/entity [both the entity/substance and its amount]; to determine/fix/distribute an amount/quanity of something",
+        "BSC": "(to be) an amount/quantity of a non-countable substance/entity [both the entity/substance and its amount]; to determine/fix/distribute an amount/quantity of something",
         "CTE": "(to be) the entity/substance contained in or comprising an amount/quantity",
         "CSV": "(to be) an (ostensibly or theoretically measurable) amount/quantity; to determine/fix/distribute/disperse a particular amount/quantity",
         "OBJ": "(to be) the object/entity made of/consisting of an amount/quantity of something"

@@ -7,7 +7,7 @@
                 "BSC": "(to be) a state/act of experiencing and perceiving any given moment in life; to experience and perceive what is happening to oneself at any given moment",
                 "CTE": "(to be) the internal psychological, and proprioceptive sensation of living and experiencing a particular moment in one's life; to experience/perceive such sensations",
                 "CSV": "(to be) a physical act of living/experiencing/perceiving what is happening to oneself at a given moment in one's life; to go through a moment in one's life, to live a moment of one's life",
-                "OBJ": "(to be) that which is happening to onself at a given moment in one's life; that which one experiences and perceives"
+                "OBJ": "(to be) that which is happening to oneself at a given moment in one's life; that which one experiences and perceives"
             },
             "(to be) a state/act of conscious awareness of and thinking about/considering the present moment one is living through and experiencing/perceiving",
             "(to be) a state/act of acting/doing something to affect/effect/deal with/manipulate one's experience and perception of a given moment in one's life; to act/do something to deal with/affect/effect/manipulate what is happening at a given moment in one's life"
@@ -157,7 +157,7 @@
         "stems": [
             {
                 "BSC": "(to be) an instance of being nice to another party; to be nice/decent [i.e., emotional/spiritual/physical support of another's interests]",
-                "CTE": "(to be) the feeling/experience of decncy/being nice to another",
+                "CTE": "(to be) the feeling/experience of decency/being nice to another",
                 "CSV": "(to be) the specific act(s)/word(s) which constitute an act/instance of decency/being nice",
                 "OBJ": "(to be) the party to whom one is decent/nice"
             },
@@ -329,8 +329,8 @@
                 "CSV": "(to be) an act/process of rationalizing; to engage in an act/process of rationalization",
                 "OBJ": "(to be) the rationalization itself [i.e., what one convinces oneself is true via a process of rationalization]"
             },
-            "(to be) a state/act/process of whitewashing; to whitewash [i.e., the deliberate and selective distortion/supression/highlighting data/facts/evidence to create a favorable impression/interpretation/explanation of something]",
-            "(to be) a state/act/process of conducting a cover-up; to (conduct a) cover- up [i.e., the deliberate concealment and/or tampering/destruction of data/facts/evidence and/or the supression of witnesses in order to conceal evidence of an illegal and/or immoral act/situation"
+            "(to be) a state/act/process of whitewashing; to whitewash [i.e., the deliberate and selective distortion/suppression/highlighting data/facts/evidence to create a favorable impression/interpretation/explanation of something]",
+            "(to be) a state/act/process of conducting a cover-up; to (conduct a) cover- up [i.e., the deliberate concealment and/or tampering/destruction of data/facts/evidence and/or the suppression of witnesses in order to conceal evidence of an illegal and/or immoral act/situation"
         ]
     },
     {
@@ -338,7 +338,7 @@
         "refers": "BUFFOONERY / ABSURDITY / SURREALISM / ECCENTRICITY",
         "stems": [
             {
-                "BSC": "(to be) an act/state/instance of buffoonish/silly behavior; to behave in a silly/bufoonish manner, do something silly/buffoonish [i.e., with the (intended) effect of causing derisive humor in an audience toward the bufoonish party]",
+                "BSC": "(to be) an act/state/instance of buffoonish/silly behavior; to behave in a silly/buffoonish manner, do something silly/buffoonish [i.e., with the (intended) effect of causing derisive humor in an audience toward the buffoonish party]",
                 "CTE": "(to be) silly/buffoonish as a behavioral motivation/trait",
                 "CSV": "(to be) a particular act/behavior considered silly/buffoonish",
                 "OBJ": "(to be) a buffoon, a person whose silliness is looked at derisively by others"
@@ -469,7 +469,7 @@
                 "CSV": "(to be) a physical act manifesting personal disinterest; to do something that displays one's disinterest",
                 "OBJ": "(to be) that regarding which one is disinterested"
             },
-            "(to be) an act/state of probity, moral uprightness, honesty in one's dealings with others; to behave/act in an honest, morally upright, probitive manner",
+            "(to be) an act/state of probity, moral uprightness, honesty in one's dealings with others; to behave/act in an honest, morally upright, probative manner",
             "(to be) a state/act of moral sublimity, nobility, virtue; to behave/act/be morally sublime, noble, virtuous"
         ],
         "notes": "\"disinterest\" does not mean \"lack of interest\", \"boredom\", or \"indifference\""
@@ -617,7 +617,7 @@
         "refers": "MORAL VALUE / VIRTUE / PRINCIPLE",
         "stems": [
             {
-                "BSC": "(to be) a state of holding a moral/personal value; to have/hold a moral/personal value [i.e., a standard or quality one holds dear as desirable and good for one's life as the foundtion for one's moral principles]",
+                "BSC": "(to be) a state of holding a moral/personal value; to have/hold a moral/personal value [i.e., a standard or quality one holds dear as desirable and good for one's life as the foundation for one's moral principles]",
                 "CTE": "(to be) a state of something being a moral/personal value",
                 "CSV": "(to be) a state/act/process of achieving/retaining a moral/personal value",
                 "OBJ": "(to be) a particular moral/personal value one holds"
@@ -705,7 +705,7 @@
             {
                 "BSC": "(to be) a state/act of having/using a psychic power or paranormal psychic ability (e.g., telekinesis, telepathy, levitation, ESP, pyrokinesis, precognition, etc.)",
                 "CTE": "(to be) a state of having/undergoing a psychic/paranormal experience",
-                "CSV": "(to be) a physical act of applying/practicing/using one's paranormal psychic power/ability; to perform an act of using/appliying one's paranormal psychic power/ability",
+                "CSV": "(to be) a physical act of applying/practicing/using one's paranormal psychic power/ability; to perform an act of using/applying one's paranormal psychic power/ability",
                 "OBJ": "(to be) a product of, or a state of affairs resulting from, the use/application/performance of one's paranormal psychic power/ability"
             },
             "(to be) a paranormal ability/power beyond the normal range of bodily or mental ability (e.g., super strength, X-ray vision, inability to be frozen or burnt, etc.)",
@@ -769,7 +769,7 @@
     {
         "root": "ŇSML",
         "stems": [
-            "divination (\"reading\" signs/portents in objects, aeromancy, haruspexy, etc.)",
+            "divination (\"reading\" signs/portents in objects, aeromancy, haruspex, etc.)",
             "fortune-telling",
             "aeromancy"
         ],
@@ -1028,7 +1028,7 @@
     },
     {
         "root": "FĻ",
-        "refers": "POMPOSITY / PRETENSION / OSTENTATIOUSNESS / BRAGGADOCCIO / BOASTING / ONE-UPMANSHIP",
+        "refers": "POMPOSITY / PRETENSION / OSTENTATIOUSNESS / BRAGGADOCIO / BOASTING / ONE-UPMANSHIP",
         "stems": [
             {
                 "BSC": "(to be) a state/act of pomposity/ostentation/pretentiousness; be/act pompous(ly)/ostentatious(ly)/pretentious(ly)",
@@ -1259,7 +1259,7 @@
                 "OBJ": "(to be) the particular situation/dilemma/event/state requiring the use/application of common sense"
             },
             "(to be) a state of being prudent/circumspect/discerning",
-            "(to be) a state of being wise/sagacious based on keen analysis and introspection regarding one's experiences and longterm observations"
+            "(to be) a state of being wise/sagacious based on keen analysis and introspection regarding one's experiences and long-term observations"
         ]
     },
     {
@@ -1376,7 +1376,7 @@
     },
     {
         "root": "ŠŢ",
-        "refers": "RECOGNITION/CONSIDERATION OF ANOTHERS PERSPECTIVE",
+        "refers": "RECOGNITION/CONSIDERATION OF ANOTHER's PERSPECTIVE",
         "stems": [
             {
                 "BSC": "(to be) an instance of seeing/understanding another party's perspective or point of view; recognize a difference of values/perspective/point of view between oneself and another party",
@@ -1401,7 +1401,7 @@
             "(to be) an act/state/instance of conceding one's position/viewpoint/stance regarding a situation, allowing an opponent's or antagonist's position to prevail as a means of compromise or to avoid further hostilities/stress",
             "(to be) an act/state/instance of giving up, resigning, walking away from a situation because one recognizes one's position is hopeless or unwinnable"
         ],
-        "notes": "This root is also used as the **ABRITRARY (ARB) Bias Affix**: *\"...Yeah, whatever...\", \"...Ah, what the hell, I'm going ahead and...\"*"
+        "notes": "This root is also used as the **ARBITRARY (ARB) Bias Affix**: *\"...Yeah, whatever...\", \"...Ah, what the hell, I'm going ahead and...\"*"
     },
     {
         "root": "JT",
@@ -1485,7 +1485,7 @@
             "feel(ing of) negative wonder (i.e., a sense of dread-based wonder and awe at the power/formidableness of something awful/sad/horrible/devastating/terrible, etc.)"
         ],
         "see": "ÇM",
-        "notes": "This root is also used as the **PROPOTIOUS (PPT) Bias Affix**: *\"it's a wonder that\"* as in *\"It's a wonder he didn't break a bone in that fall.\"*"
+        "notes": "This root is also used as the **PROPITIOUS (PPT) Bias Affix**: *\"it's a wonder that\"* as in *\"It's a wonder he didn't break a bone in that fall.\"*"
     },
     {
         "root": "LLH",
@@ -1819,7 +1819,7 @@
             "(to be) the outlook-on-life described above as the basis for one's public face/persona, i.e., personal relationships, business dealings, negotiating principles, politics, public expression, etc.",
             "(to be) the outlook-on-life described above as an aesthetic principle or basis for artistic self-expression"
         ],
-        "notes": "(to expereince/feel/live by) a striving for (and, if achieved, the serenity resulting from) a delicate but sustained balance of the following personal states/ideals:\n* a calm appreciation for, and acceptance of one's life/existance that cannot be controlled/avoided (e.g., death, pain, loss, misfortune, etc.) due to understanding that such things are necessary to have a true appreciation for the value of life's joys;\n* being able to identify/recognize opportunities to improve one's chances for happiness/achievement/self-esteem and having the willingness and determination to pursue such opportunities as long as doing so no harm to others or to Nature;\n* a deep appreciation and sense of pride in those achievements of humankind that have brought happiness, prosperity, and well-being to people's lives, while at the same time having a keen ability to distinguish the difference between those achievements which have truly benefited humankind versus those seeming achievements which are ultimately divisive, alientating, anxiety-causing, or destructive in the long-term;\n* a sense of personal reward, pride, and personal sanction (i.e., feeling that one's existance is justified) when experiencing joy in one's life;\n* joy from, and humble appreciation for, the giving and receiving of love to/from others;\n* humbleness in understanding that one's own joy and sense of personal satisfaction/reward for achieving one's goals/desires is a privde, personal matter not to be used arrogantly as a weapon against the self-esteem of other people."
+        "notes": "(to experience/feel/live by) a striving for (and, if achieved, the serenity resulting from) a delicate but sustained balance of the following personal states/ideals:\n* a calm appreciation for, and acceptance of one's life/existence that cannot be controlled/avoided (e.g., death, pain, loss, misfortune, etc.) due to understanding that such things are necessary to have a true appreciation for the value of life's joys;\n* being able to identify/recognize opportunities to improve one's chances for happiness/achievement/self-esteem and having the willingness and determination to pursue such opportunities as long as doing so no harm to others or to Nature;\n* a deep appreciation and sense of pride in those achievements of humankind that have brought happiness, prosperity, and well-being to people's lives, while at the same time having a keen ability to distinguish the difference between those achievements which have truly benefited humankind versus those seeming achievements which are ultimately divisive, alientating, anxiety-causing, or destructive in the long-term;\n* a sense of personal reward, pride, and personal sanction (i.e., feeling that one's existence is justified) when experiencing joy in one's life;\n* joy from, and humble appreciation for, the giving and receiving of love to/from others;\n* humbleness in understanding that one's own joy and sense of personal satisfaction/reward for achieving one's goals/desires is a private, personal matter not to be used arrogantly as a weapon against the self-esteem of other people."
     },
     {
         "root": "NKR",
@@ -1985,7 +1985,7 @@
                 "BSC": "(to be) a state/process/act of retirement/stepping down, being retired; to retire, to step down from one's role, to be retired [i.e., no longer working or active in one's primary or professional role]",
                 "CTE": "(to be) a state of retirement; being retired",
                 "CSV": "(to be) a physical act/process of retiring, stepping down from one's role",
-                "OBJ": "(to be) the role/work/job/function fromwhich one retires or is retired"
+                "OBJ": "(to be) the role/work/job/function from which one retires or is retired"
             },
             "(to be in) a state of senescence, old-age; to be old in age and physical/mental condition, to be senescent",
             "(to be in) one's dotage; to be a dotard, to be senile/doddering"

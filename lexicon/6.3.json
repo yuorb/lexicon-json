@@ -19,7 +19,7 @@
     "stems": [
       {
         "BSC": "(to be) the Earth/Terra (as both a planetary body and a \"world\" encompassing a particular biosphere/ecosystem and civilization)",
-        "CTE": "(to be) \"the world\" [i.e., the Terran-based biosphere, ecosystem, environment and civilizaton which Terran life inhabits]",
+        "CTE": "(to be) \"the world\" [i.e., the Terran-based biosphere, ecosystem, environment and civilization which Terran life inhabits]",
         "CSV": "(to be) the physical planetary body itself that constitutes the planet Earth/Terra",
         "OBJ": "(to be) the orbit(al path) of the planet Earth/Terra"
       },
@@ -242,12 +242,12 @@
     "refers": "WAVE / WAVE-FRONT / STANDING WAVE",
     "stems": [
       {
-        "BSC": "(to be) a mechanical wave; to move/propogate/act as a mechanical wave (e.g., sound, water, seismic, surface, string vibration, etc.) [i.e., propogated oscillations through a medium]",
+        "BSC": "(to be) a mechanical wave; to move/propagate/act as a mechanical wave (e.g., sound, water, seismic, surface, string vibration, etc.) [i.e., propagated oscillations through a medium]",
         "CTE": "(to be) the state of oscillation/vibration which makes up a wave",
         "CSV": "(to be) an act/process of generating a wave; to generate a wave",
         "OBJ": "(to be) a wave-front, the leading edge of a wave phenomenon"
       },
-      "(to be) an electromagnetic or other non-mechanical wave; to move/propogate/act as an electro-magnetic wave (e.g., visible light, radio, ultraviolet, infrared, x-ray, gamma ray, gravitational wave, reaction-diffusion wave, quantum probability wave, etc.)",
+      "(to be) an electromagnetic or other non-mechanical wave; to move/propagate/act as an electro-magnetic wave (e.g., visible light, radio, ultraviolet, infrared, x-ray, gamma ray, gravitational wave, reaction-diffusion wave, quantum probability wave, etc.)",
       "(to be) a standing wave (e.g., a plucked string of a violin vibrating); to vibrate as a standing wave"
     ]
   },
@@ -312,7 +312,7 @@
     "refers": "TERRESTRIAL TOPOGRAPHY / GEOGRAPHIC FEATURE / ARABILITY",
     "stems": [
       {
-        "BSC": "(to be) a terrestial/geographic land feature",
+        "BSC": "(to be) a terrestrial/geographic land feature",
         "CTE": "(to be) a particular geographic/terrestrial feature itself",
         "CSV": "(to be) the particular aspects/characteristics of a particular type of terrestrial land feature (e.g., the aridness/starkness of a desert, the packed ice/snow of a glacier, the vastness/flatness of a the plains/pampas, etc.)",
         "OBJ": "(to be) the geographic/ecological impact of a geographic feature on its surrounding environment"
@@ -372,7 +372,7 @@
       {
         "BSC": "(to be) a continent [i.e., raised land mass taking up a significant percentage of a planetary surface, mostly or entirely surrounded by ocean]",
         "CTE": "(to be) the state of being a continent",
-        "CSV": "(to be) a state of utilizing/living on a continent; to deal with living on a coninent",
+        "CSV": "(to be) a state of utilizing/living on a continent; to deal with living on a continent",
         "OBJ": "(to be) the geographic/ecological impact of a continent on its surrounding environment"
       },
       "(to be) a tectonic plate",

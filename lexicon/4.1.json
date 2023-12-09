@@ -33,7 +33,7 @@
         "stems": [
             {
                 "BSC": "(to be) an act/instance of uttering a vocal sound of physical/mental distress or pain; to utter a vocal sound of physical/mental distress or pain (e.g., moaning, howling, etc.)",
-                "CTE": "(to be) the vocalized sound of vocalized physical or mentral distress/pain, a vocalized sound of distress/pain; for there to be a vocalized sound of physical/mental distress/pain",
+                "CTE": "(to be) the vocalized sound of vocalized physical or mental distress/pain, a vocalized sound of distress/pain; for there to be a vocalized sound of physical/mental distress/pain",
                 "CSV": "(to be) the physical act of uttering a vocal sound of distress/pain; to moan, to howl",
                 "OBJ": "(to be) the physical or mental distress/pain which causes one to moan or howl"
             },
@@ -47,7 +47,7 @@
         "stems": [
             {
                 "BSC": "(to be) a spoken/written/signed/signaled utterance for communicating linguistically",
-                "CTE": "(to be) the (intended) message/comment/meaning of an instance of lingusitic communication; to say/tell/communicate something using language",
+                "CTE": "(to be) the (intended) message/comment/meaning of an instance of linguistic communication; to say/tell/communicate something using language",
                 "CSV": "(to be) an instance of producing/uttering/writing/signing/signaling using language (i.e., the process thereof, irrespective of the content/message); to speak/write/sign/signal in a language",
                 "OBJ": "(to be) the entity/party to which/whom one (intends to) communicate linguistically; the (intended) audience/listener/hearer/reader/recipient of a linguistic communication"
             },
@@ -76,7 +76,7 @@
         "stems": [
             {
                 "BSC": "(to be) something documented in writing; to document, record/transcribe for official/archival purposes [both the physical writing and communicative content/message thereof]",
-                "CTE": "(to be) the communicative/lingusitic content/message contained within something officially documented",
+                "CTE": "(to be) the communicative/linguistic content/message contained within something officially documented",
                 "CSV": "(to be) the visual inscription or physical presence of something documented (regardless of its communicative content)",
                 "OBJ": "(to be) the object/surface on which something is documented"
             },
@@ -147,7 +147,7 @@
             {
                 "BSC": "(to be) an act/process of giving an account of/relating/recounting an event/occurrence to another",
                 "CTE": "(to be) the content of an account",
-                "CSV": "(to be) an act/process of giving an account; to give an acount (i.e.,verbally, in writing, on screen, etc.)",
+                "CSV": "(to be) an act/process of giving an account; to give an account (i.e.,verbally, in writing, on screen, etc.)",
                 "OBJ": "(to be) the event/occurrence/situation about which an account pertains"
             },
             "(to be) an act of telling a story or narrative about a real-life experience; to narrate, tell a narrative, tell a (real-life) story",
@@ -435,7 +435,7 @@
             {
                 "BSC": "(to be) an act/instance of taking a break from something, ceasing one's activity in order to recuperate/rest; to rest, take a break, to stop what one is doing to recuperate/rest",
                 "CTE": "(to be) a state of being on a break, temporarily resting/recuperating from an activity",
-                "CSV": "(to be) an act of taking a break; to physically stop what one is doing in ordert to recuperate/rest",
+                "CSV": "(to be) an act of taking a break; to physically stop what one is doing in order to recuperate/rest",
                 "OBJ": "(to be) what one is taking a break from"
             },
             "(to be) an act/state of being on/taking a vacation/holiday; to take or be/go on a vacation/holiday",
@@ -701,7 +701,7 @@
             "(to be) a state of potentially serving a function/purpose to one; to be of potential service, to potentially serve a function, be serviceable [i.e., available to perform a function/operation/act which is helpful/assistive/useful to another]",
             "(to be) a state/act of being of potential assistance/assistiveness to one or in a situation (e.g., an assistive device, an assistive hand-railing, an assistive feature in an automobile, etc.)"
         ],
-        "notes": "This root refers to the usefulness/assistiveness of an inanimate or collective entity. To denote assistance/helpfullness/support from an animate conscious entity, see root -NN-."
+        "notes": "This root refers to the usefulness/assistiveness of an inanimate or collective entity. To denote assistance/helpfulness/support from an animate conscious entity, see root -NN-."
     },
     {
         "root": "NN",
@@ -745,7 +745,7 @@
             "(to be) an act of mimicry; to mimic, to feign",
             "(to be) an act of pretending to be (a state or role) / act of make-believe; to pretend (to be) / to make-believe"
         ],
-        "notes": "For the concept of cariacture/parody, see root -ŘŽŘ-."
+        "notes": "For the concept of caricature/parody, see root -ŘŽŘ-."
     },
     {
         "root": "MKR",
@@ -1001,8 +1001,8 @@
         "refers": "TRANSFER OF ENTITY FROM ONE PLACE TO ANOTHER / DELIVERY / CONVEYANCE / SENDING / BRINGING",
         "stems": [
             {
-                "BSC": "(to be) an act/process of transfering/delivering/conveying an object/entity to a destination and/or intended recipient",
-                "CTE": "(to be in) a process/act of transfer/delivery/conveyance of an entity [focus on the item, irrespective of the sending/recieving parties]",
+                "BSC": "(to be) an act/process of transferring/delivering/conveying an object/entity to a destination and/or intended recipient",
+                "CTE": "(to be in) a process/act of transfer/delivery/conveyance of an entity [focus on the item, irrespective of the sending/receiving parties]",
                 "CSV": "(to be) a process/act of transfer/delivery/conveyance of an entity [focus on the process of transfer/delivery/conveyance, irrespective of the entity/object/item being transferred or the parties involved]",
                 "OBJ": "(to be) an item being transferred/delivered/conveyed"
             },
@@ -1062,7 +1062,7 @@
             {
                 "BSC": "(to be) a state/act of utilizing a medium of exchange (i.e., intermediary method of trade in avoidance of the inconveniences of a pure barter system); to utilize a medium of exchange to carry out a purchase or commercial/financial transaction",
                 "CTE": "(to be) a state of there being a medium of exchange for use in financial/commercial/trade transactions (as opposed to simple bartering or stealing)",
-                "CSV": "(to be) an act of purchasing using a medium of exchange; to buy/purchase something utilizing a medium of exchane",
+                "CSV": "(to be) an act of purchasing using a medium of exchange; to buy/purchase something utilizing a medium of exchange",
                 "OBJ": "(to be) a medium/means of exchange (e.g., beads, shells, gems, coins, bills, etc.)"
             },
             "(to be) a state/act of utilizing money/currency to pay for something {OBJ = unit of money/currency]",
@@ -1076,13 +1076,13 @@
             {
                 "BSC": "(to be) a state/act/process of monetary accumulation (via earning wages, investments, etc.); earn/raise money",
                 "CTE": "(to be) a state of earning/accumulating money",
-                "CSV": "(to be) a state/act of physically doing something to earn/raise money; to physically perform a task (e.g., labor, choosing an investment, organizing a fundraiser, etc.) that earns/raises money (e.g., paid labororganizing a fundraiser, etc.)",
+                "CSV": "(to be) a state/act of physically doing something to earn/raise money; to physically perform a task (e.g., labor, choosing an investment, organizing a fundraiser, etc.) that earns/raises money (e.g., paid labor organizing a fundraiser, etc.)",
                 "OBJ": "(to be) an amount of money; to have/possess an amount of money"
             },
             {
                 "BSC": "(to be) a state/act of monetary accumulation via an item of financial capital or financial instrument other than currency (e.g., stocks, bonds, trade in commodities, etc.)",
                 "CTE": "(to be) a state of earning/accumulating financial assets via investment or trade in financial instruments",
-                "CSV": "(to be) a state/act of physically doing something to earn/raise money using financial capital or a financial instrument; to peform a physical act of investment or trade in financial instruments",
+                "CSV": "(to be) a state/act of physically doing something to earn/raise money using financial capital or a financial instrument; to perform a physical act of investment or trade in financial instruments",
                 "OBJ": "(to be) an amount of money earned/accumulated via investment, etc.; to have/possess an amount of money earned via investment/financial instruments, etc."
             },
             {
@@ -1109,7 +1109,7 @@
     },
     {
         "root": "ŠTĻ",
-        "refers": "ONE'S PAY / EARN PAYMENT / WAGE / SALARY",
+        "refers": "ONE's PAY / EARN PAYMENT / WAGE / SALARY",
         "stems": [
             {
                 "BSC": "(to be) an act/state of being paid in exchange for one's labor/service",
@@ -1156,7 +1156,7 @@
             {
                 "BSC": "(to be) a state/process of investing one's time and /or effort into something; to invest one's time and/or effort into something [i.e., giving of one's resources in the belief or hope that this will aid in the return of future benefits once one's investment comes to fruition]",
                 "CTE": "(to be) a state of there being an investment in something, a state of having an investment in something",
-                "CSV": "(to be) a physical act/process of investing one's time/effort; to physcially invest one's time and/or effort",
+                "CSV": "(to be) a physical act/process of investing one's time/effort; to physically invest one's time and/or effort",
                 "OBJ": "(to be) the amount/degree of time/effort one invests"
             },
             "(to be) a state/process of investing (seed) money and/or material goods/resources into something; to invest (seed) money and/or material goods/resources into something",
@@ -1212,7 +1212,7 @@
             {
                 "BSC": "(to be) an act of promising; to (make a) promise",
                 "CTE": "(to be) a state of being bound by/to a promise",
-                "CSV": "(to be) the physical act (e.g., words spoken, signed statement) of promising; to perform an action (e.g., in words or writing) that consitutes making a promise",
+                "CSV": "(to be) the physical act (e.g., words spoken, signed statement) of promising; to perform an action (e.g., in words or writing) that constitutes making a promise",
                 "OBJ": "(to be) what one has promised"
             },
             "(to be) an act of vowing/pledging; to (make/take a) vow/pledge (i.e., a solemn/sacred long-term promise to oneself or to oneself and others)",
@@ -1226,7 +1226,7 @@
             {
                 "BSC": "(to be) an act of assurance/vouching for something or someone; to assure/vouch for someone or someone",
                 "CTE": "(to be) a state of being bound by having vouched for something or someone",
-                "CSV": "(to be) the physical act (e.g., words spoken, signed statement) of vouching for someone or something; to perform an action (e.g., in words or writing) that consitutes vouching for someone or something",
+                "CSV": "(to be) the physical act (e.g., words spoken, signed statement) of vouching for someone or something; to perform an action (e.g., in words or writing) that constitutes vouching for someone or something",
                 "OBJ": "(to be) what/who one has vouched for"
             },
             "(to be) an act of guaranteeing; to (make a) guarantee",
@@ -1240,7 +1240,7 @@
             {
                 "BSC": "(to be) an act/instance of offering reimbursement; to offer to reimburse [i.e., to offer remuneration to someone as compensation for a loss or damages] (CPT version = reimburse)",
                 "CTE": "(to be) the money/remunerative material goods one offers as reimbursement",
-                "CSV": "(to be) the physical act of offering reimburement; to",
+                "CSV": "(to be) the physical act of offering reimbursement; to",
                 "OBJ": "(to be) that for which one offers reimbursement"
             },
             "(to be) an act/instance of offering compensation/reparation; to offer compensate/offer reparation [i.e., to offer goods/services/material as a token of payment for a moral wrong or ethical debt to a party]",
@@ -1423,7 +1423,7 @@
             {
                 "BSC": "(to be) a monarchical form of government, i.e., governance by a (hereditary) monarch; to govern monarchically",
                 "CTE": "(to be) a state of monarchic governance",
-                "CSV": "(to be) a a practice associated with monarchic governance; to perform/carry out an act associated with, or demonsstrating monarchic governance, to reign",
+                "CSV": "(to be) a a practice associated with monarchic governance; to perform/carry out an act associated with, or demonstrating monarchic governance, to reign",
                 "OBJ": "(to be) a society/group/party governed by means of monarchism/monarchy"
             },
             "(to be) a totalitarian/dictatorial form of governance",
@@ -1465,7 +1465,7 @@
             {
                 "BSC": "(to be) an act/process of issuing/obtaining a warrant authorizing the seizure of evidence or detention of criminal suspect",
                 "CTE": "(to be) a state of being subject to a warrant",
-                "CSV": "(to be) a physical act of issueing/granting a warrant",
+                "CSV": "(to be) a physical act of issuing/granting a warrant",
                 "OBJ": "(to be) a warrant authorizing the seizure of evidence or detention of criminal suspect"
             },
             "(to be) a state of seizure of evidence or detention of a suspect in a criminal investigation; to seize evidence or detain a suspect as part of a criminal investigation",
@@ -1572,9 +1572,9 @@
         "refers": "SEXUAL HARASSMENT / SEXUAL ASSAULT / RAPE",
         "stems": [
             {
-                "BSC": "(to be) state/act of sexual harassment against another; to sexually harrass another [both the act and the state undergone by the victim",
+                "BSC": "(to be) state/act of sexual harassment against another; to sexually harass another [both the act and the state undergone by the victim",
                 "CTE": "(to be) a state of being a victim of sexual harassment",
-                "CSV": "(to be) a physical act of sexually harassing; to sexually harrass",
+                "CSV": "(to be) a physical act of sexually harassing; to sexually harass",
                 "OBJ": "(to be) a victim of sexual harassment"
             },
             "(to be) a state/act of sexual assault/molestation; to sexually assault/molest",
@@ -1643,8 +1643,8 @@
                 "CSV": "(to be) a physical act of offering a quid pro quo arrangement",
                 "OBJ": "(to be) a party offering or being offered a quid pro quo arrangement, be one of the parties in a potential quid pro quo arrangement"
             },
-            "(to be) a state/act of offering a quid pro quo arrangement; to offer a quid pro quo arrangment [CPT = act of bribery; to bribe]",
-            "(to be) a state/act of accepting a quid pro quo arrangment; to accept a quid pro quo arrangment [CPT = act of accepting a bribe; to accept a bribe, to be bribed]"
+            "(to be) a state/act of offering a quid pro quo arrangement; to offer a quid pro quo arrangement [CPT = act of bribery; to bribe]",
+            "(to be) a state/act of accepting a quid pro quo arrangement; to accept a quid pro quo arrangement [CPT = act of accepting a bribe; to accept a bribe, to be bribed]"
         ]
     },
     {

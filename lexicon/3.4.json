@@ -10,7 +10,7 @@
                 "OBJ": "The entity situated/located at; to be that which situated/located at"
             },
             "Direction relative to the observer (i.e., linear directional path between an object and the observer)",
-            "The opposing direction from which something emergeces/originates/appears/etc."
+            "The opposing direction from which something emerges/originates/appears/etc."
         ],
         "notes": "Stem Zero = area, general vicinity of a particular position/location relative to the observer, whether 2-dimensional or 3-dimensional according to the situational context"
     },
@@ -196,25 +196,25 @@
     },
     {
         "root": "ḐD",
-        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 2-DIMESIONAL PLANAR CONTEXT [INDIVIDUAL COMPONENTS SEPARABLE/EXTRACTABLE]",
+        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 2-DIMENSIONAL PLANAR CONTEXT [INDIVIDUAL COMPONENTS SEPARABLE/EXTRACTABLE]",
         "notes": "e.g., \"red marbles amidst a tabletop covered with different colored marbles\"",
         "see": "Ţ"
     },
     {
         "root": "ḐB",
-        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 3-DIMESIONAL VOLUME [INDIVIDUAL COMPONENTS SEPARABLE/EXTRACTABLE]",
+        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 3-DIMENSIONAL VOLUME [INDIVIDUAL COMPONENTS SEPARABLE/EXTRACTABLE]",
         "notes": "e.g., \"red marbles within a jar full of different colored marbles\"",
         "see": "Ţ"
     },
     {
         "root": "ḐV",
-        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 2-DIMESIONAL PLANAR CONTEXT [INDIVIDUAL COMPONENTS INSEPARABLE/PERMANENTLY COMBINED]",
+        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 2-DIMENSIONAL PLANAR CONTEXT [INDIVIDUAL COMPONENTS INSEPARABLE/PERMANENTLY COMBINED]",
         "notes": "e.g., \"yellow paint spread onto a blue canvas to make a green area\"",
         "see": "Ţ"
     },
     {
         "root": "ḐG",
-        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 3-DIMESIONAL VOLUME [INDIVIDUAL COMPONENTS INSEPARABLE/PERMANENTLY COMBINED]",
+        "refers": "POSITION/STATE INTERTWINED/INTERMINGLED/INTERMIXED IN 3-DIMENSIONAL VOLUME [INDIVIDUAL COMPONENTS INSEPARABLE/PERMANENTLY COMBINED]",
         "notes": "e.g., \"sugar granules poured into a cup of coffee\"",
         "see": "Ţ"
     },
