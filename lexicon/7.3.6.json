@@ -1328,10 +1328,10 @@
     "refers": "ORTHOMYXOVIRUS (INFLUENZA VIRUS)",
     "stems": [
       {
-        "BSC": "(to be) a species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / \"bird flu\" virus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / \"bird flu\" virus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / \"bird flu\" virus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / \"bird flu\" virus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
+        "BSC": "(to be) a species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / “bird flu” virus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
+        "CTE": "(to be) that which gives a particular species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / “bird flu” virus** its individual identity; the living essence of such a species",
+        "CSV": "(to be) the physical body of a species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / “bird flu” virus**; the corporeal aspect of such a species",
+        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Alphainfluenzavirus) influenza A virus, avian influenza virus / “bird flu” virus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       },
       {
         "BSC": "(to be) a species identified as **(genus Betainfluenzavirus) influenza B virus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
@@ -1346,7 +1346,7 @@
         "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genera Gammainfluenzavirus, Deltainfluenzavirus) influenza C virus, influenza D virus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       }
     ],
-    "notes": "To name a particular pathogenic disease, **influenza / \"the flu\"**, either concatenate the stem 1, **nfluenza A virus**, 2, **influenza B virus**, or 3, **influenza C virus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "To name a particular pathogenic disease, **influenza / “the flu”**, either concatenate the stem 1, **nfluenza A virus**, 2, **influenza B virus**, or 3, **influenza C virus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
   },
   {
     "root": "NXPW",
