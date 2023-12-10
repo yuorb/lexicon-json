@@ -405,7 +405,7 @@
         "stems": [
             "spades",
             "500 (card game)",
-            "other \"trick-taking\" card game"
+            "other “trick-taking” card game"
         ],
         "see": "ŢSK"
     },
@@ -459,7 +459,7 @@
         "stems": [
             "switch / last card / two four jacks",
             "one-card",
-            "other \"shedding\"-type card game"
+            "other “shedding”-type card game"
         ],
         "see": "ŢSK"
     },
@@ -565,7 +565,7 @@
     {
         "root": "MFTL",
         "stems": [
-            "\"would you rather\" or similar choice-based game",
+            "“would you rather” or similar choice-based game",
             "Truth or Dare or similar game",
             "other party/parlor game"
         ],

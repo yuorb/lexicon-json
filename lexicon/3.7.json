@@ -16,10 +16,10 @@
                 "OBJ": "(to be) that which occurs/passes during evening/nighttime hours"
             },
             {
-                "BSC": "(to be) a particular \"o'clock\"-time of the day as named by the hour [use numerical roots or affixes to specify the number of hours since midnight] (includes both the time and the event occurring then)",
-                "CTE": "(to be) the measuring/delineation of time as specified by a particular \"o'clock\"-time of day",
-                "CSV": "(to be) the state of being/occurring at a particular \"o'clock\"-time of day",
-                "OBJ": "(to be) the event which occurs at or is specified by a particular \"o'clock\"-time of day"
+                "BSC": "(to be) a particular “o'clock”-time of the day as named by the hour [use numerical roots or affixes to specify the number of hours since midnight] (includes both the time and the event occurring then)",
+                "CTE": "(to be) the measuring/delineation of time as specified by a particular “o'clock”-time of day",
+                "CSV": "(to be) the state of being/occurring at a particular “o'clock”-time of day",
+                "OBJ": "(to be) the event which occurs at or is specified by a particular “o'clock”-time of day"
             }
         ],
         "notes": "for specific times, e.g., 10:15 am and 34.3 seconds, use Stem 3 with appropriate numerical affix, followed by numerical stems with a COO affix plus the appropriate stems of the -RW- root declined in the PARTITIVE case. Alternatively, one may use numerical stems with the various degrees of the ELA affix."
@@ -32,9 +32,9 @@
                 "BSC": "(to be) a particular amount of elapsed time which something occurs/exists; for something to occur/exist lasting/during a particular amount of time [Stem 1 = a moment]",
                 "CTE": "(to be) the event(s) occurring during a particular amount of elapsed time",
                 "CSV": "(to be) the duration of elapsed time [regardless of what may occur/exist during that period]",
-                "OBJ": "(to be) the \"volume\" of spacetime during/in which something occurs/exists"
+                "OBJ": "(to be) the “volume” of spacetime during/in which something occurs/exists"
             },
-            "a \"while\"",
+            "a “while”",
             "a portion of a day"
         ],
         "notes": "Affix: **TD1**\n\nFor the meaning of the old FORMAL stems previously associated with this root, use the new root(-RW-)"
@@ -142,7 +142,7 @@
             "present event, entity, occurrence",
             "future event, entity, occurrence"
         ],
-        "notes": "Affix: **TPF**\n\nThe above stems may be used in spatial contexts as well, in which case English translations might differ depending on context, e.g., \"previous\", \"former\", \"once-\", \"one-time\", \"here\", \"...at hand\", \"there\", \"-to-come\", \"expected/awaited\", etc."
+        "notes": "Affix: **TPF**\n\nThe above stems may be used in spatial contexts as well, in which case English translations might differ depending on context, e.g., “previous”, “former”, “once-”, “one-time”, “here”, “...at hand”, “there”, “-to-come”, “expected/awaited”, etc."
     },
     {
         "root": "KM",
@@ -175,7 +175,7 @@
                 "OBJ": "(to be) the process which is divided up into steps/stages/phases"
             },
             "(to be) a degree/grade or point on a progressive/scalar gradient",
-            "(to be) a section, sub-unit, discernible/identifiable/differentiated \"stretch\" or portion of a progressively/successively structured entity/phenomenon"
+            "(to be) a section, sub-unit, discernible/identifiable/differentiated “stretch” or portion of a progressively/successively structured entity/phenomenon"
         ],
         "notes": "Affix: **STG**"
     },

@@ -4,13 +4,13 @@
         "refers": "COMPLEMENTARY INTERPERSONAL RELATIONSHIP OR INTERACTION",
         "stems": [
             {
-                "BSC": "(to be) a complementary interpersonal relationship or interaction (i.e., where one party is, does, performs, offers, or initiates some state, act, service, etc. which is directed toward, received, dealt with, undergone, submitted to, acted upon, or reacted to, by a \"secondary\" or \"beta\" party)",
+                "BSC": "(to be) a complementary interpersonal relationship or interaction (i.e., where one party is, does, performs, offers, or initiates some state, act, service, etc. which is directed toward, received, dealt with, undergone, submitted to, acted upon, or reacted to, by a “secondary” or “beta” party)",
                 "CTE": "(to be) a state of a complementary interpersonal relationship or interaction taking place or having taken place",
                 "CSV": "(to be) the physical act of engaging in the specifics of a complementary interpersonal relationship or interaction",
                 "OBJ": "(to be) a party engaged in a complementary interpersonal relationship or interaction"
             },
-            "(to be) the state/act/situation initiated, performed, offered, or undergone by the \"alpha\" or \"primary\" party of a complementary interpersonal relationship or interaction",
-            "(to be) the state/act/situation received, submitted to, dealt with, solicited or undergone by the \"beta\" or \"secondary\" party of a complementary interpersonal relationship or interaction"
+            "(to be) the state/act/situation initiated, performed, offered, or undergone by the “alpha” or “primary” party of a complementary interpersonal relationship or interaction",
+            "(to be) the state/act/situation received, submitted to, dealt with, solicited or undergone by the “beta” or “secondary” party of a complementary interpersonal relationship or interaction"
         ]
     },
     {
@@ -19,7 +19,7 @@
         "stems": [
             {
                 "BSC": "(to be) a state/act of [attempted] predation upon a prey and the prey's attempt to flee or defend itself",
-                "CTE": "(to be) a state of a predation (i.e., the \"nature\" of the predator/prey relationship)",
+                "CTE": "(to be) a state of a predation (i.e., the “nature” of the predator/prey relationship)",
                 "CSV": "(to be) the physical act of predation by a predator and defensive act of its (potential) prey",
                 "OBJ": "(to be) a party to a predator~prey relationship"
             },
@@ -165,7 +165,7 @@
     },
     {
         "root": "ZGW",
-        "refers": "BEING A MATCHMAKER ↔ BEING A PARTY MATCHED OR \"SET UP\" BY A MATCHMAKER",
+        "refers": "BEING A MATCHMAKER ↔ BEING A PARTY MATCHED OR “SET UP” BY A MATCHMAKER",
         "see": "LÇL"
     },
     {

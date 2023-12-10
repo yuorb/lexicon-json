@@ -16,10 +16,10 @@
         "OBJ": "(to be) an entity having zero-dimensionality; (to be) a Euclidean point; to have geometrically no length, area or volume, i.e., to be a Euclidean point"
       },
       {
-        "BSC": "(to be) the baseline \"zero\"-state or null-state in a sequence, hierarchy, gradient, pattern, etc.",
-        "CTE": "(to be) the state of being the baseline \"zero\"-state or null-state",
-        "CSV": "(to be) a process which determines/identifies an entity's being the baseline \"zero\"-state or null-state",
-        "OBJ": "(to be) the entity/party in the baseline \"zero\"-state or null- state in a sequence, hierarchy, gradient, pattern, etc."
+        "BSC": "(to be) the baseline “zero”-state or null-state in a sequence, hierarchy, gradient, pattern, etc.",
+        "CTE": "(to be) the state of being the baseline “zero”-state or null-state",
+        "CSV": "(to be) a process which determines/identifies an entity's being the baseline “zero”-state or null-state",
+        "OBJ": "(to be) the entity/party in the baseline “zero”-state or null- state in a sequence, hierarchy, gradient, pattern, etc."
       }
     ],
     "notes": "Associated Affix: XX0"
@@ -628,6 +628,6 @@
         "OBJ": "(to be) the (desired) transformation precipitated by performance/application of an abstract operation"
       }
     ],
-    "notes": "Use an appropriate degree of the OAU affix with the stems of the above root to generate a term for \"argument\" or \"abstract entity\" meaning a logical participant or referenced entity within a logical argument, e.g., \"In linguistics, we speak of the various nouns within a sentence as being *arguments* to a verb.\""
+    "notes": "Use an appropriate degree of the OAU affix with the stems of the above root to generate a term for “argument” or “abstract entity” meaning a logical participant or referenced entity within a logical argument, e.g., “In linguistics, we speak of the various nouns within a sentence as being *arguments* to a verb.”"
   }
 ]
