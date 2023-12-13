@@ -5,7 +5,7 @@ type Specs = {
     "OBJ": string
 }
 
-type Lexicon = {
+type Root = {
     root: string,
     refers: string,
     stems?: [
@@ -14,10 +14,17 @@ type Lexicon = {
         Specs | string,
     ],
     notes?: string
-}[]
+};
 
-export function merge(): Lexicon {
-    let target: Lexicon = []
+type Affix = null;
+
+type Lexicon = {
+    roots: Root[],
+    affixes: Affix[]
+}
+
+export function mergeRoots(): Root[] {
+    let target: Root[] = []
 
     // Get filenames and sort
     const filenames: string[] = []
@@ -28,11 +35,21 @@ export function merge(): Lexicon {
 
     for (let i = 0; i < filenames.length; i++) {
         const text = Deno.readTextFileSync(`lexicon/${filenames[i]}`);
-        const json: Lexicon = JSON.parse(text);
+        const json: Root[] = JSON.parse(text);
         target = target.concat(json)
     }
 
     return target
 }
 
+export function mergeAffixes(): Affix[] {
+    return [];
+}
+
+export function bundle(): Lexicon {
+    return {
+        roots: mergeRoots(),
+        affixes: mergeAffixes()
+    }
+}
 
