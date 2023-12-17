@@ -210,31 +210,35 @@
     "see": "LŢK"
   },
   {
-    "root": "Q3",
+    "root": "LŢKH",
     "refers": "“OTHER SUB-ATOMIC PARTICLE” I",
     "stems": ["pion", "kaon", "theta meson"],
+    "notes": "Since the root lacks consonant form, hereby a new Cr form is assigned.",
     "see": "LŢK"
   },
   {
-    "root": "Q4",
+    "root": "LŢKS",
     "refers": "“OTHER SUB-ATOMIC PARTICLE” II",
     "stems": ["rho meson", "eta meson", "D-meson"],
+    "notes": "Since the root lacks consonant form, hereby a new Cr form is assigned.",
     "see": "LŢK"
   },
   {
-    "root": "Q5",
+    "root": "LŢKŠ",
     "refers": "“OTHER SUB-ATOMIC PARTICLE” III",
     "stems": ["B-meson", "omega meson", "phi meson"],
+    "notes": "Since the root lacks consonant form, hereby a new Cr form is assigned.",
     "see": "LŢK"
   },
   {
-    "root": "Q6",
+    "root": "LŢKV",
     "refers": "“OTHER SUB-ATOMIC PARTICLE” IV",
     "stems": [
       "psion",
       "upsilon meson",
       "sub-atomic particle other than those listed above"
     ],
+    "notes": "Since the root lacks consonant form, hereby a new Cr form is assigned.",
     "see": "LŢK"
   },
   {
