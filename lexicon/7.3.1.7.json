@@ -25,7 +25,7 @@
   },
   {
     "root": "LŢPW",
-    "refers": "\"DISEASE-CAUSING NEMATODE\" I",
+    "refers": "“DISEASE-CAUSING NEMATODE” I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Trichinella) trichinella / trichina worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -50,7 +50,7 @@
   },
   {
     "root": "LŢPY",
-    "refers": "\"DISEASE-CAUSING NEMATODE\" II",
+    "refers": "“DISEASE-CAUSING NEMATODE” II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Ascaris) ascaris / large roundworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -75,7 +75,7 @@
   },
   {
     "root": "LŢPL",
-    "refers": "\"DISEASE-CAUSING NEMATODE\" III",
+    "refers": "“DISEASE-CAUSING NEMATODE” III",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Dirofilaria) dirofilaria**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -100,7 +100,7 @@
   },
   {
     "root": "LŢPR",
-    "refers": "\"DISEASE-CAUSING NEMATODE\" IV",
+    "refers": "“DISEASE-CAUSING NEMATODE” IV",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Mansonella) mansonella**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -125,7 +125,7 @@
   },
   {
     "root": "LŢPŘ",
-    "refers": "\"DISEASE-CAUSING NEMATODE\" V",
+    "refers": "“DISEASE-CAUSING NEMATODE” V",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Dracunculus) guinea worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -150,7 +150,7 @@
   },
   {
     "root": "LŢPÇ",
-    "refers": "\"DISEASE-CAUSING NEMATODE\" VI",
+    "refers": "“DISEASE-CAUSING NEMATODE” VI",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Ancylostoma) Old World hookworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -202,10 +202,10 @@
     "refers": "MICROSCOPIC ECDYSOZOAN",
     "stems": [
       {
-        "BSC": "(to be) an animal identified as **(Tardigrada; numerous genera) tardigrade / \"water bear\"**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Tardigrada; numerous genera) tardigrade / \"water bear\"** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Tardigrada; numerous genera) tardigrade / \"water bear\"**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Tardigrada; numerous genera) tardigrade / \"water bear\"**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
+        "BSC": "(to be) an animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
+        "CTE": "(to be) that which gives a particular animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”** its individual identity; the living essence or mental identity of an animal of such kind",
+        "CSV": "(to be) the physical body of an animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”**; the corporeal aspect of an animal of such kind",
+        "OBJ": "(to be) an activity engaged in by an animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
       },
       {
         "BSC": "(to be) an animal identified as **(Loricefera; numerous genera) loriciferan**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -319,7 +319,7 @@
   },
   {
     "root": "LŢTW",
-    "refers": "\"CESTODA (TAPEWORM)\" I",
+    "refers": "“CESTODA (TAPEWORM)” I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Taenia) taenia, pork tapeworm, beef tapeworm, Asian tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -344,7 +344,7 @@
   },
   {
     "root": "LŢTY",
-    "refers": "\"CESTODA (TAPEWORM)\" II",
+    "refers": "“CESTODA (TAPEWORM)” II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **genus Spirometra) cat tapeworm, dog tapeworm, raccoon tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -369,7 +369,7 @@
   },
   {
     "root": "LŢTL",
-    "refers": "\"TREMATODE (FLUKE)\" I",
+    "refers": "“TREMATODE (FLUKE)” I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Schistosoma) schistosoma / blood fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -394,7 +394,7 @@
   },
   {
     "root": "LŢTR",
-    "refers": "\"TREMATODE (FLUKE)\" II",
+    "refers": "“TREMATODE (FLUKE)” II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(genus Fasciola) fasciola / common liver fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -468,7 +468,7 @@
   },
   {
     "root": "LŢTĻ",
-    "refers": "\"ANNELID-RELATED ANIMAL\" I",
+    "refers": "“ANNELID-RELATED ANIMAL” I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Phoronida; genera Phononis, Actinotrocha) horseshoe worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -492,7 +492,7 @@
   },
   {
     "root": "LŢTH",
-    "refers": "\"ANNELID-RELATED ANIMAL\" II",
+    "refers": "“ANNELID-RELATED ANIMAL” II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Nemertea; numerous genera) ribbon worm / proboscis worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -684,7 +684,7 @@
   },
   {
     "root": "ŢPS",
-    "refers": "\"PTERIOMORPH\" I",
+    "refers": "“PTERIOMORPH” I",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Anomiids; several genera) jingle shell / saddle oyster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
@@ -708,7 +708,7 @@
   },
   {
     "root": "ŢPŠ",
-    "refers": "\"PTERIOMORPH\" II",
+    "refers": "“PTERIOMORPH” II",
     "stems": [
       {
         "BSC": "(to be) an animal identified as **(Arcids; numerous genera) ark shell / ark clam / bittersweet**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
