@@ -3,1178 +3,505 @@
     "root": "PFTW",
     "refers": "CYANOBACTERIA I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Arthrospira) spirulina**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Arthrospira) spirulina** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Arthrospira) spirulina**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Arthrospira) spirulina**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Aphanizomenon) aphanizomenon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Aphanizomenon) aphanizomenon** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Aphanizomenon) aphanizomenon**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Aphanizomenon) aphanizomenon**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Nostoc) nostoc**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Nostoc) nostoc** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Nostoc) nostoc**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Nostoc) nostoc**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Arthrospira*) spirulina",
+      "(genus *Aphanizomenon*) aphanizomenon",
+      "(genus *Nostoc*) nostoc"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFTY",
     "refers": "CYANOBACTERIA II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Cyanothece) cyanothece**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Cyanothece) cyanothece** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Cyanothece) cyanothece**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Cyanothece) cyanothece**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Synechocystis) synechocystis**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Synechocystis) synechocystis** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Synechocystis) synechocystis**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Synechocystis) synechocystis**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Cyanobacteria other than Stems 1 and 2; numerous genera) other cyanobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Cyanobacteria other than Stems 1 and 2; numerous genera) other cyanobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Cyanobacteria other than Stems 1 and 2; numerous genera) other cyanobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Cyanobacteria other than Stems 1 and 2; numerous genera) other cyanobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Cyanothece*) cyanothece",
+      "(genus *Synechocystis*) synechocystis",
+      "(Cyanobacteria other than Stems 1 and 2; numerous genera) other cyanobacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFTL",
     "refers": "ACTINOBACTERIA I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Actinomyces) actinomyces**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Actinomyces) actinomyces** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Actinomyces) actinomyces**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Actinomyces) actinomyces**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Corynebacterium) corynebacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Corynebacterium) corynebacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Corynebacterium) corynebacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Corynebacterium) corynebacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Mycobacterium) mycobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Mycobacterium) mycobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Mycobacterium) mycobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Mycobacterium) mycobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Actinomyces*) actinomyces",
+      "(genus *Corynebacterium*) corynebacterium",
+      "(genus *Mycobacterium*) mycobacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **actinomycosis**, either concatenate the stem 1, **actinomyces**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **diphtheria**, either concatenate the stem 2, **corynebacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **tuberculosis, leprosy / Hanesen's disease**, either concatenate the stem 3, **mycobacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: actinomycosis, Stem 2: diphtheria, Stem 3: tuberculosis / leprosy / Hanesen's disease",
+    "see": "FXW"
   },
   {
     "root": "PFTR",
     "refers": "ACTINOBACTERIA II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Nocardia) nocardia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Nocardia) nocardia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Nocardia) nocardia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Nocardia) nocardia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Streptomyces) streptomyces**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Streptomyces) streptomyces** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Streptomyces) streptomyces**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Streptomyces) streptomyces**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Gardnerella) gardnerella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Gardnerella) gardnerella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Gardnerella) gardnerella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Gardnerella) gardnerella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Nocardia*) nocardia",
+      "(genus *Streptomyces*) streptomyces",
+      "(genus *Gardnerella*) gardnerella"
     ],
-    "notes": "To name a particular pathogenic disease, **nocardiosis**, either concatenate the stem 1, **nocardia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **bacterial vaginosis**, either concatenate the stem 3, **gardnerella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: nocardiosis / bacterial vaginosis, 3: bacterial vaginosis",
+    "see": "FXW"
   },
   {
     "root": "PFTŘ",
     "refers": "ACTINOBACTERIA III",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Atopobium) atopobium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Atopobium) atopobium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Atopobium) atopobium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Atopobium) atopobium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Olsenella) olsenella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Olsenella) olsenella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Olsenella) olsenella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Olsenella) olsenella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Cryptobacterium) cryptobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Cryptobacterium) cryptobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Cryptobacterium) cryptobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Cryptobacterium) cryptobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Atopobium*) atopobium",
+      "(genus *Olsenella*) olsenella",
+      "(genus *Cryptobacterium*) cryptobacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **bacterial vaginosis**, either concatenate the stem 1, **atopobium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **periodontal disease**, either concatenate the stem 2, **olsenella**, or 3, **cryptobacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 2/3: periodontal disease",
+    "see": "FXW"
   },
   {
     "root": "PFTÇ",
     "refers": "ACTINOBACTERIA IV",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Eggerthella) eggerthella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Eggerthella) eggerthella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Eggerthella) eggerthella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Eggerthella) eggerthella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Frankia) frankia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Frankia) frankia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Frankia) frankia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Frankia) frankia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Bifidobacterium) bifidobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Bifidobacterium) bifidobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Bifidobacterium) bifidobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Bifidobacterium) bifidobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Eggerthella*) eggerthella",
+      "(genus *Frankia*) frankia",
+      "(genus *Bifidobacterium*) bifidobacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **bacteraemia**, either concatenate the stem 1, **eggerthella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **bacterial vaginosis**, either concatenate the stem 3, **bifidobacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: bacteraemia, Stem 3: bacteria vaginosis",
+    "see": "FXW"
   },
   {
     "root": "PFTĻ",
     "refers": "ACTINOBACTERIA V",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Mobiluncus) mobiluncus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Mobiluncus) mobiluncus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Mobiluncus) mobiluncus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Mobiluncus) mobiluncus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Actinomadura) actinomadura**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Actinomadura) actinomadura** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Actinomadura) actinomadura**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Actinomadura) actinomadura**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Actinobacteria other than named genera; numerous genera) other actinobacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Actinobacteria other than named genera; numerous genera) other actinobacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Actinobacteria other than named genera; numerous genera) other actinobacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Actinobacteria other than named genera; numerous genera) other actinobacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Mobiluncus*) mobiluncus",
+      "(genus *Actinomadura*) actinomadura",
+      "(Actinobacteria other than named genera; numerous genera) other actinobacterial bacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **bacterial vaginosis**, either concatenate the stem 1, **mobiluncus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **actinomycetoma**, either concatenate the stem 2, **actinomadura**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: bacterial vaginosis, Stem 2: actinomycetoma",
+    "see": "FXW"
   },
   {
     "root": "PFTH",
     "refers": "DEINOCOCCUS-THERMUS",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Deinococcaceae; genera Deinococcus, Denobacterium) deinococcaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Deinococcaceae; genera Deinococcus, Denobacterium) deinococcaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Deinococcaceae; genera Deinococcus, Denobacterium) deinococcaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Deinococcaceae; genera Deinococcus, Denobacterium) deinococcaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Trueperaceae; genus Truepera) truepera**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Trueperaceae; genus Truepera) truepera** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Trueperaceae; genus Truepera) truepera**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Trueperaceae; genus Truepera) truepera**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Thermaceae; several genera) thermaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Thermaceae; several genera) thermaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Thermaceae; several genera) thermaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Thermaceae; several genera) thermaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Deinococcaceae; genera *Deinococcus*, *Denobacterium*) deinococcaceous bacterium",
+      "(Trueperaceae; genus *Truepera*) truepera",
+      "(Thermaceae; several genera) thermaceous bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFP",
     "refers": "FIRMICUTES I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Bacillus) bacillus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Bacillus) bacillus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Bacillus) bacillus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Bacillus) bacillus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Listeria) listeria**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Listeria) listeria** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Listeria) listeria**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Listeria) listeria**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Staphylococcus) staphylococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Staphylococcus) staphylococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Staphylococcus) staphylococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Staphylococcus) staphylococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Bacillus*) bacillus",
+      "(genus *Listeria*) listeria",
+      "(genus *Staphylococcus*) staphylococcus"
     ],
-    "notes": "To name a particular pathogenic disease, **anthrax**, either concatenate the stem 1, **bacillus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **listeriasis**, either concatenate the stem 2, **listeria**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **staphylococcosis / “staph” infection**, either concatenate the stem 3, **staphylococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: anthrax, Stem 2: listeriasis, Stem 3: “strep” infection / pneumococcal infection / scarlet fever / rheumatic fever",
+    "see": "FXW"
   },
   {
     "root": "PFPW",
     "refers": "FIRMICUTES II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Enterococcus) enterococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Enterococcus) enterococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Enterococcus) enterococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Enterococcus) enterococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Streptococcus) streptococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Streptococcus) streptococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Streptococcus) streptococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Streptococcus) streptococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Lactobacillaceae; numerous genera) lactobacillaceous bacterium [formerly all included in genus Lactobacillus]**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Lactobacillaceae; numerous genera) lactobacillaceous bacterium [formerly all included in genus Lactobacillus]** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Lactobacillaceae; numerous genera) lactobacillaceous bacterium [formerly all included in genus Lactobacillus]**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Lactobacillaceae; numerous genera) lactobacillaceous bacterium [formerly all included in genus Lactobacillus]**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Enterococcus*) enterococcus",
+      "(genus *Streptococcus*) streptococcus",
+      "(Lactobacillaceae; numerous genera) lactobacillaceous bacterium [formerly all included in genus *Lactobacillus*]"
     ],
-    "notes": "To name a particular pathogenic disease, **urinary tract infection**, either concatenate the stem 1, **enterococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **“strep” infection, pneumococcal infection, scarlet fever, rheumatic fever**, either concatenate the stem 2, **streptococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: urinary tract infection",
+    "see": "FXW"
   },
   {
     "root": "PFPY",
     "refers": "FIRMICUTES III",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Leuconostoc) leuconostoc**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Leuconostoc) leuconostoc** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Leuconostoc) leuconostoc**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Leuconostoc) leuconostoc**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Pediococcus) pediococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Pediococcus) pediococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Pediococcus) pediococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Pediococcus) pediococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Aerococcus) aerococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Aerococcus) aerococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Aerococcus) aerococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Aerococcus) aerococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Leuconostoc*) leuconostoc",
+      "(genus *Pediococcus*) pediococcus",
+      "(genus *Aerococcus*) aerococcus"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFPL",
     "refers": "FIRMICUTES IV",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Clostridium) clostridium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Clostridium) clostridium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Clostridium) clostridium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Clostridium) clostridium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Clostridioides) clostridioides**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Clostridioides) clostridioides** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Clostridioides) clostridioides**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Clostridioides) clostridioides**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Heliobacteria; several genera) heliobacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Heliobacteria; several genera) heliobacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Heliobacteria; several genera) heliobacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Heliobacteria; several genera) heliobacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Clostridium*) clostridium",
+      "(genus *Clostridioides*) clostridioides",
+      "(Heliobacteria; several genera) heliobacterial bacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **botulism**, either concatenate the stem 1, **clostridium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **diarrhea-causing colstidioides infection**, either concatenate the stem 2, **clostridioides**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: botulism, Stem 2: diarrhea-causing colstidioides infection",
+    "see": "FXW"
   },
   {
     "root": "PFPR",
     "refers": "FIRMICUTES V",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Acetobacterium) acetobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Acetobacterium) acetobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Acetobacterium) acetobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Acetobacterium) acetobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Anaerococcus) anaerococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Anaerococcus) anaerococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Anaerococcus) anaerococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Anaerococcus) anaerococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Peptococcus) peptococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Peptococcus) peptococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Peptococcus) peptococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Peptococcus) peptococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Acetobacterium*) acetobacterium",
+      "(genus *Anaerococcus*) anaerococcus",
+      "(genus *Peptococcus*) peptococcus"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFPŘ",
     "refers": "FIRMICUTES VI",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Peptostreptococcus) peptostreptococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Peptostreptococcus) peptostreptococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Peptostreptococcus) peptostreptococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Peptostreptococcus) peptostreptococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Peptoniphilus) peptoniphilus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Peptoniphilus) peptoniphilus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Peptoniphilus) peptoniphilus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Peptoniphilus) peptoniphilus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Finegoldia) finegoldia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Finegoldia) finegoldia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Finegoldia) finegoldia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Finegoldia) finegoldia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Peptostreptococcus*) peptostreptococcus",
+      "(genus *Peptoniphilus*) peptoniphilus",
+      "(genus *Finegoldia*) finegoldia"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFPÇ",
     "refers": "FIRMICUTES VII",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Veillonella) veillonella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Veillonella) veillonella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Veillonella) veillonella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Veillonella) veillonella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Erysipelothrix) erysipelothrix**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Erysipelothrix) erysipelothrix** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Erysipelothrix) erysipelothrix**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Erysipelothrix) erysipelothrix**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Firmicutes other than named genera; numerous genera) other firmicutes bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Firmicutes other than named genera; numerous genera) other firmicutes bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Firmicutes other than named genera; numerous genera) other firmicutes bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Firmicutes other than named genera; numerous genera) other firmicutes bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Veillonella*) veillonella",
+      "(genus *Erysipelothrix*) erysipelothrix",
+      "(Firmicutes other than named genera; numerous genera) other firmicutes bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFPĻ",
     "refers": "TENERICUTES (MOLLICUTES)",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Mycoplasma) mycoplasma**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Mycoplasma) mycoplasma** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Mycoplasma) mycoplasma**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Mycoplasma) mycoplasma**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Ureaplasma) ureaplasma**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Ureaplasma) ureaplasma** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Ureaplasma) ureaplasma**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Ureaplasma) ureaplasma**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Mollicutes other than Stems 1 and 2, including Haloplasmatales) other mollicutes bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Mollicutes other than Stems 1 and 2, including Haloplasmatales) other mollicutes bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Mollicutes other than Stems 1 and 2, including Haloplasmatales) other mollicutes bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Mollicutes other than Stems 1 and 2, including Haloplasmatales) other mollicutes bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Mycoplasma*) mycoplasma",
+      "(genus *Ureaplasma*) ureaplasma",
+      "(Mollicutes other than Stems 1 and 2, including Haloplasmatales) other mollicutes bacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **mycoplasma pneumonia**, either concatenate the stem 1, **mycoplasma**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "see": "FXW"
   },
   {
     "root": "PFPH",
     "refers": "OTHER TERRABACTERIUM",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Chloroflexi; numerous genera) chloroflexian bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Chloroflexi; numerous genera) chloroflexian bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Chloroflexi; numerous genera) chloroflexian bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Chloroflexi; numerous genera) chloroflexian bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Armatimonadetes; several genera) armatimonadetes bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Armatimonadetes; several genera) armatimonadetes bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Armatimonadetes; several genera) armatimonadetes bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Armatimonadetes; several genera) armatimonadetes bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Abditibacteriota; several genera) abditibacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Abditibacteriota; several genera) abditibacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Abditibacteriota; several genera) abditibacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Abditibacteriota; several genera) abditibacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Chloroflexi; numerous genera) chloroflexian bacterium",
+      "(Armatimonadetes; several genera) armatimonadetes bacterium",
+      "(Abditibacteriota; several genera) abditibacterial bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "KSKW",
     "refers": "PROTEOBACTERIA I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Salmonella) salmonella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Salmonella) salmonella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Salmonella) salmonella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Salmonella) salmonella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Shigella) shigella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Shigella) shigella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Shigella) shigella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Shigella) shigella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Escherichia) escherichia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Escherichia) escherichia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Escherichia) escherichia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Escherichia) escherichia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Salmonella*) salmonella",
+      "(genus *Shigella*) shigella",
+      "(genus *Escherichia*) escherichia"
     ],
-    "notes": "To name a particular pathogenic disease, **salmonellosis, typhoid fever**, either concatenate the stem 1, **salmonella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **shigellosis / bacillary dysentery**, either concatenate the stem 2, **shigella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **E. coli infection, traveller's diarrhea, bloody diarrhea**, either concatenate the stem 3, **escherichia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: salmonellosis / typhoid fever, Stem 2: shigellosis / bacillary dystentry, Stem 3: *E. coli* infection / traveller's diarrhea / bloody diarrhea",
+    "see": "FXW"
   },
   {
     "root": "KSKY",
     "refers": "PROTEOBACTERIA II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Yersinia) yersinia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Yersinia) yersinia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Yersinia) yersinia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Yersinia) yersinia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Haemophilus) haemophilus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Haemophilus) haemophilus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Haemophilus) haemophilus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Haemophilus) haemophilus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Vibrio) vibrio**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Vibrio) vibrio** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Vibrio) vibrio**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Vibrio) vibrio**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Yersinia*) yersinia",
+      "(genus *Haemophilus*) haemophilus",
+      "(genus *Vibrio*) vibrio"
     ],
-    "notes": "To name a particular pathogenic disease, **plague**, either concatenate the stem 1, **yersinia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **haemophilus infection (bacteremia, pneumonia, meningitis, infective endocarditis)**, either concatenate the stem 2, **haemophilus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **cholera**, either concatenate the stem 3, **vibrio**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: plague, Stem 2: haemophilus infection (bacteremia, pneumonia, meningitis, infective endocarditis), Stem 3: cholera",
+    "see": "FXW"
   },
   {
     "root": "KSKL",
     "refers": "PROTEOBACTERIA III",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Pseudomonas) pseudomonas**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Pseudomonas) pseudomonas** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Pseudomonas) pseudomonas**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Pseudomonas) pseudomonas**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Francisella) francisella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Francisella) francisella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Francisella) francisella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Francisella) francisella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Xanthomonas) xanthomonas**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Xanthomonas) xanthomonas** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Xanthomonas) xanthomonas**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Xanthomonas) xanthomonas**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Pseudomonas*) pseudomonas",
+      "(genus *Francisella*) francisella",
+      "(genus *Xanthomonas*) xanthomonas"
     ],
-    "notes": "To name a particular pathogenic disease, **pseudomonas infection**, either concatenate the stem 1, **pseudomonas**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **tularemia / rabbit fever**, either concatenate the stem 2, **francisella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: pseudomonas infection, Stem 2: tularemia / rabbit fever",
+    "see": "FXW"
   },
   {
     "root": "KSKR",
     "refers": "PROTEOBACTERIA IV",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Legionella) legionella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Legionella) legionella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Legionella) legionella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Legionella) legionella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Coxiella) coxiella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Coxiella) coxiella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Coxiella) coxiella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Coxiella) coxiella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Klebsiella) klebsiella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Klebsiella) klebsiella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Klebsiella) klebsiella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Klebsiella) klebsiella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Legionella*) legionella",
+      "(genus *Coxiella*) coxiella",
+      "(genus *Klebsiella*) klebsiella"
     ],
-    "notes": "To name a particular pathogenic disease, **legionnaire's disease, Pontiac fever**, either concatenate the stem 1, **legionella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **Q-fever / query fever**, either concatenate the stem 2, **coxiella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **klebsiella pneumonia**, either concatenate the stem 3, **klebsiella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: legionnaire's disease / Pontiac fever, Stem 2: Q-fever / query fever, Stem 3: klebsiella pneumonia",
+    "see": "FXW"
   },
   {
     "root": "KSKŘ",
     "refers": "PROTEOBACTERIA V",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Aggregatibacter) aggregatibacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Aggregatibacter) aggregatibacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Aggregatibacter) aggregatibacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Aggregatibacter) aggregatibacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Azotobacter) azotobacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Azotobacter) azotobacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Azotobacter) azotobacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Azotobacter) azotobacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Acidithiobacillus) acidithiobacillus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Acidithiobacillus) acidithiobacillus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Acidithiobacillus) acidithiobacillus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Acidithiobacillus) acidithiobacillus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Aggregatibacter*) aggregatibacter",
+      "(genus *Azotobacter*) azotobacter",
+      "(genus *Acidithiobacillus*) acidithiobacillus"
     ],
-    "notes": "To name a particular pathogenic disease, **periodontal disease, infective endocarditis**, either concatenate the stem 1, **aggregatibacter**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: stem 1: periodontal disease / infective endocarditis",
+    "see": "FXW"
   },
   {
     "root": "KSKF",
     "refers": "PROTEOBACTERIA VI",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Neisseria) neisseria**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Neisseria) neisseria** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Neisseria) neisseria**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Neisseria) neisseria**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Bordetella) bordetella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Bordetella) bordetella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Bordetella) bordetella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Bordetella) bordetella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Burkholderia) burkholderia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Burkholderia) burkholderia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Burkholderia) burkholderia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Burkholderia) burkholderia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Neisseria*) neisseria",
+      "(genus *Bordetella*) bordetella",
+      "(genus *Burkholderia*) burkholderia"
     ],
-    "notes": "To name a particular pathogenic disease, **gonorrhea, neisseriasis, Waterhouse-Friderichsen syndrome**, either concatenate the stem 1, **neisseria**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **whooping cough**, either concatenate the stem 2, **bordetella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **melioidosis**, either concatenate the stem 3, **burkholderia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: gonorrhea / neisseriasis / Waterhouse-Friderichsen syndrome, Stem 2: whooping cough, Stem 3: melioidosis",
+    "see": "FXW"
   },
   {
     "root": "KSKŢ",
     "refers": "PROTEOBACTERIA VII",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Chromobacterium) chromobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Chromobacterium) chromobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Chromobacterium) chromobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Chromobacterium) chromobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Eikenella) eikenella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Eikenella) eikenella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Eikenella) eikenella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Eikenella) eikenella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Ralstonia) ralstonia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Ralstonia) ralstonia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Ralstonia) ralstonia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Ralstonia) ralstonia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Chromobacterium*) chromobacterium",
+      "(genus *Eikenella*) eikenella",
+      "(genus *Ralstonia*) ralstonia"
     ],
-    "notes": "To name a particular pathogenic disease, **chromobacteriosis**, either concatenate the stem 1, **chromobacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **eikenella infection, infective endocarditis**, either concatenate the stem 2, **eikenella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: chromobacteriosis, Stem 2: eikenella infection / infective endocarditis",
+    "see": "FXW"
   },
   {
     "root": "KSKÇ",
     "refers": "PROTEOBACTERIA VIII",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Brucella) brucella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Brucella) brucella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Brucella) brucella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Brucella) brucella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Bartonella) bartonella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Bartonella) bartonella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Bartonella) bartonella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Bartonella) bartonella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Rhizobium) rhizobium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Rhizobium) rhizobium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Rhizobium) rhizobium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Rhizobium) rhizobium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Brucella*) brucella",
+      "(genus *Bartonella*) bartonella",
+      "(genus *Rhizobium*) rhizobium"
     ],
-    "notes": "To name a particular pathogenic disease, **brucellosis**, either concatenate the stem 1, **brucella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **catscratch disease, Carrion's disease, trench fever, bacillary angiomatosis**, either concatenate the stem 2, **bartonella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: brucellosis, Stem 2: catscratch disease / Carrion's disease / trench fever / bacillary angiomatosis",
+    "see": "FXW"
   },
   {
     "root": "KSKM",
     "refers": "PROTEOBACTERIA IX",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Rickettsia) rickettsia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Rickettsia) rickettsia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Rickettsia) rickettsia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Rickettsia) rickettsia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Orientia) orientia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Orientia) orientia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Orientia) orientia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Orientia) orientia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Ehrlichia) ehrlichia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Ehrlichia) ehrlichia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Ehrlichia) ehrlichia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Ehrlichia) ehrlichia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Rickettsia*) rickettsia",
+      "(genus *Orientia*) orientia",
+      "(genus *Ehrlichia*) ehrlichia"
     ],
-    "notes": "To name a particular pathogenic disease, **typhus, spotted fever (Rocky Mountain, Helvetica, Mediterranean, Queensland)**, either concatenate the stem 1, **rickettsia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **scrub typhus**, either concatenate the stem 2, **orientia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **ehrlichiosis**, either concatenate the stem 3, **ehrlichia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: typhus / spotted fever (Rocky Mountain, Helvetica, Mediterranean, Queensland), Stem 2: scrub typhus, Stem 3: ehrlichiosis",
+    "see": "FXW"
   },
   {
     "root": "KSKN",
     "refers": "PROTEOBACTERIA X",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Helicobacter) helicobacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Helicobacter) helicobacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Helicobacter) helicobacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Helicobacter) helicobacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Campylobacter) campylobacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Campylobacter) campylobacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Campylobacter) campylobacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Campylobacter) campylobacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Wolinella) wolinella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Wolinella) wolinella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Wolinella) wolinella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Wolinella) wolinella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Helicobacter*) helicobacter",
+      "(genus *Campylobacter*) campylobacter",
+      "(genus *Wolinella*) wolinella"
     ],
-    "notes": "To name a particular pathogenic disease, **peptic ulcer**, either concatenate the stem 1, **helicobacter**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **campylobacter enteritis**, either concatenate the stem 2, **campylobacter**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: peptic ulcer, Stem 2: campylobacter enteritis",
+    "see": "FXW"
   },
   {
     "root": "KSKH",
     "refers": "PROTEOBACTERIA XI",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Myxococcus) myxococcus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Myxococcus) myxococcus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Myxococcus) myxococcus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Myxococcus) myxococcus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Disulfovibrio) disulfovibrio**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Disulfovibrio) disulfovibrio** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Disulfovibrio) disulfovibrio**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Disulfovibrio) disulfovibrio**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Geobacter) geobacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Geobacter) geobacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Geobacter) geobacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Geobacter) geobacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Myxococcus*) myxococcus",
+      "(genus *Disulfovibrio*) disulfovibrio",
+      "(genus *Geobacter*) geobacter"
+    ],
+    "see": "FXW"
   },
   {
     "root": "KSKHW",
     "refers": "PROTEOBACTERIA XII",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Cardiobacterium) cardiobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Cardiobacterium) cardiobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Cardiobacterium) cardiobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Cardiobacterium) cardiobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Stenotrophomonas) stenotrophomonas**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Stenotrophomonas) stenotrophomonas** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Stenotrophomonas) stenotrophomonas**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Stenotrophomonas) stenotrophomonas**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Proteobacteria other than named genera; numerous genera) other proteobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Proteobacteria other than named genera; numerous genera) other proteobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Proteobacteria other than named genera; numerous genera) other proteobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Proteobacteria other than named genera; numerous genera) other proteobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Cardiobacterium*) cardiobacterium",
+      "(genus *Stenotrophomonas*) stenotrophomonas",
+      "(Proteobacteria other than named genera; numerous genera) other proteobacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **infective endocarditis**, either concatenate the stem 1, **cardiobacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **stenotrophomonas infection**, either concatenate the stem 2, **stenotrophomonas**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 2: infective endocarditis",
+    "see": "FXW"
   },
   {
     "root": "PFMW",
     "refers": "BACTEROIDETES I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Bacteroides) bacteroides**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Bacteroides) bacteroides** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Bacteroides) bacteroides**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Bacteroides) bacteroides**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Prevotella) prevotella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Prevotella) prevotella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Prevotella) prevotella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Prevotella) prevotella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Porphyromonas) porphyromonas**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Porphyromonas) porphyromonas** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Porphyromonas) porphyromonas**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Porphyromonas) porphyromonas**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Bacteroides*) bacteroides",
+      "(genus *Prevotella*) prevotella",
+      "(genus *Porphyromonas*) porphyromonas"
     ],
-    "notes": "To name a particular pathogenic disease, **bacteroides infection**, either concatenate the stem 1, **bacteroides**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **periodontal disease**, either concatenate the stem 2, **prevotella**, or 3, **porphyromonas**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: bacteroides infection, Stem 2/3: periodontal disease",
+    "see": "FXW"
   },
   {
     "root": "PFMY",
     "refers": "BACTEROIDETES II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Tannerella) tannerella**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Tannerella) tannerella** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Tannerella) tannerella**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Tannerella) tannerella**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Sphingobacterium) sphingobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Sphingobacterium) sphingobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Sphingobacterium) sphingobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Sphingobacterium) sphingobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Bacteroidetes other than named genera) other bacteroidetes bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Bacteroidetes other than named genera) other bacteroidetes bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Bacteroidetes other than named genera) other bacteroidetes bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Bacteroidetes other than named genera) other bacteroidetes bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Tannerella*) tannerella",
+      "(genus *Sphingobacterium*) sphingobacterium",
+      "(Bacteroidetes other than named genera) other bacteroidetes bacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **periodontal disease**, either concatenate the stem 1, **tannerella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: periodontal disease",
+    "see": "FXW"
   },
   {
     "root": "PFML",
     "refers": "CHLOROBI",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Chlorobium) chlorobium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Chlorobium) chlorobium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Chlorobium) chlorobium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Chlorobium) chlorobium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Chlorobiaceae other than Stem 1; several genera) chlorobiaceous bacterium / green sulfur bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Chlorobiaceae other than Stem 1; several genera) chlorobiaceous bacterium / green sulfur bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Chlorobiaceae other than Stem 1; several genera) chlorobiaceous bacterium / green sulfur bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Chlorobiaceae other than Stem 1; several genera) chlorobiaceous bacterium / green sulfur bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Ignavibacteriaceae; several genera) ignavibacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Ignavibacteriaceae; several genera) ignavibacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Ignavibacteriaceae; several genera) ignavibacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Ignavibacteriaceae; several genera) ignavibacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Chlorobium*) chlorobium",
+      "(Chlorobiaceae other than Stem 1; several genera) chlorobiaceous bacterium / green sulfur bacterium",
+      "(Ignavibacteriaceae; several genera) ignavibacterial bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "PFMR",
     "refers": "OTHER FCB GROUP BACTERIUM",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Fibrobacteres; several genera) fibrobacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Fibrobacteres; several genera) fibrobacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Fibrobacteres; several genera) fibrobacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Fibrobacteres; several genera) fibrobacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Gemmatimonadetes; several genera) gemmatimonad bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Gemmatimonadetes; several genera) gemmatimonad bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Gemmatimonadetes; several genera) gemmatimonad bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Gemmatimonadetes; several genera) gemmatimonad bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(FCB Group Bacteria other than Stems 1 and 2, e.g. Fermentibacteria, Delphibacteria; several genera) other FCB group bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(FCB Group Bacteria other than Stems 1 and 2, e.g. Fermentibacteria, Delphibacteria; several genera) other FCB group bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(FCB Group Bacteria other than Stems 1 and 2, e.g. Fermentibacteria, Delphibacteria; several genera) other FCB group bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(FCB Group Bacteria other than Stems 1 and 2, e.g. Fermentibacteria, Delphibacteria; several genera) other FCB group bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Fibrobacteres; several genera) fibrobacterial bacterium",
+      "(Gemmatimonadetes; several genera) gemmatimonad bacterium",
+      "(FCB Group Bacteria other than Stems 1 and 2, e.g. Fermentibacteria, Delphibacteria; several genera) other FCB group bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "VZXW",
     "refers": "CHLAMYDIAE",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Chlamydia) chlamydia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Chlamydia) chlamydia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Chlamydia) chlamydia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Chlamydia) chlamydia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Chlamydophila) chlamydophila**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Chlamydophila) chlamydophila** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Chlamydophila) chlamydophila**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Chlamydophila) chlamydophila**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Chlamydiae other than Stems 1 and 2) other chlamydian bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Chlamydiae other than Stems 1 and 2) other chlamydian bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Chlamydiae other than Stems 1 and 2) other chlamydian bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Chlamydiae other than Stems 1 and 2) other chlamydian bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Chlamydia*) chlamydia",
+      "(genus *Chlamydophila*) chlamydophila",
+      "(Chlamydiae other than Stems 1 and 2) other chlamydian bacterium"
     ],
-    "notes": "To name a particular pathogenic disease, **chlamydia infection**, either concatenate the stem 1, **chlamydia**, or 2, **chlamydophila**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1/2; chlamydia infection",
+    "see": "FXW"
   },
   {
     "root": "VZXL",
     "refers": "PLANCTOBACTERIA",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Lentisphaerae; several genera) lentisphaeran bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Lentisphaerae; several genera) lentisphaeran bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Lentisphaerae; several genera) lentisphaeran bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Lentisphaerae; several genera) lentisphaeran bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Planctomycetes; numerous genera) plactomycetic bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Planctomycetes; numerous genera) plactomycetic bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Planctomycetes; numerous genera) plactomycetic bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Planctomycetes; numerous genera) plactomycetic bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Verrucomicrobia; numerous genera) verrucomicrobian bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Verrucomicrobia; numerous genera) verrucomicrobian bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Verrucomicrobia; numerous genera) verrucomicrobian bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Verrucomicrobia; numerous genera) verrucomicrobian bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Lentisphaerae; several genera) lentisphaeran bacterium",
+      "(Planctomycetes; numerous genera) plactomycetic bacterium",
+      "(Verrucomicrobia; numerous genera) verrucomicrobian bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "VZXR",
     "refers": "OTHER PVC GROUP BACTERIUM",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Poribacteria) poribacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Poribacteria) poribacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Poribacteria) poribacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Poribacteria) poribacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Omnitrophica) omnitrophic bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Omnitrophica) omnitrophic bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Omnitrophica) omnitrophic bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Omnitrophica) omnitrophic bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(PVC Group bacteria other than named classes/orders/genera) other PVC group bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(PVC Group bacteria other than named classes/orders/genera) other PVC group bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(PVC Group bacteria other than named classes/orders/genera) other PVC group bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(PVC Group bacteria other than named classes/orders/genera) other PVC group bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Poribacteria) poribacterial bacterium",
+      "(Omnitrophica) omnitrophic bacterium",
+      "(PVC Group bacteria other than named classes/orders/genera) other PVC group bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMSW",
     "refers": "SPIROCHAETES I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Borrelia) borrelia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Borrelia) borrelia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Borrelia) borrelia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Borrelia) borrelia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Leptospira) leptospira**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Leptospira) leptospira** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Leptospira) leptospira**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Leptospira) leptospira**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Treponema) treponema**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Treponema) treponema** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Treponema) treponema**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Treponema) treponema**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Borrelia*) borrelia",
+      "(genus *Leptospira*) leptospira",
+      "(genus *Treponema*) treponema"
     ],
-    "notes": "To name a particular pathogenic disease, **Lyme disease**, either concatenate the stem 1, **borrelia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **leptospirosis**, either concatenate the stem 2, **leptospira**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **syphilis, yaws, bejel, pinta**, either concatenate the stem 3, **treponema**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: Lyme disease, Stem 2: leptospirosis, Stem 3: syphilis / yaws / bejel / pinta",
+    "see": "FXW"
   },
   {
     "root": "LMSY",
     "refers": "SPIROCHAETES II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Brachyspira) brachyspira**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Brachyspira) brachyspira** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Brachyspira) brachyspira**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Brachyspira) brachyspira**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Brevinema) brevinema**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Brevinema) brevinema** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Brevinema) brevinema**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Brevinema) brevinema**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Spirochaetes other than named genera) other spirochaete**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Spirochaetes other than named genera) other spirochaete** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Spirochaetes other than named genera) other spirochaete**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Spirochaetes other than named genera) other spirochaete**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Brachyspira*) brachyspira",
+      "(genus *Brevinema*) brevinema",
+      "(Spirochaetes other than named genera) other spirochaete"
     ],
-    "notes": "To name a particular pathogenic disease, **intestinal spirochaetosis**, either concatenate the stem 1, **brachyspira**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: intestinal spirochaetosis",
+    "see": "FXW"
   },
   {
     "root": "LMSL",
     "refers": "ACIDOBACTERIA I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Acidobacterium) acidobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Acidobacterium) acidobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Acidobacterium) acidobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Acidobacterium) acidobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Holophaga) holophaga**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Holophaga) holophaga** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Holophaga) holophaga**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Holophaga) holophaga**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Geothrix) geothrix**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Geothrix) geothrix** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Geothrix) geothrix**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Geothrix) geothrix**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Acidobacterium*) acidobacterium",
+      "(genus *Holophaga*) holophaga",
+      "(genus *Geothrix*) geothrix"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMSR",
     "refers": "ACIDOBACTERIA II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Acanthopleuribacter) acanthopleuribacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Acanthopleuribacter) acanthopleuribacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Acanthopleuribacter) acanthopleuribacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Acanthopleuribacter) acanthopleuribacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Bryobacter) bryobacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Bryobacter) bryobacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Bryobacter) bryobacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Bryobacter) bryobacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(remaining Acidobacteria; several genera) other acidobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(remaining Acidobacteria; several genera) other acidobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(remaining Acidobacteria; several genera) other acidobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(remaining Acidobacteria; several genera) other acidobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Acanthopleuribacter*) acanthopleuribacter",
+      "(genus *Bryobacter*) bryobacter",
+      "(remaining Acidobacteria; several genera) other acidobacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMŠL",
     "refers": "AQUIFICAE",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Aquificales; several genera) aquificales bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Aquificales; several genera) aquificales bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Aquificales; several genera) aquificales bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Aquificales; several genera) aquificales bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Desulfurobacteriaceae; three genera) desulfurobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Desulfurobacteriaceae; three genera) desulfurobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Desulfurobacteriaceae; three genera) desulfurobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Desulfurobacteriaceae; three genera) desulfurobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Thermosulfidibacter) thermosulfidibacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Thermosulfidibacter) thermosulfidibacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Thermosulfidibacter) thermosulfidibacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Thermosulfidibacter) thermosulfidibacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(Aquificales; several genera) aquificales bacterium",
+      "(Desulfurobacteriaceae; three genera) desulfurobacterium",
+      "(genus *Thermosulfidibacter*) thermosulfidibacter"
     ],
-    "notes": "To name a particular pathogenic disease, **periodontal diseae, Lemierre's syndrome**, either concatenate the stem 1, **fusobacterium**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "see": "FXW"
   },
   {
     "root": "LMŠ",
     "refers": "FUSOBACTERIA",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Fusobacterium) fusobacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Fusobacterium) fusobacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Fusobacterium) fusobacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Fusobacterium) fusobacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Leptotrichia) leptotrichia**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Leptotrichia) leptotrichia** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Leptotrichia) leptotrichia**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Leptotrichia) leptotrichia**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Fusobacteria other than Stems 1 and 2; several genera) other fusobacterial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Fusobacteria other than Stems 1 and 2; several genera) other fusobacterial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Fusobacteria other than Stems 1 and 2; several genera) other fusobacterial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Fusobacteria other than Stems 1 and 2; several genera) other fusobacterial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Fusobacterium*) fusobacterium",
+      "(genus *Leptotrichia*) leptotrichia",
+      "(Fusobacteria other than Stems 1 and 2; several genera) other fusobacterial bacterium"
+    ],
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: fusobacterium",
+    "see": "FXW"
   },
   {
     "root": "LMŠM",
     "refers": "CALDISERICA / CRYOSERICOTA",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(genus Caldisericum) caldisericum**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Caldisericum) caldisericum** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Caldisericum) caldisericum**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Caldisericum) caldisericum**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(genus Cryosericum) cryosericum**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Cryosericum) cryosericum** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Cryosericum) cryosericum**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Cryosericum) cryosericum**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Caldiserica/Cryosericota other than stems 1 and 2) other caldiseric/cyroseric bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Caldiserica/Cryosericota other than stems 1 and 2) other caldiseric/cyroseric bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Caldiserica/Cryosericota other than stems 1 and 2) other caldiseric/cyroseric bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Caldiserica/Cryosericota other than stems 1 and 2) other caldiseric/cyroseric bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(genus *Caldisericum*) caldisericum",
+      "(genus *Cryosericum*) cryosericum",
+      "(Caldiserica/Cryosericota other than stems 1 and 2) other caldiseric/cyroseric bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMŠN",
     "refers": "THERMOTAGAE",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Thermotogaceae; two genera) thermotogaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Thermotogaceae; two genera) thermotogaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Thermotogaceae; two genera) thermotogaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Thermotogaceae; two genera) thermotogaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Fervidobateriaceae; two genera) vervidobateriaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Fervidobateriaceae; two genera) vervidobateriaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Fervidobateriaceae; two genera) vervidobateriaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Fervidobateriaceae; two genera) vervidobateriaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Kosmotogaceae and Petrotogaceae; several genera) kosmotogaceous or petrotogaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Kosmotogaceae and Petrotogaceae; several genera) kosmotogaceous or petrotogaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Kosmotogaceae and Petrotogaceae; several genera) kosmotogaceous or petrotogaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Kosmotogaceae and Petrotogaceae; several genera) kosmotogaceous or petrotogaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Thermotogaceae; two genera) thermotogaceous bacterium",
+      "(Fervidobateriaceae; two genera) vervidobateriaceous bacterium",
+      "(Kosmotogaceae and Petrotogaceae; several genera) kosmotogaceous or petrotogaceous bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMŠR",
     "refers": "OTHER BACTERIUM I",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Calditrichaeota; genus Caldithrix and other possible genera) calditrichaeotic bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Calditrichaeota; genus Caldithrix and other possible genera) calditrichaeotic bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Calditrichaeota; genus Caldithrix and other possible genera) calditrichaeotic bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Calditrichaeota; genus Caldithrix and other possible genera) calditrichaeotic bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Chrysiogenetes; three genera) chrysiogenaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Chrysiogenetes; three genera) chrysiogenaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Chrysiogenetes; three genera) chrysiogenaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Chrysiogenetes; three genera) chrysiogenaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Coprothermobacteria; genus Coprothermobacter) coprothermobacter**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Coprothermobacteria; genus Coprothermobacter) coprothermobacter** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Coprothermobacteria; genus Coprothermobacter) coprothermobacter**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Coprothermobacteria; genus Coprothermobacter) coprothermobacter**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Calditrichaeota; genus *Caldithrix* and other possible genera) calditrichaeotic bacterium",
+      "(Chrysiogenetes; three genera) chrysiogenaceous bacterium",
+      "(Coprothermobacteria; genus *Coprothermobacter*) coprothermobacter"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMŠW",
     "refers": "OTHER BACTERIUM II",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Deferribacteres; several genera) deferribacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Deferribacteres; several genera) deferribacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Deferribacteres; several genera) deferribacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Deferribacteres; several genera) deferribacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Dictyoglomi; genus Dictyoglomus) dictyoglomus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Dictyoglomi; genus Dictyoglomus) dictyoglomus** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Dictyoglomi; genus Dictyoglomus) dictyoglomus**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Dictyoglomi; genus Dictyoglomus) dictyoglomus**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Elusimicrobia; several genera) elusimicrobial bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Elusimicrobia; several genera) elusimicrobial bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Elusimicrobia; several genera) elusimicrobial bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Elusimicrobia; several genera) elusimicrobial bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Deferribacteres; several genera) deferribacterium",
+      "(Dictyoglomi; genus *Dictyoglomus*) dictyoglomus",
+      "(Elusimicrobia; several genera) elusimicrobial bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "LMŠY",
     "refers": "OTHER BACTERIUM III",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(Nitrospirae; several genera) nitrospiraceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Nitrospirae; several genera) nitrospiraceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Nitrospirae; several genera) nitrospiraceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Nitrospirae; several genera) nitrospiraceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Synergistetes; numerous genera) synergistaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Synergistetes; numerous genera) synergistaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Synergistetes; numerous genera) synergistaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Synergistetes; numerous genera) synergistaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Thermodesulfobacteria; several genera) thermodesulfobacteriaceous bacterium**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Thermodesulfobacteria; several genera) thermodesulfobacteriaceous bacterium** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Thermodesulfobacteria; several genera) thermodesulfobacteriaceous bacterium**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Thermodesulfobacteria; several genera) thermodesulfobacteriaceous bacterium**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(Nitrospirae; several genera) nitrospiraceous bacterium",
+      "(Synergistetes; numerous genera) synergistaceous bacterium",
+      "(Thermodesulfobacteria; several genera) thermodesulfobacteriaceous bacterium"
+    ],
+    "see": "FXW"
   },
   {
     "root": "ŠŠPĻ",
     "refers": "ARCHAEON",
     "stems": [
-      {
-        "BSC": "(to be) a species identified as **(“DPANN” Archaea; numerous genera) DPANN archaeon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(“DPANN” Archaea; numerous genera) DPANN archaeon** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(“DPANN” Archaea; numerous genera) DPANN archaeon**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(“DPANN” Archaea; numerous genera) DPANN archaeon**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Euryarchaeota; numerous genera) euryarchaeotic archaeon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Euryarchaeota; numerous genera) euryarchaeotic archaeon** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Euryarchaeota; numerous genera) euryarchaeotic archaeon**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Euryarchaeota; numerous genera) euryarchaeotic archaeon**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a species identified as **(Proteoarchaeota; numerous genera) proteoarchaeotic archaeon**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(Proteoarchaeota; numerous genera) proteoarchaeotic archaeon** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(Proteoarchaeota; numerous genera) proteoarchaeotic archaeon**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Proteoarchaeota; numerous genera) proteoarchaeotic archaeon**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
-    ]
+      "(“DPANN” Archaea; numerous genera) DPANN archaeon",
+      "(Euryarchaeota; numerous genera) euryarchaeotic archaeon",
+      "(Proteoarchaeota; numerous genera) proteoarchaeotic archaeon"
+    ],
+    "see": "FXW"
   }
 ]

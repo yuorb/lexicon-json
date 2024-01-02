@@ -3,744 +3,310 @@
     "root": "ZZC",
     "refers": "TURTLE / TORTOISE",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Pleurodira turtles; numerous genera) snake-necked, side-necked, twist-necked, swamp, snapping, big-headed, helmeted turtle**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pleurodira turtles; numerous genera) snake-necked, side-necked, twist-necked, swamp, snapping, big-headed, helmeted turtle** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pleurodira turtles; numerous genera) snake-necked, side-necked, twist-necked, swamp, snapping, big-headed, helmeted turtle**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pleurodira turtles; numerous genera) snake-necked, side-necked, twist-necked, swamp, snapping, big-headed, helmeted turtle**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Polycryptodira turtles [except tortoises]; numerous genera) [pond, box, water, river, leaf, roofed, mud, sea, leatherback, softshell, pignose] turtle**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Polycryptodira turtles [except tortoises]; numerous genera) [pond, box, water, river, leaf, roofed, mud, sea, leatherback, softshell, pignose] turtle** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Polycryptodira turtles [except tortoises]; numerous genera) [pond, box, water, river, leaf, roofed, mud, sea, leatherback, softshell, pignose] turtle**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Polycryptodira turtles [except tortoises]; numerous genera) [pond, box, water, river, leaf, roofed, mud, sea, leatherback, softshell, pignose] turtle**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Testudinides; numerous genera) tortoise**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Testudinides; numerous genera) tortoise** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Testudinides; numerous genera) tortoise**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Testudinides; numerous genera) tortoise**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Pleurodira turtles; numerous genera) snake-necked, side-necked, twist-necked, swamp, snapping, big-headed, helmeted turtle",
+      "(Polycryptodira turtles [except tortoises]; numerous genera) [pond, box, water, river, leaf, roofed, mud, sea, leatherback, softshell, pignose] turtle",
+      "(Testudinides; numerous genera) tortoise"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZW",
     "refers": "PLEURODONTINE LIZARD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(iguanide, liolaemid, and oplurine lizards; numerous genera) iguana, chuckwalla**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(iguanide, liolaemid, and oplurine lizards; numerous genera) iguana, chuckwalla** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(iguanide, liolaemid, and oplurine lizards; numerous genera) iguana, chuckwalla**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(iguanide, liolaemid, and oplurine lizards; numerous genera) iguana, chuckwalla**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(crotaphytine, hoplocercine, phrynosomatine, polychrotine, and leiosaurid lizards; numerous genera) [collared, leopard, wood, clubtail, earless, spiny, tree, side-blotched, horned] lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(crotaphytine, hoplocercine, phrynosomatine, polychrotine, and leiosaurid lizards; numerous genera) [collared, leopard, wood, clubtail, earless, spiny, tree, side-blotched, horned] lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(crotaphytine, hoplocercine, phrynosomatine, polychrotine, and leiosaurid lizards; numerous genera) [collared, leopard, wood, clubtail, earless, spiny, tree, side-blotched, horned] lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(crotaphytine, hoplocercine, phrynosomatine, polychrotine, and leiosaurid lizards; numerous genera) [collared, leopard, wood, clubtail, earless, spiny, tree, side-blotched, horned] lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(tropidurides; numerous genera) neotropical ground lizard, lava lizard, Pacific iguana, whorltail iguana, thornytail iguana**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(tropidurides; numerous genera) neotropical ground lizard, lava lizard, Pacific iguana, whorltail iguana, thornytail iguana** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(tropidurides; numerous genera) neotropical ground lizard, lava lizard, Pacific iguana, whorltail iguana, thornytail iguana**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(tropidurides; numerous genera) neotropical ground lizard, lava lizard, Pacific iguana, whorltail iguana, thornytail iguana**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(iguanide, liolaemid, and oplurine lizards; numerous genera) iguana, chuckwalla",
+      "(crotaphytine, hoplocercine, phrynosomatine, polychrotine, and leiosaurid lizards; numerous genera) [collared, leopard, wood, clubtail, earless, spiny, tree, side-blotched, horned] lizard",
+      "(tropidurides; numerous genera) neotropical ground lizard, lava lizard, Pacific iguana, whorltail iguana, thornytail iguana"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZY",
     "refers": "DISTINCTIVE PLEURODONTINE LIZARD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(corytophanides; genera Basiliscus, Corytophanes, Laemanctus) basilisk, helmeted iguana, casquehead iguana**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(corytophanides; genera Basiliscus, Corytophanes, Laemanctus) basilisk, helmeted iguana, casquehead iguana** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(corytophanides; genera Basiliscus, Corytophanes, Laemanctus) basilisk, helmeted iguana, casquehead iguana**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(corytophanides; genera Basiliscus, Corytophanes, Laemanctus) basilisk, helmeted iguana, casquehead iguana**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(dactyloids and polychrotides; numerous genera) anole**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(dactyloids and polychrotides; numerous genera) anole** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(dactyloids and polychrotides; numerous genera) anole**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(dactyloids and polychrotides; numerous genera) anole**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Leiocephalus) curly tailed lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Leiocephalus) curly tailed lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Leiocephalus) curly tailed lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Leiocephalus) curly tailed lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(corytophanides; genera *Basiliscus*, *Corytophanes*, *Laemanctus*) basilisk, helmeted iguana, casquehead iguana",
+      "(dactyloids and polychrotides; numerous genera) anole",
+      "(genus *Leiocephalus*) curly tailed lizard"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZL",
     "refers": "AGAMIDE LIZARD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(agamide and uromasticine lizards; numerous genera) frilled lizard, agama, mastigure, dabb lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(agamide and uromasticine lizards; numerous genera) frilled lizard, agama, mastigure, dabb lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(agamide and uromasticine lizards; numerous genera) frilled lizard, agama, mastigure, dabb lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(agamide and uromasticine lizards; numerous genera) frilled lizard, agama, mastigure, dabb lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(amphibolurine, draconine, and hydrosaurine lizards; numerous genera) dragon lizard, fan-throated lizard, lyreshead lizard, gliding lizard, sailfin lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(amphibolurine, draconine, and hydrosaurine lizards; numerous genera) dragon lizard, fan-throated lizard, lyreshead lizard, gliding lizard, sailfin lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(amphibolurine, draconine, and hydrosaurine lizards; numerous genera) dragon lizard, fan-throated lizard, lyreshead lizard, gliding lizard, sailfin lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(amphibolurine, draconine, and hydrosaurine lizards; numerous genera) dragon lizard, fan-throated lizard, lyreshead lizard, gliding lizard, sailfin lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(leiolepidines; numerous genera) butterfly lizards**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(leiolepidines; numerous genera) butterfly lizards** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(leiolepidines; numerous genera) butterfly lizards**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(leiolepidines; numerous genera) butterfly lizards**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(agamide and uromasticine lizards; numerous genera) frilled lizard, agama, mastigure, dabb lizard",
+      "(amphibolurine, draconine, and hydrosaurine lizards; numerous genera) dragon lizard, fan-throated lizard, lyreshead lizard, gliding lizard, sailfin lizard",
+      "(leiolepidines; numerous genera) butterfly lizards"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZR",
     "refers": "OTHER IGUANA-LIKE ANIMAL",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(chamaeleonide lizards; numerous genera) chameleon**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(chamaeleonide lizards; numerous genera) chameleon** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(chamaeleonide lizards; numerous genera) chameleon**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(chamaeleonide lizards; numerous genera) chameleon**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Sphenodon) tuatara**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Sphenodon) tuatara** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Sphenodon) tuatara**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Sphenodon) tuatara**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **[stem unassigned]**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **[stem unassigned]** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **[stem unassigned]**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **[stem unassigned]**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(chamaeleonide lizards; numerous genera) chameleon",
+      "(genus *Sphenodon*) tuatara",
+      "[stem unassigned]"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZŘ",
     "refers": "PALEOANGUIMORPH",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Veranus, Lanthanotus [other than V. veranus komodoensis]) monitor lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Veranus, Lanthanotus [other than V. veranus komodoensis]) monitor lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Veranus, Lanthanotus [other than V. veranus komodoensis]) monitor lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Veranus, Lanthanotus [other than V. veranus komodoensis]) monitor lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(V. veranus komodoensis) komodo dragon**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(V. veranus komodoensis) komodo dragon** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(V. veranus komodoensis) komodo dragon**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(V. veranus komodoensis) komodo dragon**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Shinisaurus) Chinese crocodile lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Shinisaurus) Chinese crocodile lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Shinisaurus) Chinese crocodile lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Shinisaurus) Chinese crocodile lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Veranus*, *Lanthanotus* [other than *V. veranus komodoensis*]) monitor lizard",
+      "(*V. veranus komodoensis*) komodo dragon",
+      "(genus *Shinisaurus*) Chinese crocodile lizard"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZM",
     "refers": "NON-ANGUIOID NEOANGUIMORPH",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Heloderma [other than species H. suspectum]) beaded lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Heloderma [other than species H. suspectum]) beaded lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Heloderma [other than species H. suspectum]) beaded lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Heloderma [other than species H. suspectum]) beaded lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Heloderma suspectum) gila monster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Heloderma suspectum) gila monster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Heloderma suspectum) gila monster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Heloderma suspectum) gila monster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Xenosaurus) knob-scaled lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Xenosaurus) knob-scaled lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Xenosaurus) knob-scaled lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Xenosaurus) knob-scaled lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Heloderma* [other than species *H. suspectum*]) beaded lizard",
+      "(*Heloderma suspectum*) gila monster",
+      "(genus *Xenosaurus*) knob-scaled lizard"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZN",
     "refers": "ANGUIOID",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Celestus, Diploglossus) galliwasp**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Celestus, Diploglossus) galliwasp** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Celestus, Diploglossus) galliwasp**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Celestus, Diploglossus) galliwasp**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(anguines and anniellids; several genera) slowworm, glass lizard, scheltopusik, American legless lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(anguines and anniellids; several genera) slowworm, glass lizard, scheltopusik, American legless lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(anguines and anniellids; several genera) slowworm, glass lizard, scheltopusik, American legless lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(anguines and anniellids; several genera) slowworm, glass lizard, scheltopusik, American legless lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Gerrhonotus, Abronia, Elgaria) alligator lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Gerrhonotus, Abronia, Elgaria) alligator lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Gerrhonotus, Abronia, Elgaria) alligator lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Gerrhonotus, Abronia, Elgaria) alligator lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Celestus*, *Diploglossus*) galliwasp",
+      "(anguines and anniellids; several genera) slowworm, glass lizard, scheltopusik, American legless lizard",
+      "(genera *Gerrhonotus*, *Abronia*, *Elgaria*) alligator lizard"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZF",
     "refers": "TEIFORM LIZARD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Teiine lizards; numerous genera) jungle-runner, whiptail lizard, desert tegu**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Teiine lizards; numerous genera) jungle-runner, whiptail lizard, desert tegu** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Teiine lizards; numerous genera) jungle-runner, whiptail lizard, desert tegu**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Teiine lizards; numerous genera) jungle-runner, whiptail lizard, desert tegu**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Tupinambine lizards; several genera) false monitor, Caiman lizard, tegu**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Tupinambine lizards; several genera) false monitor, Caiman lizard, tegu** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Tupinambine lizards; several genera) false monitor, Caiman lizard, tegu**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Tupinambine lizards; several genera) false monitor, Caiman lizard, tegu**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(gymnophthalmids; numerous genera) spectacled lizard / microteiid**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(gymnophthalmids; numerous genera) spectacled lizard / microteiid** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(gymnophthalmids; numerous genera) spectacled lizard / microteiid**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(gymnophthalmids; numerous genera) spectacled lizard / microteiid**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Teiine lizards; numerous genera) jungle-runner, whiptail lizard, desert tegu",
+      "(Tupinambine lizards; several genera) false monitor, Caiman lizard, tegu",
+      "(gymnophthalmids; numerous genera) spectacled lizard / microteiid"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZV",
     "refers": "LACERETIBAENIAN LIZARD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Lacertid lizards; numerous genera) wall lizard, true lizard, lacerta**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Lacertid lizards; numerous genera) wall lizard, true lizard, lacerta** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Lacertid lizards; numerous genera) wall lizard, true lizard, lacerta**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Lacertid lizards; numerous genera) wall lizard, true lizard, lacerta**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Amphisbaenian legless lizards; numerous genera) worm lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Amphisbaenian legless lizards; numerous genera) worm lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Amphisbaenian legless lizards; numerous genera) worm lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Amphisbaenian legless lizards; numerous genera) worm lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Bipes) Mexican mole lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Bipes) Mexican mole lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Bipes) Mexican mole lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Bipes) Mexican mole lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Lacertid lizards; numerous genera) wall lizard, true lizard, lacerta",
+      "(Amphisbaenian legless lizards; numerous genera) worm lizard",
+      "(genus *Bipes*) Mexican mole lizard"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZŇ",
     "refers": "SCINCIFORM LIZARD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Scincids; numerous genera) skink**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Scincids; numerous genera) skink** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Scincids; numerous genera) skink**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Scincids; numerous genera) skink**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Gerrhosaurids and Cordylides; several genera) plated lizard, girdled lizards/spinytail lizards**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Gerrhosaurids and Cordylides; several genera) plated lizard, girdled lizards/spinytail lizards** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Gerrhosaurids and Cordylides; several genera) plated lizard, girdled lizards/spinytail lizards**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Gerrhosaurids and Cordylides; several genera) plated lizard, girdled lizards/spinytail lizards**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Xantusiids; genera Cricosaura, Lepidophyma, Xantusia) night lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Xantusiids; genera Cricosaura, Lepidophyma, Xantusia) night lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Xantusiids; genera Cricosaura, Lepidophyma, Xantusia) night lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Xantusiids; genera Cricosaura, Lepidophyma, Xantusia) night lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(*Scincids*; numerous genera) skink",
+      "(*Gerrhosaurids* and *Cordylides*; several genera) plated lizard, girdled lizards/spinytail lizards",
+      "(Xantusiids; genera *Cricosaura*, *Lepidophyma*, *Xantusia*) night lizard"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZH",
     "refers": "GECKO (and genetically-related creatures)",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(carphodactylids; numerous genera) gecko**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(carphodactylids; numerous genera) gecko** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(carphodactylids; numerous genera) gecko**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(carphodactylids; numerous genera) gecko**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(pygopodides; several genera) legless lizard, snake-lizard, flap-footed lizard**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(pygopodides; several genera) legless lizard, snake-lizard, flap-footed lizard** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(pygopodides; several genera) legless lizard, snake-lizard, flap-footed lizard**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(pygopodides; several genera) legless lizard, snake-lizard, flap-footed lizard**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(dibamides; genera Dibamus, Anelytropsis) blind skink**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(dibamides; genera Dibamus, Anelytropsis) blind skink** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(dibamides; genera Dibamus, Anelytropsis) blind skink**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(dibamides; genera Dibamus, Anelytropsis) blind skink**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(carphodactylids; numerous genera) gecko",
+      "(pygopodides; several genera) legless lizard, snake-lizard, flap-footed lizard",
+      "(dibamides; genera *Dibamus*, *Anelytropsis*) blind skink"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZG",
     "refers": "PYTHON-LIKE SNAKE",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Pythonids; several genera) python**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pythonids; several genera) python** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pythonids; several genera) python**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pythonids; several genera) python**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Xenopeltis) sunbeam snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Xenopeltis) sunbeam snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Xenopeltis) sunbeam snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Xenopeltis) sunbeam snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Loxocemus) Mexican python**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Loxocemus) Mexican python** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Loxocemus) Mexican python**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Loxocemus) Mexican python**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(*Pythonids*; several genera) python",
+      "(genus *Xenopeltis*) sunbeam snake",
+      "(genus *Loxocemus*) Mexican python"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZB",
     "refers": "BOA-LIKE SNAKE",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Boids; numerous genera) boa, anaconda**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Boids; numerous genera) boa, anaconda** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Boids; numerous genera) boa, anaconda**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Boids; numerous genera) boa, anaconda**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Xenophidion) spinejaw snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Xenophidion) spinejaw snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Xenophidion) spinejaw snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Xenophidion) spinejaw snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Bolyeria, Casarea) splitjaw snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Bolyeria, Casarea) splitjaw snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Bolyeria, Casarea) splitjaw snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Bolyeria, Casarea) splitjaw snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Boids; numerous genera) boa, anaconda",
+      "(genus *Xenophidion*) spinejaw snake",
+      "(genera *Bolyeria*, *Casarea*) splitjaw snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZD",
     "refers": "VIPER",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Viperines; numerous genera) [true or pitless] viper, asp**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Viperines; numerous genera) [true or pitless] viper, asp** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Viperines; numerous genera) [true or pitless] viper, asp**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Viperines; numerous genera) [true or pitless] viper, asp**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Crotalines; numerous genera) pit viper, lancehead, rattlesnake, moccasin, bushmaster, temple viper**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Crotalines; numerous genera) pit viper, lancehead, rattlesnake, moccasin, bushmaster, temple viper** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Crotalines; numerous genera) pit viper, lancehead, rattlesnake, moccasin, bushmaster, temple viper**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Crotalines; numerous genera) pit viper, lancehead, rattlesnake, moccasin, bushmaster, temple viper**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Azemiops) Fea's viper**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Azemiops) Fea's viper** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Azemiops) Fea's viper**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Azemiops) Fea's viper**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Viperines; numerous genera) [true or pitless] viper, asp",
+      "(Crotalines; numerous genera) pit viper, lancehead, rattlesnake, moccasin, bushmaster, temple viper",
+      "(genus *Azemiops*) Fea's viper"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZT",
     "refers": "LESSER-KNOWN PROTEROGLYPH SNAKE",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Homalopsids; numerous genera) Indo-Australian water snake, mudsnake, bockadam**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Homalopsids; numerous genera) Indo-Australian water snake, mudsnake, bockadam** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Homalopsids; numerous genera) Indo-Australian water snake, mudsnake, bockadam**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Homalopsids; numerous genera) Indo-Australian water snake, mudsnake, bockadam**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Colubrids; numerous genera) colubrid snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Colubrids; numerous genera) colubrid snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Colubrids; numerous genera) colubrid snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Colubrids; numerous genera) colubrid snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Lamprophiids; numerous genera) lamprophiid snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Lamprophiids; numerous genera) lamprophiid snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Lamprophiids; numerous genera) lamprophiid snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Lamprophiids; numerous genera) lamprophiid snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Homalopsids; numerous genera) Indo-Australian water snake, mudsnake, bockadam",
+      "(Colubrids; numerous genera) colubrid snake",
+      "(Lamprophiids; numerous genera) lamprophiid snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZP",
     "refers": "RARE CAENOPHID SNAKE",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Acrochordus) wart snake/ file snake/ elephant trunk snake/ dogface snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Acrochordus) wart snake/ file snake/ elephant trunk snake/ dogface snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Acrochordus) wart snake/ file snake/ elephant trunk snake/ dogface snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Acrochordus) wart snake/ file snake/ elephant trunk snake/ dogface snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Xenodermids; several genera) xenodermid snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Xenodermids; several genera) xenodermid snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Xenodermids; several genera) xenodermid snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Xenodermids; several genera) xenodermid snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Pareids; several genera) pareid snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pareids; several genera) pareid snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pareids; several genera) pareid snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pareids; several genera) pareid snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Acrochordus*) wart snake/ file snake/ elephant trunk snake/ dogface snake",
+      "(Xenodermids; several genera) xenodermid snake",
+      "(Pareids; several genera) pareid snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZḐ",
     "refers": "NON CAENOPHID and NON-CONSTRICTING BOOIDE SNAKE",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Scolecophids and Anomalepidids; numerous genera) blind snake, thread snake, dawn blind snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Scolecophids and Anomalepidids; numerous genera) blind snake, thread snake, dawn blind snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Scolecophids and Anomalepidids; numerous genera) blind snake, thread snake, dawn blind snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Scolecophids and Anomalepidids; numerous genera) blind snake, thread snake, dawn blind snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Cylindrophiids, Anomochiids, and Aniliids; numerous genera) pipe snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Cylindrophiids, Anomochiids, and Aniliids; numerous genera) pipe snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Cylindrophiids, Anomochiids, and Aniliids; numerous genera) pipe snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Cylindrophiids, Anomochiids, and Aniliids; numerous genera) pipe snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Uropeltids; several genera) shield-tailed snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Uropeltids; several genera) shield-tailed snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Uropeltids; several genera) shield-tailed snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Uropeltids; several genera) shield-tailed snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Scolecophids and Anomalepidids; numerous genera) blind snake, thread snake, dawn blind snake",
+      "(Cylindrophiids, Anomochiids, and Aniliids; numerous genera) pipe snake",
+      "(Uropeltids; several genera) shield-tailed snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZK",
     "refers": "“ELAPID SNAKE” I",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Naja, Pseudohaje, Walterinnesia, Boulengerina, Aspidelaps) cobra**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Naja, Pseudohaje, Walterinnesia, Boulengerina, Aspidelaps) cobra** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Naja, Pseudohaje, Walterinnesia, Boulengerina, Aspidelaps) cobra**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Naja, Pseudohaje, Walterinnesia, Boulengerina, Aspidelaps) cobra**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Ophiophagus) king cobra**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Ophiophagus) king cobra** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Ophiophagus) king cobra**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Ophiophagus) king cobra**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Hemachatus) ring-necked spitting cobra /rinkhal**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Hemachatus) ring-necked spitting cobra /rinkhal** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Hemachatus) ring-necked spitting cobra /rinkhal**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Hemachatus) ring-necked spitting cobra /rinkhal**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Naja*, *Pseudohaje*, *Walterinnesia*, *Boulengerina*, *Aspidelaps*) cobra",
+      "(genus *Ophiophagus*) king cobra",
+      "(genus *Hemachatus*) ring-necked spitting cobra /rinkhal"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKW",
     "refers": "“ELAPID SNAKE” II",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Dendroaspis) mamba**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Dendroaspis) mamba** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Dendroaspis) mamba**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Dendroaspis) mamba**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Bungarus) krait**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Bungarus) krait** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Bungarus) krait**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Bungarus) krait**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Elapsoidea) African garter snake / venemous garter snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Elapsoidea) African garter snake / venemous garter snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Elapsoidea) African garter snake / venemous garter snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Elapsoidea) African garter snake / venemous garter snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Dendroaspis*) mamba",
+      "(genus *Bungarus*) krait",
+      "(genus *Elapsoidea*) African garter snake / venemous garter snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKY",
     "refers": "“ELAPID SNAKE” III",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Calliophis, Hemibungaris, Sinomicrurus) Old World coral snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Calliophis, Hemibungaris, Sinomicrurus) Old World coral snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Calliophis, Hemibungaris, Sinomicrurus) Old World coral snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Calliophis, Hemibungaris, Sinomicrurus) Old World coral snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Leptomicrurus, Micruroides, Micrurus) New World coral snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Leptomicrurus, Micruroides, Micrurus) New World coral snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Leptomicrurus, Micruroides, Micrurus) New World coral snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Leptomicrurus, Micruroides, Micrurus) New World coral snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Salomonelaps, Simoselaps) Soloman coral snake, Australian coral snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Salomonelaps, Simoselaps) Soloman coral snake, Australian coral snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Salomonelaps, Simoselaps) Soloman coral snake, Australian coral snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Salomonelaps, Simoselaps) Soloman coral snake, Australian coral snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Calliophis*, *Hemibungaris*, *Sinomicrurus*) Old World coral snake",
+      "(genera *Leptomicrurus*, *Micruroides*, *Micrurus*) New World coral snake",
+      "(genera *Salomonelaps*, *Simoselaps*) Soloman coral snake, Australian coral snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKL",
     "refers": "“ELAPID SNAKE” IV",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Laticauda) sea krait**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Laticauda) sea krait** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Laticauda) sea krait**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Laticauda) sea krait**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Notechis) tiger snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Notechis) tiger snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Notechis) tiger snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Notechis) tiger snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Antaioserpens) burrowing snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Antaioserpens) burrowing snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Antaioserpens) burrowing snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Antaioserpens) burrowing snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Laticauda*) sea krait",
+      "(genus *Notechis*) tiger snake",
+      "(genus *Antaioserpens*) burrowing snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKR",
     "refers": "“ELAPID SNAKE” V",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Ephalophis, Hydrelaps) mudsnake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Ephalophis, Hydrelaps) mudsnake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Ephalophis, Hydrelaps) mudsnake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Ephalophis, Hydrelaps) mudsnake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Hydrophis) sea snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Hydrophis) sea snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Hydrophis) sea snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Hydrophis) sea snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Acalyptophis, Aipysurus, Astrotia, Emydocephalus, Enhydrina, Kerilia, Kolpophis, Lapemis, Parahydrophis, Pelamis, Praescutata, Rhinoplocephalus, Thalassophis) other sea snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Acalyptophis, Aipysurus, Astrotia, Emydocephalus, Enhydrina, Kerilia, Kolpophis, Lapemis, Parahydrophis, Pelamis, Praescutata, Rhinoplocephalus, Thalassophis) other sea snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Acalyptophis, Aipysurus, Astrotia, Emydocephalus, Enhydrina, Kerilia, Kolpophis, Lapemis, Parahydrophis, Pelamis, Praescutata, Rhinoplocephalus, Thalassophis) other sea snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Acalyptophis, Aipysurus, Astrotia, Emydocephalus, Enhydrina, Kerilia, Kolpophis, Lapemis, Parahydrophis, Pelamis, Praescutata, Rhinoplocephalus, Thalassophis) other sea snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Ephalophis*, *Hydrelaps*) mudsnake",
+      "(genus *Hydrophis*) sea snake",
+      "(genera *Acalyptophis*, *Aipysurus*, *Astrotia*, *Emydocephalus*, *Enhydrina*, *Kerilia*, *Kolpophis*, *Lapemis*, *Parahydrophis*, *Pelamis*, *Praescutata*, *Rhinoplocephalus*, *Thalassophis*) other sea snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKŘ",
     "refers": "“ELAPID SNAKE” VI",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Oxyuranus) taipan**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Oxyuranus) taipan** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Oxyuranus) taipan**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Oxyuranus) taipan**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Ogmodon) Fiji snake / bolo snake / bola**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Ogmodon) Fiji snake / bolo snake / bola** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Ogmodon) Fiji snake / bolo snake / bola**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Ogmodon) Fiji snake / bolo snake / bola**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Pseudechis) black snake / king brown snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Pseudechis) black snake / king brown snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Pseudechis) black snake / king brown snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Pseudechis) black snake / king brown snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Oxyuranus*) taipan",
+      "(genus *Ogmodon*) Fiji snake / bolo snake / bola",
+      "(genus *Pseudechis*) black snake / king brown snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKF",
     "refers": "“ELAPID SNAKE” VII",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Acanthophis) death adder**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Acanthophis) death adder** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Acanthophis) death adder**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Acanthophis) death adder**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Aspidomorphus) collared adder**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Aspidomorphus) collared adder** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Aspidomorphus) collared adder**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Aspidomorphus) collared adder**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Austrelaps) copperhead**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Austrelaps) copperhead** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Austrelaps) copperhead**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Austrelaps) copperhead**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Acanthophis*) death adder",
+      "(genus *Aspidomorphus*) collared adder",
+      "(genus *Austrelaps*) copperhead"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKŢ",
     "refers": "“ELAPID SNAKE” VIII",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Cacophis) rainforest crowned snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Cacophis) rainforest crowned snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Cacophis) rainforest crowned snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Cacophis) rainforest crowned snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Brachyurophis) shovel-nosed snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Brachyurophis) shovel-nosed snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Brachyurophis) shovel-nosed snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Brachyurophis) shovel-nosed snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Demansia) whipsnake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Demansia) whipsnake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Demansia) whipsnake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Demansia) whipsnake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Cacophis*) rainforest crowned snake",
+      "(genus *Brachyurophis*) shovel-nosed snake",
+      "(genus *Demansia*) whipsnake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKÇ",
     "refers": "“ELAPID SNAKE” IX",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Echiopsis) bardick**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Echiopsis) bardick** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Echiopsis) bardick**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Echiopsis) bardick**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Drysdalia, Elapognathus) grass snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Drysdalia, Elapognathus) grass snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Drysdalia, Elapognathus) grass snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Drysdalia, Elapognathus) grass snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Denisonia) ornamental snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Denisonia) ornamental snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Denisonia) ornamental snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Denisonia) ornamental snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Echiopsis*) bardick",
+      "(genera *Drysdalia*, *Elapognathus*) grass snake",
+      "(genus *Denisonia*) ornamental snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKS",
     "refers": "“ELAPID SNAKE” X",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Homoroselaps) harlequin snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Homoroselaps) harlequin snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Homoroselaps) harlequin snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Homoroselaps) harlequin snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Toxicocalamus) New Guinea forest snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Toxicocalamus) New Guinea forest snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Toxicocalamus) New Guinea forest snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Toxicocalamus) New Guinea forest snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Parapistocalamus) Hediger's snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Parapistocalamus) Hediger's snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Parapistocalamus) Hediger's snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Parapistocalamus) Hediger's snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genus *Homoroselaps*) harlequin snake",
+      "(genus *Toxicocalamus*) New Guinea forest snake",
+      "(genus *Parapistocalamus*) Hediger's snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "ZZKŠ",
     "refers": "“ELAPID SNAKE” XI",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Hemiaspis, Hoplocephalus, Paroplocephalus, Pseudonaja, Tropidechis, Vermicella) Australian venemous snake (various): swamp snake, broad-headed snake, pale-headed snake, Lake Cronin snake, dugite, brown snake, rough-scaled snake, bandy-bandy / hoop snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Hemiaspis, Hoplocephalus, Paroplocephalus, Pseudonaja, Tropidechis, Vermicella) Australian venemous snake (various): swamp snake, broad-headed snake, pale-headed snake, Lake Cronin snake, dugite, brown snake, rough-scaled snake, bandy-bandy / hoop snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Hemiaspis, Hoplocephalus, Paroplocephalus, Pseudonaja, Tropidechis, Vermicella) Australian venemous snake (various): swamp snake, broad-headed snake, pale-headed snake, Lake Cronin snake, dugite, brown snake, rough-scaled snake, bandy-bandy / hoop snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Hemiaspis, Hoplocephalus, Paroplocephalus, Pseudonaja, Tropidechis, Vermicella) Australian venemous snake (various): swamp snake, broad-headed snake, pale-headed snake, Lake Cronin snake, dugite, brown snake, rough-scaled snake, bandy-bandy / hoop snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Suta) hooded snake, monk snake, black-backed snake, curl snake, myall snake, spotted snake, copper snake, short-tailed snake, whip snake, Dwyer's snake, Rosens's snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Suta) hooded snake, monk snake, black-backed snake, curl snake, myall snake, spotted snake, copper snake, short-tailed snake, whip snake, Dwyer's snake, Rosens's snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Suta) hooded snake, monk snake, black-backed snake, curl snake, myall snake, spotted snake, copper snake, short-tailed snake, whip snake, Dwyer's snake, Rosens's snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Suta) hooded snake, monk snake, black-backed snake, curl snake, myall snake, spotted snake, copper snake, short-tailed snake, whip snake, Dwyer's snake, Rosens's snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Loveridgelaps, Microphechis) small-eyed snake**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Loveridgelaps, Microphechis) small-eyed snake** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Loveridgelaps, Microphechis) small-eyed snake**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Loveridgelaps, Microphechis) small-eyed snake**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Hemiaspis*, *Hoplocephalus*, *Paroplocephalus*, *Pseudonaja*, *Tropidechis*, *Vermicella*) Australian venemous snake (various): swamp snake, broad-headed snake, pale-headed snake, Lake Cronin snake, dugite, brown snake, rough-scaled snake, bandy-bandy / hoop snake",
+      "(genus *Suta*) hooded snake, monk snake, black-backed snake, curl snake, myall snake, spotted snake, copper snake, short-tailed snake, whip snake, Dwyer's snake, Rosens's snake",
+      "(genera *Loveridgelaps*, *Microphechis*) small-eyed snake"
+    ],
+    "see": "RR"
   },
   {
     "root": "GZW",
     "refers": "CROCODILIAN",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Crocodylus, Osteolaemus, Mecistops) crocodile**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Crocodylus, Osteolaemus, Mecistops) crocodile** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Crocodylus, Osteolaemus, Mecistops) crocodile**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Crocodylus, Osteolaemus, Mecistops) crocodile**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Alligator, Caiman, Paleosuchus) alligator, caiman**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Alligator, Caiman, Paleosuchus) alligator, caiman** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Alligator, Caiman, Paleosuchus) alligator, caiman**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Alligator, Caiman, Paleosuchus) alligator, caiman**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Gavialis, Tomistoma) gharial, false gharial**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Gavialis, Tomistoma) gharial, false gharial** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Gavialis, Tomistoma) gharial, false gharial**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Gavialis, Tomistoma) gharial, false gharial**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Crocodylus*, *Osteolaemus*, *Mecistops*) crocodile",
+      "(genera *Alligator*, *Caiman*, *Paleosuchus*) alligator, caiman",
+      "(genera *Gavialis*, *Tomistoma*) gharial, false gharial"
+    ],
+    "see": "RR"
   },
   {
     "root": "GZY",
     "refers": "SAUROPSID",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Avemetarsalians other than birds) dinosaur, pterosaur, aphanosaur**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Avemetarsalians other than birds) dinosaur, pterosaur, aphanosaur** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Avemetarsalians other than birds) dinosaur, pterosaur, aphanosaur**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Avemetarsalians other than birds) dinosaur, pterosaur, aphanosaur**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(all extinct Eureptilia other than Avemetarsalia) extinct non-dinsosaurian reptile**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(all extinct Eureptilia other than Avemetarsalia) extinct non-dinsosaurian reptile** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(all extinct Eureptilia other than Avemetarsalia) extinct non-dinsosaurian reptile**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(all extinct Eureptilia other than Avemetarsalia) extinct non-dinsosaurian reptile**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **parareptile (extinct non-reptilian sauropsid, i.e., mesosaur, millerettid, procolophonid, pareiassaur)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **parareptile (extinct non-reptilian sauropsid, i.e., mesosaur, millerettid, procolophonid, pareiassaur)** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **parareptile (extinct non-reptilian sauropsid, i.e., mesosaur, millerettid, procolophonid, pareiassaur)**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **parareptile (extinct non-reptilian sauropsid, i.e., mesosaur, millerettid, procolophonid, pareiassaur)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Avemetarsalians other than birds) dinosaur, pterosaur, aphanosaur",
+      "(all extinct *Eureptilia* other than *Avemetarsalia*) extinct non-dinsosaurian reptile",
+      "parareptile (extinct non-reptilian sauropsid, i.e., mesosaur, millerettid, procolophonid, pareiassaur)"
+    ],
+    "see": "RR"
   }
 ]

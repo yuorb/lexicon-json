@@ -3,827 +3,351 @@
     "root": "LŢP",
     "refers": "ANNELID",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **earthworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **earthworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **earthworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **earthworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **leech**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **leech** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **leech**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **leech**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **other annelid / ringed worm / segmented worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **other annelid / ringed worm / segmented worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **other annelid / ringed worm / segmented worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **other annelid / ringed worm / segmented worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "earthworm",
+      "leech",
+      "other annelid / ringed worm / segmented worm"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢPW",
     "refers": "“DISEASE-CAUSING NEMATODE” I",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Trichinella) trichinella / trichina worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Trichinella) trichinella / trichina worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Trichinella) trichinella / trichina worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Trichinella) trichinella / trichina worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Anisakis) anisakis**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Anisakis) anisakis** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Anisakis) anisakis**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Anisakis) anisakis**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Gnathostoma) gnathostoma**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Gnathostoma) gnathostoma** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Gnathostoma) gnathostoma**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Gnathostoma) gnathostoma**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Trichinella*) trichinella / trichina worm",
+      "(genus *Anisakis*) anisakis",
+      "(genus *Gnathostoma*) gnathostoma"
     ],
-    "notes": "To name a particular pathogenic disease, **trichinosis / trichinellosis**, either concatenate the stem 1, **trichinella / trichina worm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **anisakiasis**, either concatenate the stem 2, **anisakis**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **gnathostomiasis**, either concatenate the stem 3, **gnathostoma**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 2: anisakiasis, Stem 3: gnathostomiasis",
+    "see": "RR"
   },
   {
     "root": "LŢPY",
     "refers": "“DISEASE-CAUSING NEMATODE” II",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Ascaris) ascaris / large roundworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Ascaris) ascaris / large roundworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Ascaris) ascaris / large roundworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Ascaris) ascaris / large roundworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Loa) loa**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Loa) loa** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Loa) loa**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Loa) loa**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Onchocerca) onchocerca**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Onchocerca) onchocerca** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Onchocerca) onchocerca**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Onchocerca) onchocerca**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Ascaris*) ascaris / large roundworm",
+      "(genus *Loa*) loa",
+      "(genus *Onchocerca*) onchocerca"
     ],
-    "notes": "To name a particular pathogenic disease, **ascariasis**, either concatenate the stem 1, **ascaris / large roundworm** with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **loiasis / Calabar swelling**, either concatenate the stem 2, **loa**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **onchocerciasis (river blindness)**, either concatenate the stem 3, **onchocerca**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: ascariasis, Stem 2: loiasis / Calabar swelling, Stem 3: onchocerciasis (river blindness)",
+    "see": "RR"
   },
   {
     "root": "LŢPL",
     "refers": "“DISEASE-CAUSING NEMATODE” III",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Dirofilaria) dirofilaria**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Dirofilaria) dirofilaria** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Dirofilaria) dirofilaria**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Dirofilaria) dirofilaria**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Thelazia) thelazia, eyeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Thelazia) thelazia, eyeworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Thelazia) thelazia, eyeworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Thelazia) thelazia, eyeworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Gongylonema) gongylonema**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Gongylonema) gongylonema** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Gongylonema) gongylonema**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Gongylonema) gongylonema**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Dirofilaria*) dirofilaria",
+      "(genus *Thelazia*) thelazia, eyeworm",
+      "(genus *Gongylonema*) gongylonema"
     ],
-    "notes": "To name a particular pathogenic disease, **dirofilariasis**, either concatenate the stem 1, **dirofilaria**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **thelaziasis**, either concatenate the stem 2, **thelazia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **gongylonemiasis**, either concatenate the stem 3, **gongylonema**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: dirofilaria, Stem 2: thelaziasis, Stem 3: gongylonema",
+    "see": "RR"
   },
   {
     "root": "LŢPR",
     "refers": "“DISEASE-CAUSING NEMATODE” IV",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Mansonella) mansonella**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Mansonella) mansonella** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Mansonella) mansonella**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Mansonella) mansonella**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Brugia, Wuchereria) brugia, wuchereria**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Brugia, Wuchereria) brugia, wuchereria** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Brugia, Wuchereria) brugia, wuchereria**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Brugia, Wuchereria) brugia, wuchereria**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Trichuris) whipworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Trichuris) whipworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Trichuris) whipworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Trichuris) whipworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Mansonella*) mansonella",
+      "(genera *Brugia*, *Wuchereria*) brugia, wuchereria",
+      "(genus *Trichuris*) whipworm"
     ],
-    "notes": "To name a particular pathogenic disease, **streptocerciasis, mansonelliasis**, either concatenate the stem 1, **mansonella**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **elephantiasis**, either concatenate the stem 2, **brugia, wuchereria**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **trichuriasis, whipworm infection**, either concatenate the stem 3, **whipworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: streptocerciasis / mansonelliasis, Stem 2: elephantiasis, Stem 3: trichuriasis",
+    "see": "RR"
   },
   {
     "root": "LŢPŘ",
     "refers": "“DISEASE-CAUSING NEMATODE” V",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Dracunculus) guinea worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Dracunculus) guinea worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Dracunculus) guinea worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Dracunculus) guinea worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Toxocara) toxocara, cat roundworm, dog roundworm, fox roundworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Toxocara) toxocara, cat roundworm, dog roundworm, fox roundworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Toxocara) toxocara, cat roundworm, dog roundworm, fox roundworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Toxocara) toxocara, cat roundworm, dog roundworm, fox roundworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Enterobius) pinworm / threadworm / seatworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Enterobius) pinworm / threadworm / seatworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Enterobius) pinworm / threadworm / seatworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Enterobius) pinworm / threadworm / seatworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Dracunculus*) guinea worm",
+      "(genus *Toxocara*) toxocara, cat roundworm, dog roundworm, fox roundworm",
+      "(genus *Enterobius*) pinworm / threadworm / seatworm"
     ],
-    "notes": "To name a particular pathogenic disease, **dracunculiasis**, either concatenate the stem 1, **guinea worm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **toxocariasis**, either concatenate the stem 2, **toxocara, cat roundworm, dog roundworm, fox roundworm**,with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **enterobiasis**, either concatenate the stem 3, **pinworm / threadworm / seatworm**,with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: dracunculiasis, Stem 2: toxocariasis, Stem 3: enterobiasis",
+    "see": "RR"
   },
   {
     "root": "LŢPÇ",
     "refers": "“DISEASE-CAUSING NEMATODE” VI",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Ancylostoma) Old World hookworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Ancylostoma) Old World hookworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Ancylostoma) Old World hookworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Ancylostoma) Old World hookworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Necator) New world hookworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Necator) New world hookworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Necator) New world hookworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Necator) New world hookworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Strongyloides) threadworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Strongyloides) threadworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Strongyloides) threadworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Strongyloides) threadworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Ancylostoma*) Old World hookworm",
+      "(genus *Necator*) New world hookworm",
+      "(genus *Strongyloides*) threadworm"
     ],
-    "notes": "To name a particular pathogenic disease, **helminthiasis**, either concatenate the stem 1, **Old World hookworm**, or 2, **New world hookworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **strongyloidiasis**, either concatenate the stem 3, **threadworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1/2 helminthiasis, Stem 3: strongyloidiasis",
+    "see": "RR"
   },
   {
     "root": "LŢPĻ",
     "refers": "NEMATODE(-LIKE ANIMAL)",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Nematoda other than named genera in the six roots above; numerous genera) other nematode/roundworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Nematoda other than named genera in the six roots above; numerous genera) other nematode/roundworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Nematoda other than named genera in the six roots above; numerous genera) other nematode/roundworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Nematoda other than named genera in the six roots above; numerous genera) other nematode/roundworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Nematomorphs; numerous genera) horsehair worm / Gordian worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Nematomorphs; numerous genera) horsehair worm / Gordian worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Nematomorphs; numerous genera) horsehair worm / Gordian worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Nematomorphs; numerous genera) horsehair worm / Gordian worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Onychophora; numerous genera) velvet worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Onychophora; numerous genera) velvet worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Onychophora; numerous genera) velvet worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Onychophora; numerous genera) velvet worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Nematoda other than named genera in the six roots above; numerous genera) other nematode/roundworm",
+      "(Nematomorphs; numerous genera) horsehair worm / Gordian worm",
+      "(Onychophora; numerous genera) velvet worm"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢB",
     "refers": "MICROSCOPIC ECDYSOZOAN",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Tardigrada; numerous genera) tardigrade / “water bear”**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Loricefera; numerous genera) loriciferan**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Loricefera; numerous genera) loriciferan** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Loricefera; numerous genera) loriciferan**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Loricefera; numerous genera) loriciferan**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Kinorhyncha; numerous genera) mud dragon / spiny crown worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Kinorhyncha; numerous genera) mud dragon / spiny crown worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Kinorhyncha; numerous genera) mud dragon / spiny crown worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Kinorhyncha; numerous genera) mud dragon / spiny crown worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Tardigrada; numerous genera) tardigrade / “water bear”",
+      "(Loricefera; numerous genera) loriciferan",
+      "(Kinorhyncha; numerous genera) mud dragon / spiny crown worm"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢBW",
     "refers": "PRIAPULID WORM",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Priapulids; genera Priapulus, Priapulosis) priapulid worm (a.k.a. penis worm)**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Priapulids; genera Priapulus, Priapulosis) priapulid worm (a.k.a. penis worm)** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Priapulids; genera Priapulus, Priapulosis) priapulid worm (a.k.a. penis worm)**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Priapulids; genera Priapulus, Priapulosis) priapulid worm (a.k.a. penis worm)**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Tubilucus) tubiluchide penis worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Tubilucus) tubiluchide penis worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Tubilucus) tubiluchide penis worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Tubilucus) tubiluchide penis worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Halicryptus) giant penis worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Halicryptus) giant penis worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Halicryptus) giant penis worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Halicryptus) giant penis worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Priapulids; genera *Priapulus*, *Priapulosis*) priapulid worm (a.k.a. penis worm)",
+      "(genus *Tubilucus*) tubiluchide penis worm",
+      "(genus *Halicryptus*) giant penis worm"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢBY",
     "refers": "ROTIFER",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Eurotatoria; numerous genera) rotifer**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Eurotatoria; numerous genera) rotifer** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Eurotatoria; numerous genera) rotifer**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Eurotatoria; numerous genera) rotifer**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Monogonanta; numerous genera) monogonant rotifer**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Monogonanta; numerous genera) monogonant rotifer** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Monogonanta; numerous genera) monogonant rotifer**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Monogonanta; numerous genera) monogonant rotifer**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Seisonids; genera Seison, Paraseison) seisonid rotifer**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Seisonids; genera Seison, Paraseison) seisonid rotifer** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Seisonids; genera Seison, Paraseison) seisonid rotifer**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Seisonids; genera Seison, Paraseison) seisonid rotifer**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Eurotatoria; numerous genera) rotifer",
+      "(Monogonanta; numerous genera) monogonant rotifer",
+      "(Seisonids; genera *Seison*, *Paraseison*) seisonid rotifer"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢBL",
     "refers": "GNATHIFER (OTHER THAN ROTIFER)",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Acanthocephala; numerous genera) thorny-headed worm, spiny-headed worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Acanthocephala; numerous genera) thorny-headed worm, spiny-headed worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Acanthocephala; numerous genera) thorny-headed worm, spiny-headed worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Acanthocephala; numerous genera) thorny-headed worm, spiny-headed worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Chaetognatha; numerous genera) arrow worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Chaetognatha; numerous genera) arrow worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Chaetognatha; numerous genera) arrow worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Chaetognatha; numerous genera) arrow worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Cycliophora; genus Symbion) symbion**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Cycliophora; genus Symbion) symbion** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Cycliophora; genus Symbion) symbion**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Cycliophora; genus Symbion) symbion**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Acanthocephala; numerous genera) thorny-headed worm, spiny-headed worm",
+      "(Chaetognatha; numerous genera) arrow worm",
+      "(Cycliophora; genus *Symbion*) symbion"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢBR",
     "refers": "OTHER SPIRALIA",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Gnathostomulids; numerous genera) jaw worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Gnathostomulids; numerous genera) jaw worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Gnathostomulids; numerous genera) jaw worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Gnathostomulids; numerous genera) jaw worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Micrognathozoa; genus Limnognathia) limnognathia**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Micrognathozoa; genus Limnognathia) limnognathia** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Micrognathozoa; genus Limnognathia) limnognathia**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Micrognathozoa; genus Limnognathia) limnognathia**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Gastroticha; numerous genera) gastrotrich / hairyback**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Gastroticha; numerous genera) gastrotrich / hairyback** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Gastroticha; numerous genera) gastrotrich / hairyback**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Gastroticha; numerous genera) gastrotrich / hairyback**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Gnathostomulids; numerous genera) jaw worm",
+      "(Micrognathozoa; genus *Limnognathia*) limnognathia",
+      "(Gastroticha; numerous genera) gastrotrich / hairyback"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢTW",
     "refers": "“CESTODA (TAPEWORM)” I",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Taenia) taenia, pork tapeworm, beef tapeworm, Asian tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Taenia) taenia, pork tapeworm, beef tapeworm, Asian tapeworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Taenia) taenia, pork tapeworm, beef tapeworm, Asian tapeworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Taenia) taenia, pork tapeworm, beef tapeworm, Asian tapeworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Diphyllobothrium) broad tapeworm / fish tapeworm / broad fish tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Diphyllobothrium) broad tapeworm / fish tapeworm / broad fish tapeworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Diphyllobothrium) broad tapeworm / fish tapeworm / broad fish tapeworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Diphyllobothrium) broad tapeworm / fish tapeworm / broad fish tapeworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Hymenolepis) dwarf tapeworm, rat tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Hymenolepis) dwarf tapeworm, rat tapeworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Hymenolepis) dwarf tapeworm, rat tapeworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Hymenolepis) dwarf tapeworm, rat tapeworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Taenia*) taenia, pork tapeworm, beef tapeworm, Asian tapeworm",
+      "(genus *Diphyllobothrium*) broad tapeworm / fish tapeworm / broad fish tapeworm",
+      "(genus *Hymenolepis*) dwarf tapeworm, rat tapeworm"
     ],
-    "notes": "To name a particular pathogenic disease, **taeniasis, cysticercosis**, either concatenate the stem 1, **taenia, pork tapeworm, beef tapeworm, Asian tapeworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **diphyllobothriasis**, either concatenate the stem 2, **broad tapeworm / fish tapeworm / broad fish tapeworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **hymenolepiasis**, either concatenate the stem 3, **dwarf tapeworm, rat tapeworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: taeniasis / cysticercosis, Stem 2: diphyllobothriasis, Stem 3: hymenolepiasis",
+    "see": "RR"
   },
   {
     "root": "LŢTY",
     "refers": "“CESTODA (TAPEWORM)” II",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **genus Spirometra) cat tapeworm, dog tapeworm, raccoon tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **genus Spirometra) cat tapeworm, dog tapeworm, raccoon tapeworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **genus Spirometra) cat tapeworm, dog tapeworm, raccoon tapeworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **genus Spirometra) cat tapeworm, dog tapeworm, raccoon tapeworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Echinococcus) echinococcus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Echinococcus) echinococcus** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Echinococcus) echinococcus**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Echinococcus) echinococcus**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Cestoda other than named genera; numerous genera) other tapeworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Cestoda other than named genera; numerous genera) other tapeworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Cestoda other than named genera; numerous genera) other tapeworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Cestoda other than named genera; numerous genera) other tapeworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "genus *Spirometra*) cat tapeworm, dog tapeworm, raccoon tapeworm",
+      "(genus *Echinococcus*) echinococcus",
+      "(Cestoda other than named genera; numerous genera) other tapeworm"
     ],
-    "notes": "To name a particular pathogenic disease, **sparganosis**, either concatenate the stem 1, **cat tapeworm, dog tapeworm, raccoon tapeworm**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **echinococcosis**, either concatenate the stem 2, **echinococcus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: sparganosis, Stem 2: echinococcosis",
+    "see": "RR"
   },
   {
     "root": "LŢTL",
     "refers": "“TREMATODE (FLUKE)” I",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Schistosoma) schistosoma / blood fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Schistosoma) schistosoma / blood fluke** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Schistosoma) schistosoma / blood fluke**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Schistosoma) schistosoma / blood fluke**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Trichobilharzia) trichobilharzia**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Trichobilharzia) trichobilharzia** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Trichobilharzia) trichobilharzia**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Trichobilharzia) trichobilharzia**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Paragonimus) paragonimus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Paragonimus) paragonimus** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Paragonimus) paragonimus**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Paragonimus) paragonimus**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Schistosoma*) schistosoma / blood fluke",
+      "(genus *Trichobilharzia*) trichobilharzia",
+      "(genus *Paragonimus*) paragonimus"
     ],
-    "notes": "To name a particular pathogenic disease, **schistosomiasis / bilharziosis / snail fever**, either concatenate the stem 1, **schistosoma / blood fluke**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **cercarial dermatitis**, either concatenate the stem 2, **trichobilharzia**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **paragonimiasis**, either concatenate the stem 3, **paragonimus**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: schistosomiasis / bilharziosis / snail fever, Stem 2: cercarial dermatitis",
+    "see": "RR"
   },
   {
     "root": "LŢTR",
     "refers": "“TREMATODE (FLUKE)” II",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Fasciola) fasciola / common liver fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Fasciola) fasciola / common liver fluke** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Fasciola) fasciola / common liver fluke**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Fasciola) fasciola / common liver fluke**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Chlonorchis) chlonorchis / Chinese liver fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Chlonorchis) chlonorchis / Chinese liver fluke** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Chlonorchis) chlonorchis / Chinese liver fluke**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Chlonorchis) chlonorchis / Chinese liver fluke**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Dicrocoelium) dicrocoelium / lancet liver fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Dicrocoelium) dicrocoelium / lancet liver fluke** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Dicrocoelium) dicrocoelium / lancet liver fluke**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Dicrocoelium) dicrocoelium / lancet liver fluke**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Fasciola*) fasciola / common liver fluke",
+      "(genus *Chlonorchis*) chlonorchis / Chinese liver fluke",
+      "(genus *Dicrocoelium*) dicrocoelium / lancet liver fluke"
     ],
-    "notes": "To name a particular pathogenic disease, **fascioliasis**, either concatenate the stem 1, **fasciola / common liver fluke**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **chlonorchiasis**, either concatenate the stem 2, **chlonorchis / Chinese liver fluke**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem.\n\nTo name a particular pathogenic disease, **dircrocoeliasis**, either concatenate the stem 3, **dicrocoelium / lancet liver fluke**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: fascioliasis, Stem 2: chlonorchiasis, Stem 3: dircrocoeliasis",
+    "see": "RR"
   },
   {
     "root": "LŢTŘ",
     "refers": "TREMATODE & OTHER FLATWORM",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genus Opisthorchis) opisthorchis / Southeast Asian liver fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Opisthorchis) opisthorchis / Southeast Asian liver fluke** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Opisthorchis) opisthorchis / Southeast Asian liver fluke**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Opisthorchis) opisthorchis / Southeast Asian liver fluke**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Trematoda other than named genera; numerous genera) other fluke**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Trematoda other than named genera; numerous genera) other fluke** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Trematoda other than named genera; numerous genera) other fluke**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Trematoda other than named genera; numerous genera) other fluke**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(non-cestoid, non trematoid platyhelminths; numerous genera) other flatworm, planarian**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(non-cestoid, non trematoid platyhelminths; numerous genera) other flatworm, planarian** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(non-cestoid, non trematoid platyhelminths; numerous genera) other flatworm, planarian**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(non-cestoid, non trematoid platyhelminths; numerous genera) other flatworm, planarian**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
+      "(genus *Opisthorchis*) opisthorchis / Southeast Asian liver fluke",
+      "(Trematoda other than named genera; numerous genera) other fluke",
+      "(non-cestoid, non-trematoid platyhelminths; numerous genera) other flatworm, planarian"
     ],
-    "notes": "To name a particular pathogenic disease, **opisthorchiasis**, either concatenate the stem 1, **opisthorchis / Southeast Asian liver fluke**, with an appropriate stem from one of the various applicable roots, or add the new ADI affix to the stem."
+    "notes": "Derived terms for diseases [Use ATI affix or concatenation]: Stem 1: opisthorchiasis",
+    "see": "RR"
   },
   {
     "root": "LŢTÇ",
     "refers": "BRYOZOAN / ENTOPROCT",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Bryozoa/Ectoprocta; numerous genera) moss animal**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Bryozoa/Ectoprocta; numerous genera) moss animal** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Bryozoa/Ectoprocta; numerous genera) moss animal**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Bryozoa/Ectoprocta; numerous genera) moss animal**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Entoprocta/Kamptozoa; numerous genera) entoproct / kamptozoan**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Entoprocta/Kamptozoa; numerous genera) entoproct / kamptozoan** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Entoprocta/Kamptozoa; numerous genera) entoproct / kamptozoan**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Entoprocta/Kamptozoa; numerous genera) entoproct / kamptozoan**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **[stem unassigned]**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **[stem unassigned]** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **[stem unassigned]**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **[stem unassigned]**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Bryozoa/Ectoprocta; numerous genera) moss animal",
+      "(Entoprocta/Kamptozoa; numerous genera) entoproct / kamptozoan",
+      "[stem unassigned]"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢTĻ",
     "refers": "“ANNELID-RELATED ANIMAL” I",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Phoronida; genera Phononis, Actinotrocha) horseshoe worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Phoronida; genera Phononis, Actinotrocha) horseshoe worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Phoronida; genera Phononis, Actinotrocha) horseshoe worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Phoronida; genera Phononis, Actinotrocha) horseshoe worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Brachiopoda; numerous genera) brachiopod**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Brachiopoda; numerous genera) brachiopod** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Brachiopoda; numerous genera) brachiopod**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Brachiopoda; numerous genera) brachiopod**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Sipuncula; numerous genera) peanut worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Sipuncula; numerous genera) peanut worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Sipuncula; numerous genera) peanut worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Sipuncula; numerous genera) peanut worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Phoronida; genera *Phononis*, *Actinotrocha*) horseshoe worm",
+      "(Brachiopoda; numerous genera) brachiopod",
+      "(Sipuncula; numerous genera) peanut worm"
+    ],
+    "see": "RR"
   },
   {
     "root": "LŢTH",
     "refers": "“ANNELID-RELATED ANIMAL” II",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Nemertea; numerous genera) ribbon worm / proboscis worm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Nemertea; numerous genera) ribbon worm / proboscis worm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Nemertea; numerous genera) ribbon worm / proboscis worm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Nemertea; numerous genera) ribbon worm / proboscis worm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Myzostomida; numerous genera) myzostomid**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Myzostomida; numerous genera) myzostomid** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Myzostomida; numerous genera) myzostomid**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Myzostomida; numerous genera) myzostomid**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Dicyemida/Rhombozoa; several genera) dicyemid/rhombozoan**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Dicyemida/Rhombozoa; several genera) dicyemid/rhombozoan** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Dicyemida/Rhombozoa; several genera) dicyemid/rhombozoan**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Dicyemida/Rhombozoa; several genera) dicyemid/rhombozoan**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Nemertea; numerous genera) ribbon worm / proboscis worm",
+      "(Myzostomida; numerous genera) myzostomid",
+      "(Dicyemida/Rhombozoa; several genera) dicyemid/rhombozoan"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPW",
     "refers": "SNAIL",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **terrestrial snail**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **terrestrial snail** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **terrestrial snail**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **terrestrial snail**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **sea snail / whelk**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **sea snail / whelk** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **sea snail / whelk**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **sea snail / whelk**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **limpet**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **limpet** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **limpet**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **limpet**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "terrestrial snail",
+      "sea snail / whelk",
+      "limpet"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPY",
     "refers": "DISTINCTIVE SEA SNAIL",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **abalone**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **abalone** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **abalone**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **abalone**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **conch [i.e., sea snail with pointed/spired/horned shell]**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **conch [i.e., sea snail with pointed/spired/horned shell]** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **conch [i.e., sea snail with pointed/spired/horned shell]**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **conch [i.e., sea snail with pointed/spired/horned shell]**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Thecosomes; numerous genera) sea butterfly**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Thecosomes; numerous genera) sea butterfly** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Thecosomes; numerous genera) sea butterfly**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Thecosomes; numerous genera) sea butterfly**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "abalone",
+      "conch [i.e., sea snail with pointed/spired/horned shell]",
+      "(Thecosomes; numerous genera) sea butterfly"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPL",
     "refers": "SLUG",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **slug**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **slug** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **slug**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **slug**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **sea slug / nudibranch**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **sea slug / nudibranch** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **sea slug / nudibranch**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **sea slug / nudibranch**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Anaspids; several genera) sea hare**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Anaspids; several genera) sea hare** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Anaspids; several genera) sea hare**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Anaspids; several genera) sea hare**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "slug",
+      "sea slug / nudibranch",
+      "(Anaspids; several genera) sea hare"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPR",
     "refers": "CLAM",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **clam**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **clam** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **clam**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **clam**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **cockle**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **cockle** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **cockle**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **cockle**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Limids; several genera) file shell**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Limids; several genera) file shell** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Limids; several genera) file shell**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Limids; several genera) file shell**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "clam",
+      "cockle",
+      "(Limids; several genera) file shell"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPŘ",
     "refers": "MYID / HIATELLID",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Myids; several genera) soft-shell clam**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Myids; several genera) soft-shell clam** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Myids; several genera) soft-shell clam**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Myids; several genera) soft-shell clam**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Hiatellids; several genera) geoduck**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Hiatellids; several genera) geoduck** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Hiatellids; several genera) geoduck**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Hiatellids; several genera) geoduck**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Teredo) shipworm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Teredo) shipworm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Teredo) shipworm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Teredo) shipworm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Myids; several genera) soft-shell clam",
+      "(Hiatellids; several genera) geoduck",
+      "(genus *Teredo*) shipworm"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPÇ",
     "refers": "OYSTER",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Ostreoids; numerous genera) [true] oyster, foam oyster / honeycomb oyster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Ostreoids; numerous genera) [true] oyster, foam oyster / honeycomb oyster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Ostreoids; numerous genera) [true] oyster, foam oyster / honeycomb oyster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Ostreoids; numerous genera) [true] oyster, foam oyster / honeycomb oyster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Pterioids; numerous genera) hammer oyster, pearl oyster, tree oyster, winged oyster, feather oyster, pulvinitid**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pterioids; numerous genera) hammer oyster, pearl oyster, tree oyster, winged oyster, feather oyster, pulvinitid** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pterioids; numerous genera) hammer oyster, pearl oyster, tree oyster, winged oyster, feather oyster, pulvinitid**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pterioids; numerous genera) hammer oyster, pearl oyster, tree oyster, winged oyster, feather oyster, pulvinitid**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Dimyids; several genera) dimyarian oyster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Dimyids; several genera) dimyarian oyster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Dimyids; several genera) dimyarian oyster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Dimyids; several genera) dimyarian oyster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Ostreoids; numerous genera) [true] oyster, foam oyster / honeycomb oyster",
+      "(Pterioids; numerous genera) hammer oyster, pearl oyster, tree oyster, winged oyster, feather oyster, pulvinitid",
+      "(Dimyids; several genera) dimyarian oyster"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPF",
     "refers": "MUSSEL / SCALLOP",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Unionoids; numerous genera) freshwater mussel**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Unionoids; numerous genera) freshwater mussel** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Unionoids; numerous genera) freshwater mussel**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Unionoids; numerous genera) freshwater mussel**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Mytiloids; numerous genera) saltwater mussel**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Mytiloids; numerous genera) saltwater mussel** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Mytiloids; numerous genera) saltwater mussel**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Mytiloids; numerous genera) saltwater mussel**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Pectinids, Propeamussids, Entoliids; numerous genera) scallop, glass scallop, mud scallop**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pectinids, Propeamussids, Entoliids; numerous genera) scallop, glass scallop, mud scallop** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pectinids, Propeamussids, Entoliids; numerous genera) scallop, glass scallop, mud scallop**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pectinids, Propeamussids, Entoliids; numerous genera) scallop, glass scallop, mud scallop**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Unionoids; numerous genera) freshwater mussel",
+      "(Mytiloids; numerous genera) saltwater mussel",
+      "(Pectinids, Propeamussids, Entoliids; numerous genera) scallop, glass scallop, mud scallop"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPS",
     "refers": "“PTERIOMORPH” I",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Anomiids; several genera) jingle shell / saddle oyster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Anomiids; several genera) jingle shell / saddle oyster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Anomiids; several genera) jingle shell / saddle oyster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Anomiids; several genera) jingle shell / saddle oyster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Placunids; several genera) windowpane shell / windowpane oyster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Placunids; several genera) windowpane shell / windowpane oyster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Placunids; several genera) windowpane shell / windowpane oyster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Placunids; several genera) windowpane shell / windowpane oyster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Pinnids; several genera) pen shell**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pinnids; several genera) pen shell** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pinnids; several genera) pen shell**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pinnids; several genera) pen shell**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Anomiids; several genera) jingle shell / saddle oyster",
+      "(Placunids; several genera) windowpane shell / windowpane oyster",
+      "(Pinnids; several genera) pen shell"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPŠ",
     "refers": "“PTERIOMORPH” II",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Arcids; numerous genera) ark shell / ark clam / bittersweet**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Arcids; numerous genera) ark shell / ark clam / bittersweet** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Arcids; numerous genera) ark shell / ark clam / bittersweet**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Arcids; numerous genera) ark shell / ark clam / bittersweet**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Plicatula) kittenpaw**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Plicatula) kittenpaw** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Plicatula) kittenpaw**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Plicatula) kittenpaw**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Spondylus) spiny oyster / thorny oyster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Spondylus) spiny oyster / thorny oyster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Spondylus) spiny oyster / thorny oyster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Spondylus) spiny oyster / thorny oyster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Arcids; numerous genera) ark shell / ark clam / bittersweet",
+      "(genus *Plicatula*) kittenpaw",
+      "(genus *Spondylus*) spiny oyster / thorny oyster"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPŢ",
     "refers": "OCTOPOD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Octopoda; numerous genera) octopus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Octopoda; numerous genera) octopus** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Octopoda; numerous genera) octopus**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Octopoda; numerous genera) octopus**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Vampyroteuthis) vampire squid**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Vampyroteuthis) vampire squid** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Vampyroteuthis) vampire squid**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Vampyroteuthis) vampire squid**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genus Argonauta) argonaut / paper nautilus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genus Argonauta) argonaut / paper nautilus** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genus Argonauta) argonaut / paper nautilus**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genus Argonauta) argonaut / paper nautilus**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Octopoda; numerous genera) octopus",
+      "(genus *Vampyroteuthis*) vampire squid",
+      "(genus *Argonauta*) argonaut / paper nautilus"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPĻ",
     "refers": "SQUID / CUTTLEFISH",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Myopsida, Oegopsida; numerous genera) squid**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Myopsida, Oegopsida; numerous genera) squid** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Myopsida, Oegopsida; numerous genera) squid**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Myopsida, Oegopsida; numerous genera) squid**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Sepiolida, Spirulida; numerous genera) bobtail squid, ram's horn squid**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Sepiolida, Spirulida; numerous genera) bobtail squid, ram's horn squid** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Sepiolida, Spirulida; numerous genera) bobtail squid, ram's horn squid**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Sepiolida, Spirulida; numerous genera) bobtail squid, ram's horn squid**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Sepiadariids; numerous genera) cuttlefish**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Sepiadariids; numerous genera) cuttlefish** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Sepiadariids; numerous genera) cuttlefish**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Sepiadariids; numerous genera) cuttlefish**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Myopsida, Oegopsida; numerous genera) squid",
+      "(Sepiolida, Spirulida; numerous genera) bobtail squid, ram's horn squid",
+      "(Sepiadariids; numerous genera) cuttlefish"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPSS",
     "refers": "CHITON / NAUTILUS / SCAPHOPOD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(genera Allonautilus, Nautilus) [chambered] nautilus**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Allonautilus, Nautilus) [chambered] nautilus** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Allonautilus, Nautilus) [chambered] nautilus**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Allonautilus, Nautilus) [chambered] nautilus**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Polyplacophorans; numerous genera) chiton / sea cradle**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Polyplacophorans; numerous genera) chiton / sea cradle** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Polyplacophorans; numerous genera) chiton / sea cradle**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Polyplacophorans; numerous genera) chiton / sea cradle**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Scaphopods; several genera) tusk shell / tooth shell**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Scaphopods; several genera) tusk shell / tooth shell** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Scaphopods; several genera) tusk shell / tooth shell**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Scaphopods; several genera) tusk shell / tooth shell**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(genera *Allonautilus*, *Nautilus*) [chambered] nautilus",
+      "(Polyplacophorans; numerous genera) chiton / sea cradle",
+      "(Scaphopods; several genera) tusk shell / tooth shell"
+    ],
+    "see": "RR"
   },
   {
     "root": "ŢPŠŠ",
     "refers": "OTHER MOLLUSC",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Solenogastres/Neomeniomorphs; numerous genera) solenogaster**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Solenogastres/Neomeniomorphs; numerous genera) solenogaster** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Solenogastres/Neomeniomorphs; numerous genera) solenogaster**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Solenogastres/Neomeniomorphs; numerous genera) solenogaster**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Caudofoveata/Chaetodermomorpha; numerous genera) caudofoveate**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Caudofoveata/Chaetodermomorpha; numerous genera) caudofoveate** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Caudofoveata/Chaetodermomorpha; numerous genera) caudofoveate**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Caudofoveata/Chaetodermomorpha; numerous genera) caudofoveate**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Monoplacophorans; several genera) monoplacophoran**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Monoplacophorans; several genera) monoplacophoran** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Monoplacophorans; several genera) monoplacophoran**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Monoplacophorans; several genera) monoplacophoran**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Solenogastres/Neomeniomorphs; numerous genera) solenogaster",
+      "(Caudofoveata/Chaetodermomorpha; numerous genera) caudofoveate",
+      "(Monoplacophorans; several genera) monoplacophoran"
+    ],
+    "see": "RR"
   }
 ]

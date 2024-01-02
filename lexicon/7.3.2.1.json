@@ -4,23 +4,13 @@
     "refers": "GREEN ALGA",
     "stems": [
       {
-        "BSC": "(to be) a plant identified as **(Chlorophytes; numerous genera) chlorophyte, chlorophytic green alga**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Chlorophytes; numerous genera) chlorophyte, chlorophytic green alga** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Chlorophytes; numerous genera) chlorophyte, chlorophytic green alga**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Chlorophytes; numerous genera) chlorophyte, chlorophytic green alga**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
+        "BSC": "(to be) (Chlorophytes; numerous genera) a chlorophyte, chlorophytic green alga, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a chlorophyte)",
+        "CTE": "(to be) that which gives a chlorophyte its individual identity; the living essence of a chlorophyte",
+        "CSV": "(to be) the physical body of a chlorophyte; the corporeal aspect of a chlorophyte",
+        "OBJ": "(to be) a state or activity being undergone or engaged in by a chlorophyte, most likely associated with a particular stage of a chlorophyte's life-cycle (e.g., dormancy as seed(-equivalent), sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       },
-      {
-        "BSC": "(to be) a plant identified as **(Charophyta [other than Embryophyta]; numerous genera) charophytic green alga**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Charophyta [other than Embryophyta]; numerous genera) charophytic green alga** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Charophyta [other than Embryophyta]; numerous genera) charophytic green alga**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Charophyta [other than Embryophyta]; numerous genera) charophytic green alga**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(Mesostigmatophyceae, Spirotaenia, Chlorokybophyceae; several genera) other green alga**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Mesostigmatophyceae, Spirotaenia, Chlorokybophyceae; several genera) other green alga** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Mesostigmatophyceae, Spirotaenia, Chlorokybophyceae; several genera) other green alga**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Mesostigmatophyceae, Spirotaenia, Chlorokybophyceae; several genera) other green alga**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(Charophyta [other than Embryophyta]; numerous genera) charophytic green alga",
+      "(Mesostigmatophyceae, Spirotaenia, Chlorokybophyceae; several genera) other green alga"
     ],
     "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant (e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.), an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
   },
@@ -28,100 +18,40 @@
     "root": "FXM",
     "refers": "EDIBLE GREEN ALGA",
     "stems": [
-      {
-        "BSC": "(to be) a plant identified as **(genera Monostroma) aonori / hitoegusa-nori / green laver seaweed**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(genera Monostroma) aonori / hitoegusa-nori / green laver seaweed** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(genera Monostroma) aonori / hitoegusa-nori / green laver seaweed**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(genera Monostroma) aonori / hitoegusa-nori / green laver seaweed**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(genus Caulerpa) sea grapes / green caviar**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(genus Caulerpa) sea grapes / green caviar** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(genus Caulerpa) sea grapes / green caviar**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(genus Caulerpa) sea grapes / green caviar**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(genus Ulva) sea lettuce, green nori, gutweed**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(genus Ulva) sea lettuce, green nori, gutweed** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(genus Ulva) sea lettuce, green nori, gutweed**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(genus Ulva) sea lettuce, green nori, gutweed**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(genus *Monostroma*) aonori / hitoegusa-nori / green laver seaweed",
+      "(genus *Caulerpa*) sea grapes / green caviar",
+      "(genus *Ulva*) sea lettuce, green nori, gutweed"
     ],
-    "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant (e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.), an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
+    "see": "FXW"
   },
   {
     "root": "FXX",
     "refers": "NON-VASCULAR LAND PLANT",
     "stems": [
-      {
-        "BSC": "(to be) a plant identified as **(Marchantiophyta; numerous genera) liverwort / hepatic**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Marchantiophyta; numerous genera) liverwort / hepatic** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Marchantiophyta; numerous genera) liverwort / hepatic**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Marchantiophyta; numerous genera) liverwort / hepatic**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(Anthocerotophyta; several genera) hornwort**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Anthocerotophyta; several genera) hornwort** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Anthocerotophyta; several genera) hornwort**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Anthocerotophyta; several genera) hornwort**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(Bryophyta; numerous genera) moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Bryophyta; numerous genera) moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Bryophyta; numerous genera) moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Bryophyta; numerous genera) moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(Marchantiophyta; numerous genera) liverwort / hepatic",
+      "(Anthocerotophyta; several genera) hornwort",
+      "(Bryophyta; numerous genera) moss"
     ],
-    "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant (e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.), an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
+    "see": "FXW"
   },
   {
     "root": "FXL",
     "refers": "MOSS (by branching type)",
     "stems": [
-      {
-        "BSC": "(to be) a plant identified as **acrocarpous moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **acrocarpous moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **acrocarpous moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **acrocarpous moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **pleurocarpous moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **pleurocarpous moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **pleurocarpous moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **pleurocarpous moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **cladocarpous moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **cladocarpous moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **cladocarpous moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **cladocarpous moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "acrocarpous moss",
+      "pleurocarpous moss",
+      "cladocarpous moss"
     ],
-    "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant (e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.), an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
+    "see": "FXW"
   },
   {
     "root": "FXR",
     "refers": "MOSS (by taxonomic class)",
     "stems": [
-      {
-        "BSC": "(to be) a plant identified as **(Spagnoposida; numerous genera) peat moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Spagnoposida; numerous genera) peat moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Spagnoposida; numerous genera) peat moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Spagnoposida; numerous genera) peat moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(Bryopsida; numerous genera) bryopsid moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Bryopsida; numerous genera) bryopsid moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Bryopsida; numerous genera) bryopsid moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Bryopsida; numerous genera) bryopsid moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      },
-      {
-        "BSC": "(to be) a plant identified as **(Takakiopsids, Andreaeopsids, Andreaeobyopsids, Oedipodiopsids, Polytrichopsids, Tetraphidopsids; numerous genera) other moss**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a plant of such kind)",
-        "CTE": "(to be) that which gives a particular plant identified as **(Takakiopsids, Andreaeopsids, Andreaeobyopsids, Oedipodiopsids, Polytrichopsids, Tetraphidopsids; numerous genera) other moss** its individual identity; the living essence of a plant of such kind",
-        "CSV": "(to be) the physical body of a plant identified as **(Takakiopsids, Andreaeopsids, Andreaeobyopsids, Oedipodiopsids, Polytrichopsids, Tetraphidopsids; numerous genera) other moss**; the corporeal aspect of a plant of such kind",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a plant identified as **(Takakiopsids, Andreaeopsids, Andreaeobyopsids, Oedipodiopsids, Polytrichopsids, Tetraphidopsids; numerous genera) other moss**, most likely associated with a particular stage of a plant's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
-      }
+      "(Spagnoposida; numerous genera) peat moss",
+      "(Bryopsida; numerous genera) bryopsid moss",
+      "(Takakiopsids, Andreaeopsids, Andreaeobyopsids, Oedipodiopsids, Polytrichopsids, Tetraphidopsids; numerous genera) other moss"
     ],
-    "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant (e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.), an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
+    "see": "FXW"
   }
 ]
