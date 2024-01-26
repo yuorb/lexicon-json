@@ -1,0 +1,19 @@
+[
+  {
+    "affix": "t",
+    "abbr": "DCD",
+    "name": "Deictic Demonstratives",
+    "type": "D1",
+    "degrees": [
+      "this X (at/by/near speaker); the X under discussion; the X at hand; in this manner/way, in the manner at hand, in said manner",
+      "that X (at/by/near addressee); the X at/by/near the addressee; in that manner/way, thus ",
+      "that X yonder (away from both speaker and addressee); in that manner, thus ",
+      "the previously mentioned X, the X known to speaker and addressee, the contextually specific/relevant/identified X, “the” X; in the manner under discussion or contextually known",
+      "[head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 4 + head of relative clause and/or the formative to which a later Reduplicative Referential refers] ",
+      "[same as Degree 3 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 2 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 1 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]"
+    ]
+  }
+]

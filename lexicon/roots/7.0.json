@@ -1,0 +1,52 @@
+[
+  {
+    "root": "LCP",
+    "refers": "CELLULAR ORGANELLE / PLASMA MEMBRANE / CYTOPLASM",
+    "stems": [
+      {
+        "BSC": "(to be) an organelle within a biological cell",
+        "CTE": "(to be) the physical body of an organelle within a biological cell",
+        "CSV": "(to be) the physical operation of an organelle within a biological cell",
+        "OBJ": "(to be) function/purpose of an organelle within a biological cell"
+      },
+      "(to be) the plasma membrane / cell membrane of a biological cell",
+      "(to be) the cytoplasm (cytosol) within a biological cell"
+    ]
+  },
+  {
+    "root": "PPW",
+    "refers": "cellular nucleus / nucleolus / chromatin",
+    "stems": ["cellular nucleus", "nucleolus", "chromatin"],
+    "see": "LCP"
+  },
+  {
+    "root": "PPY",
+    "refers": "nuclear envelope / nuclear pore / endoplasmic reticulum",
+    "stems": ["nuclear envelope", "nuclear pore", "endoplasmic reticulum"],
+    "see": "LCP"
+  },
+  {
+    "root": "PPL",
+    "refers": "ribosome / centrosome / peroxisome",
+    "stems": ["ribosome", "centrosome", "peroxisome"],
+    "see": "LCP"
+  },
+  {
+    "root": "PPR",
+    "refers": "mitochondrion / lysosome / microtubule",
+    "stems": ["mitochondrion", "lysosome", "microtubule"],
+    "see": "LCP"
+  },
+  {
+    "root": "PPŘ",
+    "refers": "Golgi apparatus / Golgi vesicle / secretory vesicle",
+    "stems": ["Golgi apparatus", "Golgi vesicle", "secretory vesicle"],
+    "see": "LCP"
+  },
+  {
+    "root": "PPH",
+    "refers": "microfilament / intermediate filament / vacuole",
+    "stems": ["microfilament", "intermediate filament", "vacuole"],
+    "see": "LCP"
+  }
+]

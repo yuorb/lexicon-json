@@ -3,10 +3,9 @@
 This repository offers the lexicon of New Ithkuil in json format based on the
 http://ithkuil.net/newithkuil_lexicon.pdf.
 
-Currently it does not include the affixes like `-řst` but is planned in the
-future.
-
 ## Format
+
+### Roots
 
 ```ts
 type Specs = {
@@ -37,23 +36,59 @@ type Root = {
 type Lexicon = Array<Root>;
 ```
 
+### Affixes
+
+```ts
+type Affix = {
+  affix: string;
+  abbr: string;
+  name: string;
+  type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
+  degrees: [
+    string,
+    string,
+    string,
+    string,
+    string,
+    string,
+    string,
+    string,
+    string,
+  ];
+  notes?: string;
+};
+
+type Affixes = Array<Affix>;
+```
+
 ## Progress
 
 ### Roots
 
-|           | Roots |
-| --------- | ----- |
-| Chapter 1 | ✅    |
-| Chapter 2 | ✅    |
-| Chapter 3 | ✅    |
-| Chapter 4 | ✅    |
-| Chapter 5 | ✅    |
-| Chapter 6 | ✅    |
-| Chapter 7 | ✅    |
+Completed
 
 ### Affixes
 
-Planned after [Enthrirhs](https://github.com/yuorb/enthrirhs) released v0.2.0.
+|                                                                        | Roots           |
+| ---------------------------------------------------------------------- | --------------- |
+| Demonstrative, Determinative, and Deictic Affixes                      | Not Completed   |
+| Sequential/Temporal Affixes                                            | Not Started Yet |
+| Spatial, Positional, and Motion Affixes                                | Not Started Yet |
+| Quantifying Affixes                                                    | Not Started Yet |
+| Qualifying Affixes                                                     | Not Started Yet |
+| Adverbial Affixes                                                      | Not Started Yet |
+| Modality Affixes                                                       | Not Started Yet |
+| Agential/Participant Affixes                                           | Not Started Yet |
+| Affixes Relating to Bodily Position                                    | Not Started Yet |
+| Instrumentative/Utilitative Affixes                                    | Not Started Yet |
+| Configurative Affixes                                                  | Not Started Yet |
+| Affixes Relating to Meta-Level Qualification                           | Not Started Yet |
+| Sensory Affixes                                                        | Not Started Yet |
+| Affixes Relating to Mathematics and Measurement                        | Not Started Yet |
+| Coordinative and Connective Affixes                                    | Not Started Yet |
+| Grammatical Affixes                                                    | Not Started Yet |
+| Affixes for Biological Genera, Species and Sub-Species Differentiation | Not Started Yet |
+| Miscellaneous Affixes                                                  | Not Started Yet |
 
 ## Scripts
 

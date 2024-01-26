@@ -1,0 +1,324 @@
+[
+  {
+    "root": "ÇK",
+    "refers": "ILLNESS / SICKNESS / DISEASE / MALADY / AILMENT / SYMPTOM",
+    "stems": [
+      {
+        "BSC": "(to be) a state of physical or mental illness/sickness malady; to be physically or mentally ill/sick, to suffer an illness/disease/ailment/sickness/malady",
+        "CTE": "(to be) a disease/illness/ailment/malady",
+        "CSV": "(to be) the state of physically suffering from a disease/illness/ailment/malady; to suffer therefrom",
+        "OBJ": "(to be) a living being infected/suffering from an infectious illness/disease; entity/party that is sick"
+      },
+      {
+        "BSC": "(to be) a state of manifesting/displaying a symptom of an illness/disease/ailment/sickness/malady; to show/manifest/display a symptom of an illness/ailment/sickness/malady",
+        "CTE": "(to be) a symptom an illness/disease/ailment/sickness/malady",
+        "CSV": "(to be) the physical act of manifesting a symptom; for a symptom to physically occur",
+        "OBJ": "(to be) a living being suffering/manifesting/displaying a symptom of an illness/disease/ailment/sickness/malady"
+      },
+      {
+        "BSC": "(to be) a state of physical or mental incapacity or impairment or weakness or decrepitude due to an illness/disease/ailment/sickness/malady",
+        "CTE": "(to be) the particular impairment(s) one suffers or experiences due to an illness/ailment/sickness/malady",
+        "CSV": "(to be) a state of having to deal/struggle with or adapt to a physical or mental impairment due to an illness/disease/ailment/sickness/malady",
+        "OBJ": "(to be) a living being experiencing/suffering from a physical or mental incapacity or impairment or weakness or decrepitude due to an illness/disease/ailment/sickness/malady"
+      }
+    ]
+  },
+  {
+    "root": "KÇK",
+    "refers": "PHYSICAL DISABILITY DUE TO INJURY",
+    "stems": [
+      {
+        "BSC": "(to be) a state of living with a static/permanent physical or mental disability (i.e., not disease-related, e.g., missing a limb, paralysis due to a war injury, blindness due to an accident, etc.)",
+        "CTE": "(to be) a state of physical disability (i.e., not having all of one's potential abilities)",
+        "CSV": "(to be) a state of suffering/enduring/dealing with the effect(s) of a disability",
+        "OBJ": "(to be) the disability itself"
+      },
+      "(to be) a state of living with a temporary physical or mental disability (i.e., not disease-related, e.g., a broken leg, blindness while recovering from eye surgery, etc.)",
+      "(to be) a state of using/living with a prosthetic or adaptive device or process or routine to compensate for a physical disability"
+    ]
+  },
+  {
+    "root": "MŠK",
+    "refers": "infectious (i.e., microbial) illness/disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKW",
+    "refers": "disease/malady caused by exposure to adverse environmental element(s)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKY",
+    "refers": "disease/malady caused by exposure to toxic chemical substance/poison",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKL",
+    "refers": "disease/malady caused by adverse personal habits (e.g., smoking, diet, sloth, etc.)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKR",
+    "refers": "metabolic disorder/malady",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKŘ",
+    "refers": "neoplastic disorder/malady (i.e., cancer)",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKF",
+    "refers": "genetic disorder/malady",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKŢ",
+    "refers": "idiopathic disorder/malady",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKÇ",
+    "refers": "autoimmune disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKV",
+    "refers": "malady caused by complications from an injury or injuries",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKM",
+    "refers": "iatrogenic or nosocomial disorder/malady caused by medical/medicinal/surgical treatment or hospitalization",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKN",
+    "refers": "prion-based disease",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKH",
+    "refers": "congenital defect",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "MŠKHW",
+    "refers": "disease/malady/disorder of unknown etiology, unrecognizable/unclassifiable disease/malady/disorder",
+    "notes": "They may be used with the ADI affix.",
+    "see": "ÇK"
+  },
+  {
+    "root": "PÇW",
+    "refers": "common cold / nasal congestion / pneumonia",
+    "stems": ["common cold", "nasal congestion", "pneumonia"],
+    "see": "ÇK"
+  },
+  {
+    "root": "NŢM",
+    "refers": "inflammation / sore throat / fever",
+    "stems": ["inflammation, immune reaction", "sore throat", "fever"],
+    "see": "ÇK"
+  },
+  {
+    "root": "VMW",
+    "refers": "nausea / vomitting / diarrhea",
+    "stems": ["nausea, stomach ache", "vomiting, to vomit", "diarrhea"],
+    "see": "ÇK"
+  },
+  {
+    "root": "DPH",
+    "refers": "shortness of breath / asthma / sleep apnea",
+    "stems": [
+      "shortness of breath, difficulty breathing",
+      "asthma",
+      "sleep apnea"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇMW",
+    "refers": "anemia / hemochromatosis / hypercholesterolemia",
+    "stems": ["anemia", "hemochromatosis", "hypercholesterolemia"],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇMY",
+    "refers": "ischemia / hemorrhage / blood clot",
+    "stems": [
+      "ischemia",
+      "hemorrhage, bruising, hematoma",
+      "blood clot, to clot (blood), ischemia"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇNW",
+    "refers": "hypertension / aneurysm / venous thromboembolism",
+    "stems": ["hypertension", "aneurysm", "venous thromboembolism"],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŇNY",
+    "refers": "cardiac arrhythmia / fibrillation / palpitation",
+    "stems": [
+      "cardiac arrhythmia",
+      "cardiac fibrillation, flutter",
+      "palpitation"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŠKM",
+    "refers": "syncope / altitude sickness / nitrogen narcosis",
+    "stems": [
+      "syncope (fainting)",
+      "altitude sickness",
+      "nitrogen narcosis (“the bends”)"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŠKN",
+    "refers": "dehydration / heat exhaustion / stroke",
+    "stems": ["dehydration", "heat exhaustion", "heat stroke / sunstroke"],
+    "see": "ÇK"
+  },
+  {
+    "root": "LCR",
+    "refers": "GI upset / ulcer / diverticulitis",
+    "stems": ["gastro-intestinal upset", "ulcer", "diverticulitis"],
+    "see": "ÇK"
+  },
+  {
+    "root": "JDŘ",
+    "refers": "organ failure / arrest / hyperactivity",
+    "stems": [
+      "organ failure (i.e., insufficiency)",
+      "organ arrest (i.e., complete shutdown)",
+      "organ hyperactivity"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "RCL",
+    "refers": "osteoporosis / osteopenia / osteomalacia",
+    "stems": ["osteoporosis", "osteopenia", "osteomalacia"],
+    "see": "ÇK"
+  },
+  {
+    "root": "ĻPL",
+    "refers": "spasm / tremor / convulsion",
+    "stems": ["spasm", "tremor", "convulsion => tonic-clonic seizure"],
+    "see": "ÇK"
+  },
+  {
+    "root": "ĻPR",
+    "refers": "trance / seizure / dissociation",
+    "stems": [
+      "spell, trance",
+      "non-convulsive seizure, absence seizure",
+      "fugue state / dissociative state"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "PSX",
+    "refers": "lethargy / listlessness / palpitation",
+    "stems": [
+      "lethargy, torpor",
+      "listlessness, inability to come to full alertness",
+      "sluggishness"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "LKSX",
+    "refers": "muscle weakness / cramping",
+    "stems": ["muscle weakness", "muscle cramping", "abdominal cramping"],
+    "see": "ÇK"
+  },
+  {
+    "root": "RPSX",
+    "refers": "calcification / ossification / fibrosis",
+    "stems": [
+      "calcification, calciferous hardening",
+      "ossification, hardening",
+      "fibrosis (including cirrhosis)"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "SLW",
+    "refers": "paresis",
+    "stems": [
+      "paresis, monoparesis",
+      "hemiparesis, paraparesis",
+      "quadriparesis"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "SLY",
+    "refers": "paralysis / plegia",
+    "stems": [
+      "paralysis, monoplegia",
+      "hemiplegia, paraplegia",
+      "quadriplegia"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "ĻNW",
+    "refers": "paresthesia / dyskinesia / locked-in syndrome",
+    "stems": ["paresthesia", "dyskinesia", "locked-in syndrome"],
+    "see": "ÇK"
+  },
+  {
+    "root": "VPĻ",
+    "refers": "bone fracture / concussion / locked retinal detachment",
+    "stems": [
+      "bone fracture",
+      "concussion / traumatic brain injury",
+      "locked retinal detachment"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "KNW",
+    "refers": "deluded/uncontrolled/demented behavior",
+    "stems": [
+      "delusion, deluded thinking",
+      "uncontrolled/inappropriate behavior",
+      "dementia"
+    ],
+    "see": "ÇK"
+  },
+  {
+    "root": "ŘÇK",
+    "refers": "CAUSE OF AN ILLNESS / SICKNESS / DISEASE / MALADY / AILMENT",
+    "stems": [
+      {
+        "BSC": "(to be) the pathogenic or toxicological cause of an illness/disease/ailment/sickness/malady (e.g., microbial, toxic substance, venom)",
+        "CTE": "(to be) a state of infection/exposure to a pathogen/poison/venom",
+        "CSV": "(to be) an act of contracting or being exposed to a pathogen/poison/venom",
+        "OBJ": "(to be) the microbe, poison, venom, toxic substance involved"
+      },
+      "(to be) the idiopathic/congenital cause of an illness/disease/ailment/sickness/malady (e.g., the cause(s) of cancer, autoimmune disorder, mental illness, Type-1 diabetes)",
+      "(to be) the iatrogenic or lifestyle/behavioral/environmental cause of an illness/disease/ailment/sickness/malady (e.g., smoking, gluttony, heatstroke, hypoxia due to living at high altitude, alcoholism, drug addiction, botched surgery, bodily injury)"
+    ]
+  }
+]

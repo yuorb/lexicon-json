@@ -28,13 +28,13 @@ export function mergeRoots(): Root[] {
 
     // Get filenames and sort
     const filenames: string[] = []
-    for (const { name } of Deno.readDirSync("./lexicon")) {
+    for (const { name } of Deno.readDirSync("./lexicon/roots")) {
         filenames.push(name)
     }
     filenames.sort();
 
     for (let i = 0; i < filenames.length; i++) {
-        const text = Deno.readTextFileSync(`lexicon/${filenames[i]}`);
+        const text = Deno.readTextFileSync(`lexicon/roots/${filenames[i]}`);
         const json: Root[] = JSON.parse(text);
         target = target.concat(json)
     }
@@ -43,7 +43,22 @@ export function mergeRoots(): Root[] {
 }
 
 export function mergeAffixes(): Affix[] {
-    return [];
+    let target: Affix[] = []
+
+    // Get filenames and sort
+    const filenames: string[] = []
+    for (const { name } of Deno.readDirSync("./lexicon/affixes")) {
+        filenames.push(name)
+    }
+    filenames.sort();
+
+    for (let i = 0; i < filenames.length; i++) {
+        const text = Deno.readTextFileSync(`lexicon/affixes/${filenames[i]}`);
+        const json: Affix[] = JSON.parse(text);
+        target = target.concat(json)
+    }
+
+    return target
 }
 
 export function bundle(): Lexicon {

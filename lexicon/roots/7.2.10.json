@@ -1,0 +1,64 @@
+[
+  {
+    "root": "ŘD",
+    "refers": "REMEDY / HEAL / RECOVER / RECUPERATE / RESTORE",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of medically treating, remedying something or someone; to treat [medically], to (try to) remedy something",
+        "CTE": "(to be) a state of [medical] treatment",
+        "CSV": "(to be) a physical act of treating/remedying",
+        "OBJ": "(to be) a remedy/treatment"
+      },
+      "(to be) a state/act of recuperation/healing/recovery; to recuperate, to heal, to recover",
+      "(to be) a state/act of restoration; to restore"
+    ]
+  },
+  {
+    "root": "ŘDV",
+    "refers": "MEDICATION / MEDICINE",
+    "stems": [
+      {
+        "BSC": "(to be) an act/state of administering a medicine/medication orally in solid form (e.g., pill, tablet, capsule, etc.); to administer a (solid) oral medication",
+        "CTE": "(to be) a state of being on a solid oral medication",
+        "CSV": "(to be) an act of swallowing a (solid) oral medication; to swallow a pill/tablet/capsule",
+        "OBJ": "(to be) the (pill/tablet/capsule of) medication itself"
+      },
+      "(to be) an act/state of administering a medicine/medication orally in liquid form (e.g., cough syrup, chemical dissolved in liquid, etc.); to administer a liquid medication",
+      "(to be) to be) an act/state of administering a medicine/medication via injection; to inject a medication"
+    ]
+  },
+  {
+    "root": "ŠKL",
+    "refers": "PSYCHIATRIC TREATMENT / THERAPY",
+    "stems": [
+      {
+        "BSC": "(to be) an act of psychiatric treatment or therapeutic psychological therapy",
+        "CTE": "(to be) a state of being under or subject to psychiatric/psychological treatment/therapy",
+        "CSV": "(to be) a physical act of administering psychiatric/psychological treatment/therapy; to treat a patient by means of psychiatry/psychological therapy",
+        "OBJ": "(to be) the nature/specifics of a (course of) psychiatric/psychological therapy"
+      },
+      "(to be) an act of subliminal psychological manipulation",
+      "(to be) an act of brainwashing [i.e., psychological manipulation to the extent that a person's personality/motivations/values/memories/beliefs, etc. are changed for covert or nefarious purposes]"
+    ]
+  },
+  {
+    "root": "DGW",
+    "refers": "BANDAGE / DRESSING / PATCH",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance of bandaging a wound; to cover a wound with a bandage, to bandage a wound",
+        "CTE": "(to be) a state of protecting a wound by having a bandage on it; to have a bandage on",
+        "CSV": "(to be) a physical act of bandaging, to cover with a bandage",
+        "OBJ": "(to be) a bandage"
+      },
+      "(to be) an act/instance of using a pad/compress/dressing to absorb/staunch loss of blood or fluid",
+      "(to be) an act/instance of using a piece or section of material as a patch to cover, seal, and protect a wound or area of damage to something; to patch something"
+    ]
+  },
+  {
+    "root": "DGY",
+    "refers": "MATERIAL USED AS BANDAGE or PATCH",
+    "stems": ["(adhesive) tape", "rubber(-like) patch", "film(-like material)"],
+    "see": "DGW"
+  }
+]

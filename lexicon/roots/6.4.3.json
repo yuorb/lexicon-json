@@ -1,0 +1,2300 @@
+[
+  {
+    "root": "RẒ",
+    "refers": "CHEMICAL ELEMENT",
+    "stems": [
+      {
+        "BSC": "(to be) a chemical element",
+        "CTE": "(to be) an elemental state; at a level involving individual chemical elements",
+        "CSV": "(to be) a state/act of manipulating/combining chemical elements; to perform chemistry",
+        "OBJ": "(to be) a chemical element in its naturally occurring (homonuclear) state, e.g., O₂ "
+      },
+      "(to be) a positive ion of a chemical element",
+      "(to be) a negative ion of a chemical element"
+    ],
+    "notes": "CPT version of the above 3 stems refers respectively to the oxidation state of zero, oxidized, and reduced ions."
+  },
+
+  {
+    "root": "PÇK",
+    "refers": "Hydrogen",
+    "see": "RẒ"
+  },
+  {
+    "root": "RTŇ",
+    "refers": "Vanadium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ẒTW",
+    "refers": "Cobalt",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠPW",
+    "refers": "Boron",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŇN",
+    "refers": "Oxygen",
+    "see": "RẒ"
+  },
+  {
+    "root": "PÇKW",
+    "refers": "Lithium",
+    "see": "RẒ"
+  },
+  {
+    "root": "RTŇW",
+    "refers": "Niobium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ẒTY",
+    "refers": "Rhodium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠPY",
+    "refers": "Aluminum",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŇZD",
+    "refers": "Sulfur",
+    "see": "RẒ"
+  },
+  {
+    "root": "PÇKY",
+    "refers": "Sodium",
+    "see": "RẒ"
+  },
+  {
+    "root": "RSŇ",
+    "refers": "Tantalum",
+    "see": "RẒ"
+  },
+  {
+    "root": "ẒTF",
+    "refers": "Iridium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠPL",
+    "refers": "Gallium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŇZDW",
+    "refers": "Selenium",
+    "see": "RẒ"
+  },
+  {
+    "root": "PÇKL",
+    "refers": "Potassium",
+    "see": "RẒ"
+  },
+  {
+    "root": "RSŇW",
+    "refers": "Dubnium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ẒTV",
+    "refers": "Meitnerium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠPR",
+    "refers": "Indium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŇZDY",
+    "refers": "Tellurium",
+    "see": "RẒ"
+  },
+  {
+    "root": "PÇKR",
+    "refers": "Rubidium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠPŘ",
+    "refers": "Thallium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŇZDL",
+    "refers": "Polonium",
+    "see": "RẒ"
+  },
+  {
+    "root": "PÇKŘ",
+    "refers": "Caesium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠKR",
+    "refers": "Chromium",
+    "see": "RẒ"
+  },
+  {
+    "root": "XDW",
+    "refers": "Nickel",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠPŠ",
+    "refers": "Nihonium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŇZDR",
+    "refers": "Livermorium",
+    "see": "RẒ"
+  },
+  {
+    "root": "PÇKF",
+    "refers": "Francium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠKW",
+    "refers": "Molybdenum",
+    "see": "RẒ"
+  },
+  {
+    "root": "XDY",
+    "refers": "Palladium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠKY",
+    "refers": "Tungsten",
+    "see": "RẒ"
+  },
+  {
+    "root": "XDL",
+    "refers": "Platinum",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŽPL",
+    "refers": "Carbon",
+    "see": "RẒ"
+  },
+  {
+    "root": "BZTW",
+    "refers": "Fluorine",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVG",
+    "refers": "Beryllium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŠKŘ",
+    "refers": "Seaborgium",
+    "see": "RẒ"
+  },
+  {
+    "root": "XDR",
+    "refers": "Darmstadtium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŽPW",
+    "refers": "Silicon",
+    "see": "RẒ"
+  },
+  {
+    "root": "BZTY",
+    "refers": "Chlorine",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGW",
+    "refers": "Magnesium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŽPY",
+    "refers": "Germanium",
+    "see": "RẒ"
+  },
+  {
+    "root": "BZTL",
+    "refers": "Bromine",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGY",
+    "refers": "Calcium",
+    "see": "RẒ"
+  },
+  {
+    "root": "TĻN",
+    "refers": "Manganese",
+    "see": "RẒ"
+  },
+  {
+    "root": "MẒ",
+    "refers": "Copper",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŽPR",
+    "refers": "Tin",
+    "see": "RẒ"
+  },
+  {
+    "root": "BZTR",
+    "refers": "Iodine",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGL",
+    "refers": "Strontium",
+    "see": "RẒ"
+  },
+  {
+    "root": "TĻNW",
+    "refers": "Technetium",
+    "see": "RẒ"
+  },
+  {
+    "root": "RĻ",
+    "refers": "Silver",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŽPŘ",
+    "refers": "Lead",
+    "see": "RẒ"
+  },
+  {
+    "root": "BZTŘ",
+    "refers": "Astatine",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGR",
+    "refers": "Barium",
+    "see": "RẒ"
+  },
+  {
+    "root": "TĻŇ",
+    "refers": "Rhenium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LJ",
+    "refers": "Gold",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŽPF",
+    "refers": "Flerovium",
+    "see": "RẒ"
+  },
+  {
+    "root": "BZTĻ",
+    "refers": "Tennessine",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGŘ",
+    "refers": "Radium",
+    "see": "RẒ"
+  },
+  {
+    "root": "TĻŇW",
+    "refers": "Bohrium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LJŇW",
+    "refers": "Roentgenium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGV",
+    "refers": "Scandium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LXT",
+    "refers": "Nitrogen",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPW",
+    "refers": "Helium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LVGZ",
+    "refers": "Yttrium",
+    "see": "RẒ"
+  },
+  {
+    "root": "SGL",
+    "refers": "Iron",
+    "see": "RẒ"
+  },
+  {
+    "root": "ḐBW",
+    "refers": "Zinc",
+    "see": "RẒ"
+  },
+  {
+    "root": "LXTW",
+    "refers": "Phosphorus",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPY",
+    "refers": "Neon",
+    "see": "RẒ"
+  },
+  {
+    "root": "SGW",
+    "refers": "Ruthenium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ḐBY",
+    "refers": "Cadmium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LXTY",
+    "refers": "Arsenic",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPL",
+    "refers": "Argon",
+    "see": "RẒ"
+  },
+  {
+    "root": "PĻW",
+    "refers": "Titanium",
+    "see": "RẒ"
+  },
+  {
+    "root": "SGY",
+    "refers": "Osmium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ḐBL",
+    "refers": "Mercury",
+    "see": "RẒ"
+  },
+  {
+    "root": "LXTL",
+    "refers": "Antimony",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPR",
+    "refers": "Krypton",
+    "see": "RẒ"
+  },
+  {
+    "root": "PĻM",
+    "refers": "Zirconium",
+    "see": "RẒ"
+  },
+  {
+    "root": "SGV",
+    "refers": "Hassium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ḐBR",
+    "refers": "Copernicium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LXTR",
+    "refers": "Bismuth",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPŘ",
+    "refers": "Xenon",
+    "see": "RẒ"
+  },
+  {
+    "root": "PĻN",
+    "refers": "Hafnium",
+    "see": "RẒ"
+  },
+  {
+    "root": "LXTŘ",
+    "refers": "Moscovium",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPF",
+    "refers": "Radon",
+    "see": "RẒ"
+  },
+  {
+    "root": "PĻŇ",
+    "refers": "Rutherfordium",
+    "see": "RẒ"
+  },
+  {
+    "root": "GZPĻ",
+    "refers": "Oganesson",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCP",
+    "refers": "Lanthanum",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPR",
+    "refers": "Terbium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPST",
+    "refers": "Actinium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSC",
+    "refers": "Berkelium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPW",
+    "refers": "Cerium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPS",
+    "refers": "Dysprosium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTW",
+    "refers": "Thorium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSČ",
+    "refers": "Californium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPY",
+    "refers": "Praseodymium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPŠ",
+    "refers": "Holmium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTY",
+    "refers": "Protactinium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSCW",
+    "refers": "Einsteinium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPÇ",
+    "refers": "Neodymium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCC",
+    "refers": "Erbium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTL",
+    "refers": "Uranium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSČW",
+    "refers": "Fermium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPL",
+    "refers": "Promethium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCCW",
+    "refers": "Thulium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTR",
+    "refers": "Neptunium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSS",
+    "refers": "Mendelevium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPF",
+    "refers": "Samarium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCČ",
+    "refers": "Ytterbium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTŘ",
+    "refers": "Plutonium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSSW",
+    "refers": "Nobelium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPĻ",
+    "refers": "Europium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCČW",
+    "refers": "Lutetium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTF",
+    "refers": "Americium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSSY",
+    "refers": "Lawrencium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘCPŘ",
+    "refers": "Gadolinium",
+    "see": "RẒ"
+  },
+  {
+    "root": "ŘPSTĻ",
+    "refers": "Curium",
+    "see": "RẒ"
+  },
+  {
+    "root": "RẒB",
+    "refers": "CHEMICAL COMPOUND / CHEMICAL REACTION",
+    "stems": [
+      {
+        "BSC": "(to be) a chemical compound; to consist of a chemical compound",
+        "CTE": "(to be) an instance (i.e.g, piece, drop, granule, plume, glob) of the substance comprising a chemical compound",
+        "CSV": "(to be) a chemical reaction resulting in the formation of a chemical compound; to chemically react, make/undergo a chemical reaction",
+        "OBJ": "(to be) a chemical compound in its naturally occurring state "
+      },
+      "(to be) a chemical reaction; to chemically react, undergo a chemical reaction",
+      "(to be) an amount of energy released as a result of a chemical reaction; to release energy as a result of a chemical reaction"
+    ]
+  },
+  {
+    "root": "RẒBW",
+    "refers": "CHEMICAL COMPOUND BY TYPE OF MOLECULAR BOND",
+    "stems": [
+      {
+        "BSC": "(to be) a chemical compound held together by covalent molecular bonds",
+        "CTE": "(to be) an instance (i.e.g, amount, piece, drop, granule, flume, glob) of the substance comprising a chemical compound held together by covalent molecular bonds",
+        "CSV": "(to be) a chemical reaction resulting in the formation of a chemical compound held together by covalent molecular bonds; the chemically react, make/undergo a chemical reaction involving covalent molecular bonds",
+        "OBJ": "(to be) a chemical compound held together by covalent molecular bonds in its naturally occurring state "
+      },
+      "(to be) a chemical compound held together by ionic bonds",
+      "(to be) an intermetallic chemical compound or complex held together by metallic or coordinate covalent bonds"
+    ]
+  },
+  {
+    "root": "FD",
+    "refers": "table salt / rock salt (sodium chloride)",
+    "see": "RẒB"
+  },
+  {
+    "root": "ẒTÇ",
+    "refers": "dynamite",
+    "see": "RẒB"
+  },
+  {
+    "root": "TPF",
+    "refers": "plaster of Paris (calcium sulfate hemi-hydrate)",
+    "see": "RẒB"
+  },
+  {
+    "root": "XBW",
+    "refers": "aspirin / ASA",
+    "see": "RẒB"
+  },
+  {
+    "root": "PPF",
+    "refers": "talc / talcum",
+    "see": "RẒB"
+  },
+  {
+    "root": "JNY",
+    "refers": "calomel (mercurous chloride)",
+    "see": "RẒB"
+  },
+  {
+    "root": "DPF",
+    "refers": "sodium bicarbonate (i.e., baking soda) NaHCO₃",
+    "see": "RẒB"
+  },
+  {
+    "root": "KSPR",
+    "refers": "gasoline",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇPF",
+    "refers": "washing soda (sodium carbonate decahydrate)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KSPL",
+    "refers": "kerosene",
+    "see": "RẒB"
+  },
+  {
+    "root": "RPF",
+    "refers": "magnesia (magnesium hydroxide)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KSPW",
+    "refers": "benzene",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŘPF",
+    "refers": "lye / soda lye / caustic soda (sodium hydroxide)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KSPY",
+    "refers": "butane",
+    "see": "RẒB"
+  },
+  {
+    "root": "XPF",
+    "refers": "lime / quicklime (calcium oxide)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KSPŘ",
+    "refers": "propane",
+    "see": "RẒB"
+  },
+  {
+    "root": "ĻPF",
+    "refers": "slaked lime / caustic lime (calcium hydroxide)",
+    "see": "RẒB"
+  },
+  {
+    "root": "VML",
+    "refers": "methanol / methyl alcohol / wood alcohol",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŠPF",
+    "refers": "potash (potassium carbonate)",
+    "see": "RẒB"
+  },
+  {
+    "root": "VMY",
+    "refers": "grain alcohol (ethyl alcohol)",
+    "see": "RẒB"
+  },
+  {
+    "root": "GPF",
+    "refers": "saltpeter (potassium nitrate)",
+    "see": "RẒB"
+  },
+  {
+    "root": "TĻMW",
+    "refers": "graphite",
+    "see": "RẒB"
+  },
+  {
+    "root": "VPF",
+    "refers": "bleaching powder (calcium hypochlorite)",
+    "see": "RẒB"
+  },
+  {
+    "root": "TĻMY",
+    "refers": "graphene",
+    "see": "RẒB"
+  },
+  {
+    "root": "CPF",
+    "refers": "borax (sodium tetraborate)",
+    "see": "RẒB"
+  },
+  {
+    "root": "ČPF",
+    "refers": "emery / corundite",
+    "see": "RẒB"
+  },
+  {
+    "root": "LCM",
+    "refers": "table sugar (sucrose)",
+    "see": "RẒB"
+  },
+  {
+    "root": "ḐPF",
+    "refers": "epsom salt (magnesium sulfate heptahydrate)",
+    "see": "RẒB"
+  },
+  {
+    "root": "LCN",
+    "refers": "glucose",
+    "see": "RẒB"
+  },
+  {
+    "root": "KÇPF",
+    "refers": "calcium oxychloride (i.e., bleaching powder)",
+    "see": "RẒB"
+  },
+  {
+    "root": "LCMW",
+    "refers": "fructose",
+    "see": "RẒB"
+  },
+  {
+    "root": "NĻPF",
+    "refers": "caustic potash (potassium hydroxide)",
+    "see": "RẒB"
+  },
+  {
+    "root": "LCMY",
+    "refers": "dextrose",
+    "see": "RẒB"
+  },
+  {
+    "root": "KŢPF",
+    "refers": "silica",
+    "see": "RẒB"
+  },
+  {
+    "root": "LCNY",
+    "refers": "sugar (any molecular “-ose” compound)",
+    "see": "RẒB"
+  },
+  {
+    "root": "DMY",
+    "refers": "bleach (sodium hypochlorite)",
+    "see": "RẒB"
+  },
+  {
+    "root": "ZDŘ",
+    "refers": "asbestos",
+    "see": "RẒB"
+  },
+  {
+    "root": "PMY",
+    "refers": "zinc white / zinc oxide",
+    "see": "RẒB"
+  },
+  {
+    "root": "XBŘ",
+    "refers": "milk of magnesia",
+    "see": "RẒB"
+  },
+  {
+    "root": "ZDW",
+    "refers": "fluorspar / fluorite",
+    "see": "RẒB"
+  },
+  {
+    "root": "DNW",
+    "refers": "carbolic acid (phenol)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTW",
+    "refers": "acetone",
+    "see": "RẒB"
+  },
+  {
+    "root": "ZDY",
+    "refers": "copper sulphate (i.e., blue vitriol)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTY",
+    "refers": "ammonia",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTL",
+    "refers": "rubbing alcohol / isopropyl alcohol",
+    "see": "RẒB"
+  },
+  {
+    "root": "CBL",
+    "refers": "carbon dioxide",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTR",
+    "refers": "vinegar (acetic acid)",
+    "see": "RẒB"
+  },
+  {
+    "root": "GVBL",
+    "refers": "laughing gas (nitrous oxide)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTŘ",
+    "refers": "glycerin (trihydroxy propanol)",
+    "see": "RẒB"
+  },
+  {
+    "root": "GVBR",
+    "refers": "methane",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTÇ",
+    "refers": "oil of vitriol (sulfuric acid)",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTH",
+    "refers": "formalin / aqueous formaldehyde solution",
+    "see": "RẒB"
+  },
+  {
+    "root": "KFTHW",
+    "refers": "muriatic acid (hydrochloric acid)",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFK",
+    "refers": "vitamin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇZVL",
+    "refers": "peptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSG",
+    "refers": "androgen",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKW",
+    "refers": "vitamin A / retinol / beta-carotene",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇZVR",
+    "refers": "eicosanoid",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSGW",
+    "refers": "testosterone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKY",
+    "refers": "vitamin B₁ / thiamine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽP",
+    "refers": "hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSGY",
+    "refers": "dehydroepiandrosterone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKL",
+    "refers": "vitamin B₂ / riboflavin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPW",
+    "refers": "adrenaline",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSGL",
+    "refers": "androstenedione",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKR",
+    "refers": "vitamin B₃ / niacin / niacinamide",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPY",
+    "refers": "melatonin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSGR",
+    "refers": "dihydrotestosterone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKŘ",
+    "refers": "vitamin B₅ / pantothenic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPL",
+    "refers": "norepinephrine",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSB",
+    "refers": "estrogen",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKÇ",
+    "refers": "vitamin B₆ / pyridoxine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPR",
+    "refers": "triiodothyronine",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSBW",
+    "refers": "estradiol",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKF",
+    "refers": "vitamin B₇ / biotin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPŘ",
+    "refers": "thyroxine",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSBY",
+    "refers": "estrone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKŢ",
+    "refers": "vitamin B₈ / folate / folic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPÇ",
+    "refers": "dopamine",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSBL",
+    "refers": "estriol",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFKM",
+    "refers": "vitamin B₁₂ / cobalamin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPF",
+    "refers": "prostaglandin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSBR",
+    "refers": "progestogen",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFG",
+    "refers": "vitamin C / ascorbic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPŢ",
+    "refers": "leukotriene",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSBŘ",
+    "refers": "progesterone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFGW",
+    "refers": "vitamin D₂ / ergocalciferol",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPĻ",
+    "refers": "prostacyclin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSM",
+    "refers": "corticoid",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFGY",
+    "refers": "vitamin D₃ / cholecalciferol",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŽPH",
+    "refers": "thromboxane",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSMW",
+    "refers": "aldosterone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFGL",
+    "refers": "vitamin E / tocopherol / tocotrienol",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTP",
+    "refers": "amylin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSMY",
+    "refers": "cortisol",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFGR",
+    "refers": "vitamin K / phylloquinone /menaquinone",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPW",
+    "refers": "anti-Müllerian hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSN",
+    "refers": "steroid",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFX",
+    "refers": "omega-3 fatty acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPY",
+    "refers": "adiponectin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSNW",
+    "refers": "secosteroid",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFXW",
+    "refers": "omega-6 fatty acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPL",
+    "refers": "corticotropin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSNY",
+    "refers": "calcitriol",
+    "see": "RẒB"
+  },
+  {
+    "root": "PFXR",
+    "refers": "omega-9 fatty acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPR",
+    "refers": "angiotensin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSŇ",
+    "refers": "calcidiol",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇP",
+    "refers": "protein",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPŘ",
+    "refers": "angiotensinogen",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSD",
+    "refers": "thyroglobulin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPW",
+    "refers": "nucleic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPÇ",
+    "refers": "vasopressin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSDW",
+    "refers": "troponin I",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPY",
+    "refers": "ribonucleic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPF",
+    "refers": "brain natriuretic peptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSDY",
+    "refers": "troponin T",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPL",
+    "refers": "deoxyribonucleic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPŢ",
+    "refers": "calcitonin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSDL",
+    "refers": "creatine kinase",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPR",
+    "refers": "nucleoside",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPĻ",
+    "refers": "cholecystokinin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSDR",
+    "refers": "prostate specific antigen",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPŘ",
+    "refers": "nucleotide",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇTPH",
+    "refers": "corticotropin-releasing hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSDŘ",
+    "refers": "carcinoembryonic antigen",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPÇ",
+    "refers": "adenine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFP",
+    "refers": "cortistatin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFB",
+    "refers": "alpha fetoprotein",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPF",
+    "refers": "cytosine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPW",
+    "refers": "enkephalin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFBW",
+    "refers": "myoglobin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPŢ",
+    "refers": "guanine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPY",
+    "refers": "endothelin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFBY",
+    "refers": "bilirubin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPĻ",
+    "refers": "thymine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPL",
+    "refers": "erythropoietin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFBL",
+    "refers": "hemoglobin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇPH",
+    "refers": "uracil",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPR",
+    "refers": "follicle-stimulating hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFBR",
+    "refers": "ceruloplasmin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇŇ",
+    "refers": "ferritin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPŘ",
+    "refers": "galanin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFG",
+    "refers": "pyruvate",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇŇW",
+    "refers": "C-reactive protein",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPÇ",
+    "refers": "gastric inhibitory polypeptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFGW",
+    "refers": "uric acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇB",
+    "refers": "amino acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPF",
+    "refers": "gastrin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFGY",
+    "refers": "urea",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇBW",
+    "refers": "histidine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPŢ",
+    "refers": "ghrelin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFGL",
+    "refers": "lactate",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇBY",
+    "refers": "isoleucine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFPH",
+    "refers": "glucagon",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFGR",
+    "refers": "creatinine",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇBL",
+    "refers": "leucine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFK",
+    "refers": "glucagon-like peptide 1",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFGŘ",
+    "refers": "haptoglobin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇBR",
+    "refers": "lysine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKW",
+    "refers": "gonadotropin-releasing hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFD",
+    "refers": "cholesterol",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇBŘ",
+    "refers": "methionine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKY",
+    "refers": "hepcidin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFDW",
+    "refers": "high-density lipoprotein",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇG",
+    "refers": "phenylalanine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKL",
+    "refers": "human chorionic gonadotropin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFDY",
+    "refers": "low-density lipoprotein",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇGW",
+    "refers": "threonine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKR",
+    "refers": "growth hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFDL",
+    "refers": "triglyceride",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇGY",
+    "refers": "tryptophan",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKŘ",
+    "refers": "inhibin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFDR",
+    "refers": "alpha-1 antitrypsin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇGL",
+    "refers": "valine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKÇ",
+    "refers": "insulin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MFDŘ",
+    "refers": "transferrin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇGR",
+    "refers": "arginine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKF",
+    "refers": "somatomedin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSV",
+    "refers": "fibrinogem",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇGŘ",
+    "refers": "cystine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKŢ",
+    "refers": "leptin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSVW",
+    "refers": "albumin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇD",
+    "refers": "glutamine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKM",
+    "refers": "lipotropin",
+    "see": "RẒB"
+  },
+  {
+    "root": "MSVY",
+    "refers": "enzyme",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇDW",
+    "refers": "glycine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKN",
+    "refers": "luteinizing hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇDY",
+    "refers": "proline",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKS",
+    "refers": "melanocyte stimulating hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇDL",
+    "refers": "tyrosine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKŠ",
+    "refers": "motilin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇDR",
+    "refers": "alanine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇFKH",
+    "refers": "orexin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇDŘ",
+    "refers": "aspartic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢP",
+    "refers": "osteocalcin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇF",
+    "refers": "asparagine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPW",
+    "refers": "oxytocin / pitocin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇFW",
+    "refers": "glutamic acid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPY",
+    "refers": "pancreatic polypeptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇFY",
+    "refers": "serine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPL",
+    "refers": "parathyroid hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇFL",
+    "refers": "selenocysteine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPR",
+    "refers": "pituitary adenylate cyclase-activating peptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇFR",
+    "refers": "pyrrolysine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPŘ",
+    "refers": "prolactin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇFŘ",
+    "refers": "taurine",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPÇ",
+    "refers": "prolactin-releasing hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇTW",
+    "refers": "choline",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPF",
+    "refers": "relaxin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇTY",
+    "refers": "inositol",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPŢ",
+    "refers": "renin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇTL",
+    "refers": "polyphenol / lignan",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPĻ",
+    "refers": "secretin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇTR",
+    "refers": "flavonoid",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢPH",
+    "refers": "somatostatin",
+    "see": "RẒB"
+  },
+  {
+    "root": "PÇTŘ",
+    "refers": "resveratrol",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢF",
+    "refers": "thrombopoietin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢFW",
+    "refers": "thyroid-stimulating hormone",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢFY",
+    "refers": "vasoactive intestinal peptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢFL",
+    "refers": "guanylin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢFR",
+    "refers": "uroguanylin",
+    "see": "RẒB"
+  },
+  {
+    "root": "ŇŢFŘ",
+    "refers": "ventricular natriuretic peptide",
+    "see": "RẒB"
+  },
+  {
+    "root": "SY",
+    "refers": "SUBSTANCE / MATERIAL / WHAT SOMETHING CONSISTS OF OR IS COMPOSED/MADE OF",
+    "stems": [
+      {
+        "BSC": "(to be a) an instance/amount of a material substance; (to be a) manifestation of matter/material/ “stuff” / something material — [both the substance itself and the form/entity consisting thereof]",
+        "CTE": "(to be) the material substance of which something consists or is made; something material",
+        "CSV": "(to be) a form taken by something material, the shape/form of something material",
+        "OBJ": "(to be) an object/entity made from or consisting of a particular material"
+      },
+      "(to be) a state of consisting of or being composed/made of a particular material substance; to consist of/be composed of/made (out) of a particular material/substance",
+      "(to be/manifest a) material consistency, (i.e., a discernible (quasi-)tactile or (quasi-)visual or other (quasi-)sensory attribute/quality/characteristic)"
+    ]
+  },
+  {
+    "root": "NDW",
+    "refers": "dirt / earth / soil",
+    "see": "SY"
+  },
+  {
+    "root": "TĻM",
+    "refers": "plastic",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽK",
+    "refers": "polystyrene",
+    "see": "SY"
+  },
+  {
+    "root": "NDM",
+    "refers": "clay",
+    "see": "SY"
+  },
+  {
+    "root": "KSY",
+    "refers": "metal",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKW",
+    "refers": "polystyrene foam (“styrofoam”)",
+    "see": "SY"
+  },
+  {
+    "root": "NTF",
+    "refers": "sand",
+    "see": "SY"
+  },
+  {
+    "root": "KSV",
+    "refers": "steel / metal alloy",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKY",
+    "refers": "polyethylene",
+    "see": "SY"
+  },
+  {
+    "root": "NTFW",
+    "refers": "lava",
+    "see": "SY"
+  },
+  {
+    "root": "XTW",
+    "refers": "ceramic",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKL",
+    "refers": "polypropylene",
+    "see": "SY"
+  },
+  {
+    "root": "NTÇ",
+    "refers": "tar / pitch",
+    "see": "SY"
+  },
+  {
+    "root": "XTY",
+    "refers": "porcelain",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKR",
+    "refers": "polycarbonate",
+    "see": "SY"
+  },
+  {
+    "root": "NTW",
+    "refers": "oil (plant-derived)",
+    "see": "SY"
+  },
+  {
+    "root": "XMW",
+    "refers": "plaster",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKŘ",
+    "refers": "fiberglass",
+    "see": "SY"
+  },
+  {
+    "root": "NTY",
+    "refers": "petroleum",
+    "see": "SY"
+  },
+  {
+    "root": "XMY",
+    "refers": "mortar",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKF",
+    "refers": "linoleum",
+    "see": "SY"
+  },
+  {
+    "root": "NTŘ",
+    "refers": "latex (natural)",
+    "see": "SY"
+  },
+  {
+    "root": "XNW",
+    "refers": "adobe",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKŢ",
+    "refers": "polyurethane",
+    "see": "SY"
+  },
+  {
+    "root": "NDR",
+    "refers": "wood",
+    "see": "SY"
+  },
+  {
+    "root": "XNY",
+    "refers": "cement / concrete",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKÇ",
+    "refers": "plexiglass (polymethyl methacrylate)",
+    "see": "SY"
+  },
+  {
+    "root": "MNW",
+    "refers": "honey",
+    "see": "SY"
+  },
+  {
+    "root": "BXW",
+    "refers": "brick",
+    "see": "SY"
+  },
+  {
+    "root": "ŇŽKH",
+    "refers": "epoxy (i.e., polyepoxide)",
+    "see": "SY"
+  },
+  {
+    "root": "MTÇ",
+    "refers": "wax",
+    "see": "SY"
+  },
+  {
+    "root": "TTW",
+    "refers": "glass",
+    "see": "SY"
+  },
+  {
+    "root": "NTV",
+    "refers": "latex (synthetic)",
+    "see": "SY"
+  },
+  {
+    "root": "LTV",
+    "refers": "silk",
+    "see": "SY"
+  },
+  {
+    "root": "TTY",
+    "refers": "enamel",
+    "see": "SY"
+  },
+  {
+    "root": "NZX",
+    "refers": "polymer",
+    "see": "SY"
+  },
+  {
+    "root": "LTH",
+    "refers": "ivory",
+    "see": "SY"
+  },
+  {
+    "root": "TTŘ",
+    "refers": "tile",
+    "see": "SY"
+  },
+  {
+    "root": "NZXW",
+    "refers": "cyanoacrylate",
+    "see": "SY"
+  },
+  {
+    "root": "PNW",
+    "refers": "starch (amylose/amylopectin)",
+    "see": "SY"
+  },
+  {
+    "root": "ŽTÇ",
+    "refers": "asphalt / bitumen",
+    "see": "SY"
+  },
+  {
+    "root": "NZXL",
+    "refers": "polyfluoroalkyl substance (PFAS)",
+    "see": "SY"
+  },
+  {
+    "root": "PNY",
+    "refers": "cork",
+    "see": "SY"
+  },
+  {
+    "root": "SNW",
+    "refers": "vinyl (i.e., polyvinyl chloride)",
+    "see": "SY"
+  },
+  {
+    "root": "NDG",
+    "refers": "resin",
+    "see": "SY"
+  },
+  {
+    "root": "SNY",
+    "refers": "nylon",
+    "see": "SY"
+  },
+  {
+    "root": "NZD",
+    "refers": "brine",
+    "see": "SY"
+  },
+  {
+    "root": "ḐGW",
+    "refers": "paper",
+    "see": "SY"
+  },
+  {
+    "root": "NZB",
+    "refers": "shellac",
+    "see": "SY"
+  },
+  {
+    "root": "ḐGY",
+    "refers": "cardboard",
+    "see": "SY"
+  },
+  {
+    "root": "BGV",
+    "refers": "grease (synthetic lubricant)",
+    "see": "SY"
+  },
+  {
+    "root": "VNW",
+    "refers": "leather",
+    "see": "SY"
+  },
+  {
+    "root": "BGŘ",
+    "refers": "non-greasy lubricant",
+    "see": "SY"
+  },
+  {
+    "root": "VNY",
+    "refers": "cloth / fabric / textile",
+    "see": "SY"
+  },
+  {
+    "root": "TPY",
+    "refers": "rubber",
+    "see": "SY"
+  },
+  {
+    "root": "LTN",
+    "refers": "ink",
+    "see": "SY"
+  },
+  {
+    "root": "GGŘ",
+    "refers": "mineral",
+    "see": "SY"
+  },
+  {
+    "root": "GVY",
+    "refers": "diamond",
+    "see": "SY"
+  },
+  {
+    "root": "GGW",
+    "refers": "stone (material substance)",
+    "see": "SY"
+  },
+  {
+    "root": "GVM",
+    "refers": "sapphire",
+    "see": "SY"
+  },
+  {
+    "root": "GGY",
+    "refers": "marble",
+    "see": "SY"
+  },
+  {
+    "root": "GVN",
+    "refers": "ruby",
+    "see": "SY"
+  },
+  {
+    "root": "GGL",
+    "refers": "limestone",
+    "see": "SY"
+  },
+  {
+    "root": "GVW",
+    "refers": "emerald",
+    "see": "SY"
+  },
+  {
+    "root": "GGR",
+    "refers": "chalk",
+    "see": "SY"
+  },
+  {
+    "root": "GVL",
+    "refers": "opal",
+    "see": "SY"
+  },
+  {
+    "root": "GDŘ",
+    "refers": "granite",
+    "see": "SY"
+  },
+  {
+    "root": "GVG",
+    "refers": "crystal",
+    "see": "SY"
+  },
+  {
+    "root": "GBŘ",
+    "refers": "basalt",
+    "see": "SY"
+  },
+  {
+    "root": "STĻ",
+    "refers": "jade",
+    "see": "SY"
+  },
+  {
+    "root": "GBW",
+    "refers": "serpentine",
+    "see": "SY"
+  },
+  {
+    "root": "ŘTĻ",
+    "refers": "topaz",
+    "see": "SY"
+  },
+  {
+    "root": "GBY",
+    "refers": "syenite",
+    "see": "SY"
+  },
+  {
+    "root": "ŇTĻ",
+    "refers": "aquamarine",
+    "see": "SY"
+  },
+  {
+    "root": "GḐL",
+    "refers": "quartz",
+    "see": "SY"
+  },
+  {
+    "root": "FTĻ",
+    "refers": "amethyst",
+    "see": "SY"
+  },
+  {
+    "root": "GḐR",
+    "refers": "quartzite",
+    "see": "SY"
+  },
+  {
+    "root": "ḐTĻ",
+    "refers": "alexandrite",
+    "see": "SY"
+  },
+  {
+    "root": "GNW",
+    "refers": "slate",
+    "see": "SY"
+  },
+  {
+    "root": "LTĻ",
+    "refers": "turquoise",
+    "see": "SY"
+  },
+  {
+    "root": "GNY",
+    "refers": "coal",
+    "see": "SY"
+  },
+  {
+    "root": "MTĻ",
+    "refers": "spinel",
+    "see": "SY"
+  },
+  {
+    "root": "GFL",
+    "refers": "gneiss",
+    "see": "SY"
+  },
+  {
+    "root": "RTĻ",
+    "refers": "malachite",
+    "see": "SY"
+  },
+  {
+    "root": "GFR",
+    "refers": "calcite",
+    "see": "SY"
+  },
+  {
+    "root": "PTĻ",
+    "refers": "garnet",
+    "see": "SY"
+  },
+  {
+    "root": "GFŘ",
+    "refers": "gypsum (calcium sulfate dihydrate)",
+    "see": "SY"
+  },
+  {
+    "root": "KTĻ",
+    "refers": "zircon",
+    "see": "SY"
+  },
+  {
+    "root": "GVŘ",
+    "refers": "obsidian",
+    "see": "SY"
+  },
+  {
+    "root": "JTĻ",
+    "refers": "lapis lazuli",
+    "see": "SY"
+  },
+  {
+    "root": "GZF",
+    "refers": "feldspar",
+    "see": "SY"
+  },
+  {
+    "root": "GTĻ",
+    "refers": "ammolite",
+    "see": "SY"
+  },
+  {
+    "root": "GŽG",
+    "refers": "pyroxene",
+    "see": "SY"
+  },
+  {
+    "root": "ZTĻ",
+    "refers": "agate",
+    "see": "SY"
+  },
+  {
+    "root": "GFW",
+    "refers": "mica",
+    "see": "SY"
+  },
+  {
+    "root": "CTĻ",
+    "refers": "alabaster",
+    "see": "SY"
+  },
+  {
+    "root": "GFY",
+    "refers": "amphibole",
+    "see": "SY"
+  },
+  {
+    "root": "GZL",
+    "refers": "schist",
+    "see": "SY"
+  },
+  {
+    "root": "ŢDW",
+    "refers": "amber",
+    "see": "SY"
+  },
+  {
+    "root": "GZR",
+    "refers": "shale",
+    "see": "SY"
+  },
+  {
+    "root": "ŢDY",
+    "refers": "jet",
+    "see": "SY"
+  },
+  {
+    "root": "GZM",
+    "refers": "tuff / volcanic tuff",
+    "see": "SY"
+  },
+  {
+    "root": "ŢDL",
+    "refers": "pearl",
+    "see": "SY"
+  },
+  {
+    "root": "GZN",
+    "refers": "pumice",
+    "see": "SY"
+  },
+  {
+    "root": "ŢDŘ",
+    "refers": "petrified wood",
+    "see": "SY"
+  },
+  {
+    "root": "GŢW",
+    "refers": "igneous rock",
+    "see": "SY"
+  },
+  {
+    "root": "GŢY",
+    "refers": "sedimentary rock",
+    "see": "SY"
+  },
+  {
+    "root": "GŢL",
+    "refers": "metamorphic rock",
+    "see": "SY"
+  }
+]

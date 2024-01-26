@@ -1,0 +1,627 @@
+[
+  {
+    "root": "FŘ",
+    "refers": "SHAPE / FORM / FIGURE",
+    "stems": [
+      {
+        "BSC": "(to be/manifest) a two-dimensional shape or outline form — [both the shape and the entity manifesting that shape]",
+        "CTE": "(to be) the entity manifesting a particular 2-D shape or outline form",
+        "CSV": "(to be/manifest) a two-dimensional shape or outline form",
+        "OBJ": "(to be) the background or “negative space” behind a 2-dimensional shape or outline form"
+      },
+      "(to be/manifest) a three-dimensional shape/form",
+      "(to be a) figure (reminiscent of something) based on shape/form"
+    ],
+    "notes": "Associated Affix: SHP"
+  },
+  {
+    "root": "ŘFŘ",
+    "refers": "CONTOUR / OUTLINE / MOLD / CAST",
+    "stems": [
+      "(to be/manifest a) two-dimensional contour, pattern, or outline as a representation/model for something",
+      "(to be/manifest a) three-dimensional contour, pattern, or outline as a representation/model for something",
+      "(to be a) mold/pattern/cast (of/for something)"
+    ],
+    "see": "FŘ"
+  },
+  {
+    "root": "JB",
+    "refers": "TWO-DIMENSIONAL DECORATIVE PATTERN/TEXTURE",
+    "stems": [
+      {
+        "BSC": "(to be/manifest) a two-dimensional (quasi-)overlying simple visual surface design/pattern (= repetitive visual design)— [both the design/pattern and the entity manifesting such]",
+        "CTE": "(to be) something manifesting a 2-D overlying simple visual surface pattern",
+        "CSV": "(to be) a 2-D (quasi-)overlying simple visual surface pattern",
+        "OBJ": "(to be) the background upon or over which a 2-dimensional overlying design/pattern appears"
+      },
+      "(to be/manifest) a two-dimensional (quasi-)overlying complex/multi-faced visual surface pattern (= complex repetitive visual design)",
+      "(to be/manifest a) two-dimensional (quasi-)overlying visual surface texture (= repetitive visual-tactile design)"
+    ],
+    "notes": "Affix: PAT"
+  },
+  {
+    "root": "CKL",
+    "refers": "OPEN-ENDED LINEAR OUTLINE SHAPE",
+    "stems": [
+      {
+        "BSC": "(be) an open-ended (quasi-)linear outline shape (i.e. for describing the outline shape of any visual or tactile object/entity), e.g., an arc, a straight line, an S-shape, a V-shape, a squiggly line, etc.",
+        "CTE": "(be) the state of having a particular (quasi-)linear outline shape",
+        "CSV": "(be) the act of discerning/observing/perceiving a (quasi-)linear outline shape",
+        "OBJ": "(be) an object/entity which manifests the particular (quasi-)linear outline shape"
+      },
+      "(be) the (quasi-)planar extension (in 3-dimensional space) of the Stem 1 linear shape, e.g., a hemisphere shape based on the Stem-1 linear shape of an arc, or a notch- or wedge-shaped indentation based on the  Stem-1 linear shape of a V-shape.",
+      "(be) the “negative” space delineated by a (quasi-)linear outline shape, e.g., the pointed area of one's plane of vision created as the negative space set off by something in the foreground having a V-shaped outline."
+    ]
+  },
+  {
+    "root": "VŘ",
+    "refers": "STRAIGHT LINE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "PLW",
+    "refers": "RIGHT-ANGLE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "PLY",
+    "refers": "ACUTE-ANGLE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "FTY",
+    "refers": "OBTUSE-ANGLE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "JKL",
+    "refers": "W-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "JKR",
+    "refers": "SAWTOOTH-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "JKH",
+    "refers": "STAIRCASE-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "VTÇ",
+    "refers": "3-POINTED SHAPE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "KSMY",
+    "refers": "IRREGULAR POINTS",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ḐGL",
+    "refers": "ARC",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "MKŘ",
+    "refers": "SEMI-CIRCLE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "NZŘ",
+    "refers": "CIRCULAR",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "GBL",
+    "refers": "HUMPED-SHAPE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ÇBŘ",
+    "refers": "U-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "GBR",
+    "refers": "DOUBLE-HUMPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "GZB",
+    "refers": "S-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "KŢM",
+    "refers": "BULLET-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "KŢK",
+    "refers": "ARISTATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "KŢTĻ",
+    "refers": "MUCRONATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "KŢN",
+    "refers": "FLATTENED ARISTATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "JBL",
+    "refers": "FLATTENED BULLET-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ḐDL",
+    "refers": "SCALLOP-SHELL-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ḐDW",
+    "refers": "TRUNCATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "VGL",
+    "refers": "SPADE-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ŽTY",
+    "refers": "POINTED SPADE-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "XPY",
+    "refers": "WEDGE-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "XPR",
+    "refers": "CONCAVE WEDGE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ẒGL",
+    "refers": "Y-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "MNY",
+    "refers": "TRIPLE-LOBE",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "SSKY",
+    "refers": "IRREGULAR LINEAR",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "PFW",
+    "refers": "TOOTH- SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "PFY",
+    "refers": "AURICULATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "PFČ",
+    "refers": "OBCORDATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "PFR",
+    "refers": "PAIRED LOBES",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ŘFL",
+    "refers": "ROUNDED Y-SHAPED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "ŘFY",
+    "refers": "HASTATE*",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.\n\n* Term borrowed from biology/botany for a particular leaf shape.",
+    "see": "CKL"
+  },
+  {
+    "root": "ŘTŘ",
+    "refers": "MIXED ROUNDED & POINTED",
+    "notes": "The English names given each shape are, in many cases, rather stilted given the absence of concise nomenclature being available. Note also that the directional orientation of the shape as shown is arbitrary and irrelevant.",
+    "see": "CKL"
+  },
+  {
+    "root": "CKR",
+    "refers": "CLOSED LINEAR OUTLINE SHAPE",
+    "stems": [
+      {
+        "BSC": "(be) a closed (quasi-)linear outline shape (i.e. for describing the outline shape of any visual or tactile object/entity)",
+        "CTE": "(be) the state of having a particular closed (quasi-)linear outline shape",
+        "CSV": "(be) the act of discerning/observing/perceiving a closed (quasi-)linear outline shape",
+        "OBJ": "(be) an object/entity which manifests the particular closed (quasi-)linear outline shape"
+      },
+      "(be) a (quasi-)planar object/entity whose edge(s) constitute the Stem 1 closed linear shape, e.g., a cookie in the shape of a circle, or a stop-sign in the shape of an octagon.",
+      "(be) the background “negative” space delineated by a closed (quasi-)linear outline shape, e.g., the area of one's plane of vision with a “hole” in it, created as the negative space set off by something in the foreground having a closed-linear outline."
+    ]
+  },
+  {
+    "root": "PŠL",
+    "refers": "SQUARE",
+    "see": "CKR"
+  },
+  {
+    "root": "KŠL",
+    "refers": "RECTANGLE",
+    "see": "CKR"
+  },
+  {
+    "root": "ZL",
+    "refers": "ISOSCELES TRIANGLE",
+    "see": "CKR"
+  },
+  {
+    "root": "ŘZL",
+    "refers": "SCALENE TRIANGLE",
+    "see": "CKR"
+  },
+  {
+    "root": "RZL",
+    "refers": "RIGHT TRIANGLE",
+    "see": "CKR"
+  },
+  {
+    "root": "RPŠL",
+    "refers": "DIAMOND SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "ŘPŠL",
+    "refers": "RHOMBOID",
+    "see": "CKR"
+  },
+  {
+    "root": "NZL",
+    "refers": "CIRCLE",
+    "see": "CKR"
+  },
+  {
+    "root": "MZL",
+    "refers": "ELLIPSE",
+    "see": "CKR"
+  },
+  {
+    "root": "KKL",
+    "refers": "SLIVER-MOON SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "MKL",
+    "refers": "HALF-MOON SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "KKR",
+    "refers": "GIBBOUS-MOON SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "SBL",
+    "refers": "TEARDROP-SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "SSKL",
+    "refers": "IRREGULAR ROUNDED SHAPE",
+    "see": "CKR"
+  },
+  {
+    "root": "LPŠL",
+    "refers": "TRAPEZOID",
+    "see": "CKR"
+  },
+  {
+    "root": "STL",
+    "refers": "PENTAGON",
+    "see": "CKR"
+  },
+  {
+    "root": "CPL",
+    "refers": "HEXAGON",
+    "see": "CKR"
+  },
+  {
+    "root": "NSL",
+    "refers": "HEPTAGON",
+    "see": "CKR"
+  },
+  {
+    "root": "ČKL",
+    "refers": "OCTAGON",
+    "see": "CKR"
+  },
+  {
+    "root": "KŠŘ",
+    "refers": "DOUBLY-TRUNCATED SQUARE",
+    "see": "CKR"
+  },
+  {
+    "root": "KSML",
+    "refers": "IRREGULAR POLYGONOID",
+    "see": "CKR"
+  },
+  {
+    "root": "NZM",
+    "refers": "ROUNDED SQUARE",
+    "see": "CKR"
+  },
+  {
+    "root": "LKŠL",
+    "refers": "ROUNDED RECTANGLE",
+    "see": "CKR"
+  },
+  {
+    "root": "NZVL",
+    "refers": "OVAL",
+    "see": "CKR"
+  },
+  {
+    "root": "ÇBL",
+    "refers": "HALF-ROUNDED SQUARE",
+    "see": "CKR"
+  },
+  {
+    "root": "TBL",
+    "refers": "THICK ARCH SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "ZBL",
+    "refers": "VALENTINE SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "FPŠ",
+    "refers": "CROSS- or X-SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "VKL",
+    "refers": "ARROW-SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "BŽV",
+    "refers": "MUSHROOM-SHAPED",
+    "see": "CKR"
+  },
+  {
+    "root": "PŠŘ",
+    "refers": "4-POINTED STAR",
+    "see": "CKR"
+  },
+  {
+    "root": "STŘ",
+    "refers": "5-POINTED STAR",
+    "see": "CKR"
+  },
+  {
+    "root": "CPŘ",
+    "refers": "SIX-POINTED STAR",
+    "see": "CKR"
+  },
+  {
+    "root": "SKL",
+    "refers": "MULTI-POINTED STAR",
+    "see": "CKR"
+  },
+  {
+    "root": "VKW",
+    "refers": "SPIKED CIRCLE",
+    "see": "CKR"
+  },
+  {
+    "root": "TĻK",
+    "refers": "THREE-DIMENSIONAL FORM/LATTICE",
+    "stems": [
+      {
+        "BSC": "(be) a solid three-dimensional outline form/shape, as determined by the holistic structure of its planar surfaces (e.g., a cube, a sphere, a pyramidal shape, etc.)",
+        "CTE": "(be) the state of having a particular three-dimensional outline form/shape",
+        "CSV": "(be) the act of discerning/observing/perceiving a three-dimensional outline form/shape",
+        "OBJ": "(be) an object/entity which manifests the particular three-dimensional outline form/shape"
+      },
+      "[same as stem 1 except that the 3-dimensional form is hollow, consisting only of the collection of surface planes or geodesic/curved plane]",
+      "(be) a a three-dimensional lattice form/shape, as determined by the collective structure/lattice formed by its linear edges (e.g., a cube-shaped lattice formed from eight linear elements of equal length whose end-points are connected to two others at right angles, a lattice in the form of a sphere, a pyramid-shaped lattice, etc.)"
+    ]
+  },
+  {
+    "root": "NZW",
+    "refers": "SPHERE",
+    "see": "TĻK"
+  },
+  {
+    "root": "PŠR",
+    "refers": "CUBE",
+    "see": "TĻK"
+  },
+  {
+    "root": "KŠR",
+    "refers": "RECTANGULAR CUBOID",
+    "see": "TĻK"
+  },
+  {
+    "root": "NZN",
+    "refers": "CYLINDER",
+    "see": "TĻK"
+  },
+  {
+    "root": "NZY",
+    "refers": "CONE",
+    "see": "TĻK"
+  },
+  {
+    "root": "PŠN",
+    "refers": "TETRAHEDRON",
+    "see": "TĻK"
+  },
+  {
+    "root": "ZR",
+    "refers": "PYRAMID",
+    "see": "TĻK"
+  },
+  {
+    "root": "MKW",
+    "refers": "HEMISPHERE",
+    "see": "TĻK"
+  },
+  {
+    "root": "MZW",
+    "refers": "ELLIPSOID",
+    "see": "TĻK"
+  },
+  {
+    "root": "RČKW",
+    "refers": "TRIANGULAR OCTAHEDRON",
+    "see": "TĻK"
+  },
+  {
+    "root": "TBW",
+    "refers": "TORUS",
+    "see": "TĻK"
+  },
+  {
+    "root": "TBY",
+    "refers": "HALF-TORUS",
+    "see": "TĻK"
+  },
+  {
+    "root": "RZR",
+    "refers": "EQUILATERAL TRIANGULAR PRISM SHAPE",
+    "see": "TĻK"
+  },
+  {
+    "root": "NZVW",
+    "refers": "OVOID",
+    "see": "TĻK"
+  },
+  {
+    "root": "NZR",
+    "refers": "DISC",
+    "see": "TĻK"
+  },
+  {
+    "root": "MZR",
+    "refers": "LOZENGE SHAPE",
+    "notes": "[i.e., same as ovoid except that width-wise cross-section is an oval or ellipse rather than a circle]",
+    "see": "TĻK"
+  },
+  {
+    "root": "ÇBW",
+    "refers": "ROUND-TOPPED CYLINDER",
+    "see": "TĻK"
+  },
+  {
+    "root": "SKR",
+    "refers": "3-DIMENSIONAL MULTI-POINTED STAR",
+    "see": "TĻK"
+  },
+  {
+    "root": "VKF",
+    "refers": "3-DIMENSIONAL SPIKED SPHEROID",
+    "see": "TĻK"
+  },
+  {
+    "root": "KSMR",
+    "refers": "3-DIMENSIONAL IRREGULAR POLYHEDRON",
+    "see": "TĻK"
+  },
+  {
+    "root": "SSKR",
+    "refers": "3-DIMENSIONAL IRREGULAR “AMOEBOID” SHAPE",
+    "see": "TĻK"
+  },
+  {
+    "root": "ÇBR",
+    "refers": "ROUND-TOPPED CUBOID",
+    "see": "TĻK"
+  },
+  {
+    "root": "LPŠR",
+    "refers": "TRUNCATED PYRAMID",
+    "see": "TĻK"
+  },
+  {
+    "root": "ŇBL",
+    "refers": "polygon",
+    "notes": "[for a polygon with a specific number of sides more than eight, concatenate a number stem with either COMPOSITIVE format or UTILITATIVE format into this root]",
+    "see": "TĻK"
+  },
+  {
+    "root": "ŠBL",
+    "refers": "polyhedron",
+    "notes": "[for a polyhedron with a specific number of faces more than eight, concatenate a number stem with either COMPOSITIVE format or UTILITATIVE format into this root]",
+    "see": "TĻK"
+  },
+  {
+    "root": "RNZM",
+    "refers": "concave disc",
+    "notes": "i.e., shaped like a Life-Saver piece of candy",
+    "see": "TĻK"
+  },
+  {
+    "root": "RNZN",
+    "refers": "half-concave disc",
+    "notes": "i.e., concave lens-shaped",
+    "see": "TĻK"
+  },
+  {
+    "root": "RNZW",
+    "refers": "convex disc",
+    "notes": "i.e., convex lens-shaped",
+    "see": "TĻK"
+  }
+]
