@@ -16,11 +16,33 @@ type Root = {
     notes?: string
 };
 
-type Affix = null;
+type Degree = string | [string, string];
+
+type Affix = {
+  name: string;
+  description: string;
+  gradient_type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
+  affix: string;
+  degrees: [
+    Degree | null,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+  ];
+  notes?: string;
+};
 
 type Lexicon = {
     roots: Root[],
-    affixes: Affix[]
+    affixes: {
+        standard: Affix[],
+    },
 }
 
 export function mergeRoots(): Root[] {
@@ -42,18 +64,18 @@ export function mergeRoots(): Root[] {
     return target
 }
 
-export function mergeAffixes(): Affix[] {
+export function mergeStandardAffixes(): Affix[] {
     let target: Affix[] = []
 
     // Get filenames and sort
     const filenames: string[] = []
-    for (const { name } of Deno.readDirSync("./lexicon/affixes")) {
+    for (const { name } of Deno.readDirSync("./lexicon/affixes/standard")) {
         filenames.push(name)
     }
     filenames.sort();
 
     for (let i = 0; i < filenames.length; i++) {
-        const text = Deno.readTextFileSync(`lexicon/affixes/${filenames[i]}`);
+        const text = Deno.readTextFileSync(`lexicon/affixes/standard/${filenames[i]}`);
         const json: Affix[] = JSON.parse(text);
         target = target.concat(json)
     }
@@ -64,7 +86,9 @@ export function mergeAffixes(): Affix[] {
 export function bundle(): Lexicon {
     return {
         roots: mergeRoots(),
-        affixes: mergeAffixes()
+        affixes: {
+            standard: mergeStandardAffixes()
+        }
     }
 }
 
