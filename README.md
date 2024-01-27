@@ -39,7 +39,7 @@ type Lexicon = Array<Root>;
 ### Affixes
 
 ```ts
-type Degree = 
+type Degree =
   // Suitable for most situations
   | string
   // Suitable for the situation where the Type-2 of current affix has another meaning
@@ -53,7 +53,7 @@ type Affix = {
   degrees: [
     // Degree 0
     Degree | null,
-    // Below are Degree 1~9 
+    // Below are Degree 1~9
     Degree,
     Degree,
     Degree,
@@ -79,7 +79,7 @@ $ deno task json
 ```
 
 Generate a minified json file to `output/lexicon.json`, which includes all the
-roots.
+roots and affixes.
 
 ### `yaml`
 
@@ -87,4 +87,5 @@ roots.
 $ deno task yaml
 ```
 
-Generate a yaml file to `output/lexicon.yaml`, which includes all the roots.
+Generate a yaml file to `output/lexicon.yaml`, which includes all the roots and
+affixes.
