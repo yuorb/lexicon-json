@@ -1,568 +1,628 @@
 [
-  {
-    "affix": "r",
-    "gradient_type": "D1",
-    "name": "NEG",
-    "description": "Negation and Negative Coordinatives/Connectives",
-    "degrees": [
-      "emphatic relative negation contrary to expectation: on the contrary, ... is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!",
-      "emphatic relative negation: ... is not/does not X at all!; no X whatsoever!",
-      "relative negation contrary to expectation: on the contrary, ... is not/does not X; no X (despite any assertion otherwise)",
-      "relative negation: ... is not/does not X; no X",
-      "neither the preceding nor X",
-      "absolute negation: ... is not/does not X; no X",
-      "absolute negation contrary to expectation: on the contrary, ... is not/does not X; no X whatsoever.",
-      "emphatic absolute negation: ... is not/does not X at all!; no X whatsoever!",
-      "emphatic absolute negation contrary to expectation: on the contrary, ... is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!"
-    ]
-  },
-  {
-    "affix": "ck",
-    "gradient_type": "0",
-    "name": "DPC",
-    "description": "Dependent Circumstances (specifies the nature of the dependency signified by the redesigned DEPENDENT case)",
-    "degrees": [
-      "The contigency occurs iff X is true",
-      "The contigency occurs if X is true, not if unknown, maybe if false",
-      "The contigency occurs if X is true, maybe if unknown/false",
-      "The contigency occurs if X is true/unknown, maybe if false",
-      "The contigency occurs regardless of X is true or false",
-      "The contigency occurs if X is true, not if false, maybe if unknown",
-      "The contigency occurs if X is true/unknown, not if false",
-      "The contigency occurs depending (up)on X; however, the dependency value is unknown to speaker",
-      "The contigency occurs in case of X"
-    ],
-    "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if...”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\\n\\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
-  },
-  {
-    "affix": "čř",
-    "gradient_type": "C",
-    "name": "AFM",
-    "description": "Degree of Affirmation",
-    "degrees": [
-      "emphatic relative affirmation contrary to expectation: on the contrary... does (too) / is (too)",
-      "emphatic relative affirmation: does indeed / is indeed / most certainly does/is / truly is/does / really is/does",
-      "relative affirmation contrary to expectation",
-      "relative affirmation",
-      "yes to the preceding and X; yes to all and also X",
-      "absolute affirmation",
-      "absolute affirmation contrary to expectation",
-      "emphatic absolute affirmation: does indeed / is indeed / most certainly does/is",
-      "emphatic absolute affirmation contrary to expectation: on the contrary... does (too) / is (too)"
-    ]
-  },
-  {
-    "affix": "č",
-    "gradient_type": "0",
-    "name": "SWR",
-    "description": "Switch Reference & Obviative Specification",
-    "degrees": [
-      "nearest preceding referent",
-      "2nd nearest preceding referent",
-      "3rd party not previously mentioned",
-      "referring to sentence focus",
-      "first referent mentioned",
-      "referring to sentence topic",
-      "3rd party non-transrelative referent",
-      "2nd order transrelative referent",
-      "higher order transrelative referent"
-    ]
-  },
-  {
-    "affix": "n",
-    "gradient_type": "D1",
-    "name": "TPF",
-    "description": "Topic, Frame and Focus",
-    "degrees": [
-      "[end of frame]",
-      "[end of frame + head of relative clause]",
-      "[head of relative clause]",
-      "[sentence topic + head of relative clause]",
-      "[sentence topic]",
-      "[sentence topic + end of frame]",
-      "[sentence focus + end of frame + head of rel. clause]",
-      "[sentence focus + end of frame]",
-      "[sentence focus]"
-    ]
-  },
-  {
-    "affix": "rks",
-    "gradient_type": "A1",
-    "name": "CPP",
-    "description": "Capacity As Patient",
-    "degrees": [
-      "very easily X’d; very readily X’d [i.e., easy for another as Agent to perform/commit/initiate/establish an act/state of X upon one as Patient]",
-      "fairly/rather easily X’d; fairly readily X’d",
-      "not too difficult to be X’d; somewhat easily X’d",
-      "somewhat difficult to be X’d; not too easily X’d",
-      "difficult to be X’d",
-      "rather/quite difficult to be X’d",
-      "extremely difficult to be X’d",
-      "almost impossible to be X’d",
-      "impossible for one to be X’d"
-    ]
-  },
-  {
-    "affix": "lč",
-    "gradient_type": "0",
-    "name": "SIA",
-    "description": "Status of Inferred Arguments",
-    "degrees": [
-      "only explicitly stated arguments are implied, no unstated arguments should be inferred",
-      "only logically required arguments are implied or should be inferred (e.g., a STIMULUS for a state of external sensory input, a RECIPIENT for an act of transferring possession); unstated arguments that are logically unnecessary but possible should not be inferred",
-      "logically required arguments should be inferred; logically unnecessary but possible arguments (e.g., INSTRUMENTAL, SITUATIVE, DEPENDENT, or Temporal) may be inferred",
-      "logically unnecessary but possible arguments may be inferred, logically required arguments are ONLY those explicitly stated",
-      "OK to infer an affective STIMULUS only, no other unstated arguments implied",
-      "OK to infer an ERG or EFF agent only, no other unstated arguments implied",
-      "OK to infer a temporal context/argument plus any logically required arguments",
-      "OK to infer an INSTRUMENTAL argument plus any logically required arguments",
-      "OK to infer a SITUATIVE or a DEPENDENT argument  (i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame) plus any logically required arguments"
-    ]
-  },
-  {
-    "affix": "ňç",
-    "gradient_type": "B",
-    "name": "VRF",
-    "description": "Verifiability of Info & Trustworthiness of its Source",
-    "degrees": [
-      "source trustworthy, info verifiable",
-      "source trustworthy, verifiability of info unknown",
-      "source trustworthy, info not verifiable",
-      "trustworthiness of source unknown, but info verifiable",
-      "trustworthiness of source unknown, and verifiability of info unknown",
-      "trustworthiness of source unknown, and info not verifiable",
-      "source untrustworthy, but info verifiable",
-      "source untrustworthy, and verifiability of info unknown",
-      "source untrustworthy, and info not verifiable"
-    ]
-  },
-  {
-    "affix": "čt",
-    "gradient_type": "0",
-    "name": "IPC",
-    "description": "Unforeseen Implication Contrary to Expectation",
-    "degrees": [
-      "this means/implies…",
-      "nevertheless,…",
-      "anyway/at any rate…",
-      "at least…",
-      "by the way... / just to mention...",
-      "not to change the subject, but… / sorry to change the subject, but...",
-      "as a matter of fact…",
-      "well, what do you know… / ....after all (who would’ve guessed?",
-      "like it or not… / well, as much as we didn’t want to believe it could happen..."
-    ]
-  },
-  {
-    "affix": "m",
-    "gradient_type": "D1",
-    "name": "EFE",
-    "description": "Effect of Statement",
-    "degrees": [
-      "(potentially) beneficial to speaker",
-      "(potentially) beneficial to listener/addressee",
-      "(potentially) beneficial to 3rd party",
-      "(potentially) beneficial to the formative to which this affix is attached",
-      "effect unknown or yet to be determined",
-      "detrimental to the formative to which this affix is attached",
-      "(potentially) detrimental to 3rd party",
-      "(potentially) detrimental to the listener/addressee",
-      "(potentially) detrimental to the speaker"
-    ]
-  },
-  {
-    "affix": "ňt",
-    "gradient_type": "D1",
-    "name": "APP",
-    "description": "Appraisal of Outcome/Effect",
-    "degrees": [
-      "…and that’s the way it HAS to be / …and it can’t be any other way",
-      "…and that’s the way it’s supposed to be / …and that’s the way it works",
-      "…and that’s acceptable / …and that’ll work well enough",
-      "…and even if it’s not supposed to be that way, we’ll find a way to make it work",
-      "unknown or irrelevant if it’s okay that way",
-      "…but we’ll see if we can make it work that way / …but I’m unsure if it’ll work that way",
-      "…and it’s going to be a problem / …but there’s a problem",
-      "…but it shouldn’t be like that / … but it’s not supposed to be like that",
-      "…but it’s all wrong / … but it won’t work"
-    ]
-  },
-  {
-    "affix": "řž",
-    "gradient_type": "A1",
-    "name": "LVL",
-    "description": "Alternate forms of Comparison Operators (Levels) *",
-    "degrees": [
-      "(MIN) Minimal",
-      "(SBE) Subequative",
-      "(IFR) Inferior",
-      "(DFC) Deficient",
-      "(EQU) Equative",
-      "(SUR) Surpassive",
-      "(SPL) Superlative",
-      "(SPQ) Superequative",
-      "(MAX) Maximal"
-    ],
-    "notes": "* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
-  },
-  {
-    "affix": "lc",
-    "gradient_type": "0",
-    "name": "COS",
-    "description": "Comparison Specifications (Used with Levels)",
-    "degrees": [
-      "“more”/“less” = extent/amount/volume",
-      "“harder”/“weaker” = degree of intensity or effort",
-      "“longer”/“shorter” = duration, time spent being/doing",
-      "“better”/“worse” = quality/style",
-      "“more efficiently”/“less efficiently” = effort relative to outcome",
-      "“greater”/“poorer” = relevant outcome/bottom-line result",
-      "“better, efficiently, greater”/“worse, inefficiently, poorer”",
-      "“more, harder, longer”/“less, weaker, shorter”",
-      "“more, harder, longer, better, efficiently, greater””/“less, weaker, shorter, worse, inefficiently, poorer”"
-    ]
-  },
-  {
-    "affix": "mt",
-    "gradient_type": "D1",
-    "name": "SCL",
-    "description": "Standards for Comparison for Use with Levels",
-    "degrees": [
-      "where X was previously less M (or M ’d less) than Y",
-      "where X was previously more M (or M ’d more) than Y",
-      "where X is still less M (or M ’s less) than Y",
-      "where X is still more M (or M ’s more) than Y",
-      "where X is now less M (or M ’s less) than Y",
-      "where X is now more M (or M ’s more) than Y",
-      "where X was previously as M (or M ’d as much) as Y",
-      "where X ’s previous state of M-ness (or level of M-ing) relative to Y is unknown",
-      "where X ’s previous state of M-ness (or level of M-ing) relative to Y is inapplicable or irrelevant"
-    ],
-    "notes": "(Applied to the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case.)"
-  },
-  {
-    "affix": "çx",
-    "gradient_type": "D1",
-    "name": "XCL",
-    "description": "External Standard for Comparison for Use with Levels",
-    "degrees": [
-      "...although X (still) isn’t very M compared to some external standard or expectation of M-ness",
-      "...and where X now meets some external standard or expectation of M-ness",
-      "...and where X now exceeds some external standard or expectation of M-ness",
-      "...although neither X nor why are very M compared to some external standard or expectation of M-ness",
-      "...and where both X and Y meet some external standard or expectation of M-ness, where previously only Y met/exceeded it",
-      "...and where both X and Y exceed some external standard or expectation of M-ness, where previously only Y exceeded it",
-      "...and where X’s degree of M-ness exceeds that of Y, but neither is (still) very M compered to some external standard or expectation of M-ness",
-      "...and where X now meets some external standard or expectation of M-ness and Y does not",
-      "...and where X now exceeds some external standard or expectation of M-ness and Y does not"
-    ],
-    "notes": "Applied to either the “X” noun bearing a LEVEL Comparison Operator or the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case."
-  },
-  {
-    "affix": "lk",
-    "gradient_type": "D1",
-    "name": "VWP",
-    "description": "From Viewpoint/Perspective of",
-    "degrees": [
-      "from viewpoint/perspective of speaker",
-      "from viewpoint/perspective of 3rd party visible/near speaker",
-      "from viewpoint/perspective of last-mentioned argument/referent",
-      "from viewpoint/perspective of a party other than one under discussion",
-      "from viewpoint/perspective of an as-yet-undetermined 3rd party",
-      "from viewpoint/perspective of 3rd party under discussion",
-      "from viewpoint/perspective of the first-mentioned argument/referent",
-      "from viewpoint/perspective of 3rd party visible/near to listener",
-      "from viewpoint/perspective of listener"
-    ]
-  },
-  {
-    "affix": "zř",
-    "gradient_type": "C",
-    "name": "ROC",
-    "description": "Result / Outcome / Consequences",
-    "degrees": [
-      "the result/impact/effect on the ERG/EFF Agent from(performing/doing) X",
-      "the result/impact/effect on the ABS Patient from (performing/doing) X",
-      "the result/impact/effect on the AFF Recipient from (performing/doing) X",
-      "the result/impact/effect on the THM argument from (performing/doing) X",
-      "the result/impact/effect on the INS argument (tools, implements) from(performing/doing) X",
-      "the result/impact/effect on the CSM argument (resources, consumables)from (performing/doing) X",
-      "(a piece/instance/amount of) the resulting physical substance from(performing/doing/finishing) X",
-      "the resulting tangible product from (performing/doing/finishing) X",
-      "the overall circumstances/situation resulting from (performing/doing) X"
-    ]
-  },
-  {
-    "affix": "ct",
-    "gradient_type": "0",
-    "name": "SQP",
-    "description": "Sequential Participation",
-    "degrees": [
-      "first one, then the other, and so on / alternating between each party / back and forth",
-      "first one, then the one next to or alongside the first, and so on",
-      "first one, then the one across/opposite/facing the first",
-      "first the primary party, then the secondary party, then the tertiary party, and so on",
-      "alternating between the parties in an agreed-upon/conventionalized/discernible/regular pattern",
-      "alternating between the parties in a complex pattern (apparently) known to the participating parties",
-      "alternating between the parties in what seems a random pattern but is actually non-random",
-      "alternating between the parties in what starts as a random pattern but develops to be non-random",
-      "alternating randomly between the participating parties"
-    ]
-  },
-  {
-    "affix": "sj",
-    "gradient_type": "0",
-    "name": "HG1",
-    "description": "Linguistic Hedges (1st group)",
-    "degrees": [
-      "technically speaking… / context aside for a moment, …",
-      "for all practical purposes / to all intents and purposes / practically  / virtually / all but technically",
-      "sort of / kind of",
-      "strictly speaking ( = to put it in clinical terms…)",
-      "essentially / in essence / basically",
-      "(what) might as well be",
-      "in one sense",
-      "in some sense",
-      "par excellence"
-    ]
-  },
-  {
-    "affix": "zj",
-    "gradient_type": "0",
-    "name": "HG2",
-    "description": "Linguistic Hedges (2nd group)",
-    "degrees": [
-      "in a manner of speaking, in a sense / in a way",
-      "‘in other words…’, ‘to put it more exactly….’",
-      "more of a ___ than anything else",
-      "(what can be looked at (as) / (what) can be viewed as / (what) one thinks of(as) / one might say that",
-      "loosely speaking",
-      "so-called",
-      "in name only",
-      "so to say, so to speak",
-      "for all I know / for all one knows"
-    ]
-  },
-  {
-    "affix": "mc",
-    "gradient_type": "0",
-    "name": "AP1",
-    "description": "Aspects I",
-    "degrees": [
-      "(RTR) Retrospective",
-      "(PRS) Prospective",
-      "(HAB) Habitual",
-      "(PRG) Progressive",
-      "(IMM) Imminent",
-      "(PCS) Precessive",
-      "(REG) Regulative",
-      "(SMM) Summative ‘have already’",
-      "(ATP) Anticipatory ‘have yet to’"
-    ]
-  },
-  {
-    "affix": "mč",
-    "gradient_type": "0",
-    "name": "AP2",
-    "description": "Aspects II",
-    "degrees": [
-      "(RSM) Resumptive",
-      "(CSS) Cessative",
-      "(PAU) Pausal",
-      "(RGR) Regressive",
-      "(PCL) Preclusive",
-      "(CNT) Continuative",
-      "(ICS) Incessative",
-      "(EXP) Experiential",
-      "(IRP) Interruptive ‘only so far before having to stop’"
-    ]
-  },
-  {
-    "affix": "mẓ",
-    "gradient_type": "0",
-    "name": "AP3",
-    "description": "Aspects III",
-    "degrees": [
-      "(PMP) Preemptive",
-      "(CLM) Climactic",
-      "(DLT) Dilatory ‘over a long period of time’",
-      "(TMP) Temporary",
-      "(XPD) Expenditive (formerly CSM)",
-      "(LIM) Limitative ‘do (just) in time’",
-      "(EPD) Expeditive",
-      "(PTC) Protractive ‘take one's time’",
-      "(PPR) Preparatory ‘do in advance’"
-    ]
-  },
-  {
-    "affix": "mj",
-    "gradient_type": "0",
-    "name": "AP4",
-    "description": "Aspects IV",
-    "degrees": [
-      "(DCL) Disclusive",
-      "(CCL) Conclusive",
-      "(CUL) Culminative",
-      "(IMD) Intermediative",
-      "(TRD) Tardative",
-      "(TNS) Transitional",
-      "(ITC) Intercommutative",
-      "(MTV) Motive",
-      "(SQN) Sequential"
-    ]
-  },
-  {
-    "affix": "bẓ",
-    "gradient_type": "D1",
-    "name": "MCS",
-    "description": "Mood and Case-Scoping",
-    "degrees": [
-      "(SUB) Subjunctive",
-      "(ASM) Assumptive",
-      "(SPC) Speculative",
-      "(COU) Counterfactive",
-      "(HYP) Subjunctive",
-      "(CCA) Antecedent",
-      "(CCS) Subaltern",
-      "(CCQ) Qualifier",
-      "(CCP) Precedent"
-    ],
-    "notes": "Degree 0: (CCV) Successive"
-  },
-  {
-    "affix": "bç",
-    "gradient_type": "B",
-    "name": "NCD",
-    "description": "Non-Default Context + Non-Default Perspective",
-    "degrees": [
-      "(G/FNC)",
-      "(N/FNC)",
-      "(A/FNC)",
-      "(G/RPS)",
-      "(N/RPS)",
-      "(A/RPS)",
-      "(G/AMG)",
-      "(N/AMG)",
-      "(A/AMG)"
-    ]
-  },
-  {
-    "affix": "gç",
-    "gradient_type": "B",
-    "name": "NCE",
-    "description": "Non-Default Context + Essence ( + AGGLOMERATIVE Perspective)",
-    "degrees": [
-      "(NRM/FNC)",
-      "(RPV/FNC)",
-      "(G/RPV/FNC)",
-      "(NRM/RPS)",
-      "(RPV/RPS)",
-      "(G/RPV/RPS)",
-      "(NRM/AMG)",
-      "(RPV/AMG)",
-      "(P/RPV/AMG)"
-    ]
-  },
-  {
-    "affix": "gj",
-    "gradient_type": "0",
-    "name": "SNC",
-    "description": "Sanction",
-    "degrees": [
-      "(PPS) Propositional",
-      "(EPI) Epistemic",
-      "(ALG) Allegative",
-      "(IPU) Imputative",
-      "(RFU) Refutative",
-      "(REB) Rebutative",
-      "(CJT) Conjectural",
-      "(EXV) Expatiative",
-      "(AXM) Axiomatic"
-    ]
-  },
-  {
-    "affix": "bž",
-    "gradient_type": "0",
-    "name": "PHS",
-    "description": "Phase",
-    "degrees": [
-      "(PCT) Punctual",
-      "(ITR) Iterative",
-      "(REP) Repetitive",
-      "(IMT) Intermittent",
-      "(RCT) Recurrent",
-      "(FRE) Frequentative",
-      "(FRG) Fragmentative",
-      "(VAC) Vacillative",
-      "(FLC) Fluctuative"
-    ]
-  },
-  {
-    "affix": "sţ",
-    "gradient_type": "0",
-    "name": "AVP",
-    "description": "Misc. Adverbial Phrases (formerly APT)",
-    "degrees": [
-      "yet, still",
-      "‘even’ (e.g., “I don’t even like them”) = to the slightest extent contrary to expectation",
-      "Contemplative: upon reflection/ in hindsight",
-      "upon deep introspection/following careful consideration or meditation on the matter",
-      "on first blush/at first/upon initial impression/[my] first thought is/was…",
-      "natural(ly)/obvious(ly)/clear(ly) [in terms of naturalness, not blatancy]",
-      "clear (case of), clearly/certainly/indeed[in negative sentences = no way/at all]",
-      "as luck would have it/as it so happens…/it just so happens that…",
-      "moreover, and what is more…"
-    ]
-  },
-  {
-    "affix": "ẓk",
-    "gradient_type": "0",
-    "name": "VAL",
-    "description": "Valence",
-    "degrees": [
-      "(MNO) Monoactive",
-      "(PRL) Parallel",
-      "(CRO) Corollary",
-      "(RCP) Reciprocal",
-      "(CPL) Complementary",
-      "(DUP) Duplicative",
-      "(DEM) Demonstrative",
-      "(CNG) Contingent",
-      "(PTI) Participatory"
-    ]
-  },
-  {
-    "affix": "nļ",
-    "gradient_type": "D1",
-    "name": "IVL",
-    "description": "Illocution + Validation",
-    "degrees": [
-      "Type1: (ASR) Assertive\nType2: (OBS) Observational",
-      "Type1: (DIR) Directive\nType2: (REC) Recollective",
-      "Type1: (DEC) Declarative\nType2: (PUP) Purportive",
-      "Type1: (IRG) Interrogative\nType2: (RPR) Reportive",
-      "Type1: (VER) Verificative\nType2: (USP) Unspecified",
-      "Type1: (ADM) Admonitive\nType2: (IMA) Imaginary",
-      "Type1: (POT) Potentiative\nType2: (CVN) Conventional",
-      "Type1: (HOR) Hortative\nType2: (ITU) Intuitive",
-      "Type1: (CNJ) Conjectural\nType2: (INF) Inferential"
-    ]
-  },
-  {
-    "affix": "sv",
-    "gradient_type": "D1",
-    "name": "PTN",
-    "description": "Potential",
-    "degrees": [
-      "whatever X is / whatever X may be ",
-      "whatever X was or may have been (but is no more)",
-      "whatever X will be or may become (but is not yet)",
-      "...or something like/similar to X in function, purpose, or consequence",
-      "...or something like/similar to X in appearance/description",
-      "and whatever else X may be(come)",
-      "and whatever else X entails or carries with it as a consequence",
-      "which(ever) X (it is or may be) (of a known/limited number of possible identifications available to assign to X, the one identification that actually is (chosen as) X)",
-      "what(ever) X (it is or may be) (of an unknown number of possible identifications one might/could assign to X, the one identification that actually is (chosen as) X)"
-    ]
-  }
+    {
+        "name": "NEG",
+        "description": "Negation and Negative Coordinatives/Connectives",
+        "gradient_type": "D1",
+        "cs": "r",
+        "degrees": [
+            null,
+            "emphatic relative negation contrary to expectation: on the contrary, ... is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!",
+            "emphatic relative negation: ... is not/does not X at all!; no X whatsoever!",
+            "relative negation contrary to expectation: on the contrary, ... is not/does not X; no X (despite any assertion otherwise)",
+            "relative negation: ... is not/does not X; no X",
+            "neither the preceding nor X",
+            "absolute negation: ... is not/does not X; no X",
+            "absolute negation contrary to expectation: on the contrary, ... is not/does not X; no X whatsoever.",
+            "emphatic absolute negation: ... is not/does not X at all!; no X whatsoever!",
+            "emphatic absolute negation contrary to expectation: on the contrary, ... is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!"
+        ]
+    },
+    {
+        "name": "DPC",
+        "description": "Dependent Circumstances (specifies the nature of the dependency signified by the redesigned DEPENDENT case)",
+        "gradient_type": "0",
+        "cs": "ck",
+        "degrees": [
+            null,
+            "The contigency occurs iff X is true",
+            "The contigency occurs if X is true, not if unknown, maybe if false",
+            "The contigency occurs if X is true, maybe if unknown/false",
+            "The contigency occurs if X is true/unknown, maybe if false",
+            "The contigency occurs regardless of X is true or false",
+            "The contigency occurs if X is true, not if false, maybe if unknown",
+            "The contigency occurs if X is true/unknown, not if false",
+            "The contigency occurs depending (up)on X; however, the dependency value is unknown to speaker",
+            "The contigency occurs in case of X"
+        ],
+        "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if...”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\\n\\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
+    },
+    {
+        "name": "AFM",
+        "description": "Degree of Affirmation",
+        "gradient_type": "C",
+        "cs": "čř",
+        "degrees": [
+            null,
+            "emphatic relative affirmation contrary to expectation: on the contrary... does (too) / is (too)",
+            "emphatic relative affirmation: does indeed / is indeed / most certainly does/is / truly is/does / really is/does",
+            "relative affirmation contrary to expectation",
+            "relative affirmation",
+            "yes to the preceding and X; yes to all and also X",
+            "absolute affirmation",
+            "absolute affirmation contrary to expectation",
+            "emphatic absolute affirmation: does indeed / is indeed / most certainly does/is",
+            "emphatic absolute affirmation contrary to expectation: on the contrary... does (too) / is (too)"
+        ]
+    },
+    {
+        "name": "SWR",
+        "description": "Switch Reference & Obviative Specification",
+        "gradient_type": "0",
+        "cs": "č",
+        "degrees": [
+            null,
+            "nearest preceding referent",
+            "2nd nearest preceding referent",
+            "3rd party not previously mentioned",
+            "referring to sentence focus",
+            "first referent mentioned",
+            "referring to sentence topic",
+            "3rd party non-transrelative referent",
+            "2nd order transrelative referent",
+            "higher order transrelative referent"
+        ]
+    },
+    {
+        "name": "TPF",
+        "description": "Topic, Frame and Focus",
+        "gradient_type": "D1",
+        "cs": "n",
+        "degrees": [
+            null,
+            "[end of frame]",
+            "[end of frame + head of relative clause]",
+            "[head of relative clause]",
+            "[sentence topic + head of relative clause]",
+            "[sentence topic]",
+            "[sentence topic + end of frame]",
+            "[sentence focus + end of frame + head of rel. clause]",
+            "[sentence focus + end of frame]",
+            "[sentence focus]"
+        ]
+    },
+    {
+        "name": "CPP",
+        "description": "Capacity As Patient",
+        "gradient_type": "A1",
+        "cs": "rks",
+        "degrees": [
+            null,
+            "very easily X’d; very readily X’d [i.e., easy for another as Agent to perform/commit/initiate/establish an act/state of X upon one as Patient]",
+            "fairly/rather easily X’d; fairly readily X’d",
+            "not too difficult to be X’d; somewhat easily X’d",
+            "somewhat difficult to be X’d; not too easily X’d",
+            "difficult to be X’d",
+            "rather/quite difficult to be X’d",
+            "extremely difficult to be X’d",
+            "almost impossible to be X’d",
+            "impossible for one to be X’d"
+        ]
+    },
+    {
+        "name": "SIA",
+        "description": "Status of Inferred Arguments",
+        "gradient_type": "0",
+        "cs": "lč",
+        "degrees": [
+            null,
+            "only explicitly stated arguments are implied, no unstated arguments should be inferred",
+            "only logically required arguments are implied or should be inferred (e.g., a STIMULUS for a state of external sensory input, a RECIPIENT for an act of transferring possession); unstated arguments that are logically unnecessary but possible should not be inferred",
+            "logically required arguments should be inferred; logically unnecessary but possible arguments (e.g., INSTRUMENTAL, SITUATIVE, DEPENDENT, or Temporal) may be inferred",
+            "logically unnecessary but possible arguments may be inferred, logically required arguments are ONLY those explicitly stated",
+            "OK to infer an affective STIMULUS only, no other unstated arguments implied",
+            "OK to infer an ERG or EFF agent only, no other unstated arguments implied",
+            "OK to infer a temporal context/argument plus any logically required arguments",
+            "OK to infer an INSTRUMENTAL argument plus any logically required arguments",
+            "OK to infer a SITUATIVE or a DEPENDENT argument  (i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame) plus any logically required arguments"
+        ]
+    },
+    {
+        "name": "VRF",
+        "description": "Verifiability of Info & Trustworthiness of its Source",
+        "gradient_type": "B",
+        "cs": "ňç",
+        "degrees": [
+            null,
+            "source trustworthy, info verifiable",
+            "source trustworthy, verifiability of info unknown",
+            "source trustworthy, info not verifiable",
+            "trustworthiness of source unknown, but info verifiable",
+            "trustworthiness of source unknown, and verifiability of info unknown",
+            "trustworthiness of source unknown, and info not verifiable",
+            "source untrustworthy, but info verifiable",
+            "source untrustworthy, and verifiability of info unknown",
+            "source untrustworthy, and info not verifiable"
+        ]
+    },
+    {
+        "name": "IPC",
+        "description": "Unforeseen Implication Contrary to Expectation",
+        "gradient_type": "0",
+        "cs": "čt",
+        "degrees": [
+            null,
+            "this means/implies…",
+            "nevertheless,…",
+            "anyway/at any rate…",
+            "at least…",
+            "by the way... / just to mention...",
+            "not to change the subject, but… / sorry to change the subject, but...",
+            "as a matter of fact…",
+            "well, what do you know… / ....after all (who would’ve guessed?",
+            "like it or not… / well, as much as we didn’t want to believe it could happen..."
+        ]
+    },
+    {
+        "name": "EFE",
+        "description": "Effect of Statement",
+        "gradient_type": "D1",
+        "cs": "m",
+        "degrees": [
+            null,
+            "(potentially) beneficial to speaker",
+            "(potentially) beneficial to listener/addressee",
+            "(potentially) beneficial to 3rd party",
+            "(potentially) beneficial to the formative to which this affix is attached",
+            "effect unknown or yet to be determined",
+            "detrimental to the formative to which this affix is attached",
+            "(potentially) detrimental to 3rd party",
+            "(potentially) detrimental to the listener/addressee",
+            "(potentially) detrimental to the speaker"
+        ]
+    },
+    {
+        "name": "APP",
+        "description": "Appraisal of Outcome/Effect",
+        "gradient_type": "D1",
+        "cs": "ňt",
+        "degrees": [
+            null,
+            "…and that’s the way it HAS to be / …and it can’t be any other way",
+            "…and that’s the way it’s supposed to be / …and that’s the way it works",
+            "…and that’s acceptable / …and that’ll work well enough",
+            "…and even if it’s not supposed to be that way, we’ll find a way to make it work",
+            "unknown or irrelevant if it’s okay that way",
+            "…but we’ll see if we can make it work that way / …but I’m unsure if it’ll work that way",
+            "…and it’s going to be a problem / …but there’s a problem",
+            "…but it shouldn’t be like that / … but it’s not supposed to be like that",
+            "…but it’s all wrong / … but it won’t work"
+        ]
+    },
+    {
+        "name": "LVL",
+        "description": "Alternate forms of Comparison Operators (Levels) *",
+        "gradient_type": "A1",
+        "cs": "řž",
+        "degrees": [
+            null,
+            "(MIN) Minimal",
+            "(SBE) Subequative",
+            "(IFR) Inferior",
+            "(DFC) Deficient",
+            "(EQU) Equative",
+            "(SUR) Surpassive",
+            "(SPL) Superlative",
+            "(SPQ) Superequative",
+            "(MAX) Maximal"
+        ],
+        "notes": "* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
+    },
+    {
+        "name": "COS",
+        "description": "Comparison Specifications (Used with Levels)",
+        "gradient_type": "0",
+        "cs": "lc",
+        "degrees": [
+            null,
+            "“more”/“less” = extent/amount/volume",
+            "“harder”/“weaker” = degree of intensity or effort",
+            "“longer”/“shorter” = duration, time spent being/doing",
+            "“better”/“worse” = quality/style",
+            "“more efficiently”/“less efficiently” = effort relative to outcome",
+            "“greater”/“poorer” = relevant outcome/bottom-line result",
+            "“better, efficiently, greater”/“worse, inefficiently, poorer”",
+            "“more, harder, longer”/“less, weaker, shorter”",
+            "“more, harder, longer, better, efficiently, greater””/“less, weaker, shorter, worse, inefficiently, poorer”"
+        ]
+    },
+    {
+        "name": "SCL",
+        "description": "Standards for Comparison for Use with Levels",
+        "gradient_type": "D1",
+        "cs": "mt",
+        "degrees": [
+            null,
+            "where X was previously less M (or M ’d less) than Y",
+            "where X was previously more M (or M ’d more) than Y",
+            "where X is still less M (or M ’s less) than Y",
+            "where X is still more M (or M ’s more) than Y",
+            "where X is now less M (or M ’s less) than Y",
+            "where X is now more M (or M ’s more) than Y",
+            "where X was previously as M (or M ’d as much) as Y",
+            "where X ’s previous state of M-ness (or level of M-ing) relative to Y is unknown",
+            "where X ’s previous state of M-ness (or level of M-ing) relative to Y is inapplicable or irrelevant"
+        ],
+        "notes": "(Applied to the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case.)"
+    },
+    {
+        "name": "XCL",
+        "description": "External Standard for Comparison for Use with Levels",
+        "gradient_type": "D1",
+        "cs": "çx",
+        "degrees": [
+            null,
+            "...although X (still) isn’t very M compared to some external standard or expectation of M-ness",
+            "...and where X now meets some external standard or expectation of M-ness",
+            "...and where X now exceeds some external standard or expectation of M-ness",
+            "...although neither X nor why are very M compared to some external standard or expectation of M-ness",
+            "...and where both X and Y meet some external standard or expectation of M-ness, where previously only Y met/exceeded it",
+            "...and where both X and Y exceed some external standard or expectation of M-ness, where previously only Y exceeded it",
+            "...and where X’s degree of M-ness exceeds that of Y, but neither is (still) very M compered to some external standard or expectation of M-ness",
+            "...and where X now meets some external standard or expectation of M-ness and Y does not",
+            "...and where X now exceeds some external standard or expectation of M-ness and Y does not"
+        ],
+        "notes": "Applied to either the “X” noun bearing a LEVEL Comparison Operator or the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case."
+    },
+    {
+        "name": "VWP",
+        "description": "From Viewpoint/Perspective of",
+        "gradient_type": "D1",
+        "cs": "lk",
+        "degrees": [
+            null,
+            "from viewpoint/perspective of speaker",
+            "from viewpoint/perspective of 3rd party visible/near speaker",
+            "from viewpoint/perspective of last-mentioned argument/referent",
+            "from viewpoint/perspective of a party other than one under discussion",
+            "from viewpoint/perspective of an as-yet-undetermined 3rd party",
+            "from viewpoint/perspective of 3rd party under discussion",
+            "from viewpoint/perspective of the first-mentioned argument/referent",
+            "from viewpoint/perspective of 3rd party visible/near to listener",
+            "from viewpoint/perspective of listener"
+        ]
+    },
+    {
+        "name": "ROC",
+        "description": "Result / Outcome / Consequences",
+        "gradient_type": "C",
+        "cs": "zř",
+        "degrees": [
+            null,
+            "the result/impact/effect on the ERG/EFF Agent from(performing/doing) X",
+            "the result/impact/effect on the ABS Patient from (performing/doing) X",
+            "the result/impact/effect on the AFF Recipient from (performing/doing) X",
+            "the result/impact/effect on the THM argument from (performing/doing) X",
+            "the result/impact/effect on the INS argument (tools, implements) from(performing/doing) X",
+            "the result/impact/effect on the CSM argument (resources, consumables)from (performing/doing) X",
+            "(a piece/instance/amount of) the resulting physical substance from(performing/doing/finishing) X",
+            "the resulting tangible product from (performing/doing/finishing) X",
+            "the overall circumstances/situation resulting from (performing/doing) X"
+        ]
+    },
+    {
+        "name": "SQP",
+        "description": "Sequential Participation",
+        "gradient_type": "0",
+        "cs": "ct",
+        "degrees": [
+            null,
+            "first one, then the other, and so on / alternating between each party / back and forth",
+            "first one, then the one next to or alongside the first, and so on",
+            "first one, then the one across/opposite/facing the first",
+            "first the primary party, then the secondary party, then the tertiary party, and so on",
+            "alternating between the parties in an agreed-upon/conventionalized/discernible/regular pattern",
+            "alternating between the parties in a complex pattern (apparently) known to the participating parties",
+            "alternating between the parties in what seems a random pattern but is actually non-random",
+            "alternating between the parties in what starts as a random pattern but develops to be non-random",
+            "alternating randomly between the participating parties"
+        ]
+    },
+    {
+        "name": "HG1",
+        "description": "Linguistic Hedges (1st group)",
+        "gradient_type": "0",
+        "cs": "sj",
+        "degrees": [
+            null,
+            "technically speaking… / context aside for a moment, …",
+            "for all practical purposes / to all intents and purposes / practically  / virtually / all but technically",
+            "sort of / kind of",
+            "strictly speaking ( = to put it in clinical terms…)",
+            "essentially / in essence / basically",
+            "(what) might as well be",
+            "in one sense",
+            "in some sense",
+            "par excellence"
+        ]
+    },
+    {
+        "name": "HG2",
+        "description": "Linguistic Hedges (2nd group)",
+        "gradient_type": "0",
+        "cs": "zj",
+        "degrees": [
+            null,
+            "in a manner of speaking, in a sense / in a way",
+            "‘in other words…’, ‘to put it more exactly….’",
+            "more of a ___ than anything else",
+            "(what can be looked at (as) / (what) can be viewed as / (what) one thinks of(as) / one might say that",
+            "loosely speaking",
+            "so-called",
+            "in name only",
+            "so to say, so to speak",
+            "for all I know / for all one knows"
+        ]
+    },
+    {
+        "name": "AP1",
+        "description": "Aspects I",
+        "gradient_type": "0",
+        "cs": "mc",
+        "degrees": [
+            null,
+            "(RTR) Retrospective",
+            "(PRS) Prospective",
+            "(HAB) Habitual",
+            "(PRG) Progressive",
+            "(IMM) Imminent",
+            "(PCS) Precessive",
+            "(REG) Regulative",
+            "(SMM) Summative ‘have already’",
+            "(ATP) Anticipatory ‘have yet to’"
+        ]
+    },
+    {
+        "name": "AP2",
+        "description": "Aspects II",
+        "gradient_type": "0",
+        "cs": "mč",
+        "degrees": [
+            null,
+            "(RSM) Resumptive",
+            "(CSS) Cessative",
+            "(PAU) Pausal",
+            "(RGR) Regressive",
+            "(PCL) Preclusive",
+            "(CNT) Continuative",
+            "(ICS) Incessative",
+            "(EXP) Experiential",
+            "(IRP) Interruptive ‘only so far before having to stop’"
+        ]
+    },
+    {
+        "name": "AP3",
+        "description": "Aspects III",
+        "gradient_type": "0",
+        "cs": "mẓ",
+        "degrees": [
+            null,
+            "(PMP) Preemptive",
+            "(CLM) Climactic",
+            "(DLT) Dilatory ‘over a long period of time’",
+            "(TMP) Temporary",
+            "(XPD) Expenditive (formerly CSM)",
+            "(LIM) Limitative ‘do (just) in time’",
+            "(EPD) Expeditive",
+            "(PTC) Protractive ‘take one's time’",
+            "(PPR) Preparatory ‘do in advance’"
+        ]
+    },
+    {
+        "name": "AP4",
+        "description": "Aspects IV",
+        "gradient_type": "0",
+        "cs": "mj",
+        "degrees": [
+            null,
+            "(DCL) Disclusive",
+            "(CCL) Conclusive",
+            "(CUL) Culminative",
+            "(IMD) Intermediative",
+            "(TRD) Tardative",
+            "(TNS) Transitional",
+            "(ITC) Intercommutative",
+            "(MTV) Motive",
+            "(SQN) Sequential"
+        ]
+    },
+    {
+        "name": "MCS",
+        "description": "Mood and Case-Scoping",
+        "gradient_type": "D1",
+        "cs": "bẓ",
+        "degrees": [
+            null,
+            "(SUB) Subjunctive",
+            "(ASM) Assumptive",
+            "(SPC) Speculative",
+            "(COU) Counterfactive",
+            "(HYP) Subjunctive",
+            "(CCA) Antecedent",
+            "(CCS) Subaltern",
+            "(CCQ) Qualifier",
+            "(CCP) Precedent"
+        ],
+        "notes": "Degree 0: (CCV) Successive"
+    },
+    {
+        "name": "NCD",
+        "description": "Non-Default Context + Non-Default Perspective",
+        "gradient_type": "B",
+        "cs": "bç",
+        "degrees": [
+            null,
+            "(G/FNC)",
+            "(N/FNC)",
+            "(A/FNC)",
+            "(G/RPS)",
+            "(N/RPS)",
+            "(A/RPS)",
+            "(G/AMG)",
+            "(N/AMG)",
+            "(A/AMG)"
+        ]
+    },
+    {
+        "name": "NCE",
+        "description": "Non-Default Context + Essence ( + AGGLOMERATIVE Perspective)",
+        "gradient_type": "B",
+        "cs": "gç",
+        "degrees": [
+            null,
+            "(NRM/FNC)",
+            "(RPV/FNC)",
+            "(G/RPV/FNC)",
+            "(NRM/RPS)",
+            "(RPV/RPS)",
+            "(G/RPV/RPS)",
+            "(NRM/AMG)",
+            "(RPV/AMG)",
+            "(P/RPV/AMG)"
+        ]
+    },
+    {
+        "name": "SNC",
+        "description": "Sanction",
+        "gradient_type": "0",
+        "cs": "gj",
+        "degrees": [
+            null,
+            "(PPS) Propositional",
+            "(EPI) Epistemic",
+            "(ALG) Allegative",
+            "(IPU) Imputative",
+            "(RFU) Refutative",
+            "(REB) Rebutative",
+            "(CJT) Conjectural",
+            "(EXV) Expatiative",
+            "(AXM) Axiomatic"
+        ]
+    },
+    {
+        "name": "PHS",
+        "description": "Phase",
+        "gradient_type": "0",
+        "cs": "bž",
+        "degrees": [
+            null,
+            "(PCT) Punctual",
+            "(ITR) Iterative",
+            "(REP) Repetitive",
+            "(IMT) Intermittent",
+            "(RCT) Recurrent",
+            "(FRE) Frequentative",
+            "(FRG) Fragmentative",
+            "(VAC) Vacillative",
+            "(FLC) Fluctuative"
+        ]
+    },
+    {
+        "name": "AVP",
+        "description": "Misc. Adverbial Phrases (formerly APT)",
+        "gradient_type": "0",
+        "cs": "sţ",
+        "degrees": [
+            null,
+            "yet, still",
+            "‘even’ (e.g., “I don’t even like them”) = to the slightest extent contrary to expectation",
+            "Contemplative: upon reflection/ in hindsight",
+            "upon deep introspection/following careful consideration or meditation on the matter",
+            "on first blush/at first/upon initial impression/[my] first thought is/was…",
+            "natural(ly)/obvious(ly)/clear(ly) [in terms of naturalness, not blatancy]",
+            "clear (case of), clearly/certainly/indeed[in negative sentences = no way/at all]",
+            "as luck would have it/as it so happens…/it just so happens that…",
+            "moreover, and what is more…"
+        ]
+    },
+    {
+        "name": "VAL",
+        "description": "Valence",
+        "gradient_type": "0",
+        "cs": "ẓk",
+        "degrees": [
+            null,
+            "(MNO) Monoactive",
+            "(PRL) Parallel",
+            "(CRO) Corollary",
+            "(RCP) Reciprocal",
+            "(CPL) Complementary",
+            "(DUP) Duplicative",
+            "(DEM) Demonstrative",
+            "(CNG) Contingent",
+            "(PTI) Participatory"
+        ]
+    },
+    {
+        "name": "IVL",
+        "description": "Illocution + Validation",
+        "gradient_type": "D1",
+        "cs": "nļ",
+        "degrees": [
+            null,
+            [
+                "(ASR) Assertive",
+                "(OBS) Observational"
+            ],
+            [
+                "(DIR) Directive",
+                "(REC) Recollective"
+            ],
+            [
+                "(DEC) Declarative",
+                "(PUP) Purportive"
+            ],
+            [
+                "(IRG) Interrogative",
+                "(RPR) Reportive"
+            ],
+            [
+                "(VER) Verificative",
+                "(USP) Unspecified"
+            ],
+            [
+                "(ADM) Admonitive",
+                "(IMA) Imaginary"
+            ],
+            [
+                "(POT) Potentiative",
+                "(CVN) Conventional"
+            ],
+            [
+                "(HOR) Hortative",
+                "(ITU) Intuitive"
+            ],
+            [
+                "(CNJ) Conjectural",
+                "(INF) Inferential"
+            ]
+        ]
+    },
+    {
+        "name": "PTN",
+        "description": "Potential",
+        "gradient_type": "D1",
+        "cs": "sv",
+        "degrees": [
+            null,
+            "whatever X is / whatever X may be ",
+            "whatever X was or may have been (but is no more)",
+            "whatever X will be or may become (but is not yet)",
+            "...or something like/similar to X in function, purpose, or consequence",
+            "...or something like/similar to X in appearance/description",
+            "and whatever else X may be(come)",
+            "and whatever else X entails or carries with it as a consequence",
+            "which(ever) X (it is or may be) (of a known/limited number of possible identifications available to assign to X, the one identification that actually is (chosen as) X)",
+            "what(ever) X (it is or may be) (of an unknown number of possible identifications one might/could assign to X, the one identification that actually is (chosen as) X)"
+        ]
+    }
 ]

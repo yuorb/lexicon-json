@@ -1,10 +1,11 @@
 [
     {
-        "affix": "zb",
-        "gradient_type": "0",
         "name": "BY1",
         "description": "Bodily Instrumentality = ‘by means of/using...’",
+        "gradient_type": "0",
+        "cs": "zb",
         "degrees": [
+            null,
             "w/a finger",
             "w/a thumb",
             "w/one’s fingers",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "zd",
-        "gradient_type": "0",
         "name": "BY2",
         "description": "Bodily Instrumentality 2 = ‘by means of/using...’ (formerly DBI)",
+        "gradient_type": "0",
+        "cs": "zd",
         "degrees": [
+            null,
             "w/a toe",
             "w/a big toe",
             "w/one’s toes",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "zg",
-        "gradient_type": "0",
         "name": "BY3",
         "description": "Bodily Instrumentality 3 = ‘by means of/using...’",
+        "gradient_type": "0",
+        "cs": "zg",
         "degrees": [
+            null,
             "w/one’s torso/chest/thorax",
             "w/one’s shoulders",
             "w/one’s head",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "zk",
-        "gradient_type": "0",
         "name": "BY4",
         "description": "Bodily Instrumentality 4 = ‘by means of/using...’",
+        "gradient_type": "0",
+        "cs": "zk",
         "degrees": [
+            null,
             "w/one’s mouth/beak",
             "w/one’s fins/flippers/flukes",
             "w/one’s stinger",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "ms",
-        "gradient_type": "0",
         "name": "MEC",
         "description": "Type of Mechanical Instrumentality = ‘by means of...’",
+        "gradient_type": "0",
+        "cs": "ms",
         "degrees": [
+            null,
             "w/the body’s natural method of doing so (e.g., on foot, by hand, etc.)",
             "w/ object employed circumstantially as implement for X-ing",
             "w/a specialized tool for that specific purpose or activity",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "bš",
-        "gradient_type": "0",
         "name": "UTE",
         "description": "Utilitative or Enabling Resource",
+        "gradient_type": "0",
+        "cs": "bš",
         "degrees": [
+            null,
             "power/energy source for X(-ing)",
             "supporting structure, base or platform for X(-ing)",
             "raw material resource which makes X(-ing) possible",
@@ -102,11 +108,12 @@
         ]
     },
     {
-        "affix": "čv",
-        "gradient_type": "0",
         "name": "TDM*",
         "description": "Tool/Device/Means",
+        "gradient_type": "0",
+        "cs": "čv",
         "degrees": [
+            null,
             "hand-held / manual tool / utensil / implement for X-ing",
             "specialized powered tool for X-ing",
             "device/appliance for X-ing (small, handheld, countertop)",
@@ -119,11 +126,12 @@
         ]
     },
     {
-        "affix": "gḑ",
-        "gradient_type": "D1",
         "name": "MDI",
         "description": "Modification (type 2 affixes = specifically designed tool/device)",
+        "gradient_type": "D1",
+        "cs": "gḑ",
         "degrees": [
+            null,
             "entity/object used to stop/interrupt (the process/effect of) X",
             "entity/object used to lessen/mitigate (the process/effect of) X",
             "entity/object used to prevent/impede/block (the process/effect of) X",
@@ -136,11 +144,12 @@
         ]
     },
     {
-        "affix": "mz",
-        "gradient_type": "0",
         "name": "SOC",
         "description": "Type of Social Instrumentality = ‘by means of...’",
+        "gradient_type": "0",
+        "cs": "mz",
         "degrees": [
+            null,
             "via lackeys, grunt labor, go-fors or henchmen",
             "by coercion, threat, blackmail",
             "“fronts”, or disguised go-betweens",
@@ -153,11 +162,12 @@
         ]
     },
     {
-        "affix": "çn",
-        "gradient_type": "B",
         "name": "OAU*",
         "description": "Origin/Association/Utilization",
+        "gradient_type": "B",
+        "cs": "çn",
         "degrees": [
+            null,
             "entity/thing/phenomenon that hails from X",
             "entity/thing/phenomenon associated with X",
             "entity/thing/phenomenon that utilizes X",
@@ -170,11 +180,12 @@
         ]
     },
     {
-        "affix": "pč",
-        "gradient_type": "0",
         "name": "AUT",
         "description": "Authorization",
+        "gradient_type": "0",
+        "cs": "pč",
         "degrees": [
+            null,
             "by being granted a personal privilege / via the generosity or largess ofanother or others",
             "by inalienable human right / by natural right",
             "by right of a legal claim / by right of statute or law",
@@ -187,11 +198,12 @@
         ]
     },
     {
-        "affix": "mš",
-        "gradient_type": "0",
         "name": "ENB",
         "description": "Means of Enablement",
+        "gradient_type": "0",
+        "cs": "mš",
         "degrees": [
+            null,
             "by inadvertent gesture/word/sign taken as order or permission",
             "by granting of permission",
             "by cajoling or persuasion",
@@ -204,11 +216,12 @@
         ]
     },
     {
-        "affix": "ţk",
-        "gradient_type": "0",
         "name": "MAK*",
         "description": "Making/Constructing",
+        "gradient_type": "0",
+        "cs": "ţk",
         "degrees": [
+            null,
             "the idea/concept of how to make/construct X",
             "the instructions/plan/blueprint/diagram stating/illustrating how X is (to be) made",
             "the method(ology) in/with which X is/has been constructed",
@@ -221,11 +234,12 @@
         ]
     },
     {
-        "affix": "cř",
-        "gradient_type": "C",
         "name": "CSN",
         "description": "Cancellation - Suspension - Nullification - Maintenance",
+        "gradient_type": "C",
+        "cs": "cř",
         "degrees": [
+            null,
             "(quasi-)permanent suspension/cancellation/nullification of X",
             "long-term suspension/cancellation/nullification of X",
             "temporary suspension/cancellation/nullification of X",
@@ -238,11 +252,12 @@
         ]
     },
     {
-        "affix": "sc",
-        "gradient_type": "0",
         "name": "EPS",
         "description": "Energy/Power Source",
+        "gradient_type": "0",
+        "cs": "sc",
         "degrees": [
+            null,
             "powered by burning or combustion of fossil fuel",
             "hydraulic-powered (e.g., water, wind, compressed air, etc.)",
             "steam-driven",
@@ -255,11 +270,12 @@
         ]
     },
     {
-        "affix": "řst",
-        "gradient_type": "A1",
         "name": "LCM",
         "description": "Life-Cycle of a Mechanism/Device/Fixture/Machine",
+        "gradient_type": "A1",
+        "cs": "řst",
         "degrees": [
+            null,
             "designing X, drafting a blueprint of X; to design X, to draft a blueprint/design of X",
             "constructing/forming/crafting/making X; to make/build/construct/craft X",
             "determining placement/location of X within/among/in association with its surrounding infrastructure",
@@ -272,11 +288,12 @@
         ]
     },
     {
-        "affix": "zt",
-        "gradient_type": "0",
         "name": "MNS",
         "description": "Maintenance of a State",
+        "gradient_type": "0",
+        "cs": "zt",
         "degrees": [
+            null,
             "maintain in pristine/ideal state without needing/applying X",
             "maintain in pristine/ideal state by requiring/obtaining X",
             "maintain in pristine/ideal state by applying/providing X",

@@ -1,10 +1,11 @@
 [
     {
-        "affix": "fš",
-        "gradient_type": "0",
         "name": "MLR",
         "description": "Meta-level representation/coordination/analysis",
+        "gradient_type": "0",
+        "cs": "fš",
         "degrees": [
+            null,
             "formal theory explaining/coordinating X",
             "plan explaining/coordinating X",
             "idea explaining/coordinating X",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "lš",
-        "gradient_type": "0",
         "name": "DPT",
         "description": "Depiction/Representation/Record",
+        "gradient_type": "0",
+        "cs": "lš",
         "degrees": [
+            null,
             "symbol/emblem/logo representing/standing for X",
             "allegorical reference to X",
             "stand-in/substitute/representative for X",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "žř",
-        "gradient_type": "C",
         "name": "MMA",
         "description": "Metaphor / Metonym / Allusion",
+        "gradient_type": "C",
+        "cs": "žř",
         "degrees": [
+            null,
             "X is functioning metaphorically",
             "X is functioning as a metonym",
             "X is functioning as an analogy",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "ẓd",
-        "gradient_type": "0",
         "name": "MET",
         "description": "Metonymic Categories",
+        "gradient_type": "0",
+        "cs": "ẓd",
         "degrees": [
+            null,
             "part for whole",
             "producer for product",
             "object used or owned for user/owner",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "sk",
-        "gradient_type": "0",
         "name": "CNM*",
         "description": "Type of Container/Packaging",
+        "gradient_type": "0",
+        "cs": "sk",
         "degrees": [
+            null,
             "generic container(-ful) of X",
             "natural or generic mass containment/formation (e.g., a loaf of bread, a lump of clay)",
             "natural/inherent “container” of X (e.g., lake-basin, river-channel, blood-vessel, wheat field)",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "št",
-        "gradient_type": "0",
         "name": "MCD",
         "description": "Manufactured/Specialized Containers/Dispensors",
+        "gradient_type": "0",
+        "cs": "št",
         "degrees": [
+            null,
             "basket of X",
             "jar of X",
             "pot of X",
@@ -102,11 +108,12 @@
         ]
     },
     {
-        "affix": "ls",
-        "gradient_type": "0",
         "name": "MEA",
         "description": "Means for Being or Doing",
+        "gradient_type": "0",
+        "cs": "ls",
         "degrees": [
+            null,
             "holder/stabilizer for being/doing X",
             "mystical/magical/supernatural means for being/doing X",
             "externally powered/motorized means for being/doing X",
@@ -119,11 +126,12 @@
         ]
     },
     {
-        "affix": "nž",
-        "gradient_type": "0",
         "name": "CVY",
         "description": "Means of Transportation/Conveyance",
+        "gradient_type": "0",
+        "cs": "nž",
         "degrees": [
+            null,
             "holder/stabilizer for transporting/holding X",
             "mystical/magical/supernatural means for transporting/holding X",
             "externally powered/motorized means for transporting/holding X",
@@ -136,11 +144,12 @@
         ]
     },
     {
-        "affix": "bz",
-        "gradient_type": "0",
         "name": "FEA",
         "description": "Featural Properties",
+        "gradient_type": "0",
+        "cs": "bz",
         "degrees": [
+            null,
             "functional manifestation/portion/piece of X",
             "a description of X",
             "a sample of X",
@@ -153,11 +162,12 @@
         ]
     },
     {
-        "affix": "ẓ",
-        "gradient_type": "0",
         "name": "PLA",
         "description": "Place/Setting Where…",
+        "gradient_type": "0",
+        "cs": "ẓ",
         "degrees": [
+            null,
             "place/setting where one learns to X",
             "place/setting where one submits to / undergoes X",
             "place/setting where one obtains X",
@@ -170,11 +180,12 @@
         ]
     },
     {
-        "affix": "žč",
-        "gradient_type": "0",
         "name": "BMP",
         "description": "Building, Structure, or Meeting Place",
+        "gradient_type": "0",
+        "cs": "žč",
         "degrees": [
+            null,
             "building or commercial establishment for selling X",
             "building or meeting place for conducting the profession of X",
             "building or structure used for displaying X",
@@ -187,11 +198,12 @@
         ]
     },
     {
-        "affix": "zv",
-        "gradient_type": "D1",
         "name": "KBP",
         "description": "Basis for System of Knowledge, Belief or Practice",
+        "gradient_type": "D1",
+        "cs": "zv",
         "degrees": [
+            null,
             "formal religion / set of religious beliefs associated with/centered on X",
             "sect/cult associated with/centered on X",
             "scientific discipline or field of study/research/experimentation associated with/centered on X",
@@ -204,11 +216,12 @@
         ]
     },
     {
-        "affix": "vẓ",
-        "gradient_type": "0",
         "name": "PSA",
         "description": "Personal Association",
+        "gradient_type": "0",
+        "cs": "vẓ",
         "degrees": [
+            null,
             "one whose job/profession/vocation involves or is associated with X",
             "one who is interested in/by X",
             "one whose hobby/past-time involves or is associated with X",
@@ -221,11 +234,12 @@
         ]
     },
     {
-        "affix": "sb",
-        "gradient_type": "D1",
         "name": "MMV",
         "description": "Medium Via/Through/Along Which",
+        "gradient_type": "D1",
+        "cs": "sb",
         "degrees": [
+            null,
             "via/along/across the surface of water or liquid",
             "via/through water/liquid below the surface/through a volume of water/liquid",
             "via/through the air following the ground at (relatively) low height",
@@ -238,11 +252,12 @@
         ]
     },
     {
-        "affix": "žd",
-        "gradient_type": "0",
         "name": "ISA",
         "description": "Infrastructural Association",
+        "gradient_type": "0",
+        "cs": "žd",
         "degrees": [
+            null,
             "library/archive created/built for, devoted to, or associated with X",
             "transportation/shipping network for the physical conveyance/supplying of X",
             "commercial establishment/store/shop created/built for, devoted to, or associated with selling/providing X",
@@ -255,11 +270,12 @@
         ]
     },
     {
-        "affix": "vs",
-        "gradient_type": "0",
         "name": "FNS",
         "description": "Non-Solid Material States (liquid or malleable quasi-liquid)",
+        "gradient_type": "0",
+        "cs": "vs",
         "degrees": [
+            null,
             "X as liquid",
             "X as goo or slime-like substance",
             "X as thick, “soupy”, slow-moving liquid",
@@ -272,11 +288,12 @@
         ]
     },
     {
-        "affix": "vš",
-        "gradient_type": "0",
         "name": "FMS",
         "description": "Material States/Forms (solids)",
+        "gradient_type": "0",
+        "cs": "vš",
         "degrees": [
+            null,
             "X as glass(-like substance)",
             "X as carvable substance (like wood or soap)",
             "X as chalk-like, friable substance",
@@ -289,11 +306,12 @@
         ]
     },
     {
-        "affix": "šč",
-        "gradient_type": "0",
         "name": "AMS",
         "description": "Additional Material States/Forms (malleable solid)",
+        "gradient_type": "0",
+        "cs": "šč",
         "degrees": [
+            null,
             "X as powder or dust-like substance",
             "X as fine gravel or sand-like substance",
             "X as loose gravel or coarse sand-like substance",
@@ -306,11 +324,12 @@
         ]
     },
     {
-        "affix": "př",
-        "gradient_type": "C",
         "name": "ACS*",
         "description": "Access Point",
+        "gradient_type": "C",
+        "cs": "př",
         "degrees": [
+            null,
             "path, course, passageway or way leading into or culminating in X",
             "entryway, doorway, opening, gateway, portal into X",
             "controlled/regulated entryway into X, valve-like entry way into X",
@@ -323,11 +342,12 @@
         ]
     },
     {
-        "affix": "zč",
-        "gradient_type": "0",
         "name": "TRF",
         "description": "Transformation for Use",
+        "gradient_type": "0",
+        "cs": "zč",
         "degrees": [
+            null,
             "cured (transformed by natural chemical process)",
             "treated",
             "processed (transformed by artificial/man-made process)",
@@ -340,11 +360,12 @@
         ]
     },
     {
-        "affix": "jv",
-        "gradient_type": "0",
         "name": "PRQ",
         "description": "Prerequisite",
+        "gradient_type": "0",
+        "cs": "jv",
         "degrees": [
+            null,
             "the ingredients (needed) for making/creating/crafting X",
             "the originating source of X",
             "the initiating cause/reason for X",
@@ -357,11 +378,12 @@
         ]
     },
     {
-        "affix": "lks",
-        "gradient_type": "0",
         "name": "DFB",
         "description": "Derived Foodstuff/Beverage",
+        "gradient_type": "0",
+        "cs": "lks",
         "degrees": [
+            null,
             "non-sweet (dry) fermented alcoholic beverage made from X",
             "sweet alcoholic beverage made from X",
             "non-alcoholic beverage made from X",
@@ -374,11 +396,12 @@
         ]
     },
     {
-        "affix": "rkt",
-        "gradient_type": "A1",
         "name": "MLT",
         "description": "Mealtimes",
+        "gradient_type": "A1",
+        "cs": "rkt",
         "degrees": [
+            null,
             "served/eaten as breakfast",
             "served/eaten as brunch",
             "served /eaten as mid-day meal (i.e., lunch, or dinner if main meal of the day)",
@@ -391,11 +414,12 @@
         ]
     },
     {
-        "affix": "xč",
-        "gradient_type": "0",
         "name": "CK1",
         "description": "Cooking Methods 1",
+        "gradient_type": "0",
+        "cs": "xč",
         "degrees": [
+            null,
             "sautéed; cook by sautéing X",
             "stir-fried; cook by stir-frying X",
             "pan-fried; cook by pan-frying X",
@@ -409,11 +433,12 @@
         "notes": "to express parboiling, parbaking, or parcooking, use the PTT₃/4 affix with the affix"
     },
     {
-        "affix": "xc",
-        "gradient_type": "0",
         "name": "CK2",
         "description": "Cooking Methods 2",
+        "gradient_type": "0",
+        "cs": "xc",
         "degrees": [
+            null,
             "steamed; cook by steaming X",
             "blanched; heated/cooked by blanching X",
             "poaching X; cook by poaching X",
@@ -427,11 +452,12 @@
         "notes": "to express parboiling, parbaking, or parcooking, use the PTT₃/4 affix with the affix"
     },
     {
-        "affix": "xẓ",
-        "gradient_type": "0",
         "name": "CK3",
         "description": "Cooking Methods 3",
+        "gradient_type": "0",
+        "cs": "xẓ",
         "degrees": [
+            null,
             "uncooked; raw; serve X raw/uncooked [+iërţ parcooked]",
             "smoked; cook by smoking X",
             "cured; prepare by curing X",
@@ -445,11 +471,12 @@
         "notes": "to express parboiling, parbaking, or parcooking, use the PTT₃/4 affix with the affix"
     },
     {
-        "affix": "çk",
-        "gradient_type": "B",
         "name": "FMM",
         "description": "Potential Food/Medicinal/Material Resource",
+        "gradient_type": "B",
+        "cs": "çk",
         "degrees": [
+            null,
             "edible as food",
             "potentially edible but not used as food source",
             "harmful/poisonous if eaten",
@@ -462,11 +489,12 @@
         ]
     },
     {
-        "affix": "kb",
-        "gradient_type": "D1",
         "name": "PLC",
         "description": "Stage of Annual Plant Life-Cycle",
+        "gradient_type": "D1",
+        "cs": "kb",
         "degrees": [
+            null,
             "planted & waiting to sprout",
             "sprouting",
             "budding",
@@ -479,11 +507,12 @@
         ]
     },
     {
-        "affix": "rsk",
-        "gradient_type": "A1",
         "name": "FSP",
         "description": "Degree of Freshness or Spoilage",
+        "gradient_type": "A1",
+        "cs": "rsk",
         "degrees": [
+            null,
             "just-cut / just-made / just-out-of-the-oven",
             "fresh-cut / fresh-made / fresh-from-the-oven",
             "fresh",
@@ -496,11 +525,12 @@
         ]
     },
     {
-        "affix": "tf",
-        "gradient_type": "0",
         "name": "TEM",
         "description": "Temperature",
+        "gradient_type": "0",
+        "cs": "tf",
         "degrees": [
+            null,
             "deep-frozen",
             "frozen",
             "cold",
@@ -513,11 +543,12 @@
         ]
     },
     {
-        "affix": "žb",
-        "gradient_type": "0",
         "name": "UDE",
         "description": "Undesirable Entailments",
+        "gradient_type": "0",
+        "cs": "žb",
         "degrees": [
+            null,
             "the limitation(s) entailed by X",
             "difficulty/problem entailed by X",
             "hindrance/obstacle entailed by X",
@@ -530,11 +561,12 @@
         ]
     },
     {
-        "affix": "ţc",
-        "gradient_type": "0",
         "name": "EML",
         "description": "Emulation",
+        "gradient_type": "0",
+        "cs": "ţc",
         "degrees": [
+            null,
             "what is inferred to be X; seeming X, apparent X, what must be X",
             "what is assumed/presumed to be X; assumed X, presumed X",
             "what is utilized as (if it were) X; de-facto X",
@@ -547,11 +579,12 @@
         ]
     },
     {
-        "affix": "jp",
-        "gradient_type": "0",
         "name": "FRO",
         "description": "Functional Role",
+        "gradient_type": "0",
+        "cs": "jp",
         "degrees": [
+            null,
             "X as toy",
             "X as source of entertainment",
             "X as memento/souvenir",
@@ -564,11 +597,12 @@
         ]
     },
     {
-        "affix": "jt",
-        "gradient_type": "0",
         "name": "SRO",
         "description": "Subjective Role",
+        "gradient_type": "0",
+        "cs": "jt",
         "degrees": [
+            null,
             "X as cause/root/source of a situation/state/problem",
             "X as obstacle/hindrance/hurdle",
             "X as substitute/placeholder for some other dedicated/desired entity",
@@ -581,11 +615,12 @@
         ]
     },
     {
-        "affix": "jk",
-        "gradient_type": "0",
         "name": "ARO",
         "description": "Adverse Role",
+        "gradient_type": "0",
+        "cs": "jk",
         "degrees": [
+            null,
             "X as cause/root/source/be asis of a problem or adverse situation",
             "X as source of grief/sadness/woe",
             "X as source of physical pain",
@@ -598,11 +633,12 @@
         ]
     },
     {
-        "affix": "çč",
-        "gradient_type": "B",
         "name": "IEC",
         "description": "Identity, Equivalence, and Convertibility",
+        "gradient_type": "B",
+        "cs": "çč",
         "degrees": [
+            null,
             "ontologically the same entity as X in terms of essence, sense of identity, behavior, personality, mind, etc.",
             "ontologically the same entity as X in terms of physical make-up, appearance, physical manifestation or construction",
             "that which ontologically is X as its natural identity (as opposed to that of another’s)",

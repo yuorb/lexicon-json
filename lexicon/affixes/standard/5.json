@@ -1,10 +1,11 @@
 [
     {
-        "affix": "nţ",
-        "gradient_type": "D1",
         "name": "MDN",
         "description": "Degree of Age or Modernity",
+        "gradient_type": "D1",
+        "cs": "nţ",
         "degrees": [
+            null,
             "primordial / proto-",
             "prehistoric",
             "ancient",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "rč",
-        "gradient_type": "A1",
         "name": "STY",
         "description": "Stylistic thru Time",
+        "gradient_type": "A1",
+        "cs": "rč",
         "degrees": [
+            null,
             "archaic",
             "medieval",
             "classic(al)",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "nf",
-        "gradient_type": "D1",
         "name": "NTR",
         "description": "Degree of Notoriety, Acceptance, Respect, Honor",
+        "gradient_type": "D1",
+        "cs": "nf",
         "degrees": [
+            null,
             "spurned, scorned, vilified, pariah-like/ostracized; in an alienating or self-ostracizing manner",
             "infamous; infamously",
             "frowned-upon/disapproved; in a manner guaranteed to arouse disapproval",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "lv",
-        "gradient_type": "D1",
         "name": "DSN",
         "description": "Degree of Seniority",
+        "gradient_type": "D1",
+        "cs": "lv",
         "degrees": [
+            null,
             "candidate X; X being under consideration for acceptance/initiation",
             "newly established / newly initiated / newly accepted / rookie",
             "recently established / recently initiated/ recently accepted / freshman",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "x",
-        "gradient_type": "D2",
         "name": "SIZ",
         "description": "Degree of Size",
+        "gradient_type": "D2",
+        "cs": "x",
         "degrees": [
+            null,
             "too small",
             "miniscule/ tiny/ itty-bitty;in a very small manner; barely/hardly",
             "small/little",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "fç",
-        "gradient_type": "B",
         "name": "DSZ",
         "description": "Dynamic Change of Size",
+        "gradient_type": "B",
+        "cs": "fç",
         "degrees": [
+            null,
             "smallest single manifestation of / particle of",
             "runaway shrinkage of / rapid disappearance or diminishment of",
             "decreasing / de-escalating / shrinking",
@@ -102,11 +108,12 @@
         ]
     },
     {
-        "affix": "čh",
-        "gradient_type": "A2",
         "name": "AFT*",
         "description": "Degree of Affect",
+        "gradient_type": "A2",
+        "cs": "čh",
         "degrees": [
+            null,
             "too cute / schmaltzy / in a maudlin way",
             "cute/darling / in a cute or darling manner",
             "kitschy / quaint(ly)",
@@ -119,11 +126,12 @@
         ]
     },
     {
-        "affix": "th",
-        "gradient_type": "A2",
         "name": "QUA*",
         "description": "Degree of Quality, Effectiveness or Adequacy",
+        "gradient_type": "A2",
+        "cs": "th",
         "degrees": [
+            null,
             "too poor(ly); too badly",
             "very bad(ly) / very poor(ly) / very inadequate(ly) / intolerable / intolerably / terrible / terribly",
             "bad / poor / inadequate; badly / poorly / inadequately / wanting / lacking",
@@ -136,11 +144,12 @@
         ]
     },
     {
-        "affix": "ld",
-        "gradient_type": "D1",
         "name": "DOP",
         "description": "Degree of Optimality",
+        "gradient_type": "D1",
+        "cs": "ld",
         "degrees": [
+            null,
             "X (being/done/performing) at its best / X being the best it can be / optimally",
             "X (being/done/performing) nearly at its best / X being nearly the best it can be / near-optimally",
             "X (being/done/performing) well but could be better / adequately but not optimally / in an adequate or well above-average manner but not as well as it could be",
@@ -153,11 +162,12 @@
         ]
     },
     {
-        "affix": "řp",
-        "gradient_type": "A1",
         "name": "UNQ*",
         "description": "Degree of Specialness or Uniqueness",
+        "gradient_type": "A1",
+        "cs": "řp",
         "degrees": [
+            null,
             "vulgar, trashy, too cheap / in a vulgar or trashy manner",
             "cheap, tasteless, gaudy, gauche / in a cheap, gaudy, tasteless manner",
             "run of the mill / unexceptional / average / commonplace / ordinary / everyday / routine; in a commonplace/unexceptional/routine manner",
@@ -170,11 +180,12 @@
         ]
     },
     {
-        "affix": "řv",
-        "gradient_type": "A1",
         "name": "CNQ*",
         "description": "Degree of Consequentiality, Finality or Irrevocability",
+        "gradient_type": "A1",
+        "cs": "řv",
         "degrees": [
+            null,
             "inconsequential/sham/having no effect; like it didn’t even happen/with no effect",
             "relatively inconsequential / having little effect / easily reversible or undone / to little effect / minor / to minor degree",
             "somewhat inconsequential/having some effect/reparable/reversible/to some effect/somewhat minor",
@@ -187,11 +198,12 @@
         ]
     },
     {
-        "affix": "kv",
-        "gradient_type": "D1",
         "name": "APR",
         "description": "Degree of Contextual Appropriateness",
+        "gradient_type": "D1",
+        "cs": "kv",
         "degrees": [
+            null,
             "contemptible(-ly) / utterly inappropriate(ly)",
             "scandalous(ly) / trashy(-ly) / inappropriate(ly)",
             "ill-mannered / boorish(ly) / improper(ly) / tasteless(ly)",
@@ -204,11 +216,12 @@
         ]
     },
     {
-        "affix": "rž",
-        "gradient_type": "A1",
         "name": "HRC",
         "description": "Position on Social, Occupational, or (Para-) Military Hierarchy",
+        "gradient_type": "A1",
+        "cs": "rž",
         "degrees": [
+            null,
             "bottom rung / the “dregs”",
             "rank & file",
             "lower echelon",
@@ -221,11 +234,12 @@
         ]
     },
     {
-        "affix": "kš",
-        "gradient_type": "0",
         "name": "BEH",
         "description": "Degree of Subjective Effect or Behavioral Appropriateness",
+        "gradient_type": "0",
+        "cs": "kš",
         "degrees": [
+            null,
             "grotesque, gross, nauseating, sickening",
             "repugnant, revolting, repulsive",
             "despicable, deplorable, detestable",
@@ -238,11 +252,12 @@
         ]
     },
     {
-        "affix": "ẓf",
-        "gradient_type": "D1",
         "name": "SCA",
         "description": "Degree of Social Appropriateness",
+        "gradient_type": "D1",
+        "cs": "ẓf",
         "degrees": [
+            null,
             "well-mannered, polite, proper",
             "classy, dignified, in good taste",
             "aristocratic, displaying nobility and breeding",
@@ -255,11 +270,12 @@
         ]
     },
     {
-        "affix": "mf",
-        "gradient_type": "D1",
         "name": "ITL",
         "description": "Degree of Intelligence Manifested",
+        "gradient_type": "D1",
+        "cs": "mf",
         "degrees": [
+            null,
             "dumb / stupid / asinine; idiotic(ally) / moronic(ally)",
             "foolhardy / foolish(ly)",
             "ill-conceived(ly) / (in a) poorly thought out (way)",
@@ -272,11 +288,12 @@
         ]
     },
     {
-        "affix": "rẓ",
-        "gradient_type": "A1",
         "name": "PRB",
         "description": "Degree of Probability or Likelihood",
+        "gradient_type": "A1",
+        "cs": "rẓ",
         "degrees": [
+            null,
             "impossible / hopeless / lost cause",
             "almost no chance of / virtually impossible",
             "highly unlikely",
@@ -289,11 +306,12 @@
         ]
     },
     {
-        "affix": "šm",
-        "gradient_type": "D2",
         "name": "FRM",
         "description": "Degree of Formality",
+        "gradient_type": "D2",
+        "cs": "šm",
         "degrees": [
+            null,
             "too casual / overly casual",
             "very casual",
             "casual",
@@ -306,11 +324,12 @@
         ]
     },
     {
-        "affix": "řg",
-        "gradient_type": "A1",
         "name": "TYP*",
         "description": "Degree of Typicalness",
+        "gradient_type": "A1",
+        "cs": "řg",
         "degrees": [
+            null,
             "unique / never-before-seen / one of a kind / shocking",
             "original / avante-garde; surprising(ly) / innovative(ly)",
             "atypical(ly) / unusual(ly)",
@@ -323,11 +342,12 @@
         ]
     },
     {
-        "affix": "řn",
-        "gradient_type": "A1",
         "name": "PTY",
         "description": "Degree of Prototypicality",
+        "gradient_type": "A1",
+        "cs": "řn",
         "degrees": [
+            null,
             "very dissimilar to prototype, very atypical member, closer to members of different set",
             "dissimilar to prototype, atypical member",
             "having noticeable dissimilarities from prototype",
@@ -340,11 +360,12 @@
         ]
     },
     {
-        "affix": "nk",
-        "gradient_type": "D1",
         "name": "ENT",
         "description": "Degree of Enthusiasm",
+        "gradient_type": "D1",
+        "cs": "nk",
         "degrees": [
+            null,
             "under duress or coercion",
             "against one’s will or desire",
             "only to appease another party",
@@ -357,11 +378,12 @@
         ]
     },
     {
-        "affix": "gv",
-        "gradient_type": "D1",
         "name": "DSI*",
         "description": "Degree of Desire",
+        "gradient_type": "D1",
+        "cs": "gv",
         "degrees": [
+            null,
             "expurgated, expunged",
             "shunned, avoided",
             "utterly unwanted, totally undesired/undesirable",
@@ -374,11 +396,12 @@
         ]
     },
     {
-        "affix": "lf",
-        "gradient_type": "D1",
         "name": "LCK*",
         "description": "Degree of Luck/Fortune",
+        "gradient_type": "D1",
+        "cs": "lf",
         "degrees": [
+            null,
             "as a result of the worst luck imaginable / as the cruelest fate would have it . . .",
             "by a stroke of ill-fortune / as ill-fate would have it . . .",
             "unluckily / unfortunately",
@@ -391,11 +414,12 @@
         ]
     },
     {
-        "affix": "b",
-        "gradient_type": "D1",
         "name": "DEV",
         "description": "Degree of Development",
+        "gradient_type": "D1",
+        "cs": "b",
         "degrees": [
+            null,
             "reversal or undoing of process = ‘un-’ / ‘de-’ / ‘dis-’",
             "reversal/undoing of process in large chunks = ‘un-’ / ‘de-’ / ‘dis-’",
             "reversal little by little / a little at a time = entropic change in / slowly falling apart / unravelling",
@@ -408,11 +432,12 @@
         ]
     },
     {
-        "affix": "rd",
-        "gradient_type": "A1",
         "name": "REA*",
         "description": "Degree of Genuineness or Veracity",
+        "gradient_type": "A1",
+        "cs": "rd",
         "degrees": [
+            null,
             "imaginary / unreal / made-up ; imagine X-ing, not really X-ing [contrary to suggestion otherwise]",
             "imaginary / unreal / made-up / fictional; imagine X-ing, not really X-ing",
             "fake / pretend / mock; pretend to, fake X-ing",
@@ -425,11 +450,12 @@
         ]
     },
     {
-        "affix": "šv",
-        "gradient_type": "D1",
         "name": "DRE",
         "description": "Degree of Recreation",
+        "gradient_type": "D1",
+        "cs": "šv",
         "degrees": [
+            null,
             "for utterly hedonistic purposes despite awareness of the negative consequences",
             "for hedonistic purposes without concern for others or for potential negative consequences",
             "for recreational purposes / for fun without negative consequences or negative impact on others",
@@ -442,11 +468,12 @@
         ]
     },
     {
-        "affix": "cč",
-        "gradient_type": "D1",
         "name": "IMX",
         "description": "Type of Imaginary Existence",
+        "gradient_type": "D1",
+        "cs": "cč",
         "degrees": [
+            null,
             "mythological",
             "religion-based / scripture-based",
             "legendary (i.e., based on a legend)",
@@ -459,11 +486,12 @@
         ]
     },
     {
-        "affix": "vd",
-        "gradient_type": "D1",
         "name": "DSA",
         "description": "Degree of Societal Agreement/Consensus",
+        "gradient_type": "D1",
+        "cs": "vd",
         "degrees": [
+            null,
             "indisputable / taken for granted by all",
             "(it) being common sense (that...)",
             "widely believed / assumed (that...)",
@@ -476,11 +504,12 @@
         ]
     },
     {
-        "affix": "rft",
-        "gradient_type": "A1",
         "name": "CNT",
         "description": "Degree of Centrality",
+        "gradient_type": "A1",
+        "cs": "rft",
         "degrees": [
+            null,
             "beyond the confines of, outside of, beyond the edge/limits of",
             "circumscribing; located or occurring throughout much of or at various places along the periphery or edge",
             "peripheral; located or occurring on, around, or near the edge",
@@ -493,11 +522,12 @@
         ]
     },
     {
-        "affix": "vç",
-        "gradient_type": "B",
         "name": "DPY",
         "description": "Degree of Principality (of an entity within a group or system)",
+        "gradient_type": "B",
+        "cs": "vç",
         "degrees": [
+            null,
             "tertiary and inessential",
             "tertiary (peripheral)",
             "tertiary, but still essential",
@@ -510,11 +540,12 @@
         ]
     },
     {
-        "affix": "xv",
-        "gradient_type": "D1",
         "name": "DCP*",
         "description": "Degree of Concentration vs. Dissipation",
+        "gradient_type": "D1",
+        "cs": "xv",
         "degrees": [
+            null,
             "highly concentrated; unable to get more concentrated",
             "very concentrated; very condensed; very agglomerated",
             "concentrated/agglomerated/condensed",
@@ -527,11 +558,12 @@
         ]
     },
     {
-        "affix": "md",
-        "gradient_type": "D1",
         "name": "PRT",
         "description": "Degree of Portability",
+        "gradient_type": "D1",
+        "cs": "md",
         "degrees": [
+            null,
             "not portable – solidly integrated into substrate",
             "not portable (e.g., due to excessive mass, shape/form, texture, toxicity, temperature, etc.)",
             "not easily portable; barely portable",
@@ -544,11 +576,12 @@
         ]
     },
     {
-        "affix": "mk",
-        "gradient_type": "D1",
         "name": "FGN",
         "description": "Degree of Foreignness",
+        "gradient_type": "D1",
+        "cs": "mk",
         "degrees": [
+            null,
             "indigenous / autochthonous / endemic / native",
             "not originally indigenous or autochthonous or native but of long-standing presence and the first to fill a particular niche, there being no pre-existing inhabitants/species/exemplars for that niche",
             "not indigenous or autochthonous or native and only recently arrived, but the first to fill a particular niche, there being no pre-existing inhabitants/species/exemplars for that niche",

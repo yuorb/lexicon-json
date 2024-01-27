@@ -1,10 +1,11 @@
 [
     {
-        "affix": "lz",
-        "gradient_type": "0",
         "name": "DSD",
         "description": "Desiderative modalities",
+        "gradient_type": "0",
+        "cs": "lz",
         "degrees": [
+            null,
             "want to/that; desire to/that",
             "hope to/that, wish to/that; Type 2: dream about/long to",
             "request/ would like to/that / if you please",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "ž",
-        "gradient_type": "0",
         "name": "CPC",
         "description": "Capacitative modalities",
+        "gradient_type": "0",
+        "cs": "ž",
         "degrees": [
+            null,
             "can/be able = have phys. ability/capacity to",
             "can/be able = have opportunity to",
             "can/could = have the potential to / possibility of",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "čp",
-        "gradient_type": "0",
         "name": "DBV",
         "description": "Deliberative modalities",
+        "gradient_type": "0",
+        "cs": "čp",
         "degrees": [
+            null,
             "be devoted/committed to",
             "have impression/feeling that",
             "think (believe) that",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "fs",
-        "gradient_type": "0",
         "name": "ATI",
         "description": "Anticipatory modalities",
+        "gradient_type": "0",
+        "cs": "fs",
         "degrees": [
+            null,
             "tend to / be apt/prone to / be characterized by X-ness",
             "be prepared/ready to",
             "promise to / swear to / vow to",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "lž",
-        "gradient_type": "0",
         "name": "OBG",
         "description": "Obligative/necessitative",
+        "gradient_type": "0",
+        "cs": "lž",
         "degrees": [
+            null,
             "must / have to",
             "should / ought to",
             "be supposed/expected to, would be best if",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "vč",
-        "gradient_type": "0",
         "name": "AVS",
         "description": "Aversive (“short-cut” negations of other modalities)",
+        "gradient_type": "0",
+        "cs": "vč",
         "degrees": [
+            null,
             "forget to",
             "avoid/shy away from",
             "fear to / dare not",

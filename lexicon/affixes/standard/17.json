@@ -1,10 +1,11 @@
 [
     {
-        "affix": "ẓč",
-        "gradient_type": "0",
         "name": "PG1",
         "description": "Physical Features Based on Geography 1 for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "ẓč",
         "degrees": [
+            null,
             "having physical features characteristic of mainland Asian origin or environment",
             "having physical features characteristic of Southeast Asian/Polynesian origin or environment",
             "having physical features characteristic of Central Asian origin or environment",
@@ -18,11 +19,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "ẓj",
-        "gradient_type": "0",
         "name": "PG2",
         "description": "Physical Features Based on Geography 2 for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "ẓj",
         "degrees": [
+            null,
             "having physical features characteristic of Arctic origin or environment",
             "having physical features characteristic of Mediterranean Sea origin or environment",
             "having physical features characteristic of Pacific Ocean or environment",
@@ -36,11 +38,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "ẓg",
-        "gradient_type": "0",
         "name": "BRE",
         "description": "Biogeographic Realm/Ecozone",
+        "gradient_type": "0",
+        "cs": "ẓg",
         "degrees": [
+            null,
             "inhabiting or originating in the Palearctic ecozone",
             "inhabiting or originating in the Nearctic ecozone",
             "inhabiting or originating in the Holarctic ecozone",
@@ -54,11 +57,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "šb",
-        "gradient_type": "0",
         "name": "GEO",
         "description": "Geographic or Environmental Niche for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "šb",
         "degrees": [
+            null,
             "inhabiting or associated with high mountains",
             "inhabiting or associated with the desert",
             "inhabiting or associated with rocky terrain",
@@ -72,11 +76,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "šd",
-        "gradient_type": "0",
         "name": "WBN",
         "description": "Water-based Environmental Niche for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "šd",
         "degrees": [
+            null,
             "inhabiting or associated with islands",
             "inhabiting or associated with offshore/shallow ocean dwelling",
             "inhabiting or associated with the seashore/littoral",
@@ -90,11 +95,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "šg",
-        "gradient_type": "0",
         "name": "OBN",
         "description": "Ocean-based Environmental Niche for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "šg",
         "degrees": [
+            null,
             "inhabiting or associated with the intertidal zone",
             "inhabiting or associated with a coral reef",
             "inhabiting or associated with the neritic zone",
@@ -108,11 +114,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "zv",
-        "gradient_type": "0",
         "name": "ENS",
         "description": "Environmental Niche for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "zv",
         "degrees": [
+            null,
             "active at twilight / crepuscular",
             "active at night / nocturnal",
             "active around dawn",
@@ -126,11 +133,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "ţč",
-        "gradient_type": "0",
         "name": "DBM",
         "description": "Distinctive Bodily/Fur Markings for Species or Sub-Species Differentiation",
+        "gradient_type": "0",
+        "cs": "ţč",
         "degrees": [
+            null,
             "having rows of lighter-colored spots",
             "having rows of darker-colored spots",
             "having lighter-colored facial band(s)",
@@ -144,11 +152,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "vž",
-        "gradient_type": "0",
         "name": "MB1",
         "description": "Morphological Bodily Distinctions for Species or Sub-Species Differentiation 1",
+        "gradient_type": "0",
+        "cs": "vž",
         "degrees": [
+            null,
             "having a longer-than-average tail",
             "having a larger-than-average-mouth/beak/gullet",
             "having larger-than-average eyes",
@@ -162,11 +171,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "ţj",
-        "gradient_type": "0",
         "name": "MB2",
         "description": "Morphological Bodily Distinctions for Species or Sub-Species Differentiation 2",
+        "gradient_type": "0",
+        "cs": "ţj",
         "degrees": [
+            null,
             "having a shorter-than-average tail",
             "having a smaller-than-average-mouth/beak/gullet",
             "having smaller-than-average eyes",
@@ -180,11 +190,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "cd",
-        "gradient_type": "0",
         "name": "RES",
         "description": "Resemblances to Other Species",
+        "gradient_type": "0",
+        "cs": "cd",
         "degrees": [
+            null,
             "having behavioral traits similar to X",
             "having eating/hunting habits similar to X",
             "having a voice/call/cry/whistle, etc. similar to X",
@@ -198,11 +209,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "çň",
-        "gradient_type": "B",
         "name": "SYM",
         "description": "Symbiotic Relationship",
+        "gradient_type": "B",
+        "cs": "çň",
         "degrees": [
+            null,
             "in an obligate [i.e., required/mandatory/necessary] relationship with another party to mutual benefit, i.e., obligate mutualistic relationship",
             "in an obligate [i.e., required/mandatory/necessary] relationship to the benefit of oneself but neutral to the other party, i.e., obligate commensal relationship",
             "in an obligate [i.e., required/mandatory/necessary] relationship to the benefit of oneself but harmful to the other party, i.e., obligate parasitic relationship",
@@ -216,11 +228,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "bv",
-        "gradient_type": "D1",
         "name": "TXN",
         "description": "Taxonomic Classification Hierarchy (to be added to the Base Root forms for various groupings)",
+        "gradient_type": "D1",
+        "cs": "bv",
         "degrees": [
+            null,
             "X as representative of a 3rd-level sub-grouping of the basic-level grouping [the sub-species or strain of which X is a member₂]",
             "X as representative of a sub-sub-group or sub-sub-section of X’s base-level group [the species of which X is a member₂]",
             "X as representative of a sub-group or sub-section of X’s base-level group [the genus of which X is a member₂]",
@@ -234,11 +247,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "dv",
-        "gradient_type": "D1",
         "name": "HSR",
         "description": "Hierarchical Sub- and Super-Rankings",
+        "gradient_type": "D1",
+        "cs": "dv",
         "degrees": [
+            null,
             "sub-sub- (two degree of ranking below)",
             "sub- (one degrees of ranking below)",
             "comprising some of a section; some of the sub-sections of a section",
@@ -252,11 +266,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "rç",
-        "gradient_type": "A1",
         "name": "PEB",
         "description": "Overall Presence/Participation Within an Environmental Niche or Biosphere",
+        "gradient_type": "A1",
+        "cs": "rç",
         "degrees": [
+            null,
             "dominant component/feature/element/life-form/factor",
             "near-dominant",
             "near-dominant",
@@ -270,11 +285,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "xn",
-        "gradient_type": "D1",
         "name": "PZE",
         "description": "Paleozoic Era",
+        "gradient_type": "D1",
+        "cs": "xn",
         "degrees": [
+            null,
             "of/from/during the Paleozoic Era",
             "of/from/during the Early (or Lower) or Middle Cambrian Period",
             "of/from/during the Late (Upper) Cambrian epoch or Furongian period",
@@ -288,11 +304,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "pn",
-        "gradient_type": "D1",
         "name": "MZE",
         "description": "Mesozoic Era",
+        "gradient_type": "D1",
+        "cs": "pn",
         "degrees": [
+            null,
             "of/from/during the Mesozoic Era",
             "of/from/during the Early (or Lower) Triassic epoch",
             "of/from/during the Middle Triassic epoch",
@@ -306,11 +323,12 @@
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },
     {
-        "affix": "gn",
-        "gradient_type": "D1",
         "name": "CZE",
         "description": "Cenozoic Era",
+        "gradient_type": "D1",
+        "cs": "gn",
         "degrees": [
+            null,
             "of/from/during the Cenozoic Era",
             "of/from/during the Paleocene epoch",
             "of/from/during the Eocene epoch",

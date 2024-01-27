@@ -1,10 +1,11 @@
 [
     {
-        "affix": "nz",
-        "gradient_type": "0",
         "name": "PWF",
         "description": "Part/Whole Functional Metaphors",
+        "gradient_type": "0",
+        "cs": "nz",
         "degrees": [
+            null,
             "(acting as) engine / motor / heart / pump / core / driver mechanism",
             "(acting as) brain / computer / chip / instruction set",
             "(acting as) input / feeder / access point / mouth",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "mž",
-        "gradient_type": "0",
         "name": "PWC",
         "description": "Part/Whole Componential Metaphors (replaces Ithkuil’s PTG affix)",
+        "gradient_type": "0",
+        "cs": "mž",
         "degrees": [
+            null,
             "(acting as) support / leg / stand / base of X",
             "(acting as) “trunk”, torso, or central bulk portion of X",
             "(acting as) “head” extension or main interface area of X",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "dř",
-        "gradient_type": "C",
         "name": "SBS",
         "description": "Subset of Configurative Set",
+        "gradient_type": "C",
+        "cs": "dř",
         "degrees": [
+            null,
             "single specific member (random, i.e., any given member)",
             "natural first level subset (e.g., “a cell among a network”, “a clique within a club”, “a row of an orchard”)",
             "natural 2nd level subset (e.g., “section of a network”, “subcommittee within a club”, “section of an orchard”)",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "bř",
-        "gradient_type": "C",
         "name": "SPS",
         "description": "Superset",
+        "gradient_type": "C",
+        "cs": "bř",
         "degrees": [
+            null,
             "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set",
             "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity",
             "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate (quasi-)independently",
@@ -69,11 +73,12 @@
         "notes": "The affix can be used in conjunction with the specialized Ca-stacking Cs affix to specify structures/networks/systems of increasing\ncomplexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt (i.e., a higher-order\npattern/configuration more cognitively simple or salient than the lower order pattern/configuration)."
     },
     {
-        "affix": "mç",
-        "gradient_type": "B",
         "name": "DCF",
         "description": "2nd-Level Duplex Configurative Set of 1st-Level Sets",
+        "gradient_type": "B",
+        "cs": "mç",
         "degrees": [
+            null,
             "DSS set of first-order configurative sets X",
             "DSC set of first-order configurative sets X",
             "DSF set of first-order configurative sets X",
@@ -87,11 +92,12 @@
         "notes": "The affix serves the same purpose as Ca-stacking but are limited only to the category of Configuration"
     },
     {
-        "affix": "nç",
-        "gradient_type": "B",
         "name": "MCF",
         "description": "2nd-Level Multiplex Configurative Set of 1st-Level Sets",
+        "gradient_type": "B",
+        "cs": "nç",
         "degrees": [
+            null,
             "MSS set of first-order configurative sets X",
             "MSC set of first-order configurative sets X",
             "MSF set of first-order configurative sets X",
@@ -105,11 +111,12 @@
         "notes": "The affix serves the same purpose as Ca-stacking but are limited only to the category of Configuration"
     },
     {
-        "affix": "sř",
-        "gradient_type": "C",
         "name": "DPR",
         "description": "Dispersion or Separability of a Configurative Set (can be used for spatial or temporal contexts)",
+        "gradient_type": "C",
+        "cs": "sř",
         "degrees": [
+            null,
             "in total contact/contiguous mass of; pile, “ball of…” [(quasi-)permanent]",
             "non-contiguous but closely connected, interlinked ,each linked to adjacent via connecting medium (e.g., a web, branches, vines); cluster[(quasi-)permanent]",
             "not physically connected but with immediate accessibility and knowledge of other member actions [(quasi-)permanent]",
@@ -122,11 +129,12 @@
         ]
     },
     {
-        "affix": "gř",
-        "gradient_type": "C",
         "name": "SEP",
         "description": "Spatio-Temporal Separability of a Configurative Set",
+        "gradient_type": "C",
+        "cs": "gř",
         "degrees": [
+            null,
             "logical connectedness only (spatial)",
             "Loosely integrated spatially – one positioned far away from another",
             "Loosely integrated spatially – one positioned a little ways away from another",
@@ -139,11 +147,12 @@
         ]
     },
     {
-        "affix": "ẓř",
-        "gradient_type": "C",
         "name": "SDP",
         "description": "Subset of Duplex Set",
+        "gradient_type": "C",
+        "cs": "ẓř",
         "degrees": [
+            null,
             "first, top, front, lefthand or lead “half” of duplex set or pair (e.g., upper lip, inhale/inhalation, lefthand)",
             "beginning or leading “edge” of the first, top, front, lefthand or lead “half” of a duplex entity",
             "middle section of the first, top, front, lefthand or lead “half” of a duplex entity",
@@ -156,11 +165,12 @@
         ]
     },
     {
-        "affix": "ẓv",
-        "gradient_type": "0",
         "name": "CGL",
         "description": "Motive/Reason for Conglomeration of Gestalt Entity",
+        "gradient_type": "0",
+        "cs": "ẓv",
         "degrees": [
+            null,
             "by being physically forced to against the memberentities’ interest or will",
             "by being pressured, coerced, tricked",
             "by reluctant agreement",
@@ -173,11 +183,12 @@
         ]
     },
     {
-        "affix": "rst",
-        "gradient_type": "A1",
         "name": "ITG",
         "description": "Integrity of a Configurative Set",
+        "gradient_type": "A1",
+        "cs": "rst",
         "degrees": [
+            null,
             "complete, whole, full [ = the entirety of an expected/established/conventionalized configurative set without any members/parts/segments missing or removed]",
             "functionally complete, whole, full [ = members/parts/segments missing or removed from the expected/established/conventionalized set but functionality still OK ]",
             "nearly complete, nearly whole, nearly full [ = some members/parts/segments missing or removed, possibly affecting the functionality/purpose of the whole somewhat]",
@@ -191,11 +202,12 @@
         "notes": "Examples of use: *a **full** meal, the **whole** library, a **partial** list, an **incomplete** story, **There are holes in** his account of what happened, the **decimated** platoon, An\nold man whose body **is falling apart**, a **partially** rebuilt city.*"
     },
     {
-        "affix": "ţř",
-        "gradient_type": "C",
         "name": "SYS",
         "description": "Networks & Systems",
+        "gradient_type": "C",
+        "cs": "ţř",
         "degrees": [
+            null,
             "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting",
             "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a (quasi-)mechanistic system",
             "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a dynamic/feedback-driven/self-sustaining system",
@@ -209,11 +221,12 @@
         "notes": "Like the SPS affix earlier, the affix can be used in conjunction with the -üa Ca-stacking affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt (i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration)."
     },
     {
-        "affix": "tv",
-        "gradient_type": "D1",
         "name": "SMN",
         "description": "Semantic Network",
+        "gradient_type": "D1",
+        "cs": "tv",
         "degrees": [
+            null,
             "semantic network of places associated with X and their (inter-)relationships to each other",
             "semantic network of places and objects associated with X and their (inter-)relationships to each other",
             "semantic network of objects associated with X and their (inter-)relationships to each other",
@@ -226,11 +239,12 @@
         ]
     },
     {
-        "affix": "ţs",
-        "gradient_type": "0",
         "name": "ERN",
         "description": "Entity and Relationship Within A Semantic Network",
+        "gradient_type": "0",
+        "cs": "ţs",
         "degrees": [
+            null,
             "individual concept/idea within X’s semantic network",
             "individual place/location within X’s semantic network",
             "individual object within X’s semantic network",
@@ -243,11 +257,12 @@
         ]
     },
     {
-        "affix": "nh",
-        "gradient_type": "A2",
         "name": "PXM*",
         "description": "Degree of Proximity",
+        "gradient_type": "A2",
+        "cs": "nh",
         "degrees": [
+            null,
             "too close",
             "as close as possible without contact",
             "very close to",
@@ -260,11 +275,12 @@
         ]
     },
     {
-        "affix": "ţd",
-        "gradient_type": "D1",
         "name": "CTC*",
         "description": "Degree of Contact",
+        "gradient_type": "D1",
+        "cs": "ţd",
         "degrees": [
+            null,
             "melded with / blended with / fused",
             "inseparable(ly) / locked together / bonded",
             "linked / attached / connected / joined",
@@ -277,11 +293,12 @@
         ]
     },
     {
-        "affix": "kc",
-        "gradient_type": "0",
         "name": "EPP",
         "description": "Edible or Autonomous Plant Parts/Components",
+        "gradient_type": "0",
+        "cs": "kc",
         "degrees": [
+            null,
             "seed/nut of X",
             "(seed) pod of X",
             "fruit of X",
@@ -294,11 +311,12 @@
         ]
     },
     {
-        "affix": "fc",
-        "gradient_type": "0",
         "name": "SPP",
         "description": "Structural Plant Parts",
+        "gradient_type": "0",
+        "cs": "fc",
         "degrees": [
+            null,
             "root of X",
             "trunk of X",
             "branch/limb of X",

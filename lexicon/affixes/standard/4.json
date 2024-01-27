@@ -1,10 +1,11 @@
 [
     {
-        "affix": "řk",
-        "gradient_type": "A1",
         "name": "DGR",
         "description": "Exactness of Degree",
+        "gradient_type": "A1",
+        "cs": "řk",
         "degrees": [
+            null,
             "unknowable degree or amount of",
             "almost impossible to determine degree of",
             "unknown degree or amount of",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "rf",
-        "gradient_type": "A1",
         "name": "PTW*",
         "description": "Contiguous Portion of the Whole",
+        "gradient_type": "A1",
+        "cs": "rf",
         "degrees": [
+            null,
             "no amount of/none (of)",
             "a very few/a tiny amount of/a tiny number of, only a tiny bit/a tiny bit",
             "few/a little/a bit, a little/a bit",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "rţ",
-        "gradient_type": "A1",
         "name": "PTT",
         "description": "Non-Contiguous (i.e., Intermixed) Portion of the Whole",
+        "gradient_type": "A1",
+        "cs": "rţ",
         "degrees": [
+            null,
             "no amount of/none (of)",
             "a very few/a tiny amount of/a tiny number of, only a tiny bit/a tiny bit",
             "few/a little/a bit, a little/a bit",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "g",
-        "gradient_type": "D1",
         "name": "EXN*",
         "description": "Degree or Extent",
+        "gradient_type": "D1",
+        "cs": "g",
         "degrees": [
+            null,
             "not at all / completely lacking in... / none whatsoever / not...whatsoever",
             "hardly at all / almost completely lacking in...",
             "to a small degree",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "ft",
-        "gradient_type": "D1",
         "name": "POR",
         "description": "Portion or Section",
+        "gradient_type": "D1",
+        "cs": "ft",
         "degrees": [
+            null,
             "smallest possible portion/section/amount of a larger whole",
             "extremely small portion/section/amount of a larger whole",
             "small portion/section/amount of a larger whole",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "řt",
-        "gradient_type": "A1",
         "name": "INL",
         "description": "Degree Of Inclusion",
+        "gradient_type": "A1",
+        "cs": "řt",
         "degrees": [
+            null,
             "not a(ny), not one, no X whatsoever, none of X; in no such manner",
             "hardly any, barely any X; in hardly any such manner",
             "some few/a few certain … ; in a few certain ways",
@@ -102,11 +108,12 @@
         ]
     },
     {
-        "affix": "rt",
-        "gradient_type": "A1",
         "name": "SUF*",
         "description": "Degree Of Sufficiency of Amount /Impact",
+        "gradient_type": "A1",
+        "cs": "rt",
         "degrees": [
+            null,
             "none at all; no…at all",
             "way too little / woefully insufficient / way too few; not...anywhere enough / totally under-[+verb]",
             "not enough / insufficient / too few; not...enough / insufficiently / under-[+verb]",
@@ -119,11 +126,12 @@
         ]
     },
     {
-        "affix": "pţ",
-        "gradient_type": "D1",
         "name": "EXD",
         "description": "Dynamically Changing Degree or Extent",
+        "gradient_type": "D1",
+        "cs": "pţ",
         "degrees": [
+            null,
             "less and less / fewer and fewer / ongoing decrease in; decreasingly",
             "a lot fewer / a lot less (of); a lot less",
             "fewer / less (of); less",
@@ -136,11 +144,12 @@
         ]
     },
     {
-        "affix": "ršk",
-        "gradient_type": "A1",
         "name": "ESO",
         "description": "Extent to Which Something Occurs",
+        "gradient_type": "A1",
+        "cs": "ršk",
         "degrees": [
+            null,
             "almost / nearly",
             "hardly / barely",
             "“just” = barely past or beyond some threshold or limit, e.g., ‘Widen the aperture until the cable “just” fits through.’",
@@ -153,11 +162,12 @@
         ]
     },
     {
-        "affix": "cv",
-        "gradient_type": "0",
         "name": "NPE",
         "description": "Non-Relative Physical Extent",
+        "gradient_type": "0",
+        "cs": "cv",
         "degrees": [
+            null,
             "the extent/degree of X; the degree to which X is present",
             "the availability of X; the extent/degree to which X is available",
             "the influence of X; the extent/degree to which X is influential",
@@ -170,11 +180,12 @@
         ]
     },
     {
-        "affix": "lḑ",
-        "gradient_type": "D1",
         "name": "TVP",
         "description": "Trivalent Polarity (gradient values from -1 thru 0 to +1)",
+        "gradient_type": "D1",
+        "cs": "lḑ",
         "degrees": [
+            null,
             "completely the opposite extreme, polar opposite of, to the utmost opposite/negative extreme, couldn’t be worse, totally backfired",
             "much worse than if nothing had been done",
             "worse than if nothing had been done",
@@ -187,11 +198,12 @@
         ]
     },
     {
-        "affix": "tļ",
-        "gradient_type": "D1",
         "name": "PLT",
         "description": "Pletive (i.e., relative amount compared to a\nstandard or a previous or expected amount)",
+        "gradient_type": "D1",
+        "cs": "tļ",
         "degrees": [
+            null,
             "total absence of X (where X was never present to begin with)",
             "total loss/absence of X (where X was previously present)",
             "severe loss of X from previous level — near absence of X",
@@ -204,11 +216,12 @@
         ]
     },
     {
-        "affix": "zm",
-        "gradient_type": "D2",
         "name": "RCO",
         "description": "Recoil in place (spring back; snap back; fall back into place)",
+        "gradient_type": "D2",
+        "cs": "zm",
         "degrees": [
+            null,
             "recoil in place not enough",
             "recoil in place hardly at all",
             "recoil in place to a small degree",
@@ -221,11 +234,12 @@
         ]
     },
     {
-        "affix": "žm",
-        "gradient_type": "D2",
         "name": "TFI",
         "description": "Back & forth; to & fro in place (e.g., pendulum, wagging tail)",
+        "gradient_type": "D2",
+        "cs": "žm",
         "degrees": [
+            null,
             "go back and forth not enough",
             "go back and forth hardly at all",
             "go back and forth to a small degree",
@@ -238,11 +252,12 @@
         ]
     },
     {
-        "affix": "cm",
-        "gradient_type": "D2",
         "name": "CRI",
         "description": "Cycle or circular motion in place (spin, revolve)",
+        "gradient_type": "D2",
+        "cs": "cm",
         "degrees": [
+            null,
             "cycle in place too slowly",
             "cycle in place very slowly",
             "cycle in place slowly",
@@ -255,11 +270,12 @@
         ]
     },
     {
-        "affix": "ẓm",
-        "gradient_type": "D2",
         "name": "CRV",
         "description": "Cycle or circular motion over linear vector (e.g., train wheels, bike wheels)",
+        "gradient_type": "D2",
+        "cs": "ẓm",
         "degrees": [
+            null,
             "roll not enough",
             "roll hardly at all",
             "roll to a small degree",
@@ -272,11 +288,12 @@
         ]
     },
     {
-        "affix": "jm",
-        "gradient_type": "D2",
         "name": "MDL",
         "description": "Random pattern of modulation (unpredictable/irregular)",
+        "gradient_type": "D2",
+        "cs": "jm",
         "degrees": [
+            null,
             "randomly modulate not enough",
             "randomly modulate hardly at all",
             "randomly modulate to a small degree",
@@ -289,11 +306,12 @@
         ]
     },
     {
-        "affix": "sx",
-        "gradient_type": "D2",
         "name": "ICR",
         "description": "Increase",
+        "gradient_type": "D2",
+        "cs": "sx",
         "degrees": [
+            null,
             "increase too slowly",
             "increase very slowly",
             "increase slowly",
@@ -306,11 +324,12 @@
         ]
     },
     {
-        "affix": "bx",
-        "gradient_type": "D2",
         "name": "DCR",
         "description": "Decrease",
+        "gradient_type": "D2",
+        "cs": "bx",
         "degrees": [
+            null,
             "decrease too slowly",
             "decrease very slowly",
             "decrease slowly",
@@ -323,11 +342,12 @@
         ]
     },
     {
-        "affix": "šx",
-        "gradient_type": "D2",
         "name": "ICD",
         "description": "Increase then Decrease",
+        "gradient_type": "D2",
+        "cs": "šx",
         "degrees": [
+            null,
             "increase then decrease too slowly",
             "increase then decrease very slowly",
             "increase then decrease slowly",
@@ -340,11 +360,12 @@
         ]
     },
     {
-        "affix": "dx",
-        "gradient_type": "D2",
         "name": "DCI",
         "description": "Decrease then Increase",
+        "gradient_type": "D2",
+        "cs": "dx",
         "degrees": [
+            null,
             "decrease then increase too slowly",
             "decrease then increase very slowly",
             "decrease then increase slowly",
@@ -357,11 +378,12 @@
         ]
     },
     {
-        "affix": "jx",
-        "gradient_type": "D2",
         "name": "IDR",
         "description": "Random/Varying Increases and Decreases",
+        "gradient_type": "D2",
+        "cs": "jx",
         "degrees": [
+            null,
             "increase and decrease randomly too slowly",
             "increase and decrease randomly very slowly",
             "increase and decrease randomly slowly",
@@ -374,11 +396,12 @@
         ]
     },
     {
-        "affix": "mh",
-        "gradient_type": "A2",
         "name": "FLS*",
         "description": "Degree of Fluctuation/Stability",
+        "gradient_type": "A2",
+        "cs": "mh",
         "degrees": [
+            null,
             "too unstable / too random",
             "unstable / highly variable/random fluctuation or instability",
             "moderately variable/random fluctuation or instability",
@@ -391,11 +414,12 @@
         ]
     },
     {
-        "affix": "rg",
-        "gradient_type": "A1",
         "name": "MVT*",
         "description": "Degree of Stillness/Movement",
+        "gradient_type": "A1",
+        "cs": "rg",
         "degrees": [
+            null,
             "unmovable – integrated",
             "unmovable due to mass",
             "not easily moved",

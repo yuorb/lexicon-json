@@ -1,10 +1,11 @@
 [
     {
-        "affix": "vz",
-        "gradient_type": "0",
         "name": "ACQ",
         "description": "Acquisition",
+        "gradient_type": "0",
+        "cs": "vz",
         "degrees": [
+            null,
             "acquired by chance/whim/having stumbled upon",
             "acquired by mental effort/learning/study/creation",
             "acquired by informal, spur-of-the-moment search",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "ňz",
-        "gradient_type": "0",
         "name": "RNC",
         "description": "Renunciation",
+        "gradient_type": "0",
+        "cs": "ňz",
         "degrees": [
+            null,
             "give up X-ing / give up on X",
             "lose faith/belief in X(-ing)",
             "stop trying to",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "čb",
-        "gradient_type": "0",
         "name": "INB",
         "description": "Inability/Incapacity Due To . . .",
+        "gradient_type": "0",
+        "cs": "čb",
         "degrees": [
+            null,
             "inability to [perform/achieve/realize] X so due to absence/loss of resources",
             "inability to [perform/achieve/realize] X so due to absence/loss of physical means",
             "inability to [perform/achieve/realize] X so due to absence/loss of skill/knowledge",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "s",
-        "gradient_type": "0",
         "name": "CMF",
         "description": "Communication Format",
+        "gradient_type": "0",
+        "cs": "s",
         "degrees": [
+            null,
             "via language (in general, whether spoken / written / printed / signed / signaled / broadcast / published / disseminated / streamed, etc.)",
             "via spoken/vocalized language",
             "via written language; in writing [for real-time communication to be read directly by the present audience]",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "řns",
-        "gradient_type": "A1",
         "name": "ENG",
         "description": "Degree of Engagement/Involvement",
+        "gradient_type": "A1",
+        "cs": "řns",
         "degrees": [
+            null,
             "avoiding X(-ing) at all costs / run away from X(-ing) / terrified of X(-ing)",
             "averse to X(-ing); fear X(-ing) / fear of X(-ing) / afraid of X(-ing) / afraid to X",
             "shirk involvement in X(-ing); not be/get involved in",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "ňs",
-        "gradient_type": "0",
         "name": "OSQ",
         "description": "Opportunity Squandered",
+        "gradient_type": "0",
+        "cs": "ňs",
         "degrees": [
+            null,
             "wished-for or hoped-for but so far has never come to pass",
             "missed-out on [opportunity has arisen but one isn’t/wasn’t able or permitted to act upon it despite desire to do so]",
             "missed-out on [opportunity has arisen but is/was passed by or ignored]",
@@ -102,11 +108,12 @@
         ]
     },
     {
-        "affix": "rmz",
-        "gradient_type": "A1",
         "name": "MEM",
         "description": "Memory",
+        "gradient_type": "A1",
+        "cs": "rmz",
         "degrees": [
+            null,
             "always in mind / can’t forget",
             "never to be forgotten / memorable",
             "remembered / recalled / remember to…",
@@ -119,11 +126,12 @@
         ]
     },
     {
-        "affix": "vř",
-        "gradient_type": "C",
         "name": "NNN",
         "description": "N-Numbered Angles/Facets/Faces/Sides/Points/Forms",
+        "gradient_type": "C",
+        "cs": "vř",
         "degrees": [
+            null,
             "uneven/asymmetrical n–sided 2D obtusely angled form (e.g., quadrilateral pentagonoid)",
             "uneven/asymmetrical n-pointed 2D acutely angled “star” formation",
             "uneven/asymmetrical n-faceted 3D solid",
@@ -136,11 +144,12 @@
         ]
     },
     {
-        "affix": "ḑř",
-        "gradient_type": "C",
         "name": "RDT",
         "description": "Redirection of X to Other Use(s)",
+        "gradient_type": "C",
+        "cs": "ḑř",
         "degrees": [
+            null,
             "multiple uses – involuntary",
             "opposing use – involuntary",
             "complementary use – involuntary/unpredictable",
@@ -153,11 +162,12 @@
         ]
     },
     {
-        "affix": "ňš",
-        "gradient_type": "0",
         "name": "PSS",
         "description": "Degree of Alienable Possession",
+        "gradient_type": "0",
+        "cs": "ňš",
         "degrees": [
+            null,
             "the X which one circumstantially possesses/uses/handles at the moment or with which one is momentarily/circumstantially/informally associated",
             "the X circumstantially/informally/temporarily taken by, or circumstantially/informally given/assigned/designated to one for their use/possession/responsibility",
             "the X formally/officially taken by, or formally/officially given/assigned/designated to one for their use/possession/responsibility as per purchase, formal gift, declaration, contract, or other societal convention.",
@@ -170,11 +180,12 @@
         ]
     },
     {
-        "affix": "ňž",
-        "gradient_type": "0",
         "name": "CLS*",
         "description": "Classification",
+        "gradient_type": "0",
+        "cs": "ňž",
         "degrees": [
+            null,
             "a physical arrangement or discernible pattern/assortment of X for aesthetic reasons",
             "a physical arrangement or discernible pattern/assortment of X for utilitarian reasons",
             "X as a member or representative of a certain kind/sort/genre/class of entity",
@@ -187,11 +198,12 @@
         ]
     },
     {
-        "affix": "nš",
-        "gradient_type": "0",
         "name": "BAS",
         "description": "Basis",
+        "gradient_type": "0",
+        "cs": "nš",
         "degrees": [
+            null,
             "X-based; on the basis of X  ( = general overall basis for something, i.e., X as both the idea behind and model for something)",
             "X-based, on the basis of X ( = as the intellectual basis for, X as the idea behind something)",
             "X-based; modeled upon/after X ( = in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
@@ -204,11 +216,12 @@
         ]
     },
     {
-        "affix": "fř",
-        "gradient_type": "C",
         "name": "SHP*",
         "description": "Shape or Form",
+        "gradient_type": "C",
+        "cs": "fř",
         "degrees": [
+            null,
             "having the 2-D shape of X; shaped like (an) X",
             "somewhat or sort of like the 2-D shape of X; reminiscent of the 2-D shape of X",
             "2-D figure ( = outlined/contoured representation) of X",
@@ -221,11 +234,12 @@
         ]
     },
     {
-        "affix": "ẓt",
-        "gradient_type": "0",
         "name": "VPF",
         "description": "Variance From Prototypical 3-D Form",
+        "gradient_type": "0",
+        "cs": "ẓt",
         "degrees": [
+            null,
             "long axis obliquely angled/inclined away from the vertical/right-angled/rectilinear/perpendicular",
             "elongated lengthwise/heightwise",
             "elongated widthwise/girthwise",
@@ -238,11 +252,12 @@
         ]
     },
     {
-        "affix": "ļř",
-        "gradient_type": "C",
         "name": "TDP",
         "description": "Three-Dimensional Polyhedral Forms",
+        "gradient_type": "C",
+        "cs": "ļř",
         "degrees": [
+            null,
             "symmetrical 3D polyhedron having X-number of triangular faces",
             "symmetrical 3D polyhedron having X-number of quadrilateral faces",
             "symmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
@@ -255,11 +270,12 @@
         ]
     },
     {
-        "affix": "ļn",
-        "gradient_type": "D1",
         "name": "CNW",
         "description": "Conway Polyhedral Mathematical Operations",
+        "gradient_type": "D1",
+        "cs": "ļn",
         "degrees": [
+            null,
             "dual",
             "truncated",
             "subdivided",
@@ -272,11 +288,12 @@
         ]
     },
     {
-        "affix": "jb",
-        "gradient_type": "0",
         "name": "PAT",
         "description": "Common 2-Dimensional Decorative/Featural Patterns",
+        "gradient_type": "0",
+        "cs": "jb",
         "degrees": [
+            null,
             "checker-patterned; checked",
             "polka-dotted",
             "diagonally-striped",
@@ -289,11 +306,12 @@
         ]
     },
     {
-        "affix": "çl",
-        "gradient_type": "B",
         "name": "PUA",
         "description": "Private Usage Or Association",
+        "gradient_type": "B",
+        "cs": "çl",
         "degrees": [
+            null,
             "for one’s own personal use",
             "for use by a private/select group",
             "for use by a specific/particular group",
@@ -306,11 +324,12 @@
         ]
     },
     {
-        "affix": "ẓp",
-        "gradient_type": "0",
         "name": "HUM",
         "description": "Human Usage/Presence/Intervention",
+        "gradient_type": "0",
+        "cs": "ẓp",
         "degrees": [
+            null,
             "as associated with human beings",
             "for the benefit of human beings",
             "for use by human beings",
@@ -323,11 +342,12 @@
         ]
     },
     {
-        "affix": "cc",
-        "gradient_type": "0",
         "name": "KIN",
         "description": "Kinship Relation",
+        "gradient_type": "0",
+        "cs": "cc",
         "degrees": [
+            null,
             "having a full-blood relationship (i.e., genetically related through both parents)",
             "half-related (e.g., half-sister, half-cousin), (i.e., genetically related through one parent only)",
             "paternally related (i.e., through one’s own genetic father)",
@@ -340,11 +360,12 @@
         ]
     },
     {
-        "affix": "vk",
-        "gradient_type": "D1",
         "name": "KSD",
         "description": "Generational/Sequential Kinship Descriptions",
+        "gradient_type": "D1",
+        "cs": "vk",
         "degrees": [
+            null,
             "of one’s previous generation ( i.e., “once removed (upward)”)",
             "of two generations previous (i.e., “grand-“, “twice removed (upward)”)",
             "of three generations previous (i.e., “great grand-“, “three times removed (upward)”)",
@@ -357,11 +378,12 @@
         ]
     },
     {
-        "affix": "rps",
-        "gradient_type": "A1",
         "name": "APV",
         "description": "Alternate Points of View",
+        "gradient_type": "A1",
+        "cs": "rps",
         "degrees": [
+            null,
             "and not even occurring to one to evaluate/consider/analyze a/the situation in any way before deciding/acting",
             "and not even occurring to one to evaluate/consider (a) point(s) of view other than one’s own",
             "with alternate point(s) of view blindly dismissed as irrelevant or having no value before even being considered",
@@ -374,11 +396,12 @@
         ]
     },
     {
-        "affix": "řks",
-        "gradient_type": "A1",
         "name": "CRD",
         "description": "Degree of Crowdedness",
+        "gradient_type": "A1",
+        "cs": "řks",
         "degrees": [
+            null,
             "tightly packed together (“like sardines”) / with no space between components / with no room to move",
             "packed together touching",
             "packed together with minimal space between components / with barely enough room to move without touching others",
@@ -391,11 +414,12 @@
         ]
     },
     {
-        "affix": "kz",
-        "gradient_type": "0",
         "name": "EGY",
         "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State (i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:)",
+        "gradient_type": "0",
+        "cs": "kz",
         "degrees": [
+            null,
             "spring forth (from within), i.e., release pent-up energy into an outward thrusting motion",
             "release (to lower energy state, e.g., fall, let drop, let go, slide, let out, give out, etc.)",
             "grow",
@@ -408,11 +432,12 @@
         ]
     },
     {
-        "affix": "š",
-        "gradient_type": "D1",
         "name": "SEX*",
         "description": "Biological (i.e., genetically-determined) Sex",
+        "gradient_type": "D1",
+        "cs": "š",
         "degrees": [
+            null,
             "born biologically/genetically female; of the female sex",
             "different from / atypical of the female sex",
             "born biologically/genetically male; of the male sex",
@@ -425,11 +450,12 @@
         ]
     },
     {
-        "affix": "c",
-        "gradient_type": "D1",
         "name": "GID",
         "description": "Gender Identity (i.e., one’s chosen identification in relation to sex)",
+        "gradient_type": "D1",
+        "cs": "c",
         "degrees": [
+            null,
             "female (gender identity, not necessarily biological sex)",
             "intergender / androgynous (gender identity, not necessarily biological sex)",
             "male (gender identity, not necessarily biological sex)",
@@ -442,11 +468,12 @@
         ]
     },
     {
-        "affix": "lç",
-        "gradient_type": "B",
         "name": "SID*",
         "description": "Subjective Identity",
+        "gradient_type": "B",
+        "cs": "lç",
         "degrees": [
+            null,
             "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
             "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
             "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
@@ -459,11 +486,12 @@
         ]
     },
     {
-        "affix": "ḑc",
-        "gradient_type": "0",
         "name": "CLG",
         "description": "Cultural or Geo-Demographic Association (primarily used with carrier stems)",
+        "gradient_type": "0",
+        "cs": "ḑc",
         "degrees": [
+            null,
             "the spoken/written language associated with X",
             "a historical event associated with X",
             "the people/culture/society associated with X",
@@ -476,11 +504,12 @@
         ]
     },
     {
-        "affix": "dn",
-        "gradient_type": "D1",
         "name": "OGC",
         "description": "Orientation or Location Relative to a Geographical Central Point",
+        "gradient_type": "D1",
+        "cs": "dn",
         "degrees": [
+            null,
             "northern",
             "northwestern",
             "western",
@@ -493,11 +522,12 @@
         ]
     },
     {
-        "affix": "zẓ",
-        "gradient_type": "0",
         "name": "MSE",
         "description": "Miscellaneous Entailments Associated with an Entity",
+        "gradient_type": "0",
+        "cs": "zẓ",
         "degrees": [
+            null,
             "X offered/supplied/sold as a commodity",
             "X packaged/processed for commercial sale/use",
             "X as a coveted/guarded/protected/limited natural resource",
@@ -510,11 +540,12 @@
         ]
     },
     {
-        "affix": "bḑ",
-        "gradient_type": "D1",
         "name": "PCM",
         "description": "Primary Construction Material",
+        "gradient_type": "D1",
+        "cs": "bḑ",
         "degrees": [
+            null,
             "where X is made exclusively or primarily of wood",
             "where X is made exclusively or primarily of metal",
             "where X is made exclusively or primarily of ceramic or porcelain",
@@ -527,11 +558,12 @@
         ]
     },
     {
-        "affix": "žv",
-        "gradient_type": "0",
         "name": "STF",
         "description": "Miscellaneous Surface Textures or Formations (e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.)",
+        "gradient_type": "0",
+        "cs": "žv",
         "degrees": [
+            null,
             "fruticose (i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down)",
             "foliose (i.e. structured/formed in 2D flat leaf-like lobes)",
             "crustose (i.e. crust-like, adhering tightly to a surface/substrate like a thick coat of paint)",
@@ -544,11 +576,12 @@
         ]
     },
     {
-        "affix": "ţš",
-        "gradient_type": "0",
         "name": "MIA",
         "description": "Musical Instrument Attributes",
+        "gradient_type": "0",
+        "cs": "ţš",
         "degrees": [
+            null,
             "instrument is non-pitched",
             "instrument has a (quasi-) fixed pitch but is untunable",
             "instrument is tunable to a fixed pitch",
@@ -561,11 +594,12 @@
         ]
     },
     {
-        "affix": "ḑç",
-        "gradient_type": "B",
         "name": "CAM",
         "description": "Customization & Modifications",
+        "gradient_type": "B",
+        "cs": "ḑç",
         "degrees": [
+            null,
             "the largest (bass-oriented) version of the usual X",
             "a larger (baritone-oriented) version of the usual X",
             "a smaller (treble- or soprano-oriented) version of the usual X",
@@ -579,11 +613,12 @@
         "notes": "This affix is primarily applied to stems for musical instruments, however it may be used as needed for other devices/objects where applicable."
     },
     {
-        "affix": "řm",
-        "gradient_type": "A1",
         "name": "GAB",
         "description": "Musical Notes GAB",
+        "gradient_type": "A1",
+        "cs": "řm",
         "degrees": [
+            null,
             "A♭/G♯ (le/si)",
             "~A♭/G♯ (~le/si)",
             "Aᑯ",
@@ -597,11 +632,12 @@
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
     {
-        "affix": "řç",
-        "gradient_type": "A1",
         "name": "BCD",
         "description": "Musical Notes BCD",
+        "gradient_type": "A1",
+        "cs": "řç",
         "degrees": [
+            null,
             "B (ti)",
             "~B (~ti)",
             "Cᑯ/B╪",
@@ -615,11 +651,12 @@
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
     {
-        "affix": "řļ",
-        "gradient_type": "A1",
         "name": "DEF",
         "description": "Musical Notes DEF",
+        "gradient_type": "A1",
+        "cs": "řļ",
         "degrees": [
+            null,
             "D (re)",
             "~D (~re)",
             "D╪",
@@ -633,11 +670,12 @@
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
     {
-        "affix": "rl",
-        "gradient_type": "A1",
         "name": "FGA",
         "description": "Musical Notes FGA",
+        "gradient_type": "A1",
+        "cs": "rl",
         "degrees": [
+            null,
             "F (fa)",
             "~F (~fa)",
             "F╪",
@@ -651,11 +689,12 @@
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
     {
-        "affix": "vḑ",
-        "gradient_type": "D1",
         "name": "ASC",
         "description": "Areal/Spatial Scope",
+        "gradient_type": "D1",
+        "cs": "vḑ",
         "degrees": [
+            null,
             "in the easily-accessible or visible vicinity of X; within the readily accessible or readily visible vicinity of X",
             "in the area/space nearby X, in X’s neighborhood, in X’s general vicinity",
             "in the quarter/district or general area surrounding X",
@@ -668,11 +707,12 @@
         ]
     },
     {
-        "affix": "sn",
-        "gradient_type": "D1",
         "name": "AAA",
         "description": "Areal/Cultural Association - East Asia",
+        "gradient_type": "D1",
+        "cs": "sn",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient China",
             "originating in, indigenous to, or associated w/ traditional/ancient Japan",
             "originating in, indigenous to, or associated w/ traditional/ancient Korea",
@@ -685,11 +725,12 @@
         ]
     },
     {
-        "affix": "sň",
-        "gradient_type": "D1",
         "name": "AAS",
         "description": "Areal/Cultural Association - South Asia",
+        "gradient_type": "D1",
+        "cs": "sň",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient India (including the areas comprising modern Pakistan, Bangladesh and Sri Lanka)",
             "originating in, indigenous to, or associated w/ traditional/ancient Afghanistan",
             "originating in, indigenous to, or associated w/ traditional/ancient Nepal",
@@ -702,11 +743,12 @@
         ]
     },
     {
-        "affix": "šn",
-        "gradient_type": "D1",
         "name": "AAI",
         "description": "Areal/Cultural Association - Southeast Asia / East Indies",
+        "gradient_type": "D1",
+        "cs": "šn",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)",
             "originating in, indigenous to, or associated w/ traditional/ancient western mainland Southeast Asia (i.e., Thailand, Myanmar)",
             "originating in, indigenous to, or associated w/ traditional/ancient East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
@@ -719,11 +761,12 @@
         ]
     },
     {
-        "affix": "šň",
-        "gradient_type": "D1",
         "name": "AAC",
         "description": "Areal/Cultural Association - Central Asia (and non-Chinese cultures of the East Asian mainland)",
+        "gradient_type": "D1",
+        "cs": "šň",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient Tibet",
             "originating in, indigenous to, or associated w/ traditional/ancient Mongolia",
             "originating in, indigenous to, or associated w/ traditional/ancient Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen",
@@ -736,11 +779,12 @@
         ]
     },
     {
-        "affix": "cn",
-        "gradient_type": "D1",
         "name": "AAM",
         "description": "Areal/Cultural Association - Middle-East",
+        "gradient_type": "D1",
+        "cs": "cn",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient Arabian Peninsula",
             "originating in, indigenous to, or associated w/ traditional/ancient Fertile Crescent & Levant area",
             "originating in, indigenous to, or associated w/ traditional/ancient Anatolia & Cyprus",
@@ -753,11 +797,12 @@
         ]
     },
     {
-        "affix": "zn",
-        "gradient_type": "D1",
         "name": "AAH",
         "description": "Areal/Cultural Association - Northern Africa & Horn of Africa",
+        "gradient_type": "D1",
+        "cs": "zn",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient Egypt and Nile Valley",
             "originating in, indigenous to, or associated w/ traditional/ancient Horn of Africa",
             "originating in, indigenous to, or associated w/ traditional/ancient North Africa/Maghreb",
@@ -770,11 +815,12 @@
         ]
     },
     {
-        "affix": "zň",
-        "gradient_type": "D1",
         "name": "AAF",
         "description": "Areal/Cultural Association - Sub-Saharan Africa",
+        "gradient_type": "D1",
+        "cs": "zň",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient West Coast and Benin Coast of Africa",
             "originating in, indigenous to, or associated w/ traditional/ancient Central Africa",
             "originating in, indigenous to, or associated w/ traditional/ancient Southern Africa",
@@ -787,11 +833,12 @@
         ]
     },
     {
-        "affix": "žn",
-        "gradient_type": "D1",
         "name": "AAN",
         "description": "Areal/Cultural Association - Northern & Western Europe",
+        "gradient_type": "D1",
+        "cs": "žn",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient Celtic Europe (Gaul, Britain, Ireland, Scotland, North Sea and Channel islands)",
             "originating in, indigenous to, or associated w/ ancent Teutonic Europe (Gothic lands, Norse lands)",
             "originating in, indigenous to, or associated w/ traditional/ancient Baltic Europe (Estonia, Finland, Latvia, Lithuania, Karelia)",
@@ -804,11 +851,12 @@
         ]
     },
     {
-        "affix": "žň",
-        "gradient_type": "D1",
         "name": "AAE",
         "description": "Areal/Cultural Association - Southern & Eastern Europe",
+        "gradient_type": "D1",
+        "cs": "žň",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient Roman Empire, Iberia, France, Greece, Sicely, Corsica, Sardinia, Malta",
             "originating in, indigenous to, or associated w/ traditional/ancient Balkans (southeastern Europe, Romania)",
             "originating in, indigenous to, or associated w/ traditional/ancient Eastern/Slavic Europe other than the Balkans",
@@ -821,11 +869,12 @@
         ]
     },
     {
-        "affix": "jn",
-        "gradient_type": "D1",
         "name": "AAW",
         "description": "Areal/Cultural Association - Western Hemisphere",
+        "gradient_type": "D1",
+        "cs": "jn",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient North America",
             "originating in, indigenous to, or associated w/ traditional/ancient Central America",
             "originating in, indigenous to, or associated w/ traditional/ancient Caribbean",
@@ -838,11 +887,12 @@
         ]
     },
     {
-        "affix": "jň",
-        "gradient_type": "D1",
         "name": "AAO",
         "description": "Areal/Cultural Association - Other Areas",
+        "gradient_type": "D1",
+        "cs": "jň",
         "degrees": [
+            null,
             "originating in, indigenous to, or associated w/ traditional/ancient Polynesia and Pacific Islands",
             "originating in, indigenous to, or associated w/ traditional/ancient Australia & New Zealand",
             "originating in, indigenous to, or associated w/ traditional/ancient Western and Central Siberia",
@@ -855,11 +905,12 @@
         ]
     },
     {
-        "affix": "mḑ",
-        "gradient_type": "D1",
         "name": "DDM",
         "description": "Degree of Domestication",
+        "gradient_type": "D1",
+        "cs": "mḑ",
         "degrees": [
+            null,
             "utterly wild, savage and untamable",
             "wild/savage unknown if approachable/tamable",
             "wild/savage but species known to be approachable and potentially tamable",
@@ -872,11 +923,12 @@
         ]
     },
     {
-        "affix": "řsk",
-        "gradient_type": "D1",
         "name": "CVL",
         "description": "Degree of Civilization",
+        "gradient_type": "D1",
+        "cs": "řsk",
         "degrees": [
+            null,
             "hunter-gatherer status with little ability to forestall adversities such as hunger, disease, or invasion/war",
             "agricultural/agrarian society with limited ability to forestall adversities such as famine, disease, or invasion/war",
             "transitional society between agrarian and socio-economically complex society, with wide variance in individual socio-economic status, stability, or individual impact of hunger, disease, opportunities, etc.",
@@ -889,11 +941,12 @@
         ]
     },
     {
-        "affix": "žf",
-        "gradient_type": "0",
         "name": "HEA*",
         "description": "State of Health",
+        "gradient_type": "0",
+        "cs": "žf",
         "degrees": [
+            null,
             "in the prime of health, completely healthy, without any illness, malady, injury, or incapacity",
             "suffering from a temporary illness or malady causing some degree of impairment or incapacity",
             "suffering from a major illness or malady causing significant impairment or incapacity",
@@ -906,11 +959,12 @@
         ]
     },
     {
-        "affix": "lkř",
-        "gradient_type": "C",
         "name": "ADI",
         "description": "Adverse Disease/Disorder/Illness",
+        "gradient_type": "C",
+        "cs": "lkř",
         "degrees": [
+            null,
             "temporarily asymptomatic despite having [contracted] condition/illness/disorder/pathogen X",
             "temporarily mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
             "temporarily moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
@@ -923,11 +977,12 @@
         ]
     },
     {
-        "affix": "xj",
-        "gradient_type": "0",
         "name": "ASP",
         "description": "Attributes of Sub-Atomic Particles",
+        "gradient_type": "0",
+        "cs": "xj",
         "degrees": [
+            null,
             "having opposite charge, antimatter version of X",
             "super-symmetrical partner of X, “sparticle” counterpart of X , e.g., photino, gluino, gravitino, slepton, squark, sneutrino, etc.",
             "spin value (intrinsic angular momentum) of particle X",
@@ -940,11 +995,12 @@
         ]
     },
     {
-        "affix": "bj",
-        "gradient_type": "0",
         "name": "CFQ",
         "description": "“Colors” and “Flavors” of Quarks",
+        "gradient_type": "0",
+        "cs": "bj",
         "degrees": [
+            null,
             "up",
             "charm",
             "top",
@@ -957,11 +1013,12 @@
         ]
     },
     {
-        "affix": "ltř",
-        "gradient_type": "C",
         "name": "ION",
         "description": "Ionic Compounding Elements",
+        "gradient_type": "C",
+        "cs": "ltř",
         "degrees": [
+            null,
             "transition metal cation with +1 charge",
             "transition metal cation with +2 charge",
             "transition metal cation with +3 charge",
@@ -975,11 +1032,12 @@
         "notes": "Ionic Compounds — inorganic compounds between metals [cations] and non-metals [anions] (like English -ide suffix but with electron charge explicitly stated)"
     },
     {
-        "affix": "rtl",
-        "gradient_type": "A1",
         "name": "AMC",
         "description": "Number of Atoms in a Molecular Compound",
+        "gradient_type": "A1",
+        "cs": "rtl",
         "degrees": [
+            null,
             "deca-*",
             "di-",
             "tri-",
@@ -993,11 +1051,12 @@
         "notes": "Molecular Compounds — inorganic compounds between nonmetals\\n\\n* A single atom (equivalent to English “mono-“) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
     },
     {
-        "affix": "cţ",
-        "gradient_type": "0",
         "name": "PIA",
         "description": "Polyatomic Ions A",
+        "gradient_type": "0",
+        "cs": "cţ",
         "degrees": [
+            null,
             "sulfate",
             "nitrate",
             "chlorate",
@@ -1010,11 +1069,12 @@
         ]
     },
     {
-        "affix": "ẓţ",
-        "gradient_type": "0",
         "name": "PIB",
         "description": "Polyatomic Ions B",
+        "gradient_type": "0",
+        "cs": "ẓţ",
         "degrees": [
+            null,
             "sulfite",
             "nitrite",
             "chlorite",
@@ -1027,11 +1087,12 @@
         ]
     },
     {
-        "affix": "čţ",
-        "gradient_type": "0",
         "name": "PIC",
         "description": "Polyatomic Ions C",
+        "gradient_type": "0",
+        "cs": "čţ",
         "degrees": [
+            null,
             "peroxide",
             "silicate",
             "citrate",
@@ -1044,11 +1105,12 @@
         ]
     },
     {
-        "affix": "jţ",
-        "gradient_type": "0",
         "name": "PID",
         "description": "Polyatomic Ions D",
+        "gradient_type": "0",
+        "cs": "jţ",
         "degrees": [
+            null,
             "thiocyanate",
             "thiosulfate",
             "glycol",
@@ -1061,11 +1123,12 @@
         ]
     },
     {
-        "affix": "zţ",
-        "gradient_type": "0",
         "name": "CPI",
         "description": "Polyatomic Cations",
+        "gradient_type": "0",
+        "cs": "zţ",
         "degrees": [
+            null,
             "ammonium",
             "fluoronium",
             "hydronium",
@@ -1078,11 +1141,12 @@
         ]
     },
     {
-        "affix": "žţ",
-        "gradient_type": "0",
         "name": "PIC(typo)",
         "description": "Additional Polyatomic Ionic Configurations",
+        "gradient_type": "0",
+        "cs": "žţ",
         "degrees": [
+            null,
             "-ate (base oxyanion), e.g., sulfate",
             "-ite (i.e., one less oxyanion than base form), e.g., sulfite",
             "hypo- ... -ite (two less oxyanions than base form), e.g., hyposulfite",
@@ -1095,11 +1159,12 @@
         ]
     },
     {
-        "affix": "sḑ",
-        "gradient_type": "0",
         "name": "GPA",
         "description": "Functional Group A",
+        "gradient_type": "0",
+        "cs": "sḑ",
         "degrees": [
+            null,
             "alkane, alkyl-, -ane",
             "alkene, alkenyl-, -ene",
             "alkyne, alkynyl-, -yne",
@@ -1112,11 +1177,12 @@
         ]
     },
     {
-        "affix": "sļ",
-        "gradient_type": "0",
         "name": "GPB",
         "description": "Functional Group B",
+        "gradient_type": "0",
+        "cs": "sļ",
         "degrees": [
+            null,
             "hydroxil, hydroxy-, -ol",
             "carbonyl, oxo-, -oyl-, -one",
             "aldehyde, -formyl-, -al",
@@ -1129,11 +1195,12 @@
         ]
     },
     {
-        "affix": "šḑ",
-        "gradient_type": "0",
         "name": "GPC",
         "description": "Functional Group C",
+        "gradient_type": "0",
+        "cs": "šḑ",
         "degrees": [
+            null,
             "hydroperoxy-, alkyl hydroperoxide",
             "peroxy-, alkyl peroxide",
             "ether, alkoxy-, alkyl ether",
@@ -1146,11 +1213,12 @@
         ]
     },
     {
-        "affix": "šļ",
-        "gradient_type": "0",
         "name": "GPD",
         "description": "Functional Group D",
+        "gradient_type": "0",
+        "cs": "šļ",
         "degrees": [
+            null,
             "methylenedioxy-, -dioxole",
             "carboxylic anhydride, anhydride",
             "carboxamide, carboxamido-, carbamoyl-, -amide",
@@ -1163,11 +1231,12 @@
         ]
     },
     {
-        "affix": "zḑ",
-        "gradient_type": "0",
         "name": "GPE",
         "description": "Functional Group E",
+        "gradient_type": "0",
+        "cs": "zḑ",
         "degrees": [
+            null,
             "primary ketimine, imino-, imine",
             "secondary ketimine, imino-, -imine",
             "primary aldimine, imino-, imine",
@@ -1180,11 +1249,12 @@
         ]
     },
     {
-        "affix": "zļ",
-        "gradient_type": "0",
         "name": "GPF",
         "description": "Functional Group F",
+        "gradient_type": "0",
+        "cs": "zļ",
         "degrees": [
+            null,
             "nitrile, cyano-, alkanenitrile, alkyl cyanide",
             "isonitrile, isocyano-, alkaneisonitrile, alkyl isocyanide",
             "nitro compound, nitro-",
@@ -1197,11 +1267,12 @@
         ]
     },
     {
-        "affix": "žḑ",
-        "gradient_type": "0",
         "name": "GPG",
         "description": "Functional Group G",
+        "gradient_type": "0",
+        "cs": "žḑ",
         "degrees": [
+            null,
             "phosphate, phosphonooxy-, O-phospono-, ... phosphate",
             "phosphodiester, hydroxyphosphoryloxy-, di...hydrogen phosphate",
             "boronic acid, borono-, ... boronic acid",
@@ -1214,11 +1285,12 @@
         ]
     },
     {
-        "affix": "žļ",
-        "gradient_type": "0",
         "name": "GPH",
         "description": "Functional Group H",
+        "gradient_type": "0",
+        "cs": "žļ",
         "degrees": [
+            null,
             "sulfhydryl, sulfanyl-, -thiol",
             "sulfide, -sulfanyl-, di... sulfide",
             "disulfide, -disulfanyl-, di... disulfide",
@@ -1231,11 +1303,12 @@
         ]
     },
     {
-        "affix": "ẓḑ",
-        "gradient_type": "0",
         "name": "GPJ",
         "description": "Functional Group J",
+        "gradient_type": "0",
+        "cs": "ẓḑ",
         "degrees": [
+            null,
             "thiocyanate, thocyanato-, ...thiocyanate",
             "isothiocyanate, isothiocyanato-, ...isothiocyanate",
             "methanethioyl-, -thial",
@@ -1248,11 +1321,12 @@
         ]
     },
     {
-        "affix": "nkř",
-        "gradient_type": "C",
         "name": "HDM",
         "description": "Hidden or Double Meaning",
+        "gradient_type": "C",
+        "cs": "nkř",
         "degrees": [
+            null,
             "the hidden, double-, or intended meaning of a non-verbal signal, gesture, movement, or sign contained in or implied by X",
             "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
             "a clue or unintended piece of information gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
@@ -1265,11 +1339,12 @@
         ]
     },
     {
-        "affix": "lg",
-        "gradient_type": "D1",
         "name": "URS",
         "description": "Usage of a Resource",
+        "gradient_type": "D1",
+        "cs": "lg",
         "degrees": [
+            null,
             "with X going foolishly unused / with X being needlessly wasted",
             "with X going unused / with X being wasted",
             "with (there being) X left over / with X remaining",
@@ -1282,11 +1357,12 @@
         ]
     },
     {
-        "affix": "jf",
-        "gradient_type": "0",
         "name": "CRE",
         "description": "Capacity for a Relationship with an Entity",
+        "gradient_type": "0",
+        "cs": "jf",
         "degrees": [
+            null,
             "ability/capacity to consider/ponder/analyze X",
             "ability/capacity to recognize/acknowledge X; ability/capacity to take X seriously",
             "ability/capacity to understand X",

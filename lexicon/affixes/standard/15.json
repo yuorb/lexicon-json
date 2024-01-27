@@ -1,10 +1,11 @@
 [
     {
-        "affix": "ň",
-        "gradient_type": "C",
         "name": "COO",
         "description": "Coordinative/Additive",
+        "gradient_type": "C",
+        "cs": "ň",
         "degrees": [
+            null,
             "...and (in a quasi-sequential series, with topic in common [as well as main verb if a subsequent main verb is missing]): Sam visited Clara and (then/subsequently visited) Jane every Sunday; Sam visited Clara and [Sam then/subsequently] danced with Jane every Sunday.",
             "...and (in a quasi-sequential series, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member): When Sam shopped for toys, he looked at (AGG sets of miniature replica) cars, soldiers, animals, and marbles-DCT [i.e., all items were AGG sets of miniature-replicas, except the marbles which were a look-alike DCT set].",
             "...and (in a quasi-sequential series where verb participants are in common but case relationships are not and must be inferred) He saw, entered, and conquered the city.",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "ř",
-        "gradient_type": "C",
         "name": "IOR",
         "description": "Inclusive “OR”",
+        "gradient_type": "C",
+        "cs": "ř",
         "degrees": [
+            null,
             "…and/or (quasi-sequentially, with topic in common [as well as main verb if a subsequent main verb is missing]):  Sam either visited Clara or ([subsequently] visited) Jane every Sunday or both; Sam visited Clara or [Sam (subsequently)] danced with Jane every Sunday or both.",
             "…and/or (quasi-sequentially, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member)",
             "…and/or (quasi-sequentially where verb participants are in common, but case relationships are not and must be inferred) He either saw, entered, or conquered the city or all three.",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "mř",
-        "gradient_type": "C",
         "name": "PXR",
         "description": "Partially Exclusive “OR” [where there are 3 or more coordinative referents]",
+        "gradient_type": "C",
+        "cs": "mř",
         "degrees": [
+            null,
             "[same as COO/1 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
             "[same as COO/2 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
             "[same as COO/3 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "ps",
-        "gradient_type": "0",
         "name": "XOR",
         "description": "Exclusive “Or” and Contrastive Adverbials",
+        "gradient_type": "0",
+        "cs": "ps",
         "degrees": [
+            null,
             "“xor” (with topic in common as well as main verb if a subsequent main verb is missing): Sam either visited Clara or (subsequently visited) Jane every Sunday, but not both; Sam visited Clara or Sam (subsequently) danced with Jane every Sunday (but not both).",
             "“xor” (with all morphology in common with first member of series other than as non-default marked or differently-marked than first member)",
             "“xor” (where verb participants are in common, but case relationships are not and must be inferred) He either saw, entered, or conquered the city (but only did one of these).",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "lř",
-        "gradient_type": "C",
         "name": "ADT",
         "description": "Adverbial Additives",
+        "gradient_type": "C",
+        "cs": "lř",
         "degrees": [
+            null,
             "X, too / also, X / additionally, X / ...as well",
             "...and furthermore, X / ...and what’s more, X / ...and moreover, X",
             "X and so forth / X and so on / X and all that / X and whatever else",
@@ -85,11 +90,12 @@
         ]
     },
     {
-        "affix": "l",
-        "gradient_type": "D1",
         "name": "CTR",
         "description": "Adverbial Contrastiveness",
+        "gradient_type": "D1",
+        "cs": "l",
         "degrees": [
+            null,
             "but, yet, still [ = nevertheless = despite the aforementioned]",
             "X, however...; X, on the other hand...; as an exception to the aforementioned, X...",
             "besides, X [ = in addition to the aforementioned, X]; not just the aforementioned, but also X",
@@ -103,11 +109,12 @@
         "notes": "A negative XOR coordinative/connective “neither...nor” exists within the redesigned Negation Affix."
     },
     {
-        "affix": "jř",
-        "gradient_type": "C",
         "name": "DST",
         "description": "Distributive Coordination",
+        "gradient_type": "C",
+        "cs": "jř",
         "degrees": [
+            null,
             "applying to each equally [unfairly]",
             "applied selectively by decision/preference [unfairly]",
             "respectively (=to each) but in differing amounts [unfairly]",

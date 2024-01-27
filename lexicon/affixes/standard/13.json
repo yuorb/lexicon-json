@@ -1,10 +1,11 @@
 [
     {
-        "affix": "šk",
-        "gradient_type": "0",
         "name": "SNX",
         "description": "Sensory Experience or Reaction",
+        "gradient_type": "0",
+        "cs": "šk",
         "degrees": [
+            null,
             "physical tactile feeling/sensation of touching or being touched by X (being in physical/tactile contact with X)",
             "other-than-tactile sensation of witnessing/undergoing/being in the situation involving X",
             "physical feeling/sensation of undergoing/being in the situation involving X",
@@ -17,11 +18,12 @@
         ]
     },
     {
-        "affix": "çm",
-        "gradient_type": "B",
         "name": "EMO*",
         "description": "Emotion Associated with a State, Act, Event",
+        "gradient_type": "B",
+        "cs": "çm",
         "degrees": [
+            null,
             "feel(ing of) positive/desirable emotion associated with being or having been X’d or undergoing X",
             "feel(ing of) ambivalent/complex emotion associated with being or having been) X’d or undergoing X",
             "feel(ing of) negative/undesirable emotion associated with being or having been) X’d or undergoing X",
@@ -34,11 +36,12 @@
         ]
     },
     {
-        "affix": "šţ",
-        "gradient_type": "0",
         "name": "EMQ",
         "description": "Emotional Qualification",
+        "gradient_type": "0",
+        "cs": "šţ",
         "degrees": [
+            null,
             "I’m afraid that…/Unfortunately…",
             "I regret having to say/announce this/inform you, but…",
             "I fear/have a bad feeling that…",
@@ -51,11 +54,12 @@
         ]
     },
     {
-        "affix": "šp",
-        "gradient_type": "0",
         "name": "VSR",
         "description": "Visible Spectral Regions",
+        "gradient_type": "0",
+        "cs": "šp",
         "degrees": [
+            null,
             "red(dish) ( = colored or emanating light of reddish wavelengths)",
             "orange(y) ( = colored or emanating light of orangish wavelengths)",
             "yellow(ish) ( = colored or emanating light of yellowish wavelengths)",
@@ -68,11 +72,12 @@
         ]
     },
     {
-        "affix": "lj",
-        "gradient_type": "0",
         "name": "NVS",
         "description": "Non-Visible Spectral Regions *",
+        "gradient_type": "0",
+        "cs": "lj",
         "degrees": [
+            null,
             "consisting of or emanating energy in long radio wavelengths",
             "consisting of or emanating energy in short radio wavelengths",
             "consisting of or emanating microwaves",
@@ -86,11 +91,12 @@
         "notes": "* use with -ŠP- root to name these wavelengths as ‘color’-like formatives"
     },
     {
-        "affix": "lb",
-        "gradient_type": "D1",
         "name": "CLD",
         "description": "Color Dimensions",
+        "gradient_type": "D1",
+        "cs": "lb",
         "degrees": [
+            null,
             "pale, extra-light, -tinted, -tinged ( = bright + very low saturation of hue; nearly white)",
             "light-colored",
             "bright-colored; intense; warm ( = light + full saturation of hue)",
@@ -103,11 +109,12 @@
         ]
     },
     {
-        "affix": "ňv",
-        "gradient_type": "D1",
         "name": "COL",
         "description": "Color Attributes",
+        "gradient_type": "D1",
+        "cs": "ňv",
         "degrees": [
+            null,
             "shiny, glossy",
             "luminescent, glowing",
             "fluorescent",
@@ -120,11 +127,12 @@
         ]
     },
     {
-        "affix": "žg",
-        "gradient_type": "0",
         "name": "OLF*",
         "description": "Olfactory Associations",
+        "gradient_type": "0",
+        "cs": "žg",
         "degrees": [
+            null,
             "having the odor of X",
             "having an odor like/similar to X",
             "having an odor reminiscent of X",
@@ -137,11 +145,12 @@
         ]
     },
     {
-        "affix": "pj",
-        "gradient_type": "0",
         "name": "TCT",
         "description": "Tactile Associations",
+        "gradient_type": "0",
+        "cs": "pj",
         "degrees": [
+            null,
             "having the feeling/texture of X",
             "having a feeling/texture like/similar to X",
             "having a feeling/texture reminiscent of X",
@@ -154,11 +163,12 @@
         ]
     },
     {
-        "affix": "žj",
-        "gradient_type": "0",
         "name": "VIS",
         "description": "Visual Associations",
+        "gradient_type": "0",
+        "cs": "žj",
         "degrees": [
+            null,
             "having the look/visual appearance of X",
             "having a look/visual appearance like/similar to X",
             "having a look/visual appearance reminiscent of X",
@@ -171,11 +181,12 @@
         ]
     },
     {
-        "affix": "cj",
-        "gradient_type": "0",
         "name": "AUR",
         "description": "Aural Associations",
+        "gradient_type": "0",
+        "cs": "cj",
         "degrees": [
+            null,
             "having the sound of X",
             "having a sound like/similar to X",
             "having a sound reminiscent of X",
@@ -188,11 +199,12 @@
         ]
     },
     {
-        "affix": "sf",
-        "gradient_type": "0",
         "name": "GST",
         "description": "Gustatory Associations",
+        "gradient_type": "0",
+        "cs": "sf",
         "degrees": [
+            null,
             "having the flavor of X",
             "having an flavor like/similar to X",
             "having an flavor reminiscent of X",
@@ -205,11 +217,12 @@
         ]
     },
     {
-        "affix": "mb",
-        "gradient_type": "D1",
         "name": "MST",
         "description": "Degree of Moisture",
+        "gradient_type": "D1",
+        "cs": "mb",
         "degrees": [
+            null,
             "sopping/soaking/dripping wet / drenched / overflowing",
             "saturated / at full capacity in terms of holding liquid",
             "wet",
