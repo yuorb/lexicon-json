@@ -39,56 +39,33 @@ type Lexicon = Array<Root>;
 ### Affixes
 
 ```ts
+type Degree = 
+  // Suitable for most situations
+  | string
+  // Suitable for the situation where the Type-2 of current affix has another meaning
+  | [string, string];
+
 type Affix = {
-  affix: string;
-  abbr: string;
   name: string;
-  type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
+  description: string;
+  gradient_type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
+  affix: string;
   degrees: [
-    string,
-    string,
-    string,
-    string,
-    string,
-    string,
-    string,
-    string,
-    string,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
+    Degree,
   ];
   notes?: string;
 };
 
 type Affixes = Array<Affix>;
 ```
-
-## Progress
-
-### Roots
-
-Completed
-
-### Affixes
-
-|                                                                        | Roots           |
-| ---------------------------------------------------------------------- | --------------- |
-| Demonstrative, Determinative, and Deictic Affixes                      | Not Completed   |
-| Sequential/Temporal Affixes                                            | Not Started Yet |
-| Spatial, Positional, and Motion Affixes                                | Not Started Yet |
-| Quantifying Affixes                                                    | Not Started Yet |
-| Qualifying Affixes                                                     | Not Started Yet |
-| Adverbial Affixes                                                      | Not Started Yet |
-| Modality Affixes                                                       | Not Started Yet |
-| Agential/Participant Affixes                                           | Not Started Yet |
-| Affixes Relating to Bodily Position                                    | Not Started Yet |
-| Instrumentative/Utilitative Affixes                                    | Not Started Yet |
-| Configurative Affixes                                                  | Not Started Yet |
-| Affixes Relating to Meta-Level Qualification                           | Not Started Yet |
-| Sensory Affixes                                                        | Not Started Yet |
-| Affixes Relating to Mathematics and Measurement                        | Not Started Yet |
-| Coordinative and Connective Affixes                                    | Not Started Yet |
-| Grammatical Affixes                                                    | Not Started Yet |
-| Affixes for Biological Genera, Species and Sub-Species Differentiation | Not Started Yet |
-| Miscellaneous Affixes                                                  | Not Started Yet |
 
 ## Scripts
 

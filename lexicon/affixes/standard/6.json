@@ -1,0 +1,820 @@
+[
+    {
+        "affix": "lm",
+        "gradient_type": "D2",
+        "name": "STR*",
+        "description": "Degree of Physical Strength Possible or Used",
+        "degrees": [
+            "too weakly / with insufficient strength or power",
+            "barely / hardly / weak(ly) / with barely enough strength orpower",
+            "somewhat weak(ly) / somewhat underpowered",
+            "measured(ly) / soft(ly) / guarded(ly) / with curtailed strength or power / just the needed strength or power",
+            "adequately strong; with adequate strength / with sufficient power; with just the right amount of strength or power",
+            "strong(ly) / powerful(ly)",
+            "very strong(ly) / very powerful(ly)",
+            "with as much strength or power as able / with max. strength possible",
+            "too strongly / too powerfully"
+        ]
+    },
+    {
+        "affix": "sm",
+        "gradient_type": "D2",
+        "name": "FRC*",
+        "description": "Degree of Physical Force Exerted",
+        "degrees": [
+            "too light(ly) / too soft(ly) / too delicate(ly)",
+            "light as a feather /  baby soft, extremely delicately or lightly or softly",
+            "light/soft/hardly a, softly / lightly / delicately / gingerly",
+            "somewhat on the light or soft side, somewhat softly / lightly / delicately / gingerly",
+            "neither soft(ly) nor forceful(ly), with just the right touch",
+            "somewhat violent(ly) / somewhat forceful(ly)",
+            "violent/forceful/rough, violently / with force / roughly",
+            "very violent(ly) / very forceful(ly) / very rough(ly)",
+            "too violent(ly) / too forceful(ly) / too rough(ly)"
+        ]
+    },
+    {
+        "affix": "fm",
+        "gradient_type": "D2",
+        "name": "VEL*",
+        "description": "Degree of Velocity ( = Ratio of Distance to Time)",
+        "degrees": [
+            "too slow(ly)",
+            "very slow(ly)",
+            "slow(ly)",
+            "somewhat slow(ly)",
+            "at just the right velocity",
+            "somewhat fast / somewhat quick(ly) / somewhat rapid(ly)",
+            "fast / quick(ly) / rapid(ly), at fast pace",
+            "very fast / very quick(ly) / very rapid(ly) / , at fast pace",
+            "too fast / too quick(ly) / too rapid(ly); at fast pace"
+        ]
+    },
+    {
+        "affix": "ţm",
+        "gradient_type": "D2",
+        "name": "ITY*",
+        "description": "Degree of Intensity ( = strength, overtness, or level of impact in which a quality/characteristic/act/process, etc. is manifested)",
+        "degrees": [
+            "too mild(ly)",
+            "very mild(ly)",
+            "mild(ly)",
+            "somewhat mild(ly)",
+            "at the normal or expected level of intensity",
+            "somewhat intense(ly)",
+            "intense(ly)",
+            "very intense(ly)",
+            "too intense(ly) / overly intense(ly)"
+        ]
+    },
+    {
+        "affix": "rh",
+        "gradient_type": "A1",
+        "name": "RLV",
+        "description": "Degree of Relevancy",
+        "degrees": [
+            "utterly irrelevant; of no relevance whatsoever in any context; a non sequitur",
+            "of no relevance to the current context and of little if any relevance to other contexts",
+            "irrelevant(ly); inapplicable",
+            "perhaps relevant to other situations or contexts but not to the one at-hand",
+            "hardly relevant, barely relevant, not very relevant",
+            "somewhat relevant(ly) / somewhat applicable to the context at-hand",
+            "relevant(ly) / applicable to the context at-hand",
+            "very relevant(ly) / highly relevant",
+            "as relevant(ly) as can be"
+        ]
+    },
+    {
+        "affix": "ţt",
+        "gradient_type": "D1",
+        "name": "DCV",
+        "description": "Degree Of Spatio-Temporal Divergence or Convergence",
+        "degrees": [
+            "headed/oriented in opposite directions/vectors",
+            "highly divergent(ly)",
+            "divergent(ly)",
+            "slightly divergent(ly)",
+            "parallel(ly)",
+            "slightly convergent(ly)",
+            "convergent(ly)",
+            "highly convergent(ly)",
+            "converged/merged into a single vector"
+        ]
+    },
+    {
+        "affix": "bg",
+        "gradient_type": "D1",
+        "name": "NEC",
+        "description": "Degree of Necessity",
+        "degrees": [
+            "impossible if X is present, a showstopper if X is present",
+            "unwanted, not wanted, undesirable",
+            "unnecessary, can make do without X",
+            "potentially unnecessary, can probably make do without X",
+            "optional",
+            "potentially necessary, probably necessary, likely to be necessary",
+            "necessary",
+            "requisite, absolutely necessary, essential; can’t be done without X, impossible without X",
+            "prerequisite, impossible without first having/doing/being X, impossible without there first being X"
+        ]
+    },
+    {
+        "affix": "ňd",
+        "gradient_type": "D1",
+        "name": "PLN",
+        "description": "Degree of Planning",
+        "degrees": [
+            "ad hoc  /  impromptu  /  unplanned (no forewarning)",
+            "ad hoc  /  improvised (forewarned but no preparation performed)",
+            "off-the-cuff (forewarned but no planning or preparation necessary due to necessary resources / skills being at hand)",
+            "unplanned but prepared (e.g., due to prior experience and having necessary resources at hand)",
+            "in the planning stages; being planned",
+            "conceptually planned but not (yet) prepared (i.e., a plan of action exists but the necessary resources/skills have not (yet) been identified or obtained)",
+            "conceptually planned and in the process of preparing",
+            "pre-planned and prepared",
+            "meticulously planned, prepared, and rehearsed/practiced"
+        ]
+    },
+    {
+        "affix": "fx",
+        "gradient_type": "D2",
+        "name": "CFD*",
+        "description": "Degree of Forthrightness, Confidence or Humility",
+        "degrees": [
+            "too meek(ly) / too submissive(ly) / too obedient(ly) / too docile(ly)",
+            "very meek(ly) / very submissive(ly) / very obedient(ly) / very docile(ly)",
+            "meek(ly) / submissive(ly) / obedient(ly) / docile(ly)",
+            "somewhat meek(ly) / somewhat submissive(ly) or obedient(ly) or docile(ly)",
+            "properly humble / properly forthright; with proper degree of humility or forthrightness",
+            "somewhat confident(ly) / somewhat strong(ly) / somewhat definite(ly) / somewhat definitive(ly) or authoritative(ly)",
+            "confident(ly) /strong(ly) / definite(ly)/ definitive(ly) / authoritative(ly)",
+            "very confident(ly) or strong(ly) or definite(ly) or definitive(ly) or authoritative(ly)",
+            "over-confident(ly) / too strong(ly) / too definite(ly) / too definitive(ly) / too authoritative(ly)"
+        ]
+    },
+    {
+        "affix": "fţ",
+        "gradient_type": "D1",
+        "name": "EFI*",
+        "description": "Degree of Efficiency",
+        "degrees": [
+            "destructively wasteful / disastrous(ly) / accomplishing the opposite of intention / making things worse",
+            "very wasteful(ly) / accomplishing nothing / making a mess of it",
+            "wasteful(ly) / accomplishing little",
+            "somewhat wasteful(ly) / accomplishing somewhat less than expected",
+            "adequate(ly) [in terms of efficiency]",
+            "rather efficient(ly) / fairly efficient(ly) / accomplishing somewhat more than expected",
+            "efficient(ly) / with little or no waste(d effort)",
+            "extremely efficient(ly) / with no waste(d effort) whatsoever",
+            "a synergy of… / sum beyond total of parts / a synergistic composite of; to X synergistically"
+        ]
+    },
+    {
+        "affix": "ňţ",
+        "gradient_type": "D1",
+        "name": "ERR*",
+        "description": "Degree of Correctness versus Error",
+        "degrees": [
+            "totally wrong/incorrect(ly) / totally mis-/mal-; totally in error",
+            "wrong incorrect(ly) / mis-/mal-; in error / erroneous(ly)",
+            "fairly wrong / fairly incorrect(ly)",
+            "somewhat wrong / more wrong than right",
+            "so-so; barely adequate(ly) / barely correct(ly)",
+            "somewhat right / more right than wrong",
+            "fairly right / fairly correct(ly)",
+            "right / correct(ly)",
+            "totally right / totally correct(ly) / totally well-X’d"
+        ]
+    },
+    {
+        "affix": "kţ",
+        "gradient_type": "D1",
+        "name": "MAT*",
+        "description": "Degree of Maturation",
+        "degrees": [
+            "undeveloped / immature(ly) / seed / embryo",
+            "under-developed / newborn [stage, not age] / seedling / baby",
+            "growing / budding / youthful / young",
+            "maturing / developing / getting stronger, bigger, more complex sophisticated",
+            "fully developed / fully mature(d) / robust / ripe",
+            "overly developed / overripe / showing signs of wear and tear / stressed / under stress /  fatigued",
+            "declining/fading; trail off/fade / getting softer or weaker / faded / decrepit / has-been /  past one’s prime",
+            "disintegrating / deteriorated / beyond repair or rehabilitation / irreparable / dying",
+            "dead / defunct"
+        ]
+    },
+    {
+        "affix": "kh",
+        "gradient_type": "A2",
+        "name": "SBT*",
+        "description": "Degree of Subtlety/Nuance",
+        "degrees": [
+            "too subtle(ly)",
+            "very subtle(ly) / very nuanced",
+            "subtle(ly) / nuanced",
+            "somewhat subtle(ly)",
+            "neither too subtle nor too unsubtle",
+            "someowhat unsubtle(ly) / lumbering(ly) / belabored ; belabor / lumber along X-ing",
+            "unsubtle(ly) / obvious(ly)",
+            "over-the-top / in-your-face / blatant(ly) / exaggerated(ly)",
+            "too unsubtle(ly) / too obvious(ly) / too blatant(ly)"
+        ]
+    },
+    {
+        "affix": "dh",
+        "gradient_type": "A2",
+        "name": "DRC*",
+        "description": "Degree of Directness/Frankness",
+        "degrees": [
+            "too indirect(ly)",
+            "very indirect(ly)",
+            "indirect(ly)",
+            "somewhat indirect(ly)",
+            "neither too indirect(ly) nor too direct(ly)",
+            "somewhat direct(ly)",
+            "direct(ly) / straightforward",
+            "very direct(ly) / straightforward",
+            "too direct(ly) / painfully straightforward"
+        ]
+    },
+    {
+        "affix": "gm",
+        "gradient_type": "D2",
+        "name": "SUD",
+        "description": "Degree of Suddenness",
+        "degrees": [
+            "too slow(ly) in happening, too long in X-ing, overdue, delayed",
+            "very slow(ly) in happening or developing",
+            "slow(ly) ; long in developing or happening",
+            "somewhat slow(ly); somewhat long in developing or happening",
+            "taking just the right amount of time to develop or occur",
+            "somewhat quickly / somewhat rapidly in occurring or developing; somewhat suddenly",
+            "fast / rapid(ly) / immediate(ly) / sudden(ly)",
+            "very fast / very quickly / very immediate(ly) / very sudden(ly)",
+            "too fast; too quickly too immediate(ly) / too sudden(ly)"
+        ]
+    },
+    {
+        "affix": "ph",
+        "gradient_type": "A2",
+        "name": "PCN*",
+        "description": "Degree of Care, Precision or Scrutiny",
+        "degrees": [
+            "too sloppily / too carelessly /utterly sloppy(ily) / totally careless(ly)",
+            "very sloppy(ily) / very careless(ly)",
+            "sloppy(ily) / careless(ly) / with poor attention to detail",
+            "somewhat sloppy(ily) / somewhat careless(ly)",
+            "less than careful(ly) / with only some degree of care",
+            "somewhat careful(ly) / fairly precise(ly)",
+            "precise(ly) / careful(ly) / detailed",
+            "extremely precise(ly) / with great care or precision or scrutiny / meticulous(ly)",
+            "overly precise(ly) / ‘nit-picky’ / with too much scrutiny / overly meticulous(ly)"
+        ]
+    },
+    {
+        "affix": "dç",
+        "gradient_type": "B",
+        "name": "OPL",
+        "description": "Degree of Onset & Prolongation",
+        "degrees": [
+            "paroxysm(al) / paraoxysmally; having a sudden, intense, unexpected onset but of only momentary duration (e.g., an explosion, a flash of light, a spasm, a stab of pain)",
+            "having a sudden/intense onset and enduring for a relatively brief duration",
+            "having a sudden/intense onset and enduring for a prolonged duration",
+            "having a relatively quick onset then suddenly stopping/ending; fast-acting but then stopping suddenly",
+            "having a relatively quick onset and enduring for a relatively brief duration; fast-acting / having a fast effect / taking effect quickly then lasting relatively briefly",
+            "having a relatively quick onset and enduring for a prolonged duration; fast-acting / having a fast effect /  taking effect quickly with a relatively prolonged/lasting effect",
+            "having a slow onset then suddenly stopping; slow-acting then stopping / having a slow onset then stopping",
+            "having a slow onset and enduring for a relatively brief duration; slow-acting with relatively brief following effect / having a slow onset followed by a relatively brief\neffect / taking effect gradually with brief effect following",
+            "having a slow onset and enduring for a prolonged duration; slow-acting with prolonged effect / having a slow onset with a relatively prolonged/lasting effect"
+        ]
+    },
+    {
+        "affix": "xţ",
+        "gradient_type": "D1",
+        "name": "CNC*",
+        "description": "Degree of Concern or Consideration",
+        "degrees": [
+            "…the hell…! / what the hell… / … who cares!?",
+            "self-centered(ly) / without thought or concern for others",
+            "without concern / indifferent(ly) / without consideration / unconcerned(ly) / thoughtless(ly)",
+            "at the very least / at the least level of concern required",
+            "at best / with the most concern one can muster",
+            "with some concern / with a certain degree of concern",
+            "concerned(ly) / with concern / with consideration for others",
+            "very concerned(ly) / highly concerned(ly) / with great concern or consideration for others",
+            "overly concerned(ly) / worrisome(ly) / with too much concern or consideration for others / altruistically"
+        ]
+    },
+    {
+        "affix": "kř",
+        "gradient_type": "C",
+        "name": "DPD",
+        "description": "Degree of Dependency",
+        "degrees": [
+            "objective value/identity/nature utterly dependent upon or determined by another entity",
+            "objective value/identity/nature mostly dependent upon or determined by another entity",
+            "objective value/identity/nature partially dependent upon or determined by another entity",
+            "objective value/identity/nature barely dependent upon or determined by another entity",
+            "utterly independent; value/identity/nature/efficacy completely self-determined; sui generis",
+            "efficacy/effectiveness/subjective value somewhat/barely determined/dependent upon another entity",
+            "efficacy/effectiveness/subjective value partially determined/dependent upon another entity",
+            "efficacy/effectiveness/subjective value mostly determined/dependent upon another entity",
+            "efficacy/effectiveness/subjective value completely determined/dependent upon another entity"
+        ]
+    },
+    {
+        "affix": "ţx",
+        "gradient_type": "D2",
+        "name": "SPH*",
+        "description": "Degree of Sophistication",
+        "degrees": [
+            "too crude(ly) / too primitive(ly)",
+            "very crude(ly) / very primitive(ly)",
+            "crude(ly) / primitive(ly)",
+            "somewhat crude(ly) / somewhat primitive(ly)",
+            "with expected/normal degree or level of sophistication",
+            "somewhat sophisticated or refined",
+            "sophisticated or refined",
+            "very sophisticated or refined",
+            "too sophisticated or refined"
+        ]
+    },
+    {
+        "affix": "nx",
+        "gradient_type": "D2",
+        "name": "CVT*",
+        "description": "Degree of Covertness versus Overtness",
+        "degrees": [
+            "too furtive(ly) / overly covert(ly)",
+            "very furtive(ly) / highly covert(ly) / well behind the scenes",
+            "furtive(ly) / covert(ly) / behind the scenes / between the lines / under the table / “back-room”",
+            "somewhat furtive(ly) / somewhat covert(ly)",
+            "just the right amount of openness or furtiveness; not too furtive(ly) / not too open(ly)",
+            "somewhat open(ly) / somewhat “up front”",
+            "open(ly) / overt(ly) / “up front” / out in the open / honest / forthcoming(ly)",
+            "very open(ly) / very overt(ly) / very “up front” / flaunting(ly) / brutally honest",
+            "too open(ly) / too overt(ly) / overly flaunting(ly) / vulgar(ly)"
+        ]
+    },
+    {
+        "affix": "mţ",
+        "gradient_type": "D1",
+        "name": "DSR*",
+        "description": "Degree of Discretion or Secrecy",
+        "degrees": [
+            "announced/advertised/heralded; w/  public disclosure",
+            "open & well-known; with full public knowledge",
+            "open/public; for all to see/publicly/openly",
+            "shown, open, or available by request /  by request",
+            "semi-public(ly), exclusive(ly), available to select parties",
+            "personal, semi-private",
+            "private(ly)",
+            "secret(ly)",
+            "confidential/classified"
+        ]
+    },
+    {
+        "affix": "ňř",
+        "gradient_type": "C",
+        "name": "PRV*",
+        "description": "Degree of Prevention or Blockage",
+        "degrees": [
+            "completely blocked/prevented from occurring/manifesting (naturally so)",
+            "fully restricted - manifestation/occurrence determined by natural conditions",
+            "partially restricted, partially blocked/impeded/prevented (naturally so)",
+            "slightly restricted, slightly impeded by natural conditions",
+            "totally free to X, nothing preventing or impeding the manifestation of X",
+            "slightly restricted, slightly impeded by certain rules or artificial conditions",
+            "partially restricted, partially blocked/impeded/prevented (artificially so)",
+            "fully restricted/regulated, manifestation/occurrence conditioned by rules",
+            "completely blocked/prevented from occurring/ manifesting (artificially so)"
+        ]
+    },
+    {
+        "affix": "čm",
+        "gradient_type": "D2",
+        "name": "DIF*",
+        "description": "Degree of Difficulty (renamed from EFT)",
+        "degrees": [
+            "too easy / overly easy",
+            "very easy / so easy",
+            "easy / certain / unhindered / with ease / without resistance / effortlessly",
+            "somewhat easy; not so difficult",
+            "neither easy nor difficult",
+            "somewhat difficult / not that easy",
+            "strained / difficult; strain to / with difficulty / struggle to / to work at X-ing / to X hard",
+            "very difficult / so difficult",
+            "too difficult / overly difficult"
+        ]
+    },
+    {
+        "affix": "vh",
+        "gradient_type": "A2",
+        "name": "DSG*",
+        "description": "Degree of Design or Organization",
+        "degrees": [
+            "too unorganized / too chaotic / too random",
+            "unorganized / random(ly) / chaotic(ally)",
+            "haphazard(ly) / not well-planned / not well-organized / poorly designed",
+            "somewhat haphazard(ly) / somewhat disorganized",
+            "slightly disorganized / less than well-planned",
+            "somewhat organized / somewhat well-planned",
+            "organized(ly) / well-planned / well-designed",
+            "very organized / very structured",
+            "too organized / overly structured / “anal(ly)”"
+        ]
+    },
+    {
+        "affix": "ch",
+        "gradient_type": "A2",
+        "name": "DCS",
+        "description": "Decisiveness or Commitment",
+        "degrees": [
+            "too indecisive(ly) / too meandering",
+            "incapable of making a decision / incapable of any commitment",
+            "very indecisive(ly) / very meandering",
+            "indecisive(ly) / meandering / wishy washy / flaky",
+            "half-heartedly / with less than full commitment or decisiveness",
+            "decisive(ly) / deliberate(ly) / committed = acting with full commitment",
+            "very decisive(ly) and deliberate(ly)",
+            "intransigent / utterly set upon X",
+            "too intransigent / unable to be reasoned with"
+        ]
+    },
+    {
+        "affix": "jh",
+        "gradient_type": "A2",
+        "name": "CRL*",
+        "description": "Degree of Physical Control",
+        "degrees": [
+            "too uncontrolled; too out-of-control",
+            "uncontrolled/helpless(ly) ; without control/ out of control",
+            "almost completely out of control / almost totally helpless",
+            "losing control / losing the ability to…",
+            "(only) somewhat in control; (only) partially in control",
+            "gaining control / coming to be in control",
+            "nearly in control / almost fully in control",
+            "in full control",
+            "too controlled / with too much control / overly controlled"
+        ]
+    },
+    {
+        "affix": "šh",
+        "gradient_type": "A2",
+        "name": "PPF",
+        "description": "Degree of Practice-Based Proficiency ( = skill acquired via practice)",
+        "degrees": [
+            "too lacking in proficiency; completely unpracticed in…",
+            "very lacking in proficiency; very poorly practiced",
+            "lacking in proficiency; poorly practice; needing much more practice",
+            "amateur(ishly) / superficially able to… / showing rudimentary practice only",
+            "begin(ning) to be able to… / with growing proficiency or expertise (in)",
+            "nearly proficient (in)",
+            "proficient(ly)",
+            "expert(ly)",
+            "too proficient(ly) / overly proficient / with too much expertise"
+        ]
+    },
+    {
+        "affix": "žh",
+        "gradient_type": "A2",
+        "name": "KPF",
+        "description": "Degree of Knowledge-Based Proficiency ( = skill acquired via application of learning/knowledge)",
+        "degrees": [
+            "too lacking in proficiency; completely untrained to/in...",
+            "very lacking in skill or proficiency; very poorly trained",
+            "lacking in skill or proficiency; poorly trained",
+            "amateurish / superficially able to…",
+            "learning to… / beginning to be able to… / with growing proficiency or expertise in",
+            "nearly proficient (in)",
+            "proficient(ly)",
+            "expert(ly)",
+            "too proficient(ly) / overly proficient / with too much expertise"
+        ]
+    },
+    {
+        "affix": "řh",
+        "gradient_type": "A1",
+        "name": "TRS*",
+        "description": "Degree of Trustworthiness/Reliability",
+        "degrees": [
+            "utterly untrustworthy/unreliable",
+            "flaky / unreliable / can’t be counted upon to be/act in a reliable manner",
+            "skeptical of X / hard to believe in X’s trustworthiness / reliability",
+            "skeptical of X but willing to trust in X despite skepticism due to other factors/considerations",
+            "trusted based on hope, faith, intuition, or gut feeling",
+            "naively trusted, deemed trustworthy/reliable based on one’s gullibility/credulity/naivete",
+            "provisionally reliable or trustworthy [subject to verification]",
+            "cautiously trustworthy/reliable due to experience or record despite possibility of untrustworthiness",
+            "completely trustworthy/reliable"
+        ]
+    },
+    {
+        "affix": "gd",
+        "gradient_type": "D1",
+        "name": "SEN",
+        "description": "Degree of Sensibleness/Predictability",
+        "degrees": [
+            "surreal",
+            "nonsensical / silly / “funny” / absurd",
+            "weird / odd",
+            "somewhat odd / off-kilter / a bit strange",
+            "normal / typical / not unusual or odd in any way / sensible / … makes sense",
+            "somewhat stilted / rehearsed-seeming / predictable",
+            "stilted / predictable / pat",
+            "like a parody of X / a caricature of X",
+            "like clockwork"
+        ]
+    },
+    {
+        "affix": "çr",
+        "gradient_type": "B",
+        "name": "RSK",
+        "description": "Degree of Risk to a Party",
+        "degrees": [
+            "at great risk to oneself",
+            "at some risk to oneself",
+            "at little or no risk to oneself",
+            "at little or no risk to oneself or others",
+            "at some risk to oneself and others",
+            "at great risk to oneself and others",
+            "at little or no risk to others",
+            "at some risk to others",
+            "at great risk to others"
+        ]
+    },
+    {
+        "affix": "pt",
+        "gradient_type": "D1",
+        "name": "DNG*",
+        "description": "Degree of Danger",
+        "degrees": [
+            "completely safe; utterly no danger at all",
+            "very safe; almost no threat of danger or risk",
+            "safe",
+            "most likely on the safe side; likely to not be dangerous; of little danger",
+            "uncertain as to degree of danger",
+            "somewhat dangerous; somewhat risky",
+            "dangerous; risky",
+            "very dangerous; high risk of injury or fatality; mortally dangerous",
+            "lethal; fatal"
+        ]
+    },
+    {
+        "affix": "vļ",
+        "gradient_type": "D1",
+        "name": "PLE",
+        "description": "Degree of Emotional/Mental (Dis-)Pleasure",
+        "degrees": [
+            "maximally unpleasant, horrible, ghastly, terrible",
+            "very unpleasant, awful",
+            "unpleasant, mildly awful",
+            "somewhat unpleasant, disagreeable",
+            "neutral, neither pleasant nor unpleasant, bland",
+            "somewhat pleasant",
+            "pleasant",
+            "very pleasant, pleasurable",
+            "maximally pleasant, very pleasurable, ecstasy"
+        ],
+        "notes": "The PLE affix refers to the referent itself, whereas the EFP affix indicates that the referent is caused by or is an effect of pain or pleasure. Example: ‘a pleasant sound’ (PLE) versus ‘a sound of pleasure’ (EFP)."
+    },
+    {
+        "affix": "pļ",
+        "gradient_type": "D1",
+        "name": "EFP",
+        "description": "Degree of Effect from Pain or Pleasure",
+        "degrees": [
+            "in (or due to) excruciating/agonizing pain",
+            "in (or due to) severe pain; very painful(ly)",
+            "painful(ly)",
+            "somewhat painful(ly); unpleasant(ly)",
+            "in neither pain nor pleasure",
+            "pleasant(ly)",
+            "in pleasure  /  with pleasure  /  pleasurably",
+            "in (or due to) great pleasure; extremely pleasurable / extremely pleasurably",
+            "in ecstasy"
+        ],
+        "notes": "The PLE affix refers to the referent itself, whereas the EFP affix indicates that the referent is caused by or is an effect of pain or pleasure. Example: ‘a pleasant sound’ (PLE) versus ‘a sound of pleasure’ (EFP)."
+    },
+    {
+        "affix": "bň",
+        "gradient_type": "D1",
+        "name": "TAL*",
+        "description": "Degree of Innate Talent for...",
+        "degrees": [
+            "no talent for X(-ing)",
+            "almost no talent for X(-ing)",
+            "poor/little talent for X(-ing)",
+            "below-average talent for X(-ing)",
+            "fair talent for X(-ing)",
+            "above-average/good talent for X(-ing)",
+            "very good talent for X(-ing)",
+            "excellent talent for X(-ing)",
+            "outstanding talent for X(-ing)"
+        ]
+    },
+    {
+        "affix": "tm",
+        "gradient_type": "D2",
+        "name": "TIG",
+        "description": "Degree of Tightness or Elascticity",
+        "degrees": [
+            "too tight, tight to the point of painfulness or loss of utility",
+            "very tight, as tight as can be",
+            "perfectly tight, not loose at all",
+            "somewhat tight, more tight than loose",
+            "neither too tight nor too loose, just right in terms of tightness/looseness",
+            "somewhat loose, more loose than tight",
+            "perfectly loose, not tight at all",
+            "very loose, as loose as can be without slipping out of place",
+            "too loose, loose to the point of not staying in place"
+        ]
+    },
+    {
+        "affix": "vx",
+        "gradient_type": "D2",
+        "name": "DCX",
+        "description": "Degree of Complexity",
+        "degrees": [
+            "too simple, to easy-to-figure-out",
+            "very simple, very easy-to-understand, very easy-to-figure-out, quite uncomplicated",
+            "simple, easy-to-understand, easy-to-figure-out, uncomplicated",
+            "fairly/somewhat simple, fairly/somewhat easy-to-understand or easy-to-figure-out",
+            "neither too simple or too complicated; about as simple/complicated as one would expect",
+            "fairly/somewhat complex, fairly/somewhat complicated and difficult to figure out or understand",
+            "complex; complicated; difficult to figure out or understand",
+            "very complex; extremely complicated; very difficult for most parties to figure out or understand",
+            "overly complex; too complicated too possibly figure out or understand"
+        ]
+    },
+    {
+        "affix": "dm",
+        "gradient_type": "D2",
+        "name": "DPF",
+        "description": "Degree of Perfunctoriness",
+        "degrees": [
+            "too perfunctory; in too perfunctory a manner or way",
+            "perfunctory, not taken seriously; in a perfunctory manner",
+            "cursory; in a cursory manner without checking the details",
+            "somewhat cursory; in a somewhat cursory manner or way",
+            "at/with the proper level of attention to detail or scrutiny",
+            "somewhat detailed; in a somewhat detailed/scrutinizing way",
+            "detailed/scrutinizing; in a scrutinizing/detailed manner/way",
+            "very detailed, very scrutinizing; in a very scrutinizing/detailed manner or way",
+            "overly detailed, too detailed; in too scrutinizing/detailed a way"
+        ]
+    },
+    {
+        "affix": "d",
+        "gradient_type": "D1",
+        "name": "SCS",
+        "description": "Degree of Success versus Failure",
+        "degrees": [
+            "fail(ure) beyond even the most pessimistic predictions; worst outcome possible in terms of failure; worse than no atttempt at all",
+            "complete(ly) fail(ure) to; utter(ly) fail(ure) [to]...",
+            "certain to be a failed / certain to fail in",
+            "a failure to... / failed / would-be; unsuccessful(ly), fail to",
+            "uncertain or yet-to-be determined whether a success or a failure",
+            "marginally successful(ly) / barely, hardly [in terms of adequacy or success]",
+            "certain to be a successful ; certain to succeed in",
+            "succeed in...; successful(-ly completed); successfully; accomplish",
+            "overwhelmingly successful(ly); successful beyond all hopes"
+        ]
+    },
+    {
+        "affix": "kp",
+        "gradient_type": "D1",
+        "name": "EFT*",
+        "description": "Degree of Effort",
+        "degrees": [
+            "no attempt made at all; not even try to...",
+            "minimal attempt/effort at/to; barely even try to...",
+            "small attempt/effort at/to; nominally attempt to...",
+            "a fair(ly good) attempt/effort at/to; make a fair(ly good) attempt at/to",
+            "a normal/standard/usual attempt/effort to; to try to...with the normal/expected degree of effort",
+            "a worthy/meaningful attempt/effort at/to; make a significant attempt at/to...",
+            "a grand attempt at/to; make a grand/great effort/attempt at/to...",
+            "with the utmost personal effort; try as hard as possible to... (personal effort)",
+            "maximum effort using all means/resources available"
+        ]
+    },
+    {
+        "affix": "lp",
+        "gradient_type": "D1",
+        "name": "CAP",
+        "description": "Degree of Potential or Capability",
+        "degrees": [
+            "utterly incapable / completely lacking in all necessary abilities or capacities",
+            "underqualified; almost totally lacking in necessary abilities or capacities",
+            "lacking in certain key capabilities, mostly inadequate to task",
+            "possible but less than likely due to underdeveloped capabilities",
+            "unknown if capable or not",
+            "somewhat capable / has possible potential to perform",
+            "sufficiently capable / adequate potential to perform",
+            "fully capable; well within abilities",
+            "overly-qualified; more capable than necessary or required"
+        ]
+    },
+    {
+        "affix": "řč",
+        "gradient_type": "A1",
+        "name": "OPF",
+        "description": "Degree of Operational Functionality",
+        "degrees": [
+            "disintegrated, in pieces, shattered",
+            "irreparably damaged/broken, ruined, worn out",
+            "badly damaged/broken, non-operational, non-functional (with possibility of being repaired)",
+            "damaged/broken — only partially functional (i.e., some parts/aspects are functional while others are not)",
+            "something wrong with X, not functioning properly, something not right with X wearing out",
+            "impaired — functional but not performing to full extent of output or efficiency",
+            "in fair working order/condition",
+            "in good working order/condition",
+            "in optimum working order / in excellent condition"
+        ]
+    },
+    {
+        "affix": "sp",
+        "gradient_type": "0",
+        "name": "NEW*",
+        "description": "Newness/Revision",
+        "degrees": [
+            "new = original + new, i.e., never before seen",
+            "new = never before seen within current context, e.g., a new student",
+            "new = role, i.e., never functioning/existing this capacity/manner before",
+            "new/other = replacement + new",
+            "new/other = additional instance + new",
+            "new/other = revision + additional",
+            "new/other = revision + replacement",
+            "new/other / different = different, not seen/used before within currentcontext; status as addition or replacement is unknown or inapplicable",
+            "new/other / different=different+new; status as addition or replacement is unknown or inapplicable"
+        ]
+    },
+    {
+        "affix": "řb",
+        "gradient_type": "A1",
+        "name": "ATN",
+        "description": "Degree of Attention or Determination",
+        "degrees": [
+            "ignore completely",
+            "barely notice; take little notice of",
+            "take some notice of",
+            "keep an eye on",
+            "pay attention to; attend to; be careful that you…; heed",
+            "determined to",
+            "pay strict attention to",
+            "concentrate to point of distraction, to be ‘lost’ in X-ing",
+            "concentrate fully upon; pay utmost attention to"
+        ]
+    },
+    {
+        "affix": "mv",
+        "gradient_type": "D1",
+        "name": "DCY",
+        "description": "Degree of Certainty",
+        "degrees": [
+            "one is probably mistaken in saying this (due to insufficient experience/skill/knowledge on the matter), but...",
+            "one may be mistaken in saying this (since one’s experience/skill/knowledge on the matter may be insufficient), but...",
+            "if one is not mistaken (given that one has a degree of experience/skill/knowledge in the matter) ...",
+            "one can say with a fair degree of certainty (based on one’s relevant experience/skill/knowledge in the matter) that...",
+            "one can say with absolute certainty (based on sufficient experience/skill/knowledge and/or clear and accurate memory) that...",
+            "one can say with a fair degree of certainty (given that one’s memory of the matter seems clear), that...",
+            "if one is not mistaken (depending on whether one’s memory of the matter is as clear as I think it is) ...",
+            "one may be mistaken in saying this (since one’s memory of the matter is somewhat vague), but...",
+            "one is probably mistaken in saying this (due to one’s memory of the matter being rather vague), but..."
+        ]
+    },
+    {
+        "affix": "mļ",
+        "gradient_type": "D1",
+        "name": "MNN",
+        "description": "Manner",
+        "degrees": [
+            "in a light-handed, gentle manner",
+            "in a graceful/effortless manner",
+            "in an affectionate, loving manner",
+            "in a concerned, empathetic, emotional manner",
+            "in a normal, usual, expected, predictable manner",
+            "in a clinical, detached, unemotional manner",
+            "in a mean, disdainful manner",
+            "in a clumsy/awkward manner",
+            "in an aggressive, “rough” manner"
+        ]
+    },
+    {
+        "affix": "vm",
+        "gradient_type": "D2",
+        "name": "FLX",
+        "description": "Degree of Rigidity/Flexibility",
+        "degrees": [
+            "too rigid/inflexible, rigid/inflexible to the point of not being usable",
+            "very rigid/inflexible, as rigid/inflexible as can be",
+            "just the right degree of rigidity",
+            "somewhat rigid/inflexible, more tight than loose",
+            "neither too rigid/inflexible nor too flexible/elastic, just right in terms of rigidity/flexibility",
+            "somewhat flexible/elastic, more flexible/elastic than rigid/inflexible",
+            "perfectly flexible, not rigid at all; just the right degree of flexibility",
+            "very flexible/elastic, as flexible/elastic as can be while still being usable",
+            "too flexible/elastic; flexible/elastic to the point of not being usable"
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "affix": "ň",
+        "gradient_type": "C",
+        "name": "COO",
+        "description": "Coordinative/Additive",
+        "degrees": [
+            "...and (in a quasi-sequential series, with topic in common [as well as main verb if a subsequent main verb is missing]): Sam visited Clara and (then/subsequently visited) Jane every Sunday; Sam visited Clara and [Sam then/subsequently] danced with Jane every Sunday.",
+            "...and (in a quasi-sequential series, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member): When Sam shopped for toys, he looked at (AGG sets of miniature replica) cars, soldiers, animals, and marbles-DCT [i.e., all items were AGG sets of miniature-replicas, except the marbles which were a look-alike DCT set].",
+            "...and (in a quasi-sequential series where verb participants are in common but case relationships are not and must be inferred) He saw, entered, and conquered the city.",
+            "...and (in a quasi-sequential series, with no assumed commonality of morphology between sequential referents, i.e., X + Y + Z...) Sam attended college and Jeff broke his wrist.",
+            "[same as Degree 4 except neutral/unspecified as to whether X is simultaneous vs. subsequent to a previous referent; as such, it can be utilized as an equivalent to English neural (i.e., ambiguous) “and” where simultaneity/concurrency vs. sequentiality is unspecified, or irrelevant.",
+            "...and (at the same time, with no assumed commonality of morphology between referents, i.e., X + Y + Z...) Sam attended college and concurrently Jeff broke his wrist.",
+            "...and (at the same time where verb participants are in common, but case relationships are not and must be inferred) He simultaneously saw, entered, and conquered the city.",
+            "...and (at the same time, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member)",
+            "...and (at the same time, with topic in common [as well as main verb if a subsequent main verb is missing]): Sam visited Clara and (simultaneously/concurrently visited) Jane every Sunday; Sam visited Clara and [Sam simultaneously/concurrently] danced with Jane every Sunday."
+        ]
+    },
+    {
+        "affix": "ř",
+        "gradient_type": "C",
+        "name": "IOR",
+        "description": "Inclusive “OR”",
+        "degrees": [
+            "…and/or (quasi-sequentially, with topic in common [as well as main verb if a subsequent main verb is missing]):  Sam either visited Clara or ([subsequently] visited) Jane every Sunday or both; Sam visited Clara or [Sam (subsequently)] danced with Jane every Sunday or both.",
+            "…and/or (quasi-sequentially, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member)",
+            "…and/or (quasi-sequentially where verb participants are in common, but case relationships are not and must be inferred) He either saw, entered, or conquered the city or all three.",
+            "…and/or (quasi-sequentially, with no assumed commonality of morphology between referents) Sam either attended college or Jeff broke his wrist or both.",
+            "[same as Degree 4 except unknown/unspecified/irrelevant as to whether both referents occur simultaneously/concurrently if, in fact, both referents occur.]",
+            "[same as Degree 4 but with both referents occurring simultaneously/concurrently if, in fact, both referents occurred.]",
+            "[same as Degree 3 but with both referents occurring simultaneously/concurrently if, in fact, both referents occurred.]",
+            "[same as Degree 2 but with both referents occurring simultaneously/concurrently if, in fact, both referents occurred.]",
+            "[same as Degree 1 but with both referents occurring simultaneously/concurrently if, in fact, both referents occurred.]"
+        ]
+    },
+    {
+        "affix": "mř",
+        "gradient_type": "C",
+        "name": "PXR",
+        "description": "Partially Exclusive “OR” [where there are 3 or more coordinative referents]",
+        "degrees": [
+            "[same as COO/1 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
+            "[same as COO/2 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
+            "[same as COO/3 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
+            "[same as COO/4 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
+            "[same as COO/5 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may occur, but not all of them, where simultaneity vs. sequentiality of the referents is either unknown, unspecified, or irrelevant]",
+            "[same as Degree 4 but with the referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]",
+            "[same as Degree 3 but with the referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]",
+            "[same as Degree 2 but with referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]",
+            "[same as Degree 1 but with the referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]"
+        ]
+    },
+    {
+        "affix": "ps",
+        "gradient_type": "0",
+        "name": "XOR",
+        "description": "Exclusive “Or” and Contrastive Adverbials",
+        "degrees": [
+            "“xor” (with topic in common as well as main verb if a subsequent main verb is missing): Sam either visited Clara or (subsequently visited) Jane every Sunday, but not both; Sam visited Clara or Sam (subsequently) danced with Jane every Sunday (but not both).",
+            "“xor” (with all morphology in common with first member of series other than as non-default marked or differently-marked than first member)",
+            "“xor” (where verb participants are in common, but case relationships are not and must be inferred) He either saw, entered, or conquered the city (but only did one of these).",
+            "“xor” (with no assumed commonality of morphology between referents) Sam either attended college or Jeff broke his wrist (but only one or the other occurred).",
+            "but (on the contrary, X)",
+            "but (rather) (substituting X); “X, instead”",
+            "or X, else X (“otherwise, X”, “if not that, then X”)",
+            "or X (and interchangeable with)",
+            "…or something (else),…or whatever (else"
+        ]
+    },
+    {
+        "affix": "lř",
+        "gradient_type": "C",
+        "name": "ADT",
+        "description": "Adverbial Additives",
+        "degrees": [
+            "X, too / also, X / additionally, X / ...as well",
+            "...and furthermore, X / ...and what’s more, X / ...and moreover, X",
+            "X and so forth / X and so on / X and all that / X and whatever else",
+            "...as well as something else / ...as well as other things, too",
+            "...and (as a simultaneous/concurrent consequence of the preceding)...",
+            "...as well as [at the same time] something else / ...as well as other things, too",
+            "X and so forth [at the same time] / X and so on [at the same time] / X and [at the same time] all that / X and whatever else [at the same time]",
+            "...and furthermore, X [at the same time] / ...and [at the same time] what’s more, X / ...and [at the same time] moreover, X",
+            "X, too [at the same time] / also, X [at the same time] / additionally, X [at the same time] / ...as well [at the same time] = “in addition to what’s been previously stated about the referent, X also applies simultaneously/concurrently to that referent”"
+        ]
+    },
+    {
+        "affix": "l",
+        "gradient_type": "D1",
+        "name": "CTR",
+        "description": "Adverbial Contrastiveness",
+        "degrees": [
+            "but, yet, still [ = nevertheless = despite the aforementioned]",
+            "X, however...; X, on the other hand...; as an exception to the aforementioned, X...",
+            "besides, X [ = in addition to the aforementioned, X]; not just the aforementioned, but also X",
+            "X notwithstanding, ignoring X for the moment, without taking X into account; aside from X; with the exception of X",
+            "except (for) X; but (not) X; excluding X",
+            "even X; or even X; X still (e.g., thicker still)",
+            "not even X",
+            "focusing exclusively on X, taking only X into account for the moment, in reference solely to X, in regard only to X, as for X alone",
+            "exclusive to X; only applying to X; (as) applicable only to X"
+        ],
+        "notes": "A negative XOR coordinative/connective “neither...nor” exists within the redesigned Negation Affix."
+    },
+    {
+        "affix": "jř",
+        "gradient_type": "C",
+        "name": "DST",
+        "description": "Distributive Coordination",
+        "degrees": [
+            "applying to each equally [unfairly]",
+            "applied selectively by decision/preference [unfairly]",
+            "respectively (=to each) but in differing amounts [unfairly]",
+            "selectively at random [unfairly]",
+            "respectively (applied in the sequentially spoken order)",
+            "selectively at random [fairly]",
+            "respectively (=to each) but in differing amounts [fairly]",
+            "applied selectively by decision/calculation [fairly]",
+            "applying to each equally [fairly]"
+        ]
+    }
+]

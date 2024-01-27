@@ -1,0 +1,534 @@
+[
+    {
+        "affix": "sd",
+        "gradient_type": "0",
+        "name": "BAO",
+        "description": "Basic Arithmetical Operations",
+        "degrees": [
+            "plus X",
+            "minus X",
+            "multiplied by X; times X",
+            "divided by X; 1/X; reciprocal of X",
+            "plus or minus X",
+            "X-Squared",
+            "X-Cubed",
+            "square-root of X",
+            "raised to the Xth power"
+        ]
+    },
+    {
+        "affix": "zp",
+        "gradient_type": "0",
+        "name": "SMO",
+        "description": "Secondary Mathematical Operations",
+        "degrees": [
+            "mod X",
+            "absolute value of X; ｜X｜",
+            "natural logarithm of X; log X to the base *e*",
+            "to the base X [logarithmic base]",
+            "base-X [identifies X as the number base for counting/mathematics]",
+            "i・X; X times √-1",
+            "…th root of X",
+            "inverse of X",
+            "X-factorial; X!"
+        ]
+    },
+    {
+        "affix": "jg",
+        "gradient_type": "0",
+        "name": "MTR",
+        "description": "Mathematical Relations",
+        "degrees": [
+            "=; equals",
+            "≠ ; is not equal to",
+            "≈ ; is approximately equal to",
+            "> ; is greater than",
+            "< ; is less than",
+            "≥ ; is no less than",
+            "≤ ; is no greater than",
+            "≅ ; is congruent to",
+            "∝; is proportional to"
+        ]
+    },
+    {
+        "affix": "ẓb",
+        "gradient_type": "0",
+        "name": "TGO",
+        "description": "Trigonometric Operations",
+        "degrees": [
+            "sin X",
+            "cos X",
+            "tan X",
+            "arcsin X",
+            "arccos X",
+            "arctan X",
+            "sinh X",
+            "cosh X",
+            "tanh X"
+        ]
+    },
+    {
+        "affix": "sg",
+        "gradient_type": "D1",
+        "name": "NDB",
+        "description": "Non-Decimal Number Bases (affixed to the standard number roots)",
+        "degrees": [
+            "in base-2; binary",
+            "in base-3; ternary",
+            "in base-4",
+            "in base-6",
+            "in base-8",
+            "in base-12",
+            "in base-16",
+            "in base-20",
+            "in base-60"
+        ]
+    },
+    {
+        "affix": "ng",
+        "gradient_type": "D1",
+        "name": "VAM",
+        "description": "Velocity and Acceleration Measurement",
+        "degrees": [
+            "km/hr[²₂]",
+            "km/s[²₂]",
+            "m/s[²₂]",
+            "mm/s[²₂]",
+            "microns/s[²₂]",
+            "miles/s[²₂]",
+            "ft/s[²₂]",
+            "in/s[²₂]",
+            "mi/hr[²₂]"
+        ],
+        "notes": "Use Type-2 affix to indicate time unit squared for measurement of acceleration"
+    },
+    {
+        "affix": "dg",
+        "gradient_type": "D1",
+        "name": "ANG",
+        "description": "Angular Measurement *",
+        "degrees": [
+            "(in) points",
+            "(in) hour angles",
+            "(in) grads",
+            "(in) mils",
+            "(in) radians",
+            "(in) sextants",
+            "(in) arc-seconds",
+            "(in) arc-minutes",
+            "(in) degrees"
+        ],
+        "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² (i.e., steradians), etc."
+    },
+    {
+        "affix": "rtn",
+        "gradient_type": "A1",
+        "name": "LDA",
+        "description": "Linear Dimensional Measurement A *",
+        "degrees": [
+            "(in) Planck lengths",
+            "(in) angstroms",
+            "(in) microns",
+            "(in) millimeters",
+            "(in) meters",
+            "(in) kilometers",
+            "(in) astronomical units (AUs)",
+            "(in) light-years",
+            "(in) parsecs"
+        ],
+        "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
+    },
+    {
+        "affix": "rtm",
+        "gradient_type": "A1",
+        "name": "LDB",
+        "description": "Linear Dimensional Measurement B *",
+        "degrees": [
+            "(in) inches",
+            "(in) feet",
+            "(in) yards",
+            "(in) fathoms",
+            "(in) rods",
+            "(in) furlongs",
+            "(in) miles",
+            "(in) nautical miles",
+            "(in) leagues"
+        ],
+        "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
+    },
+    {
+        "affix": "rtk",
+        "gradient_type": "A1",
+        "name": "ARM",
+        "description": "Areal Measurement",
+        "degrees": [
+            "(in) barns",
+            "(in) squares",
+            "(in) acres",
+            "(in) roods",
+            "(in) hectares",
+            "(in) sq. perches/sq. rods/poles",
+            "(in) tetrads",
+            "(in) townships",
+            "(in) myriads"
+        ]
+    },
+    {
+        "affix": "řw",
+        "gradient_type": "A1",
+        "name": "VMA",
+        "description": "Volumetric Measurement A",
+        "degrees": [
+            "(in) cubic Planck lengths",
+            "(in) cubic angstroms",
+            "(in) cubic microns",
+            "(in) cubic millimeters",
+            "(in) cubic meters",
+            "(in) cubic kilometers",
+            "(in) cubic astronomical units (AUs)",
+            "(in) cubic light-years",
+            "(in) cubic parsecs"
+        ]
+    },
+    {
+        "affix": "řy",
+        "gradient_type": "A1",
+        "name": "VMB",
+        "description": "Volumetric Measurement B",
+        "degrees": [
+            "(in) cubic inches",
+            "(in) cubic feet",
+            "(in) cubic yards",
+            "(in) cubic fathoms",
+            "(in) cubic rods",
+            "(in) cubic furlongs",
+            "(in) cubic miles",
+            "(in) cubic nautical miles",
+            "(in) cubic leagues"
+        ]
+    },
+    {
+        "affix": "řl",
+        "gradient_type": "A1",
+        "name": "VMC",
+        "description": "Volumetric Measurement C",
+        "degrees": [
+            "(in) minims",
+            "(in) fluid drams",
+            "(in) teaspoons",
+            "(in) tablespoons",
+            "(in) milliliters",
+            "(in) liters",
+            "(in) fluid ounces",
+            "(in) gallons",
+            "(in) barrels"
+        ]
+    },
+    {
+        "affix": "řfs",
+        "gradient_type": "A1",
+        "name": "USM",
+        "description": "Ultra-Short Temporal Measurement *",
+        "degrees": [
+            "in/per yocto-second(s) (100⁻¹²s = 10⁻²⁴s)",
+            "in/per zepto-second(s) (10×100⁻¹¹s = 10⁻²¹s)",
+            "in/per atto-second(s) (100⁻⁹s = 10⁻¹⁸s)",
+            "in/per femto-second(s) (10×100⁻⁸s = 10⁻¹⁵s)",
+            "in/per pico-second(s) (100⁻⁶s = 10⁻¹²s)",
+            "in/per nano-second(s) (10×100⁻⁵s = 10⁻⁹s)",
+            "in/per micro-second(s) (100⁻³s = 10⁻⁶s)",
+            "in/per milli-second(s) (10×100⁻²s = 10⁻³s)",
+            "in/per -second(s) (e.g., with root -LSTR- = Hertz)"
+        ],
+        "notes": "* this affix is the measurement counterpart to the UST affix"
+    },
+    {
+        "affix": "rns",
+        "gradient_type": "A1",
+        "name": "TPM",
+        "description": "Temporal Measurement",
+        "degrees": [
+            "in/per minute(s)",
+            "in/per hour(s)",
+            "in/per day(s)",
+            "in/per week(s)",
+            "in/per month(s)",
+            "in/per year(s)",
+            "in/per decade(s)",
+            "in (human) generation(s)",
+            "in (human) lifetime(s)"
+        ]
+    },
+    {
+        "affix": "rňs",
+        "gradient_type": "A1",
+        "name": "LTM",
+        "description": "Long-TermTemp. Meas.",
+        "degrees": [
+            "in/per century(ies)",
+            "in/per millenium(a)",
+            "in/per 100²-year period(s)",
+            "in/per 100,000-year period(s)",
+            "in/per age(s) (i.e., 1 million years)",
+            "in/per epoch(s) (i.e., 10 million years)",
+            "in/per era(s) (i.e., 100 million years)",
+            "in/per eon(s) (i.e. 500 million years)",
+            "in/per thousand-million-year period(s)"
+        ]
+    },
+    {
+        "affix": "ļp",
+        "gradient_type": "D1",
+        "name": "EMU",
+        "description": "Energy Measurement Units",
+        "degrees": [
+            "(in) Planck energy units",
+            "(in) electronvolts",
+            "(in) ergs",
+            "(in) hartrees",
+            "(in) joules",
+            "(in) therms",
+            "(in) calories",
+            "(in) thermies",
+            "(in) quads"
+        ]
+    },
+    {
+        "affix": "ļt",
+        "gradient_type": "D1",
+        "name": "FMU",
+        "description": "Force Measurement Units",
+        "degrees": [
+            "(in) Planck force units",
+            "(in) dynes",
+            "(in) poundals",
+            "(in) pound-force",
+            "(in) newtons",
+            "(in) kiloponds",
+            "(in) sthènes",
+            "(in) kips",
+            "(in) ton-forces"
+        ]
+    },
+    {
+        "affix": "ļk",
+        "gradient_type": "D1",
+        "name": "PMU",
+        "description": "Pressure Measurement Units",
+        "degrees": [
+            "(in) bars",
+            "(in) baryes",
+            "(in) psi (pounds per square inch)",
+            "(in) torrs",
+            "(in) pascals",
+            "(in) pièzes",
+            "(in) mmHg (millimeters of mercury)",
+            "(in) inHg (inches of mercury)",
+            "(in) standard atmospheres"
+        ]
+    },
+    {
+        "affix": "ļv",
+        "gradient_type": "D1",
+        "name": "OEM",
+        "description": "Other Energy Measurement Units",
+        "degrees": [
+            "(in) watts",
+            "(in) horsepower",
+            "(in) sieverts",
+            "(in) grays",
+            "(in) rads",
+            "(in) poises",
+            "(in) poiseuilles",
+            "(in) rayls",
+            "(in) janskys"
+        ]
+    },
+    {
+        "affix": "lps",
+        "gradient_type": "0",
+        "name": "MAS",
+        "description": "Measurement of Mass",
+        "degrees": [
+            "(in) Planck masses",
+            "(in) daltons",
+            "(in) grains",
+            "(in) grams",
+            "(in) kg (kilograms)",
+            "(in) metric tonnes",
+            "(in) pounds",
+            "(in) short tons (= 2000 lbs.)",
+            "(in) solar masses"
+        ]
+    },
+    {
+        "affix": "šj",
+        "gradient_type": "0",
+        "name": "TMS",
+        "description": "Temperature Measurement System",
+        "degrees": [
+            "(in) Planck temperature / (in) *T*ₚ",
+            "(in) degrees Newton / (in) °N",
+            "(in) degrees Celsius / (in) °C",
+            "(in) degrees Rankine / (in) °R",
+            "(in) kelvins",
+            "(in) degrees Delisle / (in) °D",
+            "(in) degrees Fahrenheit / (in) °F",
+            "(in) degrees Rømer / (in) °Rø",
+            "(in) degrees Réaumur / (in) °Ré"
+        ]
+    },
+    {
+        "affix": "gc",
+        "gradient_type": "0",
+        "name": "EMA",
+        "description": "Electro-Magnetic Measurement A",
+        "degrees": [
+            "(in) amperes",
+            "(in) franklins",
+            "(in) volts",
+            "(in) farads",
+            "(in) coulombs",
+            "(in) unit poles",
+            "(in) webers",
+            "(in) maxwells (or lines)",
+            "(in) henrys"
+        ]
+    },
+    {
+        "affix": "gč",
+        "gradient_type": "0",
+        "name": "EMB",
+        "description": "Electro-Magnetic Measurement B",
+        "degrees": [
+            "(in) ohms",
+            "(in) ampere-turns",
+            "(in) siemens (or mhos)",
+            "(in) gilberts",
+            "(in) teslas",
+            "(in) nepers",
+            "(in) darafs (i.e., reciprocal of farad)",
+            "(in) oersteds (i.e., amperes per meter)",
+            "(in) ohm meters"
+        ]
+    },
+    {
+        "affix": "gẓ",
+        "gradient_type": "0",
+        "name": "EMC",
+        "description": "Electro-Magnetic Measurement C",
+        "degrees": [
+            "(in) volts per meter",
+            "(in) newtons per coulomb",
+            "(in) coulombs per sq. meter",
+            "(in) coulombs per cu. meter",
+            "(in) amperes per sq. meter",
+            "(in) siemens per meter",
+            "(in) farads per meter",
+            "(in) henrys per meter",
+            "(in) coulombs per kilogram"
+        ]
+    },
+    {
+        "affix": "fẓ",
+        "gradient_type": "0",
+        "name": "LOA",
+        "description": "Luminance & Optics A",
+        "degrees": [
+            "(in) candelas",
+            "(in) candle-powers",
+            "(in) lumens ( = candela steradians)",
+            "(in) foot-candles",
+            "(in) lux",
+            "(in) nits ( = candelas per square meter)",
+            "(in) talbots",
+            "(in) rayleighs",
+            "(in) lux seconds"
+        ]
+    },
+    {
+        "affix": "fj",
+        "gradient_type": "0",
+        "name": "LOB",
+        "description": "Luminance & Optics B",
+        "degrees": [
+            "(in) lumens per sq. meter",
+            "(in) lumen seconds per cu. meter",
+            "(in) lumens per watt",
+            "(in) lamberts",
+            "(in) foot-lamberts",
+            "(in) stilbs",
+            "(in) diopters",
+            "(in) skots",
+            "(in) brils"
+        ]
+    },
+    {
+        "affix": "fč",
+        "gradient_type": "0",
+        "name": "DMU",
+        "description": "Density-Releated Measurement Units",
+        "degrees": [
+            "(in) moles",
+            "(in) International Units (IU)",
+            "(in) katals ( = moles per second)",
+            "(in) moles per cu. meter",
+            "(in) joules per mole",
+            "(in) molar volumes (= cu. meter per mole)",
+            "(in) molals (= mole per kg)",
+            "(in) joules per kelvin mole",
+            "(in) siemens times sq. meter per mole"
+        ]
+    },
+    {
+        "affix": "šf",
+        "gradient_type": "0",
+        "name": "CUA",
+        "description": "Currency A",
+        "degrees": [
+            "Chinese ¥",
+            "Russian ₽",
+            "British £",
+            "Canadian $",
+            "€",
+            "Indian ₹",
+            "Japanese ¥",
+            "Brazilian real",
+            "U.S. $"
+        ]
+    },
+    {
+        "affix": "cf",
+        "gradient_type": "0",
+        "name": "CUB",
+        "description": "Currency B",
+        "degrees": [
+            "Mexican peso",
+            "Swiss franc",
+            "Turkish ₺",
+            "Chilean peso",
+            "Australian $",
+            "Swedish krona",
+            "Indonesian rupiah",
+            "Saudi ﷼ ",
+            "South Korean ₩"
+        ]
+    },
+    {
+        "affix": "čf",
+        "gradient_type": "0",
+        "name": "CUC",
+        "description": "Currency C",
+        "degrees": [
+            "Thai ฿",
+            "South African rand",
+            "New Zealand $",
+            "₿itcoin",
+            "currency used by X",
+            "Israeli ₪",
+            "Polish złoty",
+            "Singapore $",
+            "Malaysian ringgit"
+        ]
+    }
+]
