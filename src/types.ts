@@ -22,7 +22,7 @@ export type StandardAffix = {
     name: string;
     description: string;
     gradient_type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
-    affix: string;
+    cs: string;
     degrees: [
         Degree | null,
         Degree,
