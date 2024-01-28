@@ -1,24 +1,25 @@
 # Lexicon Json
 
 This repository offers the lexicon of New Ithkuil in json format based on the
-http://ithkuil.net/newithkuil_lexicon.pdf.
+http://ithkuil.net/newithkuil_lexicon.pdf &
+https://ithkuil.net/newithkuil_affix.pdf.
 
 ## Format
+
+```ts
+type Lexicon = {
+  roots: Array<Root>;
+  affixes: {
+    standard: Array<Affix>;
+    accessor: Array<CaseAccessorAffix>;
+    stacking: Array<CaseStackingAffix>;
+  };
+};
+```
 
 ### Roots
 
 ```ts
-type Specs = {
-  /** basic */
-  "BSC": string;
-  /** contential */
-  "CTE": string;
-  /** constitutive */
-  "CSV": string;
-  /** objective */
-  "OBJ": string;
-};
-
 type Root = {
   root: string;
   refers?: string;
@@ -29,22 +30,27 @@ type Root = {
   ];
   /** Notes in markdown format */
   notes?: string;
-  /** See the root below if the stems are empty as they may have similar rules */
+  /** See the root below if the stems are empty as they may have similar pattern */
   see?: string;
 }[];
 
-type Lexicon = Array<Root>;
+type Specs = {
+  /** basic */
+  "BSC": string;
+  /** contential */
+  "CTE": string;
+  /** constitutive */
+  "CSV": string;
+  /** objective */
+  "OBJ": string;
+};
 ```
 
 ### Affixes
 
-```ts
-type Degree =
-  // Suitable for most situations
-  | string
-  // Suitable for the situation where the Type-2 of current affix has another meaning
-  | [string, string];
+#### Standard
 
+```ts
 type Affix = {
   name: string;
   description: string;
@@ -67,7 +73,42 @@ type Affix = {
   notes?: string;
 };
 
-type Affixes = Array<Affix>;
+type Degree =
+  // Suitable for most situations
+  | string
+  // Suitable for the situation where the Type-2 of current affix has another meaning
+  | [string, string];
+```
+
+#### Non-Standard
+
+```ts
+type Case = {
+  cs: string;
+  vx: string;
+  description: string;
+};
+
+type CaseAccessorAffix = {
+  name: string;
+  description: string;
+  gradient_type: string;
+  types: [
+    // Type-1
+    Array<Case>,
+    // Type-2
+    Array<Case>,
+    // Type-3
+    Array<Case>,
+  ];
+};
+
+type CaseStackingAffix = {
+  name: string;
+  description: string;
+  gradient_type: string;
+  cases: Array<Case>;
+};
 ```
 
 ## Scripts
