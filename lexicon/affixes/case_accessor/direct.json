@@ -6,1086 +6,1086 @@
     [
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["a"],
         "description": "(THM)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ä"],
         "description": "(INS)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["e"],
         "description": "(ABS)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["i"],
         "description": "(AFF)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ëi"],
         "description": "(STM)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ö"],
         "description": "(EFF)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["o"],
         "description": "(ERG)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ü"],
         "description": "(DAT)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["u"],
         "description": "(IND)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ai"],
         "description": "(POS)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["au"],
         "description": "(PRP)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ei"],
         "description": "(GEN)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["eu"],
         "description": "(ATT)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ëu"],
         "description": "(PDC)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ou"],
         "description": "(ITP)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["oi"],
         "description": "(OGN)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["iu"],
         "description": "(IDP)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ui"],
         "description": "(PAR)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ia", "uä"],
         "description": "(APL)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ie", "uë"],
         "description": "(PUR)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["io", "üä"],
         "description": "(TRA)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["iö", "üë"],
         "description": "(DFR)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["eë"],
         "description": "(CRS)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["uö", "öë"],
         "description": "(TSP)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["uo", "öä"],
         "description": "(CMM)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ue", "ië"],
         "description": "(CMP)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ua", "iä"],
         "description": "(CSD)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["ao"],
         "description": "(FUN)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["aö"],
         "description": "(TFM)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["eo"],
         "description": "(CLA)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["eö"],
         "description": "(RSL)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["oë"],
         "description": "(CSM)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["öe"],
         "description": "(CON)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["oe"],
         "description": "(AVR)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["öa"],
         "description": "(CVS)"
       },
       {
         "cs": "sw",
-        "vx": "TODO",
+        "vx": ["oa"],
         "description": "(SIT)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["a"],
         "description": "(PRN)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ä"],
         "description": "(DSP)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["e"],
         "description": "(COR)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["i"],
         "description": "(CPS)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ëi"],
         "description": "(COM)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ö"],
         "description": "(UTL)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["o"],
         "description": "(PRD)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ü"],
         "description": "n/a"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["u"],
         "description": "(RLT)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ai"],
         "description": "(ACT)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["au"],
         "description": "(ASI)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ei"],
         "description": "(ESS)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["eu"],
         "description": "(TRM)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ëu"],
         "description": "(SEL)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ou"],
         "description": "(CFM)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["oi"],
         "description": "(DEP)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["iu"],
         "description": "n/a"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ui"],
         "description": "(VOC)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ia", "uä"],
         "description": "(LOC)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ie", "uë"],
         "description": "(ATD)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["io", "üä"],
         "description": "(ALL)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["iö", "üë"],
         "description": "(ABL)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["eë"],
         "description": "(ORI)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["uö", "öë"],
         "description": "(IRL)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["uo", "öä"],
         "description": "(INV)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ue", "ië"],
         "description": "n/a"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ua", "iä"],
         "description": "(NAV)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["ao"],
         "description": "(CNR)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["aö"],
         "description": "(ASS)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["eo"],
         "description": "(PER)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["eö"],
         "description": "(PRO)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["oë"],
         "description": "(PCV)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["öe"],
         "description": "(PCR)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["oe"],
         "description": "(ELP)"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["öa"],
         "description": "n/a"
       },
       {
         "cs": "sy",
-        "vx": "TODO",
+        "vx": ["oa"],
         "description": "(PLM)"
       }
     ],
     [
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["a"],
         "description": "(THM)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ä"],
         "description": "(INS)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["e"],
         "description": "(ABS)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["i"],
         "description": "(AFF)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ëi"],
         "description": "(STM)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ö"],
         "description": "(EFF)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["o"],
         "description": "(ERG)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ü"],
         "description": "(DAT)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["u"],
         "description": "(IND)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ai"],
         "description": "(POS)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["au"],
         "description": "(PRP)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ei"],
         "description": "(GEN)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["eu"],
         "description": "(ATT)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ëu"],
         "description": "(PDC)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ou"],
         "description": "(ITP)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["oi"],
         "description": "(OGN)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["iu"],
         "description": "(IDP)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ui"],
         "description": "(PAR)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ia", "uä"],
         "description": "(APL)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ie", "uë"],
         "description": "(PUR)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["io", "üä"],
         "description": "(TRA)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["iö", "üë"],
         "description": "(DFR)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["eë"],
         "description": "(CRS)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["uö", "öë"],
         "description": "(TSP)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["uo", "öä"],
         "description": "(CMM)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ue", "ië"],
         "description": "(CMP)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ua", "iä"],
         "description": "(CSD)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["ao"],
         "description": "(FUN)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["aö"],
         "description": "(TFM)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["eo"],
         "description": "(CLA)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["eö"],
         "description": "(RSL)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["oë"],
         "description": "(CSM)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["öe"],
         "description": "(CON)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["oe"],
         "description": "(AVR)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["öa"],
         "description": "(CVS)"
       },
       {
         "cs": "zw",
-        "vx": "TODO",
+        "vx": ["oa"],
         "description": "(SIT)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["a"],
         "description": "(PRN)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ä"],
         "description": "(DSP)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["e"],
         "description": "(COR)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["i"],
         "description": "(CPS)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ëi"],
         "description": "(COM)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ö"],
         "description": "(UTL)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["o"],
         "description": "(PRD)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ü"],
         "description": "n/a"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["u"],
         "description": "(RLT)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ai"],
         "description": "(ACT)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["au"],
         "description": "(ASI)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ei"],
         "description": "(ESS)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["eu"],
         "description": "(TRM)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ëu"],
         "description": "(SEL)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ou"],
         "description": "(CFM)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["oi"],
         "description": "(DEP)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["iu"],
         "description": "n/a"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ui"],
         "description": "(VOC)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ia", "uä"],
         "description": "(LOC)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ie", "uë"],
         "description": "(ATD)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["io", "üä"],
         "description": "(ALL)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["iö", "üë"],
         "description": "(ABL)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["eë"],
         "description": "(ORI)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["uö", "öë"],
         "description": "(IRL)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["uo", "öä"],
         "description": "(INV)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ue", "ië"],
         "description": "n/a"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ua", "iä"],
         "description": "(NAV)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["ao"],
         "description": "(CNR)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["aö"],
         "description": "(ASS)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["eo"],
         "description": "(PER)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["eö"],
         "description": "(PRO)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["oë"],
         "description": "(PCV)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["öe"],
         "description": "(PCR)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["oe"],
         "description": "(ELP)"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["öa"],
         "description": "n/a"
       },
       {
         "cs": "zy",
-        "vx": "TODO",
+        "vx": ["oa"],
         "description": "(PLM)"
       }
     ],
     [
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["a"],
         "description": "(THM)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ä"],
         "description": "(INS)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["e"],
         "description": "(ABS)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["i"],
         "description": "(AFF)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ëi"],
         "description": "(STM)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ö"],
         "description": "(EFF)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["o"],
         "description": "(ERG)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ü"],
         "description": "(DAT)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["u"],
         "description": "(IND)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ai"],
         "description": "(POS)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["au"],
         "description": "(PRP)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ei"],
         "description": "(GEN)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["eu"],
         "description": "(ATT)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ëu"],
         "description": "(PDC)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ou"],
         "description": "(ITP)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["oi"],
         "description": "(OGN)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["iu"],
         "description": "(IDP)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ui"],
         "description": "(PAR)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ia", "uä"],
         "description": "(APL)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ie", "uë"],
         "description": "(PUR)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["io", "üä"],
         "description": "(TRA)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["iö", "üë"],
         "description": "(DFR)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["eë"],
         "description": "(CRS)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["uö", "öë"],
         "description": "(TSP)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["uo", "öä"],
         "description": "(CMM)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ue", "ië"],
         "description": "(CMP)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ua", "iä"],
         "description": "(CSD)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["ao"],
         "description": "(FUN)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["aö"],
         "description": "(TFM)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["eo"],
         "description": "(CLA)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["eö"],
         "description": "(RSL)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["oë"],
         "description": "(CSM)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["öe"],
         "description": "(CON)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["oe"],
         "description": "(AVR)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["öa"],
         "description": "(CVS)"
       },
       {
         "cs": "čw",
-        "vx": "TODO",
+        "vx": ["oa"],
         "description": "(SIT)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["a"],
         "description": "(PRN)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ä"],
         "description": "(DSP)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["e"],
         "description": "(COR)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["i"],
         "description": "(CPS)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ëi"],
         "description": "(COM)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ö"],
         "description": "(UTL)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["o"],
         "description": "(PRD)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ü"],
         "description": "n/a"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["u"],
         "description": "(RLT)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ai"],
         "description": "(ACT)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["au"],
         "description": "(ASI)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ei"],
         "description": "(ESS)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["eu"],
         "description": "(TRM)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ëu"],
         "description": "(SEL)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ou"],
         "description": "(CFM)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["oi"],
         "description": "(DEP)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["iu"],
         "description": "n/a"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ui"],
         "description": "(VOC)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ia", "uä"],
         "description": "(LOC)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ie", "uë"],
         "description": "(ATD)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["io", "üä"],
         "description": "(ALL)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["iö", "üë"],
         "description": "(ABL)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["eë"],
         "description": "(ORI)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["uö", "öë"],
         "description": "(IRL)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["uo", "öä"],
         "description": "(INV)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ue", "ië"],
         "description": "n/a"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ua", "iä"],
         "description": "(NAV)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["ao"],
         "description": "(CNR)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["aö"],
         "description": "(ASS)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["eo"],
         "description": "(PER)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["eö"],
         "description": "(PRO)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["oë"],
         "description": "(PCV)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["öe"],
         "description": "(PCR)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["oe"],
         "description": "(ELP)"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["öa"],
         "description": "n/a"
       },
       {
         "cs": "čy",
-        "vx": "TODO",
+        "vx": ["oa"],
         "description": "(PLM)"
       }
     ]

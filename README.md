@@ -85,7 +85,8 @@ type Degree =
 ```ts
 type Case = {
   cs: string;
-  vx: string;
+  /* All possible vowel forms */
+  vx: Array<string>;
   description: string;
 };
 
