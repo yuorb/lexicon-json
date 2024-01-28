@@ -1,0 +1,367 @@
+{
+    "name": "cs",
+    "description": "Case-Stacking Affix",
+    "gradient_type": "0",
+    "cases": [
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(THM)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(INS)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(ABS)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(AFF)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(STM)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(EFF)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(ERG)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(DAT)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(IND)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(POS)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(PRP)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(GEN)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(ATT)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(PDC)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(ITP)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(OGN)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(IDP)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(PAR)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(APL)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(PUR)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(TRA)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(DFR)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CRS)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(TSP)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CMM)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CMP)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CSD)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(FUN)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(TFM)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CLA)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(RSL)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CSM)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CON)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(AVR)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(CVS)"
+        },
+        {
+            "cs": "lw",
+            "vx": "TODO",
+            "description": "(SIT)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PRN)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(DSP)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(COR)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(CPS)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(COM)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(UTL)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PRD)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "n/a"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(RLT)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ACT)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ASI)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ESS)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(TRM)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(SEL)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(CFM)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(DEP)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "n/a"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(VOC)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(LOC)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ATD)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ALL)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ABL)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ORI)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(IRL)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(INV)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "n/a"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(NAV)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(CNR)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ASS)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PER)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PRO)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PCV)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PCR)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(ELP)"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "n/a"
+        },
+        {
+            "cs": "ly",
+            "vx": "TODO",
+            "description": "(PLM)"
+        }
+    ]
+}
