@@ -1,6 +1,6 @@
 {
     "tasks": {
-        "json": "deno run --allow-read --allow-write=output scripts/json.ts",
-        "yaml": "deno run --allow-read --allow-write=output scripts/yaml.ts"
+        "json": "deno run --allow-read=lexicon,output --allow-write=output scripts/json.ts",
+        "yaml": "deno run --allow-read=lexicon,output --allow-write=output scripts/yaml.ts"
     }
 }
