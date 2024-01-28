@@ -10,14 +10,14 @@ https://ithkuil.net/newithkuil_affix.pdf.
 type Lexicon = {
   roots: Array<Root>;
   affixes: {
-    standard: Array<Affix>;
+    standard: Array<StandardAffix>;
     accessor: Array<CaseAccessorAffix>;
     stacking: Array<CaseStackingAffix>;
   };
 };
 ```
 
-### Roots
+### Root
 
 ```ts
 type Root = {
@@ -46,12 +46,12 @@ type Specs = {
 };
 ```
 
-### Affixes
+### Affix
 
 #### Standard
 
 ```ts
-type Affix = {
+type StandardAffix = {
   name: string;
   description: string;
   gradient_type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";

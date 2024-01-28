@@ -18,7 +18,7 @@ export type Root = {
 
 type Degree = string | [string, string];
 
-export type Affix = {
+export type StandardAffix = {
     name: string;
     description: string;
     gradient_type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
@@ -65,7 +65,7 @@ export type CaseStackingAffix = {
 export type Lexicon = {
     roots: Root[],
     affixes: {
-        standard: Affix[],
+        standard: StandardAffix[],
         accessor: CaseAccessorAffix[],
         stacking: CaseStackingAffix[],
     },
