@@ -234,15 +234,15 @@
         "cs": "bv",
         "degrees": [
             null,
-            "X as representative of a 3rd-level sub-grouping of the basic-level grouping [the sub-species or strain of which X is a member₂]",
-            "X as representative of a sub-sub-group or sub-sub-section of X’s base-level group [the species of which X is a member₂]",
-            "X as representative of a sub-group or sub-section of X’s base-level group [the genus of which X is a member₂]",
-            "X as the basic or common hierarchical level representative of a group; X as member, X as representative [the tribe of which X is a member₂]",
-            "the “tribe”, group, club, section of which X is a member [the family of which X is a member₂]",
-            "the “family” of which X is a member; the grouping to which X’s “tribe”/club/group/section belongs [the order of which X is a member₂]",
-            "3rd-order hierarchical super-group of which X is a member; the grouping to which the grouping containing X’s group/section belongs [the class of which X is a member₂]",
-            "4th-order hierarchical super-group of which X is a member [the phylum of which X is a member₂]",
-            "5th-order hierarchical super-group of which X is a member [the kingdom of which X is a member₂]"
+            ["X as representative of a 3rd-level sub-grouping of the basic-level grouping","the sub-species or strain of which X is a member"],
+            ["X as representative of a sub-sub-group or sub-sub-section of X’s base-level group","the species of which X is a member"],
+            ["X as representative of a sub-group or sub-section of X’s base-level group","the genus of which X is a member"],
+            ["X as the basic or common hierarchical level representative of a group; X as member, X as representative","the tribe of which X is a member"],
+            ["the “tribe”, group, club, section of which X is a member","the family of which X is a member"],
+            ["the “family” of which X is a member; the grouping to which X’s “tribe”/club/group/section belongs","the order of which X is a member"],
+            ["3rd-order hierarchical super-group of which X is a member; the grouping to which the grouping containing X’s group/section belongs","the class of which X is a member"],
+            ["4th-order hierarchical super-group of which X is a member","the phylum of which X is a member"],
+            ["5th-order hierarchical super-group of which X is a member","the kingdom of which X is a member"]
         ],
         "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
     },

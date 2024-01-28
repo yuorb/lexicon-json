@@ -98,8 +98,8 @@
             null,
             "not a(ny), not one, no X whatsoever, none of X; in no such manner",
             "hardly any, barely any X; in hardly any such manner",
-            "some few/a few certain … ; in a few certain ways",
-            "some (of)/certain . . .; in certain ways",
+            "some few/a few certain …; in a few certain ways",
+            "some (of)/certain...; in certain ways",
             "several / more than a few / various / in various ways / in several different ways",
             "a significant portion of/a fair number of; in a fair number of ways",
             "most/in most ways",
@@ -199,7 +199,7 @@
     },
     {
         "name": "PLT",
-        "description": "Pletive (i.e., relative amount compared to a\nstandard or a previous or expected amount)",
+        "description": "Pletive (i.e., relative amount compared to a standard or a previous or expected amount)",
         "gradient_type": "D1",
         "cs": "tļ",
         "degrees": [

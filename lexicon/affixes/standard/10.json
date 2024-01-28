@@ -132,15 +132,15 @@
         "cs": "gḑ",
         "degrees": [
             null,
-            "entity/object used to stop/interrupt (the process/effect of) X",
-            "entity/object used to lessen/mitigate (the process/effect of) X",
-            "entity/object used to prevent/impede/block (the process/effect of) X",
-            "entity/object used to slow down (the process/effect of) X",
-            "entity/object used to modify (the process/effect of) X",
-            "entity/object used to accelerate/speed up/intensify (the process/effect of) X",
-            "entity/object used to enable/facilitate (the process/effect of) X",
-            "entity/object used to enhance/magnify (the process/effect) of X",
-            "entity/object used to initiate/start/effectuate (the process/effect of) X"
+            ["entity/object used to stop/interrupt (the process/effect of) X","specifically designed tool/device used to stop/interrupt (the process/effect of) X"],
+            ["entity/object used to lessen/mitigate (the process/effect of) X","specifically designed tool/device used to lessen/mitigate (the process/effect of) X"],
+            ["entity/object used to prevent/impede/block (the process/effect of) X","specifically designed tool/device used to prevent/impede/block (the process/effect of) X"],
+            ["entity/object used to slow down (the process/effect of) X","specifically designed tool/device used to slow down (the process/effect of) X"],
+            ["entity/object used to modify (the process/effect of) X","specifically designed tool/device used to modify (the process/effect of) X"],
+            ["entity/object used to accelerate/speed up/intensify (the process/effect of) X","specifically designed tool/device used to accelerate/speed up/intensify (the process/effect of) X"],
+            ["entity/object used to enable/facilitate (the process/effect of) X","specifically designed tool/device used to enable/facilitate (the process/effect of) X"],
+            ["entity/object used to enhance/magnify (the process/effect) of X","specifically designed tool/device used to enhance/magnify (the process/effect of) X"],
+            ["entity/object used to initiate/start/effectuate (the process/effect of) X","specifically designed tool/device used to initiate/start/effectuate (the process/effect of) X"]
         ]
     },
     {

@@ -284,7 +284,7 @@
             "well-reasoned / intelligent(ly)",
             "innovative(ly) / daring [based on analysis and judgement]",
             "ingenious / brilliant",
-            "wise(ly); [Type-2 = ‘philosophical(ly)]"
+            ["wise(ly)", "philosophical(ly)"]
         ]
     },
     {
@@ -402,8 +402,8 @@
         "cs": "lf",
         "degrees": [
             null,
-            "as a result of the worst luck imaginable / as the cruelest fate would have it . . .",
-            "by a stroke of ill-fortune / as ill-fate would have it . . .",
+            "as a result of the worst luck imaginable / as the cruelest fate would have it...",
+            "by a stroke of ill-fortune / as ill-fate would have it...",
             "unluckily / unfortunately",
             "with/by a certain degree of ill-fortune or bad luck",
             "neither with or without luck / neither fortunately or unfortunately",
@@ -438,7 +438,7 @@
         "cs": "rd",
         "degrees": [
             null,
-            "imaginary / unreal / made-up ; imagine X-ing, not really X-ing [contrary to suggestion otherwise]",
+            "imaginary / unreal / made-up; imagine X-ing, not really X-ing [contrary to suggestion otherwise]",
             "imaginary / unreal / made-up / fictional; imagine X-ing, not really X-ing",
             "fake / pretend / mock; pretend to, fake X-ing",
             "substitute / replacement / proxy / fill-in / placeholder; as a substitute or proxy for",

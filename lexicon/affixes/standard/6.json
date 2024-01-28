@@ -227,7 +227,7 @@
             "subtle(ly) / nuanced",
             "somewhat subtle(ly)",
             "neither too subtle nor too unsubtle",
-            "someowhat unsubtle(ly) / lumbering(ly) / belabored ; belabor / lumber along X-ing",
+            "someowhat unsubtle(ly) / lumbering(ly) / belabored; belabor / lumber along X-ing",
             "unsubtle(ly) / obvious(ly)",
             "over-the-top / in-your-face / blatant(ly) / exaggerated(ly)",
             "too unsubtle(ly) / too obvious(ly) / too blatant(ly)"
@@ -260,7 +260,7 @@
             null,
             "too slow(ly) in happening, too long in X-ing, overdue, delayed",
             "very slow(ly) in happening or developing",
-            "slow(ly) ; long in developing or happening",
+            "slow(ly); long in developing or happening",
             "somewhat slow(ly); somewhat long in developing or happening",
             "taking just the right amount of time to develop or occur",
             "somewhat quickly / somewhat rapidly in occurring or developing; somewhat suddenly",
@@ -301,7 +301,7 @@
             "having a relatively quick onset and enduring for a relatively brief duration; fast-acting / having a fast effect / taking effect quickly then lasting relatively briefly",
             "having a relatively quick onset and enduring for a prolonged duration; fast-acting / having a fast effect /  taking effect quickly with a relatively prolonged/lasting effect",
             "having a slow onset then suddenly stopping; slow-acting then stopping / having a slow onset then stopping",
-            "having a slow onset and enduring for a relatively brief duration; slow-acting with relatively brief following effect / having a slow onset followed by a relatively brief\neffect / taking effect gradually with brief effect following",
+            "having a slow onset and enduring for a relatively brief duration; slow-acting with relatively brief following effect / having a slow onset followed by a relatively brief effect / taking effect gradually with brief effect following",
             "having a slow onset and enduring for a prolonged duration; slow-acting with prolonged effect / having a slow onset with a relatively prolonged/lasting effect"
         ]
     },
@@ -475,7 +475,7 @@
         "degrees": [
             null,
             "too uncontrolled; too out-of-control",
-            "uncontrolled/helpless(ly) ; without control/ out of control",
+            "uncontrolled/helpless(ly); without control/ out of control",
             "almost completely out of control / almost totally helpless",
             "losing control / losing the ability to…",
             "(only) somewhat in control; (only) partially in control",
@@ -716,7 +716,7 @@
             "a failure to... / failed / would-be; unsuccessful(ly), fail to",
             "uncertain or yet-to-be determined whether a success or a failure",
             "marginally successful(ly) / barely, hardly [in terms of adequacy or success]",
-            "certain to be a successful ; certain to succeed in",
+            "certain to be a successful; certain to succeed in",
             "succeed in...; successful(-ly completed); successfully; accomplish",
             "overwhelmingly successful(ly); successful beyond all hopes"
         ]

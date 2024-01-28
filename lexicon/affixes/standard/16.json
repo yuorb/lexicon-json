@@ -34,7 +34,7 @@
             "The contigency occurs depending (up)on X; however, the dependency value is unknown to speaker",
             "The contigency occurs in case of X"
         ],
-        "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if...”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\\n\\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
+        "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if...”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\n\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
     },
     {
         "name": "AFM",
@@ -205,15 +205,15 @@
         "cs": "řž",
         "degrees": [
             null,
-            "(MIN) Minimal",
-            "(SBE) Subequative",
-            "(IFR) Inferior",
-            "(DFC) Deficient",
-            "(EQU) Equative",
-            "(SUR) Surpassive",
-            "(SPL) Superlative",
-            "(SPQ) Superequative",
-            "(MAX) Maximal"
+            ["(MINr) Minimal (relative comparison)","(MINa) Minimal (absolute comparison)"],
+            ["(SBEr) Subequative (relative comparison)","(SBEa) Subequative (absolute comparison)"],
+            ["(IFRr) Inferior (relative comparison)","(IFRa) Inferior (absolute comparison)"],
+            ["(DFCr) Deficient (relative comparison)","(DFCa) Deficient (absolute comparison)"],
+            ["(EQUr) Equative (relative comparison)","(EQUa) Equative (absolute comparison)"],
+            ["(SURr) Surpassive (relative comparison)","(SURa) Surpassive (absolute comparison)"],
+            ["(SPLr) Superlative (relative comparison)","(SPLa) Superlativ (absolute comparison)e"],
+            ["(SPQr) Superequative (relative comparison)","(SPQa) Superequative (absolute comparison)"],
+            ["(MAXr) Maximal (relative comparison)","(MAXa) Maximal (absolute comparison)"]
         ],
         "notes": "* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
     },
@@ -441,18 +441,17 @@
         "gradient_type": "D1",
         "cs": "bẓ",
         "degrees": [
-            null,
-            "(SUB) Subjunctive",
-            "(ASM) Assumptive",
-            "(SPC) Speculative",
-            "(COU) Counterfactive",
-            "(HYP) Subjunctive",
-            "(CCA) Antecedent",
-            "(CCS) Subaltern",
-            "(CCQ) Qualifier",
-            "(CCP) Precedent"
-        ],
-        "notes": "Degree 0: (CCV) Successive"
+            "(CCV) Successive Case-Scope",
+            "(SUB) Subjunctive Mood",
+            "(ASM) Assumptive Mood",
+            "(SPC) Speculative Mood",
+            "(COU) Counterfactive Mood",
+            "(HYP) Subjunctive Mood",
+            "(CCA) Antecedent Case-Scope",
+            "(CCS) Subaltern Case-Scope",
+            "(CCQ) Qualifier Case-Scope",
+            "(CCP) Precedent Case-Scope"
+        ]
     },
     {
         "name": "NCD",
@@ -461,33 +460,33 @@
         "cs": "bç",
         "degrees": [
             null,
-            "(G/FNC)",
-            "(N/FNC)",
-            "(A/FNC)",
-            "(G/RPS)",
-            "(N/RPS)",
-            "(A/RPS)",
-            "(G/AMG)",
-            "(N/AMG)",
-            "(A/AMG)"
+            "(FNC/G)",
+            "(FNC/N)",
+            "(FNC/A)",
+            "(RPS/G)",
+            "(RPS/N)",
+            "(RPS/A)",
+            "(AMG/G)",
+            "(AMG/N)",
+            "(AMG/A)"
         ]
     },
     {
         "name": "NCE",
-        "description": "Non-Default Context + Essence ( + AGGLOMERATIVE Perspective)",
+        "description": "Non-Default Context + Essence (+ AGGLOMERATIVE Perspective)",
         "gradient_type": "B",
         "cs": "gç",
         "degrees": [
             null,
-            "(NRM/FNC)",
-            "(RPV/FNC)",
-            "(G/RPV/FNC)",
-            "(NRM/RPS)",
-            "(RPV/RPS)",
-            "(G/RPV/RPS)",
-            "(NRM/AMG)",
-            "(RPV/AMG)",
-            "(P/RPV/AMG)"
+            "(FNC/NRM)",
+            "(FNC/RPV)",
+            "(FNC/RPV/G)",
+            "(RPS/NRM)",
+            "(RPS/RPV)",
+            "(RPS/RPV/G)",
+            "(AMG/NRM)",
+            "(AMG/RPV)",
+            "(AMG/RPV/G)"
         ]
     },
     {
@@ -497,15 +496,15 @@
         "cs": "gj",
         "degrees": [
             null,
-            "(PPS) Propositional",
-            "(EPI) Epistemic",
-            "(ALG) Allegative",
-            "(IPU) Imputative",
-            "(RFU) Refutative",
-            "(REB) Rebutative",
-            "(CJT) Conjectural",
-            "(EXV) Expatiative",
-            "(AXM) Axiomatic"
+            "(PPS) Propositional: statement is an ontological assertion based on ontologogical fact",
+            "(EPI) Epistemic: statement is an epistemic assertion based on conventional (culturally agreed-upon) fact",
+            "(ALG) Allegative: statement is an allegation expressing one’s belief, subject to rubuttal or refutation",
+            "(IPU) Imputative: statement is a rebuttable presumption (i.e., to be assumed true until proven otherwise)",
+            "(RFU) Refutative: statement is a rebuttal/refutation based on epistemic knowledge",
+            "(REB) Rebutative: statement is a rebuttal/refutation based on ontological fact",
+            "(CJT) Conjectural: statement is a conjecture/theory/hypothesis that is testable/verifiable",
+            "(EXV) Expatiative: statement is a conjecture/theory/hypothesis that is not presumably testable/verifiable",
+            "(AXM) Axiomatic: statement is a conclusive presumption not rationally debatable"
         ]
     },
     {

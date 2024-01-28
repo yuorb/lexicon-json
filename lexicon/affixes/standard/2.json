@@ -436,7 +436,7 @@
     },
     {
         "name": "TNX",
-        "description": "Multiples of Ten (used with the number roots 0 thru 9 to create the numbers 11 through 99)\nto create the numbers 11 through 99)",
+        "description": "Multiples of Ten (used with the number roots 0 thru 9 to create the numbers 11 through 99)",
         "gradient_type": "A1",
         "cs": "rs",
         "degrees": [
@@ -698,7 +698,7 @@
             "again / once more / one more time / re-",
             "again and again / keep X-ing over and over [focus on habit, not periodicity]",
             "again and again / keep X-ing over and over [focus on periodicity, not habit]",
-            "irregular, unpredictable ; at irregular or unpredictable intervals",
+            "irregular, unpredictable; at irregular or unpredictable intervals",
             "[cyclic] return of... / ...once again; return to / …back again [e.g., summer’s back]",
             "intermittent; intermittently / at regular intervals",
             "repetitive / repeating; repeatedly",
@@ -825,7 +825,7 @@
             "in the remote past, once upon a time",
             "past/former/previous; once [e.g., I was young once], a long time ago",
             "recent; recently",
-            ". . . just past / just (happened)",
+            "... just past / just (happened)",
             "present/current/present day; now / at present / presently / currently",
             "imminent; just about to / about to / on the verge of",
             "forthcoming / soon to arrive; soon",
@@ -845,7 +845,7 @@
             "anticipated / awaited; in anticipation of / look to",
             "up for / up to",
             "await / wait to / wait for / waiting to",
-            "ambivalent about ; could take or leave it",
+            "ambivalent about; could take or leave it",
             "not looking forward to",
             "dreaded; dread X-ing",
             "long-dreaded; dread the day when"
@@ -937,9 +937,9 @@
             "initial; at first/initially / at first blush / at first glance",
             "now that the moment has come / now that the time is here / now that the event is at hand",
             "any moment now; on the verge of; just about to",
-            "imminent(ly) ; very soon",
+            "imminent(ly); very soon",
             "soon [w/ anticipation]",
-            "someday. . . / one day [with longing]"
+            "someday... / one day [with longing]"
         ]
     },
     {

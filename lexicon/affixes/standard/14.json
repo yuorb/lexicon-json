@@ -43,13 +43,13 @@
         "degrees": [
             null,
             "=; equals",
-            "≠ ; is not equal to",
-            "≈ ; is approximately equal to",
-            "> ; is greater than",
-            "< ; is less than",
-            "≥ ; is no less than",
-            "≤ ; is no greater than",
-            "≅ ; is congruent to",
+            "≠; is not equal to",
+            "≈; is approximately equal to",
+            ">; is greater than",
+            "<; is less than",
+            "≥; is no less than",
+            "≤; is no greater than",
+            "≅; is congruent to",
             "∝; is proportional to"
         ]
     },
@@ -96,15 +96,15 @@
         "cs": "ng",
         "degrees": [
             null,
-            "km/hr[²₂]",
-            "km/s[²₂]",
-            "m/s[²₂]",
-            "mm/s[²₂]",
-            "microns/s[²₂]",
-            "miles/s[²₂]",
-            "ft/s[²₂]",
-            "in/s[²₂]",
-            "mi/hr[²₂]"
+            ["km/hr","km/hr²"],
+            ["km/s","km/s²"],
+            ["m/s","m/s²"],
+            ["mm/s","mm/s²"],
+            ["microns/s","microns/s²"],
+            ["miles/s","miles/s²"],
+            ["ft/s","ft/s²"],
+            ["in/s","in/s²"],
+            ["miles/hr","miles/hr₂"]
         ],
         "notes": "Use Type-2 affix to indicate time unit squared for measurement of acceleration"
     },
@@ -115,15 +115,15 @@
         "cs": "dg",
         "degrees": [
             null,
-            "(in) points",
-            "(in) hour angles",
-            "(in) grads",
-            "(in) mils",
-            "(in) radians",
-            "(in) sextants",
-            "(in) arc-seconds",
-            "(in) arc-minutes",
-            "(in) degrees"
+            ["(in) points","(in) points²"],
+            ["(in) hour angles","(in) hour angles²"],
+            ["(in) grads","(in) grads²"],
+            ["(in) mils","(in) mils²"],
+            ["(in) radians","(in) radians² (i.e., steradians)"],
+            ["(in) sextants","(in) sextants²"],
+            ["(in) arc-seconds","(in) arc-seconds²"],
+            ["(in) arc-minutes","(in) arc-minutes²"],
+            ["(in) degrees","(in) degrees²"]
         ],
         "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² (i.e., steradians), etc."
     },
@@ -134,15 +134,15 @@
         "cs": "rtn",
         "degrees": [
             null,
-            "(in) Planck lengths",
-            "(in) angstroms",
-            "(in) microns",
-            "(in) millimeters",
-            "(in) meters",
-            "(in) kilometers",
-            "(in) astronomical units (AUs)",
-            "(in) light-years",
-            "(in) parsecs"
+            ["(in) Planck lengths","(in) Planck lengths²"],
+            ["(in) angstroms","(in) angstroms²"],
+            ["(in) microns","(in) microns²"],
+            ["(in) millimeters","(in) millimeters²"],
+            ["(in) meters","(in) meters²"],
+            ["(in) kilometers","(in) kilometers²"],
+            ["(in) astronomical units (AUs)","(in) AUs²"],
+            ["(in) light-years","(in) light-years²"],
+            ["(in) parsecs","(in) parsecs²"]
         ],
         "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
     },
@@ -153,15 +153,15 @@
         "cs": "rtm",
         "degrees": [
             null,
-            "(in) inches",
-            "(in) feet",
-            "(in) yards",
-            "(in) fathoms",
-            "(in) rods",
-            "(in) furlongs",
-            "(in) miles",
-            "(in) nautical miles",
-            "(in) leagues"
+            ["(in) inches","(in) inches²"]
+            ["(in) feet","(in) feet²"]
+            ["(in) yards","(in) yards²"],
+            ["(in) fathoms","(in) fathoms²"],
+            ["(in) rods","(in) rods²"],
+            ["(in) furlongs","(in) furlongs²"],
+            ["(in) miles","(in) miles²"],
+            ["(in) nautical miles","(in) nautical miles²"],
+            ["(in) leagues","(in) leagues²"]
         ],
         "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
     },
