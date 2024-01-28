@@ -220,11 +220,6 @@
     },
     {
       "cs": "ly",
-      "vx": ["ü"],
-      "description": "n/a"
-    },
-    {
-      "cs": "ly",
       "vx": ["u"],
       "description": "(RLT)"
     },
@@ -262,11 +257,6 @@
       "cs": "ly",
       "vx": ["oi"],
       "description": "(DEP)"
-    },
-    {
-      "cs": "ly",
-      "vx": ["iu"],
-      "description": "n/a"
     },
     {
       "cs": "ly",
@@ -310,11 +300,6 @@
     },
     {
       "cs": "ly",
-      "vx": ["ue", "ië"],
-      "description": "n/a"
-    },
-    {
-      "cs": "ly",
       "vx": ["ua", "iä"],
       "description": "(NAV)"
     },
@@ -352,11 +337,6 @@
       "cs": "ly",
       "vx": ["oe"],
       "description": "(ELP)"
-    },
-    {
-      "cs": "ly",
-      "vx": ["öa"],
-      "description": "n/a"
     },
     {
       "cs": "ly",
