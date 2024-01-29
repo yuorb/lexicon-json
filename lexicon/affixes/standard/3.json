@@ -1603,7 +1603,7 @@
     },
     {
         "name": "S20*",
-        "description": "upper part/“half” of an entity [relative to its typical orientation under gravity]",
+        "description": "upper part / “half” of an entity [relative to its typical orientation under gravity]",
         "gradient_type": "D1",
         "cs": "ḑy",
         "degrees": [
@@ -1621,7 +1621,7 @@
     },
     {
         "name": "S21*",
-        "description": "lower part/“half” of an entity [relative to its typical orientation under gravity]",
+        "description": "lower part / “half” of an entity [relative to its typical orientation under gravity]",
         "gradient_type": "D1",
         "cs": "ḑw",
         "degrees": [
@@ -1639,7 +1639,7 @@
     },
     {
         "name": "S22*",
-        "description": "interior/internal volume/“inside(s)”/“innards” of an entity",
+        "description": "interior/internal volume / “inside(s)”/“innards” of an entity",
         "gradient_type": "D1",
         "cs": "xw",
         "degrees": [
@@ -1675,7 +1675,7 @@
     },
     {
         "name": "S24*",
-        "description": "exterior/external surface/“outside”/“skin” of an entity",
+        "description": "exterior/external surface / “outside”/“skin” of an entity",
         "gradient_type": "D1",
         "cs": "xr",
         "degrees": [
@@ -1693,7 +1693,7 @@
     },
     {
         "name": "S25*",
-        "description": "external point-like outward-facing vertex/“corner” of an entity",
+        "description": "external point-like outward-facing vertex / “corner” of an entity",
         "gradient_type": "D1",
         "cs": "xḑ",
         "degrees": [
@@ -1765,7 +1765,7 @@
     },
     {
         "name": "S29*",
-        "description": "internal point-like interior vertex/“corner” of an entity",
+        "description": "internal point-like interior vertex / “corner” of an entity",
         "gradient_type": "D1",
         "cs": "čḑ",
         "degrees": [
