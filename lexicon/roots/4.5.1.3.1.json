@@ -278,7 +278,7 @@
         "stems": [
             "guitar",
             "guitarrón/huapanguera",
-            "Latin guitar-like instrument (e.g., jarana,bajo quinto, bajo sexto, requinto jarocho)"
+            "Latin guitar-like instrument (e.g., jarana, bajo quinto, bajo sexto, requinto jarocho)"
         ],
         "see": "LHW",
         "notes": "Concatenate a number stem with these stems to indicate the number of strings for Latin guitar-like instruments such as the *tres*, *cuatro*, *bajo quinto*, etc., and Central Asian lutes such as the *dutar*, *chartar*, *setar*, *shashtar*, etc."

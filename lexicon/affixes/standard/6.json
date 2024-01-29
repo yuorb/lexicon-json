@@ -156,7 +156,7 @@
             "somewhat meek(ly) / somewhat submissive(ly) or obedient(ly) or docile(ly)",
             "properly humble / properly forthright; with proper degree of humility or forthrightness",
             "somewhat confident(ly) / somewhat strong(ly) / somewhat definite(ly) / somewhat definitive(ly) or authoritative(ly)",
-            "confident(ly) /strong(ly) / definite(ly)/ definitive(ly) / authoritative(ly)",
+            "confident(ly) / strong(ly) / definite(ly) / definitive(ly) / authoritative(ly)",
             "very confident(ly) or strong(ly) or definite(ly) or definitive(ly) or authoritative(ly)",
             "over-confident(ly) / too strong(ly) / too definite(ly) / too definitive(ly) / too authoritative(ly)"
         ]
@@ -176,7 +176,7 @@
             "rather efficient(ly) / fairly efficient(ly) / accomplishing somewhat more than expected",
             "efficient(ly) / with little or no waste(d effort)",
             "extremely efficient(ly) / with no waste(d effort) whatsoever",
-            "a synergy of… / sum beyond total of parts / a synergistic composite of; to X synergistically"
+            "a synergy of … / sum beyond total of parts / a synergistic composite of; to X synergistically"
         ]
     },
     {
@@ -227,7 +227,7 @@
             "subtle(ly) / nuanced",
             "somewhat subtle(ly)",
             "neither too subtle nor too unsubtle",
-            "someowhat unsubtle(ly) / lumbering(ly) / belabored ; belabor / lumber along X-ing",
+            "someowhat unsubtle(ly) / lumbering(ly) / belabored; belabor / lumber along X-ing",
             "unsubtle(ly) / obvious(ly)",
             "over-the-top / in-your-face / blatant(ly) / exaggerated(ly)",
             "too unsubtle(ly) / too obvious(ly) / too blatant(ly)"
@@ -260,7 +260,7 @@
             null,
             "too slow(ly) in happening, too long in X-ing, overdue, delayed",
             "very slow(ly) in happening or developing",
-            "slow(ly) ; long in developing or happening",
+            "slow(ly); long in developing or happening",
             "somewhat slow(ly); somewhat long in developing or happening",
             "taking just the right amount of time to develop or occur",
             "somewhat quickly / somewhat rapidly in occurring or developing; somewhat suddenly",
@@ -276,7 +276,7 @@
         "cs": "ph",
         "degrees": [
             null,
-            "too sloppily / too carelessly /utterly sloppy(ily) / totally careless(ly)",
+            "too sloppily / too carelessly / utterly sloppy(ily) / totally careless(ly)",
             "very sloppy(ily) / very careless(ly)",
             "sloppy(ily) / careless(ly) / with poor attention to detail",
             "somewhat sloppy(ily) / somewhat careless(ly)",
@@ -301,7 +301,7 @@
             "having a relatively quick onset and enduring for a relatively brief duration; fast-acting / having a fast effect / taking effect quickly then lasting relatively briefly",
             "having a relatively quick onset and enduring for a prolonged duration; fast-acting / having a fast effect /  taking effect quickly with a relatively prolonged/lasting effect",
             "having a slow onset then suddenly stopping; slow-acting then stopping / having a slow onset then stopping",
-            "having a slow onset and enduring for a relatively brief duration; slow-acting with relatively brief following effect / having a slow onset followed by a relatively brief\neffect / taking effect gradually with brief effect following",
+            "having a slow onset and enduring for a relatively brief duration; slow-acting with relatively brief following effect / having a slow onset followed by a relatively brief effect / taking effect gradually with brief effect following",
             "having a slow onset and enduring for a prolonged duration; slow-acting with prolonged effect / having a slow onset with a relatively prolonged/lasting effect"
         ]
     },
@@ -312,7 +312,7 @@
         "cs": "xţ",
         "degrees": [
             null,
-            "…the hell…! / what the hell… / … who cares!?",
+            "… the hell …! / what the hell … / … who cares!?",
             "self-centered(ly) / without thought or concern for others",
             "without concern / indifferent(ly) / without consideration / unconcerned(ly) / thoughtless(ly)",
             "at the very least / at the least level of concern required",
@@ -410,7 +410,7 @@
             "slightly restricted, slightly impeded by certain rules or artificial conditions",
             "partially restricted, partially blocked/impeded/prevented (artificially so)",
             "fully restricted/regulated, manifestation/occurrence conditioned by rules",
-            "completely blocked/prevented from occurring/ manifesting (artificially so)"
+            "completely blocked/prevented from occurring / manifesting (artificially so)"
         ]
     },
     {
@@ -475,9 +475,9 @@
         "degrees": [
             null,
             "too uncontrolled; too out-of-control",
-            "uncontrolled/helpless(ly) ; without control/ out of control",
+            "uncontrolled/helpless(ly); without control / out of control",
             "almost completely out of control / almost totally helpless",
-            "losing control / losing the ability to…",
+            "losing control / losing the ability to …",
             "(only) somewhat in control; (only) partially in control",
             "gaining control / coming to be in control",
             "nearly in control / almost fully in control",
@@ -492,11 +492,11 @@
         "cs": "šh",
         "degrees": [
             null,
-            "too lacking in proficiency; completely unpracticed in…",
+            "too lacking in proficiency; completely unpracticed in …",
             "very lacking in proficiency; very poorly practiced",
             "lacking in proficiency; poorly practice; needing much more practice",
-            "amateur(ishly) / superficially able to… / showing rudimentary practice only",
-            "begin(ning) to be able to… / with growing proficiency or expertise (in)",
+            "amateur(ishly) / superficially able to … / showing rudimentary practice only",
+            "begin(ning) to be able to … / with growing proficiency or expertise (in)",
             "nearly proficient (in)",
             "proficient(ly)",
             "expert(ly)",
@@ -510,11 +510,11 @@
         "cs": "žh",
         "degrees": [
             null,
-            "too lacking in proficiency; completely untrained to/in...",
+            "too lacking in proficiency; completely untrained to/in …",
             "very lacking in skill or proficiency; very poorly trained",
             "lacking in skill or proficiency; poorly trained",
-            "amateurish / superficially able to…",
-            "learning to… / beginning to be able to… / with growing proficiency or expertise in",
+            "amateurish / superficially able to …",
+            "learning to … / beginning to be able to … / with growing proficiency or expertise in",
             "nearly proficient (in)",
             "proficient(ly)",
             "expert(ly)",
@@ -633,7 +633,7 @@
     },
     {
         "name": "TAL*",
-        "description": "Degree of Innate Talent for...",
+        "description": "Degree of Innate Talent for …",
         "gradient_type": "D1",
         "cs": "bň",
         "degrees": [
@@ -711,13 +711,13 @@
         "degrees": [
             null,
             "fail(ure) beyond even the most pessimistic predictions; worst outcome possible in terms of failure; worse than no atttempt at all",
-            "complete(ly) fail(ure) to; utter(ly) fail(ure) [to]...",
+            "complete(ly) fail(ure) to; utter(ly) fail(ure) [to]…",
             "certain to be a failed / certain to fail in",
-            "a failure to... / failed / would-be; unsuccessful(ly), fail to",
+            "a failure to … / failed / would-be; unsuccessful(ly), fail to",
             "uncertain or yet-to-be determined whether a success or a failure",
             "marginally successful(ly) / barely, hardly [in terms of adequacy or success]",
-            "certain to be a successful ; certain to succeed in",
-            "succeed in...; successful(-ly completed); successfully; accomplish",
+            "certain to be a successful; certain to succeed in",
+            "succeed in …; successful(-ly completed); successfully; accomplish",
             "overwhelmingly successful(ly); successful beyond all hopes"
         ]
     },
@@ -728,14 +728,14 @@
         "cs": "kp",
         "degrees": [
             null,
-            "no attempt made at all; not even try to...",
-            "minimal attempt/effort at/to; barely even try to...",
-            "small attempt/effort at/to; nominally attempt to...",
+            "no attempt made at all; not even try to …",
+            "minimal attempt/effort at/to; barely even try to …",
+            "small attempt/effort at/to; nominally attempt to …",
             "a fair(ly good) attempt/effort at/to; make a fair(ly good) attempt at/to",
-            "a normal/standard/usual attempt/effort to; to try to...with the normal/expected degree of effort",
-            "a worthy/meaningful attempt/effort at/to; make a significant attempt at/to...",
-            "a grand attempt at/to; make a grand/great effort/attempt at/to...",
-            "with the utmost personal effort; try as hard as possible to... (personal effort)",
+            "a normal/standard/usual attempt/effort to; to try to … with the normal/expected degree of effort",
+            "a worthy/meaningful attempt/effort at/to; make a significant attempt at/to …",
+            "a grand attempt at/to; make a grand/great effort/attempt at/to …",
+            "with the utmost personal effort; try as hard as possible to … (personal effort)",
             "maximum effort using all means/resources available"
         ]
     },
@@ -804,7 +804,7 @@
             "barely notice; take little notice of",
             "take some notice of",
             "keep an eye on",
-            "pay attention to; attend to; be careful that you…; heed",
+            "pay attention to; attend to; be careful that you …; heed",
             "determined to",
             "pay strict attention to",
             "concentrate to point of distraction, to be ‘lost’ in X-ing",
@@ -818,15 +818,15 @@
         "cs": "mv",
         "degrees": [
             null,
-            "one is probably mistaken in saying this (due to insufficient experience/skill/knowledge on the matter), but...",
-            "one may be mistaken in saying this (since one’s experience/skill/knowledge on the matter may be insufficient), but...",
-            "if one is not mistaken (given that one has a degree of experience/skill/knowledge in the matter) ...",
-            "one can say with a fair degree of certainty (based on one’s relevant experience/skill/knowledge in the matter) that...",
-            "one can say with absolute certainty (based on sufficient experience/skill/knowledge and/or clear and accurate memory) that...",
-            "one can say with a fair degree of certainty (given that one’s memory of the matter seems clear), that...",
-            "if one is not mistaken (depending on whether one’s memory of the matter is as clear as I think it is) ...",
-            "one may be mistaken in saying this (since one’s memory of the matter is somewhat vague), but...",
-            "one is probably mistaken in saying this (due to one’s memory of the matter being rather vague), but..."
+            "one is probably mistaken in saying this (due to insufficient experience/skill/knowledge on the matter), but …",
+            "one may be mistaken in saying this (since one’s experience/skill/knowledge on the matter may be insufficient), but …",
+            "if one is not mistaken (given that one has a degree of experience/skill/knowledge in the matter) …",
+            "one can say with a fair degree of certainty (based on one’s relevant experience/skill/knowledge in the matter) that …",
+            "one can say with absolute certainty (based on sufficient experience/skill/knowledge and/or clear and accurate memory) that …",
+            "one can say with a fair degree of certainty (given that one’s memory of the matter seems clear), that …",
+            "if one is not mistaken (depending on whether one’s memory of the matter is as clear as I think it is) …",
+            "one may be mistaken in saying this (since one’s memory of the matter is somewhat vague), but …",
+            "one is probably mistaken in saying this (due to one’s memory of the matter being rather vague), but …"
         ]
     },
     {

@@ -37,7 +37,7 @@
     },
     {
         "name": "INB",
-        "description": "Inability/Incapacity Due To . . .",
+        "description": "Inability/Incapacity Due To …",
         "gradient_type": "0",
         "cs": "čb",
         "degrees": [
@@ -116,11 +116,11 @@
             null,
             "always in mind / can’t forget",
             "never to be forgotten / memorable",
-            "remembered / recalled / remember to…",
+            "remembered / recalled / remember to …",
             "(having just been) reminded of X",
             "on the tip of one’s tongue / almost remembered / on the verge of remembering",
             "slipped from one’s mind (momentarily); just had it but now can’t remember; momentary lapse in remembering X",
-            "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to…        d",
+            "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to …        d",
             "forgotten, not remembered or recalled [does not occur to try to remember]",
             "long-forgotten / not currently remembered in general"
         ]
@@ -619,15 +619,42 @@
         "cs": "řm",
         "degrees": [
             null,
-            "A♭/G♯ (le/si)",
-            "~A♭/G♯ (~le/si)",
-            "Aᑯ",
-            "A (la)",
-            "~A (~la)",
-            "A╪",
-            "B♭/A♯ (te/li)",
-            "~B♭/A♯ (~te/li)",
-            "Bᑯ"
+            [
+                "(standard) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)",
+                "(relative) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)",
+                "(relative) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)"
+            ],
+            [
+                "(standard) “blue” note/tone between A-flat and A; Aᑯ",
+                "(relative) “blue” note/tone between A-flat and A; Aᑯ"
+            ],
+            [
+                "(standard) note/tone in A; A (la)",
+                "(relative) note/tone in A; A (la)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in A; ~A (~la)",
+                "(relative) bending/meend applied to note/tone in A; ~A (~la)"
+            ],
+            [
+                "(standard) “blue” note/tone between A and A-sharp/B-flat; A╪",
+                "(relative) “blue” note/tone between A and A-sharp/B-flat; A╪"
+            ],
+            [
+                "(standard) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)",
+                "(relative) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)",
+                "(relative) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)"
+            ],
+            [
+                "(standard) “blue” note/tone between B-flat and B; Bᑯ",
+                "(relative) “blue” note/tone between B-flat and B; Bᑯ"
+            ]
         ],
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
@@ -638,15 +665,42 @@
         "cs": "řç",
         "degrees": [
             null,
-            "B (ti)",
-            "~B (~ti)",
-            "Cᑯ/B╪",
-            "C (do)",
-            "~C (~do)",
-            "C╪",
-            "C♯/D♭ (di/ra)",
-            "~C♯/D♭ (~di/ra)",
-            "Dᑯ"
+            [
+                "(standard) note/tone in B; B (ti)",
+                "(relative) note/tone in B; B (ti)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in B; ~B (~ti)",
+                "(relative) bending/meend applied to note/tone in B; ~B (~ti)"
+            ],
+            [
+                "(standard) “blue” note/tone between B and C; Cᑯ/B╪",
+                "(relative) “blue” note/tone between B and C; Cᑯ/B╪"
+            ],
+            [
+                "(standard) note/tone in C; C (do)",
+                "(relative) note/tone in C; C (do)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in C; ~C (~do)",
+                "(relative) bending/meend applied to note/tone in C; ~C (~do)"
+            ],
+            [
+                "(standard) “blue” note/tone between C and C-sharp/D-flat; C╪",
+                "(relative) “blue” note/tone between C and C-sharp/D-flat; C╪"
+            ],
+            [
+                "(standard) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)",
+                "(relative) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)",
+                "(relative) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)"
+            ],
+            [
+                "(standard) “blue” note/tone between D-flat and D; Dᑯ",
+                "(relative) “blue” note/tone between D-flat and D; Dᑯ"
+            ]
         ],
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
@@ -657,15 +711,42 @@
         "cs": "řļ",
         "degrees": [
             null,
-            "D (re)",
-            "~D (~re)",
-            "D╪",
-            "E♭/D♯ (me/ri)",
-            "~E♭/D♯ (~me/ri)",
-            "Eᑯ",
-            "E (mi)",
-            "~E (~mi)",
-            "E╪/Fᑯ"
+            [
+                "(standard) note/tone in D; D (re)",
+                "(relative) note/tone in D; D (re)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in D; ~D (~re)",
+                "(relative) bending/meend applied to note/tone in D; ~D (~re)"
+            ],
+            [
+                "(standard) “blue” note/tone between D and D-sharp/E-flat; D╪",
+                "(relative) “blue” note/tone between D and D-sharp/E-flat; D╪"
+            ],
+            [
+                "(standard) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)",
+                "(relative) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)",
+                "(relative) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)"
+            ],
+            [
+                "(standard) “blue” note/tone between E-flat and E; Eᑯ",
+                "(relative) “blue” note/tone between E-flat and E; Eᑯ"
+            ],
+            [
+                "(standard) note/tone in E; E (mi)",
+                "(relative) note/tone in E; E (mi)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in E; ~E (~mi)",
+                "(relative) bending/meend applied to note/tone in E; ~E (~mi)"
+            ],
+            [
+                "(standard) “blue” note/tone between E and F; E╪/Fᑯ",
+                "(relative) “blue” note/tone between E and F; E╪/Fᑯ"
+            ]
         ],
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
@@ -676,15 +757,42 @@
         "cs": "rl",
         "degrees": [
             null,
-            "F (fa)",
-            "~F (~fa)",
-            "F╪",
-            "F♯/G♭ (fi/se)",
-            "~F♯/G♭ (~fi/se)",
-            "Gᑯ",
-            "G (so)",
-            "~G (~so)",
-            "G╪"
+            [
+                "(standard) note/tone in F; F (fa)",
+                "(relative) note/tone in F; F (fa)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in F; ~F (~fa)",
+                "(relative) bending/meend applied to note/tone in F; ~F (~fa)"
+            ],
+            [
+                "(standard) “blue” note/tone between F and F-sharp/G-flat; F╪",
+                "(relative) “blue” note/tone between F and F-sharp/G-flat; F╪"
+            ],
+            [
+                "(standard) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)",
+                "(relative) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)"
+            ],
+            [
+                "(standard) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)",
+                "(relative) bending/meend applied to  note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
+            ],
+            [
+                "(standard) “blue” note/tone between G-flat and G; Gᑯ",
+                "(relative) “blue” note/tone between G-flat and G; Gᑯ"
+            ],
+            [
+                "(standard) note/tone in G; G (so)",
+                "(relative) note/tone in G; G (so)"
+            ],
+            [
+                "(standard) bending/meend applied to note/tone in G; ~G (~so)",
+                "(relative) bending/meend applied to note/tone in G; ~G (~so)"
+            ],
+            [
+                "(standard) “blue” note/tone between G and G-sharp/A-flat; G╪",
+                "(relative) “blue” note/tone between G and G-sharp/A-flat; G╪"
+            ]
         ],
         "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
     },
@@ -984,7 +1092,7 @@
         "degrees": [
             null,
             "having opposite charge, antimatter version of X",
-            "super-symmetrical partner of X, “sparticle” counterpart of X , e.g., photino, gluino, gravitino, slepton, squark, sneutrino, etc.",
+            "super-symmetrical partner of X, “sparticle” counterpart of X, e.g., photino, gluino, gravitino, slepton, squark, sneutrino, etc.",
             "spin value (intrinsic angular momentum) of particle X",
             "orbital angular momentum of particle X",
             "mass of particle X",
@@ -1023,7 +1131,7 @@
             "transition metal cation with +2 charge",
             "transition metal cation with +3 charge",
             "transition metal cation with +4 charge",
-            "hydrogen + anion acid (hydro...ic acid), e.g., when used with chlorine, this results in hydrochloric acid, i.e., hydrochloride / chlorhydrate",
+            "hydrogen + anion acid (hydro … ic acid), e.g., when used with chlorine, this results in hydrochloric acid, i.e., hydrochloride / chlorhydrate",
             "compounding anion with -4 charge",
             "compounding anion with -3 charge",
             "compounding anion with -2 charge",
@@ -1048,7 +1156,7 @@
             "octa-",
             "nona-"
         ],
-        "notes": "Molecular Compounds — inorganic compounds between nonmetals\\n\\n* A single atom (equivalent to English “mono-“) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
+        "notes": "Molecular Compounds — inorganic compounds between nonmetals\n\n* A single atom (equivalent to English “mono-“) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
     },
     {
         "name": "PIA",
@@ -1141,7 +1249,7 @@
         ]
     },
     {
-        "name": "PIC(typo)",
+        "name": "API",
         "description": "Additional Polyatomic Ionic Configurations",
         "gradient_type": "0",
         "cs": "žţ",
@@ -1149,14 +1257,15 @@
             null,
             "-ate (base oxyanion), e.g., sulfate",
             "-ite (i.e., one less oxyanion than base form), e.g., sulfite",
-            "hypo- ... -ite (two less oxyanions than base form), e.g., hyposulfite",
-            "per- ... -ate (one more oxyanion than base form), e.g., persulfate",
+            "hypo- … -ite (two less oxyanions than base form), e.g., hyposulfite",
+            "per- … -ate (one more oxyanion than base form), e.g., persulfate",
             "-ide (anionic element where electron charge not specified), e.g., sulfide",
-            "bi- ... -ate / hydrogen ... -ate (hydrogen + one oxyanion more than base form), e.g., bisulfate",
-            "dihydrogen ... -ate (two hydrogens + one oxyanion more than base form), e.g., dihydrogen phosphate",
-            "di- ... -ate (two atoms of an element + one oxyanion more than base form), e.g., dichromate",
-            "di ... -ide (two atoms of an element + base oxyanion), e.g., disulfide"
-        ]
+            "bi- … -ate / hydrogen … -ate (hydrogen + one oxyanion more than base form), e.g., bisulfate",
+            "dihydrogen … -ate (two hydrogens + one oxyanion more than base form), e.g., dihydrogen phosphate",
+            "di- … -ate (two atoms of an element + one oxyanion more than base form), e.g., dichromate",
+            "di … -ide (two atoms of an element + base oxyanion), e.g., disulfide"
+        ],
+        "notes": "Since the abbreviation of this affix in the original pdf conflicts with the abbreviation of -čţ-, a new abbreviation has been unofficially assigned."
     },
     {
         "name": "GPA",
@@ -1186,7 +1295,7 @@
             "hydroxil, hydroxy-, -ol",
             "carbonyl, oxo-, -oyl-, -one",
             "aldehyde, -formyl-, -al",
-            "haloformyl, carbono...oyl-, -oyl halide",
+            "haloformyl, carbono … oyl-, -oyl halide",
             "carbonate ester, alkoxycarbonyloxy-, alkyl carbonate",
             "carboxylate, carboxylato-, -oate",
             "carboxyl, carboxy-, -oic acid",
@@ -1273,12 +1382,12 @@
         "cs": "žḑ",
         "degrees": [
             null,
-            "phosphate, phosphonooxy-, O-phospono-, ... phosphate",
-            "phosphodiester, hydroxyphosphoryloxy-, di...hydrogen phosphate",
-            "boronic acid, borono-, ... boronic acid",
-            "boronate, O-alkylboronyl-, ... boronic acid di... ester",
-            "borinic acid, hydroxyborino-, di... borinic acid",
-            "borinate, O-alkoxydialkylboronyl-, di... borinic acid ... ester",
+            "phosphate, phosphonooxy-, O-phospono-, … phosphate",
+            "phosphodiester, hydroxyphosphoryloxy-, di … hydrogen phosphate",
+            "boronic acid, borono-, … boronic acid",
+            "boronate, O-alkylboronyl-, … boronic acid di … ester",
+            "borinic acid, hydroxyborino-, di … borinic acid",
+            "borinate, O-alkoxydialkylboronyl-, di … borinic acid … ester",
             "alkyllithium, -lithium",
             "alkylmagnesium halide, -magnesium halide",
             "alkylaluminium, -aluminium / -aluminum"
@@ -1292,10 +1401,10 @@
         "degrees": [
             null,
             "sulfhydryl, sulfanyl-, -thiol",
-            "sulfide, -sulfanyl-, di... sulfide",
-            "disulfide, -disulfanyl-, di... disulfide",
-            "sulfoxide, -sulfinyl-, di... sulfoxide",
-            "sulfone, -sulfonyl-, di... sulfone",
+            "sulfide, -sulfanyl-, di … sulfide",
+            "disulfide, -disulfanyl-, di … disulfide",
+            "sulfoxide, -sulfinyl-, di … sulfoxide",
+            "sulfone, -sulfonyl-, di … sulfone",
             "sulfinic acid, sulfino-, -sulfinic acid",
             "sulfonic acid, sulfo-, -sulfonic acid",
             "sulfonate ester, alkoxysulfonyl-, -sulfonate",
@@ -1309,8 +1418,8 @@
         "cs": "ẓḑ",
         "degrees": [
             null,
-            "thiocyanate, thocyanato-, ...thiocyanate",
-            "isothiocyanate, isothiocyanato-, ...isothiocyanate",
+            "thiocyanate, thocyanato-, … thiocyanate",
+            "isothiocyanate, isothiocyanato-, … isothiocyanate",
             "methanethioyl-, -thial",
             "carbothioic S-acid, mercaptocarbonyl-, -thioic S-acid",
             "carbothioic O-acid, hydroxythiocarbonyl-, -thioic O-acid",

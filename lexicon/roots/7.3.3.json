@@ -710,10 +710,10 @@
     "refers": "CANTHARELLALES I",
     "stems": [
       {
-        "BSC": "(to be) a species identified as **(genus Cantherellus) chanterelle / yellow chanterelle,**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Cantherellus) chanterelle / yellow chanterelle,** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Cantherellus) chanterelle / yellow chanterelle,**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Cantherellus) chanterelle / yellow chanterelle,**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
+        "BSC": "(to be) a species identified as **(genus Cantherellus) chanterelle / yellow chanterelle**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
+        "CTE": "(to be) that which gives a particular species identified as **(genus Cantherellus) chanterelle / yellow chanterelle** its individual identity; the living essence of such a species",
+        "CSV": "(to be) the physical body of a species identified as **(genus Cantherellus) chanterelle / yellow chanterelle**; the corporeal aspect of such a species",
+        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Cantherellus) chanterelle / yellow chanterelle**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       },
       {
         "BSC": "(to be) a species identified as **(genus Craterellus) tube chanterelle / yellowfoot chanterelle / yellow-leg, trompette de la mort / horn of plenty**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
@@ -884,10 +884,10 @@
         "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(Gomphaceae; genus Chroogomphus) pine-spike / spike-cap**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       },
       {
-        "BSC": "(to be) a species identified as **(genus Ramaria) coral fungus, ramaria,**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
-        "CTE": "(to be) that which gives a particular species identified as **(genus Ramaria) coral fungus, ramaria,** its individual identity; the living essence of such a species",
-        "CSV": "(to be) the physical body of a species identified as **(genus Ramaria) coral fungus, ramaria,**; the corporeal aspect of such a species",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Ramaria) coral fungus, ramaria,**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
+        "BSC": "(to be) a species identified as **(genus Ramaria) coral fungus, ramaria**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",
+        "CTE": "(to be) that which gives a particular species identified as **(genus Ramaria) coral fungus, ramaria** its individual identity; the living essence of such a species",
+        "CSV": "(to be) the physical body of a species identified as **(genus Ramaria) coral fungus, ramaria**; the corporeal aspect of such a species",
+        "OBJ": "(to be) a state or activity being undergone or engaged in by a species identified as **(genus Ramaria) coral fungus, ramaria**, most likely associated with a particular stage of a species's life-cycle (e.g., dormancy as seed, sproutling, budding, in bloom, withering, winter dormancy, etc.)"
       },
       {
         "BSC": "(to be) a species identified as **(Gomphaceae other than Stem 1; numerous genera) pig's ear fungus, gomphaceous fungus**, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as such a species)",

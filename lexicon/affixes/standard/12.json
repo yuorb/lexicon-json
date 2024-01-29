@@ -163,7 +163,7 @@
     },
     {
         "name": "PLA",
-        "description": "Place/Setting Where…",
+        "description": "Place/Setting Where …",
         "gradient_type": "0",
         "cs": "ẓ",
         "degrees": [
@@ -175,7 +175,7 @@
             "place/setting where one keeps or shelters X",
             "place/setting where one sees or views X",
             "natural habitat or environment of X",
-            "place/setting where one deals with/ interacts with / confronts X",
+            "place/setting where one deals with / interacts with / confronts X",
             "place/setting where one feels affected by X"
         ]
     },
@@ -371,7 +371,7 @@
             "the initiating cause/reason for X",
             "the circumstance/situation/event which does lead to X or does make X a foregone conclusion",
             "the circumstance/situation/event which may lead to X or may make X a foregone conclusion",
-            "precursor requirement /prerequisite before X can be/happen",
+            "precursor requirement/prerequisite before X can be/happen",
             "presumed circumstance or assumption underlying or forming the specific/tangible basis/foundation for X",
             "assumption underlying or forming the abstract basis/foundation for X",
             "abstract/intellectual/philosophical premise/idea underlying or forming the abstract basis for X"
@@ -404,7 +404,7 @@
             null,
             "served/eaten as breakfast",
             "served/eaten as brunch",
-            "served /eaten as mid-day meal (i.e., lunch, or dinner if main meal of the day)",
+            "served/eaten as mid-day meal (i.e., lunch, or dinner if main meal of the day)",
             "served/eaten as lunchtime dessert",
             "served/eaten as afternoon snack",
             "served/eaten as tea or at teatime (i.e., late afternoon)",
@@ -430,7 +430,7 @@
             "broiled; cook by broiling X",
             "roasted; cook by roasting X"
         ],
-        "notes": "to express parboiling, parbaking, or parcooking, use the PTT₃/4 affix with the affix"
+        "notes": "to express parboiling, parbaking, or parcooking, use the PTT/4₃ affix with the affix"
     },
     {
         "name": "CK2",
@@ -449,7 +449,7 @@
             "toasted; cook by toasting X",
             "barbecued; cook by barbecuing X"
         ],
-        "notes": "to express parboiling, parbaking, or parcooking, use the PTT₃/4 affix with the affix"
+        "notes": "to express parboiling, parbaking, or parcooking, use the PTT/4₃ affix with the affix"
     },
     {
         "name": "CK3",

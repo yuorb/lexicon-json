@@ -642,7 +642,7 @@
     "refers": "TURN / VEER / PITCH",
     "stems": [
       {
-        "BSC": "(be) an act/instance of turning something; to turn something (i.e., cause an object to move in an arc-like motion so that its direction/orientation relative to the surrounding space//surface/medium/substrate changes",
+        "BSC": "(be) an act/instance of turning something; to turn something (i.e., cause an object to move in an arc-like motion so that its direction/orientation relative to the surrounding space/surface/medium/substrate changes",
         "CTE": "(be) a state of being turned",
         "CSV": "(be) the physical act of turning",
         "OBJ": "(be) an entity/object used to make something turn"
@@ -763,7 +763,7 @@
     "refers": "CONSTRICTION / SEALING / PLUGGING / PREVENTION",
     "stems": [
       "(be) an act of constricting or choking something; a constriction; to constrict, to choke [CPT = to cut off the flow of something]",
-      "(be) an act/instance of sealing or plugging ; to seal, to plug",
+      "(be) an act/instance of sealing or plugging; to seal, to plug",
       "(be) an act/instance of prevention; to prevent something from happening [CPT version = to thwart]"
     ],
     "see": "FJ"

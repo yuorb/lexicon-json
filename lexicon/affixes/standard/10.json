@@ -1,7 +1,7 @@
 [
     {
         "name": "BY1",
-        "description": "Bodily Instrumentality = ‘by means of/using...’",
+        "description": "Bodily Instrumentality = ‘by means of/using …’",
         "gradient_type": "0",
         "cs": "zb",
         "degrees": [
@@ -19,7 +19,7 @@
     },
     {
         "name": "BY2",
-        "description": "Bodily Instrumentality 2 = ‘by means of/using...’ (formerly DBI)",
+        "description": "Bodily Instrumentality 2 = ‘by means of/using …’ (formerly DBI)",
         "gradient_type": "0",
         "cs": "zd",
         "degrees": [
@@ -37,7 +37,7 @@
     },
     {
         "name": "BY3",
-        "description": "Bodily Instrumentality 3 = ‘by means of/using...’",
+        "description": "Bodily Instrumentality 3 = ‘by means of/using …’",
         "gradient_type": "0",
         "cs": "zg",
         "degrees": [
@@ -55,7 +55,7 @@
     },
     {
         "name": "BY4",
-        "description": "Bodily Instrumentality 4 = ‘by means of/using...’",
+        "description": "Bodily Instrumentality 4 = ‘by means of/using …’",
         "gradient_type": "0",
         "cs": "zk",
         "degrees": [
@@ -73,7 +73,7 @@
     },
     {
         "name": "MEC",
-        "description": "Type of Mechanical Instrumentality = ‘by means of...’",
+        "description": "Type of Mechanical Instrumentality = ‘by means of …’",
         "gradient_type": "0",
         "cs": "ms",
         "degrees": [
@@ -132,20 +132,47 @@
         "cs": "gḑ",
         "degrees": [
             null,
-            "entity/object used to stop/interrupt (the process/effect of) X",
-            "entity/object used to lessen/mitigate (the process/effect of) X",
-            "entity/object used to prevent/impede/block (the process/effect of) X",
-            "entity/object used to slow down (the process/effect of) X",
-            "entity/object used to modify (the process/effect of) X",
-            "entity/object used to accelerate/speed up/intensify (the process/effect of) X",
-            "entity/object used to enable/facilitate (the process/effect of) X",
-            "entity/object used to enhance/magnify (the process/effect) of X",
-            "entity/object used to initiate/start/effectuate (the process/effect of) X"
+            [
+                "entity/object used to stop/interrupt (the process/effect of) X",
+                "specifically designed tool/device used to stop/interrupt (the process/effect of) X"
+            ],
+            [
+                "entity/object used to lessen/mitigate (the process/effect of) X",
+                "specifically designed tool/device used to lessen/mitigate (the process/effect of) X"
+            ],
+            [
+                "entity/object used to prevent/impede/block (the process/effect of) X",
+                "specifically designed tool/device used to prevent/impede/block (the process/effect of) X"
+            ],
+            [
+                "entity/object used to slow down (the process/effect of) X",
+                "specifically designed tool/device used to slow down (the process/effect of) X"
+            ],
+            [
+                "entity/object used to modify (the process/effect of) X",
+                "specifically designed tool/device used to modify (the process/effect of) X"
+            ],
+            [
+                "entity/object used to accelerate/speed up/intensify (the process/effect of) X",
+                "specifically designed tool/device used to accelerate/speed up/intensify (the process/effect of) X"
+            ],
+            [
+                "entity/object used to enable/facilitate (the process/effect of) X",
+                "specifically designed tool/device used to enable/facilitate (the process/effect of) X"
+            ],
+            [
+                "entity/object used to enhance/magnify (the process/effect) of X",
+                "specifically designed tool/device used to enhance/magnify (the process/effect of) X"
+            ],
+            [
+                "entity/object used to initiate/start/effectuate (the process/effect of) X",
+                "specifically designed tool/device used to initiate/start/effectuate (the process/effect of) X"
+            ]
         ]
     },
     {
         "name": "SOC",
-        "description": "Type of Social Instrumentality = ‘by means of...’",
+        "description": "Type of Social Instrumentality = ‘by means of …’",
         "gradient_type": "0",
         "cs": "mz",
         "degrees": [
