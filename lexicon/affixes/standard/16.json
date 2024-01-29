@@ -6,15 +6,15 @@
         "cs": "r",
         "degrees": [
             null,
-            "emphatic relative negation contrary to expectation: on the contrary, ... is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!",
-            "emphatic relative negation: ... is not/does not X at all!; no X whatsoever!",
-            "relative negation contrary to expectation: on the contrary, ... is not/does not X; no X (despite any assertion otherwise)",
-            "relative negation: ... is not/does not X; no X",
+            "emphatic relative negation contrary to expectation: on the contrary, … is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!",
+            "emphatic relative negation: … is not/does not X at all!; no X whatsoever!",
+            "relative negation contrary to expectation: on the contrary, … is not/does not X; no X (despite any assertion otherwise)",
+            "relative negation: … is not/does not X; no X",
             "neither the preceding nor X",
-            "absolute negation: ... is not/does not X; no X",
-            "absolute negation contrary to expectation: on the contrary, ... is not/does not X; no X whatsoever.",
-            "emphatic absolute negation: ... is not/does not X at all!; no X whatsoever!",
-            "emphatic absolute negation contrary to expectation: on the contrary, ... is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!"
+            "absolute negation: … is not/does not X; no X",
+            "absolute negation contrary to expectation: on the contrary, … is not/does not X; no X whatsoever.",
+            "emphatic absolute negation: … is not/does not X at all!; no X whatsoever!",
+            "emphatic absolute negation contrary to expectation: on the contrary, … is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!"
         ]
     },
     {
@@ -34,7 +34,7 @@
             "The contigency occurs depending (up)on X; however, the dependency value is unknown to speaker",
             "The contigency occurs in case of X"
         ],
-        "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if...”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\n\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
+        "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if …”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\n\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
     },
     {
         "name": "AFM",
@@ -43,7 +43,7 @@
         "cs": "čř",
         "degrees": [
             null,
-            "emphatic relative affirmation contrary to expectation: on the contrary... does (too) / is (too)",
+            "emphatic relative affirmation contrary to expectation: on the contrary … does (too) / is (too)",
             "emphatic relative affirmation: does indeed / is indeed / most certainly does/is / truly is/does / really is/does",
             "relative affirmation contrary to expectation",
             "relative affirmation",
@@ -51,7 +51,7 @@
             "absolute affirmation",
             "absolute affirmation contrary to expectation",
             "emphatic absolute affirmation: does indeed / is indeed / most certainly does/is",
-            "emphatic absolute affirmation contrary to expectation: on the contrary... does (too) / is (too)"
+            "emphatic absolute affirmation contrary to expectation: on the contrary … does (too) / is (too)"
         ]
     },
     {
@@ -151,15 +151,15 @@
         "cs": "čt",
         "degrees": [
             null,
-            "this means/implies…",
-            "nevertheless,…",
-            "anyway/at any rate…",
-            "at least…",
-            "by the way... / just to mention...",
-            "not to change the subject, but… / sorry to change the subject, but...",
-            "as a matter of fact…",
-            "well, what do you know… / ....after all (who would’ve guessed?",
-            "like it or not… / well, as much as we didn’t want to believe it could happen..."
+            "this means/implies …",
+            "nevertheless, …",
+            "anyway / at any rate …",
+            "at least …",
+            "by the way … / just to mention …",
+            "not to change the subject, but … / sorry to change the subject, but …",
+            "as a matter of fact …",
+            "well, what do you know … / ….after all (who would’ve guessed?",
+            "like it or not … / well, as much as we didn’t want to believe it could happen …"
         ]
     },
     {
@@ -187,15 +187,15 @@
         "cs": "ňt",
         "degrees": [
             null,
-            "…and that’s the way it HAS to be / …and it can’t be any other way",
-            "…and that’s the way it’s supposed to be / …and that’s the way it works",
-            "…and that’s acceptable / …and that’ll work well enough",
-            "…and even if it’s not supposed to be that way, we’ll find a way to make it work",
+            "… and that’s the way it HAS to be / … and it can’t be any other way",
+            "… and that’s the way it’s supposed to be / … and that’s the way it works",
+            "… and that’s acceptable / … and that’ll work well enough",
+            "… and even if it’s not supposed to be that way, we’ll find a way to make it work",
             "unknown or irrelevant if it’s okay that way",
-            "…but we’ll see if we can make it work that way / …but I’m unsure if it’ll work that way",
-            "…and it’s going to be a problem / …but there’s a problem",
-            "…but it shouldn’t be like that / … but it’s not supposed to be like that",
-            "…but it’s all wrong / … but it won’t work"
+            "… but we’ll see if we can make it work that way / … but I’m unsure if it’ll work that way",
+            "… and it’s going to be a problem / … but there’s a problem",
+            "… but it shouldn’t be like that / … but it’s not supposed to be like that",
+            "… but it’s all wrong / … but it won’t work"
         ]
     },
     {
@@ -205,15 +205,42 @@
         "cs": "řž",
         "degrees": [
             null,
-            ["(MINr) Minimal (relative comparison)","(MINa) Minimal (absolute comparison)"],
-            ["(SBEr) Subequative (relative comparison)","(SBEa) Subequative (absolute comparison)"],
-            ["(IFRr) Inferior (relative comparison)","(IFRa) Inferior (absolute comparison)"],
-            ["(DFCr) Deficient (relative comparison)","(DFCa) Deficient (absolute comparison)"],
-            ["(EQUr) Equative (relative comparison)","(EQUa) Equative (absolute comparison)"],
-            ["(SURr) Surpassive (relative comparison)","(SURa) Surpassive (absolute comparison)"],
-            ["(SPLr) Superlative (relative comparison)","(SPLa) Superlativ (absolute comparison)e"],
-            ["(SPQr) Superequative (relative comparison)","(SPQa) Superequative (absolute comparison)"],
-            ["(MAXr) Maximal (relative comparison)","(MAXa) Maximal (absolute comparison)"]
+            [
+                "(MINr) Minimal (relative comparison)",
+                "(MINa) Minimal (absolute comparison)"
+            ],
+            [
+                "(SBEr) Subequative (relative comparison)",
+                "(SBEa) Subequative (absolute comparison)"
+            ],
+            [
+                "(IFRr) Inferior (relative comparison)",
+                "(IFRa) Inferior (absolute comparison)"
+            ],
+            [
+                "(DFCr) Deficient (relative comparison)",
+                "(DFCa) Deficient (absolute comparison)"
+            ],
+            [
+                "(EQUr) Equative (relative comparison)",
+                "(EQUa) Equative (absolute comparison)"
+            ],
+            [
+                "(SURr) Surpassive (relative comparison)",
+                "(SURa) Surpassive (absolute comparison)"
+            ],
+            [
+                "(SPLr) Superlative (relative comparison)",
+                "(SPLa) Superlativ (absolute comparison)e"
+            ],
+            [
+                "(SPQr) Superequative (relative comparison)",
+                "(SPQa) Superequative (absolute comparison)"
+            ],
+            [
+                "(MAXr) Maximal (relative comparison)",
+                "(MAXa) Maximal (absolute comparison)"
+            ]
         ],
         "notes": "* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
     },
@@ -232,7 +259,7 @@
             "“greater”/“poorer” = relevant outcome/bottom-line result",
             "“better, efficiently, greater”/“worse, inefficiently, poorer”",
             "“more, harder, longer”/“less, weaker, shorter”",
-            "“more, harder, longer, better, efficiently, greater””/“less, weaker, shorter, worse, inefficiently, poorer”"
+            "“more, harder, longer, better, efficiently, greater”/“less, weaker, shorter, worse, inefficiently, poorer”"
         ]
     },
     {
@@ -261,15 +288,15 @@
         "cs": "çx",
         "degrees": [
             null,
-            "...although X (still) isn’t very M compared to some external standard or expectation of M-ness",
-            "...and where X now meets some external standard or expectation of M-ness",
-            "...and where X now exceeds some external standard or expectation of M-ness",
-            "...although neither X nor why are very M compared to some external standard or expectation of M-ness",
-            "...and where both X and Y meet some external standard or expectation of M-ness, where previously only Y met/exceeded it",
-            "...and where both X and Y exceed some external standard or expectation of M-ness, where previously only Y exceeded it",
-            "...and where X’s degree of M-ness exceeds that of Y, but neither is (still) very M compered to some external standard or expectation of M-ness",
-            "...and where X now meets some external standard or expectation of M-ness and Y does not",
-            "...and where X now exceeds some external standard or expectation of M-ness and Y does not"
+            "… although X (still) isn’t very M compared to some external standard or expectation of M-ness",
+            "… and where X now meets some external standard or expectation of M-ness",
+            "… and where X now exceeds some external standard or expectation of M-ness",
+            "… although neither X nor why are very M compared to some external standard or expectation of M-ness",
+            "… and where both X and Y meet some external standard or expectation of M-ness, where previously only Y met/exceeded it",
+            "… and where both X and Y exceed some external standard or expectation of M-ness, where previously only Y exceeded it",
+            "… and where X’s degree of M-ness exceeds that of Y, but neither is (still) very M compered to some external standard or expectation of M-ness",
+            "… and where X now meets some external standard or expectation of M-ness and Y does not",
+            "… and where X now exceeds some external standard or expectation of M-ness and Y does not"
         ],
         "notes": "Applied to either the “X” noun bearing a LEVEL Comparison Operator or the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case."
     },
@@ -334,10 +361,10 @@
         "cs": "sj",
         "degrees": [
             null,
-            "technically speaking… / context aside for a moment, …",
+            "technically speaking … / context aside for a moment, …",
             "for all practical purposes / to all intents and purposes / practically  / virtually / all but technically",
             "sort of / kind of",
-            "strictly speaking ( = to put it in clinical terms…)",
+            "strictly speaking ( = to put it in clinical terms …)",
             "essentially / in essence / basically",
             "(what) might as well be",
             "in one sense",
@@ -353,7 +380,7 @@
         "degrees": [
             null,
             "in a manner of speaking, in a sense / in a way",
-            "‘in other words…’, ‘to put it more exactly….’",
+            "‘in other words …’, ‘to put it more exactly ….’",
             "more of a ___ than anything else",
             "(what can be looked at (as) / (what) can be viewed as / (what) one thinks of(as) / one might say that",
             "loosely speaking",
@@ -534,13 +561,13 @@
             null,
             "yet, still",
             "‘even’ (e.g., “I don’t even like them”) = to the slightest extent contrary to expectation",
-            "Contemplative: upon reflection/ in hindsight",
+            "Contemplative: upon reflection / in hindsight",
             "upon deep introspection/following careful consideration or meditation on the matter",
-            "on first blush/at first/upon initial impression/[my] first thought is/was…",
+            "on first blush / at first / upon initial impression / [my] first thought is/was …",
             "natural(ly)/obvious(ly)/clear(ly) [in terms of naturalness, not blatancy]",
-            "clear (case of), clearly/certainly/indeed[in negative sentences = no way/at all]",
-            "as luck would have it/as it so happens…/it just so happens that…",
-            "moreover, and what is more…"
+            "clear (case of), clearly / certainly / indeed [in negative sentences = no way / at all]",
+            "as luck would have it / as it so happens … / it just so happens that …",
+            "moreover, and what is more …"
         ]
     },
     {
@@ -616,8 +643,8 @@
             "whatever X is / whatever X may be ",
             "whatever X was or may have been (but is no more)",
             "whatever X will be or may become (but is not yet)",
-            "...or something like/similar to X in function, purpose, or consequence",
-            "...or something like/similar to X in appearance/description",
+            "… or something like/similar to X in function, purpose, or consequence",
+            "… or something like/similar to X in appearance/description",
             "and whatever else X may be(come)",
             "and whatever else X entails or carries with it as a consequence",
             "which(ever) X (it is or may be) (of a known/limited number of possible identifications available to assign to X, the one identification that actually is (chosen as) X)",

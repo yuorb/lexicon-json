@@ -28,7 +28,7 @@
             "two before preceding",
             "one before preceding",
             "immediately beforehand / the preceding / first (of two)",
-            "current/at hand; now/currently / at the moment [in sequence of events]",
+            "current / at hand; now / currently / at the moment [in sequence of events]",
             "next / following; then / next",
             "one after next",
             "second one after next",
@@ -482,10 +482,10 @@
             "preliminary; preliminarily",
             "preparatory / in preparation for / getting ready to",
             "precursor to; but just beforehand",
-            "awaited; waiting to/ waiting for [focus on imminency or sequential position, NOT on anticipation]",
+            "awaited; waiting to / waiting for [focus on imminency or sequential position, NOT on anticipation]",
             "subsequent / consequent; then / so / thus / therefore",
             "based on the preceding and setting the stage for what follows",
-            "following /...which follows; then subsequent to that / following that...",
+            "following / … which follows; then subsequent to that / following that …",
             "eventual / at last; final / finally (result)"
         ]
     },
@@ -516,7 +516,7 @@
             null,
             "immediate / at this instant / for this moment; momentary",
             "temporary / for right now / for the moment; temporarily / in the meantime [duration of context. recent]",
-            "short term/for now; in the short term/for now/ / for the immediate future [hours to days]",
+            "short term/for now; in the short term / for now / for the immediate future [hours to days]",
             "for the meantime / for the meanwhile [days to weeks to months]",
             "for a while / for some time to come [months to several years]",
             "for the foreseeable future [years to decades]",
@@ -699,7 +699,7 @@
             "again and again / keep X-ing over and over [focus on habit, not periodicity]",
             "again and again / keep X-ing over and over [focus on periodicity, not habit]",
             "irregular, unpredictable; at irregular or unpredictable intervals",
-            "[cyclic] return of... / ...once again; return to / …back again [e.g., summer’s back]",
+            "[cyclic] return of … / … once again; return to / … back again [e.g., summer’s back]",
             "intermittent; intermittently / at regular intervals",
             "repetitive / repeating; repeatedly",
             "constantly cycling or repeating / continuously or perpetually repeating / constant, eternal, perpetual repetition of"
@@ -825,11 +825,11 @@
             "in the remote past, once upon a time",
             "past/former/previous; once [e.g., I was young once], a long time ago",
             "recent; recently",
-            "... just past / just (happened)",
-            "present/current/present day; now / at present / presently / currently",
+            "… just past / just (happened)",
+            "present / current / present day; now / at present / presently / currently",
             "imminent; just about to / about to / on the verge of",
             "forthcoming / soon to arrive; soon",
-            "future / — to be / —to come / eventual(ly); someday...",
+            "future / — to be / —to come / eventual(ly); someday …",
             "in the remote future / far in the future / long after we’re gone"
         ]
     },
@@ -939,7 +939,7 @@
             "any moment now; on the verge of; just about to",
             "imminent(ly); very soon",
             "soon [w/ anticipation]",
-            "someday... / one day [with longing]"
+            "someday … / one day [with longing]"
         ]
     },
     {
@@ -968,7 +968,7 @@
         "degrees": [
             null,
             "spatial interpretation",
-            "spatial interpretation — preceding X, in front of X, before (one arrives at) X, first this then X,",
+            "spatial interpretation — preceding X, in front of X, before (one arrives at) X, first this then X",
             "spatial interpretation — at the exact spot where X is, right where X is",
             "spatial interpretation — after X, behind X, following X, subsequent to X",
             "spatial & temporal interpretation",

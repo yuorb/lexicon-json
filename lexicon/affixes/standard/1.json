@@ -42,15 +42,15 @@
         "cs": "stř",
         "degrees": [
             null,
-            "spread out/ everywhere / scattered yonder / all over out there [inaccessible]",
-            "spread out/ everywhere / scattered all about 3rd party / all over the place around 3rd party [inaccessible]",
-            "spread out/ everywhere / scattered all about listener / all over the place around listener [inaccessible]",
-            "spread out/ everywhere / scattered all about speaker / all over the place / here and there [inaccessible]",
-            "spread out/ everywhere / scattered all about speaker and listener [accessible]",
-            "spread out/ everywhere / scattered all about speaker/all over the place / here and there [accessible]",
-            "spread out/ everywhere / scattered all about listener / all over the place around listener [accessible]",
-            "spread out/ everywhere / scattered all about 3rd party / all over the place around 3rd party [accessible]",
-            "spread out/ everywhere / scattered yonder / all over out there [accessible]"
+            "spread out / everywhere / scattered yonder / all over out there [inaccessible]",
+            "spread out / everywhere / scattered all about 3rd party / all over the place around 3rd party [inaccessible]",
+            "spread out / everywhere / scattered all about listener / all over the place around listener [inaccessible]",
+            "spread out / everywhere / scattered all about speaker / all over the place / here and there [inaccessible]",
+            "spread out / everywhere / scattered all about speaker and listener [accessible]",
+            "spread out / everywhere / scattered all about speaker / all over the place / here and there [accessible]",
+            "spread out / everywhere / scattered all about listener / all over the place around listener [accessible]",
+            "spread out / everywhere / scattered all about 3rd party / all over the place around 3rd party [accessible]",
+            "spread out / everywhere / scattered yonder / all over out there [accessible]"
         ]
     },
     {
@@ -81,7 +81,7 @@
             "not comparable to X / unlike X / inexact(ly)",
             "not quite comparable to X / not nearly exact enough",
             "nearly or almost that X; nearly or almost so",
-            "just about... / for all intents and purposes",
+            "just about … / for all intents and purposes",
             "such (a); in such a manner",
             "comparable / comparably / good enough / well enough / sufficiently exact",
             "just like that; just so, thus(ly)",

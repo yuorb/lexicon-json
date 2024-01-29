@@ -7,8 +7,11 @@
         "degrees": [
             null,
             "want to/that; desire to/that",
-            ["hope to/that, wish to/that","dream about/long to"],
-            "request/ would like to/that / if you please",
+            [
+                "hope to/that, wish to/that",
+                "dream about/long to"
+            ],
+            "request / would like to/that / if you please",
             "feel like / up for / be inclined to",
             "envy / covet",
             "deign to / acquiesce to / assent to",
@@ -66,7 +69,7 @@
             "look forward to / eagerly await",
             "free to, available to",
             "anticipate / expect to/that",
-            "intend to / plan on/ shall",
+            "intend to / plan on / shall",
             "(be) face(d with)",
             "be predisposed to"
         ]
@@ -103,7 +106,7 @@
             "prevent / prohibit / not let",
             "refrain/abstain from",
             "dread, not look forward to",
-            "be forced to / coerced to / …unwillingly",
+            "be forced to / coerced to / … unwillingly",
             "would rather not / prefer not to"
         ]
     }

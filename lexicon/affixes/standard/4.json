@@ -12,9 +12,9 @@
             "nowhere near the desired degree of",
             "difficult to pinpoint/determine the degree or amount of",
             "fluctuating, ever-changing (amount of); to changing/fluctuating degree or extent of",
-            "vaguely around/vaguely in the range of/somewhere around /loosely in the vicinity of",
-            "approximate(ly)/somewhere around/just about; or something like that/…or so",
-            "exact/specific, exactly/specifically/on the dot/sharp/to the letter"
+            "vaguely around / vaguely in the range of / somewhere around / loosely in the vicinity of",
+            "approximate(ly) / somewhere around / just about; or something like that / … or so",
+            "exact/specific, exactly / specifically / on the dot / sharp / to the letter"
         ]
     },
     {
@@ -24,15 +24,15 @@
         "cs": "rf",
         "degrees": [
             null,
-            "no amount of/none (of)",
-            "a very few/a tiny amount of/a tiny number of, only a tiny bit/a tiny bit",
-            "few/a little/a bit, a little/a bit",
-            "some, any [= some of]/some of or any of the/a portion; partially/to some extent",
-            "a fair number of/a fair amount of/pretty…/fairly…/rather/somewhat;more or less/to a fair extent",
-            "much/many/(such) a lot of/very/quite (a); quite; a lot/very much/to a large extent",
-            "a whole lot of/a very large amount or number of/immensely, in an incredible amount/so much…; so",
-            "most of/mostly",
-            "every/all (of)/whole, entirely/in its entirety"
+            "no amount of / none (of)",
+            "a very few / a tiny amount of / a tiny number of, only a tiny bit / a tiny bit",
+            "few / a little / a bit, a little / a bit",
+            "some, any [= some of] / some of or any of the / a portion; partially / to some extent",
+            "a fair number of / a fair amount of / pretty … / fairly … / rather / somewhat; more or less / to a fair extent",
+            "much / many / (such) a lot of / very / quite (a); quite; a lot / very much / to a large extent",
+            "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
+            "most of / mostly",
+            "every / all (of) / whole, entirely / in its entirety"
         ]
     },
     {
@@ -42,15 +42,15 @@
         "cs": "rţ",
         "degrees": [
             null,
-            "no amount of/none (of)",
-            "a very few/a tiny amount of/a tiny number of, only a tiny bit/a tiny bit",
-            "few/a little/a bit, a little/a bit",
-            "some, any [= some of]/some of or any of the/a portion; partially/to some extent",
-            "a fair number of/a fair amount of/pretty (+adj.)/fairly (+adj.)/rather /somewhat; more or less/to a fair extent",
-            "much/many/(such) a lot of/very/quite (a); quite /; a lot/very much/to a large extent",
-            "a whole lot of/a very large amount or number of/immensely, in an incredible amount/so much…; so",
-            "most of/mostly",
-            "every/all (of)/whole, entirely/in its entirety"
+            "no amount of / none (of)",
+            "a very few / a tiny amount of / a tiny number of, only a tiny bit / a tiny bit",
+            "few / a little / a bit, a little / a bit",
+            "some, any [= some of] / some of or any of the / a portion; partially / to some extent",
+            "a fair number of / a fair amount of / pretty (+adj.) / fairly (+adj.) / rather / somewhat; more or less / to a fair extent",
+            "much / many / (such) a lot of / very / quite (a); quite /; a lot / very much / to a large extent",
+            "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
+            "most of / mostly",
+            "every / all (of) / whole, entirely / in its entirety"
         ]
     },
     {
@@ -60,15 +60,15 @@
         "cs": "g",
         "degrees": [
             null,
-            "not at all / completely lacking in... / none whatsoever / not...whatsoever",
-            "hardly at all / almost completely lacking in...",
+            "not at all / completely lacking in … / none whatsoever / not … whatsoever",
+            "hardly at all / almost completely lacking in …",
             "to a small degree",
-            "to a somewhat small degree /somewhat",
-            "to a moderate or average or usual degree/to a fair or normal degree",
-            "to a somewhat large degree/fairly much/more so than not",
+            "to a somewhat small degree / somewhat",
+            "to a moderate or average or usual degree / to a fair or normal degree",
+            "to a somewhat large degree / fairly much / more so than not",
             "to a large degree",
             "very much so / decidedly so / to a very large degree",
-            "to the exclusion of all else/without consideration for anything else"
+            "to the exclusion of all else / without consideration for anything else"
         ]
     },
     {
@@ -98,26 +98,26 @@
             null,
             "not a(ny), not one, no X whatsoever, none of X; in no such manner",
             "hardly any, barely any X; in hardly any such manner",
-            "some few/a few certain …; in a few certain ways",
-            "some (of)/certain...; in certain ways",
+            "some few / a few certain …; in a few certain ways",
+            "some (of) / certain …; in certain ways",
             "several / more than a few / various / in various ways / in several different ways",
-            "a significant portion of/a fair number of; in a fair number of ways",
-            "most/in most ways",
+            "a significant portion of / a fair number of; in a fair number of ways",
+            "most / in most ways",
             "almost every; in almost every way",
             "each/every; in each way"
         ]
     },
     {
         "name": "SUF*",
-        "description": "Degree Of Sufficiency of Amount /Impact",
+        "description": "Degree Of Sufficiency of Amount/Impact",
         "gradient_type": "A1",
         "cs": "rt",
         "degrees": [
             null,
-            "none at all; no…at all",
-            "way too little / woefully insufficient / way too few; not...anywhere enough / totally under-[+verb]",
-            "not enough / insufficient / too few; not...enough / insufficiently / under-[+verb]",
-            "not quite enough / slightly insufficient; not...quite enough / a bit insufficiently / slightly under-[+verb]",
+            "none at all; no … at all",
+            "way too little / woefully insufficient / way too few; not … anywhere enough / totally under-[+verb]",
+            "not enough / insufficient / too few; not … enough / insufficiently / under-[+verb]",
+            "not quite enough / slightly insufficient; not … quite enough / a bit insufficiently / slightly under-[+verb]",
             "enough (of) / sufficient; enough / sufficiently",
             "a little too / a little too much; a little too much / slightly over- [+verb]",
             "too / too much; too much / too many / over- [+verb]",
@@ -153,12 +153,12 @@
             "almost / nearly",
             "hardly / barely",
             "“just” = barely past or beyond some threshold or limit, e.g., ‘Widen the aperture until the cable “just” fits through.’",
-            "mere / only (a); merely / only / simply / nothing more than / ...and nothing more, e.g., ‘It’s just a mouse, dear’, ‘I only/merely touched his arm’, ‘I just wanted to see her, nothing more.’",
-            "partially so; definitely on its way to being...",
+            "mere / only (a); merely / only / simply / nothing more than / … and nothing more, e.g., ‘It’s just a mouse, dear’, ‘I only/merely touched his arm’, ‘I just wanted to see her, nothing more.’",
+            "partially so; definitely on its way to being …",
             "some sort of / some kind of / sort of (like) / ”kind of”; in a way / halfway / does and doesn’t",
-            "tentative confirmation: it seems likely that... / it looks increasingly certain that...",
-            "provisional confirmation: it certainly appears that... / it looks to be certain that...",
-            "confirmative: it is confirmed that... / ...can safely say that..."
+            "tentative confirmation: it seems likely that … / it looks increasingly certain that …",
+            "provisional confirmation: it certainly appears that … / it looks to be certain that …",
+            "confirmative: it is confirmed that … / … can safely say that …"
         ]
     },
     {
@@ -190,7 +190,7 @@
             "much worse than if nothing had been done",
             "worse than if nothing had been done",
             "somewhat worse than none, a bit worse than if nothing had been done",
-            "absence of ... / no...at all / neither one way or the other",
+            "absence of … / no … at all / neither one way or the other",
             "to a small degree/extent/amount",
             "to a fair degree/extent/amount",
             "to a large degree/extent/amount",
@@ -211,7 +211,7 @@
             "X at its usual/normal/expected level/amount/capacity",
             "X is a state of repletion — filling up on X",
             "renewed/restored abundance of X after having been (nearly) depleted",
-            "abundant X/an abundance of X, X at full amount/capacity",
+            "abundant X / an abundance of X, X at full amount/capacity",
             "over-abundance of X, more X than needed or can be used"
         ]
     },

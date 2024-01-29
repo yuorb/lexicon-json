@@ -60,15 +60,15 @@
         "cs": "pr",
         "degrees": [
             null,
-            "interior perlative ascent₁/descent₂",
-            "interior ascent₁/descent₂",
-            "entering ascent₁/descent₂",
-            "continuous course ascent₁/descent₂",
-            "ascent₁/descent₂ across",
-            "onward ascent₁/descent₂",
-            "exiting ascent₁/descent₂",
-            "exterior ascent₁/descent₂",
-            "exterior perlative ascent₁/descent₂"
+            "interior perlative ascent/descent",
+            "interior ascent/descent",
+            "entering ascent/descent",
+            "continuous course ascent/descent",
+            "ascent/descent across",
+            "onward ascent/descent",
+            "exiting ascent/descent",
+            "exterior ascent/descent",
+            "exterior perlative ascent/descent"
         ]
     },
     {
@@ -168,15 +168,15 @@
         "cs": "dr",
         "degrees": [
             null,
-            "interior perlative approach₁/receding₂",
-            "interior approach₁/receding₂",
-            "entering approach₁/receding₂",
-            "continuous course approach₁/receding₂",
-            "approach₁/receding₂ across",
-            "onward approach₁/receding₂",
-            "exiting approach₁/receding₂",
-            "exterior approach₁/receding₂",
-            "exterior perlative approach₁/receding₂"
+            "interior perlative approach/receding",
+            "interior approach/receding",
+            "entering approach/receding",
+            "continuous course approach/receding",
+            "approach/receding across",
+            "onward approach/receding",
+            "exiting approach/receding",
+            "exterior approach/receding",
+            "exterior perlative approach/receding"
         ]
     },
     {
@@ -222,15 +222,15 @@
         "cs": "fr",
         "degrees": [
             null,
-            "interior perlative [anti₂]parallel movement",
-            "interior [anti₂]parallel movement",
-            "entering [anti₂]parallel movement",
-            "continuous course [anti₂]parallel movement",
-            "[anti₂]parallel movement across",
-            "onward [anti₂]parallel movement",
-            "exiting [anti₂]parallel movement",
-            "exterior [anti₂]parallel movement",
-            "exterior perlative [anti₂]parallel movement"
+            "interior perlative [anti]parallel movement",
+            "interior [anti]parallel movement",
+            "entering [anti]parallel movement",
+            "continuous course [anti]parallel movement",
+            "[anti]parallel movement across",
+            "onward [anti]parallel movement",
+            "exiting [anti]parallel movement",
+            "exterior [anti]parallel movement",
+            "exterior perlative [anti]parallel movement"
         ]
     },
     {
@@ -276,15 +276,15 @@
         "cs": "br",
         "degrees": [
             null,
-            "interior perlative rightward₁/leftward₂ movement",
-            "interior rightward₁/leftward₂ movement",
-            "entering rightward₁/leftward₂ movement",
-            "continuous course rightward₁/leftward₂ movement",
-            "rightward₁/leftward₂ movement across",
-            "onward rightward₁/leftward₂ movement",
-            "exiting rightward₁/leftward₂ movement",
-            "exterior rightward₁/leftward₂ movement",
-            "exterior perlative rightward₁/leftward₂ movement"
+            "interior perlative rightward/leftward movement",
+            "interior rightward/leftward movement",
+            "entering rightward/leftward movement",
+            "continuous course rightward/leftward movement",
+            "rightward/leftward movement across",
+            "onward rightward/leftward movement",
+            "exiting rightward/leftward movement",
+            "exterior rightward/leftward movement",
+            "exterior perlative rightward/leftward movement"
         ]
     },
     {
@@ -330,15 +330,15 @@
         "cs": "gr",
         "degrees": [
             null,
-            "interior perlative oblique approach₁/receding₂",
-            "interior oblique approach₁/receding₂",
-            "entering oblique approach₁/receding₂",
-            "continuous course oblique approach₁/receding₂",
-            "oblique approach₁/receding₂ across",
-            "onward oblique approach₁/receding₂",
-            "exiting oblique approach₁/receding₂",
-            "exterior oblique approach₁/receding₂",
-            "exterior perlative oblique approach₁/receding₂"
+            "interior perlative oblique approach/receding",
+            "interior oblique approach/receding",
+            "entering oblique approach/receding",
+            "continuous course oblique approach/receding",
+            "oblique approach/receding across",
+            "onward oblique approach/receding",
+            "exiting oblique approach/receding",
+            "exterior oblique approach/receding",
+            "exterior perlative oblique approach/receding"
         ]
     },
     {
@@ -1189,7 +1189,7 @@
     },
     {
         "name": "P25*",
-        "description": "pos. at -X / +Y/ +Z — “to the left, in front & above”",
+        "description": "pos. at -X / +Y / +Z — “to the left, in front & above”",
         "gradient_type": "D1",
         "cs": "vby",
         "degrees": [
@@ -1207,7 +1207,7 @@
     },
     {
         "name": "P26*",
-        "description": "pos. at -X / +Y/ -Z — “to the left, in front & below”",
+        "description": "pos. at -X / +Y / -Z — “to the left, in front & below”",
         "gradient_type": "D1",
         "cs": "vbw",
         "degrees": [
@@ -1225,7 +1225,7 @@
     },
     {
         "name": "P27*",
-        "description": "pos. at -X / -Y/ +Z — “to the left, behind & above”",
+        "description": "pos. at -X / -Y / +Z — “to the left, behind & above”",
         "gradient_type": "D1",
         "cs": "vgy",
         "degrees": [
@@ -1914,15 +1914,15 @@
         "cs": "gž",
         "degrees": [
             null,
-            "...while extending (an) appendage(s) or protrusion(s) outward",
-            "...while making/undergoing sudden paroxysmic, spasmodic jumping/leaping/spiking/lurching movement(s) —> while shaking",
-            "...while contracting (an) appendage(s) or protrusion(s) inward",
-            "...while expanding in overall-size (keeping all dimensions approximately proportionate to each other)",
-            "...while changing/re-arranging one’s bodily shape/formation/outline/configuration",
-            "...while shrinking/contracting in overall-size (keeping all dimensions approximately proportionate to each other)",
-            "...while expanding along primary (or longest) axis",
-            "...while fluctuating in size along primary (or longest) axis",
-            "...while shrinking/contracting along primary (or longest) axis"
+            "… while extending (an) appendage(s) or protrusion(s) outward",
+            "… while making/undergoing sudden paroxysmic, spasmodic jumping/leaping/spiking/lurching movement(s) —> while shaking",
+            "… while contracting (an) appendage(s) or protrusion(s) inward",
+            "… while expanding in overall-size (keeping all dimensions approximately proportionate to each other)",
+            "… while changing/re-arranging one’s bodily shape/formation/outline/configuration",
+            "… while shrinking/contracting in overall-size (keeping all dimensions approximately proportionate to each other)",
+            "… while expanding along primary (or longest) axis",
+            "… while fluctuating in size along primary (or longest) axis",
+            "… while shrinking/contracting along primary (or longest) axis"
         ]
     },
     {
@@ -1986,14 +1986,14 @@
         "cs": "çb",
         "degrees": [
             null,
-            "with accompanying/simultaneous spinning/rotating/”rolling” motion along equatorial (i.e., X- planar) axis [rotational direction: away from observer, as if “rolling away” from observer)",
-            "with accompanying/simultaneous spinning /rotating/”twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: “east-to-west”)",
+            "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial (i.e., X- planar) axis [rotational direction: away from observer, as if “rolling away” from observer)",
+            "with accompanying/simultaneous spinning/rotating/“twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: “east-to-west”)",
             "with accompanying/simultaneous spinning/rotating motion along equatorial (i.e., Z-planar) axis [rotational direction: “clockwise”)",
-            "with accompanying/simultaneous spinning/rotating/”rolling” motion along equatorial (i.e., X-planar) axis [rotational direction: toward observer, as if “rolling toward” observer)",
-            "with accompanying/simultaneous spinning /rotating/”twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: “west-to-east”)",
+            "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial (i.e., X-planar) axis [rotational direction: toward observer, as if “rolling toward” observer)",
+            "with accompanying/simultaneous spinning/rotating/“twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: “west-to-east”)",
             "with accompanying/simultaneous spinning/rotating motion along equatorial (i.e., Z-planar) axis [rotational direction: “counter-/anti-clockwise”)",
-            "with accompanying/simultaneous bi-directional spinning/rotating/”rolling” motion along equatorial (i.e., X-planar) axis [rotational direction: alternating between toward and away from observer)",
-            "with accompanying/simultaneous bi-directional spinning /rotating/”twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: alternating between “east-to-west” and “west-to-east”)",
+            "with accompanying/simultaneous bi-directional spinning/rotating/“rolling” motion along equatorial (i.e., X-planar) axis [rotational direction: alternating between toward and away from observer)",
+            "with accompanying/simultaneous bi-directional spinning/rotating/“twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: alternating between “east-to-west” and “west-to-east”)",
             "with accompanying/simultaneous bi-directional spinning/rotating motion along equatorial (i.e., Z-planar) axis [rotational direction: alternating between “clockwise” and “counter-/anti-clockwise”)"
         ]
     },
