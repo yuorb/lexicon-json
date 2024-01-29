@@ -17,9 +17,9 @@
             },
             {
                 "BSC": "(to be) a state/act of composing a passage of music, a musical phrase, a melody, a tune; to compose a melody/tune/musical phrase or passage",
-                "CTE": "(to be) the state of there being a musical phrase/passage/tune or melody in one's mind; to be a melody/tune/musical phrase or passage one hears in one's mind when composing",
+                "CTE": "(to be) the state of there being a musical phrase/passage/tune or melody in one’s mind; to be a melody/tune/musical phrase or passage one hears in one’s mind when composing",
                 "CSV": "(to be) a state/act of composing music; to compose (a passage/piece) of music",
-                "OBJ": "(to be) the particular melody/tune/musical phrase or passage being composed or played from one's mind"
+                "OBJ": "(to be) the particular melody/tune/musical phrase or passage being composed or played from one’s mind"
             }
         ]
     },
@@ -36,14 +36,14 @@
             {
                 "BSC": "(to be) a state/act of singing a song; to sing a song [both the physical act thereof and the audible song produced]",
                 "CTE": "(to be) the state of singing",
-                "CSV": "(to be) an act of using one's voice to sing; to physically use one's voice to sing",
+                "CSV": "(to be) an act of using one’s voice to sing; to physically use one’s voice to sing",
                 "OBJ": "(to be) the song one sings"
             },
             {
                 "BSC": "(to be) a state/act of composing a passage of singing, a musical vocal phrase, a vocal melody/tune and its lyrics; to compose a vocal melody/tune and its lyrics",
-                "CTE": "(to be) the state of there being a vocal musical phrase/passage/ melody in one's mind and associated lyrics; to be a melody/tune/musical phrase and lyrics one hears in one's mind when composing vocal music or song",
+                "CTE": "(to be) the state of there being a vocal musical phrase/passage/ melody in one’s mind and associated lyrics; to be a melody/tune/musical phrase and lyrics one hears in one’s mind when composing vocal music or song",
                 "CSV": "(to be) a state/act of composing vocal music or song; to compose (a passage/piece) of vocal music/song",
-                "OBJ": "(to be) the particular melody/tune/musical phrase/passage and lyrics being composed or played from one's mind"
+                "OBJ": "(to be) the particular melody/tune/musical phrase/passage and lyrics being composed or played from one’s mind"
             }
         ]
     }

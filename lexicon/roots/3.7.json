@@ -16,13 +16,13 @@
                 "OBJ": "(to be) that which occurs/passes during evening/nighttime hours"
             },
             {
-                "BSC": "(to be) a particular “o'clock”-time of the day as named by the hour [use numerical roots or affixes to specify the number of hours since midnight] (includes both the time and the event occurring then)",
-                "CTE": "(to be) the measuring/delineation of time as specified by a particular “o'clock”-time of day",
-                "CSV": "(to be) the state of being/occurring at a particular “o'clock”-time of day",
-                "OBJ": "(to be) the event which occurs at or is specified by a particular “o'clock”-time of day"
+                "BSC": "(to be) a particular “o’clock”-time of the day as named by the hour [use numerical roots or affixes to specify the number of hours since midnight] (includes both the time and the event occurring then)",
+                "CTE": "(to be) the measuring/delineation of time as specified by a particular “o’clock”-time of day",
+                "CSV": "(to be) the state of being/occurring at a particular “o’clock”-time of day",
+                "OBJ": "(to be) the event which occurs at or is specified by a particular “o’clock”-time of day"
             }
         ],
-        "notes": "for specific times, e.g., 10:15 am and 34.3 seconds, use Stem 3 with appropriate numerical affix, followed by numerical stems with a COO affix plus the appropriate stems of the -RW- root declined in the PARTITIVE case. Alternatively, one may use numerical stems with the various degrees of the ELA affix."
+        "notes": "for specific times, e.g., 10:15 am and 34.3 seconds, use Stem 3 with appropriate numerical affix, followed by numerical stems with a COO affix plus the appropriate stems of the -**RW**- root declined in the PARTITIVE case. Alternatively, one may use numerical stems with the various degrees of the ELA affix."
     },
     {
         "root": "RV",
@@ -37,7 +37,7 @@
             "a “while”",
             "a portion of a day"
         ],
-        "notes": "Affix: **TD1**\n\nFor the meaning of the old FORMAL stems previously associated with this root, use the new root(-RW-)"
+        "notes": "Affix: **TD1**\n\nFor the meaning of the old FORMAL stems previously associated with this root, use the new root -RW-"
     },
     {
         "root": "RW",
@@ -58,7 +58,7 @@
             "(to be) a lunar period / month"
         ],
         "see": "RV",
-        "notes": "For the meaning of the old FORMAL stems previously associated with this root, use the following new root(-RḐ-)"
+        "notes": "For the meaning of the old FORMAL stems previously associated with this root, use the following new root -RḐ-"
     },
     {
         "root": "RḐ",
@@ -123,7 +123,7 @@
             {
                 "BSC": "(to be) something manifesting iteration/recurrence, i.e., happening more than once; to be something iterative/concurrent [both the entity and the recurrence]",
                 "CTE": "(to be) a pattern of iteration/recurrence [focus on the fact that iteration/recurrence demonstrates a potential pattern or precedence for further recurrence]",
-                "CSV": "(to be) a process of iteration/recurrence [focus on the fact that there's been a recurrence]",
+                "CSV": "(to be) a process of iteration/recurrence [focus on the fact that there’s been a recurrence]",
                 "OBJ": "(to be) the event/entity which has recurred"
             }
         ],

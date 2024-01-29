@@ -2,1495 +2,1246 @@
   {
     "root": "BZZGL",
     "refers": "1p36 deletion syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZGL",
     "refers": "18p deletion syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZGL",
     "refers": "21-hydroxylase deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZGL",
     "refers": "Alpha 1-antitrypsin deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZGL",
     "refers": "AAA syndrome (achalasia–addisonianism–alacrima syndrome)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZGL",
     "refers": "Aarskog–Scott syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZGL",
     "refers": "ABCD syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZGL",
     "refers": "Aceruloplasminemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZGL",
     "refers": "Acheiropodia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZGR",
     "refers": "Achondrogenesis type II",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZGR",
     "refers": "achondroplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZGR",
     "refers": "Acute intermittent porphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZGR",
     "refers": "adenylosuccinate lyase deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZGR",
     "refers": "Adrenoleukodystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZGR",
     "refers": "Alagille syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZGR",
     "refers": "ADULT syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZGR",
     "refers": "Aicardi–Goutières syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZGR",
     "refers": "Albinism",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZGŘ",
     "refers": "Alexander disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZGŘ",
     "refers": "alkaptonuria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZGŘ",
     "refers": "Alport syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZGŘ",
     "refers": "Alternating hemiplegia of childhood",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZGŘ",
     "refers": "Amyotrophic lateral sclerosis – Frontotemporal dementia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZGŘ",
     "refers": "Alström syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZGŘ",
-    "refers": "Alzheimer's disease",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Alzheimer’s disease",
     "see": "ÇK"
   },
   {
     "root": "RZZGŘ",
     "refers": "Amelogenesis imperfecta",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZGŘ",
     "refers": "Aminolevulinic acid dehydratase deficiency porphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZGW",
     "refers": "Androgen insensitivity syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZGW",
     "refers": "Angelman syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZGW",
     "refers": "Apert syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZGW",
     "refers": "Arthrogryposis–renal dysfunction–cholestasis syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZGW",
     "refers": "Ataxia telangiectasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZGW",
     "refers": "Axenfeld syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZGW",
     "refers": "Beare–Stevenson cutis gyrata syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZGW",
     "refers": "Beckwith–Wiedemann syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZGW",
     "refers": "Benjamin syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZGY",
     "refers": "biotinidase deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZGY",
     "refers": "Björnstad syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZGY",
     "refers": "Bloom syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZGY",
     "refers": "Birt–Hogg–Dubé syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZGY",
     "refers": "Brody myopathy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZGY",
     "refers": "Brunner syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZGY",
     "refers": "CADASIL syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZGY",
     "refers": "CRASIL syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZGY",
     "refers": "Chronic granulomatous disorder",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZBL",
     "refers": "Campomelic dysplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZBL",
     "refers": "Canavan disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZBL",
     "refers": "Carpenter Syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZBL",
     "refers": "Cerebral dysgenesis–neuropathy–ichthyosis–keratoderma syndrome (SEDNIK)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZBL",
     "refers": "Cystic fibrosis",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZBL",
     "refers": "Charcot–Marie–Tooth disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZBL",
     "refers": "CHARGE syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZBL",
     "refers": "Chédiak–Higashi syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZBL",
     "refers": "Cleidocranial dysostosis",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZBR",
     "refers": "Cockayne syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZBR",
     "refers": "Coffin–Lowry syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZBR",
     "refers": "Cohen syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZBR",
     "refers": "collagenopathy, types II and XI",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZBR",
     "refers": "Congenital insensitivity to pain with anhidrosis (CIPA)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZBR",
     "refers": "Congenital Muscular Dystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZBR",
     "refers": "Cornelia de Lange syndrome (CDLS)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZBR",
     "refers": "Cowden syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZBR",
     "refers": "CPO deficiency (coproporphyria)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZBŘ",
     "refers": "Cranio-lenticulo-sutural dysplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZBŘ",
     "refers": "Cri du chat",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZBŘ",
-    "refers": "Crohn's disease",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Crohn’s disease",
     "see": "ÇK"
   },
   {
     "root": "MZZBŘ",
     "refers": "Crouzon syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZBŘ",
     "refers": "Crouzonodermoskeletal syndrome (Crouzon syndrome with acanthosis nigricans)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZBŘ",
-    "refers": "Darier's disease",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Darier’s disease",
     "see": "ÇK"
   },
   {
     "root": "LZZBŘ",
-    "refers": "Dent's disease (Genetic hypercalciuria)",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Dent’s disease (Genetic hypercalciuria)",
     "see": "ÇK"
   },
   {
     "root": "RZZBŘ",
     "refers": "Denys–Drash syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZBŘ",
     "refers": "De Grouchy syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZBW",
     "refers": "Down Syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZBW",
-    "refers": "Di George's syndrome",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Di George’s syndrome",
     "see": "ÇK"
   },
   {
     "root": "VZZBW",
     "refers": "Distal hereditary motor neuropathy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZBW",
     "refers": "Distal muscular dystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZBW",
     "refers": "Duchenne muscular dystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZBW",
     "refers": "Dravet syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZBW",
     "refers": "Edwards Syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZBW",
     "refers": "Ehlers–Danlos syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZBW",
     "refers": "Emery–Dreifuss syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZBY",
     "refers": "Epidermolysis bullosa",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZBY",
     "refers": "Erythropoietic protoporphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZBY",
     "refers": "Fanconi anemia (FA)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZBY",
     "refers": "Fabry disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZBY",
     "refers": "Factor V Leiden thrombophilia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZBY",
     "refers": "Fatal familial insomnia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZBY",
     "refers": "Familial adenomatous polyposis",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZBY",
     "refers": "Familial dysautonomia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZBY",
     "refers": "Familial Creutzfeld–Jakob Disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZDL",
     "refers": "Feingold syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZDL",
     "refers": "FG syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZDL",
     "refers": "Fragile X syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZDL",
-    "refers": "Friedreich's ataxia",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Friedreich’s ataxia",
     "see": "ÇK"
   },
   {
     "root": "NZZDL",
     "refers": "G6PD deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZDL",
     "refers": "Galactosemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZDL",
     "refers": "Gaucher disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZDL",
     "refers": "Gerstmann–Sträussler–Scheinker syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZDL",
     "refers": "Gillespie syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZDR",
     "refers": "Glutaric aciduria, type I and type 2",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZDR",
     "refers": "GRACILE syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZDR",
     "refers": "Griscelli syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZDR",
     "refers": "Hailey–Hailey disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZDR",
     "refers": "Harlequin type ichthyosis",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZDR",
     "refers": "Hemochromatosis, hereditary",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZDR",
     "refers": "Hemophilia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZDR",
     "refers": "Hepatoerythropoietic porphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZDR",
     "refers": "Hereditary coproporphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZDŘ",
     "refers": "Hereditary hemorrhagic telangiectasia (Osler–Weber–Rendu syndrome)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZDŘ",
     "refers": "Hereditary inclusion body myopathy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZDŘ",
     "refers": "Hereditary multiple exostoses",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZDŘ",
     "refers": "Hereditary spastic paraplegia (infantile-onset ascending hereditary spastic paralysis)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZDŘ",
     "refers": "Hermansky–Pudlak syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZDŘ",
     "refers": "Hereditary neuropathy with liability to pressure palsies (HNPP)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZDŘ",
     "refers": "Heterotaxy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZDŘ",
     "refers": "Homocystinuria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZDŘ",
-    "refers": "Huntington's disease",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Huntington’s disease",
     "see": "ÇK"
   },
   {
     "root": "BZZDW",
     "refers": "Hunter syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZDW",
     "refers": "Hurler syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZDW",
     "refers": "Hutchinson–Gilford progeria syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZDW",
     "refers": "Hyperlysinemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZDW",
     "refers": "Hyperoxaluria, primary",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZDW",
     "refers": "Hyperphenylalaninemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZDW",
     "refers": "Hypoalphalipoproteinemia (Tangier disease)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZDW",
     "refers": "Hypochondrogenesis",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZDW",
     "refers": "Hypochondroplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZDY",
     "refers": "Immunodeficiency–centromeric instability–facial anomalies syndrome (ICF syndrome)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZDY",
     "refers": "Incontinentia pigmenti",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZDY",
     "refers": "Ischiopatellar dysplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZDY",
     "refers": "Isodicentric 15",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZDY",
     "refers": "Jackson–Weiss syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZDY",
     "refers": "Joubert syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZDY",
     "refers": "Juvenile primary lateral sclerosis (JPLS)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZDY",
     "refers": "Keloid disorder",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZDY",
     "refers": "Kniest dysplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZFL",
     "refers": "Kosaki overgrowth syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZFL",
     "refers": "Krabbe disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZFL",
     "refers": "Kufor–Rakeb syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZFL",
     "refers": "LCAT deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZFL",
     "refers": "Lesch–Nyhan syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZFL",
     "refers": "Li–Fraumeni syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZFL",
     "refers": "Limb-Girdle Muscular Dystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZFL",
     "refers": "Lynch syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZFL",
     "refers": "lipoprotein lipase deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZFR",
     "refers": "Malignant hyperthermia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZFR",
     "refers": "Maple syrup urine disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZFR",
     "refers": "Marfan syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZFR",
     "refers": "Maroteaux–Lamy syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZFR",
     "refers": "McCune–Albright syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZFR",
     "refers": "McLeod syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZFR",
     "refers": "MEDNIK syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZFR",
     "refers": "Mediterranean fever, familial",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZFR",
     "refers": "Menkes disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZFŘ",
     "refers": "Metachromatic leukodystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZFŘ",
     "refers": "Methemoglobinemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZFŘ",
     "refers": "Methylmalonic acidemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZFŘ",
     "refers": "Micro syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZFŘ",
     "refers": "Microcephaly",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZFŘ",
     "refers": "Morquio syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZFŘ",
     "refers": "Mowat–Wilson syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZFŘ",
     "refers": "Muenke syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZFŘ",
-    "refers": "Multiple endocrine neoplasia type 1 (Wermer's syndrome)",
-    "notes": "They may be used with the ADI affix.",
+    "refers": "Multiple endocrine neoplasia type 1 (Wermer’s syndrome)",
     "see": "ÇK"
   },
   {
     "root": "BZZFW",
     "refers": "Multiple endocrine neoplasia type 2",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZFW",
     "refers": "Muscular dystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZFW",
     "refers": "Muscular dystrophy, Duchenne and Becker type",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZFW",
     "refers": "Myostatin-related muscle hypertrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZFW",
     "refers": "myotonic dystrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZFW",
     "refers": "Natowicz syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZFW",
     "refers": "Neurofibromatosis type I",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZFW",
     "refers": "Neurofibromatosis type II",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZFW",
     "refers": "Niemann–Pick disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZFY",
     "refers": "Nonketotic hyperglycinemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZFY",
     "refers": "Nonsyndromic deafness",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZFY",
     "refers": "Noonan syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZFY",
     "refers": "Norman–Roberts syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZFY",
     "refers": "Ogden syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZFY",
     "refers": "Omenn syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZFY",
     "refers": "Osteogenesis imperfecta",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZFY",
     "refers": "Pantothenate kinase-associated neurodegeneration",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZFY",
     "refers": "Patau syndrome (Trisomy 13)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZVL",
     "refers": "PCC deficiency (propionic acidemia)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZVL",
     "refers": "Porphyria cutanea tarda (PCT)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZVL",
     "refers": "Pendred syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZVL",
     "refers": "Peutz–Jeghers syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZVL",
     "refers": "Pfeiffer syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZVL",
     "refers": "Phenylketonuria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZVL",
     "refers": "Pipecolic acidemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZVL",
     "refers": "Pitt–Hopkins syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZVL",
     "refers": "Polycystic kidney disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZVR",
     "refers": "Polycystic ovary syndrome (PCOS)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZVR",
     "refers": "Porphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZVR",
     "refers": "Prader–Willi syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZVR",
     "refers": "Primary ciliary dyskinesia (PCD)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZVR",
     "refers": "Primary pulmonary hypertension",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZVR",
     "refers": "Protein C deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZVR",
     "refers": "Protein S deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZVR",
     "refers": "Pseudo-Gaucher disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZVR",
     "refers": "Pseudoxanthoma elasticum",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZVŘ",
     "refers": "Retinitis pigmentosa",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZVŘ",
     "refers": "Rett syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZVŘ",
     "refers": "Roberts syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZVŘ",
     "refers": "Rubinstein–Taybi syndrome (RSTS)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZVŘ",
     "refers": "Sandhoff disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZVŘ",
     "refers": "Sanfilippo syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZVŘ",
     "refers": "Schwartz–Jampel syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZVŘ",
     "refers": "Sjogren-Larsson syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZVŘ",
     "refers": "Spondyloepiphyseal dysplasia congenita (SED)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZVW",
     "refers": "Shprintzen–Goldberg syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZVW",
     "refers": "Sickle cell anemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZVW",
     "refers": "Siderius X-linked mental retardation syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZVW",
     "refers": "Sideroblastic anemia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZVW",
     "refers": "Sly syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZVW",
     "refers": "Smith–Lemli–Opitz syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZVW",
     "refers": "Smith–Magenis syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZVW",
     "refers": "Snyder–Robinson syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZVW",
     "refers": "Spinal muscular atrophy",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZVY",
     "refers": "Spinocerebellar ataxia (types 1–29)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZVY",
     "refers": "SSB syndrome (SADDAN)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZVY",
     "refers": "Stargardt disease (macular degeneration)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZVY",
     "refers": "Stickler syndrome (multiple forms)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZVY",
     "refers": "Strudwick syndrome (spondyloepimetaphyseal dysplasia, Strudwick type)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZVY",
     "refers": "Tay–Sachs disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZVY",
     "refers": "Tetrahydrobiopterin deficiency",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZVY",
     "refers": "Thanatophoric dysplasia",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZVY",
     "refers": "Treacher Collins syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZMW",
     "refers": "Tuberous sclerosis complex (TSC)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZMW",
     "refers": "Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZMW",
     "refers": "Turner syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZMW",
     "refers": "Usher syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZMW",
     "refers": "Variegate porphyria",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZMW",
     "refers": "von Hippel–Lindau disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZMW",
     "refers": "von Willebrand disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZMW",
     "refers": "Waardenburg syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZMW",
     "refers": "Weissenbacher–Zweymüller syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZMY",
     "refers": "Williams syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZMY",
     "refers": "Wilson disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZMY",
     "refers": "Woodhouse–Sakati syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZMY",
     "refers": "Wolf–Hirschhorn syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZMY",
     "refers": "Xeroderma pigmentosum",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZMY",
     "refers": "X-linked intellectual disability and macroorchidism (fragile X syndrome)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "LZZMY",
     "refers": "X-linked spinal-bulbar muscle atrophy (spinal and bulbar muscular atrophy)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "RZZMY",
     "refers": "Xp11.2 duplication syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŘZZMY",
     "refers": "X-linked severe combined immunodeficiency (X-SCID)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "BZZNW",
     "refers": "X-linked sideroblastic anemia (XLSA)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "GZZNW",
     "refers": "47,XXX (triple X syndrome)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "VZZNW",
     "refers": "XXXX syndrome (48, XXXX)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MZZNW",
     "refers": "XXXXX syndrome (49, XXXXX)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "NZZNW",
     "refers": "XYY syndrome (47,XYY)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "ŇZZNW",
     "refers": "Zellweger syndrome",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   }
 ]

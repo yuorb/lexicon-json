@@ -4,7 +4,7 @@
     "refers": "ILLNESS / SICKNESS / DISEASE / MALADY / AILMENT / SYMPTOM",
     "stems": [
       {
-        "BSC": "(to be) a state of physical or mental illness/sickness malady; to be physically or mentally ill/sick, to suffer an illness/disease/ailment/sickness/malady",
+        "BSC": "(to be) a state of physical or mental illness/sickness/malady; to be physically or mentally ill/sick, to suffer an illness/disease/ailment/sickness/malady",
         "CTE": "(to be) a disease/illness/ailment/malady",
         "CSV": "(to be) the state of physically suffering from a disease/illness/ailment/malady; to suffer therefrom",
         "OBJ": "(to be) a living being infected/suffering from an infectious illness/disease; entity/party that is sick"
@@ -21,7 +21,8 @@
         "CSV": "(to be) a state of having to deal/struggle with or adapt to a physical or mental impairment due to an illness/disease/ailment/sickness/malady",
         "OBJ": "(to be) a living being experiencing/suffering from a physical or mental incapacity or impairment or weakness or decrepitude due to an illness/disease/ailment/sickness/malady"
       }
-    ]
+    ],
+    "notes": "This root and its derivations can be combined with the ADI affix."
   },
   {
     "root": "KÇK",
@@ -29,7 +30,7 @@
     "stems": [
       {
         "BSC": "(to be) a state of living with a static/permanent physical or mental disability (i.e., not disease-related, e.g., missing a limb, paralysis due to a war injury, blindness due to an accident, etc.)",
-        "CTE": "(to be) a state of physical disability (i.e., not having all of one's potential abilities)",
+        "CTE": "(to be) a state of physical disability (i.e., not having all of one’s potential abilities)",
         "CSV": "(to be) a state of suffering/enduring/dealing with the effect(s) of a disability",
         "OBJ": "(to be) the disability itself"
       },
@@ -40,85 +41,71 @@
   {
     "root": "MŠK",
     "refers": "infectious (i.e., microbial) illness/disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKW",
     "refers": "disease/malady caused by exposure to adverse environmental element(s)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKY",
     "refers": "disease/malady caused by exposure to toxic chemical substance/poison",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKL",
     "refers": "disease/malady caused by adverse personal habits (e.g., smoking, diet, sloth, etc.)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKR",
     "refers": "metabolic disorder/malady",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKŘ",
     "refers": "neoplastic disorder/malady (i.e., cancer)",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKF",
     "refers": "genetic disorder/malady",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKŢ",
     "refers": "idiopathic disorder/malady",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKÇ",
     "refers": "autoimmune disorder",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKV",
     "refers": "malady caused by complications from an injury or injuries",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKM",
     "refers": "iatrogenic or nosocomial disorder/malady caused by medical/medicinal/surgical treatment or hospitalization",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKN",
     "refers": "prion-based disease",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKH",
     "refers": "congenital defect",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {
     "root": "MŠKHW",
     "refers": "disease/malady/disorder of unknown etiology, unrecognizable/unclassifiable disease/malady/disorder",
-    "notes": "They may be used with the ADI affix.",
     "see": "ÇK"
   },
   {

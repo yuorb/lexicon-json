@@ -40,7 +40,7 @@
   },
   {
     "root": "STR",
-    "refers": "DURATION / TAKING UP A SPAN OF TIME / SPENDING ONE's TIME",
+    "refers": "DURATION / TAKING UP A SPAN OF TIME / SPENDING ONE’s TIME",
     "stems": [
       {
         "BSC": "(to be) a state/act of being/lasting/enduring making something last a certain amount of time; to be a certain amount of time in duration, to last for a certain amount of time",
@@ -55,10 +55,10 @@
         "OBJ": "(to be) the actual amount/length of time something takes/requires, a required duration/span of time"
       },
       {
-        "BSC": "(to be) a state/act/process of spending a certain amount/span of (one's) time doing something; to spend a certain amount/span of time doing something ",
-        "CTE": "(to be) the state of spending a certain amount/span of (one's) time ",
-        "CSV": "(to be) a physical act of spending a certain amount/span of (one's) time; to go about an activity or activities which constitute a certain expenditure of (one's) time",
-        "OBJ": "(to be) the actual amount/length of time one spends doing something, the amount/span of one's time expenditure"
+        "BSC": "(to be) a state/act/process of spending a certain amount/span of (one’s) time doing something; to spend a certain amount/span of time doing something ",
+        "CTE": "(to be) the state of spending a certain amount/span of (one’s) time ",
+        "CSV": "(to be) a physical act of spending a certain amount/span of (one’s) time; to go about an activity or activities which constitute a certain expenditure of (one’s) time",
+        "OBJ": "(to be) the actual amount/length of time one spends doing something, the amount/span of one’s time expenditure"
       }
     ]
   },
@@ -240,7 +240,7 @@
         "BSC": "(to be/manifest a) degree of speed/velocity [ = ratio of distance over time]",
         "CTE": "(to be) something with a degree of speed/velocity",
         "CSV": "(to be) a degree of speed/velocity",
-        "OBJ": "(to be) an entity/party impacted/affected by one's degree of speed/velocity"
+        "OBJ": "(to be) an entity/party impacted/affected by one’s degree of speed/velocity"
       },
       "(to be/manifest a) degree of acceleration (i.e., increasing rate of speed/velocity)",
       "(to be/manifest a) degree of deceleration (i.e., decreasing rate of speed/velocity)"

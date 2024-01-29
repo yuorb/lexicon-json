@@ -18,7 +18,7 @@
         "refers": "PREDATION ↔ PREY",
         "stems": [
             {
-                "BSC": "(to be) a state/act of [attempted] predation upon a prey and the prey's attempt to flee or defend itself",
+                "BSC": "(to be) a state/act of [attempted] predation upon a prey and the prey’s attempt to flee or defend itself",
                 "CTE": "(to be) a state of a predation (i.e., the “nature” of the predator/prey relationship)",
                 "CSV": "(to be) the physical act of predation by a predator and defensive act of its (potential) prey",
                 "OBJ": "(to be) a party to a predator~prey relationship"
@@ -33,7 +33,7 @@
                 "BSC": "(to be) a state/act of being stalked or preyed upon; to be stalked or preyed upon; [CPT = to fall victim as prey to a predator]",
                 "CTE": "(to be) a state of being prey",
                 "CSV": "(to be) the physical act of fleeing or defending oneself from a predator",
-                "OBJ": "(to be) a predator's prey"
+                "OBJ": "(to be) a predator’s prey"
             }
         ],
         "see": "LÇL"
