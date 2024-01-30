@@ -269,15 +269,15 @@
         "cs": "mt",
         "degrees": [
             null,
-            "where X was previously less M (or M ’d less) than Y",
-            "where X was previously more M (or M ’d more) than Y",
-            "where X is still less M (or M ’s less) than Y",
-            "where X is still more M (or M ’s more) than Y",
-            "where X is now less M (or M ’s less) than Y",
-            "where X is now more M (or M ’s more) than Y",
-            "where X was previously as M (or M ’d as much) as Y",
-            "where X ’s previous state of M-ness (or level of M-ing) relative to Y is unknown",
-            "where X ’s previous state of M-ness (or level of M-ing) relative to Y is inapplicable or irrelevant"
+            "where X was previously less M (or M’d less) than Y",
+            "where X was previously more M (or M’d more) than Y",
+            "where X is still less M (or M’s less) than Y",
+            "where X is still more M (or M’s more) than Y",
+            "where X is now less M (or M’s less) than Y",
+            "where X is now more M (or M’s more) than Y",
+            "where X was previously as M (or M’d as much) as Y",
+            "where X’s previous state of M-ness (or level of M-ing) relative to Y is unknown",
+            "where X’s previous state of M-ness (or level of M-ing) relative to Y is inapplicable or irrelevant"
         ],
         "notes": "(Applied to the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case.)"
     },
@@ -440,7 +440,7 @@
             "(XPD) Expenditive (formerly CSM)",
             "(LIM) Limitative ‘do (just) in time’",
             "(EPD) Expeditive",
-            "(PTC) Protractive ‘take one's time’",
+            "(PTC) Protractive ‘take one’s time’",
             "(PPR) Preparatory ‘do in advance’"
         ]
     },

@@ -3,48 +3,20 @@
     "root": "NXL",
     "refers": "FROG / TOAD",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Neobatrachians [other than Bufonids] and Mesobatrachians; numerous genera) frog**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Neobatrachians [other than Bufonids] and Mesobatrachians; numerous genera) frog** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Neobatrachians [other than Bufonids] and Mesobatrachians; numerous genera) frog**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Neobatrachians [other than Bufonids] and Mesobatrachians; numerous genera) frog**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Bufonids; numerous genera) toad**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Bufonids; numerous genera) toad** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Bufonids; numerous genera) toad**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Bufonids; numerous genera) toad**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Archaeobatrachians; numerous genera) small primitive frog/toad**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Archaeobatrachians; numerous genera) small primitive frog/toad** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Archaeobatrachians; numerous genera) small primitive frog/toad**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Archaeobatrachians; numerous genera) small primitive frog/toad**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Neobatrachians [other than Bufonids] and Mesobatrachians; numerous genera) frog",
+      "(Bufonids; numerous genera) toad",
+      "(Archaeobatrachians; numerous genera) small primitive frog/toad"
+    ],
+    "see": "RR"
   },
   {
     "root": "NXR",
     "refers": "SALAMANDER / NEWT / SIREN",
     "stems": [
-      {
-        "BSC": "(to be) an animal identified as **(Salamandrines, Cryptobranchids and Hynobiids; numerous genera) [mole, lungless, torrent, giant, Asiatic] salamander, mudpuppy/olm**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Salamandrines, Cryptobranchids and Hynobiids; numerous genera) [mole, lungless, torrent, giant, Asiatic] salamander, mudpuppy/olm** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Salamandrines, Cryptobranchids and Hynobiids; numerous genera) [mole, lungless, torrent, giant, Asiatic] salamander, mudpuppy/olm**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Salamandrines, Cryptobranchids and Hynobiids; numerous genera) [mole, lungless, torrent, giant, Asiatic] salamander, mudpuppy/olm**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(Pleurodelines; numerous genera) newt**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(Pleurodelines; numerous genera) newt** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(Pleurodelines; numerous genera) newt**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(Pleurodelines; numerous genera) newt**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      },
-      {
-        "BSC": "(to be) an animal identified as **(genera Siren, Pseudobranchus) siren, dwarf siren**, as a holistic entity, including its physical/corporeal body and its and mental identity and living essence; to live/be alive (as an animal of such kind)",
-        "CTE": "(to be) that which gives a particular animal identified as **(genera Siren, Pseudobranchus) siren, dwarf siren** its individual identity; the living essence or mental identity of an animal of such kind",
-        "CSV": "(to be) the physical body of an animal identified as **(genera Siren, Pseudobranchus) siren, dwarf siren**; the corporeal aspect of an animal of such kind",
-        "OBJ": "(to be) an activity engaged in by an animal identified as **(genera Siren, Pseudobranchus) siren, dwarf siren**; what an animal of such kind is doing; to act (as a particular animal species of such kind does)"
-      }
-    ]
+      "(Salamandrines, Cryptobranchids and Hynobiids; numerous genera) [mole, lungless, torrent, giant, Asiatic] salamander, mudpuppy/olm",
+      "(Pleurodelines; numerous genera) newt",
+      "(genera *Siren*, *Pseudobranchus*) siren, dwarf siren"
+    ],
+    "see": "RR"
   }
 ]

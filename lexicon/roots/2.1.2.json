@@ -226,7 +226,7 @@
     "stems": [
       "ball-peen hammer",
       "half-hatchet hammer",
-      "specialized hammer (e.g., body mechanic's hammer, drywall hammer, tack hammer, etc.))"
+      "specialized hammer (e.g., body mechanic’s hammer, drywall hammer, tack hammer, etc.))"
     ],
     "see": "ČV"
   },
@@ -235,7 +235,7 @@
     "stems": [
       "hatchet",
       "axe",
-      "specialized axe (e.g., fireman's axe, executioner's axe, double bit axe, etc.)"
+      "specialized axe (e.g., fireman’s axe, executioner’s axe, double bit axe, etc.)"
     ],
     "see": "ČV"
   },
@@ -253,7 +253,7 @@
     "stems": [
       "sewing awl",
       "stitching awl",
-      "other specialty awl (e.g., saddler's, sailmaker's, scratching, closing, etc.)"
+      "other specialty awl (e.g., saddler’s, sailmaker’s, scratching, closing, etc.)"
     ],
     "see": "ČV"
   },
@@ -360,7 +360,7 @@
     "root": "GŽK",
     "stems": [
       "crowbar / ripping bar",
-      "cat's paw",
+      "cat’s paw",
       "flat bar"
     ],
     "see": "ČV"
@@ -369,7 +369,7 @@
     "root": "ŽBV",
     "stems": [
       "hand drill",
-      "carpenter's brace",
+      "carpenter’s brace",
       "power drill / motorized drill"
     ],
     "see": "ČV"
@@ -505,7 +505,7 @@
     "stems": [
       "measuring ruler",
       "measuring tape",
-      "tailor's measuring tape"
+      "tailor’s measuring tape"
     ],
     "see": "ČV"
   },
@@ -663,7 +663,7 @@
       "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to observe/learn/understand what it does or how it works/functions or whether it improves efficiency/productivity",
       "(to be) an act/process of trying something out (e.g., a tool, a device, a vehicle, a machine, etc.) to see if one can successfully operate it, work with it, or learn to use it skillfully"
     ],
-    "notes": "For trying on an article of clothing or other wearable implement (e.g., a spacesuit), see the root **-FF-** instead. "
+    "notes": "For trying on an article of clothing or other wearable implement (e.g., a spacesuit), see the root -**FF**- instead. "
   },
   {
     "root": "SST",
@@ -715,7 +715,7 @@
       "keyboard, keypad or other finger-manipulated alphanumeric interface to a computing device",
       "mouse, pen, or other non-alphanumeric interface to a computing device"
     ],
-    "notes": "For computer monitor/screen, concatenate Stem 1 of this root with Stem 3 of **-ŢLW-**.",
+    "notes": "For computer monitor/screen, concatenate Stem 1 of this root with Stem 3 of -**ŢLW**-.",
     "see": "LPĻ"
   },
   {

@@ -81,7 +81,7 @@
             "avoiding X(-ing) at all costs / run away from X(-ing) / terrified of X(-ing)",
             "averse to X(-ing); fear X(-ing) / fear of X(-ing) / afraid of X(-ing) / afraid to X",
             "shirk involvement in X(-ing); not be/get involved in",
-            "to X for appearance' sake only; to X solely for show",
+            "to X for appearance’ sake only; to X solely for show",
             "lackluster interest/involvement in X(-ing)",
             "marginal interest/involvement in X(-ing)",
             "limited/partial involvement in X(-ing)/ like X(-ing) / interested in X(-ing)",
@@ -367,13 +367,13 @@
         "degrees": [
             null,
             "of one’s previous generation ( i.e., “once removed (upward)”)",
-            "of two generations previous (i.e., “grand-“, “twice removed (upward)”)",
-            "of three generations previous (i.e., “great grand-“, “three times removed (upward)”)",
+            "of two generations previous (i.e., “grand-”, “twice removed (upward)”)",
+            "of three generations previous (i.e., “great grand-”, “three times removed (upward)”)",
             "foster relationship",
             "common law relationship",
-            "“god-“ relative or other pseudo-familial relationship (i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent)",
-            "of three generations later (i.e., “great grand-“, “three times removed (downward)”)",
-            "of two generations later (i.e., “grand-“, “twice removed (downward)”)",
+            "“god-” relative or other pseudo-familial relationship (i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent)",
+            "of three generations later (i.e., “great grand-”, “three times removed (downward)”)",
+            "of two generations later (i.e., “grand-”, “twice removed (downward)”)",
             "of one’s subsequent generation ( i.e., “once removed (downward)”)"
         ]
     },
@@ -1156,7 +1156,7 @@
             "octa-",
             "nona-"
         ],
-        "notes": "Molecular Compounds — inorganic compounds between nonmetals\n\n* A single atom (equivalent to English “mono-“) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
+        "notes": "Molecular Compounds — inorganic compounds between nonmetals\n\n* A single atom (equivalent to English “mono-”) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
     },
     {
         "name": "PIA",
@@ -1295,7 +1295,7 @@
             "hydroxil, hydroxy-, -ol",
             "carbonyl, oxo-, -oyl-, -one",
             "aldehyde, -formyl-, -al",
-            "haloformyl, carbono … oyl-, -oyl halide",
+            "haloformyl, carbono- … -oyl-, -oyl halide",
             "carbonate ester, alkoxycarbonyloxy-, alkyl carbonate",
             "carboxylate, carboxylato-, -oate",
             "carboxyl, carboxy-, -oic acid",
@@ -1383,11 +1383,11 @@
         "degrees": [
             null,
             "phosphate, phosphonooxy-, O-phospono-, … phosphate",
-            "phosphodiester, hydroxyphosphoryloxy-, di … hydrogen phosphate",
+            "phosphodiester, hydroxyphosphoryloxy-, di- … -hydrogen phosphate",
             "boronic acid, borono-, … boronic acid",
-            "boronate, O-alkylboronyl-, … boronic acid di … ester",
-            "borinic acid, hydroxyborino-, di … borinic acid",
-            "borinate, O-alkoxydialkylboronyl-, di … borinic acid … ester",
+            "boronate, O-alkylboronyl-, … boronic acid di- … ester",
+            "borinic acid, hydroxyborino-, di- … borinic acid",
+            "borinate, O-alkoxydialkylboronyl-, di- … borinic acid … ester",
             "alkyllithium, -lithium",
             "alkylmagnesium halide, -magnesium halide",
             "alkylaluminium, -aluminium / -aluminum"
@@ -1401,10 +1401,10 @@
         "degrees": [
             null,
             "sulfhydryl, sulfanyl-, -thiol",
-            "sulfide, -sulfanyl-, di … sulfide",
-            "disulfide, -disulfanyl-, di … disulfide",
-            "sulfoxide, -sulfinyl-, di … sulfoxide",
-            "sulfone, -sulfonyl-, di … sulfone",
+            "sulfide, -sulfanyl-, di- … sulfide",
+            "disulfide, -disulfanyl-, d-i … disulfide",
+            "sulfoxide, -sulfinyl-, di- … sulfoxide",
+            "sulfone, -sulfonyl-, di- … sulfone",
             "sulfinic acid, sulfino-, -sulfinic acid",
             "sulfonic acid, sulfo-, -sulfonic acid",
             "sulfonate ester, alkoxysulfonyl-, -sulfonate",
