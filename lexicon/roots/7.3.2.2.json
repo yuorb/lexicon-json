@@ -12315,7 +12315,7 @@
     "stems": [
       "(genus *Zygophyllum*) Syrian bean-caper",
       "(genus *Fagonia*) fagonbush",
-      "(genus *Roepera*) coast twin-leaf & (genus *Tetraena*) simple-leaved bean caper / hureim"
+      "(genus *Roepera*) coast twin-leaf"
     ],
     "see": "FXW"
   },
@@ -12333,8 +12333,8 @@
     "root": "BḐBL",
     "refers": "ZYGOPHYLLACEAE III",
     "stems": [
-      "(genus *Guaiacum*) lignum-vitae",
-      "(genus *Porlieria*) Texas gualacum / Texas lignum-vitae / soapbush / huayacán",
+      "(genus *Guaiacum*) lignum-vitae / Texas gualacum / Texas lignum-vitae / soapbush / huayacán",
+      "(genus *Porlieria*) guayacán, huayacán, palo santo",
       "(genus *Bulnesia*) maracaibo lignum-vitae, verawood, Argentine lignum-vitae / Paraguay lignum-vitae"
     ],
     "see": "FXW"
@@ -12348,6 +12348,17 @@
       "(Krameriaceae; genus *Krameria*) rhatany / rattany, krameria, abrojo colorado"
     ],
     "see": "FXW"
+  },
+  {
+    "root": "BḐBŘ",
+    "refers": "Supplement to ‘ZYGOPHYLLACEAE’",
+    "stems": [
+      "(genus *Tetraena*) simple-leaved bean caper / hureim",
+      "(genera *Augea*, *Melocarpum*, *Miltianthus*; numerous species)",
+      "(genera *Kelleronia*, *Neoluederitzia*, *Sisyndite*, *Tribulopis*; numerous species)"
+    ],
+    "see": "FXW",
+    "notes": "S1 placed here from the redundant stem 3 of the root -**BḐBW**-"
   },
   {
     "root": "CFW",
