@@ -4,6 +4,7 @@
         "description": "Desiderative modalities",
         "gradient_type": "0",
         "cs": "lz",
+        "associated_root": false,
         "degrees": [
             null,
             "want to/that; desire to/that",
@@ -25,6 +26,7 @@
         "description": "Capacitative modalities",
         "gradient_type": "0",
         "cs": "ž",
+        "associated_root": false,
         "degrees": [
             null,
             "can/be able = have phys. ability/capacity to",
@@ -43,6 +45,7 @@
         "description": "Deliberative modalities",
         "gradient_type": "0",
         "cs": "čp",
+        "associated_root": false,
         "degrees": [
             null,
             "be devoted/committed to",
@@ -61,6 +64,7 @@
         "description": "Anticipatory modalities",
         "gradient_type": "0",
         "cs": "fs",
+        "associated_root": false,
         "degrees": [
             null,
             "tend to / be apt/prone to / be characterized by X-ness",
@@ -79,6 +83,7 @@
         "description": "Obligative/necessitative",
         "gradient_type": "0",
         "cs": "lž",
+        "associated_root": false,
         "degrees": [
             null,
             "must / have to",
@@ -97,6 +102,7 @@
         "description": "Aversive (“short-cut” negations of other modalities)",
         "gradient_type": "0",
         "cs": "vč",
+        "associated_root": false,
         "degrees": [
             null,
             "forget to",

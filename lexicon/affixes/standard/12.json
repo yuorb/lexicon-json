@@ -4,6 +4,7 @@
         "description": "Meta-level representation/coordination/analysis",
         "gradient_type": "0",
         "cs": "fš",
+        "associated_root": false,
         "degrees": [
             null,
             "formal theory explaining/coordinating X",
@@ -22,6 +23,7 @@
         "description": "Depiction/Representation/Record",
         "gradient_type": "0",
         "cs": "lš",
+        "associated_root": false,
         "degrees": [
             null,
             "symbol/emblem/logo representing/standing for X",
@@ -40,6 +42,7 @@
         "description": "Metaphor / Metonym / Allusion",
         "gradient_type": "C",
         "cs": "žř",
+        "associated_root": false,
         "degrees": [
             null,
             "X is functioning metaphorically",
@@ -58,6 +61,7 @@
         "description": "Metonymic Categories",
         "gradient_type": "0",
         "cs": "ẓd",
+        "associated_root": false,
         "degrees": [
             null,
             "part for whole",
@@ -72,10 +76,11 @@
         ]
     },
     {
-        "name": "CNM*",
+        "name": "CNM",
         "description": "Type of Container/Packaging",
         "gradient_type": "0",
         "cs": "sk",
+        "associated_root": true,
         "degrees": [
             null,
             "generic container(-ful) of X",
@@ -94,6 +99,7 @@
         "description": "Manufactured/Specialized Containers/Dispensors",
         "gradient_type": "0",
         "cs": "št",
+        "associated_root": false,
         "degrees": [
             null,
             "basket of X",
@@ -112,6 +118,7 @@
         "description": "Means for Being or Doing",
         "gradient_type": "0",
         "cs": "ls",
+        "associated_root": false,
         "degrees": [
             null,
             "holder/stabilizer for being/doing X",
@@ -130,6 +137,7 @@
         "description": "Means of Transportation/Conveyance",
         "gradient_type": "0",
         "cs": "nž",
+        "associated_root": false,
         "degrees": [
             null,
             "holder/stabilizer for transporting/holding X",
@@ -148,6 +156,7 @@
         "description": "Featural Properties",
         "gradient_type": "0",
         "cs": "bz",
+        "associated_root": false,
         "degrees": [
             null,
             "functional manifestation/portion/piece of X",
@@ -166,6 +175,7 @@
         "description": "Place/Setting Where …",
         "gradient_type": "0",
         "cs": "ẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "place/setting where one learns to X",
@@ -184,6 +194,7 @@
         "description": "Building, Structure, or Meeting Place",
         "gradient_type": "0",
         "cs": "žč",
+        "associated_root": false,
         "degrees": [
             null,
             "building or commercial establishment for selling X",
@@ -202,6 +213,7 @@
         "description": "Basis for System of Knowledge, Belief or Practice",
         "gradient_type": "D1",
         "cs": "zv",
+        "associated_root": false,
         "degrees": [
             null,
             "formal religion / set of religious beliefs associated with/centered on X",
@@ -220,6 +232,7 @@
         "description": "Personal Association",
         "gradient_type": "0",
         "cs": "vẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "one whose job/profession/vocation involves or is associated with X",
@@ -238,6 +251,7 @@
         "description": "Medium Via/Through/Along Which",
         "gradient_type": "D1",
         "cs": "sb",
+        "associated_root": false,
         "degrees": [
             null,
             "via/along/across the surface of water or liquid",
@@ -256,6 +270,7 @@
         "description": "Infrastructural Association",
         "gradient_type": "0",
         "cs": "žd",
+        "associated_root": false,
         "degrees": [
             null,
             "library/archive created/built for, devoted to, or associated with X",
@@ -274,6 +289,7 @@
         "description": "Non-Solid Material States (liquid or malleable quasi-liquid)",
         "gradient_type": "0",
         "cs": "vs",
+        "associated_root": false,
         "degrees": [
             null,
             "X as liquid",
@@ -292,6 +308,7 @@
         "description": "Material States/Forms (solids)",
         "gradient_type": "0",
         "cs": "vš",
+        "associated_root": false,
         "degrees": [
             null,
             "X as glass(-like substance)",
@@ -310,6 +327,7 @@
         "description": "Additional Material States/Forms (malleable solid)",
         "gradient_type": "0",
         "cs": "šč",
+        "associated_root": false,
         "degrees": [
             null,
             "X as powder or dust-like substance",
@@ -324,10 +342,11 @@
         ]
     },
     {
-        "name": "ACS*",
+        "name": "ACS",
         "description": "Access Point",
         "gradient_type": "C",
         "cs": "př",
+        "associated_root": true,
         "degrees": [
             null,
             "path, course, passageway or way leading into or culminating in X",
@@ -346,6 +365,7 @@
         "description": "Transformation for Use",
         "gradient_type": "0",
         "cs": "zč",
+        "associated_root": false,
         "degrees": [
             null,
             "cured (transformed by natural chemical process)",
@@ -364,6 +384,7 @@
         "description": "Prerequisite",
         "gradient_type": "0",
         "cs": "jv",
+        "associated_root": false,
         "degrees": [
             null,
             "the ingredients (needed) for making/creating/crafting X",
@@ -382,6 +403,7 @@
         "description": "Derived Foodstuff/Beverage",
         "gradient_type": "0",
         "cs": "lks",
+        "associated_root": false,
         "degrees": [
             null,
             "non-sweet (dry) fermented alcoholic beverage made from X",
@@ -400,6 +422,7 @@
         "description": "Mealtimes",
         "gradient_type": "A1",
         "cs": "rkt",
+        "associated_root": false,
         "degrees": [
             null,
             "served/eaten as breakfast",
@@ -418,6 +441,7 @@
         "description": "Cooking Methods 1",
         "gradient_type": "0",
         "cs": "xč",
+        "associated_root": false,
         "degrees": [
             null,
             "sautéed; cook by sautéing X",
@@ -437,6 +461,7 @@
         "description": "Cooking Methods 2",
         "gradient_type": "0",
         "cs": "xc",
+        "associated_root": false,
         "degrees": [
             null,
             "steamed; cook by steaming X",
@@ -456,6 +481,7 @@
         "description": "Cooking Methods 3",
         "gradient_type": "0",
         "cs": "xẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "uncooked; raw; serve X raw/uncooked [+iërţ parcooked]",
@@ -475,6 +501,7 @@
         "description": "Potential Food/Medicinal/Material Resource",
         "gradient_type": "B",
         "cs": "çk",
+        "associated_root": false,
         "degrees": [
             null,
             "edible as food",
@@ -493,6 +520,7 @@
         "description": "Stage of Annual Plant Life-Cycle",
         "gradient_type": "D1",
         "cs": "kb",
+        "associated_root": false,
         "degrees": [
             null,
             "planted & waiting to sprout",
@@ -511,6 +539,7 @@
         "description": "Degree of Freshness or Spoilage",
         "gradient_type": "A1",
         "cs": "rsk",
+        "associated_root": false,
         "degrees": [
             null,
             "just-cut / just-made / just-out-of-the-oven",
@@ -529,6 +558,7 @@
         "description": "Temperature",
         "gradient_type": "0",
         "cs": "tf",
+        "associated_root": false,
         "degrees": [
             null,
             "deep-frozen",
@@ -547,6 +577,7 @@
         "description": "Undesirable Entailments",
         "gradient_type": "0",
         "cs": "žb",
+        "associated_root": false,
         "degrees": [
             null,
             "the limitation(s) entailed by X",
@@ -565,6 +596,7 @@
         "description": "Emulation",
         "gradient_type": "0",
         "cs": "ţc",
+        "associated_root": false,
         "degrees": [
             null,
             "what is inferred to be X; seeming X, apparent X, what must be X",
@@ -583,6 +615,7 @@
         "description": "Functional Role",
         "gradient_type": "0",
         "cs": "jp",
+        "associated_root": false,
         "degrees": [
             null,
             "X as toy",
@@ -601,6 +634,7 @@
         "description": "Subjective Role",
         "gradient_type": "0",
         "cs": "jt",
+        "associated_root": false,
         "degrees": [
             null,
             "X as cause/root/source of a situation/state/problem",
@@ -619,6 +653,7 @@
         "description": "Adverse Role",
         "gradient_type": "0",
         "cs": "jk",
+        "associated_root": false,
         "degrees": [
             null,
             "X as cause/root/source/be asis of a problem or adverse situation",
@@ -637,6 +672,7 @@
         "description": "Identity, Equivalence, and Convertibility",
         "gradient_type": "B",
         "cs": "çč",
+        "associated_root": false,
         "degrees": [
             null,
             "ontologically the same entity as X in terms of essence, sense of identity, behavior, personality, mind, etc.",

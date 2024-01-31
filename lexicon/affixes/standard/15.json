@@ -4,6 +4,7 @@
         "description": "Coordinative/Additive",
         "gradient_type": "C",
         "cs": "ň",
+        "associated_root": false,
         "degrees": [
             null,
             "… and (in a quasi-sequential series, with topic in common [as well as main verb if a subsequent main verb is missing]): Sam visited Clara and (then/subsequently visited) Jane every Sunday; Sam visited Clara and [Sam then/subsequently] danced with Jane every Sunday.",
@@ -22,6 +23,7 @@
         "description": "Inclusive “OR”",
         "gradient_type": "C",
         "cs": "ř",
+        "associated_root": false,
         "degrees": [
             null,
             "… and/or (quasi-sequentially, with topic in common [as well as main verb if a subsequent main verb is missing]):  Sam either visited Clara or ([subsequently] visited) Jane every Sunday or both; Sam visited Clara or [Sam (subsequently)] danced with Jane every Sunday or both.",
@@ -40,6 +42,7 @@
         "description": "Partially Exclusive “OR” [where there are 3 or more coordinative referents]",
         "gradient_type": "C",
         "cs": "mř",
+        "associated_root": false,
         "degrees": [
             null,
             "[same as COO/1 affix, but with partially exclusive “or”, where, among three or more referents, 2 or more of the referents may quasi-sequentially occur, but not all of them]",
@@ -58,6 +61,7 @@
         "description": "Exclusive “Or” and Contrastive Adverbials",
         "gradient_type": "0",
         "cs": "ps",
+        "associated_root": false,
         "degrees": [
             null,
             "“xor” (with topic in common as well as main verb if a subsequent main verb is missing): Sam either visited Clara or (subsequently visited) Jane every Sunday, but not both; Sam visited Clara or Sam (subsequently) danced with Jane every Sunday (but not both).",
@@ -76,6 +80,7 @@
         "description": "Adverbial Additives",
         "gradient_type": "C",
         "cs": "lř",
+        "associated_root": false,
         "degrees": [
             null,
             "X, too / also, X / additionally, X / … as well",
@@ -94,6 +99,7 @@
         "description": "Adverbial Contrastiveness",
         "gradient_type": "D1",
         "cs": "l",
+        "associated_root": false,
         "degrees": [
             null,
             "but, yet, still [ = nevertheless = despite the aforementioned]",
@@ -113,6 +119,7 @@
         "description": "Distributive Coordination",
         "gradient_type": "C",
         "cs": "jř",
+        "associated_root": false,
         "degrees": [
             null,
             "applying to each equally [unfairly]",

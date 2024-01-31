@@ -4,6 +4,7 @@
         "description": "Hand Position",
         "gradient_type": "0",
         "cs": "žp",
+        "associated_root": false,
         "degrees": [
             null,
             "with hand extended frontward (i.e., as when offering to shake hand)",
@@ -22,6 +23,7 @@
         "description": "Position Of One’s Arms 1",
         "gradient_type": "0",
         "cs": "žt",
+        "associated_root": false,
         "degrees": [
             null,
             "with both arms extended upward parallel to each other",
@@ -40,6 +42,7 @@
         "description": "Position Of One’s Arms 2",
         "gradient_type": "0",
         "cs": "žk",
+        "associated_root": false,
         "degrees": [
             null,
             "with one arm flexed (i.e., curled up at elbow joint)",
@@ -58,6 +61,7 @@
         "description": "Finger Positions 1",
         "gradient_type": "0",
         "cs": "ňc",
+        "associated_root": false,
         "degrees": [
             null,
             "with index finger extended/pointing outward",
@@ -76,6 +80,7 @@
         "description": "Finger Positions 2",
         "gradient_type": "0",
         "cs": "ňč",
+        "associated_root": false,
         "degrees": [
             null,
             "with thumb and pinkie finger extended",
@@ -94,6 +99,7 @@
         "description": "Position Of One’s Core Body (i.e., head and torso, not including limbs)",
         "gradient_type": "0",
         "cs": "ňẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "in supine position (i.e., lying prone, facing upward)",
@@ -112,6 +118,7 @@
         "description": "Position Of One’s Legs",
         "gradient_type": "0",
         "cs": "čd",
+        "associated_root": false,
         "degrees": [
             null,
             "with one leg held straight, the other bent",

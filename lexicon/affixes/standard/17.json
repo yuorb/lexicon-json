@@ -4,6 +4,7 @@
         "description": "Physical Features Based on Geography 1 for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "ẓč",
+        "associated_root": false,
         "degrees": [
             null,
             "having physical features characteristic of mainland Asian origin or environment",
@@ -23,6 +24,7 @@
         "description": "Physical Features Based on Geography 2 for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "ẓj",
+        "associated_root": false,
         "degrees": [
             null,
             "having physical features characteristic of Arctic origin or environment",
@@ -42,6 +44,7 @@
         "description": "Biogeographic Realm/Ecozone",
         "gradient_type": "0",
         "cs": "ẓg",
+        "associated_root": false,
         "degrees": [
             null,
             "inhabiting or originating in the Palearctic ecozone",
@@ -61,6 +64,7 @@
         "description": "Geographic or Environmental Niche for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "šb",
+        "associated_root": false,
         "degrees": [
             null,
             "inhabiting or associated with high mountains",
@@ -80,6 +84,7 @@
         "description": "Water-based Environmental Niche for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "šd",
+        "associated_root": false,
         "degrees": [
             null,
             "inhabiting or associated with islands",
@@ -99,6 +104,7 @@
         "description": "Ocean-based Environmental Niche for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "šg",
+        "associated_root": false,
         "degrees": [
             null,
             "inhabiting or associated with the intertidal zone",
@@ -118,6 +124,7 @@
         "description": "Environmental Niche for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "zv",
+        "associated_root": false,
         "degrees": [
             null,
             "active at twilight / crepuscular",
@@ -137,6 +144,7 @@
         "description": "Distinctive Bodily/Fur Markings for Species or Sub-Species Differentiation",
         "gradient_type": "0",
         "cs": "ţč",
+        "associated_root": false,
         "degrees": [
             null,
             "having rows of lighter-colored spots",
@@ -156,6 +164,7 @@
         "description": "Morphological Bodily Distinctions for Species or Sub-Species Differentiation 1",
         "gradient_type": "0",
         "cs": "vž",
+        "associated_root": false,
         "degrees": [
             null,
             "having a longer-than-average tail",
@@ -175,6 +184,7 @@
         "description": "Morphological Bodily Distinctions for Species or Sub-Species Differentiation 2",
         "gradient_type": "0",
         "cs": "ţj",
+        "associated_root": false,
         "degrees": [
             null,
             "having a shorter-than-average tail",
@@ -194,6 +204,7 @@
         "description": "Resemblances to Other Species",
         "gradient_type": "0",
         "cs": "cd",
+        "associated_root": false,
         "degrees": [
             null,
             "having behavioral traits similar to X",
@@ -213,6 +224,7 @@
         "description": "Symbiotic Relationship",
         "gradient_type": "B",
         "cs": "çň",
+        "associated_root": false,
         "degrees": [
             null,
             "in an obligate [i.e., required/mandatory/necessary] relationship with another party to mutual benefit, i.e., obligate mutualistic relationship",
@@ -232,6 +244,7 @@
         "description": "Taxonomic Classification Hierarchy (to be added to the Base Root forms for various groupings)",
         "gradient_type": "D1",
         "cs": "bv",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -278,6 +291,7 @@
         "description": "Hierarchical Sub- and Super-Rankings",
         "gradient_type": "D1",
         "cs": "dv",
+        "associated_root": false,
         "degrees": [
             null,
             "sub-sub- (two degree of ranking below)",
@@ -297,6 +311,7 @@
         "description": "Overall Presence/Participation Within an Environmental Niche or Biosphere",
         "gradient_type": "A1",
         "cs": "rç",
+        "associated_root": false,
         "degrees": [
             null,
             "dominant component/feature/element/life-form/factor",
@@ -316,6 +331,7 @@
         "description": "Paleozoic Era",
         "gradient_type": "D1",
         "cs": "xn",
+        "associated_root": false,
         "degrees": [
             null,
             "of/from/during the Paleozoic Era",
@@ -335,6 +351,7 @@
         "description": "Mesozoic Era",
         "gradient_type": "D1",
         "cs": "pn",
+        "associated_root": false,
         "degrees": [
             null,
             "of/from/during the Mesozoic Era",
@@ -354,6 +371,7 @@
         "description": "Cenozoic Era",
         "gradient_type": "D1",
         "cs": "gn",
+        "associated_root": false,
         "degrees": [
             null,
             "of/from/during the Cenozoic Era",

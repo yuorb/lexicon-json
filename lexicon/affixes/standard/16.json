@@ -4,6 +4,7 @@
         "description": "Negation and Negative Coordinatives/Connectives",
         "gradient_type": "D1",
         "cs": "r",
+        "associated_root": false,
         "degrees": [
             null,
             "emphatic relative negation contrary to expectation: on the contrary, … is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!",
@@ -22,6 +23,7 @@
         "description": "Dependent Circumstances (specifies the nature of the dependency signified by the redesigned DEPENDENT case)",
         "gradient_type": "0",
         "cs": "ck",
+        "associated_root": false,
         "degrees": [
             null,
             "The contigency occurs iff X is true",
@@ -41,6 +43,7 @@
         "description": "Degree of Affirmation",
         "gradient_type": "C",
         "cs": "čř",
+        "associated_root": false,
         "degrees": [
             null,
             "emphatic relative affirmation contrary to expectation: on the contrary … does (too) / is (too)",
@@ -59,6 +62,7 @@
         "description": "Switch Reference & Obviative Specification",
         "gradient_type": "0",
         "cs": "č",
+        "associated_root": false,
         "degrees": [
             null,
             "nearest preceding referent",
@@ -77,6 +81,7 @@
         "description": "Topic, Frame and Focus",
         "gradient_type": "D1",
         "cs": "n",
+        "associated_root": false,
         "degrees": [
             null,
             "[end of frame]",
@@ -95,6 +100,7 @@
         "description": "Capacity As Patient",
         "gradient_type": "A1",
         "cs": "rks",
+        "associated_root": false,
         "degrees": [
             null,
             "very easily X’d; very readily X’d [i.e., easy for another as Agent to perform/commit/initiate/establish an act/state of X upon one as Patient]",
@@ -113,6 +119,7 @@
         "description": "Status of Inferred Arguments",
         "gradient_type": "0",
         "cs": "lč",
+        "associated_root": false,
         "degrees": [
             null,
             "only explicitly stated arguments are implied, no unstated arguments should be inferred",
@@ -131,6 +138,7 @@
         "description": "Verifiability of Info & Trustworthiness of its Source",
         "gradient_type": "B",
         "cs": "ňç",
+        "associated_root": false,
         "degrees": [
             null,
             "source trustworthy, info verifiable",
@@ -149,6 +157,7 @@
         "description": "Unforeseen Implication Contrary to Expectation",
         "gradient_type": "0",
         "cs": "čt",
+        "associated_root": false,
         "degrees": [
             null,
             "this means/implies …",
@@ -167,6 +176,7 @@
         "description": "Effect of Statement",
         "gradient_type": "D1",
         "cs": "m",
+        "associated_root": false,
         "degrees": [
             null,
             "(potentially) beneficial to speaker",
@@ -185,6 +195,7 @@
         "description": "Appraisal of Outcome/Effect",
         "gradient_type": "D1",
         "cs": "ňt",
+        "associated_root": false,
         "degrees": [
             null,
             "… and that’s the way it HAS to be / … and it can’t be any other way",
@@ -203,6 +214,7 @@
         "description": "Alternate forms of Comparison Operators (Levels) *",
         "gradient_type": "A1",
         "cs": "řž",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -249,6 +261,7 @@
         "description": "Comparison Specifications (Used with Levels)",
         "gradient_type": "0",
         "cs": "lc",
+        "associated_root": false,
         "degrees": [
             null,
             "“more”/“less” = extent/amount/volume",
@@ -267,6 +280,7 @@
         "description": "Standards for Comparison for Use with Levels",
         "gradient_type": "D1",
         "cs": "mt",
+        "associated_root": false,
         "degrees": [
             null,
             "where X was previously less M (or M’d less) than Y",
@@ -286,6 +300,7 @@
         "description": "External Standard for Comparison for Use with Levels",
         "gradient_type": "D1",
         "cs": "çx",
+        "associated_root": false,
         "degrees": [
             null,
             "… although X (still) isn’t very M compared to some external standard or expectation of M-ness",
@@ -305,6 +320,7 @@
         "description": "From Viewpoint/Perspective of",
         "gradient_type": "D1",
         "cs": "lk",
+        "associated_root": false,
         "degrees": [
             null,
             "from viewpoint/perspective of speaker",
@@ -323,6 +339,7 @@
         "description": "Result / Outcome / Consequences",
         "gradient_type": "C",
         "cs": "zř",
+        "associated_root": false,
         "degrees": [
             null,
             "the result/impact/effect on the ERG/EFF Agent from(performing/doing) X",
@@ -341,6 +358,7 @@
         "description": "Sequential Participation",
         "gradient_type": "0",
         "cs": "ct",
+        "associated_root": false,
         "degrees": [
             null,
             "first one, then the other, and so on / alternating between each party / back and forth",
@@ -359,6 +377,7 @@
         "description": "Linguistic Hedges (1st group)",
         "gradient_type": "0",
         "cs": "sj",
+        "associated_root": false,
         "degrees": [
             null,
             "technically speaking … / context aside for a moment, …",
@@ -377,6 +396,7 @@
         "description": "Linguistic Hedges (2nd group)",
         "gradient_type": "0",
         "cs": "zj",
+        "associated_root": false,
         "degrees": [
             null,
             "in a manner of speaking, in a sense / in a way",
@@ -395,6 +415,7 @@
         "description": "Aspects I",
         "gradient_type": "0",
         "cs": "mc",
+        "associated_root": false,
         "degrees": [
             null,
             "(RTR) Retrospective",
@@ -413,6 +434,7 @@
         "description": "Aspects II",
         "gradient_type": "0",
         "cs": "mč",
+        "associated_root": false,
         "degrees": [
             null,
             "(RSM) Resumptive",
@@ -431,6 +453,7 @@
         "description": "Aspects III",
         "gradient_type": "0",
         "cs": "mẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "(PMP) Preemptive",
@@ -449,6 +472,7 @@
         "description": "Aspects IV",
         "gradient_type": "0",
         "cs": "mj",
+        "associated_root": false,
         "degrees": [
             null,
             "(DCL) Disclusive",
@@ -467,6 +491,7 @@
         "description": "Mood and Case-Scoping",
         "gradient_type": "D1",
         "cs": "bẓ",
+        "associated_root": false,
         "degrees": [
             "(CCV) Successive Case-Scope",
             "(SUB) Subjunctive Mood",
@@ -485,6 +510,7 @@
         "description": "Non-Default Context + Non-Default Perspective",
         "gradient_type": "B",
         "cs": "bç",
+        "associated_root": false,
         "degrees": [
             null,
             "(FNC/G)",
@@ -503,6 +529,7 @@
         "description": "Non-Default Context + Essence (+ AGGLOMERATIVE Perspective)",
         "gradient_type": "B",
         "cs": "gç",
+        "associated_root": false,
         "degrees": [
             null,
             "(FNC/NRM)",
@@ -521,6 +548,7 @@
         "description": "Sanction",
         "gradient_type": "0",
         "cs": "gj",
+        "associated_root": false,
         "degrees": [
             null,
             "(PPS) Propositional: statement is an ontological assertion based on ontologogical fact",
@@ -539,6 +567,7 @@
         "description": "Phase",
         "gradient_type": "0",
         "cs": "bž",
+        "associated_root": false,
         "degrees": [
             null,
             "(PCT) Punctual",
@@ -557,6 +586,7 @@
         "description": "Misc. Adverbial Phrases (formerly APT)",
         "gradient_type": "0",
         "cs": "sţ",
+        "associated_root": false,
         "degrees": [
             null,
             "yet, still",
@@ -575,6 +605,7 @@
         "description": "Valence",
         "gradient_type": "0",
         "cs": "ẓk",
+        "associated_root": false,
         "degrees": [
             null,
             "(MNO) Monoactive",
@@ -593,6 +624,7 @@
         "description": "Illocution + Validation",
         "gradient_type": "D1",
         "cs": "nļ",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -638,6 +670,7 @@
         "description": "Potential",
         "gradient_type": "D1",
         "cs": "sv",
+        "associated_root": false,
         "degrees": [
             null,
             "whatever X is / whatever X may be ",

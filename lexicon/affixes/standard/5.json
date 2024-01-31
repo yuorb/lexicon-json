@@ -4,6 +4,7 @@
         "description": "Degree of Age or Modernity",
         "gradient_type": "D1",
         "cs": "nţ",
+        "associated_root": false,
         "degrees": [
             null,
             "primordial / proto-",
@@ -22,6 +23,7 @@
         "description": "Stylistic thru Time",
         "gradient_type": "A1",
         "cs": "rč",
+        "associated_root": false,
         "degrees": [
             null,
             "archaic",
@@ -40,6 +42,7 @@
         "description": "Degree of Notoriety, Acceptance, Respect, Honor",
         "gradient_type": "D1",
         "cs": "nf",
+        "associated_root": false,
         "degrees": [
             null,
             "spurned, scorned, vilified, pariah-like/ostracized; in an alienating or self-ostracizing manner",
@@ -58,6 +61,7 @@
         "description": "Degree of Seniority",
         "gradient_type": "D1",
         "cs": "lv",
+        "associated_root": false,
         "degrees": [
             null,
             "candidate X; X being under consideration for acceptance/initiation",
@@ -76,6 +80,7 @@
         "description": "Degree of Size",
         "gradient_type": "D2",
         "cs": "x",
+        "associated_root": false,
         "degrees": [
             null,
             "too small",
@@ -94,6 +99,7 @@
         "description": "Dynamic Change of Size",
         "gradient_type": "B",
         "cs": "fç",
+        "associated_root": false,
         "degrees": [
             null,
             "smallest single manifestation of / particle of",
@@ -108,10 +114,11 @@
         ]
     },
     {
-        "name": "AFT*",
+        "name": "AFT",
         "description": "Degree of Affect",
         "gradient_type": "A2",
         "cs": "čh",
+        "associated_root": true,
         "degrees": [
             null,
             "too cute / schmaltzy / in a maudlin way",
@@ -126,10 +133,11 @@
         ]
     },
     {
-        "name": "QUA*",
+        "name": "QUA",
         "description": "Degree of Quality, Effectiveness or Adequacy",
         "gradient_type": "A2",
         "cs": "th",
+        "associated_root": true,
         "degrees": [
             null,
             "too poor(ly); too badly",
@@ -148,6 +156,7 @@
         "description": "Degree of Optimality",
         "gradient_type": "D1",
         "cs": "ld",
+        "associated_root": false,
         "degrees": [
             null,
             "X (being/done/performing) at its best / X being the best it can be / optimally",
@@ -162,10 +171,11 @@
         ]
     },
     {
-        "name": "UNQ*",
+        "name": "UNQ",
         "description": "Degree of Specialness or Uniqueness",
         "gradient_type": "A1",
         "cs": "řp",
+        "associated_root": true,
         "degrees": [
             null,
             "vulgar, trashy, too cheap / in a vulgar or trashy manner",
@@ -180,10 +190,11 @@
         ]
     },
     {
-        "name": "CNQ*",
+        "name": "CNQ",
         "description": "Degree of Consequentiality, Finality or Irrevocability",
         "gradient_type": "A1",
         "cs": "řv",
+        "associated_root": true,
         "degrees": [
             null,
             "inconsequential/sham/having no effect; like it didn’t even happen/with no effect",
@@ -202,6 +213,7 @@
         "description": "Degree of Contextual Appropriateness",
         "gradient_type": "D1",
         "cs": "kv",
+        "associated_root": false,
         "degrees": [
             null,
             "contemptible(-ly) / utterly inappropriate(ly)",
@@ -220,6 +232,7 @@
         "description": "Position on Social, Occupational, or (Para-) Military Hierarchy",
         "gradient_type": "A1",
         "cs": "rž",
+        "associated_root": false,
         "degrees": [
             null,
             "bottom rung / the “dregs”",
@@ -238,6 +251,7 @@
         "description": "Degree of Subjective Effect or Behavioral Appropriateness",
         "gradient_type": "0",
         "cs": "kš",
+        "associated_root": false,
         "degrees": [
             null,
             "grotesque, gross, nauseating, sickening",
@@ -256,6 +270,7 @@
         "description": "Degree of Social Appropriateness",
         "gradient_type": "D1",
         "cs": "ẓf",
+        "associated_root": false,
         "degrees": [
             null,
             "well-mannered, polite, proper",
@@ -274,6 +289,7 @@
         "description": "Degree of Intelligence Manifested",
         "gradient_type": "D1",
         "cs": "mf",
+        "associated_root": false,
         "degrees": [
             null,
             "dumb / stupid / asinine; idiotic(ally) / moronic(ally)",
@@ -295,6 +311,7 @@
         "description": "Degree of Probability or Likelihood",
         "gradient_type": "A1",
         "cs": "rẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "impossible / hopeless / lost cause",
@@ -313,6 +330,7 @@
         "description": "Degree of Formality",
         "gradient_type": "D2",
         "cs": "šm",
+        "associated_root": false,
         "degrees": [
             null,
             "too casual / overly casual",
@@ -327,10 +345,11 @@
         ]
     },
     {
-        "name": "TYP*",
+        "name": "TYP",
         "description": "Degree of Typicalness",
         "gradient_type": "A1",
         "cs": "řg",
+        "associated_root": true,
         "degrees": [
             null,
             "unique / never-before-seen / one of a kind / shocking",
@@ -349,6 +368,7 @@
         "description": "Degree of Prototypicality",
         "gradient_type": "A1",
         "cs": "řn",
+        "associated_root": false,
         "degrees": [
             null,
             "very dissimilar to prototype, very atypical member, closer to members of different set",
@@ -367,6 +387,7 @@
         "description": "Degree of Enthusiasm",
         "gradient_type": "D1",
         "cs": "nk",
+        "associated_root": false,
         "degrees": [
             null,
             "under duress or coercion",
@@ -381,10 +402,11 @@
         ]
     },
     {
-        "name": "DSI*",
+        "name": "DSI",
         "description": "Degree of Desire",
         "gradient_type": "D1",
         "cs": "gv",
+        "associated_root": true,
         "degrees": [
             null,
             "expurgated, expunged",
@@ -399,10 +421,11 @@
         ]
     },
     {
-        "name": "LCK*",
+        "name": "LCK",
         "description": "Degree of Luck/Fortune",
         "gradient_type": "D1",
         "cs": "lf",
+        "associated_root": true,
         "degrees": [
             null,
             "as a result of the worst luck imaginable / as the cruelest fate would have it …",
@@ -421,6 +444,7 @@
         "description": "Degree of Development",
         "gradient_type": "D1",
         "cs": "b",
+        "associated_root": false,
         "degrees": [
             null,
             "reversal or undoing of process = ‘un-’ / ‘de-’ / ‘dis-’",
@@ -435,10 +459,11 @@
         ]
     },
     {
-        "name": "REA*",
+        "name": "REA",
         "description": "Degree of Genuineness or Veracity",
         "gradient_type": "A1",
         "cs": "rd",
+        "associated_root": true,
         "degrees": [
             null,
             "imaginary / unreal / made-up; imagine X-ing, not really X-ing [contrary to suggestion otherwise]",
@@ -457,6 +482,7 @@
         "description": "Degree of Recreation",
         "gradient_type": "D1",
         "cs": "šv",
+        "associated_root": false,
         "degrees": [
             null,
             "for utterly hedonistic purposes despite awareness of the negative consequences",
@@ -475,6 +501,7 @@
         "description": "Type of Imaginary Existence",
         "gradient_type": "D1",
         "cs": "cč",
+        "associated_root": false,
         "degrees": [
             null,
             "mythological",
@@ -493,6 +520,7 @@
         "description": "Degree of Societal Agreement/Consensus",
         "gradient_type": "D1",
         "cs": "vd",
+        "associated_root": false,
         "degrees": [
             null,
             "indisputable / taken for granted by all",
@@ -511,6 +539,7 @@
         "description": "Degree of Centrality",
         "gradient_type": "A1",
         "cs": "rft",
+        "associated_root": false,
         "degrees": [
             null,
             "beyond the confines of, outside of, beyond the edge/limits of",
@@ -529,6 +558,7 @@
         "description": "Degree of Principality (of an entity within a group or system)",
         "gradient_type": "B",
         "cs": "vç",
+        "associated_root": false,
         "degrees": [
             null,
             "tertiary and inessential",
@@ -543,10 +573,11 @@
         ]
     },
     {
-        "name": "DCP*",
+        "name": "DCP",
         "description": "Degree of Concentration vs. Dissipation",
         "gradient_type": "D1",
         "cs": "xv",
+        "associated_root": true,
         "degrees": [
             null,
             "highly concentrated; unable to get more concentrated",
@@ -565,6 +596,7 @@
         "description": "Degree of Portability",
         "gradient_type": "D1",
         "cs": "md",
+        "associated_root": false,
         "degrees": [
             null,
             "not portable – solidly integrated into substrate",
@@ -583,6 +615,7 @@
         "description": "Degree of Foreignness",
         "gradient_type": "D1",
         "cs": "mk",
+        "associated_root": false,
         "degrees": [
             null,
             "indigenous / autochthonous / endemic / native",

@@ -4,6 +4,7 @@
         "description": "Acquisition",
         "gradient_type": "0",
         "cs": "vz",
+        "associated_root": false,
         "degrees": [
             null,
             "acquired by chance/whim/having stumbled upon",
@@ -22,6 +23,7 @@
         "description": "Renunciation",
         "gradient_type": "0",
         "cs": "ňz",
+        "associated_root": false,
         "degrees": [
             null,
             "give up X-ing / give up on X",
@@ -40,6 +42,7 @@
         "description": "Inability/Incapacity Due To …",
         "gradient_type": "0",
         "cs": "čb",
+        "associated_root": false,
         "degrees": [
             null,
             "inability to [perform/achieve/realize] X so due to absence/loss of resources",
@@ -58,6 +61,7 @@
         "description": "Communication Format",
         "gradient_type": "0",
         "cs": "s",
+        "associated_root": false,
         "degrees": [
             null,
             "via language (in general, whether spoken / written / printed / signed / signaled / broadcast / published / disseminated / streamed, etc.)",
@@ -76,6 +80,7 @@
         "description": "Degree of Engagement/Involvement",
         "gradient_type": "A1",
         "cs": "řns",
+        "associated_root": false,
         "degrees": [
             null,
             "avoiding X(-ing) at all costs / run away from X(-ing) / terrified of X(-ing)",
@@ -94,6 +99,7 @@
         "description": "Opportunity Squandered",
         "gradient_type": "0",
         "cs": "ňs",
+        "associated_root": false,
         "degrees": [
             null,
             "wished-for or hoped-for but so far has never come to pass",
@@ -112,6 +118,7 @@
         "description": "Memory",
         "gradient_type": "A1",
         "cs": "rmz",
+        "associated_root": false,
         "degrees": [
             null,
             "always in mind / can’t forget",
@@ -130,6 +137,7 @@
         "description": "N-Numbered Angles/Facets/Faces/Sides/Points/Forms",
         "gradient_type": "C",
         "cs": "vř",
+        "associated_root": false,
         "degrees": [
             null,
             "uneven/asymmetrical n–sided 2D obtusely angled form (e.g., quadrilateral pentagonoid)",
@@ -148,6 +156,7 @@
         "description": "Redirection of X to Other Use(s)",
         "gradient_type": "C",
         "cs": "ḑř",
+        "associated_root": false,
         "degrees": [
             null,
             "multiple uses – involuntary",
@@ -166,6 +175,7 @@
         "description": "Degree of Alienable Possession",
         "gradient_type": "0",
         "cs": "ňš",
+        "associated_root": false,
         "degrees": [
             null,
             "the X which one circumstantially possesses/uses/handles at the moment or with which one is momentarily/circumstantially/informally associated",
@@ -180,10 +190,11 @@
         ]
     },
     {
-        "name": "CLS*",
+        "name": "CLS",
         "description": "Classification",
         "gradient_type": "0",
         "cs": "ňž",
+        "associated_root": true,
         "degrees": [
             null,
             "a physical arrangement or discernible pattern/assortment of X for aesthetic reasons",
@@ -202,6 +213,7 @@
         "description": "Basis",
         "gradient_type": "0",
         "cs": "nš",
+        "associated_root": false,
         "degrees": [
             null,
             "X-based; on the basis of X  ( = general overall basis for something, i.e., X as both the idea behind and model for something)",
@@ -216,10 +228,11 @@
         ]
     },
     {
-        "name": "SHP*",
+        "name": "SHP",
         "description": "Shape or Form",
         "gradient_type": "C",
         "cs": "fř",
+        "associated_root": true,
         "degrees": [
             null,
             "having the 2-D shape of X; shaped like (an) X",
@@ -238,6 +251,7 @@
         "description": "Variance From Prototypical 3-D Form",
         "gradient_type": "0",
         "cs": "ẓt",
+        "associated_root": false,
         "degrees": [
             null,
             "long axis obliquely angled/inclined away from the vertical/right-angled/rectilinear/perpendicular",
@@ -256,6 +270,7 @@
         "description": "Three-Dimensional Polyhedral Forms",
         "gradient_type": "C",
         "cs": "ļř",
+        "associated_root": false,
         "degrees": [
             null,
             "symmetrical 3D polyhedron having X-number of triangular faces",
@@ -274,6 +289,7 @@
         "description": "Conway Polyhedral Mathematical Operations",
         "gradient_type": "D1",
         "cs": "ļn",
+        "associated_root": false,
         "degrees": [
             null,
             "dual",
@@ -292,6 +308,7 @@
         "description": "Common 2-Dimensional Decorative/Featural Patterns",
         "gradient_type": "0",
         "cs": "jb",
+        "associated_root": false,
         "degrees": [
             null,
             "checker-patterned; checked",
@@ -310,6 +327,7 @@
         "description": "Private Usage Or Association",
         "gradient_type": "B",
         "cs": "çl",
+        "associated_root": false,
         "degrees": [
             null,
             "for one’s own personal use",
@@ -328,6 +346,7 @@
         "description": "Human Usage/Presence/Intervention",
         "gradient_type": "0",
         "cs": "ẓp",
+        "associated_root": false,
         "degrees": [
             null,
             "as associated with human beings",
@@ -346,6 +365,7 @@
         "description": "Kinship Relation",
         "gradient_type": "0",
         "cs": "cc",
+        "associated_root": false,
         "degrees": [
             null,
             "having a full-blood relationship (i.e., genetically related through both parents)",
@@ -364,6 +384,7 @@
         "description": "Generational/Sequential Kinship Descriptions",
         "gradient_type": "D1",
         "cs": "vk",
+        "associated_root": false,
         "degrees": [
             null,
             "of one’s previous generation ( i.e., “once removed (upward)”)",
@@ -382,6 +403,7 @@
         "description": "Alternate Points of View",
         "gradient_type": "A1",
         "cs": "rps",
+        "associated_root": false,
         "degrees": [
             null,
             "and not even occurring to one to evaluate/consider/analyze a/the situation in any way before deciding/acting",
@@ -400,6 +422,7 @@
         "description": "Degree of Crowdedness",
         "gradient_type": "A1",
         "cs": "řks",
+        "associated_root": false,
         "degrees": [
             null,
             "tightly packed together (“like sardines”) / with no space between components / with no room to move",
@@ -418,6 +441,7 @@
         "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State (i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:)",
         "gradient_type": "0",
         "cs": "kz",
+        "associated_root": false,
         "degrees": [
             null,
             "spring forth (from within), i.e., release pent-up energy into an outward thrusting motion",
@@ -432,10 +456,11 @@
         ]
     },
     {
-        "name": "SEX*",
+        "name": "SEX",
         "description": "Biological (i.e., genetically-determined) Sex",
         "gradient_type": "D1",
         "cs": "š",
+        "associated_root": true,
         "degrees": [
             null,
             "born biologically/genetically female; of the female sex",
@@ -454,6 +479,7 @@
         "description": "Gender Identity (i.e., one’s chosen identification in relation to sex)",
         "gradient_type": "D1",
         "cs": "c",
+        "associated_root": false,
         "degrees": [
             null,
             "female (gender identity, not necessarily biological sex)",
@@ -468,10 +494,11 @@
         ]
     },
     {
-        "name": "SID*",
+        "name": "SID",
         "description": "Subjective Identity",
         "gradient_type": "B",
         "cs": "lç",
+        "associated_root": true,
         "degrees": [
             null,
             "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
@@ -490,6 +517,7 @@
         "description": "Cultural or Geo-Demographic Association (primarily used with carrier stems)",
         "gradient_type": "0",
         "cs": "ḑc",
+        "associated_root": false,
         "degrees": [
             null,
             "the spoken/written language associated with X",
@@ -508,6 +536,7 @@
         "description": "Orientation or Location Relative to a Geographical Central Point",
         "gradient_type": "D1",
         "cs": "dn",
+        "associated_root": false,
         "degrees": [
             null,
             "northern",
@@ -526,6 +555,7 @@
         "description": "Miscellaneous Entailments Associated with an Entity",
         "gradient_type": "0",
         "cs": "zẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "X offered/supplied/sold as a commodity",
@@ -544,6 +574,7 @@
         "description": "Primary Construction Material",
         "gradient_type": "D1",
         "cs": "bḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "where X is made exclusively or primarily of wood",
@@ -562,6 +593,7 @@
         "description": "Miscellaneous Surface Textures or Formations (e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.)",
         "gradient_type": "0",
         "cs": "žv",
+        "associated_root": false,
         "degrees": [
             null,
             "fruticose (i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down)",
@@ -580,6 +612,7 @@
         "description": "Musical Instrument Attributes",
         "gradient_type": "0",
         "cs": "ţš",
+        "associated_root": false,
         "degrees": [
             null,
             "instrument is non-pitched",
@@ -598,6 +631,7 @@
         "description": "Customization & Modifications",
         "gradient_type": "B",
         "cs": "ḑç",
+        "associated_root": false,
         "degrees": [
             null,
             "the largest (bass-oriented) version of the usual X",
@@ -617,6 +651,7 @@
         "description": "Musical Notes GAB",
         "gradient_type": "A1",
         "cs": "řm",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -663,6 +698,7 @@
         "description": "Musical Notes BCD",
         "gradient_type": "A1",
         "cs": "řç",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -709,6 +745,7 @@
         "description": "Musical Notes DEF",
         "gradient_type": "A1",
         "cs": "řļ",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -755,6 +792,7 @@
         "description": "Musical Notes FGA",
         "gradient_type": "A1",
         "cs": "rl",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -801,6 +839,7 @@
         "description": "Areal/Spatial Scope",
         "gradient_type": "D1",
         "cs": "vḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "in the easily-accessible or visible vicinity of X; within the readily accessible or readily visible vicinity of X",
@@ -819,6 +858,7 @@
         "description": "Areal/Cultural Association - East Asia",
         "gradient_type": "D1",
         "cs": "sn",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient China",
@@ -837,6 +877,7 @@
         "description": "Areal/Cultural Association - South Asia",
         "gradient_type": "D1",
         "cs": "sň",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient India (including the areas comprising modern Pakistan, Bangladesh and Sri Lanka)",
@@ -855,6 +896,7 @@
         "description": "Areal/Cultural Association - Southeast Asia / East Indies",
         "gradient_type": "D1",
         "cs": "šn",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)",
@@ -873,6 +915,7 @@
         "description": "Areal/Cultural Association - Central Asia (and non-Chinese cultures of the East Asian mainland)",
         "gradient_type": "D1",
         "cs": "šň",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient Tibet",
@@ -891,6 +934,7 @@
         "description": "Areal/Cultural Association - Middle-East",
         "gradient_type": "D1",
         "cs": "cn",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient Arabian Peninsula",
@@ -909,6 +953,7 @@
         "description": "Areal/Cultural Association - Northern Africa & Horn of Africa",
         "gradient_type": "D1",
         "cs": "zn",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient Egypt and Nile Valley",
@@ -927,6 +972,7 @@
         "description": "Areal/Cultural Association - Sub-Saharan Africa",
         "gradient_type": "D1",
         "cs": "zň",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient West Coast and Benin Coast of Africa",
@@ -945,6 +991,7 @@
         "description": "Areal/Cultural Association - Northern & Western Europe",
         "gradient_type": "D1",
         "cs": "žn",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient Celtic Europe (Gaul, Britain, Ireland, Scotland, North Sea and Channel islands)",
@@ -963,6 +1010,7 @@
         "description": "Areal/Cultural Association - Southern & Eastern Europe",
         "gradient_type": "D1",
         "cs": "žň",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient Roman Empire, Iberia, France, Greece, Sicely, Corsica, Sardinia, Malta",
@@ -981,6 +1029,7 @@
         "description": "Areal/Cultural Association - Western Hemisphere",
         "gradient_type": "D1",
         "cs": "jn",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient North America",
@@ -999,6 +1048,7 @@
         "description": "Areal/Cultural Association - Other Areas",
         "gradient_type": "D1",
         "cs": "jň",
+        "associated_root": false,
         "degrees": [
             null,
             "originating in, indigenous to, or associated w/ traditional/ancient Polynesia and Pacific Islands",
@@ -1017,6 +1067,7 @@
         "description": "Degree of Domestication",
         "gradient_type": "D1",
         "cs": "mḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "utterly wild, savage and untamable",
@@ -1035,6 +1086,7 @@
         "description": "Degree of Civilization",
         "gradient_type": "D1",
         "cs": "řsk",
+        "associated_root": false,
         "degrees": [
             null,
             "hunter-gatherer status with little ability to forestall adversities such as hunger, disease, or invasion/war",
@@ -1049,10 +1101,11 @@
         ]
     },
     {
-        "name": "HEA*",
+        "name": "HEA",
         "description": "State of Health",
         "gradient_type": "0",
         "cs": "žf",
+        "associated_root": true,
         "degrees": [
             null,
             "in the prime of health, completely healthy, without any illness, malady, injury, or incapacity",
@@ -1071,6 +1124,7 @@
         "description": "Adverse Disease/Disorder/Illness",
         "gradient_type": "C",
         "cs": "lkř",
+        "associated_root": false,
         "degrees": [
             null,
             "temporarily asymptomatic despite having [contracted] condition/illness/disorder/pathogen X",
@@ -1089,6 +1143,7 @@
         "description": "Attributes of Sub-Atomic Particles",
         "gradient_type": "0",
         "cs": "xj",
+        "associated_root": false,
         "degrees": [
             null,
             "having opposite charge, antimatter version of X",
@@ -1107,6 +1162,7 @@
         "description": "“Colors” and “Flavors” of Quarks",
         "gradient_type": "0",
         "cs": "bj",
+        "associated_root": false,
         "degrees": [
             null,
             "up",
@@ -1125,6 +1181,7 @@
         "description": "Ionic Compounding Elements",
         "gradient_type": "C",
         "cs": "ltř",
+        "associated_root": false,
         "degrees": [
             null,
             "transition metal cation with +1 charge",
@@ -1144,6 +1201,7 @@
         "description": "Number of Atoms in a Molecular Compound",
         "gradient_type": "A1",
         "cs": "rtl",
+        "associated_root": false,
         "degrees": [
             null,
             "deca-*",
@@ -1163,6 +1221,7 @@
         "description": "Polyatomic Ions A",
         "gradient_type": "0",
         "cs": "cţ",
+        "associated_root": false,
         "degrees": [
             null,
             "sulfate",
@@ -1181,6 +1240,7 @@
         "description": "Polyatomic Ions B",
         "gradient_type": "0",
         "cs": "ẓţ",
+        "associated_root": false,
         "degrees": [
             null,
             "sulfite",
@@ -1199,6 +1259,7 @@
         "description": "Polyatomic Ions C",
         "gradient_type": "0",
         "cs": "čţ",
+        "associated_root": false,
         "degrees": [
             null,
             "peroxide",
@@ -1217,6 +1278,7 @@
         "description": "Polyatomic Ions D",
         "gradient_type": "0",
         "cs": "jţ",
+        "associated_root": false,
         "degrees": [
             null,
             "thiocyanate",
@@ -1235,6 +1297,7 @@
         "description": "Polyatomic Cations",
         "gradient_type": "0",
         "cs": "zţ",
+        "associated_root": false,
         "degrees": [
             null,
             "ammonium",
@@ -1253,6 +1316,7 @@
         "description": "Additional Polyatomic Ionic Configurations",
         "gradient_type": "0",
         "cs": "žţ",
+        "associated_root": false,
         "degrees": [
             null,
             "-ate (base oxyanion), e.g., sulfate",
@@ -1272,6 +1336,7 @@
         "description": "Functional Group A",
         "gradient_type": "0",
         "cs": "sḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "alkane, alkyl-, -ane",
@@ -1290,6 +1355,7 @@
         "description": "Functional Group B",
         "gradient_type": "0",
         "cs": "sļ",
+        "associated_root": false,
         "degrees": [
             null,
             "hydroxil, hydroxy-, -ol",
@@ -1308,6 +1374,7 @@
         "description": "Functional Group C",
         "gradient_type": "0",
         "cs": "šḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "hydroperoxy-, alkyl hydroperoxide",
@@ -1326,6 +1393,7 @@
         "description": "Functional Group D",
         "gradient_type": "0",
         "cs": "šļ",
+        "associated_root": false,
         "degrees": [
             null,
             "methylenedioxy-, -dioxole",
@@ -1344,6 +1412,7 @@
         "description": "Functional Group E",
         "gradient_type": "0",
         "cs": "zḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "primary ketimine, imino-, imine",
@@ -1362,6 +1431,7 @@
         "description": "Functional Group F",
         "gradient_type": "0",
         "cs": "zļ",
+        "associated_root": false,
         "degrees": [
             null,
             "nitrile, cyano-, alkanenitrile, alkyl cyanide",
@@ -1380,6 +1450,7 @@
         "description": "Functional Group G",
         "gradient_type": "0",
         "cs": "žḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "phosphate, phosphonooxy-, O-phospono-, … phosphate",
@@ -1398,6 +1469,7 @@
         "description": "Functional Group H",
         "gradient_type": "0",
         "cs": "žļ",
+        "associated_root": false,
         "degrees": [
             null,
             "sulfhydryl, sulfanyl-, -thiol",
@@ -1416,6 +1488,7 @@
         "description": "Functional Group J",
         "gradient_type": "0",
         "cs": "ẓḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "thiocyanate, thocyanato-, … thiocyanate",
@@ -1434,6 +1507,7 @@
         "description": "Hidden or Double Meaning",
         "gradient_type": "C",
         "cs": "nkř",
+        "associated_root": false,
         "degrees": [
             null,
             "the hidden, double-, or intended meaning of a non-verbal signal, gesture, movement, or sign contained in or implied by X",
@@ -1452,6 +1526,7 @@
         "description": "Usage of a Resource",
         "gradient_type": "D1",
         "cs": "lg",
+        "associated_root": false,
         "degrees": [
             null,
             "with X going foolishly unused / with X being needlessly wasted",
@@ -1470,6 +1545,7 @@
         "description": "Capacity for a Relationship with an Entity",
         "gradient_type": "0",
         "cs": "jf",
+        "associated_root": false,
         "degrees": [
             null,
             "ability/capacity to consider/ponder/analyze X",

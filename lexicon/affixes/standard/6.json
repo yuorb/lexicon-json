@@ -1,9 +1,10 @@
 [
     {
-        "name": "STR*",
+        "name": "STR",
         "description": "Degree of Physical Strength Possible or Used",
         "gradient_type": "D2",
         "cs": "lm",
+        "associated_root": true,
         "degrees": [
             null,
             "too weakly / with insufficient strength or power",
@@ -18,10 +19,11 @@
         ]
     },
     {
-        "name": "FRC*",
+        "name": "FRC",
         "description": "Degree of Physical Force Exerted",
         "gradient_type": "D2",
         "cs": "sm",
+        "associated_root": true,
         "degrees": [
             null,
             "too light(ly) / too soft(ly) / too delicate(ly)",
@@ -36,10 +38,11 @@
         ]
     },
     {
-        "name": "VEL*",
+        "name": "VEL",
         "description": "Degree of Velocity ( = Ratio of Distance to Time)",
         "gradient_type": "D2",
         "cs": "fm",
+        "associated_root": true,
         "degrees": [
             null,
             "too slow(ly)",
@@ -54,10 +57,11 @@
         ]
     },
     {
-        "name": "ITY*",
+        "name": "ITY",
         "description": "Degree of Intensity ( = strength, overtness, or level of impact in which a quality/characteristic/act/process, etc. is manifested)",
         "gradient_type": "D2",
         "cs": "ţm",
+        "associated_root": true,
         "degrees": [
             null,
             "too mild(ly)",
@@ -76,6 +80,7 @@
         "description": "Degree of Relevancy",
         "gradient_type": "A1",
         "cs": "rh",
+        "associated_root": false,
         "degrees": [
             null,
             "utterly irrelevant; of no relevance whatsoever in any context; a non sequitur",
@@ -94,6 +99,7 @@
         "description": "Degree Of Spatio-Temporal Divergence or Convergence",
         "gradient_type": "D1",
         "cs": "ţt",
+        "associated_root": false,
         "degrees": [
             null,
             "headed/oriented in opposite directions/vectors",
@@ -112,6 +118,7 @@
         "description": "Degree of Necessity",
         "gradient_type": "D1",
         "cs": "bg",
+        "associated_root": false,
         "degrees": [
             null,
             "impossible if X is present, a showstopper if X is present",
@@ -130,6 +137,7 @@
         "description": "Degree of Planning",
         "gradient_type": "D1",
         "cs": "ňd",
+        "associated_root": false,
         "degrees": [
             null,
             "ad hoc  /  impromptu  /  unplanned (no forewarning)",
@@ -144,10 +152,11 @@
         ]
     },
     {
-        "name": "CFD*",
+        "name": "CFD",
         "description": "Degree of Forthrightness, Confidence or Humility",
         "gradient_type": "D2",
         "cs": "fx",
+        "associated_root": true,
         "degrees": [
             null,
             "too meek(ly) / too submissive(ly) / too obedient(ly) / too docile(ly)",
@@ -162,10 +171,11 @@
         ]
     },
     {
-        "name": "EFI*",
+        "name": "EFI",
         "description": "Degree of Efficiency",
         "gradient_type": "D1",
         "cs": "fţ",
+        "associated_root": true,
         "degrees": [
             null,
             "destructively wasteful / disastrous(ly) / accomplishing the opposite of intention / making things worse",
@@ -180,10 +190,11 @@
         ]
     },
     {
-        "name": "ERR*",
+        "name": "ERR",
         "description": "Degree of Correctness versus Error",
         "gradient_type": "D1",
         "cs": "ňţ",
+        "associated_root": true,
         "degrees": [
             null,
             "totally wrong/incorrect(ly) / totally mis-/mal-; totally in error",
@@ -198,10 +209,11 @@
         ]
     },
     {
-        "name": "MAT*",
+        "name": "MAT",
         "description": "Degree of Maturation",
         "gradient_type": "D1",
         "cs": "kţ",
+        "associated_root": true,
         "degrees": [
             null,
             "undeveloped / immature(ly) / seed / embryo",
@@ -216,10 +228,11 @@
         ]
     },
     {
-        "name": "SBT*",
+        "name": "SBT",
         "description": "Degree of Subtlety/Nuance",
         "gradient_type": "A2",
         "cs": "kh",
+        "associated_root": true,
         "degrees": [
             null,
             "too subtle(ly)",
@@ -234,10 +247,11 @@
         ]
     },
     {
-        "name": "DRC*",
+        "name": "DRC",
         "description": "Degree of Directness/Frankness",
         "gradient_type": "A2",
         "cs": "dh",
+        "associated_root": true,
         "degrees": [
             null,
             "too indirect(ly)",
@@ -256,6 +270,7 @@
         "description": "Degree of Suddenness",
         "gradient_type": "D2",
         "cs": "gm",
+        "associated_root": false,
         "degrees": [
             null,
             "too slow(ly) in happening, too long in X-ing, overdue, delayed",
@@ -270,10 +285,11 @@
         ]
     },
     {
-        "name": "PCN*",
+        "name": "PCN",
         "description": "Degree of Care, Precision or Scrutiny",
         "gradient_type": "A2",
         "cs": "ph",
+        "associated_root": true,
         "degrees": [
             null,
             "too sloppily / too carelessly / utterly sloppy(ily) / totally careless(ly)",
@@ -292,6 +308,7 @@
         "description": "Degree of Onset & Prolongation",
         "gradient_type": "B",
         "cs": "dç",
+        "associated_root": false,
         "degrees": [
             null,
             "paroxysm(al) / paraoxysmally; having a sudden, intense, unexpected onset but of only momentary duration (e.g., an explosion, a flash of light, a spasm, a stab of pain)",
@@ -306,10 +323,11 @@
         ]
     },
     {
-        "name": "CNC*",
+        "name": "CNC",
         "description": "Degree of Concern or Consideration",
         "gradient_type": "D1",
         "cs": "xţ",
+        "associated_root": true,
         "degrees": [
             null,
             "… the hell …! / what the hell … / … who cares!?",
@@ -328,6 +346,7 @@
         "description": "Degree of Dependency",
         "gradient_type": "C",
         "cs": "kř",
+        "associated_root": false,
         "degrees": [
             null,
             "objective value/identity/nature utterly dependent upon or determined by another entity",
@@ -342,10 +361,11 @@
         ]
     },
     {
-        "name": "SPH*",
+        "name": "SPH",
         "description": "Degree of Sophistication",
         "gradient_type": "D2",
         "cs": "ţx",
+        "associated_root": true,
         "degrees": [
             null,
             "too crude(ly) / too primitive(ly)",
@@ -360,10 +380,11 @@
         ]
     },
     {
-        "name": "CVT*",
+        "name": "CVT",
         "description": "Degree of Covertness versus Overtness",
         "gradient_type": "D2",
         "cs": "nx",
+        "associated_root": true,
         "degrees": [
             null,
             "too furtive(ly) / overly covert(ly)",
@@ -378,10 +399,11 @@
         ]
     },
     {
-        "name": "DSR*",
+        "name": "DSR",
         "description": "Degree of Discretion or Secrecy",
         "gradient_type": "D1",
         "cs": "mţ",
+        "associated_root": true,
         "degrees": [
             null,
             "announced/advertised/heralded; w/  public disclosure",
@@ -396,10 +418,11 @@
         ]
     },
     {
-        "name": "PRV*",
+        "name": "PRV",
         "description": "Degree of Prevention or Blockage",
         "gradient_type": "C",
         "cs": "ňř",
+        "associated_root": true,
         "degrees": [
             null,
             "completely blocked/prevented from occurring/manifesting (naturally so)",
@@ -414,10 +437,11 @@
         ]
     },
     {
-        "name": "DIF*",
+        "name": "DIF",
         "description": "Degree of Difficulty (renamed from EFT)",
         "gradient_type": "D2",
         "cs": "čm",
+        "associated_root": true,
         "degrees": [
             null,
             "too easy / overly easy",
@@ -432,10 +456,11 @@
         ]
     },
     {
-        "name": "DSG*",
+        "name": "DSG",
         "description": "Degree of Design or Organization",
         "gradient_type": "A2",
         "cs": "vh",
+        "associated_root": true,
         "degrees": [
             null,
             "too unorganized / too chaotic / too random",
@@ -454,6 +479,7 @@
         "description": "Decisiveness or Commitment",
         "gradient_type": "A2",
         "cs": "ch",
+        "associated_root": false,
         "degrees": [
             null,
             "too indecisive(ly) / too meandering",
@@ -468,10 +494,11 @@
         ]
     },
     {
-        "name": "CRL*",
+        "name": "CRL",
         "description": "Degree of Physical Control",
         "gradient_type": "A2",
         "cs": "jh",
+        "associated_root": true,
         "degrees": [
             null,
             "too uncontrolled; too out-of-control",
@@ -490,6 +517,7 @@
         "description": "Degree of Practice-Based Proficiency ( = skill acquired via practice)",
         "gradient_type": "A2",
         "cs": "šh",
+        "associated_root": false,
         "degrees": [
             null,
             "too lacking in proficiency; completely unpracticed in …",
@@ -508,6 +536,7 @@
         "description": "Degree of Knowledge-Based Proficiency ( = skill acquired via application of learning/knowledge)",
         "gradient_type": "A2",
         "cs": "žh",
+        "associated_root": false,
         "degrees": [
             null,
             "too lacking in proficiency; completely untrained to/in …",
@@ -522,10 +551,11 @@
         ]
     },
     {
-        "name": "TRS*",
+        "name": "TRS",
         "description": "Degree of Trustworthiness/Reliability",
         "gradient_type": "A1",
         "cs": "řh",
+        "associated_root": true,
         "degrees": [
             null,
             "utterly untrustworthy/unreliable",
@@ -544,6 +574,7 @@
         "description": "Degree of Sensibleness/Predictability",
         "gradient_type": "D1",
         "cs": "gd",
+        "associated_root": false,
         "degrees": [
             null,
             "surreal",
@@ -562,6 +593,7 @@
         "description": "Degree of Risk to a Party",
         "gradient_type": "B",
         "cs": "çr",
+        "associated_root": false,
         "degrees": [
             null,
             "at great risk to oneself",
@@ -576,10 +608,11 @@
         ]
     },
     {
-        "name": "DNG*",
+        "name": "DNG",
         "description": "Degree of Danger",
         "gradient_type": "D1",
         "cs": "pt",
+        "associated_root": true,
         "degrees": [
             null,
             "completely safe; utterly no danger at all",
@@ -598,6 +631,7 @@
         "description": "Degree of Emotional/Mental (Dis-)Pleasure",
         "gradient_type": "D1",
         "cs": "vļ",
+        "associated_root": false,
         "degrees": [
             null,
             "maximally unpleasant, horrible, ghastly, terrible",
@@ -617,6 +651,7 @@
         "description": "Degree of Effect from Pain or Pleasure",
         "gradient_type": "D1",
         "cs": "pļ",
+        "associated_root": false,
         "degrees": [
             null,
             "in (or due to) excruciating/agonizing pain",
@@ -632,10 +667,11 @@
         "notes": "The PLE affix refers to the referent itself, whereas the EFP affix indicates that the referent is caused by or is an effect of pain or pleasure. Example: ‘a pleasant sound’ (PLE) versus ‘a sound of pleasure’ (EFP)."
     },
     {
-        "name": "TAL*",
+        "name": "TAL",
         "description": "Degree of Innate Talent for …",
         "gradient_type": "D1",
         "cs": "bň",
+        "associated_root": true,
         "degrees": [
             null,
             "no talent for X(-ing)",
@@ -654,6 +690,7 @@
         "description": "Degree of Tightness or Elascticity",
         "gradient_type": "D2",
         "cs": "tm",
+        "associated_root": false,
         "degrees": [
             null,
             "too tight, tight to the point of painfulness or loss of utility",
@@ -672,6 +709,7 @@
         "description": "Degree of Complexity",
         "gradient_type": "D2",
         "cs": "vx",
+        "associated_root": false,
         "degrees": [
             null,
             "too simple, to easy-to-figure-out",
@@ -690,6 +728,7 @@
         "description": "Degree of Perfunctoriness",
         "gradient_type": "D2",
         "cs": "dm",
+        "associated_root": false,
         "degrees": [
             null,
             "too perfunctory; in too perfunctory a manner or way",
@@ -708,6 +747,7 @@
         "description": "Degree of Success versus Failure",
         "gradient_type": "D1",
         "cs": "d",
+        "associated_root": false,
         "degrees": [
             null,
             "fail(ure) beyond even the most pessimistic predictions; worst outcome possible in terms of failure; worse than no atttempt at all",
@@ -722,10 +762,11 @@
         ]
     },
     {
-        "name": "EFT*",
+        "name": "EFT",
         "description": "Degree of Effort",
         "gradient_type": "D1",
         "cs": "kp",
+        "associated_root": true,
         "degrees": [
             null,
             "no attempt made at all; not even try to …",
@@ -744,6 +785,7 @@
         "description": "Degree of Potential or Capability",
         "gradient_type": "D1",
         "cs": "lp",
+        "associated_root": false,
         "degrees": [
             null,
             "utterly incapable / completely lacking in all necessary abilities or capacities",
@@ -762,6 +804,7 @@
         "description": "Degree of Operational Functionality",
         "gradient_type": "A1",
         "cs": "řč",
+        "associated_root": false,
         "degrees": [
             null,
             "disintegrated, in pieces, shattered",
@@ -776,10 +819,11 @@
         ]
     },
     {
-        "name": "NEW*",
+        "name": "NEW",
         "description": "Newness/Revision",
         "gradient_type": "0",
         "cs": "sp",
+        "associated_root": true,
         "degrees": [
             null,
             "new = original + new, i.e., never before seen",
@@ -798,6 +842,7 @@
         "description": "Degree of Attention or Determination",
         "gradient_type": "A1",
         "cs": "řb",
+        "associated_root": false,
         "degrees": [
             null,
             "ignore completely",
@@ -816,6 +861,7 @@
         "description": "Degree of Certainty",
         "gradient_type": "D1",
         "cs": "mv",
+        "associated_root": false,
         "degrees": [
             null,
             "one is probably mistaken in saying this (due to insufficient experience/skill/knowledge on the matter), but …",
@@ -834,6 +880,7 @@
         "description": "Manner",
         "gradient_type": "D1",
         "cs": "mļ",
+        "associated_root": false,
         "degrees": [
             null,
             "in a light-handed, gentle manner",
@@ -852,6 +899,7 @@
         "description": "Degree of Rigidity/Flexibility",
         "gradient_type": "D2",
         "cs": "vm",
+        "associated_root": false,
         "degrees": [
             null,
             "too rigid/inflexible, rigid/inflexible to the point of not being usable",

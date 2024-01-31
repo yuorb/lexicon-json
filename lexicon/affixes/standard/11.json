@@ -4,6 +4,7 @@
         "description": "Part/Whole Functional Metaphors",
         "gradient_type": "0",
         "cs": "nz",
+        "associated_root": false,
         "degrees": [
             null,
             "(acting as) engine / motor / heart / pump / core / driver mechanism",
@@ -22,6 +23,7 @@
         "description": "Part/Whole Componential Metaphors (replaces Ithkuil’s PTG affix)",
         "gradient_type": "0",
         "cs": "mž",
+        "associated_root": false,
         "degrees": [
             null,
             "(acting as) support / leg / stand / base of X",
@@ -40,6 +42,7 @@
         "description": "Subset of Configurative Set",
         "gradient_type": "C",
         "cs": "dř",
+        "associated_root": false,
         "degrees": [
             null,
             "single specific member (random, i.e., any given member)",
@@ -58,6 +61,7 @@
         "description": "Superset",
         "gradient_type": "C",
         "cs": "bř",
+        "associated_root": false,
         "degrees": [
             null,
             "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set",
@@ -77,6 +81,7 @@
         "description": "2nd-Level Duplex Configurative Set of 1st-Level Sets",
         "gradient_type": "B",
         "cs": "mç",
+        "associated_root": false,
         "degrees": [
             null,
             "DSS set of first-order configurative sets X",
@@ -96,6 +101,7 @@
         "description": "2nd-Level Multiplex Configurative Set of 1st-Level Sets",
         "gradient_type": "B",
         "cs": "nç",
+        "associated_root": false,
         "degrees": [
             null,
             "MSS set of first-order configurative sets X",
@@ -115,6 +121,7 @@
         "description": "Dispersion or Separability of a Configurative Set (can be used for spatial or temporal contexts)",
         "gradient_type": "C",
         "cs": "sř",
+        "associated_root": false,
         "degrees": [
             null,
             "in total contact/contiguous mass of; pile, “ball of …” [(quasi-)permanent]",
@@ -133,6 +140,7 @@
         "description": "Spatio-Temporal Separability of a Configurative Set",
         "gradient_type": "C",
         "cs": "gř",
+        "associated_root": false,
         "degrees": [
             null,
             "logical connectedness only (spatial)",
@@ -151,6 +159,7 @@
         "description": "Subset of Duplex Set",
         "gradient_type": "C",
         "cs": "ẓř",
+        "associated_root": false,
         "degrees": [
             null,
             "first, top, front, lefthand or lead “half” of duplex set or pair (e.g., upper lip, inhale/inhalation, lefthand)",
@@ -169,6 +178,7 @@
         "description": "Motive/Reason for Conglomeration of Gestalt Entity",
         "gradient_type": "0",
         "cs": "ẓv",
+        "associated_root": false,
         "degrees": [
             null,
             "by being physically forced to against the memberentities’ interest or will",
@@ -187,6 +197,7 @@
         "description": "Integrity of a Configurative Set",
         "gradient_type": "A1",
         "cs": "rst",
+        "associated_root": false,
         "degrees": [
             null,
             "complete, whole, full [ = the entirety of an expected/established/conventionalized configurative set without any members/parts/segments missing or removed]",
@@ -206,6 +217,7 @@
         "description": "Networks & Systems",
         "gradient_type": "C",
         "cs": "ţř",
+        "associated_root": false,
         "degrees": [
             null,
             "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting",
@@ -225,6 +237,7 @@
         "description": "Semantic Network",
         "gradient_type": "D1",
         "cs": "tv",
+        "associated_root": false,
         "degrees": [
             null,
             "semantic network of places associated with X and their (inter-)relationships to each other",
@@ -243,6 +256,7 @@
         "description": "Entity and Relationship Within A Semantic Network",
         "gradient_type": "0",
         "cs": "ţs",
+        "associated_root": false,
         "degrees": [
             null,
             "individual concept/idea within X’s semantic network",
@@ -257,10 +271,11 @@
         ]
     },
     {
-        "name": "PXM*",
+        "name": "PXM",
         "description": "Degree of Proximity",
         "gradient_type": "A2",
         "cs": "nh",
+        "associated_root": true,
         "degrees": [
             null,
             "too close",
@@ -275,10 +290,11 @@
         ]
     },
     {
-        "name": "CTC*",
+        "name": "CTC",
         "description": "Degree of Contact",
         "gradient_type": "D1",
         "cs": "ţd",
+        "associated_root": true,
         "degrees": [
             null,
             "melded with / blended with / fused",
@@ -297,6 +313,7 @@
         "description": "Edible or Autonomous Plant Parts/Components",
         "gradient_type": "0",
         "cs": "kc",
+        "associated_root": false,
         "degrees": [
             null,
             "seed/nut of X",
@@ -315,6 +332,7 @@
         "description": "Structural Plant Parts",
         "gradient_type": "0",
         "cs": "fc",
+        "associated_root": false,
         "degrees": [
             null,
             "root of X",

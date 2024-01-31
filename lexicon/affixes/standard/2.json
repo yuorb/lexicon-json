@@ -1,9 +1,10 @@
 [
     {
-        "name": "SEQ*",
+        "name": "SEQ",
         "description": "Numerical Sequence",
         "gradient_type": "D1",
         "cs": "nt",
+        "associated_root": true,
         "degrees": [
             null,
             "first / initial; first(ly) / first of all",
@@ -22,6 +23,7 @@
         "description": "Sequence Relative to Present Context",
         "gradient_type": "D1",
         "cs": "lţ",
+        "associated_root": false,
         "degrees": [
             null,
             "the former; primarily",
@@ -36,10 +38,11 @@
         ]
     },
     {
-        "name": "XXZ*",
+        "name": "XXZ",
         "description": "[zero]",
         "gradient_type": "0",
         "cs": "vc",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 0th member of a set per sequential physical arrangement",
@@ -59,6 +62,7 @@
         "description": "[one]",
         "gradient_type": "0",
         "cs": "zc",
+        "associated_root": false,
         "degrees": [
             null,
             "being the 1st member of a set per sequential physical arrangement",
@@ -74,10 +78,11 @@
         "notes": "* i.e., the 1st member of a set that does something or that something happens to"
     },
     {
-        "name": "XX2*",
+        "name": "XX2",
         "description": "[two]",
         "gradient_type": "0",
         "cs": "ks",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 2nd member of a set per sequential physical arrangement",
@@ -93,10 +98,11 @@
         "notes": "* i.e., the 2nd member of a set that does something or that something happens to"
     },
     {
-        "name": "XX3*",
+        "name": "XX3",
         "description": "[three]",
         "gradient_type": "0",
         "cs": "z",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 3rd member of a set per sequential physical arrangement",
@@ -112,10 +118,11 @@
         "notes": "* i.e., the 3rd member of a set that does something or that something happens to"
     },
     {
-        "name": "XX4*",
+        "name": "XX4",
         "description": "[four]",
         "gradient_type": "0",
         "cs": "pš",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 4th member of a set per sequential physical arrangement",
@@ -131,10 +138,11 @@
         "notes": "* i.e., the 4th member of a set that does something or that something happens to"
     },
     {
-        "name": "XX5*",
+        "name": "XX5",
         "description": "[five]",
         "gradient_type": "0",
         "cs": "st",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 5th member of a set per sequential physical arrangement",
@@ -150,10 +158,11 @@
         "notes": "* i.e., the 5th member of a set that does something or that something happens to"
     },
     {
-        "name": "XX6*",
+        "name": "XX6",
         "description": "[six]",
         "gradient_type": "0",
         "cs": "cp",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 6th member of a set per sequential physical arrangement",
@@ -169,10 +178,11 @@
         "notes": "* i.e., the 6th member of a set that does something or that something happens to"
     },
     {
-        "name": "XX7*",
+        "name": "XX7",
         "description": "[seven]",
         "gradient_type": "0",
         "cs": "ns",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 7th member of a set per sequential physical arrangement",
@@ -188,10 +198,11 @@
         "notes": "* i.e., the 7th member of a set that does something or that something happens to"
     },
     {
-        "name": "XX8*",
+        "name": "XX8",
         "description": "[eight]",
         "gradient_type": "0",
         "cs": "čk",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 8th member of a set per sequential physical arrangement",
@@ -207,10 +218,11 @@
         "notes": "* i.e., the 8th member of a set that does something or that something happens to"
     },
     {
-        "name": "XX9*",
+        "name": "XX9",
         "description": "[nine]",
         "gradient_type": "0",
         "cs": "lẓ",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 9th member of a set per sequential physical arrangement",
@@ -226,10 +238,11 @@
         "notes": "* i.e., the 9th member of a set that does something or that something happens to"
     },
     {
-        "name": "X10*",
+        "name": "X10",
         "description": "[ten]",
         "gradient_type": "0",
         "cs": "j",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 10th member of a set per sequential physical arrangement",
@@ -245,10 +258,11 @@
         "notes": "* i.e., the 10th member of a set that does something or that something happens to"
     },
     {
-        "name": "X11*",
+        "name": "X11",
         "description": "[eleven] (used in the context of a number-base higher than ten)",
         "gradient_type": "0",
         "cs": "cg",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 11th member of a set per sequential physical arrangement",
@@ -264,10 +278,11 @@
         "notes": "* i.e., the 11th member of a set that does something or that something happens to"
     },
     {
-        "name": "X12*",
+        "name": "X12",
         "description": "[twelve] (used in the context of a number-base higher than ten)",
         "gradient_type": "0",
         "cs": "jd",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 12th member of a set per sequential physical arrangement",
@@ -283,10 +298,11 @@
         "notes": "* i.e., the 12th member of a set that does something or that something happens to"
     },
     {
-        "name": "X13*",
+        "name": "X13",
         "description": "[thirteen] (used in the context of a number-base higher than ten)",
         "gradient_type": "0",
         "cs": "ļj",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 13th member of a set per sequential physical arrangement",
@@ -302,10 +318,11 @@
         "notes": "* i.e., the 13th member of a set that does something or that something happens to"
     },
     {
-        "name": "X14*",
+        "name": "X14",
         "description": "[fourteen] (used in the context of a number-base higher than ten)",
         "gradient_type": "0",
         "cs": "bc",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 14th member of a set per sequential physical arrangement",
@@ -321,10 +338,11 @@
         "notes": "* i.e., the 14th member of a set that does something or that something happens to"
     },
     {
-        "name": "X15*",
+        "name": "X15",
         "description": "[fifteen] (used in the context of a number-base higher than ten)",
         "gradient_type": "0",
         "cs": "ţẓ",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 15th member of a set per sequential physical arrangement",
@@ -340,10 +358,11 @@
         "notes": "* i.e., the 15th member of a set that does something or that something happens to"
     },
     {
-        "name": "XOH*",
+        "name": "XOH",
         "description": "[one hundred]",
         "gradient_type": "0",
         "cs": "gz",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 100th member of a set per sequential physical arrangement",
@@ -359,10 +378,11 @@
         "notes": "* i.e., the 100th member of a set that does something or that something happens to"
     },
     {
-        "name": "XTT*",
+        "name": "XTT",
         "description": "[ten thousand]",
         "gradient_type": "0",
         "cs": "pc",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 10000th member of a set per sequential physical arrangement",
@@ -378,10 +398,11 @@
         "notes": "* i.e., the 10000th member of a set that does something or that something happens to"
     },
     {
-        "name": "XTM*",
+        "name": "XTM",
         "description": "[100⁴]",
         "gradient_type": "0",
         "cs": "kẓ",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 100⁴th member of a set per sequential physical arrangement",
@@ -397,10 +418,11 @@
         "notes": "* i.e., the 100⁴th member of a set that does something or that something happens to"
     },
     {
-        "name": "XTQ*",
+        "name": "XTQ",
         "description": "[100⁸]",
         "gradient_type": "0",
         "cs": "čg",
+        "associated_root": true,
         "degrees": [
             null,
             "being the 100⁸th member of a set per sequential physical arrangement",
@@ -420,6 +442,7 @@
         "description": "Uncountably High Number (e.g., “zillions”, “a myriad of”, etc.)",
         "gradient_type": "0",
         "cs": "vj",
+        "associated_root": false,
         "degrees": [
             null,
             "being the zillionth member of a set per sequential physical arrangement",
@@ -439,6 +462,7 @@
         "description": "Multiples of Ten (used with the number roots 0 thru 9 to create the numbers 11 through 99)",
         "gradient_type": "A1",
         "cs": "rs",
+        "associated_root": false,
         "degrees": [
             null,
             "X plus 10",
@@ -458,6 +482,7 @@
         "description": "Elapsed Time (to be attached to numerical stems or quantitative formatives)",
         "gradient_type": "A1",
         "cs": "rc",
+        "associated_root": false,
         "degrees": [
             null,
             "X number of microseconds",
@@ -476,6 +501,7 @@
         "description": "Sequence of Cause and Effect",
         "gradient_type": "A1",
         "cs": "řd",
+        "associated_root": false,
         "degrees": [
             null,
             "originating; originally / in the first place / initially / at the outset",
@@ -494,6 +520,7 @@
         "description": "Aspectual Sequencing",
         "gradient_type": "D1",
         "cs": "nd",
+        "associated_root": false,
         "degrees": [
             null,
             "about to X / right before X (immediately before beginning)",
@@ -512,6 +539,7 @@
         "description": "Impact or Duration Over Time",
         "gradient_type": "A1",
         "cs": "rb",
+        "associated_root": false,
         "degrees": [
             null,
             "immediate / at this instant / for this moment; momentary",
@@ -526,10 +554,11 @@
         ]
     },
     {
-        "name": "TD1*",
+        "name": "TD1",
         "description": "Temporary Duration 1",
         "gradient_type": "A1",
         "cs": "rv",
+        "associated_root": true,
         "degrees": [
             null,
             "momentary ( = lasting no more than a few seconds)",
@@ -544,10 +573,11 @@
         ]
     },
     {
-        "name": "TD2*",
+        "name": "TD2",
         "description": "Temporary Duration 2",
         "gradient_type": "A2",
         "cs": "rḑ",
+        "associated_root": true,
         "degrees": [
             null,
             "between one day and two days in duration",
@@ -562,10 +592,11 @@
         ]
     },
     {
-        "name": "LTD*",
+        "name": "LTD",
         "description": "Life-Time Duration",
         "gradient_type": "A2",
         "cs": "rn",
+        "associated_root": true,
         "degrees": [
             null,
             "for more than a year",
@@ -580,10 +611,11 @@
         ]
     },
     {
-        "name": "LGD*",
+        "name": "LGD",
         "description": "Long-Term Duration",
         "gradient_type": "A2",
         "cs": "řţ",
+        "associated_root": true,
         "degrees": [
             null,
             "for more than a century",
@@ -598,10 +630,11 @@
         ]
     },
     {
-        "name": "EPC*",
+        "name": "EPC",
         "description": "Epoch-Length Duration",
         "gradient_type": "A2",
         "cs": "rň",
+        "associated_root": true,
         "degrees": [
             null,
             "for several hundred thousand years",
@@ -620,6 +653,7 @@
         "description": "Ultra-Short-Term Temporal Scale",
         "gradient_type": "A2",
         "cs": "řf",
+        "associated_root": false,
         "degrees": [
             null,
             "on a scale measurable in yoctoseconds (10⁻²⁴ s)",
@@ -638,6 +672,7 @@
         "description": "Short-Term Time References",
         "gradient_type": "D1",
         "cs": "nḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "happening/occurring more than an hour ago",
@@ -656,6 +691,7 @@
         "description": "Short-Term Time References 2",
         "gradient_type": "D1",
         "cs": "xb",
+        "associated_root": false,
         "degrees": [
             null,
             "happening/occurring sometime in the past few days",
@@ -670,10 +706,11 @@
         ]
     },
     {
-        "name": "FRQ*",
+        "name": "FRQ",
         "description": "Degree Of Frequency",
         "gradient_type": "A1",
         "cs": "rp",
+        "associated_root": true,
         "degrees": [
             null,
             "never",
@@ -692,6 +729,7 @@
         "description": "Degree Of Iteration",
         "gradient_type": "D1",
         "cs": "rm",
+        "associated_root": false,
         "degrees": [
             null,
             "just once / once only",
@@ -710,6 +748,7 @@
         "description": "Pattern of Spatio-Temporal Repetition or Distribution of Set Members",
         "gradient_type": "B",
         "cs": "çţ",
+        "associated_root": false,
         "degrees": [
             null,
             "slow-paced repetition at regular intervals",
@@ -728,6 +767,7 @@
         "description": "Specified Points in Calendrical Time (used with Stem 3 of the number roots to render, e.g., ‘the third day of the week (i.e., Wednesday)’ or ‘20th of May’, etc.)",
         "gradient_type": "A1",
         "cs": "rw/-ry",
+        "associated_root": false,
         "degrees": [
             null,
             "second(s) of the minute",
@@ -746,6 +786,7 @@
         "description": "Cyclic Recurrence",
         "gradient_type": "A1",
         "cs": "rkw",
+        "associated_root": false,
         "degrees": [
             null,
             "(occurring) every second",
@@ -765,6 +806,7 @@
         "description": "Cyclic Recurrence [Long-Term]",
         "gradient_type": "A1",
         "cs": "rky",
+        "associated_root": false,
         "degrees": [
             null,
             "(occurring) every millennium",
@@ -784,6 +826,7 @@
         "description": "Iterations Per Time-Period [use with number roots/affixes]",
         "gradient_type": "A1",
         "cs": "rţw",
+        "associated_root": false,
         "degrees": [
             null,
             "X times per second",
@@ -802,6 +845,7 @@
         "description": "Iterations Per Long-Term [use with number roots/affixes]",
         "gradient_type": "A1",
         "cs": "rţy",
+        "associated_root": false,
         "degrees": [
             null,
             "X times per millenium",
@@ -816,10 +860,11 @@
         ]
     },
     {
-        "name": "TPP*",
+        "name": "TPP",
         "description": "Temporal Position Relative to Present",
         "gradient_type": "D1",
         "cs": "kt",
+        "associated_root": true,
         "degrees": [
             null,
             "in the remote past, once upon a time",
@@ -834,10 +879,11 @@
         ]
     },
     {
-        "name": "ANT*",
+        "name": "ANT",
         "description": "Degree Of Anticipation",
         "gradient_type": "D1",
         "cs": "lst",
+        "associated_root": true,
         "degrees": [
             null,
             "long-awaited / long looked for",
@@ -857,6 +903,7 @@
         "description": "Relative Timeline Indicator",
         "gradient_type": "D1",
         "cs": "lt",
+        "associated_root": false,
         "degrees": [
             null,
             "X is/occurs after the relative/contextual present of a statement (as may be defined by TPP affix) but is considered completed or no longer applicable after-the-fact from the speaker’s present viewpoint",
@@ -875,6 +922,7 @@
         "description": "Ante-Meridiem Times of Day",
         "gradient_type": "A1",
         "cs": "řc",
+        "associated_root": false,
         "degrees": [
             null,
             "just after midnight",
@@ -893,6 +941,7 @@
         "description": "Post-Meridiem Times of Day",
         "gradient_type": "A1",
         "cs": "řj",
+        "associated_root": false,
         "degrees": [
             null,
             "just after mid-day; in the early afternoon",
@@ -907,10 +956,11 @@
         ]
     },
     {
-        "name": "TME*",
+        "name": "TME",
         "description": "Degree Of Timeliness",
         "gradient_type": "D2",
         "cs": "km",
+        "associated_root": true,
         "degrees": [
             null,
             "too early / too soon",
@@ -929,6 +979,7 @@
         "description": "Temporal Placement/Reaction/Viewpoint",
         "gradient_type": "D1",
         "cs": "ţp",
+        "associated_root": false,
         "degrees": [
             null,
             "wistfully looking back / in the (good) old days [with longing] / with nostalgia",
@@ -943,10 +994,11 @@
         ]
     },
     {
-        "name": "STG*",
+        "name": "STG",
         "description": "Stage, Step or Phase of a Process",
         "gradient_type": "A1",
         "cs": "rš",
+        "associated_root": true,
         "degrees": [
             null,
             "onset/initiation/birth of X",
@@ -961,10 +1013,11 @@
         ]
     },
     {
-        "name": "STS*",
+        "name": "STS",
         "description": "Spatio-Temporal Specification",
         "gradient_type": "C",
         "cs": "šř",
+        "associated_root": true,
         "degrees": [
             null,
             "spatial interpretation",
@@ -983,6 +1036,7 @@
         "description": "Duration of Shift/Change/Transition (used for both spatial and temporal contexts)",
         "gradient_type": "D1",
         "cs": "mp",
+        "associated_root": false,
         "degrees": [
             null,
             "sharp break, sudden shift from one state/form/shape/set of circumstances to another with no discernible transition period/zone (i.e., point-like/instantaneous transition)",
@@ -1001,6 +1055,7 @@
         "description": "Variability of Shift/Change/Transition (used for both spatial and temporal contexts)",
         "gradient_type": "D1",
         "cs": "ňf",
+        "associated_root": false,
         "degrees": [
             null,
             "highly variable/chaotic transition from one state/form/shape/set of circumstances to another",

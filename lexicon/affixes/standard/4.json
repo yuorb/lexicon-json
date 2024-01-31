@@ -4,6 +4,7 @@
         "description": "Exactness of Degree",
         "gradient_type": "A1",
         "cs": "řk",
+        "associated_root": false,
         "degrees": [
             null,
             "unknowable degree or amount of",
@@ -18,10 +19,11 @@
         ]
     },
     {
-        "name": "PTW*",
+        "name": "PTW",
         "description": "Contiguous Portion of the Whole",
         "gradient_type": "A1",
         "cs": "rf",
+        "associated_root": true,
         "degrees": [
             null,
             "no amount of / none (of)",
@@ -40,6 +42,7 @@
         "description": "Non-Contiguous (i.e., Intermixed) Portion of the Whole",
         "gradient_type": "A1",
         "cs": "rţ",
+        "associated_root": false,
         "degrees": [
             null,
             "no amount of / none (of)",
@@ -54,10 +57,11 @@
         ]
     },
     {
-        "name": "EXN*",
+        "name": "EXN",
         "description": "Degree or Extent",
         "gradient_type": "D1",
         "cs": "g",
+        "associated_root": true,
         "degrees": [
             null,
             "not at all / completely lacking in … / none whatsoever / not … whatsoever",
@@ -76,6 +80,7 @@
         "description": "Portion or Section",
         "gradient_type": "D1",
         "cs": "ft",
+        "associated_root": false,
         "degrees": [
             null,
             "smallest possible portion/section/amount of a larger whole",
@@ -94,6 +99,7 @@
         "description": "Degree Of Inclusion",
         "gradient_type": "A1",
         "cs": "řt",
+        "associated_root": false,
         "degrees": [
             null,
             "not a(ny), not one, no X whatsoever, none of X; in no such manner",
@@ -108,10 +114,11 @@
         ]
     },
     {
-        "name": "SUF*",
+        "name": "SUF",
         "description": "Degree Of Sufficiency of Amount/Impact",
         "gradient_type": "A1",
         "cs": "rt",
+        "associated_root": true,
         "degrees": [
             null,
             "none at all; no … at all",
@@ -130,6 +137,7 @@
         "description": "Dynamically Changing Degree or Extent",
         "gradient_type": "D1",
         "cs": "pţ",
+        "associated_root": false,
         "degrees": [
             null,
             "less and less / fewer and fewer / ongoing decrease in; decreasingly",
@@ -148,6 +156,7 @@
         "description": "Extent to Which Something Occurs",
         "gradient_type": "A1",
         "cs": "ršk",
+        "associated_root": false,
         "degrees": [
             null,
             "almost / nearly",
@@ -166,6 +175,7 @@
         "description": "Non-Relative Physical Extent",
         "gradient_type": "0",
         "cs": "cv",
+        "associated_root": false,
         "degrees": [
             null,
             "the extent/degree of X; the degree to which X is present",
@@ -184,6 +194,7 @@
         "description": "Trivalent Polarity (gradient values from -1 thru 0 to +1)",
         "gradient_type": "D1",
         "cs": "lḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "completely the opposite extreme, polar opposite of, to the utmost opposite/negative extreme, couldn’t be worse, totally backfired",
@@ -202,6 +213,7 @@
         "description": "Pletive (i.e., relative amount compared to a standard or a previous or expected amount)",
         "gradient_type": "D1",
         "cs": "tļ",
+        "associated_root": false,
         "degrees": [
             null,
             "total absence of X (where X was never present to begin with)",
@@ -220,6 +232,7 @@
         "description": "Recoil in place (spring back; snap back; fall back into place)",
         "gradient_type": "D2",
         "cs": "zm",
+        "associated_root": false,
         "degrees": [
             null,
             "recoil in place not enough",
@@ -238,6 +251,7 @@
         "description": "Back & forth; to & fro in place (e.g., pendulum, wagging tail)",
         "gradient_type": "D2",
         "cs": "žm",
+        "associated_root": false,
         "degrees": [
             null,
             "go back and forth not enough",
@@ -256,6 +270,7 @@
         "description": "Cycle or circular motion in place (spin, revolve)",
         "gradient_type": "D2",
         "cs": "cm",
+        "associated_root": false,
         "degrees": [
             null,
             "cycle in place too slowly",
@@ -274,6 +289,7 @@
         "description": "Cycle or circular motion over linear vector (e.g., train wheels, bike wheels)",
         "gradient_type": "D2",
         "cs": "ẓm",
+        "associated_root": false,
         "degrees": [
             null,
             "roll not enough",
@@ -292,6 +308,7 @@
         "description": "Random pattern of modulation (unpredictable/irregular)",
         "gradient_type": "D2",
         "cs": "jm",
+        "associated_root": false,
         "degrees": [
             null,
             "randomly modulate not enough",
@@ -310,6 +327,7 @@
         "description": "Increase",
         "gradient_type": "D2",
         "cs": "sx",
+        "associated_root": false,
         "degrees": [
             null,
             "increase too slowly",
@@ -328,6 +346,7 @@
         "description": "Decrease",
         "gradient_type": "D2",
         "cs": "bx",
+        "associated_root": false,
         "degrees": [
             null,
             "decrease too slowly",
@@ -346,6 +365,7 @@
         "description": "Increase then Decrease",
         "gradient_type": "D2",
         "cs": "šx",
+        "associated_root": false,
         "degrees": [
             null,
             "increase then decrease too slowly",
@@ -364,6 +384,7 @@
         "description": "Decrease then Increase",
         "gradient_type": "D2",
         "cs": "dx",
+        "associated_root": false,
         "degrees": [
             null,
             "decrease then increase too slowly",
@@ -382,6 +403,7 @@
         "description": "Random/Varying Increases and Decreases",
         "gradient_type": "D2",
         "cs": "jx",
+        "associated_root": false,
         "degrees": [
             null,
             "increase and decrease randomly too slowly",
@@ -396,10 +418,11 @@
         ]
     },
     {
-        "name": "FLS*",
+        "name": "FLS",
         "description": "Degree of Fluctuation/Stability",
         "gradient_type": "A2",
         "cs": "mh",
+        "associated_root": true,
         "degrees": [
             null,
             "too unstable / too random",
@@ -414,10 +437,11 @@
         ]
     },
     {
-        "name": "MVT*",
+        "name": "MVT",
         "description": "Degree of Stillness/Movement",
         "gradient_type": "A1",
         "cs": "rg",
+        "associated_root": true,
         "degrees": [
             null,
             "unmovable – integrated",
