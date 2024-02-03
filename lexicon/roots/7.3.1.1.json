@@ -3,7 +3,13 @@
     "root": "RR",
     "refers": "CAT",
     "stems": [
-      "(*Felis catus*), cat (domestic)",
+      "(*Felis catus*) a cat (domestic)",
+      {
+        "BSC": "(to be) (*Felis catus*) a cat (domestic), as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a cat)",
+        "CTE": "(to be) that which gives a cat its individual identity; the living essence of a cat",
+        "CSV": "(to be) the physical body of a cat; the corporeal aspect of a cat",
+        "OBJ": "(to be) an activity engaged in by a cat; what a cat is doing; to act (as a cat)"
+      },
       "(genus *Felis*, other than *catus* species)",
       "(genera *Prionailurus* or *Otocolobus*) leopard cat, fishing cat, flat-headed cat, rusty-spotted cat, Pallas’s cat/manul"
     ]
