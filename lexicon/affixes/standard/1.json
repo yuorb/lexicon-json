@@ -1,9 +1,10 @@
 [
     {
-        "name": "DCD*",
+        "name": "DCD",
         "description": "Deictic Demonstratives",
         "gradient_type": "D1",
         "cs": "t",
+        "associated_root": true,
         "degrees": [
             null,
             "this X (at/by/near speaker); the X under discussion; the X at hand; in this manner/way, in the manner at hand, in said manner",
@@ -22,6 +23,7 @@
         "description": "Deixis Categories",
         "gradient_type": "C",
         "cs": "tř",
+        "associated_root": false,
         "degrees": [
             null,
             "yonder / way over there somewhere / a long way away (not near anyone) [inaccessible or unobservable]",
@@ -40,6 +42,7 @@
         "description": "Additional Deixis Categories",
         "gradient_type": "C",
         "cs": "stř",
+        "associated_root": false,
         "degrees": [
             null,
             "spread out / everywhere / scattered yonder / all over out there [inaccessible]",
@@ -58,6 +61,7 @@
         "description": "Identificative",
         "gradient_type": "D1",
         "cs": "ňḑ",
+        "associated_root": false,
         "degrees": [
             null,
             "any (of the various / of the number of) X [random selection - NOT quantitative/partitive “any”]; in any manner",
@@ -72,10 +76,11 @@
         ]
     },
     {
-        "name": "EXT*",
+        "name": "EXT",
         "description": "Exactness/Comparability of Identity / Identity As a Standard",
         "gradient_type": "A1",
         "cs": "řḑ",
+        "associated_root": true,
         "degrees": [
             null,
             "not comparable to X / unlike X / inexact(ly)",
@@ -94,6 +99,7 @@
         "description": "Degree of Assumed Familiarity/Recognition",
         "gradient_type": "C",
         "cs": "çř",
+        "associated_root": false,
         "degrees": [
             null,
             "speaker assumes addressee does not know/recognize the reference",
@@ -112,6 +118,7 @@
         "description": "Degree Of Familiarity",
         "gradient_type": "A1",
         "cs": "rļ",
+        "associated_root": false,
         "degrees": [
             null,
             "unknowable / alien; unable to even try X-ing",
@@ -126,10 +133,11 @@
         ]
     },
     {
-        "name": "SIM*",
+        "name": "SIM",
         "description": "Degree Of Similarity",
         "gradient_type": "A1",
         "cs": "rx",
+        "associated_root": true,
         "degrees": [
             null,
             "opposite; as different as possible / at the other extreme",

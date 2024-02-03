@@ -4,6 +4,7 @@
         "description": "Sensory Experience or Reaction",
         "gradient_type": "0",
         "cs": "šk",
+        "associated_root": false,
         "degrees": [
             null,
             "physical tactile feeling/sensation of touching or being touched by X (being in physical/tactile contact with X)",
@@ -18,10 +19,11 @@
         ]
     },
     {
-        "name": "EMO*",
+        "name": "EMO",
         "description": "Emotion Associated with a State, Act, Event",
         "gradient_type": "B",
         "cs": "çm",
+        "associated_root": true,
         "degrees": [
             null,
             "feel(ing of) positive/desirable emotion associated with being or having been X’d or undergoing X",
@@ -40,6 +42,7 @@
         "description": "Emotional Qualification",
         "gradient_type": "0",
         "cs": "šţ",
+        "associated_root": false,
         "degrees": [
             null,
             "I’m afraid that … / Unfortunately …",
@@ -58,6 +61,7 @@
         "description": "Visible Spectral Regions",
         "gradient_type": "0",
         "cs": "šp",
+        "associated_root": false,
         "degrees": [
             null,
             "red(dish) ( = colored or emanating light of reddish wavelengths)",
@@ -76,6 +80,7 @@
         "description": "Non-Visible Spectral Regions *",
         "gradient_type": "0",
         "cs": "lj",
+        "associated_root": false,
         "degrees": [
             null,
             "consisting of or emanating energy in long radio wavelengths",
@@ -95,6 +100,7 @@
         "description": "Color Dimensions",
         "gradient_type": "D1",
         "cs": "lb",
+        "associated_root": false,
         "degrees": [
             null,
             "pale, extra-light, -tinted, -tinged ( = bright + very low saturation of hue; nearly white)",
@@ -113,6 +119,7 @@
         "description": "Color Attributes",
         "gradient_type": "D1",
         "cs": "ňv",
+        "associated_root": false,
         "degrees": [
             null,
             "shiny, glossy",
@@ -127,10 +134,11 @@
         ]
     },
     {
-        "name": "OLF*",
+        "name": "OLF",
         "description": "Olfactory Associations",
         "gradient_type": "0",
         "cs": "žg",
+        "associated_root": true,
         "degrees": [
             null,
             "having the odor of X",
@@ -149,6 +157,7 @@
         "description": "Tactile Associations",
         "gradient_type": "0",
         "cs": "pj",
+        "associated_root": false,
         "degrees": [
             null,
             "having the feeling/texture of X",
@@ -167,6 +176,7 @@
         "description": "Visual Associations",
         "gradient_type": "0",
         "cs": "žj",
+        "associated_root": false,
         "degrees": [
             null,
             "having the look/visual appearance of X",
@@ -185,6 +195,7 @@
         "description": "Aural Associations",
         "gradient_type": "0",
         "cs": "cj",
+        "associated_root": false,
         "degrees": [
             null,
             "having the sound of X",
@@ -203,6 +214,7 @@
         "description": "Gustatory Associations",
         "gradient_type": "0",
         "cs": "sf",
+        "associated_root": false,
         "degrees": [
             null,
             "having the flavor of X",
@@ -221,6 +233,7 @@
         "description": "Degree of Moisture",
         "gradient_type": "D1",
         "cs": "mb",
+        "associated_root": false,
         "degrees": [
             null,
             "sopping/soaking/dripping wet / drenched / overflowing",

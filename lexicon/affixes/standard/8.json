@@ -1,9 +1,10 @@
 [
     {
-        "name": "CNS*",
+        "name": "CNS",
         "description": "Degree of Consent",
         "gradient_type": "A1",
         "cs": "řs",
+        "associated_root": true,
         "degrees": [
             null,
             "deliberately against the expressed wishes/will of the affected party",
@@ -18,10 +19,11 @@
         ]
     },
     {
-        "name": "RSN*",
+        "name": "RSN",
         "description": "Reason for an Emotional State or Motivation for an Action",
         "gradient_type": "0",
         "cs": "cb",
+        "associated_root": true,
         "degrees": [
             null,
             "for no reason",
@@ -40,6 +42,7 @@
         "description": "Negative Motivation for an Action or State",
         "gradient_type": "0",
         "cs": "sč",
+        "associated_root": false,
         "degrees": [
             null,
             "for nefarious or perverse reasons",
@@ -58,6 +61,7 @@
         "description": "Degree of Deliberateness/Agency",
         "gradient_type": "A1",
         "cs": "rj",
+        "associated_root": false,
         "degrees": [
             null,
             "accidental(ly) / inadvertent(ly) and unaware of consequences",
@@ -76,6 +80,7 @@
         "description": "Expectation of Outcome",
         "gradient_type": "A1",
         "cs": "řš",
+        "associated_root": false,
         "degrees": [
             null,
             "shockingly unexpected; without precedent or rumour",
@@ -94,6 +99,7 @@
         "description": "Degree of Self-Conscious Deliberation or Motivation",
         "gradient_type": "A1",
         "cs": "řz",
+        "associated_root": false,
         "degrees": [
             null,
             "affected, ostentatious; affectedly/ostentatiously",
@@ -112,6 +118,7 @@
         "description": "Degree of Agency, Intent or Effectiveness",
         "gradient_type": "C",
         "cs": "nř",
+        "associated_root": false,
         "degrees": [
             null,
             "with the anticipated max. resulting effect possible",
@@ -130,6 +137,7 @@
         "description": "Degree of Impact on Patient/Target or Enablement of Outcome",
         "gradient_type": "A1",
         "cs": "řň",
+        "associated_root": false,
         "degrees": [
             null,
             "target can do nothing - utterly inevitable",
@@ -148,6 +156,7 @@
         "description": "‘to let X be/happen/manifest …’",
         "gradient_type": "0",
         "cs": "kč",
+        "associated_root": false,
         "degrees": [
             null,
             "by deliberate inaction, not doing anything to prevent/stop it",
@@ -166,6 +175,7 @@
         "description": "Degree of Choice by Externally-Induced Agent (operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled (i.e., EFFECTUATIVE) act, rather than the Patient of an agential act",
         "gradient_type": "A1",
         "cs": "rz",
+        "associated_root": false,
         "degrees": [
             null,
             "party made/induced by another party/force/situation to initiate an state/act/event - can do nothing to stop it, initiation is inevitable",

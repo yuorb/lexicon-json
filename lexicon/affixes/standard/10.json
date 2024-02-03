@@ -4,6 +4,7 @@
         "description": "Bodily Instrumentality = ‘by means of/using …’",
         "gradient_type": "0",
         "cs": "zb",
+        "associated_root": false,
         "degrees": [
             null,
             "w/a finger",
@@ -22,6 +23,7 @@
         "description": "Bodily Instrumentality 2 = ‘by means of/using …’ (formerly DBI)",
         "gradient_type": "0",
         "cs": "zd",
+        "associated_root": false,
         "degrees": [
             null,
             "w/a toe",
@@ -40,6 +42,7 @@
         "description": "Bodily Instrumentality 3 = ‘by means of/using …’",
         "gradient_type": "0",
         "cs": "zg",
+        "associated_root": false,
         "degrees": [
             null,
             "w/one’s torso/chest/thorax",
@@ -58,6 +61,7 @@
         "description": "Bodily Instrumentality 4 = ‘by means of/using …’",
         "gradient_type": "0",
         "cs": "zk",
+        "associated_root": false,
         "degrees": [
             null,
             "w/one’s mouth/beak",
@@ -76,6 +80,7 @@
         "description": "Type of Mechanical Instrumentality = ‘by means of …’",
         "gradient_type": "0",
         "cs": "ms",
+        "associated_root": false,
         "degrees": [
             null,
             "w/the body’s natural method of doing so (e.g., on foot, by hand, etc.)",
@@ -94,6 +99,7 @@
         "description": "Utilitative or Enabling Resource",
         "gradient_type": "0",
         "cs": "bš",
+        "associated_root": false,
         "degrees": [
             null,
             "power/energy source for X(-ing)",
@@ -108,10 +114,11 @@
         ]
     },
     {
-        "name": "TDM*",
+        "name": "TDM",
         "description": "Tool/Device/Means",
         "gradient_type": "0",
         "cs": "čv",
+        "associated_root": true,
         "degrees": [
             null,
             "hand-held / manual tool / utensil / implement for X-ing",
@@ -130,6 +137,7 @@
         "description": "Modification (type 2 affixes = specifically designed tool/device)",
         "gradient_type": "D1",
         "cs": "gḑ",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -175,6 +183,7 @@
         "description": "Type of Social Instrumentality = ‘by means of …’",
         "gradient_type": "0",
         "cs": "mz",
+        "associated_root": false,
         "degrees": [
             null,
             "via lackeys, grunt labor, go-fors or henchmen",
@@ -189,10 +198,11 @@
         ]
     },
     {
-        "name": "OAU*",
+        "name": "OAU",
         "description": "Origin/Association/Utilization",
         "gradient_type": "B",
         "cs": "çn",
+        "associated_root": true,
         "degrees": [
             null,
             "entity/thing/phenomenon that hails from X",
@@ -211,6 +221,7 @@
         "description": "Authorization",
         "gradient_type": "0",
         "cs": "pč",
+        "associated_root": false,
         "degrees": [
             null,
             "by being granted a personal privilege / via the generosity or largess ofanother or others",
@@ -229,6 +240,7 @@
         "description": "Means of Enablement",
         "gradient_type": "0",
         "cs": "mš",
+        "associated_root": false,
         "degrees": [
             null,
             "by inadvertent gesture/word/sign taken as order or permission",
@@ -243,10 +255,11 @@
         ]
     },
     {
-        "name": "MAK*",
+        "name": "MAK",
         "description": "Making/Constructing",
         "gradient_type": "0",
         "cs": "ţk",
+        "associated_root": true,
         "degrees": [
             null,
             "the idea/concept of how to make/construct X",
@@ -265,6 +278,7 @@
         "description": "Cancellation - Suspension - Nullification - Maintenance",
         "gradient_type": "C",
         "cs": "cř",
+        "associated_root": false,
         "degrees": [
             null,
             "(quasi-)permanent suspension/cancellation/nullification of X",
@@ -283,6 +297,7 @@
         "description": "Energy/Power Source",
         "gradient_type": "0",
         "cs": "sc",
+        "associated_root": false,
         "degrees": [
             null,
             "powered by burning or combustion of fossil fuel",
@@ -301,6 +316,7 @@
         "description": "Life-Cycle of a Mechanism/Device/Fixture/Machine",
         "gradient_type": "A1",
         "cs": "řst",
+        "associated_root": false,
         "degrees": [
             null,
             "designing X, drafting a blueprint of X; to design X, to draft a blueprint/design of X",
@@ -319,6 +335,7 @@
         "description": "Maintenance of a State",
         "gradient_type": "0",
         "cs": "zt",
+        "associated_root": false,
         "degrees": [
             null,
             "maintain in pristine/ideal state without needing/applying X",

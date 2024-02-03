@@ -1,9 +1,10 @@
 [
     {
-        "name": "M01*",
+        "name": "M01",
         "description": "path-oriented quasi-linear translative motion",
         "gradient_type": "D1",
         "cs": "tr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through",
@@ -22,6 +23,7 @@
         "description": "arrive via linear motion",
         "gradient_type": "D1",
         "cs": "trw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative arriving",
@@ -40,6 +42,7 @@
         "description": "depart via linear motion",
         "gradient_type": "D1",
         "cs": "try",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative departing",
@@ -54,10 +57,11 @@
         ]
     },
     {
-        "name": "M02*",
+        "name": "M02",
         "description": "vertical quasi-linear translative motion",
         "gradient_type": "D1",
         "cs": "pr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative ascent/descent",
@@ -76,6 +80,7 @@
         "description": "ascent/rise",
         "gradient_type": "D1",
         "cs": "prw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative ascent",
@@ -94,6 +99,7 @@
         "description": "descent",
         "gradient_type": "D1",
         "cs": "pry",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative descent",
@@ -108,10 +114,11 @@
         ]
     },
     {
-        "name": "M03*",
+        "name": "M03",
         "description": "oblique vertical quasi-linear translative motion",
         "gradient_type": "D1",
         "cs": "kr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior oblique ascent/descent through",
@@ -130,6 +137,7 @@
         "description": "oblique ascent",
         "gradient_type": "D1",
         "cs": "krw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior oblique ascent through",
@@ -148,6 +156,7 @@
         "description": "oblique descent",
         "gradient_type": "D1",
         "cs": "kry",
+        "associated_root": false,
         "degrees": [
             null,
             "interior oblique descent through",
@@ -162,10 +171,11 @@
         ]
     },
     {
-        "name": "M04*",
+        "name": "M04",
         "description": "horizontal planar translative motion",
         "gradient_type": "D1",
         "cs": "dr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative approach/receding",
@@ -184,6 +194,7 @@
         "description": "approach/getting nearer",
         "gradient_type": "D1",
         "cs": "drw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative approach",
@@ -202,6 +213,7 @@
         "description": "recede/getting farther away",
         "gradient_type": "D1",
         "cs": "dry",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative receding",
@@ -216,10 +228,11 @@
         ]
     },
     {
-        "name": "M05*",
+        "name": "M05",
         "description": "[anti]parallel translative motion",
         "gradient_type": "D1",
         "cs": "fr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative [anti]parallel movement",
@@ -238,6 +251,7 @@
         "description": "parallel translative motion",
         "gradient_type": "D1",
         "cs": "frw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative parallel movement",
@@ -256,6 +270,7 @@
         "description": "antiparallel translative motion",
         "gradient_type": "D1",
         "cs": "fry",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative antiparallel movement",
@@ -270,10 +285,11 @@
         ]
     },
     {
-        "name": "M06*",
+        "name": "M06",
         "description": "perpendicular-planar translative motion",
         "gradient_type": "D1",
         "cs": "br",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative rightward/leftward movement",
@@ -292,6 +308,7 @@
         "description": "rightward movement",
         "gradient_type": "D1",
         "cs": "brw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative rightward movement",
@@ -310,6 +327,7 @@
         "description": "leftward movement",
         "gradient_type": "D1",
         "cs": "bry",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative leftward movement",
@@ -324,10 +342,11 @@
         ]
     },
     {
-        "name": "M07*",
+        "name": "M07",
         "description": "oblique lateral translative motion",
         "gradient_type": "D1",
         "cs": "gr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative oblique approach/receding",
@@ -346,6 +365,7 @@
         "description": "oblique approach",
         "gradient_type": "D1",
         "cs": "grw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative oblique approach",
@@ -364,6 +384,7 @@
         "description": "oblique receding",
         "gradient_type": "D1",
         "cs": "gry",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative oblique receding",
@@ -378,10 +399,11 @@
         ]
     },
     {
-        "name": "M08*",
+        "name": "M08",
         "description": "horizontal-planar range of motion",
         "gradient_type": "D1",
         "cs": "gl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative 2D horizontal movement",
@@ -400,6 +422,7 @@
         "description": "random directed approach in horizontal plane",
         "gradient_type": "D1",
         "cs": "glw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative random directed approach in horizontal plane",
@@ -418,6 +441,7 @@
         "description": "random directed receding in horizontal plane",
         "gradient_type": "D1",
         "cs": "gly",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative random directed receding in horizontal plane",
@@ -432,10 +456,11 @@
         ]
     },
     {
-        "name": "M09*",
+        "name": "M09",
         "description": "vertical-planar range of motion",
         "gradient_type": "D1",
         "cs": "dl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative 2D vertical movement",
@@ -454,6 +479,7 @@
         "description": "random directed approach in vertical plane",
         "gradient_type": "D1",
         "cs": "dlw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative random directed approach in vertical plane",
@@ -472,6 +498,7 @@
         "description": "random directed receding in vertical plane",
         "gradient_type": "D1",
         "cs": "dly",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative random directed receding in vertical plane",
@@ -486,10 +513,11 @@
         ]
     },
     {
-        "name": "M10*",
+        "name": "M10",
         "description": "perpendicular-planar range of motion",
         "gradient_type": "D1",
         "cs": "kl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative 2D perpendicular movement",
@@ -508,6 +536,7 @@
         "description": "random directed approach in perpendicular plane",
         "gradient_type": "D1",
         "cs": "klw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative random directed approach in perpendicular plane",
@@ -526,6 +555,7 @@
         "description": "random directed receding in perpendicular plane",
         "gradient_type": "D1",
         "cs": "kly",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative random directed receding in perpendicular plane",
@@ -540,10 +570,11 @@
         ]
     },
     {
-        "name": "M11*",
+        "name": "M11",
         "description": "motion on parabolic/arc trajectory rel. to gravity",
         "gradient_type": "D1",
         "cs": "pl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative arc movement",
@@ -562,6 +593,7 @@
         "description": "parabolic approach",
         "gradient_type": "D1",
         "cs": "plw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative parabolic approach",
@@ -580,6 +612,7 @@
         "description": "parabolic receding",
         "gradient_type": "D1",
         "cs": "ply",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative parabolic receding",
@@ -594,10 +627,11 @@
         ]
     },
     {
-        "name": "M12*",
+        "name": "M12",
         "description": "motion in a curve",
         "gradient_type": "D1",
         "cs": "bl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative curved movement",
@@ -616,6 +650,7 @@
         "description": "curved approach",
         "gradient_type": "D1",
         "cs": "blw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative curved approach",
@@ -634,6 +669,7 @@
         "description": "curved receding",
         "gradient_type": "D1",
         "cs": "bly",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative curved receding",
@@ -648,10 +684,11 @@
         ]
     },
     {
-        "name": "M13*",
+        "name": "M13",
         "description": "motion in a planar circular path",
         "gradient_type": "D1",
         "cs": "fl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative circular movement",
@@ -670,6 +707,7 @@
         "description": "counter-clockwise circular motion",
         "gradient_type": "D1",
         "cs": "flw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative counter-clockwise circular movement",
@@ -688,6 +726,7 @@
         "description": "clockwise circular motion",
         "gradient_type": "D1",
         "cs": "fly",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative clockwise circular movement",
@@ -702,10 +741,11 @@
         ]
     },
     {
-        "name": "M14*",
+        "name": "M14",
         "description": "generic/oblique 3-D range of motion",
         "gradient_type": "D1",
         "cs": "tl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior perlative 3D movement",
@@ -724,6 +764,7 @@
         "description": "arrive via oblique motions",
         "gradient_type": "D1",
         "cs": "tlw",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative 3D arriving",
@@ -742,6 +783,7 @@
         "description": "depart via oblique motions",
         "gradient_type": "D1",
         "cs": "tly",
+        "associated_root": false,
         "degrees": [
             null,
             "interior perlative 3D departing",
@@ -756,10 +798,11 @@
         ]
     },
     {
-        "name": "P01*",
+        "name": "P01",
         "description": "generic spatial position",
         "gradient_type": "D1",
         "cs": "ţ",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through thereat",
@@ -774,10 +817,11 @@
         ]
     },
     {
-        "name": "P02*",
+        "name": "P02",
         "description": "position at 0 / 0 / 0 — “right here”",
         "gradient_type": "D1",
         "cs": "ḑ",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through here",
@@ -792,10 +836,11 @@
         ]
     },
     {
-        "name": "P03*",
+        "name": "P03",
         "description": "position at 0 / 0 / +Z — “above”",
         "gradient_type": "D1",
         "cs": "ţy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through above",
@@ -810,10 +855,11 @@
         ]
     },
     {
-        "name": "P04*",
+        "name": "P04",
         "description": "position at 0 / 0 / -Z — “below”",
         "gradient_type": "D1",
         "cs": "ţw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through below",
@@ -828,10 +874,11 @@
         ]
     },
     {
-        "name": "P05*",
+        "name": "P05",
         "description": "position at 0 / +Y / 0 — “in front”",
         "gradient_type": "D1",
         "cs": "p",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through ahead",
@@ -846,10 +893,11 @@
         ]
     },
     {
-        "name": "P06*",
+        "name": "P06",
         "description": "position at 0 / -Y / 0 — “behind”",
         "gradient_type": "D1",
         "cs": "k",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through behind",
@@ -864,10 +912,11 @@
         ]
     },
     {
-        "name": "P07*",
+        "name": "P07",
         "description": "position at +X / 0 / 0 — “to the right”",
         "gradient_type": "D1",
         "cs": "f",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right",
@@ -882,10 +931,11 @@
         ]
     },
     {
-        "name": "P08*",
+        "name": "P08",
         "description": "position at -X / 0 / 0 — “to the left”",
         "gradient_type": "D1",
         "cs": "v",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left",
@@ -900,10 +950,11 @@
         ]
     },
     {
-        "name": "P09*",
+        "name": "P09",
         "description": "position at 0 / +Y / +Z — “in front & above”",
         "gradient_type": "D1",
         "cs": "py",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through ahead+above",
@@ -918,10 +969,11 @@
         ]
     },
     {
-        "name": "P10*",
+        "name": "P10",
         "description": "position at 0 / +Y / -Z — “in front & below”",
         "gradient_type": "D1",
         "cs": "pw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through ahead+below",
@@ -936,10 +988,11 @@
         ]
     },
     {
-        "name": "P11*",
+        "name": "P11",
         "description": "position at 0 / -Y / +Z — “behind & above”",
         "gradient_type": "D1",
         "cs": "ky",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through behind+above",
@@ -954,10 +1007,11 @@
         ]
     },
     {
-        "name": "P12*",
+        "name": "P12",
         "description": "position at 0 / -Y / -Z — “behind & below”",
         "gradient_type": "D1",
         "cs": "kw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through behind+below",
@@ -972,10 +1026,11 @@
         ]
     },
     {
-        "name": "P13*",
+        "name": "P13",
         "description": "position at +X / +Y / 0 — “to the right & in front”",
         "gradient_type": "D1",
         "cs": "fp",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+ahead",
@@ -990,10 +1045,11 @@
         ]
     },
     {
-        "name": "P14*",
+        "name": "P14",
         "description": "position at +X / -Y / 0 — “to the right & behind”",
         "gradient_type": "D1",
         "cs": "fk",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+behind",
@@ -1008,10 +1064,11 @@
         ]
     },
     {
-        "name": "P15*",
+        "name": "P15",
         "description": "pos. at +X / 0 / +Z - “to the right & above”",
         "gradient_type": "D1",
         "cs": "fy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+above",
@@ -1026,10 +1083,11 @@
         ]
     },
     {
-        "name": "P16*",
+        "name": "P16",
         "description": "pos. at +X / 0 / -Z — “to the right & below”",
         "gradient_type": "D1",
         "cs": "fw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+below",
@@ -1044,10 +1102,11 @@
         ]
     },
     {
-        "name": "P17*",
+        "name": "P17",
         "description": "pos. at -X / +Y / 0 - “to the left & in front”",
         "gradient_type": "D1",
         "cs": "vb",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+ahead",
@@ -1062,10 +1121,11 @@
         ]
     },
     {
-        "name": "P18*",
+        "name": "P18",
         "description": "pos. at -X / -Y / 0 — “to the left & behind”",
         "gradient_type": "D1",
         "cs": "vg",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+behind",
@@ -1080,10 +1140,11 @@
         ]
     },
     {
-        "name": "P19*",
+        "name": "P19",
         "description": "pos. at -X / 0 / +Z - “to the left & above”",
         "gradient_type": "D1",
         "cs": "vy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+above",
@@ -1098,10 +1159,11 @@
         ]
     },
     {
-        "name": "P20*",
+        "name": "P20",
         "description": "pos. at -X / 0 / -Z — “to the left & below”",
         "gradient_type": "D1",
         "cs": "vw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+below",
@@ -1116,10 +1178,11 @@
         ]
     },
     {
-        "name": "P21*",
+        "name": "P21",
         "description": "pos. at +X / +Y / +Z — “to the right, in front & above”",
         "gradient_type": "D1",
         "cs": "fpy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+ahead+above",
@@ -1134,10 +1197,11 @@
         ]
     },
     {
-        "name": "P22*",
+        "name": "P22",
         "description": "pos. at +X / +Y / -Z — “to the right, in front & below”",
         "gradient_type": "D1",
         "cs": "fpw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+ahead+below",
@@ -1152,10 +1216,11 @@
         ]
     },
     {
-        "name": "P23*",
+        "name": "P23",
         "description": "pos. at +X / -Y / +Z — “to the right, behind & above”",
         "gradient_type": "D1",
         "cs": "fky",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+behind+above",
@@ -1170,10 +1235,11 @@
         ]
     },
     {
-        "name": "P24*",
+        "name": "P24",
         "description": "pos. at +X / -Y / -Z — “to the right, behind & below”",
         "gradient_type": "D1",
         "cs": "fkw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through right+behind+below",
@@ -1188,10 +1254,11 @@
         ]
     },
     {
-        "name": "P25*",
+        "name": "P25",
         "description": "pos. at -X / +Y / +Z — “to the left, in front & above”",
         "gradient_type": "D1",
         "cs": "vby",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+ahead+above",
@@ -1206,10 +1273,11 @@
         ]
     },
     {
-        "name": "P26*",
+        "name": "P26",
         "description": "pos. at -X / +Y / -Z — “to the left, in front & below”",
         "gradient_type": "D1",
         "cs": "vbw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+ahead+below",
@@ -1224,10 +1292,11 @@
         ]
     },
     {
-        "name": "P27*",
+        "name": "P27",
         "description": "pos. at -X / -Y / +Z — “to the left, behind & above”",
         "gradient_type": "D1",
         "cs": "vgy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+behind+above",
@@ -1242,10 +1311,11 @@
         ]
     },
     {
-        "name": "P28*",
+        "name": "P28",
         "description": "pos. at -X / -Y /-Z — “to the left, behind & below”",
         "gradient_type": "D1",
         "cs": "vgw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through left+behind+below",
@@ -1260,10 +1330,11 @@
         ]
     },
     {
-        "name": "S01*",
+        "name": "S01",
         "description": "position between/amidst/among [in a quasi-planar context]",
         "gradient_type": "D1",
         "cs": "pk",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in 2D midst",
@@ -1278,10 +1349,11 @@
         ]
     },
     {
-        "name": "S02*",
+        "name": "S02",
         "description": "position between/among [in a linear unidimensional context]",
         "gradient_type": "D1",
         "cs": "dk",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in linear midst",
@@ -1296,10 +1368,11 @@
         ]
     },
     {
-        "name": "S03*",
+        "name": "S03",
         "description": "indefinite position amidst/among [in a 3-D volume]",
         "gradient_type": "D1",
         "cs": "tk",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in 3D midst",
@@ -1314,10 +1387,11 @@
         ]
     },
     {
-        "name": "S04*",
+        "name": "S04",
         "description": "position/state intertwined/intermingled/intermixed in 2-D planar context [individual components separable/extractable]",
         "gradient_type": "D1",
         "cs": "ḑd",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in separable 2D midst",
@@ -1332,10 +1406,11 @@
         ]
     },
     {
-        "name": "S05*",
+        "name": "S05",
         "description": "position/state intertwined/intermingled/intermixed in 3-D volume [individual components separable/extractable]",
         "gradient_type": "D1",
         "cs": "ḑb",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in separable 3D midst",
@@ -1350,10 +1425,11 @@
         ]
     },
     {
-        "name": "S06*",
+        "name": "S06",
         "description": "position/state intertwined/intermingled/intermixed in 2-D planar context [components inseparable/permanently combined]",
         "gradient_type": "D1",
         "cs": "ḑv",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in integrated 2D midst",
@@ -1368,10 +1444,11 @@
         ]
     },
     {
-        "name": "S07*",
+        "name": "S07",
         "description": "position/state intertwined/intermingled/intermixed in 3-D volume [individual components inseparable/permanently combined]",
         "gradient_type": "D1",
         "cs": "ḑg",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in integrated 3D midst",
@@ -1386,10 +1463,11 @@
         ]
     },
     {
-        "name": "S08*",
+        "name": "S08",
         "description": "positionally-defined componential part",
         "gradient_type": "D1",
         "cs": "ţf",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in positional component",
@@ -1404,10 +1482,11 @@
         ]
     },
     {
-        "name": "S09*",
+        "name": "S09",
         "description": "linear uni-dimensional middle, center [as seen parallel to long axis of entity (or height-axis of a “tall” entity)]",
         "gradient_type": "D1",
         "cs": "cl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in lengthwise middle",
@@ -1422,10 +1501,11 @@
         ]
     },
     {
-        "name": "S10*",
+        "name": "S10",
         "description": "linear uni-dimensional middle, center [as seen perpendicular to long axis of entity (or height-axis of a “tall” entity)]",
         "gradient_type": "D1",
         "cs": "cr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in widthwise middle",
@@ -1440,10 +1520,11 @@
         ]
     },
     {
-        "name": "S11*",
+        "name": "S11",
         "description": "planar 2-dimensional middle, center [running vertically and laterally parallel to long (or tall) side of entity]",
         "gradient_type": "D1",
         "cs": "ẓl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in median middle",
@@ -1458,10 +1539,11 @@
         ]
     },
     {
-        "name": "S12*",
+        "name": "S12",
         "description": "planar 2-dimensional middle, center [running vertically parallel but laterally perpendicular to long (or tall) side of entity]",
         "gradient_type": "D1",
         "cs": "ẓr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in frontal middle",
@@ -1476,10 +1558,11 @@
         ]
     },
     {
-        "name": "S13*",
+        "name": "S13",
         "description": "planar 2-dimensional middle, center [running vertically and laterally perpendicular to long (or tall) side of entity]",
         "gradient_type": "D1",
         "cs": "ẓw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in transverse middle",
@@ -1494,10 +1577,11 @@
         ]
     },
     {
-        "name": "S14*",
+        "name": "S14",
         "description": "center point of an entity, i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity",
         "gradient_type": "D1",
         "cs": "cw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in center point",
@@ -1512,10 +1596,11 @@
         ]
     },
     {
-        "name": "S15*",
+        "name": "S15",
         "description": "side/flank of an entity",
         "gradient_type": "D1",
         "cs": "fḑ",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in side/flank",
@@ -1530,10 +1615,11 @@
         ]
     },
     {
-        "name": "S16*",
+        "name": "S16",
         "description": "front part of an entity [relative to its directional orientation or primary external interface]",
         "gradient_type": "D1",
         "cs": "pf",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through within front",
@@ -1548,10 +1634,11 @@
         ]
     },
     {
-        "name": "S17*",
+        "name": "S17",
         "description": "rear/back part of an entity [relative to its directional orientation or primary external interface]",
         "gradient_type": "D1",
         "cs": "kf",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through within back",
@@ -1566,10 +1653,11 @@
         ]
     },
     {
-        "name": "S18*",
+        "name": "S18",
         "description": "top/peak/summit of an entity [relative to its typical orientation under gravity]",
         "gradient_type": "D1",
         "cs": "dy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through within top",
@@ -1584,10 +1672,11 @@
         ]
     },
     {
-        "name": "S19*",
+        "name": "S19",
         "description": "bottom/foundation of an entity [relative to its typical orientation under gravity]",
         "gradient_type": "D1",
         "cs": "dw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through within bottom",
@@ -1602,10 +1691,11 @@
         ]
     },
     {
-        "name": "S20*",
+        "name": "S20",
         "description": "upper part / “half” of an entity [relative to its typical orientation under gravity]",
         "gradient_type": "D1",
         "cs": "ḑy",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in upper half",
@@ -1620,10 +1710,11 @@
         ]
     },
     {
-        "name": "S21*",
+        "name": "S21",
         "description": "lower part / “half” of an entity [relative to its typical orientation under gravity]",
         "gradient_type": "D1",
         "cs": "ḑw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in lower half",
@@ -1638,10 +1729,11 @@
         ]
     },
     {
-        "name": "S22*",
+        "name": "S22",
         "description": "interior/internal volume / “inside(s)”/“innards” of an entity",
         "gradient_type": "D1",
         "cs": "xw",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in innards",
@@ -1656,10 +1748,11 @@
         ]
     },
     {
-        "name": "S23*",
+        "name": "S23",
         "description": "interior surface or “wall” / internal surface or “wall” / the inside surface or “wall” of an entity",
         "gradient_type": "D1",
         "cs": "xl",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in interior surface",
@@ -1674,10 +1767,11 @@
         ]
     },
     {
-        "name": "S24*",
+        "name": "S24",
         "description": "exterior/external surface / “outside”/“skin” of an entity",
         "gradient_type": "D1",
         "cs": "xr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in exterior surface",
@@ -1692,10 +1786,11 @@
         ]
     },
     {
-        "name": "S25*",
+        "name": "S25",
         "description": "external point-like outward-facing vertex / “corner” of an entity",
         "gradient_type": "D1",
         "cs": "xḑ",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in outer corner",
@@ -1710,10 +1805,11 @@
         ]
     },
     {
-        "name": "S26*",
+        "name": "S26",
         "description": "external quasi-linear edge of an entity",
         "gradient_type": "D1",
         "cs": "xt",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in outer edge",
@@ -1728,10 +1824,11 @@
         ]
     },
     {
-        "name": "S27*",
+        "name": "S27",
         "description": "external quasi-linear joining of surfaces/“seam” of an entity",
         "gradient_type": "D1",
         "cs": "xk",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in outer seam",
@@ -1746,10 +1843,11 @@
         ]
     },
     {
-        "name": "S28*",
+        "name": "S28",
         "description": "external attachment point or fastening mechanism of an entity, i.e., handle, hook, latch, velcro patch, knob, peg, etc.",
         "gradient_type": "D1",
         "cs": "xf",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in handle/knob attachment",
@@ -1764,10 +1862,11 @@
         ]
     },
     {
-        "name": "S29*",
+        "name": "S29",
         "description": "internal point-like interior vertex / “corner” of an entity",
         "gradient_type": "D1",
         "cs": "čḑ",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in inner corner",
@@ -1782,10 +1881,11 @@
         ]
     },
     {
-        "name": "S30*",
+        "name": "S30",
         "description": "external linear outward-facing “corner” edge or “corner” space of an entity",
         "gradient_type": "D1",
         "cs": "xḑr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in outer corner space",
@@ -1800,10 +1900,11 @@
         ]
     },
     {
-        "name": "S31*",
+        "name": "S31",
         "description": "internal linear interior “corner” edge or “corner” space of an entity",
         "gradient_type": "D1",
         "cs": "čḑr",
+        "associated_root": true,
         "degrees": [
             null,
             "interior movement through in inner corner space",
@@ -1818,10 +1919,11 @@
         ]
     },
     {
-        "name": "BDM*",
+        "name": "BDM",
         "description": "IN SITU BODILY MOVEMENTS (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
         "gradient_type": "B",
         "cs": "çp",
+        "associated_root": true,
         "degrees": [
             null,
             "with arms or non-ambulatory appendages waving/bending",
@@ -1840,6 +1942,7 @@
         "description": "Secondary Zigzag Motion (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
         "gradient_type": "B",
         "cs": "çg",
+        "associated_root": false,
         "degrees": [
             null,
             "short-period 2D zigzag motion on vertical plane parallel to direction of travel",
@@ -1858,6 +1961,7 @@
         "description": "Secondary Sine Wave-like Motion (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
         "gradient_type": "B",
         "cs": "çd",
+        "associated_root": false,
         "degrees": [
             null,
             "short-period 2D sine wave-like motion on vertical plane parallel to direction of travel",
@@ -1876,6 +1980,7 @@
         "description": "Spin/Rotation of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
         "gradient_type": "B",
         "cs": "çv",
+        "associated_root": false,
         "degrees": [
             null,
             "short-period (i.e., fast) spinning motion on parallel-vertical plane relative to the direction of travel (i.e., forward-rolling or pitch-like tumbling motion)",
@@ -1894,6 +1999,7 @@
         "description": "Circular Motion/Path of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
         "gradient_type": "B",
         "cs": "çt",
+        "associated_root": false,
         "degrees": [
             null,
             "while traveling in (a) short-period (i.e., fast/small) circle(s) on a plane vertically parallel to the direction of travel (i.e., where X rolls or tumbles along, e.g., a ball or a tumbleweed)",
@@ -1912,6 +2018,7 @@
         "description": "Miscellaneous In-Situ Motions of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
         "gradient_type": "0",
         "cs": "gž",
+        "associated_root": false,
         "degrees": [
             null,
             "… while extending (an) appendage(s) or protrusion(s) outward",
@@ -1930,6 +2037,7 @@
         "description": "Simultaneous Thrusting/Pushing Motion",
         "gradient_type": "D1",
         "cs": "fb",
+        "associated_root": false,
         "degrees": [
             null,
             "with accompanying/simultaneous upward thrust/lurch/push",
@@ -1948,6 +2056,7 @@
         "description": "Simultaneous Withdrawal/Pulling Motion",
         "gradient_type": "D1",
         "cs": "ţb",
+        "associated_root": false,
         "degrees": [
             null,
             "with accompanying/simultaneous pulling/withdrawal downward from above",
@@ -1966,6 +2075,7 @@
         "description": "Simultaneous Shaking Motion",
         "gradient_type": "B",
         "cs": "çf",
+        "associated_root": false,
         "degrees": [
             null,
             "with accompanying/simultaneous back-and-forth (inward-outward) shaking motion",
@@ -1984,6 +2094,7 @@
         "description": "Simultaneous Spinning Motion",
         "gradient_type": "B",
         "cs": "çb",
+        "associated_root": false,
         "degrees": [
             null,
             "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial (i.e., X- planar) axis [rotational direction: away from observer, as if “rolling away” from observer)",
@@ -2002,6 +2113,7 @@
         "description": "Internal Positional Orientation of a (Quasi-)Long Object Having an Orientational “End” or “Ends”",
         "gradient_type": "B",
         "cs": "pç",
+        "associated_root": false,
         "degrees": [
             null,
             "with (an) orientational “end” of X facing toward the observer",
@@ -2020,6 +2132,7 @@
         "description": "Internal Positional Orientation of an Object Having an Orientational “Face” or “Front”",
         "gradient_type": "B",
         "cs": "tç",
+        "associated_root": false,
         "degrees": [
             null,
             "with X’s orientational “face” or “front” facing directly toward the observer(i.e.at an angle perpendicular to observer’s line of sight)",
@@ -2038,6 +2151,7 @@
         "description": "PFL Internal Positional Orientation of a (Quasi-)Flat Object",
         "gradient_type": "B",
         "cs": "kç",
+        "associated_root": false,
         "degrees": [
             null,
             "with X’s “front/top” side visible to the observer but largely pointed away at a severe angle",
@@ -2056,6 +2170,7 @@
         "description": "Spatial/Areal/Volumetric Scale",
         "gradient_type": "A1",
         "cs": "řẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "on an atomic/quantum-sized scale in terms of size or areal/volumetric impact",
@@ -2070,10 +2185,11 @@
         ]
     },
     {
-        "name": "WAK*",
+        "name": "WAK",
         "description": "Spread/wake/trail/area/expanse created by passage of entity",
         "gradient_type": "B",
         "cs": "çc",
+        "associated_root": true,
         "degrees": [
             null,
             "quasi-linear “trail” or wake left behind on path of linear movement; trail or wake is not composed of the moving entity itself but shows effect of its passage (e.g., slime trail left by snail, footprints left on snow, mowed down foliage left by moving convoy, etc.)",

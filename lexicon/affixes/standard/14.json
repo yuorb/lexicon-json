@@ -4,6 +4,7 @@
         "description": "Basic Arithmetical Operations",
         "gradient_type": "0",
         "cs": "sd",
+        "associated_root": false,
         "degrees": [
             null,
             "plus X",
@@ -22,6 +23,7 @@
         "description": "Secondary Mathematical Operations",
         "gradient_type": "0",
         "cs": "zp",
+        "associated_root": false,
         "degrees": [
             null,
             "mod X",
@@ -40,6 +42,7 @@
         "description": "Mathematical Relations",
         "gradient_type": "0",
         "cs": "jg",
+        "associated_root": false,
         "degrees": [
             null,
             "=; equals",
@@ -58,6 +61,7 @@
         "description": "Trigonometric Operations",
         "gradient_type": "0",
         "cs": "ẓb",
+        "associated_root": false,
         "degrees": [
             null,
             "sin X",
@@ -76,6 +80,7 @@
         "description": "Non-Decimal Number Bases (affixed to the standard number roots)",
         "gradient_type": "D1",
         "cs": "sg",
+        "associated_root": false,
         "degrees": [
             null,
             "in base-2; binary",
@@ -94,6 +99,7 @@
         "description": "Velocity and Acceleration Measurement",
         "gradient_type": "D1",
         "cs": "ng",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -140,6 +146,7 @@
         "description": "Angular Measurement *",
         "gradient_type": "D1",
         "cs": "dg",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -186,6 +193,7 @@
         "description": "Linear Dimensional Measurement A *",
         "gradient_type": "A1",
         "cs": "rtn",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -232,6 +240,7 @@
         "description": "Linear Dimensional Measurement B *",
         "gradient_type": "A1",
         "cs": "rtm",
+        "associated_root": false,
         "degrees": [
             null,
             [
@@ -278,6 +287,7 @@
         "description": "Areal Measurement",
         "gradient_type": "A1",
         "cs": "rtk",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) barns",
@@ -296,6 +306,7 @@
         "description": "Volumetric Measurement A",
         "gradient_type": "A1",
         "cs": "řw",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) cubic Planck lengths",
@@ -314,6 +325,7 @@
         "description": "Volumetric Measurement B",
         "gradient_type": "A1",
         "cs": "řy",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) cubic inches",
@@ -332,6 +344,7 @@
         "description": "Volumetric Measurement C",
         "gradient_type": "A1",
         "cs": "řl",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) minims",
@@ -350,6 +363,7 @@
         "description": "Ultra-Short Temporal Measurement *",
         "gradient_type": "A1",
         "cs": "řfs",
+        "associated_root": false,
         "degrees": [
             null,
             "in/per yocto-second(s) (100⁻¹²s = 10⁻²⁴s)",
@@ -369,6 +383,7 @@
         "description": "Temporal Measurement",
         "gradient_type": "A1",
         "cs": "rns",
+        "associated_root": false,
         "degrees": [
             null,
             "in/per minute(s)",
@@ -387,6 +402,7 @@
         "description": "Long-TermTemp. Meas.",
         "gradient_type": "A1",
         "cs": "rňs",
+        "associated_root": false,
         "degrees": [
             null,
             "in/per century(ies)",
@@ -405,6 +421,7 @@
         "description": "Energy Measurement Units",
         "gradient_type": "D1",
         "cs": "ļp",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) Planck energy units",
@@ -423,6 +440,7 @@
         "description": "Force Measurement Units",
         "gradient_type": "D1",
         "cs": "ļt",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) Planck force units",
@@ -441,6 +459,7 @@
         "description": "Pressure Measurement Units",
         "gradient_type": "D1",
         "cs": "ļk",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) bars",
@@ -459,6 +478,7 @@
         "description": "Other Energy Measurement Units",
         "gradient_type": "D1",
         "cs": "ļv",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) watts",
@@ -477,6 +497,7 @@
         "description": "Measurement of Mass",
         "gradient_type": "0",
         "cs": "lps",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) Planck masses",
@@ -495,6 +516,7 @@
         "description": "Temperature Measurement System",
         "gradient_type": "0",
         "cs": "šj",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) Planck temperature / (in) *T*ₚ",
@@ -513,6 +535,7 @@
         "description": "Electro-Magnetic Measurement A",
         "gradient_type": "0",
         "cs": "gc",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) amperes",
@@ -531,6 +554,7 @@
         "description": "Electro-Magnetic Measurement B",
         "gradient_type": "0",
         "cs": "gč",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) ohms",
@@ -549,6 +573,7 @@
         "description": "Electro-Magnetic Measurement C",
         "gradient_type": "0",
         "cs": "gẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) volts per meter",
@@ -567,6 +592,7 @@
         "description": "Luminance & Optics A",
         "gradient_type": "0",
         "cs": "fẓ",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) candelas",
@@ -585,6 +611,7 @@
         "description": "Luminance & Optics B",
         "gradient_type": "0",
         "cs": "fj",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) lumens per sq. meter",
@@ -603,6 +630,7 @@
         "description": "Density-Releated Measurement Units",
         "gradient_type": "0",
         "cs": "fč",
+        "associated_root": false,
         "degrees": [
             null,
             "(in) moles",
@@ -621,6 +649,7 @@
         "description": "Currency A",
         "gradient_type": "0",
         "cs": "šf",
+        "associated_root": false,
         "degrees": [
             null,
             "Chinese ¥",
@@ -639,6 +668,7 @@
         "description": "Currency B",
         "gradient_type": "0",
         "cs": "cf",
+        "associated_root": false,
         "degrees": [
             null,
             "Mexican peso",
@@ -657,6 +687,7 @@
         "description": "Currency C",
         "gradient_type": "0",
         "cs": "čf",
+        "associated_root": false,
         "degrees": [
             null,
             "Thai ฿",
