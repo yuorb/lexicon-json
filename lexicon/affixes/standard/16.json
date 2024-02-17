@@ -26,7 +26,7 @@
         "associated_root": false,
         "degrees": [
             null,
-            "The contigency occurs iff X is true",
+            "The contigency occurs if X is true",
             "The contigency occurs if X is true, not if unknown, maybe if false",
             "The contigency occurs if X is true, maybe if unknown/false",
             "The contigency occurs if X is true/unknown, maybe if false",
