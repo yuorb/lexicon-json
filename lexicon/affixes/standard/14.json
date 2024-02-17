@@ -186,7 +186,7 @@
                 "(in) degrees²"
             ]
         ],
-        "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² (i.e., steradians), etc."
+        "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² (i.e., steradians), etc."
     },
     {
         "name": "LDA",
@@ -233,7 +233,7 @@
                 "(in) parsecs²"
             ]
         ],
-        "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
+        "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
     },
     {
         "name": "LDB",
@@ -280,7 +280,7 @@
                 "(in) leagues²"
             ]
         ],
-        "notes": "* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
+        "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
     },
     {
         "name": "ARM",
@@ -376,7 +376,7 @@
             "in/per milli-second(s) (10×100⁻²s = 10⁻³s)",
             "in/per -second(s) (e.g., with root -**LSTR**- = Hertz)"
         ],
-        "notes": "* this affix is the measurement counterpart to the UST affix"
+        "notes": "\\* this affix is the measurement counterpart to the UST affix"
     },
     {
         "name": "TPM",
