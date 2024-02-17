@@ -254,7 +254,7 @@
                 "(MAXa) Maximal (absolute comparison)"
             ]
         ],
-        "notes": "* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
+        "notes": "\\* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
     },
     {
         "name": "COS",
@@ -551,16 +551,17 @@
         "associated_root": false,
         "degrees": [
             null,
-            "(PPS) Propositional: statement is an ontological assertion based on ontologogical fact",
-            "(EPI) Epistemic: statement is an epistemic assertion based on conventional (culturally agreed-upon) fact",
-            "(ALG) Allegative: statement is an allegation expressing one’s belief, subject to rubuttal or refutation",
-            "(IPU) Imputative: statement is a rebuttable presumption (i.e., to be assumed true until proven otherwise)",
-            "(RFU) Refutative: statement is a rebuttal/refutation based on epistemic knowledge",
-            "(REB) Rebutative: statement is a rebuttal/refutation based on ontological fact",
-            "(CJT) Conjectural: statement is a conjecture/theory/hypothesis that is testable/verifiable",
-            "(EXV) Expatiative: statement is a conjecture/theory/hypothesis that is not presumably testable/verifiable",
-            "(AXM) Axiomatic: statement is a conclusive presumption not rationally debatable"
-        ]
+            "(PPS*) Propositional: statement is an ontological assertion based on ontologogical fact",
+            "(EPI*) Epistemic: statement is an epistemic assertion based on conventional (culturally agreed-upon) fact",
+            "(ALG*) Allegative: statement is an allegation expressing one’s belief, subject to rubuttal or refutation",
+            "(IPU*) Imputative: statement is a rebuttable presumption (i.e., to be assumed true until proven otherwise)",
+            "(RFU*) Refutative: statement is a rebuttal/refutation based on epistemic knowledge",
+            "(REB*) Rebutative: statement is a rebuttal/refutation based on ontological fact",
+            "(CJT*) Conjectural: statement is a conjecture/theory/hypothesis that is testable/verifiable",
+            "(EXV*) Expatiative: statement is a conjecture/theory/hypothesis that is not presumably testable/verifiable",
+            "(AXM*) Axiomatic: statement is a conclusive presumption not rationally debatable"
+        ],
+        "notes":"\\* This abbreviation for Sanction inherited from Ithkuil III (2011) has been deprecated"
     },
     {
         "name": "PHS",
