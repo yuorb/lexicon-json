@@ -2,7 +2,7 @@
   {
     "root": "VR",
     "refers": "0 / Zero / NULL",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be) zero as the empty-set / a set having no members; to have no quantity or amount",
         "CTE": "(to be) a party/entity of whom/which there are no members",
@@ -27,7 +27,7 @@
   {
     "root": "LL",
     "refers": "1 / ONE / UNITY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be) a set or group of one; to have one member",
         "CTE": "(to be) a party/entity of whom/which there is only one",
@@ -52,7 +52,7 @@
   {
     "root": "KS",
     "refers": "2 / TWO / BINARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **2** entities; (to be) a **2**-some",
         "CTE": "(to be) a party/entity of whom/which there are **2**",
@@ -77,7 +77,7 @@
   {
     "root": "Z",
     "refers": "3 / THREE / TERNARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **3** entities; (to be) a **3**-some",
         "CTE": "(to be) a party/entity of whom/which there are **3**",
@@ -102,7 +102,7 @@
   {
     "root": "PŠ",
     "refers": "4 / FOUR / QUATERNARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **4** entities; (to be) a **4**-some",
         "CTE": "(to be) a party/entity of whom/which there are **4**",
@@ -127,7 +127,7 @@
   {
     "root": "ST",
     "refers": "5 / FIVE / QUINARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **5** entities; (to be) a **5**-some",
         "CTE": "(to be) a party/entity of whom/which there are **5**",
@@ -152,7 +152,7 @@
   {
     "root": "CP",
     "refers": "6 / SIX / SENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **6** entities; (to be) a **6**-some",
         "CTE": "(to be) a party/entity of whom/which there are **6**",
@@ -177,7 +177,7 @@
   {
     "root": "NS",
     "refers": "7 / SEVEN / SEPTENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **7** entities; (to be) a **7**-some",
         "CTE": "(to be) a party/entity of whom/which there are **7**",
@@ -202,7 +202,7 @@
   {
     "root": "ČK",
     "refers": "8 / EIGHT / OCTONARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **8** entities; (to be) a **8**-some",
         "CTE": "(to be) a party/entity of whom/which there are **8**",
@@ -227,7 +227,7 @@
   {
     "root": "LẒ",
     "refers": "9 / NINE / NOVENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **9** entities; (to be) a **9**-some",
         "CTE": "(to be) a party/entity of whom/which there are **9**",
@@ -252,7 +252,7 @@
   {
     "root": "J",
     "refers": "10 / TEN / DENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **10** entities; (to be) a **10**-some",
         "CTE": "(to be) a party/entity of whom/which there are **10**",
@@ -277,7 +277,7 @@
   {
     "root": "GZ",
     "refers": "100 / HUNDRED / CENTENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **100** entities; (to be) a **100**-some",
         "CTE": "(to be) a party/entity of whom/which there are **100**",
@@ -302,7 +302,7 @@
   {
     "root": "PC",
     "refers": "100² / TEN THOUSAND",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **100²** entities; (to be) a **100²**-some",
         "CTE": "(to be) a party/entity of whom/which there are **100²**",
@@ -327,7 +327,7 @@
   {
     "root": "KẒ",
     "refers": "100⁴ / HUNDRED MILLION",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **100⁴** entities; (to be) a **100⁴**-some",
         "CTE": "(to be) a party/entity of whom/which there are **100⁴**",
@@ -352,7 +352,7 @@
   {
     "root": "ČG",
     "refers": "100⁸ / TEN QUADRILLION",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **100⁸** entities; (to be) a **100⁸**-some",
         "CTE": "(to be) a party/entity of whom/which there are **100⁸**",
@@ -377,7 +377,7 @@
   {
     "root": "CG",
     "refers": "11 / ELEVEN / UNDENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **11** entities; (to be) a **11**-some",
         "CTE": "(to be) a party/entity of whom/which there are **11**",
@@ -402,7 +402,7 @@
   {
     "root": "JD",
     "refers": "12 / TWELVE / DUODENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **12** entities; (to be) a **12**-some",
         "CTE": "(to be) a party/entity of whom/which there are **12**",
@@ -427,7 +427,7 @@
   {
     "root": "ĻJ",
     "refers": "13 / THIRTEEN / TREDENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **13** entities; (to be) a **13**-some",
         "CTE": "(to be) a party/entity of whom/which there are **13**",
@@ -452,7 +452,7 @@
   {
     "root": "BC",
     "refers": "14 / FOURTEEN / QUATTUORDENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **14** entities; (to be) a **14**-some",
         "CTE": "(to be) a party/entity of whom/which there are **14**",
@@ -477,7 +477,7 @@
   {
     "root": "ŢẒ",
     "refers": "15 / FIFTEEN / QUINDENARY",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be a) set or group of **15** entities; (to be) a **15**-some",
         "CTE": "(to be) a party/entity of whom/which there are **15**",
@@ -502,7 +502,7 @@
   {
     "root": "TF",
     "refers": "ADDITION / SUBTRACTION",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be) an act/instance of changing the number of something via addition or subtraction",
         "CTE": "(to be) the party/entity that performs/initiates an act of adding or subtracting",
@@ -526,7 +526,7 @@
   {
     "root": "ẒV",
     "refers": "MULTIPLICATION / DIVISION",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be) an act/instance of changing the number of something via multiplication or division; to multiply either by iteration or by division",
         "CTE": "(to be) the party/entity that performs/initiates an act of multiplying or dividing something",
@@ -608,7 +608,7 @@
   {
     "root": "ŇZX",
     "refers": "ABSTRACT OBJECT / ABSTRACT STRUCTURE / ABSTRACT OPERATION",
-    "stem": [
+    "stems": [
       {
         "BSC": "(to be) an abstract object; to operate/ function as an abstract object [i.e., an abstract entity governed by abstract rules]",
         "CTE": "(to be) a defining property (or set of defining properties) of an abstract object",
