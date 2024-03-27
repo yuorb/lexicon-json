@@ -1,93 +1,93 @@
 [
-    {
-        "root": "TKR",
-        "refers": "AUDIBILITY / EMISSION OF SOUND / LOUDNESS",
-        "stems": [
-            {
-                "BSC": "(be) a state/instance of being audible; be able to hear a sound, [for a sound] to be audible",
-                "CTE": "(be) the audible volume/level of a sound, i.e., how loud/soft it is",
-                "CSV": "(be) an act/state of a sound being within the threshold of hearing",
-                "OBJ": "(be) an entity or circumstances creating an audible sound"
-            },
-            "(be) a state/act/instance of emitting a sound; to emit a sound",
-            "(be) a state/instance of being loud [i.e., having a greater audible volume than desired/necessary]"
-        ]
-    },
-    {
-        "root": "DVY",
-        "refers": "SOUND PATTERN / RHYTHM",
-        "stems": [
-            {
-                "BSC": "(be) a state/instance of a sound having a discernible/audible pattern; to hear a pattern within a sound",
-                "CTE": "(be) the pattern heard within a sound",
-                "CSV": "(be) an act/state of hearing or listening to the pattern within a sound",
-                "OBJ": "(be) the entity or circumstances creating a patterned sound"
-            },
-            "(be) a state/act/instance of emitting a patterned sound; to emit a sound containing an audible pattern",
-            "(be) a state/instance of a sound being rhythmic; [for a sound] to have a rhythm(ic pulse) or “beat”"
-        ]
-    },
-    {
-        "root": "DVW",
-        "refers": "ECHO / REVERBERATION",
-        "stems": [
-            {
-                "BSC": "(be) a state/instance of a sound echoing; to (make an) echo [both the making of the echo and hearing it",
-                "CTE": "(be) the pattern of sonic repetition constituting an echo",
-                "CSV": "(be) an act/state of hearing or listening to an echo",
-                "OBJ": "(be) the entity or circumstances creating an echo"
-            },
-            "(be) a state/act/instance of emitting an echo; to emit an echo",
-            "(be) a state/instance of a sound reverberating; [for a sound] to have a reverberation"
-        ]
-    },
-    {
-        "root": "RČX",
-        "refers": "ANNOYING/SHRILL/IRRITATING SOUND",
-        "stems": [
-            {
-                "BSC": "(be) a state/instance of a sound being annoying/irritating/shrill; to hear/listen to an annoying/irritating/shrill sound [both the sound and the hearing/listening to it]",
-                "CTE": "(be) an annoying/irritating/shrill sound",
-                "CSV": "(be) an act/state of hearing or listening to an annoying/irritating/shrill sound",
-                "OBJ": "(be) the entity or circumstances creating an annoying/irritating/shrill sound"
-            },
-            "(be) a state/act/instance of emitting an annoying/shrill sound; to emit an annoying/shrill sound",
-            "(be) the degree of desire/capacity to listen to a sound due to its unpleasant nature [use with EXN, SUF or similar affix]"
-        ]
-    },
-    {
-        "root": "ČXW",
-        "refers": "RAUCOUS SOUND / NOISE",
-        "see": "RČX"
-    },
-    {
-        "root": "ŠFY",
-        "refers": "MUFFLED / UNCLEAR SOUND",
-        "see": "RČX"
-    },
-    {
-        "root": "MŽV",
-        "refers": "SONOROUS / RESONANT SOUND",
-        "see": "RČX"
-    },
-    {
-        "root": "LÇW",
-        "refers": "PLAINTIVE / WISTFUL SOUND",
-        "see": "RČX"
-    },
-    {
-        "root": "MSY",
-        "refers": "PLEASANT / MELLIFLUOUS SOUND",
-        "see": "RČX"
-    },
-    {
-        "root": "LCL",
-        "refers": "MELLOW / DULCET SOUND",
-        "see": "RČX"
-    },
-    {
-        "root": "RÇW",
-        "refers": "LILTING VOCAL SOUND",
-        "see": "RČX"
-    }
+  {
+    "root": "TKR",
+    "refers": "AUDIBILITY / EMISSION OF SOUND / LOUDNESS",
+    "stems": [
+      {
+        "BSC": "(be) a state/instance of being audible; be able to hear a sound, [for a sound] to be audible",
+        "CTE": "(be) the audible volume/level of a sound, i.e., how loud/soft it is",
+        "CSV": "(be) an act/state of a sound being within the threshold of hearing",
+        "OBJ": "(be) an entity or circumstances creating an audible sound"
+      },
+      "(be) a state/act/instance of emitting a sound; to emit a sound",
+      "(be) a state/instance of being loud [i.e., having a greater audible volume than desired/necessary]"
+    ]
+  },
+  {
+    "root": "DVY",
+    "refers": "SOUND PATTERN / RHYTHM",
+    "stems": [
+      {
+        "BSC": "(be) a state/instance of a sound having a discernible/audible pattern; to hear a pattern within a sound",
+        "CTE": "(be) the pattern heard within a sound",
+        "CSV": "(be) an act/state of hearing or listening to the pattern within a sound",
+        "OBJ": "(be) the entity or circumstances creating a patterned sound"
+      },
+      "(be) a state/act/instance of emitting a patterned sound; to emit a sound containing an audible pattern",
+      "(be) a state/instance of a sound being rhythmic; [for a sound] to have a rhythm(ic pulse) or “beat”"
+    ]
+  },
+  {
+    "root": "DVW",
+    "refers": "ECHO / REVERBERATION",
+    "stems": [
+      {
+        "BSC": "(be) a state/instance of a sound echoing; to (make an) echo [both the making of the echo and hearing it",
+        "CTE": "(be) the pattern of sonic repetition constituting an echo",
+        "CSV": "(be) an act/state of hearing or listening to an echo",
+        "OBJ": "(be) the entity or circumstances creating an echo"
+      },
+      "(be) a state/act/instance of emitting an echo; to emit an echo",
+      "(be) a state/instance of a sound reverberating; [for a sound] to have a reverberation"
+    ]
+  },
+  {
+    "root": "RČX",
+    "refers": "ANNOYING/SHRILL/IRRITATING SOUND",
+    "stems": [
+      {
+        "BSC": "(be) a state/instance of a sound being annoying/irritating/shrill; to hear/listen to an annoying/irritating/shrill sound [both the sound and the hearing/listening to it]",
+        "CTE": "(be) an annoying/irritating/shrill sound",
+        "CSV": "(be) an act/state of hearing or listening to an annoying/irritating/shrill sound",
+        "OBJ": "(be) the entity or circumstances creating an annoying/irritating/shrill sound"
+      },
+      "(be) a state/act/instance of emitting an annoying/shrill sound; to emit an annoying/shrill sound",
+      "(be) the degree of desire/capacity to listen to a sound due to its unpleasant nature [use with EXN, SUF or similar affix]"
+    ]
+  },
+  {
+    "root": "ČXW",
+    "refers": "RAUCOUS SOUND / NOISE",
+    "see": "RČX"
+  },
+  {
+    "root": "ŠFY",
+    "refers": "MUFFLED / UNCLEAR SOUND",
+    "see": "RČX"
+  },
+  {
+    "root": "MŽV",
+    "refers": "SONOROUS / RESONANT SOUND",
+    "see": "RČX"
+  },
+  {
+    "root": "LÇW",
+    "refers": "PLAINTIVE / WISTFUL SOUND",
+    "see": "RČX"
+  },
+  {
+    "root": "MSY",
+    "refers": "PLEASANT / MELLIFLUOUS SOUND",
+    "see": "RČX"
+  },
+  {
+    "root": "LCL",
+    "refers": "MELLOW / DULCET SOUND",
+    "see": "RČX"
+  },
+  {
+    "root": "RÇW",
+    "refers": "LILTING VOCAL SOUND",
+    "see": "RČX"
+  }
 ]

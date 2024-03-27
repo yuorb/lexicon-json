@@ -1,142 +1,142 @@
 [
-    {
-        "root": "Ẓ",
-        "refers": "SEE / SIGHT / VISION",
-        "stems": [
-            {
-                "BSC": "(to be) a sight and the seeing thereof; to see something [act of seeing + the sight itself]; an act of seeing something",
-                "CTE": "(to be) a visual image; the image one sees",
-                "CSV": "(to be) an act of seeing; to see; to engage one’s visual faculty",
-                "OBJ": "(to be) the object/entity/sight one sees"
-            },
-            "(to be) an eye (as organ of vision)",
-            "(to be) the visual faculty/sense; one’s vision"
-        ],
-        "notes": "view, glimpse, glance, ogle, gawk, stare, spy, espy, peep, voyeur, panorama, scrutinize (visually)"
-    },
-    {
-        "root": "ŠP",
-        "refers": "COLOR",
-        "stems": [
-            {
-                "BSC": "(to be) something having a (particular) color / something colored",
-                "CTE": "(to be/manifest) the particular color (of something)",
-                "CSV": "(to be/manifest) the (reflected) light of (a certain wavelength) that is perceived by an observer as being a particular color",
-                "OBJ": "(to be) an entity having a particular color (e.g., “the red one”)"
-            },
-            "Same as Stem 1 but a hue 15 degrees counter-clockwise on a 8-basic-valued 360-degree color-wheel (i.e., one-third of the way to the next basic color value, or half-way to Stem 3 of the next basic color value).",
-            "Same as Stem 1 but a hue 15 degrees clockwise on a 8-basic-valued 360-degree color-wheel (i.e., one-third of the way to the next basic color value, or half-way to Stem 2 of the next basic color value)."
-        ],
-        "notes": "The CLD and COL affixes can be used with all color stems (and as well as non-color stems where semantically productive). For dichromatic (2-colored) descriptions, concatenate one color stem into another using COMITATIVE format.\n\nThe Western basic color terms “pink” and “brown” do not have roots. The various shades covered by these two color terms are expressed as derivatives of red or magenta, and orange respectively. Use of the CLD affix also provides terms for more obscure shades such as “peach”, “mauve”, “turquoise”, “indigo”, “olive”, “rust”, “burnt sienna”, “cobalt blue”, “forest green”, “beige”, “burgundy”, etc.\n\nUsing the COL affix in conjunction with the Phase and Modulative affixes, one can add qualities such as “gleaming”, “twinkling”, “opalescent”, “glittering”, etc. In addition to the above scheme, the COL/7 affix provides for terms based on the color of a tangible object."
-    },
-    {
-        "root": "GY",
-        "refers": "RED",
-        "stems": [
-            "red",
-            "pinkish-red, rose",
-            "orangy-red"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "ŇR",
-        "refers": "ORANGE",
-        "stems": [
-            "orange",
-            "reddish orange",
-            "yellowish orange, ochre"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "ML",
-        "refers": "YELLOW",
-        "stems": [
-            "yellow",
-            "orangy-yellow, gold(en yellow)",
-            "greenish-yellow"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "ČW",
-        "refers": "GREEN",
-        "stems": [
-            "green",
-            "yellowish-green, chartreuse",
-            "light-bluish, green, teal green"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "ḐR",
-        "refers": "CYAN",
-        "stems": [
-            "cyan",
-            "greenish blue, teal blue",
-            "azure blue"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "LW",
-        "refers": "BLUE",
-        "stems": [
-            "blue",
-            "lighter blue, royal blue",
-            "violet-blue"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "ŽL",
-        "refers": "VIOLET",
-        "stems": [
-            "violet, purple",
-            "blue-violet",
-            "magenta-violet, magenta-purple"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "VM",
-        "refers": "MAGENTA",
-        "stems": [
-            "magenta",
-            "violet-magenta, purple-magenta",
-            "dark rose, rose-magenta"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "BV",
-        "refers": "WHITE",
-        "stems": [
-            "something white",
-            "something light-colored or pale-tinted",
-            "something whose color/visibility is washed out by bright light/glare"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "XM",
-        "refers": "BLACK",
-        "stems": [
-            "something black",
-            "something of a dark shade",
-            "something obscured by low light or poor viewing conditions"
-        ],
-        "see": "ŠP"
-    },
-    {
-        "root": "CV",
-        "refers": "GRAY",
-        "stems": [
-            "something gray",
-            "something light-gray",
-            "something dark-gray"
-        ],
-        "see": "ŠP"
-    }
+  {
+    "root": "Ẓ",
+    "refers": "SEE / SIGHT / VISION",
+    "stems": [
+      {
+        "BSC": "(to be) a sight and the seeing thereof; to see something [act of seeing + the sight itself]; an act of seeing something",
+        "CTE": "(to be) a visual image; the image one sees",
+        "CSV": "(to be) an act of seeing; to see; to engage one’s visual faculty",
+        "OBJ": "(to be) the object/entity/sight one sees"
+      },
+      "(to be) an eye (as organ of vision)",
+      "(to be) the visual faculty/sense; one’s vision"
+    ],
+    "notes": "view, glimpse, glance, ogle, gawk, stare, spy, espy, peep, voyeur, panorama, scrutinize (visually)"
+  },
+  {
+    "root": "ŠP",
+    "refers": "COLOR",
+    "stems": [
+      {
+        "BSC": "(to be) something having a (particular) color / something colored",
+        "CTE": "(to be/manifest) the particular color (of something)",
+        "CSV": "(to be/manifest) the (reflected) light of (a certain wavelength) that is perceived by an observer as being a particular color",
+        "OBJ": "(to be) an entity having a particular color (e.g., “the red one”)"
+      },
+      "Same as Stem 1 but a hue 15 degrees counter-clockwise on a 8-basic-valued 360-degree color-wheel (i.e., one-third of the way to the next basic color value, or half-way to Stem 3 of the next basic color value).",
+      "Same as Stem 1 but a hue 15 degrees clockwise on a 8-basic-valued 360-degree color-wheel (i.e., one-third of the way to the next basic color value, or half-way to Stem 2 of the next basic color value)."
+    ],
+    "notes": "The CLD and COL affixes can be used with all color stems (and as well as non-color stems where semantically productive). For dichromatic (2-colored) descriptions, concatenate one color stem into another using COMITATIVE format.\n\nThe Western basic color terms “pink” and “brown” do not have roots. The various shades covered by these two color terms are expressed as derivatives of red or magenta, and orange respectively. Use of the CLD affix also provides terms for more obscure shades such as “peach”, “mauve”, “turquoise”, “indigo”, “olive”, “rust”, “burnt sienna”, “cobalt blue”, “forest green”, “beige”, “burgundy”, etc.\n\nUsing the COL affix in conjunction with the Phase and Modulative affixes, one can add qualities such as “gleaming”, “twinkling”, “opalescent”, “glittering”, etc. In addition to the above scheme, the COL/7 affix provides for terms based on the color of a tangible object."
+  },
+  {
+    "root": "GY",
+    "refers": "RED",
+    "stems": [
+      "red",
+      "pinkish-red, rose",
+      "orangy-red"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "ŇR",
+    "refers": "ORANGE",
+    "stems": [
+      "orange",
+      "reddish orange",
+      "yellowish orange, ochre"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "ML",
+    "refers": "YELLOW",
+    "stems": [
+      "yellow",
+      "orangy-yellow, gold(en yellow)",
+      "greenish-yellow"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "ČW",
+    "refers": "GREEN",
+    "stems": [
+      "green",
+      "yellowish-green, chartreuse",
+      "light-bluish, green, teal green"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "ḐR",
+    "refers": "CYAN",
+    "stems": [
+      "cyan",
+      "greenish blue, teal blue",
+      "azure blue"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "LW",
+    "refers": "BLUE",
+    "stems": [
+      "blue",
+      "lighter blue, royal blue",
+      "violet-blue"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "ŽL",
+    "refers": "VIOLET",
+    "stems": [
+      "violet, purple",
+      "blue-violet",
+      "magenta-violet, magenta-purple"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "VM",
+    "refers": "MAGENTA",
+    "stems": [
+      "magenta",
+      "violet-magenta, purple-magenta",
+      "dark rose, rose-magenta"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "BV",
+    "refers": "WHITE",
+    "stems": [
+      "something white",
+      "something light-colored or pale-tinted",
+      "something whose color/visibility is washed out by bright light/glare"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "XM",
+    "refers": "BLACK",
+    "stems": [
+      "something black",
+      "something of a dark shade",
+      "something obscured by low light or poor viewing conditions"
+    ],
+    "see": "ŠP"
+  },
+  {
+    "root": "CV",
+    "refers": "GRAY",
+    "stems": [
+      "something gray",
+      "something light-gray",
+      "something dark-gray"
+    ],
+    "see": "ŠP"
+  }
 ]

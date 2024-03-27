@@ -1,370 +1,370 @@
 [
-    {
-        "root": "DDL",
-        "refers": "GROUND VEHICLE / CONVEY IN GROUND VEHICLE",
-        "stems": [
-            {
-                "BSC": "(to be) an act/state of traveling/conveying objects or persons in an open-air wheeled vehicle (e.g., cart, wagon, open-bed truck/lorry, open-bed train car, wheelbarrow, wheelchair, wheeled stretcher or gurney, bicycle, skateboard, motorcycle, etc.); to travel/convey (an) object(s)/person(s) in an open-aired wheeled vehicle [both the travel/conveyance and the vehicle itself]",
-                "CTE": "(to be) a wheeled open-air wheeled vehicle",
-                "CSV": "(to be) an act/instance of conveying/traveling in a wheeled open-air vehicle; to travel/convey by open-air wheeled vehicle",
-                "OBJ": "(to be) the entity/object(s)/party being conveyed by an open-air wheeled vehicle"
-            },
-            "(to be) an act/instance of traveling/conveying objects or persons in an enclosed wheeled vehicle (e.g., car, carriage, coach, van, bus, train car, etc.)",
-            "(to be) an act/instance of traveling/conveying objects or persons in a non-wheeled vehicle (e.g., sled, palanquin, sedan chair, litter, etc.)"
-        ],
-        "notes": "Use degrees 3 and 5 of the MEA and CVY affixes with this root to designated motorized vs non-motorized vehicles/vessels."
-    },
-    {
-        "root": "ÇÇTR",
-        "stems": [
-            "sled",
-            "sleigh",
-            "snowmobile"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "LCF",
-        "stems": [
-            "bicycle",
-            "tricycle",
-            "unicycle"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "LCFW",
-        "stems": [
-            "wheeled wagon/carriage",
-            "wheelchair",
-            "wheeled gurney"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "LCFY",
-        "stems": [
-            "baby carriage / pram",
-            "wheelbarrow",
-            "wheeled cart, wheeled pushcart, wagon"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "LÇV",
-        "stems": [
-            "4-wheeled [platform] dolly",
-            "4-wheeled mover’s dolly",
-            "a wheeled hand-truck"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "ŘÇV",
-        "stems": [
-            "garage creeper",
-            "pallet jack / pallet truck",
-            "forklift"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢB",
-        "stems": [
-            "scooter",
-            "motorized scooter",
-            "moped"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢD",
-        "stems": [
-            "motor scooter",
-            "two-wheeled motorcycle",
-            "three-wheeled motorcycle"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢG",
-        "stems": [
-            "go-cart",
-            "dune buggy",
-            "all-terrain vehicle"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢGR",
-        "stems": [
-            "dicycle/diwheel/Segway",
-            "self-balancing scooter",
-            "hoverboard"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢL",
-        "stems": [
-            "passenger automobile (coupe)",
-            "passenger automobile (sedan)",
-            "passenger automobile (station wagon or automobile-chassis-based SUV)"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢN",
-        "stems": [
-            "limousine / stretch car",
-            "hearse",
-            "police car"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢŇ",
-        "stems": [
-            "passenger van",
-            "automobile-chassis-based pick-up truck",
-            "full-sized pick-up truck or truck-chassis-based SUV"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢW",
-        "stems": [
-            "delivery van / box van",
-            "multi-passenger van/minibus",
-            "bus"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢY",
-        "stems": [
-            "camper van / caravan",
-            "motorhome / motor coach",
-            "tractor truck / semi-trailer truck"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢŘ",
-        "stems": [
-            "taxi cab",
-            "ambulance",
-            "fire engine"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢF",
-        "stems": [
-            "tractor",
-            "dump truck",
-            "cement mixer"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢV",
-        "stems": [
-            "jeep",
-            "snowplow",
-            "specialized farming/agricultural vehicle"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NŢX",
-        "stems": [
-            "military tank",
-            "crane",
-            "specialized construction vehicle (e.g., bulldozer, excavator)"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NKŢ",
-        "stems": [
-            "streetcar / tram / metro car",
-            "funicular",
-            "aerial tram"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "NKH",
-        "stems": [
-            "train passenger car",
-            "train container car / box car",
-            "train locomotive / train engine"
-        ],
-        "see": "DDL"
-    },
-    {
-        "root": "DDR",
-        "refers": "VESSEL / WATERCRAFT / AIRCRAFT / SPACECRAFT",
-        "stems": [
-            {
-                "BSC": "(to be) an act/state of traveling/conveying objects or persons in a water vessel/watercraft (e.g., boat, ship, canoe, kayak, catamaran, dinghy, etc.); to travel/convey in a watercraft",
-                "CTE": "(to be) a watercraft",
-                "CSV": "(to be) an act/instance of conveying/traveling in a watercraft; to travel/convey by watercraft",
-                "OBJ": "(to be) the entity/object(s)/party being conveyed by a watercraft"
-            },
-            "(to be) an act/state of traveling/conveying objects or persons in an aircraft (e.g., airplane/aeroplane, jet plane, glider, hot-air balloon, etc.)",
-            "(to be) an act/state of traveling/conveying objects or persons in a spacecraft"
-        ],
-        "notes": "Use degrees 3 and 5 of the MEA and CVY affixes with this root to designated motorized vs non-motorized vehicles/vessels."
-    },
-    {
-        "root": "ŇSM",
-        "stems": [
-            "raft",
-            "inflatable raft",
-            "paddle boat"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSN",
-        "stems": [
-            "coracle / dinghy",
-            "kayak",
-            "umiak"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSŇ",
-        "stems": [
-            "canoe",
-            "rowboat/dory/gondola/skiff",
-            "jon boat / coble / flatbottomed small boat"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSW",
-        "stems": [
-            "single-masted sailboat",
-            "sailboat + rowboat (e.g., dragon boat, karve, bireme, trireme, skeid)",
-            "small sailboat (e.g., sloop, catboat, felucca, skipjack)"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSY",
-        "stems": [
-            "multi-masted sailboat (e.g., schooner, caravel, ketch, yawl)",
-            "sailing ship (e.g., galleon, brig, galleon, barque, clipper)",
-            "catamaran"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSR",
-        "stems": [
-            "motorboat",
-            "airboat",
-            "pontoon"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSŘ",
-        "stems": [
-            "barge",
-            "paddlewheel steamer",
-            "steamship"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSF",
-        "stems": [
-            "yacht",
-            "megayacht",
-            "hydrofoil"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSV",
-        "stems": [
-            "freighter ship",
-            "passenger liner",
-            "military gunship"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŇSX",
-        "stems": [
-            "aircraft carrier",
-            "submarine",
-            "other specialized watercraft"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "LVL",
-        "stems": [
-            "propeller-driven airplane/aeroplane",
-            "propeller-driven passenger airplane",
-            "propeller-driven cargo / freight airplane"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "LVZ",
-        "stems": [
-            "private jet aircraft",
-            "passenger jet airplane",
-            "cargo / freight jet airplane"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "LVŽ",
-        "stems": [
-            "military jetfighter",
-            "military jet airplane (e.g., bomber, cargo plane)",
-            "aerial drone"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "LVŇ",
-        "stems": [
-            "hot air balloon",
-            "blimp",
-            "helicopter"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "LVN",
-        "stems": [
-            "spaceship",
-            "space shuttle / space plane",
-            "orbital satellite"
-        ],
-        "see": "DDR"
-    },
-    {
-        "root": "ŽMY",
-        "refers": "NET / MESH / TARP",
-        "stems": [
-            {
-                "BSC": "(to be) a net; to use a net",
-                "CTE": "(to be in) a state of being captured/trapped/held/covered in a net",
-                "CSV": "(to be) the physical act of using a net (to capture/trap/hold/cover something)",
-                "OBJ": "(to be) that which is captured/trapped/held/covered in a net"
-            },
-            "(to be) a mesh or netting",
-            "(to be) a tarp"
-        ]
-    }
+  {
+    "root": "DDL",
+    "refers": "GROUND VEHICLE / CONVEY IN GROUND VEHICLE",
+    "stems": [
+      {
+        "BSC": "(to be) an act/state of traveling/conveying objects or persons in an open-air wheeled vehicle (e.g., cart, wagon, open-bed truck/lorry, open-bed train car, wheelbarrow, wheelchair, wheeled stretcher or gurney, bicycle, skateboard, motorcycle, etc.); to travel/convey (an) object(s)/person(s) in an open-aired wheeled vehicle [both the travel/conveyance and the vehicle itself]",
+        "CTE": "(to be) a wheeled open-air wheeled vehicle",
+        "CSV": "(to be) an act/instance of conveying/traveling in a wheeled open-air vehicle; to travel/convey by open-air wheeled vehicle",
+        "OBJ": "(to be) the entity/object(s)/party being conveyed by an open-air wheeled vehicle"
+      },
+      "(to be) an act/instance of traveling/conveying objects or persons in an enclosed wheeled vehicle (e.g., car, carriage, coach, van, bus, train car, etc.)",
+      "(to be) an act/instance of traveling/conveying objects or persons in a non-wheeled vehicle (e.g., sled, palanquin, sedan chair, litter, etc.)"
+    ],
+    "notes": "Use degrees 3 and 5 of the MEA and CVY affixes with this root to designated motorized vs non-motorized vehicles/vessels."
+  },
+  {
+    "root": "ÇÇTR",
+    "stems": [
+      "sled",
+      "sleigh",
+      "snowmobile"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "LCF",
+    "stems": [
+      "bicycle",
+      "tricycle",
+      "unicycle"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "LCFW",
+    "stems": [
+      "wheeled wagon/carriage",
+      "wheelchair",
+      "wheeled gurney"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "LCFY",
+    "stems": [
+      "baby carriage / pram",
+      "wheelbarrow",
+      "wheeled cart, wheeled pushcart, wagon"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "LÇV",
+    "stems": [
+      "4-wheeled [platform] dolly",
+      "4-wheeled mover’s dolly",
+      "a wheeled hand-truck"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "ŘÇV",
+    "stems": [
+      "garage creeper",
+      "pallet jack / pallet truck",
+      "forklift"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢB",
+    "stems": [
+      "scooter",
+      "motorized scooter",
+      "moped"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢD",
+    "stems": [
+      "motor scooter",
+      "two-wheeled motorcycle",
+      "three-wheeled motorcycle"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢG",
+    "stems": [
+      "go-cart",
+      "dune buggy",
+      "all-terrain vehicle"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢGR",
+    "stems": [
+      "dicycle/diwheel/Segway",
+      "self-balancing scooter",
+      "hoverboard"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢL",
+    "stems": [
+      "passenger automobile (coupe)",
+      "passenger automobile (sedan)",
+      "passenger automobile (station wagon or automobile-chassis-based SUV)"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢN",
+    "stems": [
+      "limousine / stretch car",
+      "hearse",
+      "police car"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢŇ",
+    "stems": [
+      "passenger van",
+      "automobile-chassis-based pick-up truck",
+      "full-sized pick-up truck or truck-chassis-based SUV"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢW",
+    "stems": [
+      "delivery van / box van",
+      "multi-passenger van/minibus",
+      "bus"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢY",
+    "stems": [
+      "camper van / caravan",
+      "motorhome / motor coach",
+      "tractor truck / semi-trailer truck"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢŘ",
+    "stems": [
+      "taxi cab",
+      "ambulance",
+      "fire engine"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢF",
+    "stems": [
+      "tractor",
+      "dump truck",
+      "cement mixer"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢV",
+    "stems": [
+      "jeep",
+      "snowplow",
+      "specialized farming/agricultural vehicle"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NŢX",
+    "stems": [
+      "military tank",
+      "crane",
+      "specialized construction vehicle (e.g., bulldozer, excavator)"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NKŢ",
+    "stems": [
+      "streetcar / tram / metro car",
+      "funicular",
+      "aerial tram"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "NKH",
+    "stems": [
+      "train passenger car",
+      "train container car / box car",
+      "train locomotive / train engine"
+    ],
+    "see": "DDL"
+  },
+  {
+    "root": "DDR",
+    "refers": "VESSEL / WATERCRAFT / AIRCRAFT / SPACECRAFT",
+    "stems": [
+      {
+        "BSC": "(to be) an act/state of traveling/conveying objects or persons in a water vessel/watercraft (e.g., boat, ship, canoe, kayak, catamaran, dinghy, etc.); to travel/convey in a watercraft",
+        "CTE": "(to be) a watercraft",
+        "CSV": "(to be) an act/instance of conveying/traveling in a watercraft; to travel/convey by watercraft",
+        "OBJ": "(to be) the entity/object(s)/party being conveyed by a watercraft"
+      },
+      "(to be) an act/state of traveling/conveying objects or persons in an aircraft (e.g., airplane/aeroplane, jet plane, glider, hot-air balloon, etc.)",
+      "(to be) an act/state of traveling/conveying objects or persons in a spacecraft"
+    ],
+    "notes": "Use degrees 3 and 5 of the MEA and CVY affixes with this root to designated motorized vs non-motorized vehicles/vessels."
+  },
+  {
+    "root": "ŇSM",
+    "stems": [
+      "raft",
+      "inflatable raft",
+      "paddle boat"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSN",
+    "stems": [
+      "coracle / dinghy",
+      "kayak",
+      "umiak"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSŇ",
+    "stems": [
+      "canoe",
+      "rowboat/dory/gondola/skiff",
+      "jon boat / coble / flatbottomed small boat"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSW",
+    "stems": [
+      "single-masted sailboat",
+      "sailboat + rowboat (e.g., dragon boat, karve, bireme, trireme, skeid)",
+      "small sailboat (e.g., sloop, catboat, felucca, skipjack)"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSY",
+    "stems": [
+      "multi-masted sailboat (e.g., schooner, caravel, ketch, yawl)",
+      "sailing ship (e.g., galleon, brig, galleon, barque, clipper)",
+      "catamaran"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSR",
+    "stems": [
+      "motorboat",
+      "airboat",
+      "pontoon"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSŘ",
+    "stems": [
+      "barge",
+      "paddlewheel steamer",
+      "steamship"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSF",
+    "stems": [
+      "yacht",
+      "megayacht",
+      "hydrofoil"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSV",
+    "stems": [
+      "freighter ship",
+      "passenger liner",
+      "military gunship"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŇSX",
+    "stems": [
+      "aircraft carrier",
+      "submarine",
+      "other specialized watercraft"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "LVL",
+    "stems": [
+      "propeller-driven airplane/aeroplane",
+      "propeller-driven passenger airplane",
+      "propeller-driven cargo / freight airplane"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "LVZ",
+    "stems": [
+      "private jet aircraft",
+      "passenger jet airplane",
+      "cargo / freight jet airplane"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "LVŽ",
+    "stems": [
+      "military jetfighter",
+      "military jet airplane (e.g., bomber, cargo plane)",
+      "aerial drone"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "LVŇ",
+    "stems": [
+      "hot air balloon",
+      "blimp",
+      "helicopter"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "LVN",
+    "stems": [
+      "spaceship",
+      "space shuttle / space plane",
+      "orbital satellite"
+    ],
+    "see": "DDR"
+  },
+  {
+    "root": "ŽMY",
+    "refers": "NET / MESH / TARP",
+    "stems": [
+      {
+        "BSC": "(to be) a net; to use a net",
+        "CTE": "(to be in) a state of being captured/trapped/held/covered in a net",
+        "CSV": "(to be) the physical act of using a net (to capture/trap/hold/cover something)",
+        "OBJ": "(to be) that which is captured/trapped/held/covered in a net"
+      },
+      "(to be) a mesh or netting",
+      "(to be) a tarp"
+    ]
+  }
 ]

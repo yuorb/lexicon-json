@@ -1,367 +1,367 @@
 [
-    {
-        "root": "ḐH",
-        "refers": "SENSATION OF WARMTH",
-        "stems": [
-            {
-                "BSC": "(to be/experience) the sense of being warm (inside one’s body) and the feeling thereof [both the internal, psychological manifestation and the external, visible manifestation]",
-                "CTE": "(to be) the sensation of warmth, the state of feeling warm (inside one’s body)",
-                "CSV": "(to be) the physical manifestation(s) of feeling warm (inside one’s body); to undergo/experience the feeling of being warm (inside one’s body)",
-                "OBJ": "(to be) the state/act/event/situation which causes the state of feeling warm (inside one’s body)"
-            },
-            "feel hot (inside one’s body)",
-            "feel feverish (inside one’s body)"
-        ]
-    },
-    {
-        "root": "XN",
-        "refers": "SENSATION OF COOLNESS",
-        "stems": [
-            "feel cool (inside one’s body)",
-            "feel cold (inside one’s body)",
-            "feel chilled / have the chills (inside one’s body); be shivering, have the shivers"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "LŢN",
-        "refers": "PHYSICAL “HIGH” / ALTERED STATE OF CONSCIOUSNESS",
-        "stems": [
-            "natural “high” / natural state of euphoria (physical/sensory, not emotional in origin)",
-            "chemically-induced “high”",
-            "trance-like state / altered state of consciousness"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "GḐ",
-        "refers": "PHYSICAL SENSE OF WELL-BEING",
-        "stems": [
-            "feel good, feel sense of physical well-being",
-            "feel relaxed",
-            "feel post-orgasmic/post-coital bliss; “afterglow”"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "PSW",
-        "refers": "RESPIRATION",
-        "stems": [
-            "breathe",
-            "pant (i.e., due to physical/sexual exertion, excitement, fright, pulmonary, illness, etc.); feel/be out of breath, short-of-breath",
-            "gasp (i.e., once, as in surprise, shock, pain, etc.)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "MSŘ",
-        "refers": "RESPIRATORY DIFFICULTY",
-        "stems": [
-            "wheeze",
-            "have râles (pulmonary crepitations)",
-            "choke / asphyxiate"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ČŘ",
-        "refers": "BODILY WASTE ELIMINATION",
-        "stems": [
-            "feel need to urinate [CPT = to urinate]",
-            "feel need to defecate [CPT = to defecate]",
-            "salivate / feel need to spit [CPT = to spit]"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "KHW",
-        "refers": "SEMI-CONSCIOUS RESPIRATORY REACTIONS",
-        "stems": [
-            "sigh",
-            "huff (as in indignation, annoyance, or anger)",
-            "puff, blow out [held] breath (as when relieved, caught off guard, saying “phew!”)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "GZŘ",
-        "refers": "AUTONOMIC RESPIRATORY REACTIONS",
-        "stems": [
-            "feel need to yawn [CPT = to yawn]",
-            "feel need to cough [CPT = to cough]",
-            "feel need to sneeze [CPT = to sneeze]"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ŘXM",
-        "refers": "GASTRO-INTESTINAL PAROXYSM 2",
-        "stems": [
-            "feel need to vomit [CPT = to vomit]",
-            "feel need to fart [CPT = to fart]",
-            "feel stomach or intestinal cramp"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "JŘ",
-        "refers": "GASTRO-INTESTINAL PAROXYSM 1",
-        "stems": [
-            "feel need to belch/burp [CPT = to belch/burp]",
-            "experience a hiccup",
-            "experience gagging; to gag"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "PSŘ",
-        "refers": "HAVE AN ITCH; TO ITCH",
-        "stems": [
-            "have an itch; to itch",
-            "feel a tingling sensation (on skin)",
-            "feel a burning sensation (on skin)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "CXW",
-        "refers": "TACTILE INJURIES TO SKIN",
-        "stems": [
-            "feel a scrape",
-            "feel a bruising/contusion",
-            "feel a pinch(ing)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "FN",
-        "refers": "HUNGER / THIRST",
-        "stems": [
-            "feel hunger/hungry",
-            "feel thirst/thirsty",
-            "feel undernourished"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ĻM",
-        "refers": "FEEL TIREDNESS/FATIGUE",
-        "stems": [
-            "feel tiredness/fatigue",
-            "feel drowsiness/sleepiness",
-            "feel unfocused/groggy"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "TFŘ",
-        "refers": "FEEL INTEROCEPTIVE BODILY MOVEMENT",
-        "stems": [
-            "feel bloated/gassy",
-            "feel stomach/intestines “rumbling”",
-            "feel stomach contents “shift”"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "FTŘ",
-        "refers": "ABNORMAL AFFECTIVE TACTILE SENSATION [ON SKIN]",
-        "stems": [
-            "feel a tickle",
-            "feel a prickly sensation",
-            "feel an “ants/spiders crawling” sensation"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ĻW",
-        "refers": "ABNORMAL INTEROCEPTIVE SENSATION",
-        "stems": [
-            "feel light-headed / dizzy",
-            "feel faint",
-            "feel shock / be in shock"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "MBŘ",
-        "refers": "ABNORMAL VESTIBULAR-PROPRIOCEPTIVE SENSATION",
-        "stems": [
-            "feel vestibular lack of balance; feel off-balance/unbalanced / having impaired balance / off-kilter",
-            "feel awkwardness/unfamiliarity with one’s bodily motor coordination (e.g., when drunk, following a stroke, during puberty, etc.)",
-            "feel “shaky”, difficulty in controlling one’s vestibular/muscular coordination (e.g., due to emotional shock, illness, fright, etc.)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "CTW",
-        "refers": "PENETRATIVE SENSATION THROUGH SKIN",
-        "stems": [
-            "feel a sting/prick",
-            "feel a stab; feel a piercing; sharp penetration through skin",
-            "feel a bite (by a toothed entity)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ŘX",
-        "refers": "PHYSICAL PAIN",
-        "stems": [
-            "feel external tactile pain",
-            "feel interoceptive/proprioceptive pain",
-            "feel muscular strain"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "VZW",
-        "refers": "SOCIALLY-BASED PLEASURABLE TACTILE SENSATION",
-        "stems": [
-            "sensation from having body or part of body rubbed or massaged",
-            "sensation from having back or other body part scratched (for pleasure or to relieve itch)",
-            "caress / feel of “soft touch” / “social touch” (a.k.a. affective touch, somatosensory touch)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "MŽW",
-        "refers": "AFFECTION-BASED TACTILE SENSATION",
-        "stems": [
-            "sensation from being kissed by another’s lips",
-            "sensation of being hugged/embraced in another’s arms",
-            "sensation of being cuddled"
-        ],
-        "see": "ḐH",
-        "notes": "Use RCP Valence with these stems to indicate mutual interaction."
-    },
-    {
-        "root": "JDW",
-        "refers": "AFFECTIVE TACTILE REACTIONS",
-        "stems": [
-            "feel “a thrill down one’s spine”",
-            "feel one’s “hairs standing on the back of one’s neck”",
-            "have the creeps / have the willies"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "JDV",
-        "refers": "NUMBNESS / “PINS & NEEDLES” FEELING",
-        "stems": [
-            "feel that a limb has “fallen asleep”",
-            "“pins & needles” feeling in one’s limb (after it has been “asleep”)",
-            "feel internal numbness or “dead” feeling (i.e., a lack of an expected internal sensation)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "KŘ",
-        "refers": "FEEL ILL / SICK / WEAKNESS",
-        "stems": [
-            "feel ill/sick/unhealthy; feeling of general malaise, feel “blah”, feel so-so, feel poorly",
-            "feel torpor/lethargy",
-            "feel weakness"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "LGV",
-        "refers": "CARDIOGENIC SENSATION",
-        "stems": [
-            "feel one’s heart beating",
-            "feel one’s heart racing",
-            "feel one’s heart fluttering"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "MMH",
-        "refers": "PHYSICAL/SENSORY PLEASURE",
-        "stems": [
-            "feel physical/sensory pleasure",
-            "feel comfortable (i.e., no pain/strain/stress/fatigue/hunger/worry, etc.)",
-            "feel physical satisfaction/satiety or physical relief (from previous state of pain/strain/fatigue/hunger/worry, etc.)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "KSN",
-        "refers": "POSITIVE OVERALL PHYSICAL STATE",
-        "stems": [
-            "feel energized/alert",
-            "feel physically in shape",
-            "feel physically strong"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ẒGŘ",
-        "refers": "INTERNAL BURNING/TINGLING/PRICKLY SENSATION",
-        "stems": [
-            "have/feel an internal “burning” sensation",
-            "have/feel an internal tingling sensation",
-            "have/feel an internal prickly/stinging sensation"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "GH",
-        "refers": "BRUISE / SWELLING / INFLAMMATION",
-        "stems": [
-            "have/feel a bruise",
-            "feel sore, have/feel inflammation, swelling",
-            "have a sensitive/tender feeling on the body (no visible swelling or bruise)"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "PFN",
-        "refers": "TWITCHING / FLUTTERING / TREMBLING",
-        "stems": [
-            "feel a twitch or twinge",
-            "feel a fluttering sensation",
-            "feel/experience a tremor or trembling"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ẒG",
-        "refers": "ACHE / SHARP PAIN / RADIATING PAIN",
-        "stems": [
-            "feel/have an ache (i.e., diffuse, non-sharp pain) [using SUF/EXN affixes, this stem can mean “feel throbbing/pounding pain”]",
-            "feel sharp/stabbing pain",
-            "feel radiating “shooting” pain"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ḐGŘ",
-        "refers": "QUEASINESS / NAUSEA / VOMITING",
-        "stems": [
-            "have no appetite (even though one has not recently eaten)",
-            "feel queasy (mildly nauseous feeling)",
-            "feel nauseous; have nausea, feel as if one is going to vomit [CPT version = “to vomit”]"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ḐČ",
-        "refers": "BLACK-OUT / SPELL / SEIZURE",
-        "stems": [
-            "experience a feeling of “blanking out” or “blacking out”",
-            "experience an episode or spell of inattention or loss of awareness/focus; to “zone out” / “space out”",
-            "experience a seizure"
-        ],
-        "see": "ḐH"
-    },
-    {
-        "root": "ŇH",
-        "refers": "EXHAUSTION / FATIGUE / FEEL FLUSHED",
-        "stems": [
-            "feel exhausted/exhaustion from physical/mental exertion",
-            "feel fatigue from illness, overwork, stress, etc.",
-            "feel flushed; have flushed feeling"
-        ],
-        "see": "ḐH"
-    }
+  {
+    "root": "ḐH",
+    "refers": "SENSATION OF WARMTH",
+    "stems": [
+      {
+        "BSC": "(to be/experience) the sense of being warm (inside one’s body) and the feeling thereof [both the internal, psychological manifestation and the external, visible manifestation]",
+        "CTE": "(to be) the sensation of warmth, the state of feeling warm (inside one’s body)",
+        "CSV": "(to be) the physical manifestation(s) of feeling warm (inside one’s body); to undergo/experience the feeling of being warm (inside one’s body)",
+        "OBJ": "(to be) the state/act/event/situation which causes the state of feeling warm (inside one’s body)"
+      },
+      "feel hot (inside one’s body)",
+      "feel feverish (inside one’s body)"
+    ]
+  },
+  {
+    "root": "XN",
+    "refers": "SENSATION OF COOLNESS",
+    "stems": [
+      "feel cool (inside one’s body)",
+      "feel cold (inside one’s body)",
+      "feel chilled / have the chills (inside one’s body); be shivering, have the shivers"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "LŢN",
+    "refers": "PHYSICAL “HIGH” / ALTERED STATE OF CONSCIOUSNESS",
+    "stems": [
+      "natural “high” / natural state of euphoria (physical/sensory, not emotional in origin)",
+      "chemically-induced “high”",
+      "trance-like state / altered state of consciousness"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "GḐ",
+    "refers": "PHYSICAL SENSE OF WELL-BEING",
+    "stems": [
+      "feel good, feel sense of physical well-being",
+      "feel relaxed",
+      "feel post-orgasmic/post-coital bliss; “afterglow”"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "PSW",
+    "refers": "RESPIRATION",
+    "stems": [
+      "breathe",
+      "pant (i.e., due to physical/sexual exertion, excitement, fright, pulmonary, illness, etc.); feel/be out of breath, short-of-breath",
+      "gasp (i.e., once, as in surprise, shock, pain, etc.)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "MSŘ",
+    "refers": "RESPIRATORY DIFFICULTY",
+    "stems": [
+      "wheeze",
+      "have râles (pulmonary crepitations)",
+      "choke / asphyxiate"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ČŘ",
+    "refers": "BODILY WASTE ELIMINATION",
+    "stems": [
+      "feel need to urinate [CPT = to urinate]",
+      "feel need to defecate [CPT = to defecate]",
+      "salivate / feel need to spit [CPT = to spit]"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "KHW",
+    "refers": "SEMI-CONSCIOUS RESPIRATORY REACTIONS",
+    "stems": [
+      "sigh",
+      "huff (as in indignation, annoyance, or anger)",
+      "puff, blow out [held] breath (as when relieved, caught off guard, saying “phew!”)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "GZŘ",
+    "refers": "AUTONOMIC RESPIRATORY REACTIONS",
+    "stems": [
+      "feel need to yawn [CPT = to yawn]",
+      "feel need to cough [CPT = to cough]",
+      "feel need to sneeze [CPT = to sneeze]"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ŘXM",
+    "refers": "GASTRO-INTESTINAL PAROXYSM 2",
+    "stems": [
+      "feel need to vomit [CPT = to vomit]",
+      "feel need to fart [CPT = to fart]",
+      "feel stomach or intestinal cramp"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "JŘ",
+    "refers": "GASTRO-INTESTINAL PAROXYSM 1",
+    "stems": [
+      "feel need to belch/burp [CPT = to belch/burp]",
+      "experience a hiccup",
+      "experience gagging; to gag"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "PSŘ",
+    "refers": "HAVE AN ITCH; TO ITCH",
+    "stems": [
+      "have an itch; to itch",
+      "feel a tingling sensation (on skin)",
+      "feel a burning sensation (on skin)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "CXW",
+    "refers": "TACTILE INJURIES TO SKIN",
+    "stems": [
+      "feel a scrape",
+      "feel a bruising/contusion",
+      "feel a pinch(ing)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "FN",
+    "refers": "HUNGER / THIRST",
+    "stems": [
+      "feel hunger/hungry",
+      "feel thirst/thirsty",
+      "feel undernourished"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ĻM",
+    "refers": "FEEL TIREDNESS/FATIGUE",
+    "stems": [
+      "feel tiredness/fatigue",
+      "feel drowsiness/sleepiness",
+      "feel unfocused/groggy"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "TFŘ",
+    "refers": "FEEL INTEROCEPTIVE BODILY MOVEMENT",
+    "stems": [
+      "feel bloated/gassy",
+      "feel stomach/intestines “rumbling”",
+      "feel stomach contents “shift”"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "FTŘ",
+    "refers": "ABNORMAL AFFECTIVE TACTILE SENSATION [ON SKIN]",
+    "stems": [
+      "feel a tickle",
+      "feel a prickly sensation",
+      "feel an “ants/spiders crawling” sensation"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ĻW",
+    "refers": "ABNORMAL INTEROCEPTIVE SENSATION",
+    "stems": [
+      "feel light-headed / dizzy",
+      "feel faint",
+      "feel shock / be in shock"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "MBŘ",
+    "refers": "ABNORMAL VESTIBULAR-PROPRIOCEPTIVE SENSATION",
+    "stems": [
+      "feel vestibular lack of balance; feel off-balance/unbalanced / having impaired balance / off-kilter",
+      "feel awkwardness/unfamiliarity with one’s bodily motor coordination (e.g., when drunk, following a stroke, during puberty, etc.)",
+      "feel “shaky”, difficulty in controlling one’s vestibular/muscular coordination (e.g., due to emotional shock, illness, fright, etc.)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "CTW",
+    "refers": "PENETRATIVE SENSATION THROUGH SKIN",
+    "stems": [
+      "feel a sting/prick",
+      "feel a stab; feel a piercing; sharp penetration through skin",
+      "feel a bite (by a toothed entity)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ŘX",
+    "refers": "PHYSICAL PAIN",
+    "stems": [
+      "feel external tactile pain",
+      "feel interoceptive/proprioceptive pain",
+      "feel muscular strain"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "VZW",
+    "refers": "SOCIALLY-BASED PLEASURABLE TACTILE SENSATION",
+    "stems": [
+      "sensation from having body or part of body rubbed or massaged",
+      "sensation from having back or other body part scratched (for pleasure or to relieve itch)",
+      "caress / feel of “soft touch” / “social touch” (a.k.a. affective touch, somatosensory touch)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "MŽW",
+    "refers": "AFFECTION-BASED TACTILE SENSATION",
+    "stems": [
+      "sensation from being kissed by another’s lips",
+      "sensation of being hugged/embraced in another’s arms",
+      "sensation of being cuddled"
+    ],
+    "see": "ḐH",
+    "notes": "Use RCP Valence with these stems to indicate mutual interaction."
+  },
+  {
+    "root": "JDW",
+    "refers": "AFFECTIVE TACTILE REACTIONS",
+    "stems": [
+      "feel “a thrill down one’s spine”",
+      "feel one’s “hairs standing on the back of one’s neck”",
+      "have the creeps / have the willies"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "JDV",
+    "refers": "NUMBNESS / “PINS & NEEDLES” FEELING",
+    "stems": [
+      "feel that a limb has “fallen asleep”",
+      "“pins & needles” feeling in one’s limb (after it has been “asleep”)",
+      "feel internal numbness or “dead” feeling (i.e., a lack of an expected internal sensation)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "KŘ",
+    "refers": "FEEL ILL / SICK / WEAKNESS",
+    "stems": [
+      "feel ill/sick/unhealthy; feeling of general malaise, feel “blah”, feel so-so, feel poorly",
+      "feel torpor/lethargy",
+      "feel weakness"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "LGV",
+    "refers": "CARDIOGENIC SENSATION",
+    "stems": [
+      "feel one’s heart beating",
+      "feel one’s heart racing",
+      "feel one’s heart fluttering"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "MMH",
+    "refers": "PHYSICAL/SENSORY PLEASURE",
+    "stems": [
+      "feel physical/sensory pleasure",
+      "feel comfortable (i.e., no pain/strain/stress/fatigue/hunger/worry, etc.)",
+      "feel physical satisfaction/satiety or physical relief (from previous state of pain/strain/fatigue/hunger/worry, etc.)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "KSN",
+    "refers": "POSITIVE OVERALL PHYSICAL STATE",
+    "stems": [
+      "feel energized/alert",
+      "feel physically in shape",
+      "feel physically strong"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ẒGŘ",
+    "refers": "INTERNAL BURNING/TINGLING/PRICKLY SENSATION",
+    "stems": [
+      "have/feel an internal “burning” sensation",
+      "have/feel an internal tingling sensation",
+      "have/feel an internal prickly/stinging sensation"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "GH",
+    "refers": "BRUISE / SWELLING / INFLAMMATION",
+    "stems": [
+      "have/feel a bruise",
+      "feel sore, have/feel inflammation, swelling",
+      "have a sensitive/tender feeling on the body (no visible swelling or bruise)"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "PFN",
+    "refers": "TWITCHING / FLUTTERING / TREMBLING",
+    "stems": [
+      "feel a twitch or twinge",
+      "feel a fluttering sensation",
+      "feel/experience a tremor or trembling"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ẒG",
+    "refers": "ACHE / SHARP PAIN / RADIATING PAIN",
+    "stems": [
+      "feel/have an ache (i.e., diffuse, non-sharp pain) [using SUF/EXN affixes, this stem can mean “feel throbbing/pounding pain”]",
+      "feel sharp/stabbing pain",
+      "feel radiating “shooting” pain"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ḐGŘ",
+    "refers": "QUEASINESS / NAUSEA / VOMITING",
+    "stems": [
+      "have no appetite (even though one has not recently eaten)",
+      "feel queasy (mildly nauseous feeling)",
+      "feel nauseous; have nausea, feel as if one is going to vomit [CPT version = “to vomit”]"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ḐČ",
+    "refers": "BLACK-OUT / SPELL / SEIZURE",
+    "stems": [
+      "experience a feeling of “blanking out” or “blacking out”",
+      "experience an episode or spell of inattention or loss of awareness/focus; to “zone out” / “space out”",
+      "experience a seizure"
+    ],
+    "see": "ḐH"
+  },
+  {
+    "root": "ŇH",
+    "refers": "EXHAUSTION / FATIGUE / FEEL FLUSHED",
+    "stems": [
+      "feel exhausted/exhaustion from physical/mental exertion",
+      "feel fatigue from illness, overwork, stress, etc.",
+      "feel flushed; have flushed feeling"
+    ],
+    "see": "ḐH"
+  }
 ]

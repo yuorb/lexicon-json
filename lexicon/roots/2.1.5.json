@@ -1,196 +1,196 @@
 [
-    {
-        "root": "LCW",
-        "refers": "BUILDING FIXTURE / ARCHITECTURAL FIXTURE",
-        "stems": [
-            {
-                "BSC": "(to be) a state/act/of serving/functioning as a builtin/permanent fixture in a building/domicile for the purposes of maintaining/providing a continuous mechanical, electrical, plumbing, or living state or process; to serve/function as such a fixture (e.g., wall-mounted or built-in feature, fireplace, chimney, window shutter, ceiling fan, tapware, sink/basin, tub, toilet, water or gas pipe, electrical conduit, wiring, etc.)",
-                "CTE": "(to be) the state/service maintained/delivered by a fixture",
-                "CSV": "(to be) an act/process of a building fixture functioning or in operation; for a fixture to function/operate",
-                "OBJ": "(to be) the fixture itself"
-            },
-            {
-                "BSC": "(to be) a state/act of utilizing/making use of a builtin/permanent fixture in a building/domicile in order to obtain some needed/desired function/service",
-                "CTE": "(to be) the state of a fixture being in use",
-                "CSV": "(to be) an act of a person utilizing/making use of a fixture",
-                "OBJ": "(to be) the fixture used"
-            },
-            {
-                "BSC": "(to be) a state/act of doing without, being deprived of, or being unable to utilize a needed/desired fixture in a building/domicile",
-                "CTE": "(to be) the state of a needed/desired fixture being absent/unavailable ",
-                "CSV": "(to be) a physical act/state of a person having to do/go without a needed/desired fixture",
-                "OBJ": "(to be) the consequence(s) of a needed/desired fixture being absent/unavailable"
-            }
-        ]
-    },
-    {
-        "root": "MBL",
-        "refers": "water tap / water faucet / tap valve",
-        "see": "LCW"
-    },
-    {
-        "root": "VBL",
-        "refers": "pipe (for water, gas, sewage, etc.)",
-        "see": "LCW"
-    },
-    {
-        "root": "BBL",
-        "refers": "sink",
-        "see": "LCW"
-    },
-    {
-        "root": "BBR",
-        "refers": "washbasin",
-        "see": "LCW"
-    },
-    {
-        "root": "BBW",
-        "refers": "bathtub",
-        "see": "LCW"
-    },
-    {
-        "root": "BBY",
-        "refers": "shower stall",
-        "see": "LCW"
-    },
-    {
-        "root": "BBŘ",
-        "refers": "bidet",
-        "see": "LCW"
-    },
-    {
-        "root": "LČŘ",
-        "refers": "toilet / loo",
-        "see": "LCW"
-    },
-    {
-        "root": "ŘČŘ",
-        "refers": "urinal",
-        "see": "LCW"
-    },
-    {
-        "root": "GŢR",
-        "refers": "cistern",
-        "see": "LCW"
-    },
-    {
-        "root": "JŢR",
-        "refers": "artificial fountain",
-        "see": "LCW"
-    },
-    {
-        "root": "VBR",
-        "refers": "electrical conduit",
-        "see": "LCW"
-    },
-    {
-        "root": "VBŘ",
-        "refers": "electrical wire/wiring",
-        "see": "LCW"
-    },
-    {
-        "root": "VBŽ",
-        "refers": "electrical outlet / wall outlet",
-        "see": "LCW"
-    },
-    {
-        "root": "RVB",
-        "refers": "power system protection unit (e.g., fusebox / circuit breaker box)",
-        "see": "LCW"
-    },
-    {
-        "root": "ŇSL",
-        "refers": "electrical socket",
-        "see": "LCW"
-    },
-    {
-        "root": "LČL",
-        "refers": "lamp (i.e., powered local light source)",
-        "see": "LCW"
-    },
-    {
-        "root": "NKV",
-        "refers": "air-conditioning unit",
-        "see": "LCW"
-    },
-    {
-        "root": "ŢGV",
-        "refers": "ceiling fan",
-        "see": "LCW"
-    },
-    {
-        "root": "NŽX",
-        "refers": "built-in heater, heating unit",
-        "see": "LCW"
-    },
-    {
-        "root": "RŽX",
-        "refers": "HVAC unit",
-        "see": "LCW"
-    },
-    {
-        "root": "ŽXL",
-        "refers": "fireplace",
-        "see": "LCW"
-    },
-    {
-        "root": "BŢR",
-        "refers": "outdoor swimming pool",
-        "see": "LCW"
-    },
-    {
-        "root": "GZŇ",
-        "refers": "sewer",
-        "see": "LCW"
-    },
-    {
-        "root": "GZV",
-        "refers": "cesspool",
-        "see": "LCW"
-    },
-    {
-        "root": "GZX",
-        "refers": "septic tank",
-        "see": "LCW"
-    },
-    {
-        "root": "PÇT",
-        "refers": "bucket / pail / portable basin",
-        "see": "LCW"
-    },
-    {
-        "root": "VPŘ",
-        "refers": "wall-mount for a wall-hanging or for a wall-mounted device",
-        "see": "LCW"
-    },
-    {
-        "root": "ŽXR",
-        "refers": "chimney",
-        "see": "LCW"
-    },
-    {
-        "root": "ŠFL",
-        "refers": "built-in storage shelf",
-        "see": "LCW"
-    },
-    {
-        "root": "ŠFR",
-        "refers": "built-in storage drawer",
-        "see": "LCW"
-    },
-    {
-        "root": "MFW",
-        "refers": "railing / handrail / banister / balustrade",
-        "see": "LCW"
-    },
-    {
-        "root": "LMTR",
-        "refers": "hat rack / hat stand / hat tree",
-        "see": "LCW"
-    },
-    {
-        "root": "LSTL",
-        "refers": "coat rack",
-        "see": "LCW"
-    }
+  {
+    "root": "LCW",
+    "refers": "BUILDING FIXTURE / ARCHITECTURAL FIXTURE",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act/of serving/functioning as a builtin/permanent fixture in a building/domicile for the purposes of maintaining/providing a continuous mechanical, electrical, plumbing, or living state or process; to serve/function as such a fixture (e.g., wall-mounted or built-in feature, fireplace, chimney, window shutter, ceiling fan, tapware, sink/basin, tub, toilet, water or gas pipe, electrical conduit, wiring, etc.)",
+        "CTE": "(to be) the state/service maintained/delivered by a fixture",
+        "CSV": "(to be) an act/process of a building fixture functioning or in operation; for a fixture to function/operate",
+        "OBJ": "(to be) the fixture itself"
+      },
+      {
+        "BSC": "(to be) a state/act of utilizing/making use of a builtin/permanent fixture in a building/domicile in order to obtain some needed/desired function/service",
+        "CTE": "(to be) the state of a fixture being in use",
+        "CSV": "(to be) an act of a person utilizing/making use of a fixture",
+        "OBJ": "(to be) the fixture used"
+      },
+      {
+        "BSC": "(to be) a state/act of doing without, being deprived of, or being unable to utilize a needed/desired fixture in a building/domicile",
+        "CTE": "(to be) the state of a needed/desired fixture being absent/unavailable ",
+        "CSV": "(to be) a physical act/state of a person having to do/go without a needed/desired fixture",
+        "OBJ": "(to be) the consequence(s) of a needed/desired fixture being absent/unavailable"
+      }
+    ]
+  },
+  {
+    "root": "MBL",
+    "refers": "water tap / water faucet / tap valve",
+    "see": "LCW"
+  },
+  {
+    "root": "VBL",
+    "refers": "pipe (for water, gas, sewage, etc.)",
+    "see": "LCW"
+  },
+  {
+    "root": "BBL",
+    "refers": "sink",
+    "see": "LCW"
+  },
+  {
+    "root": "BBR",
+    "refers": "washbasin",
+    "see": "LCW"
+  },
+  {
+    "root": "BBW",
+    "refers": "bathtub",
+    "see": "LCW"
+  },
+  {
+    "root": "BBY",
+    "refers": "shower stall",
+    "see": "LCW"
+  },
+  {
+    "root": "BBŘ",
+    "refers": "bidet",
+    "see": "LCW"
+  },
+  {
+    "root": "LČŘ",
+    "refers": "toilet / loo",
+    "see": "LCW"
+  },
+  {
+    "root": "ŘČŘ",
+    "refers": "urinal",
+    "see": "LCW"
+  },
+  {
+    "root": "GŢR",
+    "refers": "cistern",
+    "see": "LCW"
+  },
+  {
+    "root": "JŢR",
+    "refers": "artificial fountain",
+    "see": "LCW"
+  },
+  {
+    "root": "VBR",
+    "refers": "electrical conduit",
+    "see": "LCW"
+  },
+  {
+    "root": "VBŘ",
+    "refers": "electrical wire/wiring",
+    "see": "LCW"
+  },
+  {
+    "root": "VBŽ",
+    "refers": "electrical outlet / wall outlet",
+    "see": "LCW"
+  },
+  {
+    "root": "RVB",
+    "refers": "power system protection unit (e.g., fusebox / circuit breaker box)",
+    "see": "LCW"
+  },
+  {
+    "root": "ŇSL",
+    "refers": "electrical socket",
+    "see": "LCW"
+  },
+  {
+    "root": "LČL",
+    "refers": "lamp (i.e., powered local light source)",
+    "see": "LCW"
+  },
+  {
+    "root": "NKV",
+    "refers": "air-conditioning unit",
+    "see": "LCW"
+  },
+  {
+    "root": "ŢGV",
+    "refers": "ceiling fan",
+    "see": "LCW"
+  },
+  {
+    "root": "NŽX",
+    "refers": "built-in heater, heating unit",
+    "see": "LCW"
+  },
+  {
+    "root": "RŽX",
+    "refers": "HVAC unit",
+    "see": "LCW"
+  },
+  {
+    "root": "ŽXL",
+    "refers": "fireplace",
+    "see": "LCW"
+  },
+  {
+    "root": "BŢR",
+    "refers": "outdoor swimming pool",
+    "see": "LCW"
+  },
+  {
+    "root": "GZŇ",
+    "refers": "sewer",
+    "see": "LCW"
+  },
+  {
+    "root": "GZV",
+    "refers": "cesspool",
+    "see": "LCW"
+  },
+  {
+    "root": "GZX",
+    "refers": "septic tank",
+    "see": "LCW"
+  },
+  {
+    "root": "PÇT",
+    "refers": "bucket / pail / portable basin",
+    "see": "LCW"
+  },
+  {
+    "root": "VPŘ",
+    "refers": "wall-mount for a wall-hanging or for a wall-mounted device",
+    "see": "LCW"
+  },
+  {
+    "root": "ŽXR",
+    "refers": "chimney",
+    "see": "LCW"
+  },
+  {
+    "root": "ŠFL",
+    "refers": "built-in storage shelf",
+    "see": "LCW"
+  },
+  {
+    "root": "ŠFR",
+    "refers": "built-in storage drawer",
+    "see": "LCW"
+  },
+  {
+    "root": "MFW",
+    "refers": "railing / handrail / banister / balustrade",
+    "see": "LCW"
+  },
+  {
+    "root": "LMTR",
+    "refers": "hat rack / hat stand / hat tree",
+    "see": "LCW"
+  },
+  {
+    "root": "LSTL",
+    "refers": "coat rack",
+    "see": "LCW"
+  }
 ]

@@ -1,69 +1,68 @@
 [
-    {
-        "root": "BČ",
-        "refers": "KIN / EXTENDED FAMILY RELATION",
-        "stems": [
-            {
-                "BSC": "(to be/have) a particular kin relation to someone [both the relational connection itself and the being in the relationship] [Stem 1 = (to be) a member of a(n extended) family; to be related [either genetically, by marriage, by legal adoption, or long-term informal adoption] to other persons]",
-                "CTE": "(to be) the nature/manifestation of the particular kin relationship between two parties",
-                "CSV": "(to be) a particular kinship relationship",
-                "OBJ": "(to be) the person who has the particular kin relation to someone"
-            },
-            "(to be) a member of a(n extended) family; to be related [genetically or by marriage], by legal or long-term informal adoption] to other persons",
-            "(to be) a member of a(n extended) family; to be related [by legal adoption or long-term informal adoption] to other persons"
-        ],
-        "notes": "Use the SEX affix to make gender-based distinctions, if necessary. Additional relationships can be specified by combining this and related roots/stems with the KIN and KSD affixes."
-    },
-    {
-        "root": "MP",
-        "refers": "NUCLEAR FAMILY MEMBER",
-        "stems": [
-            "(to be) a parent (i.e., person who raised another from childhood, whether genetic parent, foster parent, adoptive parent, guardian, etc.); to parent; to raise a child as a parent",
-            "(to be) a child (i.e., person being raised by a parent/guardian)",
-            "(to be) a grandparent (i.e., parent of a parent)"
-        ],
-        "notes": "Refers to a functional relationship, not necessarily a genetic one.",
-        "see": "BČ"
-    },
-    {
-        "root": "MM",
-        "refers": "MEMBER OF GENETIC PARENT-OFFSPRING RELATION",
-        "stems": [
-            "(to be) a parent/progenitor (i.e., person who is the genetic father or mother of a child); to procreate; to create a child",
-            "(to be) a child (i.e., genetic offspring/progeny of another)",
-            "(to be) a grandparent (i.e., genetic parent of a parent)"
-        ],
-        "see": "BČ"
-    },
-    {
-        "root": "VV",
-        "refers": "STEP-KIN RELATIONS",
-        "stems": [
-            "(to be) a step-parent",
-            "(to be) a step-child",
-            "(to be) a step-sibling"
-        ],
-        "see": "BČ"
-    },
-    {
-        "root": "SR",
-        "refers": "SIBLING RELATIONS",
-        "stems": [
-            "(to be) a sibling",
-            "(to be) a maternal half-sibling",
-            "(to be) a paternal half-sibling"
-        ],
-        "see": "BČ"
-
-    },
-    {
-        "root": "LH",
-        "refers": "COLLATERAL FAMILIAL RELATIONS",
-        "stems": [
-            "(to be) a parent’s sibling (i.e., aunt/uncle)",
-            "(to be) a sibling’s child (i.e., nephew/niece)",
-            "(to be) a parent’s sibling’s child (i.e., first cousin)"
-        ],
-        "see": "BČ"
-    }
+  {
+    "root": "BČ",
+    "refers": "KIN / EXTENDED FAMILY RELATION",
+    "stems": [
+      {
+        "BSC": "(to be/have) a particular kin relation to someone [both the relational connection itself and the being in the relationship] [Stem 1 = (to be) a member of a(n extended) family; to be related [either genetically, by marriage, by legal adoption, or long-term informal adoption] to other persons]",
+        "CTE": "(to be) the nature/manifestation of the particular kin relationship between two parties",
+        "CSV": "(to be) a particular kinship relationship",
+        "OBJ": "(to be) the person who has the particular kin relation to someone"
+      },
+      "(to be) a member of a(n extended) family; to be related [genetically or by marriage], by legal or long-term informal adoption] to other persons",
+      "(to be) a member of a(n extended) family; to be related [by legal adoption or long-term informal adoption] to other persons"
+    ],
+    "notes": "Use the SEX affix to make gender-based distinctions, if necessary. Additional relationships can be specified by combining this and related roots/stems with the KIN and KSD affixes."
+  },
+  {
+    "root": "MP",
+    "refers": "NUCLEAR FAMILY MEMBER",
+    "stems": [
+      "(to be) a parent (i.e., person who raised another from childhood, whether genetic parent, foster parent, adoptive parent, guardian, etc.); to parent; to raise a child as a parent",
+      "(to be) a child (i.e., person being raised by a parent/guardian)",
+      "(to be) a grandparent (i.e., parent of a parent)"
+    ],
+    "notes": "Refers to a functional relationship, not necessarily a genetic one.",
+    "see": "BČ"
+  },
+  {
+    "root": "MM",
+    "refers": "MEMBER OF GENETIC PARENT-OFFSPRING RELATION",
+    "stems": [
+      "(to be) a parent/progenitor (i.e., person who is the genetic father or mother of a child); to procreate; to create a child",
+      "(to be) a child (i.e., genetic offspring/progeny of another)",
+      "(to be) a grandparent (i.e., genetic parent of a parent)"
+    ],
+    "see": "BČ"
+  },
+  {
+    "root": "VV",
+    "refers": "STEP-KIN RELATIONS",
+    "stems": [
+      "(to be) a step-parent",
+      "(to be) a step-child",
+      "(to be) a step-sibling"
+    ],
+    "see": "BČ"
+  },
+  {
+    "root": "SR",
+    "refers": "SIBLING RELATIONS",
+    "stems": [
+      "(to be) a sibling",
+      "(to be) a maternal half-sibling",
+      "(to be) a paternal half-sibling"
+    ],
+    "see": "BČ"
+  },
+  {
+    "root": "LH",
+    "refers": "COLLATERAL FAMILIAL RELATIONS",
+    "stems": [
+      "(to be) a parent’s sibling (i.e., aunt/uncle)",
+      "(to be) a sibling’s child (i.e., nephew/niece)",
+      "(to be) a parent’s sibling’s child (i.e., first cousin)"
+    ],
+    "see": "BČ"
+  }
 ]

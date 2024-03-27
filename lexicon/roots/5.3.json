@@ -1,1051 +1,1051 @@
 [
-    {
-        "root": "ŠV",
-        "refers": "PLAY / RECREATION / RELAXATION",
-        "stems": [
-            {
-                "BSC": "(to be) an act/instance of play or recreation [both the act and the motivating desire for self-amusement or relaxation",
-                "CTE": "(to be) the motivating desire for self-amusement behind an act/instance of play/recreation",
-                "CSV": "(to be) the physical act of engaging in play or recreation",
-                "OBJ": "(to be) particular activity/form of play in which one engages (e.g., a game, contest, puzzle, prank, etc.)"
-            },
-            "(to be) an act/instance of a participatory or self- involved leisure/relaxation activity (activity + psychological motivations behind it), e.g., a dance, a hike, fishing, camping",
-            "(to be/manifest) the practice of a hobby or pastime (activity + psychological motivations behind it)"
-        ],
-        "notes": "Affix: **DRE**"
-    },
-    {
-        "root": "NZV",
-        "refers": "PLAY FORMAL GAME / SPORTING ACTIVITY",
-        "stems": [
-            {
-                "BSC": "(to be) an act/instance of playing a formal rule-oriented recreational activity, e.g., a board game, a sport, etc. (activity + feeling of amusement/enjoyment derived)",
-                "CTE": "(to be) the motivating desire for self-amusement behind an act/instance of playing a formal rule-oriented activity, board game, sport, etc.",
-                "CSV": "(to be) the physical act of engaging in a formal rule-oriented recreational activity",
-                "OBJ": "(to be) particular activity/form of play in which one engages (e.g., a board game, individual sport, etc.)"
-            },
-            "(to be) an act/instance of engaging in an individual (non- team) sporting activity (activity + feeling of competitive spirit) for motive of formal competition, e.g., an individual race, an individual track-and-field event, skiing, competitive shooting, etc.",
-            "(to be) a team-oriented sporting activity normally involving equipment (e.g., a court, a playing field, a ball, goal area, projectile playing piece, horse, racket, clubs, etc.)"
-        ]
-    },
-    {
-        "root": "NZŇ",
-        "stems": [
-            {
-                "BSC": "(to be) an object used as a required point-scoring object when playing a game or sport [Stem 1 = inflated ball used for throwing, kicking, bouncing, or volleying (e.g., volleyball, football/soccer, tetherball, basketball, European handball, water polo)]",
-                "CTE": "(to be) the state of an object used as a piece of an equipment in a game or sport being in use or being in play",
-                "CSV": "(to be) the physical act of touching/handling/using/throwing/placing, etc. the particular point-scoring object while engaged in the particular game or sport",
-                "OBJ": "(to be) the state (of play) signified by the position/placement/reading or resulting state/outcome (e.g., after being thrown or moved) of an object used as a required piece of equipment when playing a game or sport"
-            },
-            "prolate spheroid shaped ball (e.g., rugby, American football, Australian football)",
-            "beachball"
-        ]
-    },
-    {
-        "root": "RNZŇ",
-        "stems": [
-            "hard small ball hit with club or mallet (e.g., golf, field hockey, croquet)",
-            "small rubberized ball hit with hand or racket (e.g., tennis, squash, racquetball, jai alai ball, American handball, lacrosse ball)",
-            "ping-pong ball"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "RNZY",
-        "stems": [
-            "ball used for hitting with a bat (e.g., baseball, cricket ball)",
-            "softball",
-            "hard, heavy sphere (e.g., shot, bowling ball)"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "RNZL",
-        "stems": [
-            "hockey puck, shuffleboard puck",
-            "discus",
-            "frisbie, flying/aerial disc"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "TBR",
-        "stems": [
-            "throwing ring, hoop",
-            "recreational horseshoe",
-            "shuttlecock (e.g., badminton)"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "TĻKW",
-        "stems": [
-            "curling stone",
-            "bean bag",
-            "skull (jugger)"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "TĻKY",
-        "stems": [
-            "wiffleball, nerf ball, other ultralight ball",
-            "throwing dart",
-            "other playing projectile"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "KFK",
-        "stems": [
-            "standard playing card",
-            "specialized playing card (e.g., tarot card)",
-            "playing/gambling chip or token"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "KVL",
-        "stems": [
-            "game counter or marker",
-            "standard 6-sided playing die (i.e., one of a pair of dice)",
-            "non-standard die"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "RNZR",
-        "stems": [
-            "disc-like playing piece (e.g., for checkers or other board game)",
-            "playing marble or other small spheroid playing piece",
-            "specially shaped playing piece or game token"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "KVR",
-        "stems": [
-            "playing tile",
-            "game-playing piece consisting of miniature model, picture, or representation of a real-world object (e.g., chess piece)",
-            "domino or other stackable playing piece/counter/marker"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "KVŘ",
-        "stems": [
-            "pin (bowling)",
-            "bail (cricket)",
-            "stump (cricket)"
-        ],
-        "see": "NZŇ"
-    },
-    {
-        "root": "TÇP",
-        "stems": [
-            {
-                "BSC": "(to be) an object used as an accessory or necessary piece of equipment when playing a game or sport [Stem 1 = playing field, pitch, court, rink]",
-                "CTE": "(to be) the state of an object being used as an accessory or necessary equipment in a game or sport being in use or being in play",
-                "CSV": "(to be) the physical act of using the particular piece of equipment while engaged in the particular game or sport",
-                "OBJ": "(to be) the particular state (of play) made possible by the use of the particular piece of equipment"
-            },
-            "field of play boundary, border, line",
-            "base, safe spot/zone of playing field"
-        ]
-    },
-    {
-        "root": "ZGY",
-        "stems": [
-            "goal / basket / end zone",
-            "goalpost",
-            "target"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ČŢR",
-        "stems": [
-            "bat",
-            "paddle",
-            "racquet"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ČŢW",
-        "stems": [
-            "stick, mallet",
-            "golf club",
-            "net"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ĻKW",
-        "stems": [
-            "board (e.g., surf-, snow-, paddle-)",
-            "ski",
-            "ski pole"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ÇÇW",
-        "stems": [
-            "sail",
-            "parasail",
-            "kite"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ÇÇL",
-        "stems": [
-            "luge sled / skeleton sled",
-            "bobsled / bobsleigh",
-            "toboggan"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "TKV",
-        "stems": [
-            "cue, cue stick (e.g., billiards, shuffleboard)",
-            "broom (curling)",
-            "jump rope"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "RZTR",
-        "stems": [
-            "protective glove (e.g., baseball)",
-            "boxing glove",
-            "protective face mask"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŠTM",
-        "stems": [
-            "pegged standard for high jump or pole vault",
-            "track-and-field crossbar (e.g., high jump, pole vault)",
-            "vaulting pole (pole vault)"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŇBR",
-        "stems": [
-            "barbell",
-            "weight (used with barbell)",
-            "caber"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "BZŇ",
-        "stems": [
-            "boxing ring",
-            "trampoline",
-            "caged ring, enclosed ring"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŢFW",
-        "stems": [
-            "roller skate",
-            "skateboard",
-            "ice skate"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŢSP",
-        "stems": [
-            "high bar (gymnastics)",
-            "uneven bars (gymnastics)",
-            "parallel bar(s) (gymnastics)"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŢSPW",
-        "stems": [
-            "balance beam (gymnastics)",
-            "pommel horse (gymnastics)",
-            "vault (gymnastics)"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŢSPY",
-        "stems": [
-            "still ring(s) (gymnastics)",
-            "floor mat (gymnastics), wrestling mat",
-            "trapeze"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "CTY",
-        "stems": [
-            "juggling pin or ball",
-            "baton",
-            "other hand-held recreative implement"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ẒML",
-        "stems": [
-            "trampoline",
-            "rebounder",
-            "bounce house / bouncy house"
-        ],
-        "see": "TÇP"
-    },
-    {
-        "root": "ŢSK",
-        "stems": [
-            {
-                "BSC": "(to be) an act/instance of playing/participating in the particular game or sport (i.e., the activity + the feeling of amusement/enjoyment derived) [Stem 1 = chess]",
-                "CTE": "(to be) the motivating desire for self-amusement behind an act/instance of playing the particular game or sport",
-                "CSV": "(to be) the physical act of engaging in the particular game or sport",
-                "OBJ": "(to be) an individual play or move within a particular game or sport"
-            },
-            "checkers / draughts",
-            "backgammon"
-        ]
-    },
-    {
-        "root": "ŢSKW",
-        "stems": [
-            "tic-tac-toe / naughts and crosses",
-            "nine-men’s morris / mills / merels/ cowboy checkers",
-            "bul"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSKY",
-        "stems": [
-            "pashisi / chaupar-like game",
-            "snakes-and-ladders / chutes-and-ladders",
-            "tafl / tablut-like game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSKL",
-        "stems": [
-            "shogi",
-            "xiangqi / janggi",
-            "Halma / Stern-Halma / Chinese-checkers"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSKR",
-        "stems": [
-            "go",
-            "gomoku / renju / five in a row",
-            "mahjong"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSKF",
-        "stems": [
-            "mancala-type game (e.g., bao, Kalah, oware / warri / ayo / ouril, coro, pallanguzhi, bohnenspiel, cups",
-            "permainan / surakarta / dam-daman",
-            "modern commercial tabletop/board game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KSVW",
-        "stems": [
-            "carrom / pichenotte",
-            "pitchnut",
-            "crokinole"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KSVL",
-        "stems": [
-            "novuss",
-            "chapayev",
-            "button football"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KSVR",
-        "stems": [
-            "billiards / pool",
-            "snooker / English billiards / russian pyramid",
-            "other carrom or billiard like game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKW",
-        "stems": [
-            "bridge",
-            "whist",
-            "euchre"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKY",
-        "stems": [
-            "spades",
-            "500 (card game)",
-            "other “trick-taking” card game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKL",
-        "stems": [
-            "rummy",
-            "go fish",
-            "other matching-type card game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKR",
-        "stems": [
-            "war-type card game",
-            "slapjack",
-            "other catch-and-collect type card game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKŘ",
-        "stems": [
-            "poker",
-            "blackjack",
-            "baccarat"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKŢ",
-        "stems": [
-            "bastra",
-            "cassino",
-            "other card-based gambling game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKÇ",
-        "stems": [
-            "crazy eights",
-            "daihinmin / Tycoon",
-            "Cheat / I Doubt It / Bluff"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKM",
-        "stems": [
-            "switch / last card / two four jacks",
-            "one-card",
-            "other “shedding”-type card game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "KFKN",
-        "stems": [
-            "solitaire / patience-type card game",
-            "drinking game with cards (alcohol imbibement)",
-            "other card game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "VSR",
-        "stems": [
-            "yahtzee",
-            "liar’s dice",
-            "bunco"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "VSŘ",
-        "stems": [
-            "sic bo, grand hazard, chuck-a-luck",
-            "cee-lo / see-low / four-five-six",
-            "other dice game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GVB",
-        "stems": [
-            "jigsaw puzzle",
-            "construction puzzle (e.g., stick puzzle)",
-            "mechanical puzzle (e.g., rubik’s cube, puzzle box, folding puzzle, lock puzzle)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GVBW",
-        "stems": [
-            "crossword puzzle",
-            "sudoku",
-            "other logic puzzle game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GVBY",
-        "stems": [
-            "maze / labyrinth",
-            "spot-the-difference puzzle",
-            "other memory-based puzzle game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GVBŘ",
-        "stems": [
-            "anagrams",
-            "Scrabble or Scrabble-like game",
-            "other word search game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "PSŢR",
-        "stems": [
-            "Rock paper scissors",
-            "chopsticks",
-            "odds and evens"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "PSŢW",
-        "stems": [
-            "red hands / hot hands / slapsies / slap jack",
-            "sing-along hand-clapping game (e.g., pat-a-cake / patty-cake, Double Double This This)",
-            "other hand game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "MFT",
-        "stems": [
-            "charades",
-            "Hangman or similar paper-and-pencil-based guessing game",
-            "Twenty Questions, Two Truths & a Lie, or similar investigative question game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "MFTW",
-        "stems": [
-            "I Spy or similar guessing game",
-            "Psychiatrist or similar role-playing guessing game",
-            "Dictionary / Fictionary"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "MFTL",
-        "stems": [
-            "“would you rather” or similar choice-based game",
-            "Truth or Dare or similar game",
-            "other party/parlor game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "MFTR",
-        "stems": [
-            "alcoholic drinking contest (e.g. speed, endurance)",
-            "arts/entertainment-based (e.g., while watching TV) drinking game",
-            "other drinking game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "PSŢ",
-        "stems": [
-            "tag",
-            "blind man’s buff / blind man’s bluff / Marco Polo",
-            "other tagging-based game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "TÇF",
-        "stems": [
-            "hide-and-seek",
-            "statues / red-light green-light",
-            "Mother May I? / Captain May I?"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "TÇFW",
-        "stems": [
-            "follow the leader",
-            "Simon Says",
-            "Red Rover / forcing the city gates / octopus tag"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "TÇFL",
-        "stems": [
-            "hopscotch",
-            "keep away / monkey in the middle",
-            "jungle gym climbing / monkey bars"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŽDL",
-        "stems": [
-            "catch (back-and-forth tossing of ball, frisbee, etc.)",
-            "horseshoes, ring toss, washer pitching",
-            "darts, lawn darts"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŽDR",
-        "stems": [
-            "bean bag tossing / cornhole",
-            "ladder toss",
-            "lawn bowling / bocce / boules / pétanque / bowls"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŽDŘ",
-        "stems": [
-            "croquet",
-            "shuffleboard / quoits, sjoelen",
-            "other informal throwing or target-based game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTK",
-        "stems": [
-            "volleyball-like sport (e.g., volleyball, sipa, sepak akraw, footbag net, bossaball, jianzi, fistball, wallyball)",
-            "ball-over-net game with paddle (e.g., tennis, table- tennis, pickleball)",
-            "ball-against-wall sport (e.g., squash, racquetball, American handball, jai alai)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTKW",
-        "stems": [
-            "football / soccer",
-            "rugby",
-            "American/Australian/Canadian/Gaelic football"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTKY",
-        "stems": [
-            "basketball-like game (e.g., basketball, netball, cestoball, korfball, ringball)",
-            "team handball",
-            "water polo"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTKL",
-        "stems": [
-            "baseball-like game (e.g., baseball, softball, rounders, stickball, schlagball, palant, lapta, pesäpallo, oina, elle, tee-ball, wiffleball, brännboll)",
-            "cricket-like game (e.g., cricket, vigoro)",
-            "other bat-and-ball hitting game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTKR",
-        "stems": [
-            "field hockey-like game (e.g., field hockey, floorball)",
-            "roller hockey",
-            "ice hockey-like game (e.g., ice hockey, bandy, broomball, ringette)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTKŘ",
-        "stems": [
-            "hurling-like game (e.g., hurling/camogie, shinty, bando)",
-            "lacrosse",
-            "polo"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LTKÇ",
-        "stems": [
-            "dodgeball-like game (e.g., dodgeball, warball, gaga)",
-            "kickball-like game (e.g., kickball, matball)",
-            "other ball-throwing, ball-hitting, ball-kicking or ball-catching game"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢFY",
-        "stems": [
-            "rollerskating",
-            "skateboarding",
-            "roller derby"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ĻKY",
-        "stems": [
-            "surfing",
-            "parasailing",
-            "kiteboarding"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ĻKH",
-        "stems": [
-            "water skiing",
-            "wakeboarding",
-            "paddleboarding"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ĻKÇ",
-        "stems": [
-            "snowboarding",
-            "stand-up paddle surfing",
-            "other board-based sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ĻKL",
-        "stems": [
-            "alpine skiing / downhill skiing",
-            "cross-country skiing / telemark skiing",
-            "ski jumping"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ĻKŘ",
-        "stems": [
-            "speed skiing",
-            "freestyle skiing",
-            "other ski-based sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇŘ",
-        "stems": [
-            "bobsleighing / bobsledding",
-            "luge",
-            "skeleton bobsled"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇR",
-        "stems": [
-            "competitive racing utilizing a non-motorized vehicle/vessel (e.g., cycling, sledding, rowing, sailing)",
-            "competitive racing utilizing a motorized vehicle/vessel",
-            "competitive racing of inanimate objects (e.g., radio-controlled toy trucks)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇM",
-        "stems": [
-            "competitive racing of animal [not being ridden or harness-controlled by human] (e.g., dog racing)",
-            "competitive skill contest involving an animal (e.g., bull-riding)",
-            "other sport involving an animal not being ridden or harness-controlled"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇN",
-        "stems": [
-            "competitive horse-racing",
-            "rodeo event (e.g., roping, bronc rideing, steer wrestling)",
-            "eventing or similar activity (e.g., dressage, show jumpint, cross country equestiran jumping)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LXC",
-        "stems": [
-            "cutting, campdrafting, penning",
-            "jousting",
-            "other equitation-based sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ČŢY",
-        "stems": [
-            "golf",
-            "disc golf",
-            "other golf-like sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢFL",
-        "stems": [
-            "speedskating",
-            "figure skating",
-            "other ice-skating sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GŽR",
-        "stems": [
-            "archery",
-            "target shooting",
-            "other sport involving a projectile and target"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "LXV",
-        "stems": [
-            "bowling",
-            "curling",
-            "other boules-type sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "NSM",
-        "stems": [
-            "unassisted competitive sprinting (e.g., sprinting, race-walking, race-hopping)",
-            "unassisted competitive endurance running (e.g., cross- country, long-distance running)",
-            "unassisted competitive obstacle running (e.g., hurdles, steeplechase)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "NSMW",
-        "stems": [
-            "parkour",
-            "obstacle course running",
-            "other running-based sporting activity"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "NSN",
-        "stems": [
-            "competitive swimming",
-            "diving",
-            "other aquatic sporting activity"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "PSŢŘ",
-        "stems": [
-            "non-contact tag-based version of contact sport (e.g., tag-rugby, tag-football [American])",
-            "kabaddi",
-            "jugger"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŠTN",
-        "stems": [
-            "track-and-field jumping/vaulting event (high jump, long jump, triple jump, pole vault)",
-            "track-and-field throwing event (discus, shot put, hammer throw, javelin)",
-            "track-and-field running event"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŇBW",
-        "stems": [
-            "highland games caber toss",
-            "highland games throwing event (weight throw, hammer throw, stone put",
-            "highland gamess weight over the bar"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŇBŘ",
-        "stems": [
-            "weight-lifting",
-            "maide-leisg",
-            "other competitive brute strength feat"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSPL",
-        "stems": [
-            "gymnastics high bar",
-            "gymnastics uneven parallel bars",
-            "gymnastics parallel bars"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSPR",
-        "stems": [
-            "gymnastics balance beam",
-            "gymnastics pommel horse",
-            "gymnastics vault"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSPŘ",
-        "stems": [
-            "gymnastics still rings",
-            "gymnastics floor exercise",
-            "rhythmic gymnastic routine (ball, ribbon, rope, hoop, club, ball)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŢSPF",
-        "stems": [
-            "flying trapeze",
-            "static trapeze",
-            "trampolining"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GŽGW",
-        "stems": [
-            "freestyle wrestling",
-            "Greco-Roman wrestling",
-            "sambo wrestling"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GŽGY",
-        "stems": [
-            "jujutsu (judo, jiu-jitsu)",
-            "aikido",
-            "sumo wrestling"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GŽGL",
-        "stems": [
-            "folk wrestling (e.g., collar-and-elbow, Cornish, gouren, kurash, Korean, shuai jiao, schwingen)",
-            "theatrical wrestling / professional wrestling",
-            "other wrestling / grappling sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GŽGR",
-        "stems": [
-            "boxing",
-            "kick-boxing style fighting (e.g., sanda / muay thai, pradal serey, lethwei)",
-            "other combative striking sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "GŽGŘ",
-        "stems": [
-            "defensive martial art",
-            "hybrid martial art",
-            "weapons-based martial art"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇTL",
-        "stems": [
-            "parachuting/skydiving",
-            "stunt parachuting / stunt skydiving",
-            "kitesurfing, kite landboarding"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇTW",
-        "stems": [
-            "kite flying",
-            "snowkiting",
-            "other kite-based sport"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ÇÇTY",
-        "stems": [
-            "hanggliding",
-            "paragliding",
-            "gliding"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "VZŢR",
-        "stems": [
-            "wood chopping contest",
-            "logrolling",
-            "woodsman"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "ŠTMW",
-        "stems": [
-            "knife throwing",
-            "axe throwing",
-            "target spear throwing"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "CTÇ",
-        "stems": [
-            "juggling",
-            "baton twirling",
-            "stacking contest (e.g., cards, blocks, cups)"
-        ],
-        "see": "ŢSK"
-    },
-    {
-        "root": "NKHW",
-        "stems": [
-            "tetherball",
-            "sleight-of-hand skills contest",
-            "other sporting activity"
-        ],
-        "see": "ŢSK"
-    }
+  {
+    "root": "ŠV",
+    "refers": "PLAY / RECREATION / RELAXATION",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance of play or recreation [both the act and the motivating desire for self-amusement or relaxation",
+        "CTE": "(to be) the motivating desire for self-amusement behind an act/instance of play/recreation",
+        "CSV": "(to be) the physical act of engaging in play or recreation",
+        "OBJ": "(to be) particular activity/form of play in which one engages (e.g., a game, contest, puzzle, prank, etc.)"
+      },
+      "(to be) an act/instance of a participatory or self- involved leisure/relaxation activity (activity + psychological motivations behind it), e.g., a dance, a hike, fishing, camping",
+      "(to be/manifest) the practice of a hobby or pastime (activity + psychological motivations behind it)"
+    ],
+    "notes": "Affix: **DRE**"
+  },
+  {
+    "root": "NZV",
+    "refers": "PLAY FORMAL GAME / SPORTING ACTIVITY",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance of playing a formal rule-oriented recreational activity, e.g., a board game, a sport, etc. (activity + feeling of amusement/enjoyment derived)",
+        "CTE": "(to be) the motivating desire for self-amusement behind an act/instance of playing a formal rule-oriented activity, board game, sport, etc.",
+        "CSV": "(to be) the physical act of engaging in a formal rule-oriented recreational activity",
+        "OBJ": "(to be) particular activity/form of play in which one engages (e.g., a board game, individual sport, etc.)"
+      },
+      "(to be) an act/instance of engaging in an individual (non- team) sporting activity (activity + feeling of competitive spirit) for motive of formal competition, e.g., an individual race, an individual track-and-field event, skiing, competitive shooting, etc.",
+      "(to be) a team-oriented sporting activity normally involving equipment (e.g., a court, a playing field, a ball, goal area, projectile playing piece, horse, racket, clubs, etc.)"
+    ]
+  },
+  {
+    "root": "NZŇ",
+    "stems": [
+      {
+        "BSC": "(to be) an object used as a required point-scoring object when playing a game or sport [Stem 1 = inflated ball used for throwing, kicking, bouncing, or volleying (e.g., volleyball, football/soccer, tetherball, basketball, European handball, water polo)]",
+        "CTE": "(to be) the state of an object used as a piece of an equipment in a game or sport being in use or being in play",
+        "CSV": "(to be) the physical act of touching/handling/using/throwing/placing, etc. the particular point-scoring object while engaged in the particular game or sport",
+        "OBJ": "(to be) the state (of play) signified by the position/placement/reading or resulting state/outcome (e.g., after being thrown or moved) of an object used as a required piece of equipment when playing a game or sport"
+      },
+      "prolate spheroid shaped ball (e.g., rugby, American football, Australian football)",
+      "beachball"
+    ]
+  },
+  {
+    "root": "RNZŇ",
+    "stems": [
+      "hard small ball hit with club or mallet (e.g., golf, field hockey, croquet)",
+      "small rubberized ball hit with hand or racket (e.g., tennis, squash, racquetball, jai alai ball, American handball, lacrosse ball)",
+      "ping-pong ball"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "RNZY",
+    "stems": [
+      "ball used for hitting with a bat (e.g., baseball, cricket ball)",
+      "softball",
+      "hard, heavy sphere (e.g., shot, bowling ball)"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "RNZL",
+    "stems": [
+      "hockey puck, shuffleboard puck",
+      "discus",
+      "frisbie, flying/aerial disc"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "TBR",
+    "stems": [
+      "throwing ring, hoop",
+      "recreational horseshoe",
+      "shuttlecock (e.g., badminton)"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "TĻKW",
+    "stems": [
+      "curling stone",
+      "bean bag",
+      "skull (jugger)"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "TĻKY",
+    "stems": [
+      "wiffleball, nerf ball, other ultralight ball",
+      "throwing dart",
+      "other playing projectile"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "KFK",
+    "stems": [
+      "standard playing card",
+      "specialized playing card (e.g., tarot card)",
+      "playing/gambling chip or token"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "KVL",
+    "stems": [
+      "game counter or marker",
+      "standard 6-sided playing die (i.e., one of a pair of dice)",
+      "non-standard die"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "RNZR",
+    "stems": [
+      "disc-like playing piece (e.g., for checkers or other board game)",
+      "playing marble or other small spheroid playing piece",
+      "specially shaped playing piece or game token"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "KVR",
+    "stems": [
+      "playing tile",
+      "game-playing piece consisting of miniature model, picture, or representation of a real-world object (e.g., chess piece)",
+      "domino or other stackable playing piece/counter/marker"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "KVŘ",
+    "stems": [
+      "pin (bowling)",
+      "bail (cricket)",
+      "stump (cricket)"
+    ],
+    "see": "NZŇ"
+  },
+  {
+    "root": "TÇP",
+    "stems": [
+      {
+        "BSC": "(to be) an object used as an accessory or necessary piece of equipment when playing a game or sport [Stem 1 = playing field, pitch, court, rink]",
+        "CTE": "(to be) the state of an object being used as an accessory or necessary equipment in a game or sport being in use or being in play",
+        "CSV": "(to be) the physical act of using the particular piece of equipment while engaged in the particular game or sport",
+        "OBJ": "(to be) the particular state (of play) made possible by the use of the particular piece of equipment"
+      },
+      "field of play boundary, border, line",
+      "base, safe spot/zone of playing field"
+    ]
+  },
+  {
+    "root": "ZGY",
+    "stems": [
+      "goal / basket / end zone",
+      "goalpost",
+      "target"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ČŢR",
+    "stems": [
+      "bat",
+      "paddle",
+      "racquet"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ČŢW",
+    "stems": [
+      "stick, mallet",
+      "golf club",
+      "net"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ĻKW",
+    "stems": [
+      "board (e.g., surf-, snow-, paddle-)",
+      "ski",
+      "ski pole"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ÇÇW",
+    "stems": [
+      "sail",
+      "parasail",
+      "kite"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ÇÇL",
+    "stems": [
+      "luge sled / skeleton sled",
+      "bobsled / bobsleigh",
+      "toboggan"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "TKV",
+    "stems": [
+      "cue, cue stick (e.g., billiards, shuffleboard)",
+      "broom (curling)",
+      "jump rope"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "RZTR",
+    "stems": [
+      "protective glove (e.g., baseball)",
+      "boxing glove",
+      "protective face mask"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŠTM",
+    "stems": [
+      "pegged standard for high jump or pole vault",
+      "track-and-field crossbar (e.g., high jump, pole vault)",
+      "vaulting pole (pole vault)"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŇBR",
+    "stems": [
+      "barbell",
+      "weight (used with barbell)",
+      "caber"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "BZŇ",
+    "stems": [
+      "boxing ring",
+      "trampoline",
+      "caged ring, enclosed ring"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŢFW",
+    "stems": [
+      "roller skate",
+      "skateboard",
+      "ice skate"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŢSP",
+    "stems": [
+      "high bar (gymnastics)",
+      "uneven bars (gymnastics)",
+      "parallel bar(s) (gymnastics)"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŢSPW",
+    "stems": [
+      "balance beam (gymnastics)",
+      "pommel horse (gymnastics)",
+      "vault (gymnastics)"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŢSPY",
+    "stems": [
+      "still ring(s) (gymnastics)",
+      "floor mat (gymnastics), wrestling mat",
+      "trapeze"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "CTY",
+    "stems": [
+      "juggling pin or ball",
+      "baton",
+      "other hand-held recreative implement"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ẒML",
+    "stems": [
+      "trampoline",
+      "rebounder",
+      "bounce house / bouncy house"
+    ],
+    "see": "TÇP"
+  },
+  {
+    "root": "ŢSK",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance of playing/participating in the particular game or sport (i.e., the activity + the feeling of amusement/enjoyment derived) [Stem 1 = chess]",
+        "CTE": "(to be) the motivating desire for self-amusement behind an act/instance of playing the particular game or sport",
+        "CSV": "(to be) the physical act of engaging in the particular game or sport",
+        "OBJ": "(to be) an individual play or move within a particular game or sport"
+      },
+      "checkers / draughts",
+      "backgammon"
+    ]
+  },
+  {
+    "root": "ŢSKW",
+    "stems": [
+      "tic-tac-toe / naughts and crosses",
+      "nine-men’s morris / mills / merels/ cowboy checkers",
+      "bul"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSKY",
+    "stems": [
+      "pashisi / chaupar-like game",
+      "snakes-and-ladders / chutes-and-ladders",
+      "tafl / tablut-like game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSKL",
+    "stems": [
+      "shogi",
+      "xiangqi / janggi",
+      "Halma / Stern-Halma / Chinese-checkers"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSKR",
+    "stems": [
+      "go",
+      "gomoku / renju / five in a row",
+      "mahjong"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSKF",
+    "stems": [
+      "mancala-type game (e.g., bao, Kalah, oware / warri / ayo / ouril, coro, pallanguzhi, bohnenspiel, cups",
+      "permainan / surakarta / dam-daman",
+      "modern commercial tabletop/board game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KSVW",
+    "stems": [
+      "carrom / pichenotte",
+      "pitchnut",
+      "crokinole"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KSVL",
+    "stems": [
+      "novuss",
+      "chapayev",
+      "button football"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KSVR",
+    "stems": [
+      "billiards / pool",
+      "snooker / English billiards / russian pyramid",
+      "other carrom or billiard like game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKW",
+    "stems": [
+      "bridge",
+      "whist",
+      "euchre"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKY",
+    "stems": [
+      "spades",
+      "500 (card game)",
+      "other “trick-taking” card game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKL",
+    "stems": [
+      "rummy",
+      "go fish",
+      "other matching-type card game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKR",
+    "stems": [
+      "war-type card game",
+      "slapjack",
+      "other catch-and-collect type card game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKŘ",
+    "stems": [
+      "poker",
+      "blackjack",
+      "baccarat"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKŢ",
+    "stems": [
+      "bastra",
+      "cassino",
+      "other card-based gambling game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKÇ",
+    "stems": [
+      "crazy eights",
+      "daihinmin / Tycoon",
+      "Cheat / I Doubt It / Bluff"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKM",
+    "stems": [
+      "switch / last card / two four jacks",
+      "one-card",
+      "other “shedding”-type card game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "KFKN",
+    "stems": [
+      "solitaire / patience-type card game",
+      "drinking game with cards (alcohol imbibement)",
+      "other card game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "VSR",
+    "stems": [
+      "yahtzee",
+      "liar’s dice",
+      "bunco"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "VSŘ",
+    "stems": [
+      "sic bo, grand hazard, chuck-a-luck",
+      "cee-lo / see-low / four-five-six",
+      "other dice game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GVB",
+    "stems": [
+      "jigsaw puzzle",
+      "construction puzzle (e.g., stick puzzle)",
+      "mechanical puzzle (e.g., rubik’s cube, puzzle box, folding puzzle, lock puzzle)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GVBW",
+    "stems": [
+      "crossword puzzle",
+      "sudoku",
+      "other logic puzzle game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GVBY",
+    "stems": [
+      "maze / labyrinth",
+      "spot-the-difference puzzle",
+      "other memory-based puzzle game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GVBŘ",
+    "stems": [
+      "anagrams",
+      "Scrabble or Scrabble-like game",
+      "other word search game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "PSŢR",
+    "stems": [
+      "Rock paper scissors",
+      "chopsticks",
+      "odds and evens"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "PSŢW",
+    "stems": [
+      "red hands / hot hands / slapsies / slap jack",
+      "sing-along hand-clapping game (e.g., pat-a-cake / patty-cake, Double Double This This)",
+      "other hand game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "MFT",
+    "stems": [
+      "charades",
+      "Hangman or similar paper-and-pencil-based guessing game",
+      "Twenty Questions, Two Truths & a Lie, or similar investigative question game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "MFTW",
+    "stems": [
+      "I Spy or similar guessing game",
+      "Psychiatrist or similar role-playing guessing game",
+      "Dictionary / Fictionary"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "MFTL",
+    "stems": [
+      "“would you rather” or similar choice-based game",
+      "Truth or Dare or similar game",
+      "other party/parlor game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "MFTR",
+    "stems": [
+      "alcoholic drinking contest (e.g. speed, endurance)",
+      "arts/entertainment-based (e.g., while watching TV) drinking game",
+      "other drinking game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "PSŢ",
+    "stems": [
+      "tag",
+      "blind man’s buff / blind man’s bluff / Marco Polo",
+      "other tagging-based game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "TÇF",
+    "stems": [
+      "hide-and-seek",
+      "statues / red-light green-light",
+      "Mother May I? / Captain May I?"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "TÇFW",
+    "stems": [
+      "follow the leader",
+      "Simon Says",
+      "Red Rover / forcing the city gates / octopus tag"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "TÇFL",
+    "stems": [
+      "hopscotch",
+      "keep away / monkey in the middle",
+      "jungle gym climbing / monkey bars"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŽDL",
+    "stems": [
+      "catch (back-and-forth tossing of ball, frisbee, etc.)",
+      "horseshoes, ring toss, washer pitching",
+      "darts, lawn darts"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŽDR",
+    "stems": [
+      "bean bag tossing / cornhole",
+      "ladder toss",
+      "lawn bowling / bocce / boules / pétanque / bowls"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŽDŘ",
+    "stems": [
+      "croquet",
+      "shuffleboard / quoits, sjoelen",
+      "other informal throwing or target-based game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTK",
+    "stems": [
+      "volleyball-like sport (e.g., volleyball, sipa, sepak akraw, footbag net, bossaball, jianzi, fistball, wallyball)",
+      "ball-over-net game with paddle (e.g., tennis, table- tennis, pickleball)",
+      "ball-against-wall sport (e.g., squash, racquetball, American handball, jai alai)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTKW",
+    "stems": [
+      "football / soccer",
+      "rugby",
+      "American/Australian/Canadian/Gaelic football"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTKY",
+    "stems": [
+      "basketball-like game (e.g., basketball, netball, cestoball, korfball, ringball)",
+      "team handball",
+      "water polo"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTKL",
+    "stems": [
+      "baseball-like game (e.g., baseball, softball, rounders, stickball, schlagball, palant, lapta, pesäpallo, oina, elle, tee-ball, wiffleball, brännboll)",
+      "cricket-like game (e.g., cricket, vigoro)",
+      "other bat-and-ball hitting game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTKR",
+    "stems": [
+      "field hockey-like game (e.g., field hockey, floorball)",
+      "roller hockey",
+      "ice hockey-like game (e.g., ice hockey, bandy, broomball, ringette)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTKŘ",
+    "stems": [
+      "hurling-like game (e.g., hurling/camogie, shinty, bando)",
+      "lacrosse",
+      "polo"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LTKÇ",
+    "stems": [
+      "dodgeball-like game (e.g., dodgeball, warball, gaga)",
+      "kickball-like game (e.g., kickball, matball)",
+      "other ball-throwing, ball-hitting, ball-kicking or ball-catching game"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢFY",
+    "stems": [
+      "rollerskating",
+      "skateboarding",
+      "roller derby"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ĻKY",
+    "stems": [
+      "surfing",
+      "parasailing",
+      "kiteboarding"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ĻKH",
+    "stems": [
+      "water skiing",
+      "wakeboarding",
+      "paddleboarding"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ĻKÇ",
+    "stems": [
+      "snowboarding",
+      "stand-up paddle surfing",
+      "other board-based sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ĻKL",
+    "stems": [
+      "alpine skiing / downhill skiing",
+      "cross-country skiing / telemark skiing",
+      "ski jumping"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ĻKŘ",
+    "stems": [
+      "speed skiing",
+      "freestyle skiing",
+      "other ski-based sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇŘ",
+    "stems": [
+      "bobsleighing / bobsledding",
+      "luge",
+      "skeleton bobsled"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇR",
+    "stems": [
+      "competitive racing utilizing a non-motorized vehicle/vessel (e.g., cycling, sledding, rowing, sailing)",
+      "competitive racing utilizing a motorized vehicle/vessel",
+      "competitive racing of inanimate objects (e.g., radio-controlled toy trucks)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇM",
+    "stems": [
+      "competitive racing of animal [not being ridden or harness-controlled by human] (e.g., dog racing)",
+      "competitive skill contest involving an animal (e.g., bull-riding)",
+      "other sport involving an animal not being ridden or harness-controlled"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇN",
+    "stems": [
+      "competitive horse-racing",
+      "rodeo event (e.g., roping, bronc rideing, steer wrestling)",
+      "eventing or similar activity (e.g., dressage, show jumpint, cross country equestiran jumping)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LXC",
+    "stems": [
+      "cutting, campdrafting, penning",
+      "jousting",
+      "other equitation-based sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ČŢY",
+    "stems": [
+      "golf",
+      "disc golf",
+      "other golf-like sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢFL",
+    "stems": [
+      "speedskating",
+      "figure skating",
+      "other ice-skating sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GŽR",
+    "stems": [
+      "archery",
+      "target shooting",
+      "other sport involving a projectile and target"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "LXV",
+    "stems": [
+      "bowling",
+      "curling",
+      "other boules-type sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "NSM",
+    "stems": [
+      "unassisted competitive sprinting (e.g., sprinting, race-walking, race-hopping)",
+      "unassisted competitive endurance running (e.g., cross- country, long-distance running)",
+      "unassisted competitive obstacle running (e.g., hurdles, steeplechase)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "NSMW",
+    "stems": [
+      "parkour",
+      "obstacle course running",
+      "other running-based sporting activity"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "NSN",
+    "stems": [
+      "competitive swimming",
+      "diving",
+      "other aquatic sporting activity"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "PSŢŘ",
+    "stems": [
+      "non-contact tag-based version of contact sport (e.g., tag-rugby, tag-football [American])",
+      "kabaddi",
+      "jugger"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŠTN",
+    "stems": [
+      "track-and-field jumping/vaulting event (high jump, long jump, triple jump, pole vault)",
+      "track-and-field throwing event (discus, shot put, hammer throw, javelin)",
+      "track-and-field running event"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŇBW",
+    "stems": [
+      "highland games caber toss",
+      "highland games throwing event (weight throw, hammer throw, stone put",
+      "highland gamess weight over the bar"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŇBŘ",
+    "stems": [
+      "weight-lifting",
+      "maide-leisg",
+      "other competitive brute strength feat"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSPL",
+    "stems": [
+      "gymnastics high bar",
+      "gymnastics uneven parallel bars",
+      "gymnastics parallel bars"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSPR",
+    "stems": [
+      "gymnastics balance beam",
+      "gymnastics pommel horse",
+      "gymnastics vault"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSPŘ",
+    "stems": [
+      "gymnastics still rings",
+      "gymnastics floor exercise",
+      "rhythmic gymnastic routine (ball, ribbon, rope, hoop, club, ball)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŢSPF",
+    "stems": [
+      "flying trapeze",
+      "static trapeze",
+      "trampolining"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GŽGW",
+    "stems": [
+      "freestyle wrestling",
+      "Greco-Roman wrestling",
+      "sambo wrestling"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GŽGY",
+    "stems": [
+      "jujutsu (judo, jiu-jitsu)",
+      "aikido",
+      "sumo wrestling"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GŽGL",
+    "stems": [
+      "folk wrestling (e.g., collar-and-elbow, Cornish, gouren, kurash, Korean, shuai jiao, schwingen)",
+      "theatrical wrestling / professional wrestling",
+      "other wrestling / grappling sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GŽGR",
+    "stems": [
+      "boxing",
+      "kick-boxing style fighting (e.g., sanda / muay thai, pradal serey, lethwei)",
+      "other combative striking sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "GŽGŘ",
+    "stems": [
+      "defensive martial art",
+      "hybrid martial art",
+      "weapons-based martial art"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇTL",
+    "stems": [
+      "parachuting/skydiving",
+      "stunt parachuting / stunt skydiving",
+      "kitesurfing, kite landboarding"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇTW",
+    "stems": [
+      "kite flying",
+      "snowkiting",
+      "other kite-based sport"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ÇÇTY",
+    "stems": [
+      "hanggliding",
+      "paragliding",
+      "gliding"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "VZŢR",
+    "stems": [
+      "wood chopping contest",
+      "logrolling",
+      "woodsman"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "ŠTMW",
+    "stems": [
+      "knife throwing",
+      "axe throwing",
+      "target spear throwing"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "CTÇ",
+    "stems": [
+      "juggling",
+      "baton twirling",
+      "stacking contest (e.g., cards, blocks, cups)"
+    ],
+    "see": "ŢSK"
+  },
+  {
+    "root": "NKHW",
+    "stems": [
+      "tetherball",
+      "sleight-of-hand skills contest",
+      "other sporting activity"
+    ],
+    "see": "ŢSK"
+  }
 ]

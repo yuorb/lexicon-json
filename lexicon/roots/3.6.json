@@ -1,88 +1,88 @@
 [
-    {
-        "root": "ÇP",
-        "refers": "ACTION IN SITU / MOVEMENT IN SITU",
-        "stems": [
-            {
-                "BSC": "(to be/manifest) an action/movement/motion in-situ (i.e., non-translative) [both the movement itself an the entity manifesting such]",
-                "CTE": "(to be) a process of in-situ motion/movement; to move in-situ",
-                "CSV": "(to be) an in-situ motion/movement itself, i.e., how the movement manifests itself; what the movement consists of",
-                "OBJ": "(to be) something moving in-situ"
-            },
-            "(to be/manifest) a movement of a part of a larger whole; move (in-situ) a part of an entity",
-            "(to be a) cyclic/oscillating/back-and-forth/up-and-down-in-situ movement"
-        ],
-        "notes": "Affix: **BDM**\n\nFor the meaning of the old FORMAL stems previously associated with this root, use the following new root -**RÇP**-"
-    },
-    {
-        "root": "RÇP",
-        "refers": "BODILY POSE / IN-SITU BODILY MOVEMENT / DANCING",
-        "stems": [
-            {
-                "BSC": "(to be/manifest) a bodily pose; to pose one’s body and/or limbs",
-                "CTE": "(to be) a state of being in/maintaining a bodily pose",
-                "CSV": "(to be) an act of assuming a bodily pose; to assume a bodily pose",
-                "OBJ": "(to be) the pose one assumes"
-            },
-            "(to be) a state/act of in-situ (i.e., non-translative) movement of one’s body and/or limbs",
-            "(to be) an act of dancing"
-        ]
-    },
-    {
-        "root": "ÇC",
-        "refers": "TRACK/TRAIL/WAKE",
-        "stems": [
-            {
-                "BSC": "(to be) the track/trail of passage left behind by passage of entity [both track/trail + the firmament it is in]",
-                "CTE": "(to be) the track/trail of passage left behind by passage of entity [focus on the track/trail itself]",
-                "CSV": "(to be) the firmament/ground/substrate in which a track/trail has been left (and of which it is likely formed)",
-                "OBJ": "(to be) the entity which leaves a track/vestige/trace/trail of its passage"
-            },
-            "(to be) the 1-dimensional/2-dimensional/3-dimensional wake or front left behind by passage of entity",
-            "(to be) the trail, wake, or spread left behind as area of demarcation, boundary, zone, etc."
-        ],
-        "notes": "Affix: **WAK**"
-    },
-    {
-        "root": "ḐÇ",
-        "refers": "OTHER BODILY MOVEMENT",
-        "stems": [
-            {
-                "BSC": "(to be) an act of jumping/leaping/springing forth; to jump/leap/spring",
-                "CTE": "(to be) a state of being mid-leap or mid-jump or having jumped/leaped",
-                "CSV": "(to be) a physical act of jumping/leaping; to spring off one’s feet/paws/legs into mid-air",
-                "OBJ": "(to be) where one jumps/leaps to, where one lands after jumping/leaping"
-            },
-            "(to be) a state/act of stretching one’s muscles/limbs",
-            "(to be) an act of shaking (a part of) one’s body (e.g., as when shaking one’s wet hair dry or an animal shaking water from its fur)"
-        ]
-    },
-    {
-        "root": "ŇBY",
-        "refers": "fixed placement or positioning / parking / station-keeping",
-        "stems": [
-            {
-                "BSC": "(to be) an act/instance/process of fixing in place, to fix (in place) [i.e., position something into a (quasi-)permanent orientation or placement relative to some surrounding substrate or medium",
-                "CTE": "(to be) a state of being fixed in a certain position/orientation/place",
-                "CSV": "(to be) a physical act of fixing in place, to fix/position in place, to place into a fixed position",
-                "OBJ": "(to be) the position/orientation into which something is fixed"
-            },
-            "(to be) a state/act/process of activation or change of state by placing something in a certain position; to activate a change of state by placing something in a particular position (e.g., via insertion, affixing, attaching, turning, shifting, sliding, etc.)",
-            "(to be) a state/act of parking or station-keeping; to park [i.e., to place in a station-keeping or temporary storage position]"
-        ]
-    },
-    {
-        "root": "ḐẒ",
-        "refers": "STAY (PUT) / REMAIN / RETAIN / BE LEFT AS-IS",
-        "stems": [
-            {
-                "BSC": "(to be) an act/instance/process of staying (put)/remaining in one’s current spatio-temporal location/position/state/situation for the short-term context-at-hand; to stay (put), to not change one’s current location/position/situation for the short-term context-at-hand; to stay/remain (for the time being)",
-                "CTE": "(to be) a state of not having changed one’s spatio-temporal location/position/state/situation during the short-term context-at-hand",
-                "CSV": "(to be) a physical act of staying/remaining in one’s spatio-temporal location/position/state/situation for the short-term context-at-hand",
-                "OBJ": "(to be) the spatio-temporal location/position/state/situation in which one stays (put)/remains for the short-term context-at-hand"
-            },
-            "(to be) a state/act/process of staying/remaining in/retaining one’s current spatio-temporal location/position/state/situation for the long-term (i.e., beyond the original temporal context); to stay/remain/retain (in the long term)",
-            "(to be) a state/act of being left in a particular spatio-temporal location/position/state/situation with no further involvement by the initial party which caused the entity to be situated thus (and without whose help or the help of another party, the entity so left cannot change their status); to leave/be left (behind) as is"
-        ]
-    }
+  {
+    "root": "ÇP",
+    "refers": "ACTION IN SITU / MOVEMENT IN SITU",
+    "stems": [
+      {
+        "BSC": "(to be/manifest) an action/movement/motion in-situ (i.e., non-translative) [both the movement itself an the entity manifesting such]",
+        "CTE": "(to be) a process of in-situ motion/movement; to move in-situ",
+        "CSV": "(to be) an in-situ motion/movement itself, i.e., how the movement manifests itself; what the movement consists of",
+        "OBJ": "(to be) something moving in-situ"
+      },
+      "(to be/manifest) a movement of a part of a larger whole; move (in-situ) a part of an entity",
+      "(to be a) cyclic/oscillating/back-and-forth/up-and-down-in-situ movement"
+    ],
+    "notes": "Affix: **BDM**\n\nFor the meaning of the old FORMAL stems previously associated with this root, use the following new root -**RÇP**-"
+  },
+  {
+    "root": "RÇP",
+    "refers": "BODILY POSE / IN-SITU BODILY MOVEMENT / DANCING",
+    "stems": [
+      {
+        "BSC": "(to be/manifest) a bodily pose; to pose one’s body and/or limbs",
+        "CTE": "(to be) a state of being in/maintaining a bodily pose",
+        "CSV": "(to be) an act of assuming a bodily pose; to assume a bodily pose",
+        "OBJ": "(to be) the pose one assumes"
+      },
+      "(to be) a state/act of in-situ (i.e., non-translative) movement of one’s body and/or limbs",
+      "(to be) an act of dancing"
+    ]
+  },
+  {
+    "root": "ÇC",
+    "refers": "TRACK/TRAIL/WAKE",
+    "stems": [
+      {
+        "BSC": "(to be) the track/trail of passage left behind by passage of entity [both track/trail + the firmament it is in]",
+        "CTE": "(to be) the track/trail of passage left behind by passage of entity [focus on the track/trail itself]",
+        "CSV": "(to be) the firmament/ground/substrate in which a track/trail has been left (and of which it is likely formed)",
+        "OBJ": "(to be) the entity which leaves a track/vestige/trace/trail of its passage"
+      },
+      "(to be) the 1-dimensional/2-dimensional/3-dimensional wake or front left behind by passage of entity",
+      "(to be) the trail, wake, or spread left behind as area of demarcation, boundary, zone, etc."
+    ],
+    "notes": "Affix: **WAK**"
+  },
+  {
+    "root": "ḐÇ",
+    "refers": "OTHER BODILY MOVEMENT",
+    "stems": [
+      {
+        "BSC": "(to be) an act of jumping/leaping/springing forth; to jump/leap/spring",
+        "CTE": "(to be) a state of being mid-leap or mid-jump or having jumped/leaped",
+        "CSV": "(to be) a physical act of jumping/leaping; to spring off one’s feet/paws/legs into mid-air",
+        "OBJ": "(to be) where one jumps/leaps to, where one lands after jumping/leaping"
+      },
+      "(to be) a state/act of stretching one’s muscles/limbs",
+      "(to be) an act of shaking (a part of) one’s body (e.g., as when shaking one’s wet hair dry or an animal shaking water from its fur)"
+    ]
+  },
+  {
+    "root": "ŇBY",
+    "refers": "fixed placement or positioning / parking / station-keeping",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance/process of fixing in place, to fix (in place) [i.e., position something into a (quasi-)permanent orientation or placement relative to some surrounding substrate or medium",
+        "CTE": "(to be) a state of being fixed in a certain position/orientation/place",
+        "CSV": "(to be) a physical act of fixing in place, to fix/position in place, to place into a fixed position",
+        "OBJ": "(to be) the position/orientation into which something is fixed"
+      },
+      "(to be) a state/act/process of activation or change of state by placing something in a certain position; to activate a change of state by placing something in a particular position (e.g., via insertion, affixing, attaching, turning, shifting, sliding, etc.)",
+      "(to be) a state/act of parking or station-keeping; to park [i.e., to place in a station-keeping or temporary storage position]"
+    ]
+  },
+  {
+    "root": "ḐẒ",
+    "refers": "STAY (PUT) / REMAIN / RETAIN / BE LEFT AS-IS",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance/process of staying (put)/remaining in one’s current spatio-temporal location/position/state/situation for the short-term context-at-hand; to stay (put), to not change one’s current location/position/situation for the short-term context-at-hand; to stay/remain (for the time being)",
+        "CTE": "(to be) a state of not having changed one’s spatio-temporal location/position/state/situation during the short-term context-at-hand",
+        "CSV": "(to be) a physical act of staying/remaining in one’s spatio-temporal location/position/state/situation for the short-term context-at-hand",
+        "OBJ": "(to be) the spatio-temporal location/position/state/situation in which one stays (put)/remains for the short-term context-at-hand"
+      },
+      "(to be) a state/act/process of staying/remaining in/retaining one’s current spatio-temporal location/position/state/situation for the long-term (i.e., beyond the original temporal context); to stay/remain/retain (in the long term)",
+      "(to be) a state/act of being left in a particular spatio-temporal location/position/state/situation with no further involvement by the initial party which caused the entity to be situated thus (and without whose help or the help of another party, the entity so left cannot change their status); to leave/be left (behind) as is"
+    ]
+  }
 ]

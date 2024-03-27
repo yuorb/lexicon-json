@@ -1,191 +1,191 @@
 [
-    {
-        "root": "SMW",
-        "stems": [
-            "feel(ing of) calm and rationality",
-            "feel(ing of) serenity, feel(ing) mentally/emotionally “refreshed”",
-            "feel(ing of) emotional well-being/peace of mind"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "ẒMM",
-        "stems": [
-            "feel(ing of) enjoyment",
-            "feel(ing of) excitement",
-            "feel(ing of) a thrill, “whee!”"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "TPL",
-        "stems": [
-            "feel(ing of being) self-satisfied / pleased with one self / gratified",
-            "feel(ing of) pride in oneself/self-pride",
-            "feel(ing of) self-confidence, self-esteem"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "VTL",
-        "stems": [
-            "feel(ing of) being pleased, feel(ing of) emotional gratification",
-            "feel(ing of) satisfaction, feel(ing) that all is going well/has gone well",
-            "feel(ing of) deep satisfaction in one’s good fortune"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "LKP",
-        "stems": [
-            "feel(ing of) relief/reprieve from a burden or from anxiety",
-            "feel(ing of) personal independence/autonomy/self-determination",
-            "feel(ing of) freedom"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "LPW",
-        "stems": [
-            "feeling of peace of mind due to achieving solitude",
-            "peaceful euphoria of being alone with Nature’s beauty",
-            "serenity through solitude as a character trait"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "RTR",
-        "stems": [
-            "feeling of kindness, warm-heartedness, decency",
-            "feeling benevolent, helpful, beneficent",
-            "felling of kindliness, magnanimity, generosity"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "GZZ",
-        "stems": [
-            "feel(ing of) elation, feel(ing of being) on an emotional “high”",
-            "feel(ing of) euphoria, bliss",
-            "feel(ing of) ecstasy"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "NŘ",
-        "stems": [
-            "feel(ing of) enthusiasm",
-            "feel(ing of) enthusiastic anticipation/looking forward to / feel one can’t wait for",
-            "feel(ing of being) lucky/auspicious/propitious"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "ŇV",
-        "stems": [
-            "feel(ing of) jollity/merriment/delight",
-            "feel(ing of) happiness",
-            "feel(ing of) jubilation ( = short-term sense of joy)"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "RPL",
-        "stems": [
-            "feel(ing of being) upbeat / in a good mood",
-            "feel(ing of) being spirited, feeling “alive”, feeling uplifted",
-            "feel(ing of) mental/spiritual youthfulness and joie-de-vivre"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "TKY",
-        "stems": [
-            "feel(ing of) gleefulness/fun/amusement",
-            "feel(ing of) free-spiritedness/frivolity/being care-free",
-            "feel(ing of) playfulness, gregariousness"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "RTK",
-        "stems": [
-            "feel(ing of) sympathy / commiseration",
-            "feel(ing of) compassion",
-            "feel(ing of) empathy"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "NTK",
-        "stems": [
-            "feel(ing of being) hopeful; wishful for beneficial outcome",
-            "feel(ing of being) encouraged",
-            "feel(ing of) optimism"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "TMY",
-        "stems": [
-            "feel(ing of being) honored/privileged",
-            "feel(ing of being) beholden, wanting to give back",
-            "feel(ing of being) humble, humility"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "RKY",
-        "stems": [
-            "feel(ing of being) emotionally open/available/warm/inviting",
-            "feel(ing of) amiability/welcoming/accommodating/cordial",
-            "feel(ing of) amicability, friendliness, congeniality"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "KTŘ",
-        "stems": [
-            "feel(ing of being) resolved, resolute, committed, feel(ing) of commitment",
-            "feel(ing of) audacity; feel audacious",
-            "feel(ing of) tenacity/perseverance; feel tenacious/perseverant, determined against odds"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "MSW",
-        "stems": [
-            "feel(ing of) tolerance",
-            "feel(ing of being) accepting",
-            "feel(ing of being) trusting"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "MÇW",
-        "stems": [
-            "feel(ing of) mental clarity; to sense that one’s confusion or lack of understanding regarding something has vanished",
-            "feel(ing of) extreme mental efficacy; feel that one’s mind can suddenly tackle any problem and find heretofore hidden solutions",
-            "feel(ing of) mental prowess; feel that one’s mind is sufficiently powerful and intelligent to understand anything"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "NTR",
-        "stems": [
-            "feel(ing of) joy [ = long-term sustained sense of happiness + sense of security in one’s happiness + serene introspective appreciation for the situation that brings such a state)",
-            "feel(ing of) joy centered on what one has accomplished",
-            "feel(ing of) joy from one’s social/familial/romantic connections"
-        ],
-        "see": "ÇM"
-    },
-    {
-        "root": "ŠLW",
-        "stems": [
-            "feel(ing of) calmness, composure, placidity",
-            "feel(ing of) patience; be patient, have patience",
-            "feel(ing of) sang-froid, keeping one’s cool, grace under pressure, level-headedness under stress"
-        ],
-        "see": "ÇM"
-    }
+  {
+    "root": "SMW",
+    "stems": [
+      "feel(ing of) calm and rationality",
+      "feel(ing of) serenity, feel(ing) mentally/emotionally “refreshed”",
+      "feel(ing of) emotional well-being/peace of mind"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "ẒMM",
+    "stems": [
+      "feel(ing of) enjoyment",
+      "feel(ing of) excitement",
+      "feel(ing of) a thrill, “whee!”"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "TPL",
+    "stems": [
+      "feel(ing of being) self-satisfied / pleased with one self / gratified",
+      "feel(ing of) pride in oneself/self-pride",
+      "feel(ing of) self-confidence, self-esteem"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "VTL",
+    "stems": [
+      "feel(ing of) being pleased, feel(ing of) emotional gratification",
+      "feel(ing of) satisfaction, feel(ing) that all is going well/has gone well",
+      "feel(ing of) deep satisfaction in one’s good fortune"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "LKP",
+    "stems": [
+      "feel(ing of) relief/reprieve from a burden or from anxiety",
+      "feel(ing of) personal independence/autonomy/self-determination",
+      "feel(ing of) freedom"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "LPW",
+    "stems": [
+      "feeling of peace of mind due to achieving solitude",
+      "peaceful euphoria of being alone with Nature’s beauty",
+      "serenity through solitude as a character trait"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "RTR",
+    "stems": [
+      "feeling of kindness, warm-heartedness, decency",
+      "feeling benevolent, helpful, beneficent",
+      "felling of kindliness, magnanimity, generosity"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "GZZ",
+    "stems": [
+      "feel(ing of) elation, feel(ing of being) on an emotional “high”",
+      "feel(ing of) euphoria, bliss",
+      "feel(ing of) ecstasy"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "NŘ",
+    "stems": [
+      "feel(ing of) enthusiasm",
+      "feel(ing of) enthusiastic anticipation/looking forward to / feel one can’t wait for",
+      "feel(ing of being) lucky/auspicious/propitious"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "ŇV",
+    "stems": [
+      "feel(ing of) jollity/merriment/delight",
+      "feel(ing of) happiness",
+      "feel(ing of) jubilation ( = short-term sense of joy)"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "RPL",
+    "stems": [
+      "feel(ing of being) upbeat / in a good mood",
+      "feel(ing of) being spirited, feeling “alive”, feeling uplifted",
+      "feel(ing of) mental/spiritual youthfulness and joie-de-vivre"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "TKY",
+    "stems": [
+      "feel(ing of) gleefulness/fun/amusement",
+      "feel(ing of) free-spiritedness/frivolity/being care-free",
+      "feel(ing of) playfulness, gregariousness"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "RTK",
+    "stems": [
+      "feel(ing of) sympathy / commiseration",
+      "feel(ing of) compassion",
+      "feel(ing of) empathy"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "NTK",
+    "stems": [
+      "feel(ing of being) hopeful; wishful for beneficial outcome",
+      "feel(ing of being) encouraged",
+      "feel(ing of) optimism"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "TMY",
+    "stems": [
+      "feel(ing of being) honored/privileged",
+      "feel(ing of being) beholden, wanting to give back",
+      "feel(ing of being) humble, humility"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "RKY",
+    "stems": [
+      "feel(ing of being) emotionally open/available/warm/inviting",
+      "feel(ing of) amiability/welcoming/accommodating/cordial",
+      "feel(ing of) amicability, friendliness, congeniality"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "KTŘ",
+    "stems": [
+      "feel(ing of being) resolved, resolute, committed, feel(ing) of commitment",
+      "feel(ing of) audacity; feel audacious",
+      "feel(ing of) tenacity/perseverance; feel tenacious/perseverant, determined against odds"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "MSW",
+    "stems": [
+      "feel(ing of) tolerance",
+      "feel(ing of being) accepting",
+      "feel(ing of being) trusting"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "MÇW",
+    "stems": [
+      "feel(ing of) mental clarity; to sense that one’s confusion or lack of understanding regarding something has vanished",
+      "feel(ing of) extreme mental efficacy; feel that one’s mind can suddenly tackle any problem and find heretofore hidden solutions",
+      "feel(ing of) mental prowess; feel that one’s mind is sufficiently powerful and intelligent to understand anything"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "NTR",
+    "stems": [
+      "feel(ing of) joy [ = long-term sustained sense of happiness + sense of security in one’s happiness + serene introspective appreciation for the situation that brings such a state)",
+      "feel(ing of) joy centered on what one has accomplished",
+      "feel(ing of) joy from one’s social/familial/romantic connections"
+    ],
+    "see": "ÇM"
+  },
+  {
+    "root": "ŠLW",
+    "stems": [
+      "feel(ing of) calmness, composure, placidity",
+      "feel(ing of) patience; be patient, have patience",
+      "feel(ing of) sang-froid, keeping one’s cool, grace under pressure, level-headedness under stress"
+    ],
+    "see": "ÇM"
+  }
 ]

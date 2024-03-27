@@ -1,44 +1,44 @@
 [
-    {
-        "root": "ŠŘ",
-        "refers": "SPACETIME / SPACE / PASSAGE OF TIME",
-        "stems": [
-            {
-                "BSC": "(to exist/occur at) a “location/period/instance” of spacetime; to exist/occur at a place and time [both the spatio-temporal location and the entity occupying it]",
-                "CTE": "one’s physical and temporal existence; to spatio-temporally exist [i.e., exist at a particular place at a particular time]",
-                "CSV": "(to be) a particular volume/duration of spacetime; (to be) a particular location/volume of space at a particular moment/period in time",
-                "OBJ": "(to be) an entity located at a particular place and time; (to be) a spatio-temporally existent entity"
-            },
-            "[the spatial component of Stem 1, i.e., ] (to be/occupy) a location in space, the site of something; to be spatially located/situated at, to be the site of something",
-            "[the temporal component of Stem 1, i.e., ] (to occur) at a particular point/duration/period in time; to temporally take place at"
-        ]
-    },
-    {
-        "root": "LC",
-        "refers": "PATHWAY / COURSE / ROUTE / ROADWAY / CHANNEL",
-        "stems": [
-            {
-                "BSC": "(to be) a marked/indicated pathway/trail/course",
-                "CTE": "(to be) the direction/destination to which a pathway/trail leads (i.e., what it’s there for)",
-                "CSV": "(to be) the physical manifestation of a pathway/trail (i.e., how it is physically marked/distinguished from the surrounding surface or underlying substrate)",
-                "OBJ": "(to be) a party/entity which travels a pathway/trail/course"
-            },
-            "(to be) a marked route / roadway / street",
-            "(to be) a marked/indicated channel [i.e., planned conduit-like course/way along/through which an entity/substance travels]"
-        ]
-    },
-    {
-        "root": "KÇN",
-        "refers": "MAP / DIAGRAM / BLUEPRINT",
-        "stems": [
-            {
-                "BSC": "(to be) an act/instance of reading/using a map or map-like chart; to read/use a map or map-like chart [i.e., a miniaturized graphic representation of a localized geographic area or landscape or spatial volume or ocean volume, etc.]",
-                "CTE": "(to be) the physical map itself",
-                "CSV": "(to be) a physical act of reading/using/interpreting a map; to read/use/interpret a map",
-                "OBJ": "(to be) what a map represents, the geographic/spatial area represented on/by a map"
-            },
-            " (to be) an act/instance of reading/using a diagram, flow-chart, or other graphic representation of the steps/relationships/interdependencies of a sequential process or process flow; to read/use a diagram",
-            "(to be) an act/instance of using/reading/interpreting a blueprint; to use/read/interpret a blue print [i.e., a formalized/idealized, abstract visual 2-dimensional or 3-dimensional model of an object/entity for purposes of understanding its structure/construction/architecture"
-        ]
-    }
+  {
+    "root": "ŠŘ",
+    "refers": "SPACETIME / SPACE / PASSAGE OF TIME",
+    "stems": [
+      {
+        "BSC": "(to exist/occur at) a “location/period/instance” of spacetime; to exist/occur at a place and time [both the spatio-temporal location and the entity occupying it]",
+        "CTE": "one’s physical and temporal existence; to spatio-temporally exist [i.e., exist at a particular place at a particular time]",
+        "CSV": "(to be) a particular volume/duration of spacetime; (to be) a particular location/volume of space at a particular moment/period in time",
+        "OBJ": "(to be) an entity located at a particular place and time; (to be) a spatio-temporally existent entity"
+      },
+      "[the spatial component of Stem 1, i.e., ] (to be/occupy) a location in space, the site of something; to be spatially located/situated at, to be the site of something",
+      "[the temporal component of Stem 1, i.e., ] (to occur) at a particular point/duration/period in time; to temporally take place at"
+    ]
+  },
+  {
+    "root": "LC",
+    "refers": "PATHWAY / COURSE / ROUTE / ROADWAY / CHANNEL",
+    "stems": [
+      {
+        "BSC": "(to be) a marked/indicated pathway/trail/course",
+        "CTE": "(to be) the direction/destination to which a pathway/trail leads (i.e., what it’s there for)",
+        "CSV": "(to be) the physical manifestation of a pathway/trail (i.e., how it is physically marked/distinguished from the surrounding surface or underlying substrate)",
+        "OBJ": "(to be) a party/entity which travels a pathway/trail/course"
+      },
+      "(to be) a marked route / roadway / street",
+      "(to be) a marked/indicated channel [i.e., planned conduit-like course/way along/through which an entity/substance travels]"
+    ]
+  },
+  {
+    "root": "KÇN",
+    "refers": "MAP / DIAGRAM / BLUEPRINT",
+    "stems": [
+      {
+        "BSC": "(to be) an act/instance of reading/using a map or map-like chart; to read/use a map or map-like chart [i.e., a miniaturized graphic representation of a localized geographic area or landscape or spatial volume or ocean volume, etc.]",
+        "CTE": "(to be) the physical map itself",
+        "CSV": "(to be) a physical act of reading/using/interpreting a map; to read/use/interpret a map",
+        "OBJ": "(to be) what a map represents, the geographic/spatial area represented on/by a map"
+      },
+      " (to be) an act/instance of reading/using a diagram, flow-chart, or other graphic representation of the steps/relationships/interdependencies of a sequential process or process flow; to read/use a diagram",
+      "(to be) an act/instance of using/reading/interpreting a blueprint; to use/read/interpret a blue print [i.e., a formalized/idealized, abstract visual 2-dimensional or 3-dimensional model of an object/entity for purposes of understanding its structure/construction/architecture"
+    ]
+  }
 ]

@@ -1,200 +1,200 @@
 [
-    {
-        "root": "MPW",
-        "refers": "PHONOLOGICAL COMPONENT OF A SPOKEN LANGUAGE",
-        "stems": [
-            {
-                "BSC": "(to be) a phoneme [i.e., the smallest meaningful/salient sonic unit, whether consonantal or vocalic, pronounceable/articulable by the human vocal apparatus, that is cognitively distinct from other such sonic units in a particular human language as heard/distinguished by its native speakers]",
-                "CTE": "(to be) a state/process of hearing/understanding/identifying a spoken phoneme (or graphic/written representation thereof)",
-                "CSV": "(to be) an act of pronouncing/articulating a phoneme; to pronounce/articulate a phoneme (or producing a written representation thereof)",
-                "OBJ": "(to be) the particular place and manner of oral/vocal articulation of a particular phoneme"
-            },
-            "(to be) a phone [i.e., a sound pronounceable/articulable by the human vocal apparatus, regardless of whether it functions meaningfully as part of a phonology in a human language]",
-            "(to be) an allophone [i.e., a particular sonic variation on a archetypal phone identified by native speakers of a language as being a phoneme in that language, the variation being predictable based on the structure of the phonetic environment in which the sound occurs]"
-        ]
-    },
-    {
-        "root": "MPY",
-        "refers": "morpheme",
-        "see": "MPW"
-    },
-    {
-        "root": "MPŘ",
-        "refers": "lexeme / word",
-        "see": "MPW"
-    },
-    {
-        "root": "MPH",
-        "refers": "GRAMMATICAL/MORPHOLOGICAL CATEGORY/FORM OF A LANGUAGE",
-        "stems": [
-            {
-                "BSC": "(to be) a grammatical/morphological category in a spoken/written language",
-                "CTE": "(to be) a state/process of hearing/understanding/identifying a grammatical/morphological category in a spoken/written language",
-                "CSV": "(to be) an act of using/speaking/writing a grammatical/morphological category in a spoken/written language",
-                "OBJ": "(to be) the particular phonological form of a grammatical/morphological category in a spoken/written language"
-            },
-            "(to be) the function/purpose/meaning/signification of a particular grammatical/morphological category in a spoken/written language",
-            "(to be) an allomorphic/alternative way of expressing a grammatical/morphological category in a spoken/written language"
-        ]
-    },
-    {
-        "root": "MPÇ",
-        "refers": "lexical root",
-        "see": "MPH"
-    },
-    {
-        "root": "MPĻ",
-        "refers": "lexical stem",
-        "see": "MPH"
-    },
-    {
-        "root": "MPM",
-        "refers": "concatenated root",
-        "see": "MPH"
-    },
-    {
-        "root": "MPN",
-        "refers": "concatenated stem",
-        "see": "MPH"
-    },
-    {
-        "root": "RMP",
-        "refers": "noun case or verbal format",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPW",
-        "refers": "case-accessor affix",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPY",
-        "refers": "bias category",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPL",
-        "refers": "expectation category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢP",
-        "refers": "level category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPW",
-        "refers": "phase category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPY",
-        "refers": "valence category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPL",
-        "refers": "essence category",
-        "see": "MPH"
-    },
-    {
-        "root": "LMP",
-        "refers": "VXCS affix",
-        "see": "MPH"
-    },
-    {
-        "root": "LMPW",
-        "refers": "VXCS affix-type",
-        "see": "MPH"
-    },
-    {
-        "root": "LMPY",
-        "refers": "VXCS affix-degree",
-        "see": "MPH"
-    },
-    {
-        "root": "LMPL",
-        "refers": "formative (part of speech)",
-        "see": "MPH"
-    },
-    {
-        "root": "LMPR",
-        "refers": "adjunct (part of speech)",
-        "see": "MPH"
-    },
-    {
-        "root": "LMPŘ",
-        "refers": "referential (part of speech)",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPŘ",
-        "refers": "illocution category",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPÇ",
-        "refers": "validation category",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPĻ",
-        "refers": "mood category",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPM",
-        "refers": "context category",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPN",
-        "refers": "aspect category",
-        "see": "MPH"
-    },
-    {
-        "root": "RMPH",
-        "refers": "effect category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPR",
-        "refers": "perspective category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPŘ",
-        "refers": "extension category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPF",
-        "refers": "plexity category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPŢ",
-        "refers": "similarity category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPÇ",
-        "refers": "separability category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPS",
-        "refers": "version category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPŠ",
-        "refers": "function category",
-        "see": "MPH"
-    },
-    {
-        "root": "MŢPH",
-        "refers": "specification category",
-        "see": "MPH"
-    }
+  {
+    "root": "MPW",
+    "refers": "PHONOLOGICAL COMPONENT OF A SPOKEN LANGUAGE",
+    "stems": [
+      {
+        "BSC": "(to be) a phoneme [i.e., the smallest meaningful/salient sonic unit, whether consonantal or vocalic, pronounceable/articulable by the human vocal apparatus, that is cognitively distinct from other such sonic units in a particular human language as heard/distinguished by its native speakers]",
+        "CTE": "(to be) a state/process of hearing/understanding/identifying a spoken phoneme (or graphic/written representation thereof)",
+        "CSV": "(to be) an act of pronouncing/articulating a phoneme; to pronounce/articulate a phoneme (or producing a written representation thereof)",
+        "OBJ": "(to be) the particular place and manner of oral/vocal articulation of a particular phoneme"
+      },
+      "(to be) a phone [i.e., a sound pronounceable/articulable by the human vocal apparatus, regardless of whether it functions meaningfully as part of a phonology in a human language]",
+      "(to be) an allophone [i.e., a particular sonic variation on a archetypal phone identified by native speakers of a language as being a phoneme in that language, the variation being predictable based on the structure of the phonetic environment in which the sound occurs]"
+    ]
+  },
+  {
+    "root": "MPY",
+    "refers": "morpheme",
+    "see": "MPW"
+  },
+  {
+    "root": "MPŘ",
+    "refers": "lexeme / word",
+    "see": "MPW"
+  },
+  {
+    "root": "MPH",
+    "refers": "GRAMMATICAL/MORPHOLOGICAL CATEGORY/FORM OF A LANGUAGE",
+    "stems": [
+      {
+        "BSC": "(to be) a grammatical/morphological category in a spoken/written language",
+        "CTE": "(to be) a state/process of hearing/understanding/identifying a grammatical/morphological category in a spoken/written language",
+        "CSV": "(to be) an act of using/speaking/writing a grammatical/morphological category in a spoken/written language",
+        "OBJ": "(to be) the particular phonological form of a grammatical/morphological category in a spoken/written language"
+      },
+      "(to be) the function/purpose/meaning/signification of a particular grammatical/morphological category in a spoken/written language",
+      "(to be) an allomorphic/alternative way of expressing a grammatical/morphological category in a spoken/written language"
+    ]
+  },
+  {
+    "root": "MPÇ",
+    "refers": "lexical root",
+    "see": "MPH"
+  },
+  {
+    "root": "MPĻ",
+    "refers": "lexical stem",
+    "see": "MPH"
+  },
+  {
+    "root": "MPM",
+    "refers": "concatenated root",
+    "see": "MPH"
+  },
+  {
+    "root": "MPN",
+    "refers": "concatenated stem",
+    "see": "MPH"
+  },
+  {
+    "root": "RMP",
+    "refers": "noun case or verbal format",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPW",
+    "refers": "case-accessor affix",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPY",
+    "refers": "bias category",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPL",
+    "refers": "expectation category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢP",
+    "refers": "level category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPW",
+    "refers": "phase category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPY",
+    "refers": "valence category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPL",
+    "refers": "essence category",
+    "see": "MPH"
+  },
+  {
+    "root": "LMP",
+    "refers": "VXCS affix",
+    "see": "MPH"
+  },
+  {
+    "root": "LMPW",
+    "refers": "VXCS affix-type",
+    "see": "MPH"
+  },
+  {
+    "root": "LMPY",
+    "refers": "VXCS affix-degree",
+    "see": "MPH"
+  },
+  {
+    "root": "LMPL",
+    "refers": "formative (part of speech)",
+    "see": "MPH"
+  },
+  {
+    "root": "LMPR",
+    "refers": "adjunct (part of speech)",
+    "see": "MPH"
+  },
+  {
+    "root": "LMPŘ",
+    "refers": "referential (part of speech)",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPŘ",
+    "refers": "illocution category",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPÇ",
+    "refers": "validation category",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPĻ",
+    "refers": "mood category",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPM",
+    "refers": "context category",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPN",
+    "refers": "aspect category",
+    "see": "MPH"
+  },
+  {
+    "root": "RMPH",
+    "refers": "effect category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPR",
+    "refers": "perspective category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPŘ",
+    "refers": "extension category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPF",
+    "refers": "plexity category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPŢ",
+    "refers": "similarity category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPÇ",
+    "refers": "separability category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPS",
+    "refers": "version category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPŠ",
+    "refers": "function category",
+    "see": "MPH"
+  },
+  {
+    "root": "MŢPH",
+    "refers": "specification category",
+    "see": "MPH"
+  }
 ]

@@ -1,27 +1,27 @@
 [
-    {
-        "root": "Č",
-        "refers": "BE (i.e., copular identification only) / EQUIVALENCE / IDENTIFICATION",
-        "stems": [
-            {
-                "BSC": "(to be ontologically the) self-same entity (as) (i.e., [to be] simply another name for the self-same entity)",
-                "CTE": "(to be ontologically the) self-same entity (as) in terms of essence, sense of identity, behavior, personality, mind, etc.",
-                "CSV": "(to be ontologically) the self-same entity (as) in terms of appearance, physical manifestation or construction",
-                "OBJ": "what X ontologically is (as opposed to being something else), X’s natural identity, X’s existence as X; to be X as itself (as opposed to something else)"
-            },
-            {
-                "BSC": "to be epistemologically equivalent to or (functionally) identified/identifiable as; be (functionally) the same as; be equal to",
-                "CTE": "to be epistemologically equivalent to or (functionally) identif(ied/-iable) as in terms of essence, sense of identity, behavior, personality, mind, etc.",
-                "CSV": "to be epistemologically equivalent to or (functionally) identif(ied/-iable) as in terms of appearance, physical manifestation or construction",
-                "OBJ": "what X is epistemologically equivalent to (as opposed to something else), X’s natural identity, X’s existence as X; to be X as itself (as opposed to something else)"
-            },
-            {
-                "BSC": "to be epistemologically synonymous/tantamount/convertible to",
-                "CTE": "to be epistemologically synonymous/tantamount/convertible in terms of essence, sense of identity, behavior, personality, mind, etc.",
-                "CSV": "to be epistemologically synonymous/tantamount/convertible to in terms of appearance or outward physical manifestation",
-                "OBJ": "(to be) what X is epistemologically synonymous, tantamount, or convertible to (as opposed to something else), X’s convertibility to"
-            }
-        ],
-        "notes": "The scope of this root’s usage is narrow. It is used only in contexts requiring ontological or epistemic equivalence/identity. e.g., “I am your father.” It is **not to be used** in the following circumstances:\n- when “be” means “be named/called”, e.g., “My dog is [named/called] Toto.” (Use stem meaning “be named; be called; have an appellation”)\n- when “be” initiates an adjectival phrase, e.g., “Rain is beneficial.” (Use adjectival case or an appropriate verbal stem, e.g., “to (be of) benefit”)\n- when “be” indicates a spatio-temporal relation, e.g., “The box is on the table” (Use stem signifying the specific relation, e.g., “be on the top surface of”)\n- when “be” means “occur / happen / take place”, e.g., “Wednesday is the best day for shopping.” (Use stem meaning “occur, take place, happen”)\n- when “be” means “exist (ontologically)”, e.g., “Such is life”, “I think, therefore I am.” (Use stem meaning “existent entity; to ontologically exist”)\n- when “be” indicates exemplary membership in a set, e.g., “A hammer is a tool.” (Use stem meaning “exemplify; be an example of” or “be a type of”)\n- when “be” indicates composition, e.g., “Rain is water.” (Use stem meaning “to consist of”)"
-    }
+  {
+    "root": "Č",
+    "refers": "BE (i.e., copular identification only) / EQUIVALENCE / IDENTIFICATION",
+    "stems": [
+      {
+        "BSC": "(to be ontologically the) self-same entity (as) (i.e., [to be] simply another name for the self-same entity)",
+        "CTE": "(to be ontologically the) self-same entity (as) in terms of essence, sense of identity, behavior, personality, mind, etc.",
+        "CSV": "(to be ontologically) the self-same entity (as) in terms of appearance, physical manifestation or construction",
+        "OBJ": "what X ontologically is (as opposed to being something else), X’s natural identity, X’s existence as X; to be X as itself (as opposed to something else)"
+      },
+      {
+        "BSC": "to be epistemologically equivalent to or (functionally) identified/identifiable as; be (functionally) the same as; be equal to",
+        "CTE": "to be epistemologically equivalent to or (functionally) identif(ied/-iable) as in terms of essence, sense of identity, behavior, personality, mind, etc.",
+        "CSV": "to be epistemologically equivalent to or (functionally) identif(ied/-iable) as in terms of appearance, physical manifestation or construction",
+        "OBJ": "what X is epistemologically equivalent to (as opposed to something else), X’s natural identity, X’s existence as X; to be X as itself (as opposed to something else)"
+      },
+      {
+        "BSC": "to be epistemologically synonymous/tantamount/convertible to",
+        "CTE": "to be epistemologically synonymous/tantamount/convertible in terms of essence, sense of identity, behavior, personality, mind, etc.",
+        "CSV": "to be epistemologically synonymous/tantamount/convertible to in terms of appearance or outward physical manifestation",
+        "OBJ": "(to be) what X is epistemologically synonymous, tantamount, or convertible to (as opposed to something else), X’s convertibility to"
+      }
+    ],
+    "notes": "The scope of this root’s usage is narrow. It is used only in contexts requiring ontological or epistemic equivalence/identity. e.g., “I am your father.” It is **not to be used** in the following circumstances:\n- when “be” means “be named/called”, e.g., “My dog is [named/called] Toto.” (Use stem meaning “be named; be called; have an appellation”)\n- when “be” initiates an adjectival phrase, e.g., “Rain is beneficial.” (Use adjectival case or an appropriate verbal stem, e.g., “to (be of) benefit”)\n- when “be” indicates a spatio-temporal relation, e.g., “The box is on the table” (Use stem signifying the specific relation, e.g., “be on the top surface of”)\n- when “be” means “occur / happen / take place”, e.g., “Wednesday is the best day for shopping.” (Use stem meaning “occur, take place, happen”)\n- when “be” means “exist (ontologically)”, e.g., “Such is life”, “I think, therefore I am.” (Use stem meaning “existent entity; to ontologically exist”)\n- when “be” indicates exemplary membership in a set, e.g., “A hammer is a tool.” (Use stem meaning “exemplify; be an example of” or “be a type of”)\n- when “be” indicates composition, e.g., “Rain is water.” (Use stem meaning “to consist of”)"
+  }
 ]
