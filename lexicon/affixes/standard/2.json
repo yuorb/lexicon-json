@@ -1,1072 +1,1072 @@
 [
-    {
-        "name": "SEQ",
-        "description": "Numerical Sequence",
-        "gradient_type": "D1",
-        "cs": "nt",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "first / initial; first(ly) / first of all",
-            "second; secondly",
-            "third; thirdly",
-            "fourth; fourthly",
-            "middle / median / in the middle or median position",
-            "fourth from last; pre-antepenultimately",
-            "third from last; antepenultimately",
-            "next to last; penultimately",
-            "last / final; last(ly) / finally (in terms of sequence)"
-        ]
-    },
-    {
-        "name": "SQT",
-        "description": "Sequence Relative to Present Context",
-        "gradient_type": "D1",
-        "cs": "lţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "the former; primarily",
-            "two before preceding",
-            "one before preceding",
-            "immediately beforehand / the preceding / first (of two)",
-            "current / at hand; now / currently / at the moment [in sequence of events]",
-            "next / following; then / next",
-            "one after next",
-            "second one after next",
-            "the latter; secondarily"
-        ]
-    },
-    {
-        "name": "XXZ",
-        "description": "[zero]",
-        "gradient_type": "0",
-        "cs": "vc",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 0th member of a set per sequential physical arrangement",
-            "being the 0th member of a set per conventionalized/agreed-upon order",
-            "being the 0th member of a set per hierarchical order",
-            "being the 0th member of a set per contextual/circumstantial order*",
-            "being/having 0 of members or instances/occurrences",
-            "being/having at least 0 of members or instances/occurrences",
-            "being/having 0 of parts/sections",
-            "being/having 0 of nodes/hubs/connections/access points",
-            "being/having 0 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 0th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX1",
-        "description": "[one]",
-        "gradient_type": "0",
-        "cs": "zc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "being the 1st member of a set per sequential physical arrangement",
-            "being the 1st member of a set per conventionalized/agreed-upon order",
-            "being the 1st member of a set per hierarchical order",
-            "being the 1st member of a set per contextual/circumstantial order*",
-            "being/having 1 of members or instances/occurrences",
-            "being/having at least 1 of members or instances/occurrences",
-            "being/having 1 of parts/sections",
-            "being/having 1 of nodes/hubs/connections/access points",
-            "being/having 1 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 1st member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX2",
-        "description": "[two]",
-        "gradient_type": "0",
-        "cs": "ks",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 2nd member of a set per sequential physical arrangement",
-            "being the 2nd member of a set per conventionalized/agreed-upon order",
-            "being the 2nd member of a set per hierarchical order",
-            "being the 2nd member of a set per contextual/circumstantial order*",
-            "being/having 2 of members or instances/occurrences",
-            "being/having at least 2 of members or instances/occurrences",
-            "being/having 2 of parts/sections",
-            "being/having 2 of nodes/hubs/connections/access points",
-            "being/having 2 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 2nd member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX3",
-        "description": "[three]",
-        "gradient_type": "0",
-        "cs": "z",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 3rd member of a set per sequential physical arrangement",
-            "being the 3rd member of a set per conventionalized/agreed-upon order",
-            "being the 3rd member of a set per hierarchical order",
-            "being the 3rd member of a set per contextual/circumstantial order*",
-            "being/having 3 of members or instances/occurrences",
-            "being/having at least 3 of members or instances/occurrences",
-            "being/having 3 of parts/sections",
-            "being/having 3 of nodes/hubs/connections/access points",
-            "being/having 3 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 3rd member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX4",
-        "description": "[four]",
-        "gradient_type": "0",
-        "cs": "pš",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 4th member of a set per sequential physical arrangement",
-            "being the 4th member of a set per conventionalized/agreed-upon order",
-            "being the 4th member of a set per hierarchical order",
-            "being the 4th member of a set per contextual/circumstantial order*",
-            "being/having 4 of members or instances/occurrences",
-            "being/having at least 4 of members or instances/occurrences",
-            "being/having 4 of parts/sections",
-            "being/having 4 of nodes/hubs/connections/access points",
-            "being/having 4 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 4th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX5",
-        "description": "[five]",
-        "gradient_type": "0",
-        "cs": "st",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 5th member of a set per sequential physical arrangement",
-            "being the 5th member of a set per conventionalized/agreed-upon order",
-            "being the 5th member of a set per hierarchical order",
-            "being the 5th member of a set per contextual/circumstantial order*",
-            "being/having 5 of members or instances/occurrences",
-            "being/having at least 5 of members or instances/occurrences",
-            "being/having 5 of parts/sections",
-            "being/having 5 of nodes/hubs/connections/access points",
-            "being/having 5 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 5th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX6",
-        "description": "[six]",
-        "gradient_type": "0",
-        "cs": "cp",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 6th member of a set per sequential physical arrangement",
-            "being the 6th member of a set per conventionalized/agreed-upon order",
-            "being the 6th member of a set per hierarchical order",
-            "being the 6th member of a set per contextual/circumstantial order*",
-            "being/having 6 of members or instances/occurrences",
-            "being/having at least 6 of members or instances/occurrences",
-            "being/having 6 of parts/sections",
-            "being/having 6 of nodes/hubs/connections/access points",
-            "being/having 6 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 6th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX7",
-        "description": "[seven]",
-        "gradient_type": "0",
-        "cs": "ns",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 7th member of a set per sequential physical arrangement",
-            "being the 7th member of a set per conventionalized/agreed-upon order",
-            "being the 7th member of a set per hierarchical order",
-            "being the 7th member of a set per contextual/circumstantial order*",
-            "being/having 7 of members or instances/occurrences",
-            "being/having at least 7 of members or instances/occurrences",
-            "being/having 7 of parts/sections",
-            "being/having 7 of nodes/hubs/connections/access points",
-            "being/having 7 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 7th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX8",
-        "description": "[eight]",
-        "gradient_type": "0",
-        "cs": "čk",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 8th member of a set per sequential physical arrangement",
-            "being the 8th member of a set per conventionalized/agreed-upon order",
-            "being the 8th member of a set per hierarchical order",
-            "being the 8th member of a set per contextual/circumstantial order*",
-            "being/having 8 of members or instances/occurrences",
-            "being/having at least 8 of members or instances/occurrences",
-            "being/having 8 of parts/sections",
-            "being/having 8 of nodes/hubs/connections/access points",
-            "being/having 8 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 8th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XX9",
-        "description": "[nine]",
-        "gradient_type": "0",
-        "cs": "lẓ",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 9th member of a set per sequential physical arrangement",
-            "being the 9th member of a set per conventionalized/agreed-upon order",
-            "being the 9th member of a set per hierarchical order",
-            "being the 9th member of a set per contextual/circumstantial order*",
-            "being/having 9 of members or instances/occurrences",
-            "being/having at least 9 of members or instances/occurrences",
-            "being/having 9 of parts/sections",
-            "being/having 9 of nodes/hubs/connections/access points",
-            "being/having 9 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 9th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "X10",
-        "description": "[ten]",
-        "gradient_type": "0",
-        "cs": "j",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 10th member of a set per sequential physical arrangement",
-            "being the 10th member of a set per conventionalized/agreed-upon order",
-            "being the 10th member of a set per hierarchical order",
-            "being the 10th member of a set per contextual/circumstantial order*",
-            "being/having 10 of members or instances/occurrences",
-            "being/having at least 10 of members or instances/occurrences",
-            "being/having 10 of parts/sections",
-            "being/having 10 of nodes/hubs/connections/access points",
-            "being/having 10 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 10th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "X11",
-        "description": "[eleven] (used in the context of a number-base higher than ten)",
-        "gradient_type": "0",
-        "cs": "cg",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 11th member of a set per sequential physical arrangement",
-            "being the 11th member of a set per conventionalized/agreed-upon order",
-            "being the 11th member of a set per hierarchical order",
-            "being the 11th member of a set per contextual/circumstantial order*",
-            "being/having 11 of members or instances/occurrences",
-            "being/having at least 11 of members or instances/occurrences",
-            "being/having 11 of parts/sections",
-            "being/having 11 of nodes/hubs/connections/access points",
-            "being/having 11 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 11th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "X12",
-        "description": "[twelve] (used in the context of a number-base higher than ten)",
-        "gradient_type": "0",
-        "cs": "jd",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 12th member of a set per sequential physical arrangement",
-            "being the 12th member of a set per conventionalized/agreed-upon order",
-            "being the 12th member of a set per hierarchical order",
-            "being the 12th member of a set per contextual/circumstantial order*",
-            "being/having 12 of members or instances/occurrences",
-            "being/having at least 12 of members or instances/occurrences",
-            "being/having 12 of parts/sections",
-            "being/having 12 of nodes/hubs/connections/access points",
-            "being/having 12 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 12th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "X13",
-        "description": "[thirteen] (used in the context of a number-base higher than ten)",
-        "gradient_type": "0",
-        "cs": "ļj",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 13th member of a set per sequential physical arrangement",
-            "being the 13th member of a set per conventionalized/agreed-upon order",
-            "being the 13th member of a set per hierarchical order",
-            "being the 13th member of a set per contextual/circumstantial order*",
-            "being/having 13 of members or instances/occurrences",
-            "being/having at least 13 of members or instances/occurrences",
-            "being/having 13 of parts/sections",
-            "being/having 13 of nodes/hubs/connections/access points",
-            "being/having 13 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 13th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "X14",
-        "description": "[fourteen] (used in the context of a number-base higher than ten)",
-        "gradient_type": "0",
-        "cs": "bc",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 14th member of a set per sequential physical arrangement",
-            "being the 14th member of a set per conventionalized/agreed-upon order",
-            "being the 14th member of a set per hierarchical order",
-            "being the 14th member of a set per contextual/circumstantial order*",
-            "being/having 14 of members or instances/occurrences",
-            "being/having at least 14 of members or instances/occurrences",
-            "being/having 14 of parts/sections",
-            "being/having 14 of nodes/hubs/connections/access points",
-            "being/having 14 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 14th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "X15",
-        "description": "[fifteen] (used in the context of a number-base higher than ten)",
-        "gradient_type": "0",
-        "cs": "ţẓ",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 15th member of a set per sequential physical arrangement",
-            "being the 15th member of a set per conventionalized/agreed-upon order",
-            "being the 15th member of a set per hierarchical order",
-            "being the 15th member of a set per contextual/circumstantial order*",
-            "being/having 15 of members or instances/occurrences",
-            "being/having at least 15 of members or instances/occurrences",
-            "being/having 15 of parts/sections",
-            "being/having 15 of nodes/hubs/connections/access points",
-            "being/having 15 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 15th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XOH",
-        "description": "[one hundred]",
-        "gradient_type": "0",
-        "cs": "gz",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 100th member of a set per sequential physical arrangement",
-            "being the 100th member of a set per conventionalized/agreed-upon order",
-            "being the 100th member of a set per hierarchical order",
-            "being the 100th member of a set per contextual/circumstantial order*",
-            "being/having 100 of members or instances/occurrences",
-            "being/having at least 100 of members or instances/occurrences",
-            "being/having 100 of parts/sections",
-            "being/having 100 of nodes/hubs/connections/access points",
-            "being/having 100 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 100th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XTT",
-        "description": "[ten thousand]",
-        "gradient_type": "0",
-        "cs": "pc",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 10000th member of a set per sequential physical arrangement",
-            "being the 10000th member of a set per conventionalized/agreed-upon order",
-            "being the 10000th member of a set per hierarchical order",
-            "being the 10000th member of a set per contextual/circumstantial order*",
-            "being/having 10000 of members or instances/occurrences",
-            "being/having at least 10000 of members or instances/occurrences",
-            "being/having 10000 of parts/sections",
-            "being/having 10000 of nodes/hubs/connections/access points",
-            "being/having 10000 of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 10000th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XTM",
-        "description": "[100⁴]",
-        "gradient_type": "0",
-        "cs": "kẓ",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 100⁴th member of a set per sequential physical arrangement",
-            "being the 100⁴th member of a set per conventionalized/agreed-upon order",
-            "being the 100⁴th member of a set per hierarchical order",
-            "being the 100⁴th member of a set per contextual/circumstantial order*",
-            "being/having 100⁴ of members or instances/occurrences",
-            "being/having at least 100⁴ of members or instances/occurrences",
-            "being/having 100⁴ of parts/sections",
-            "being/having 100⁴ of nodes/hubs/connections/access points",
-            "being/having 100⁴ of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 100⁴th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "XTQ",
-        "description": "[100⁸]",
-        "gradient_type": "0",
-        "cs": "čg",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "being the 100⁸th member of a set per sequential physical arrangement",
-            "being the 100⁸th member of a set per conventionalized/agreed-upon order",
-            "being the 100⁸th member of a set per hierarchical order",
-            "being the 100⁸th member of a set per contextual/circumstantial order*",
-            "being/having 100⁸ of members or instances/occurrences",
-            "being/having at least 100⁸ of members or instances/occurrences",
-            "being/having 100⁸ of parts/sections",
-            "being/having 100⁸ of nodes/hubs/connections/access points",
-            "being/having 100⁸ of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the 100⁸th member of a set that does something or that something happens to"
-    },
-    {
-        "name": "UHN",
-        "description": "Uncountably High Number (e.g., “zillions”, “a myriad of”, etc.)",
-        "gradient_type": "0",
-        "cs": "vj",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "being the zillionth member of a set per sequential physical arrangement",
-            "being the zillionth member of a set per conventionalized/agreed-upon order",
-            "being the zillionth member of a set per hierarchical order",
-            "being the zillionth member of a set per contextual/circumstantial order*",
-            "being/having zillion of members or instances/occurrences",
-            "being/having at least zillion of members or instances/occurrences",
-            "being/having zillion of parts/sections",
-            "being/having zillion of nodes/hubs/connections/access points",
-            "being/having zillion of hierarchical levels/tiers"
-        ],
-        "notes": "\\* i.e., the zillionth member of a set that does something or that something happens to"
-    },
-    {
-        "name": "TNX",
-        "description": "Multiples of Ten (used with the number roots 0 thru 9 to create the numbers 11 through 99)",
-        "gradient_type": "A1",
-        "cs": "rs",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X plus 10",
-            "X plus 20",
-            "X plus 30",
-            "X plus 40",
-            "X plus 50",
-            "X plus 60",
-            "X plus 70",
-            "X plus 80",
-            "X plus 90"
-        ],
-        "notes": "Add this affix as Type-3 to the XX2, XX3, etc. affixes above to create words meaning “set of thirty-four cats”, for example."
-    },
-    {
-        "name": "ELA",
-        "description": "Elapsed Time (to be attached to numerical stems or quantitative formatives)",
-        "gradient_type": "A1",
-        "cs": "rc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X number of microseconds",
-            "X number of milliseconds",
-            "X number of seconds",
-            "X number of minutes",
-            "X number of hours",
-            "X number of days",
-            "X number of weeks",
-            "X number of months",
-            "X number of years"
-        ]
-    },
-    {
-        "name": "SQC",
-        "description": "Sequence of Cause and Effect",
-        "gradient_type": "A1",
-        "cs": "řd",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating; originally / in the first place / initially / at the outset",
-            "preliminary; preliminarily",
-            "preparatory / in preparation for / getting ready to",
-            "precursor to; but just beforehand",
-            "awaited; waiting to / waiting for [focus on imminency or sequential position, NOT on anticipation]",
-            "subsequent / consequent; then / so / thus / therefore",
-            "based on the preceding and setting the stage for what follows",
-            "following / … which follows; then subsequent to that / following that …",
-            "eventual / at last; final / finally (result)"
-        ]
-    },
-    {
-        "name": "ASQ",
-        "description": "Aspectual Sequencing",
-        "gradient_type": "D1",
-        "cs": "nd",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "about to X / right before X (immediately before beginning)",
-            "start X-ing / the start or beginning of X",
-            "just started X-ing / right after the start of X",
-            "in the middle of the first part/half of X",
-            "in the middle of X-ing / the middle part of X",
-            "in the middle of the last part/half of X",
-            "about to stop X-ing / right before the end of X",
-            "stop X-ing / the end of X",
-            "just stopped X-ing / right after X (immediately after end)"
-        ]
-    },
-    {
-        "name": "TPI",
-        "description": "Impact or Duration Over Time",
-        "gradient_type": "A1",
-        "cs": "rb",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "immediate / at this instant / for this moment; momentary",
-            "temporary / for right now / for the moment; temporarily / in the meantime [duration of context. recent]",
-            "short term/for now; in the short term / for now / for the immediate future [hours to days]",
-            "for the meantime / for the meanwhile [days to weeks to months]",
-            "for a while / for some time to come [months to several years]",
-            "for the foreseeable future [years to decades]",
-            "long term/in the long run; over the course of time [over the course of a lifetime, decades to centuries]",
-            "through the ages / over the course of the ages [centuries to millennia]; permanent",
-            "ever-present / eternal / constant / incessant / neverending; from now on / eternally / everlasting / all the time / for all time"
-        ]
-    },
-    {
-        "name": "TD1",
-        "description": "Temporary Duration 1",
-        "gradient_type": "A1",
-        "cs": "rv",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "momentary ( = lasting no more than a few seconds)",
-            "brief ( = lasting from about 10 seconds to less than a minute)",
-            "for a “minute” or so",
-            "for a few minutes (e.g., “while you wait”)",
-            "for a little while (i.e., approx. 10 to 30 minutes)",
-            "for a while; for the better part of an hour (i.e., for up to an hour)",
-            "for a bit of a while (i.e., from one to several hours)",
-            "for a quite a while (i.e., from several hours up to most of the day)",
-            "all day long; for all day (i.e., lasting nearly, approx., or up to 24 hours)"
-        ]
-    },
-    {
-        "name": "TD2",
-        "description": "Temporary Duration 2",
-        "gradient_type": "A2",
-        "cs": "rḑ",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "between one day and two days in duration",
-            "for two or three days in duration",
-            "up to a week",
-            "for several weeks",
-            "for a month or two",
-            "for several months",
-            "for about half a year (i.e., approx. six months)",
-            "for the better part of a year (i.e., from seven to 11 months)",
-            "for a year (approx.)"
-        ]
-    },
-    {
-        "name": "LTD",
-        "description": "Life-Time Duration",
-        "gradient_type": "A2",
-        "cs": "rn",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "for more than a year",
-            "for two to four years",
-            "for about five years",
-            "for most of a decade, for the better part of a decade",
-            "for approx. a decade",
-            "for a generation (approx. 20 to 25 years)",
-            "for about half a century (approx. 50 years)",
-            "for a lifetime (approx. 75 to 90 years)",
-            "for about a century (approx. 100 years)"
-        ]
-    },
-    {
-        "name": "LGD",
-        "description": "Long-Term Duration",
-        "gradient_type": "A2",
-        "cs": "řţ",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "for more than a century",
-            "for about two centuries",
-            "for about half a millennium (approx. 500 years)",
-            "for the better part of a millennium; for most of a/the millennium",
-            "for a millennium or so",
-            "for several millennia",
-            "for about ten thousand years",
-            "for about 50 thousand years",
-            "for about 100 thousand years"
-        ]
-    },
-    {
-        "name": "EPC",
-        "description": "Epoch-Length Duration",
-        "gradient_type": "A2",
-        "cs": "rň",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "for several hundred thousand years",
-            "for the better part of an age (i.e., up to a million years)",
-            "for an age (approx. one million years)",
-            "for an epoch (approx. 10 million years)",
-            "for an era (approx. 10 epochs = 100 million years)",
-            "for an eon (approx. 5 eras = 500 million years)",
-            "for about a billion years",
-            "for several billion years",
-            "for the lifespan of the universe"
-        ]
-    },
-    {
-        "name": "UST",
-        "description": "Ultra-Short-Term Temporal Scale",
-        "gradient_type": "A2",
-        "cs": "řf",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "on a scale measurable in yoctoseconds (10⁻²⁴ s)",
-            "on a scale  measurable in zeptoseconds (10⁻²¹ s)",
-            "measurable in attoseconds (10⁻¹⁸ s)",
-            "on a scale measurable in femtoseconds (10⁻¹⁵ s)",
-            "on a scale measurable in picoseconds (10⁻¹² s)",
-            "on a scale measurable in nanoseconds (10⁻⁹ s)",
-            "on a scale measurable in microseconds (10⁻⁶ s)",
-            "on a scale measurable in milliseconds (10⁻³ s)",
-            "on a scale measurable in seconds"
-        ]
-    },
-    {
-        "name": "STT",
-        "description": "Short-Term Time References",
-        "gradient_type": "D1",
-        "cs": "nḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "happening/occurring more than an hour ago",
-            "happening/occurring less than an hour ago",
-            "happening/occurring a few/several minutes ago",
-            "happening/occurring a few moments ago",
-            "happening/occurring at this very moment (having begun only a moment ago and expected to end a moment from now)",
-            "happening/occurring a few moments from now",
-            "happening/occurring a few/several minutes from now",
-            "happening/occurring less than an hour from now",
-            "happening/occurring more than an hour from now"
-        ]
-    },
-    {
-        "name": "ST2",
-        "description": "Short-Term Time References 2",
-        "gradient_type": "D1",
-        "cs": "xb",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "happening/occurring sometime in the past few days",
-            "happening/occurring the day before yesterday",
-            "happening/occurring yesterda",
-            "happening/occurring several hours ago, earlier today, earlier this morning",
-            "happening/occurring now (having begun hours/a while ago and expected to end hours/a while now)",
-            "happening/occurring several hours from now, later today, later tonight",
-            "happening/occurring tomorrow ",
-            "happening/occurring the day after tomorrow",
-            "happening/occurring sometime in the next few days"
-        ]
-    },
-    {
-        "name": "FRQ",
-        "description": "Degree Of Frequency",
-        "gradient_type": "A1",
-        "cs": "rp",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "never",
-            "rare / hardly ever / once in a great while; rarely / almost unheard of",
-            "infrequent; seldom / infrequently",
-            "now and then / from time to time / off and on / every so often / now and again / occasionally / sometimes",
-            "frequent; frequently / often",
-            "usual; usually / customarily / generally",
-            "almost always / rarely fail to / routinely",
-            "ever-faithful / unwavering; always / every time / without fail / like clockwork / never fail to",
-            "constant / continuous; constantly / continuously / all the time / ever-present"
-        ]
-    },
-    {
-        "name": "ITN",
-        "description": "Degree Of Iteration",
-        "gradient_type": "D1",
-        "cs": "rm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "just once / once only",
-            "again / once more / one more time / re-",
-            "again and again / keep X-ing over and over [focus on habit, not periodicity]",
-            "again and again / keep X-ing over and over [focus on periodicity, not habit]",
-            "irregular, unpredictable; at irregular or unpredictable intervals",
-            "[cyclic] return of … / … once again; return to / … back again [e.g., summer’s back]",
-            "intermittent; intermittently / at regular intervals",
-            "repetitive / repeating; repeatedly",
-            "constantly cycling or repeating / continuously or perpetually repeating / constant, eternal, perpetual repetition of"
-        ]
-    },
-    {
-        "name": "RPN",
-        "description": "Pattern of Spatio-Temporal Repetition or Distribution of Set Members",
-        "gradient_type": "B",
-        "cs": "çţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "slow-paced repetition at regular intervals",
-            "slow-paced repetition at irregular intervals",
-            "slow-paced repetition at mixed intervals",
-            "mid-paced repetition at irregular intervals",
-            "mid-paced repetition at regular intervals",
-            "mid-paced repetition at mixed intervals",
-            "fast-paced repetition at mixed intervals",
-            "fast-paced repetition at irregular intervals",
-            "fast-paced repetition at regular intervals"
-        ]
-    },
-    {
-        "name": "SPT",
-        "description": "Specified Points in Calendrical Time (used with Stem 3 of the number roots to render, e.g., ‘the third day of the week (i.e., Wednesday)’ or ‘20th of May’, etc.)",
-        "gradient_type": "A1",
-        "cs": "rw/-ry",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "second(s) of the minute",
-            "minute(s) of the hour",
-            "hour of the day",
-            "day of the week",
-            "day of the month",
-            "week of the month",
-            "month of the year",
-            "year",
-            "century"
-        ]
-    },
-    {
-        "name": "CYC",
-        "description": "Cyclic Recurrence",
-        "gradient_type": "A1",
-        "cs": "rkw",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "(occurring) every second",
-            "(occurring) every minute",
-            "(occurring) every hour; hourly",
-            "(occurring) every day; daily",
-            "(occurring) every week; weekly",
-            "(occurring) every month; monthly",
-            "(occurring) every year; yearly/annually",
-            "(occurring) every decade; decennially",
-            "(occurring) every century; centennially"
-        ],
-        "notes": "Use this affix with a number-root (or as a Type-3 affix with a number affix) to indicate the frequency of a cyclic occurrence, e.g., “every X (number of) seconds”"
-    },
-    {
-        "name": "CYL",
-        "description": "Cyclic Recurrence [Long-Term]",
-        "gradient_type": "A1",
-        "cs": "rky",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "(occurring) every millennium",
-            "(occurring) every ten-thousand years",
-            "(occurring) every hundred-thousand years",
-            "(occurring) every age; every million years",
-            "(occurring) every epoch; every 10 million yrs.",
-            "(occurring) every era; every 100 million years",
-            "(occurring) every eon; every 500 million years",
-            "(occurring) every billion years",
-            "during the lifespan of the universe"
-        ],
-        "notes": "Use this affix with a number-root (or as a Type-3 affix with a number affix) to indicate the frequency of a cyclic occurrence, e.g., “every X (number of) millennia”"
-    },
-    {
-        "name": "ITE",
-        "description": "Iterations Per Time-Period [use with number roots/affixes]",
-        "gradient_type": "A1",
-        "cs": "rţw",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X times per second",
-            "X times per minute",
-            "X times per hour",
-            "X times daily",
-            "X times weekly",
-            "X times monthly",
-            "X times yearly",
-            "X times per decade",
-            "X times per century"
-        ]
-    },
-    {
-        "name": "ILT",
-        "description": "Iterations Per Long-Term [use with number roots/affixes]",
-        "gradient_type": "A1",
-        "cs": "rţy",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X times per millenium",
-            "X times per 10000 year period",
-            "X times per 10⁵ year period",
-            "X times per age (10⁶ years)",
-            "X times per epoch (10⁷ years)",
-            "X times per era (10⁸ years)",
-            "X times per eon (5×10⁸ years)",
-            "X times per billion (10⁹) year period",
-            "X times per universe-lifespan"
-        ]
-    },
-    {
-        "name": "TPP",
-        "description": "Temporal Position Relative to Present",
-        "gradient_type": "D1",
-        "cs": "kt",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "in the remote past, once upon a time",
-            "past/former/previous; once [e.g., I was young once], a long time ago",
-            "recent; recently",
-            "… just past / just (happened)",
-            "present / current / present day; now / at present / presently / currently",
-            "imminent; just about to / about to / on the verge of",
-            "forthcoming / soon to arrive; soon",
-            "future / — to be / —to come / eventual(ly); someday …",
-            "in the remote future / far in the future / long after we’re gone"
-        ]
-    },
-    {
-        "name": "ANT",
-        "description": "Degree Of Anticipation",
-        "gradient_type": "D1",
-        "cs": "lst",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "long-awaited / long looked for",
-            "eagerly awaited; can’t wait for / dying to",
-            "anticipated / awaited; in anticipation of / look to",
-            "up for / up to",
-            "await / wait to / wait for / waiting to",
-            "ambivalent about; could take or leave it",
-            "not looking forward to",
-            "dreaded; dread X-ing",
-            "long-dreaded; dread the day when"
-        ],
-        "notes": "See Emotion Root: -**LST**-"
-    },
-    {
-        "name": "RTI",
-        "description": "Relative Timeline Indicator",
-        "gradient_type": "D1",
-        "cs": "lt",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X is/occurs after the relative/contextual present of a statement (as may be defined by TPP affix) but is considered completed or no longer applicable after-the-fact from the speaker’s present viewpoint",
-            "X is/occurs after the relative/contextual present of a statement (as may be defined by TPP affix) and its occurrence is still outstanding/impacting the speaker’s present viewpoint",
-            "X continues to occur or have an effect in the relative/contextual present or has begun during or prior to the relative/contextual present and will continue into the future of that same relative/contextual present",
-            "X continues to occur or have an effect in the relative/contextual present or has begun during or prior to the relative/contextual present and will continue into the future of that same relative/contextual present, but does not continue into, or have a retrograde effect/impact on the speaker’s contextual present",
-            "X has been/done so in the past and will again in the future, but not being/doing so at present",
-            "X begins to be/occur before the relative/contextual present of a statement (as may be defined by TPP affix) and continues to be/occur during that same relative/contextual present but does not impact the speaker’s contextual present",
-            "X begins to be/occur before the relative/contextual present of a statement (as may be defined by TPP affix) and continues to be/occur during that same relative/contextual present",
-            "X is/occurs before the relative/contextual present of a statement (as may be defined by TPP affix) and the consequences of its occurrence are still outstanding/impacting the speaker’s present viewpoint",
-            "X is/occurs before the relative/contextual present of a statement (as may be defined by TPP affix) but is considered completed or no longer applicable after-the-fact from the speaker’s present viewpoint"
-        ]
-    },
-    {
-        "name": "AMD",
-        "description": "Ante-Meridiem Times of Day",
-        "gradient_type": "A1",
-        "cs": "řc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "just after midnight",
-            "during madrugada; during the wee hours; during the middle of the night",
-            "just before daybreak; just before dawn",
-            "at/around dawn; at daybreak",
-            "at sunrise",
-            "during/in the early morning after sunrise",
-            "during/in the morning",
-            "during the late morning",
-            "around mid-day; at/around noon"
-        ]
-    },
-    {
-        "name": "PMD",
-        "description": "Post-Meridiem Times of Day",
-        "gradient_type": "A1",
-        "cs": "řj",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "just after mid-day; in the early afternoon",
-            "in the mid afternoon",
-            "during/in the afternoon",
-            "in the late afternoon",
-            "at sunset",
-            "at dusk; at/during twilight",
-            "during the early evening",
-            "during/in the evening",
-            "in the late evening; around midnight"
-        ]
-    },
-    {
-        "name": "TME",
-        "description": "Degree Of Timeliness",
-        "gradient_type": "D2",
-        "cs": "km",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "too early / too soon",
-            "(quite) early",
-            "a little early / a bit soon",
-            "almost late / not a moment too soon / none too soon",
-            "just in time / sharp / on the dot",
-            "slightly late but not enough to make a difference",
-            "a little late",
-            "late / just missed it",
-            "too late / you missed it"
-        ]
-    },
-    {
-        "name": "TPR",
-        "description": "Temporal Placement/Reaction/Viewpoint",
-        "gradient_type": "D1",
-        "cs": "ţp",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "wistfully looking back / in the (good) old days [with longing] / with nostalgia",
-            "in hindsight / looking back",
-            "upon further consideration/upon reflection",
-            "initial; at first/initially / at first blush / at first glance",
-            "now that the moment has come / now that the time is here / now that the event is at hand",
-            "any moment now; on the verge of; just about to",
-            "imminent(ly); very soon",
-            "soon [w/ anticipation]",
-            "someday … / one day [with longing]"
-        ]
-    },
-    {
-        "name": "STG",
-        "description": "Stage, Step or Phase of a Process",
-        "gradient_type": "A1",
-        "cs": "rš",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "onset/initiation/birth of X",
-            "development/build-up of X",
-            "point of no return/iminent transition of X",
-            "plateau stage, rest or pause before next stage of X",
-            "(at) peak / in prime / mature stage",
-            "abrupt or premature termination of X",
-            "gradual decline of X",
-            "end stage / final state / terminal or last stage",
-            "cessation / finished / over / dead"
-        ]
-    },
-    {
-        "name": "STS",
-        "description": "Spatio-Temporal Specification",
-        "gradient_type": "C",
-        "cs": "šř",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "spatial interpretation",
-            "spatial interpretation — preceding X, in front of X, before (one arrives at) X, first this then X",
-            "spatial interpretation — at the exact spot where X is, right where X is",
-            "spatial interpretation — after X, behind X, following X, subsequent to X",
-            "spatial & temporal interpretation",
-            "temporal interpretation — after X, (in the time) following X, subsequent to X",
-            "temporal interpretation — at the moment of X, upon (the occurrence of) X",
-            "temporal interpretation — preceding X, (in the time) before X, first this then X, prior to X",
-            "temporal interpretation"
-        ]
-    },
-    {
-        "name": "DTS",
-        "description": "Duration of Shift/Change/Transition (used for both spatial and temporal contexts)",
-        "gradient_type": "D1",
-        "cs": "mp",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "sharp break, sudden shift from one state/form/shape/set of circumstances to another with no discernible transition period/zone (i.e., point-like/instantaneous transition)",
-            "extremely brief/small/barely discernible transition period or zone from one state/form/shape/set of circumstances to another",
-            "somewhat brief/small/discernible transition period or zone from one state/form/shape/set of circumstances to another",
-            "below-average or less-than-normal duration of transition period orzone from one state/form/shape/set of circumstances to another",
-            "normal/standard/expected transition period or zone from one state/form/shape/set of circumstances to another",
-            "above-average or greater-than-normal duration of transition period orzone from one state/form/shape/set of circumstances to another",
-            "somewhat lengthy duration in transition period or zone from one state/form/shape/set of circumstances to another",
-            "lengthy duration in transition period or zone from one state/form/shape/set of circumstances to another",
-            "very gradual/almost imperceptible rate/degree of change/transition from one state/form/shape/set of circumstances to another"
-        ]
-    },
-    {
-        "name": "VTS",
-        "description": "Variability of Shift/Change/Transition (used for both spatial and temporal contexts)",
-        "gradient_type": "D1",
-        "cs": "ňf",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "highly variable/chaotic transition from one state/form/shape/set of circumstances to another",
-            "disjointed/non-contiguous/non-continuous break/shift from one state/form/shape/set of circumstances to another",
-            "disjointed/non-contiguous/non-continuous break/shift from one state/form/shape/set of circumstances to another",
-            "somewhat variable/changing/fluctuating transition period/zone from one state/form/shape/set of circumstances to another",
-            "below-average or less-than-normal degree of variability/fluctuation in transition from one state/form/shape/set of circumstances to another",
-            "normal/standard/expected degree of smoothness/gradualness of transition from one state/form/shape/set of circumstances to another",
-            "above-average or greater-than-normal degree of smoothness/gradualness of transition from one state/form/shape/set of circumstances to another",
-            "somewhat smooth, gradual transition period/zone from one state/form/shape/set of circumstances to another",
-            "smooth, gradual transition period/zone from one state/form/shape/set of circumstances to another"
-        ]
-    }
+  {
+    "name": "SEQ",
+    "description": "Numerical Sequence",
+    "gradient_type": "D1",
+    "cs": "nt",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "first / initial; first(ly) / first of all",
+      "second; secondly",
+      "third; thirdly",
+      "fourth; fourthly",
+      "middle / median / in the middle or median position",
+      "fourth from last; pre-antepenultimately",
+      "third from last; antepenultimately",
+      "next to last; penultimately",
+      "last / final; last(ly) / finally (in terms of sequence)"
+    ]
+  },
+  {
+    "name": "SQT",
+    "description": "Sequence Relative to Present Context",
+    "gradient_type": "D1",
+    "cs": "lţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "the former; primarily",
+      "two before preceding",
+      "one before preceding",
+      "immediately beforehand / the preceding / first (of two)",
+      "current / at hand; now / currently / at the moment [in sequence of events]",
+      "next / following; then / next",
+      "one after next",
+      "second one after next",
+      "the latter; secondarily"
+    ]
+  },
+  {
+    "name": "XXZ",
+    "description": "[zero]",
+    "gradient_type": "0",
+    "cs": "vc",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 0th member of a set per sequential physical arrangement",
+      "being the 0th member of a set per conventionalized/agreed-upon order",
+      "being the 0th member of a set per hierarchical order",
+      "being the 0th member of a set per contextual/circumstantial order*",
+      "being/having 0 of members or instances/occurrences",
+      "being/having at least 0 of members or instances/occurrences",
+      "being/having 0 of parts/sections",
+      "being/having 0 of nodes/hubs/connections/access points",
+      "being/having 0 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 0th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX1",
+    "description": "[one]",
+    "gradient_type": "0",
+    "cs": "zc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "being the 1st member of a set per sequential physical arrangement",
+      "being the 1st member of a set per conventionalized/agreed-upon order",
+      "being the 1st member of a set per hierarchical order",
+      "being the 1st member of a set per contextual/circumstantial order*",
+      "being/having 1 of members or instances/occurrences",
+      "being/having at least 1 of members or instances/occurrences",
+      "being/having 1 of parts/sections",
+      "being/having 1 of nodes/hubs/connections/access points",
+      "being/having 1 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 1st member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX2",
+    "description": "[two]",
+    "gradient_type": "0",
+    "cs": "ks",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 2nd member of a set per sequential physical arrangement",
+      "being the 2nd member of a set per conventionalized/agreed-upon order",
+      "being the 2nd member of a set per hierarchical order",
+      "being the 2nd member of a set per contextual/circumstantial order*",
+      "being/having 2 of members or instances/occurrences",
+      "being/having at least 2 of members or instances/occurrences",
+      "being/having 2 of parts/sections",
+      "being/having 2 of nodes/hubs/connections/access points",
+      "being/having 2 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 2nd member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX3",
+    "description": "[three]",
+    "gradient_type": "0",
+    "cs": "z",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 3rd member of a set per sequential physical arrangement",
+      "being the 3rd member of a set per conventionalized/agreed-upon order",
+      "being the 3rd member of a set per hierarchical order",
+      "being the 3rd member of a set per contextual/circumstantial order*",
+      "being/having 3 of members or instances/occurrences",
+      "being/having at least 3 of members or instances/occurrences",
+      "being/having 3 of parts/sections",
+      "being/having 3 of nodes/hubs/connections/access points",
+      "being/having 3 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 3rd member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX4",
+    "description": "[four]",
+    "gradient_type": "0",
+    "cs": "pš",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 4th member of a set per sequential physical arrangement",
+      "being the 4th member of a set per conventionalized/agreed-upon order",
+      "being the 4th member of a set per hierarchical order",
+      "being the 4th member of a set per contextual/circumstantial order*",
+      "being/having 4 of members or instances/occurrences",
+      "being/having at least 4 of members or instances/occurrences",
+      "being/having 4 of parts/sections",
+      "being/having 4 of nodes/hubs/connections/access points",
+      "being/having 4 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 4th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX5",
+    "description": "[five]",
+    "gradient_type": "0",
+    "cs": "st",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 5th member of a set per sequential physical arrangement",
+      "being the 5th member of a set per conventionalized/agreed-upon order",
+      "being the 5th member of a set per hierarchical order",
+      "being the 5th member of a set per contextual/circumstantial order*",
+      "being/having 5 of members or instances/occurrences",
+      "being/having at least 5 of members or instances/occurrences",
+      "being/having 5 of parts/sections",
+      "being/having 5 of nodes/hubs/connections/access points",
+      "being/having 5 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 5th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX6",
+    "description": "[six]",
+    "gradient_type": "0",
+    "cs": "cp",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 6th member of a set per sequential physical arrangement",
+      "being the 6th member of a set per conventionalized/agreed-upon order",
+      "being the 6th member of a set per hierarchical order",
+      "being the 6th member of a set per contextual/circumstantial order*",
+      "being/having 6 of members or instances/occurrences",
+      "being/having at least 6 of members or instances/occurrences",
+      "being/having 6 of parts/sections",
+      "being/having 6 of nodes/hubs/connections/access points",
+      "being/having 6 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 6th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX7",
+    "description": "[seven]",
+    "gradient_type": "0",
+    "cs": "ns",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 7th member of a set per sequential physical arrangement",
+      "being the 7th member of a set per conventionalized/agreed-upon order",
+      "being the 7th member of a set per hierarchical order",
+      "being the 7th member of a set per contextual/circumstantial order*",
+      "being/having 7 of members or instances/occurrences",
+      "being/having at least 7 of members or instances/occurrences",
+      "being/having 7 of parts/sections",
+      "being/having 7 of nodes/hubs/connections/access points",
+      "being/having 7 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 7th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX8",
+    "description": "[eight]",
+    "gradient_type": "0",
+    "cs": "čk",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 8th member of a set per sequential physical arrangement",
+      "being the 8th member of a set per conventionalized/agreed-upon order",
+      "being the 8th member of a set per hierarchical order",
+      "being the 8th member of a set per contextual/circumstantial order*",
+      "being/having 8 of members or instances/occurrences",
+      "being/having at least 8 of members or instances/occurrences",
+      "being/having 8 of parts/sections",
+      "being/having 8 of nodes/hubs/connections/access points",
+      "being/having 8 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 8th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XX9",
+    "description": "[nine]",
+    "gradient_type": "0",
+    "cs": "lẓ",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 9th member of a set per sequential physical arrangement",
+      "being the 9th member of a set per conventionalized/agreed-upon order",
+      "being the 9th member of a set per hierarchical order",
+      "being the 9th member of a set per contextual/circumstantial order*",
+      "being/having 9 of members or instances/occurrences",
+      "being/having at least 9 of members or instances/occurrences",
+      "being/having 9 of parts/sections",
+      "being/having 9 of nodes/hubs/connections/access points",
+      "being/having 9 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 9th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "X10",
+    "description": "[ten]",
+    "gradient_type": "0",
+    "cs": "j",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 10th member of a set per sequential physical arrangement",
+      "being the 10th member of a set per conventionalized/agreed-upon order",
+      "being the 10th member of a set per hierarchical order",
+      "being the 10th member of a set per contextual/circumstantial order*",
+      "being/having 10 of members or instances/occurrences",
+      "being/having at least 10 of members or instances/occurrences",
+      "being/having 10 of parts/sections",
+      "being/having 10 of nodes/hubs/connections/access points",
+      "being/having 10 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 10th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "X11",
+    "description": "[eleven] (used in the context of a number-base higher than ten)",
+    "gradient_type": "0",
+    "cs": "cg",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 11th member of a set per sequential physical arrangement",
+      "being the 11th member of a set per conventionalized/agreed-upon order",
+      "being the 11th member of a set per hierarchical order",
+      "being the 11th member of a set per contextual/circumstantial order*",
+      "being/having 11 of members or instances/occurrences",
+      "being/having at least 11 of members or instances/occurrences",
+      "being/having 11 of parts/sections",
+      "being/having 11 of nodes/hubs/connections/access points",
+      "being/having 11 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 11th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "X12",
+    "description": "[twelve] (used in the context of a number-base higher than ten)",
+    "gradient_type": "0",
+    "cs": "jd",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 12th member of a set per sequential physical arrangement",
+      "being the 12th member of a set per conventionalized/agreed-upon order",
+      "being the 12th member of a set per hierarchical order",
+      "being the 12th member of a set per contextual/circumstantial order*",
+      "being/having 12 of members or instances/occurrences",
+      "being/having at least 12 of members or instances/occurrences",
+      "being/having 12 of parts/sections",
+      "being/having 12 of nodes/hubs/connections/access points",
+      "being/having 12 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 12th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "X13",
+    "description": "[thirteen] (used in the context of a number-base higher than ten)",
+    "gradient_type": "0",
+    "cs": "ļj",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 13th member of a set per sequential physical arrangement",
+      "being the 13th member of a set per conventionalized/agreed-upon order",
+      "being the 13th member of a set per hierarchical order",
+      "being the 13th member of a set per contextual/circumstantial order*",
+      "being/having 13 of members or instances/occurrences",
+      "being/having at least 13 of members or instances/occurrences",
+      "being/having 13 of parts/sections",
+      "being/having 13 of nodes/hubs/connections/access points",
+      "being/having 13 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 13th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "X14",
+    "description": "[fourteen] (used in the context of a number-base higher than ten)",
+    "gradient_type": "0",
+    "cs": "bc",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 14th member of a set per sequential physical arrangement",
+      "being the 14th member of a set per conventionalized/agreed-upon order",
+      "being the 14th member of a set per hierarchical order",
+      "being the 14th member of a set per contextual/circumstantial order*",
+      "being/having 14 of members or instances/occurrences",
+      "being/having at least 14 of members or instances/occurrences",
+      "being/having 14 of parts/sections",
+      "being/having 14 of nodes/hubs/connections/access points",
+      "being/having 14 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 14th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "X15",
+    "description": "[fifteen] (used in the context of a number-base higher than ten)",
+    "gradient_type": "0",
+    "cs": "ţẓ",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 15th member of a set per sequential physical arrangement",
+      "being the 15th member of a set per conventionalized/agreed-upon order",
+      "being the 15th member of a set per hierarchical order",
+      "being the 15th member of a set per contextual/circumstantial order*",
+      "being/having 15 of members or instances/occurrences",
+      "being/having at least 15 of members or instances/occurrences",
+      "being/having 15 of parts/sections",
+      "being/having 15 of nodes/hubs/connections/access points",
+      "being/having 15 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 15th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XOH",
+    "description": "[one hundred]",
+    "gradient_type": "0",
+    "cs": "gz",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 100th member of a set per sequential physical arrangement",
+      "being the 100th member of a set per conventionalized/agreed-upon order",
+      "being the 100th member of a set per hierarchical order",
+      "being the 100th member of a set per contextual/circumstantial order*",
+      "being/having 100 of members or instances/occurrences",
+      "being/having at least 100 of members or instances/occurrences",
+      "being/having 100 of parts/sections",
+      "being/having 100 of nodes/hubs/connections/access points",
+      "being/having 100 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 100th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XTT",
+    "description": "[ten thousand]",
+    "gradient_type": "0",
+    "cs": "pc",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 10000th member of a set per sequential physical arrangement",
+      "being the 10000th member of a set per conventionalized/agreed-upon order",
+      "being the 10000th member of a set per hierarchical order",
+      "being the 10000th member of a set per contextual/circumstantial order*",
+      "being/having 10000 of members or instances/occurrences",
+      "being/having at least 10000 of members or instances/occurrences",
+      "being/having 10000 of parts/sections",
+      "being/having 10000 of nodes/hubs/connections/access points",
+      "being/having 10000 of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 10000th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XTM",
+    "description": "[100⁴]",
+    "gradient_type": "0",
+    "cs": "kẓ",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 100⁴th member of a set per sequential physical arrangement",
+      "being the 100⁴th member of a set per conventionalized/agreed-upon order",
+      "being the 100⁴th member of a set per hierarchical order",
+      "being the 100⁴th member of a set per contextual/circumstantial order*",
+      "being/having 100⁴ of members or instances/occurrences",
+      "being/having at least 100⁴ of members or instances/occurrences",
+      "being/having 100⁴ of parts/sections",
+      "being/having 100⁴ of nodes/hubs/connections/access points",
+      "being/having 100⁴ of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 100⁴th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "XTQ",
+    "description": "[100⁸]",
+    "gradient_type": "0",
+    "cs": "čg",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "being the 100⁸th member of a set per sequential physical arrangement",
+      "being the 100⁸th member of a set per conventionalized/agreed-upon order",
+      "being the 100⁸th member of a set per hierarchical order",
+      "being the 100⁸th member of a set per contextual/circumstantial order*",
+      "being/having 100⁸ of members or instances/occurrences",
+      "being/having at least 100⁸ of members or instances/occurrences",
+      "being/having 100⁸ of parts/sections",
+      "being/having 100⁸ of nodes/hubs/connections/access points",
+      "being/having 100⁸ of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the 100⁸th member of a set that does something or that something happens to"
+  },
+  {
+    "name": "UHN",
+    "description": "Uncountably High Number (e.g., “zillions”, “a myriad of”, etc.)",
+    "gradient_type": "0",
+    "cs": "vj",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "being the zillionth member of a set per sequential physical arrangement",
+      "being the zillionth member of a set per conventionalized/agreed-upon order",
+      "being the zillionth member of a set per hierarchical order",
+      "being the zillionth member of a set per contextual/circumstantial order*",
+      "being/having zillion of members or instances/occurrences",
+      "being/having at least zillion of members or instances/occurrences",
+      "being/having zillion of parts/sections",
+      "being/having zillion of nodes/hubs/connections/access points",
+      "being/having zillion of hierarchical levels/tiers"
+    ],
+    "notes": "\\* i.e., the zillionth member of a set that does something or that something happens to"
+  },
+  {
+    "name": "TNX",
+    "description": "Multiples of Ten (used with the number roots 0 thru 9 to create the numbers 11 through 99)",
+    "gradient_type": "A1",
+    "cs": "rs",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X plus 10",
+      "X plus 20",
+      "X plus 30",
+      "X plus 40",
+      "X plus 50",
+      "X plus 60",
+      "X plus 70",
+      "X plus 80",
+      "X plus 90"
+    ],
+    "notes": "Add this affix as Type-3 to the XX2, XX3, etc. affixes above to create words meaning “set of thirty-four cats”, for example."
+  },
+  {
+    "name": "ELA",
+    "description": "Elapsed Time (to be attached to numerical stems or quantitative formatives)",
+    "gradient_type": "A1",
+    "cs": "rc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X number of microseconds",
+      "X number of milliseconds",
+      "X number of seconds",
+      "X number of minutes",
+      "X number of hours",
+      "X number of days",
+      "X number of weeks",
+      "X number of months",
+      "X number of years"
+    ]
+  },
+  {
+    "name": "SQC",
+    "description": "Sequence of Cause and Effect",
+    "gradient_type": "A1",
+    "cs": "řd",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating; originally / in the first place / initially / at the outset",
+      "preliminary; preliminarily",
+      "preparatory / in preparation for / getting ready to",
+      "precursor to; but just beforehand",
+      "awaited; waiting to / waiting for [focus on imminency or sequential position, NOT on anticipation]",
+      "subsequent / consequent; then / so / thus / therefore",
+      "based on the preceding and setting the stage for what follows",
+      "following / … which follows; then subsequent to that / following that …",
+      "eventual / at last; final / finally (result)"
+    ]
+  },
+  {
+    "name": "ASQ",
+    "description": "Aspectual Sequencing",
+    "gradient_type": "D1",
+    "cs": "nd",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "about to X / right before X (immediately before beginning)",
+      "start X-ing / the start or beginning of X",
+      "just started X-ing / right after the start of X",
+      "in the middle of the first part/half of X",
+      "in the middle of X-ing / the middle part of X",
+      "in the middle of the last part/half of X",
+      "about to stop X-ing / right before the end of X",
+      "stop X-ing / the end of X",
+      "just stopped X-ing / right after X (immediately after end)"
+    ]
+  },
+  {
+    "name": "TPI",
+    "description": "Impact or Duration Over Time",
+    "gradient_type": "A1",
+    "cs": "rb",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "immediate / at this instant / for this moment; momentary",
+      "temporary / for right now / for the moment; temporarily / in the meantime [duration of context. recent]",
+      "short term/for now; in the short term / for now / for the immediate future [hours to days]",
+      "for the meantime / for the meanwhile [days to weeks to months]",
+      "for a while / for some time to come [months to several years]",
+      "for the foreseeable future [years to decades]",
+      "long term/in the long run; over the course of time [over the course of a lifetime, decades to centuries]",
+      "through the ages / over the course of the ages [centuries to millennia]; permanent",
+      "ever-present / eternal / constant / incessant / neverending; from now on / eternally / everlasting / all the time / for all time"
+    ]
+  },
+  {
+    "name": "TD1",
+    "description": "Temporary Duration 1",
+    "gradient_type": "A1",
+    "cs": "rv",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "momentary ( = lasting no more than a few seconds)",
+      "brief ( = lasting from about 10 seconds to less than a minute)",
+      "for a “minute” or so",
+      "for a few minutes (e.g., “while you wait”)",
+      "for a little while (i.e., approx. 10 to 30 minutes)",
+      "for a while; for the better part of an hour (i.e., for up to an hour)",
+      "for a bit of a while (i.e., from one to several hours)",
+      "for a quite a while (i.e., from several hours up to most of the day)",
+      "all day long; for all day (i.e., lasting nearly, approx., or up to 24 hours)"
+    ]
+  },
+  {
+    "name": "TD2",
+    "description": "Temporary Duration 2",
+    "gradient_type": "A2",
+    "cs": "rḑ",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "between one day and two days in duration",
+      "for two or three days in duration",
+      "up to a week",
+      "for several weeks",
+      "for a month or two",
+      "for several months",
+      "for about half a year (i.e., approx. six months)",
+      "for the better part of a year (i.e., from seven to 11 months)",
+      "for a year (approx.)"
+    ]
+  },
+  {
+    "name": "LTD",
+    "description": "Life-Time Duration",
+    "gradient_type": "A2",
+    "cs": "rn",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "for more than a year",
+      "for two to four years",
+      "for about five years",
+      "for most of a decade, for the better part of a decade",
+      "for approx. a decade",
+      "for a generation (approx. 20 to 25 years)",
+      "for about half a century (approx. 50 years)",
+      "for a lifetime (approx. 75 to 90 years)",
+      "for about a century (approx. 100 years)"
+    ]
+  },
+  {
+    "name": "LGD",
+    "description": "Long-Term Duration",
+    "gradient_type": "A2",
+    "cs": "řţ",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "for more than a century",
+      "for about two centuries",
+      "for about half a millennium (approx. 500 years)",
+      "for the better part of a millennium; for most of a/the millennium",
+      "for a millennium or so",
+      "for several millennia",
+      "for about ten thousand years",
+      "for about 50 thousand years",
+      "for about 100 thousand years"
+    ]
+  },
+  {
+    "name": "EPC",
+    "description": "Epoch-Length Duration",
+    "gradient_type": "A2",
+    "cs": "rň",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "for several hundred thousand years",
+      "for the better part of an age (i.e., up to a million years)",
+      "for an age (approx. one million years)",
+      "for an epoch (approx. 10 million years)",
+      "for an era (approx. 10 epochs = 100 million years)",
+      "for an eon (approx. 5 eras = 500 million years)",
+      "for about a billion years",
+      "for several billion years",
+      "for the lifespan of the universe"
+    ]
+  },
+  {
+    "name": "UST",
+    "description": "Ultra-Short-Term Temporal Scale",
+    "gradient_type": "A2",
+    "cs": "řf",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "on a scale measurable in yoctoseconds (10⁻²⁴ s)",
+      "on a scale  measurable in zeptoseconds (10⁻²¹ s)",
+      "measurable in attoseconds (10⁻¹⁸ s)",
+      "on a scale measurable in femtoseconds (10⁻¹⁵ s)",
+      "on a scale measurable in picoseconds (10⁻¹² s)",
+      "on a scale measurable in nanoseconds (10⁻⁹ s)",
+      "on a scale measurable in microseconds (10⁻⁶ s)",
+      "on a scale measurable in milliseconds (10⁻³ s)",
+      "on a scale measurable in seconds"
+    ]
+  },
+  {
+    "name": "STT",
+    "description": "Short-Term Time References",
+    "gradient_type": "D1",
+    "cs": "nḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "happening/occurring more than an hour ago",
+      "happening/occurring less than an hour ago",
+      "happening/occurring a few/several minutes ago",
+      "happening/occurring a few moments ago",
+      "happening/occurring at this very moment (having begun only a moment ago and expected to end a moment from now)",
+      "happening/occurring a few moments from now",
+      "happening/occurring a few/several minutes from now",
+      "happening/occurring less than an hour from now",
+      "happening/occurring more than an hour from now"
+    ]
+  },
+  {
+    "name": "ST2",
+    "description": "Short-Term Time References 2",
+    "gradient_type": "D1",
+    "cs": "xb",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "happening/occurring sometime in the past few days",
+      "happening/occurring the day before yesterday",
+      "happening/occurring yesterda",
+      "happening/occurring several hours ago, earlier today, earlier this morning",
+      "happening/occurring now (having begun hours/a while ago and expected to end hours/a while now)",
+      "happening/occurring several hours from now, later today, later tonight",
+      "happening/occurring tomorrow ",
+      "happening/occurring the day after tomorrow",
+      "happening/occurring sometime in the next few days"
+    ]
+  },
+  {
+    "name": "FRQ",
+    "description": "Degree Of Frequency",
+    "gradient_type": "A1",
+    "cs": "rp",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "never",
+      "rare / hardly ever / once in a great while; rarely / almost unheard of",
+      "infrequent; seldom / infrequently",
+      "now and then / from time to time / off and on / every so often / now and again / occasionally / sometimes",
+      "frequent; frequently / often",
+      "usual; usually / customarily / generally",
+      "almost always / rarely fail to / routinely",
+      "ever-faithful / unwavering; always / every time / without fail / like clockwork / never fail to",
+      "constant / continuous; constantly / continuously / all the time / ever-present"
+    ]
+  },
+  {
+    "name": "ITN",
+    "description": "Degree Of Iteration",
+    "gradient_type": "D1",
+    "cs": "rm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "just once / once only",
+      "again / once more / one more time / re-",
+      "again and again / keep X-ing over and over [focus on habit, not periodicity]",
+      "again and again / keep X-ing over and over [focus on periodicity, not habit]",
+      "irregular, unpredictable; at irregular or unpredictable intervals",
+      "[cyclic] return of … / … once again; return to / … back again [e.g., summer’s back]",
+      "intermittent; intermittently / at regular intervals",
+      "repetitive / repeating; repeatedly",
+      "constantly cycling or repeating / continuously or perpetually repeating / constant, eternal, perpetual repetition of"
+    ]
+  },
+  {
+    "name": "RPN",
+    "description": "Pattern of Spatio-Temporal Repetition or Distribution of Set Members",
+    "gradient_type": "B",
+    "cs": "çţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "slow-paced repetition at regular intervals",
+      "slow-paced repetition at irregular intervals",
+      "slow-paced repetition at mixed intervals",
+      "mid-paced repetition at irregular intervals",
+      "mid-paced repetition at regular intervals",
+      "mid-paced repetition at mixed intervals",
+      "fast-paced repetition at mixed intervals",
+      "fast-paced repetition at irregular intervals",
+      "fast-paced repetition at regular intervals"
+    ]
+  },
+  {
+    "name": "SPT",
+    "description": "Specified Points in Calendrical Time (used with Stem 3 of the number roots to render, e.g., ‘the third day of the week (i.e., Wednesday)’ or ‘20th of May’, etc.)",
+    "gradient_type": "A1",
+    "cs": "rw/-ry",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "second(s) of the minute",
+      "minute(s) of the hour",
+      "hour of the day",
+      "day of the week",
+      "day of the month",
+      "week of the month",
+      "month of the year",
+      "year",
+      "century"
+    ]
+  },
+  {
+    "name": "CYC",
+    "description": "Cyclic Recurrence",
+    "gradient_type": "A1",
+    "cs": "rkw",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "(occurring) every second",
+      "(occurring) every minute",
+      "(occurring) every hour; hourly",
+      "(occurring) every day; daily",
+      "(occurring) every week; weekly",
+      "(occurring) every month; monthly",
+      "(occurring) every year; yearly/annually",
+      "(occurring) every decade; decennially",
+      "(occurring) every century; centennially"
+    ],
+    "notes": "Use this affix with a number-root (or as a Type-3 affix with a number affix) to indicate the frequency of a cyclic occurrence, e.g., “every X (number of) seconds”"
+  },
+  {
+    "name": "CYL",
+    "description": "Cyclic Recurrence [Long-Term]",
+    "gradient_type": "A1",
+    "cs": "rky",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "(occurring) every millennium",
+      "(occurring) every ten-thousand years",
+      "(occurring) every hundred-thousand years",
+      "(occurring) every age; every million years",
+      "(occurring) every epoch; every 10 million yrs.",
+      "(occurring) every era; every 100 million years",
+      "(occurring) every eon; every 500 million years",
+      "(occurring) every billion years",
+      "during the lifespan of the universe"
+    ],
+    "notes": "Use this affix with a number-root (or as a Type-3 affix with a number affix) to indicate the frequency of a cyclic occurrence, e.g., “every X (number of) millennia”"
+  },
+  {
+    "name": "ITE",
+    "description": "Iterations Per Time-Period [use with number roots/affixes]",
+    "gradient_type": "A1",
+    "cs": "rţw",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X times per second",
+      "X times per minute",
+      "X times per hour",
+      "X times daily",
+      "X times weekly",
+      "X times monthly",
+      "X times yearly",
+      "X times per decade",
+      "X times per century"
+    ]
+  },
+  {
+    "name": "ILT",
+    "description": "Iterations Per Long-Term [use with number roots/affixes]",
+    "gradient_type": "A1",
+    "cs": "rţy",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X times per millenium",
+      "X times per 10000 year period",
+      "X times per 10⁵ year period",
+      "X times per age (10⁶ years)",
+      "X times per epoch (10⁷ years)",
+      "X times per era (10⁸ years)",
+      "X times per eon (5×10⁸ years)",
+      "X times per billion (10⁹) year period",
+      "X times per universe-lifespan"
+    ]
+  },
+  {
+    "name": "TPP",
+    "description": "Temporal Position Relative to Present",
+    "gradient_type": "D1",
+    "cs": "kt",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "in the remote past, once upon a time",
+      "past/former/previous; once [e.g., I was young once], a long time ago",
+      "recent; recently",
+      "… just past / just (happened)",
+      "present / current / present day; now / at present / presently / currently",
+      "imminent; just about to / about to / on the verge of",
+      "forthcoming / soon to arrive; soon",
+      "future / — to be / —to come / eventual(ly); someday …",
+      "in the remote future / far in the future / long after we’re gone"
+    ]
+  },
+  {
+    "name": "ANT",
+    "description": "Degree Of Anticipation",
+    "gradient_type": "D1",
+    "cs": "lst",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "long-awaited / long looked for",
+      "eagerly awaited; can’t wait for / dying to",
+      "anticipated / awaited; in anticipation of / look to",
+      "up for / up to",
+      "await / wait to / wait for / waiting to",
+      "ambivalent about; could take or leave it",
+      "not looking forward to",
+      "dreaded; dread X-ing",
+      "long-dreaded; dread the day when"
+    ],
+    "notes": "See Emotion Root: -**LST**-"
+  },
+  {
+    "name": "RTI",
+    "description": "Relative Timeline Indicator",
+    "gradient_type": "D1",
+    "cs": "lt",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X is/occurs after the relative/contextual present of a statement (as may be defined by TPP affix) but is considered completed or no longer applicable after-the-fact from the speaker’s present viewpoint",
+      "X is/occurs after the relative/contextual present of a statement (as may be defined by TPP affix) and its occurrence is still outstanding/impacting the speaker’s present viewpoint",
+      "X continues to occur or have an effect in the relative/contextual present or has begun during or prior to the relative/contextual present and will continue into the future of that same relative/contextual present",
+      "X continues to occur or have an effect in the relative/contextual present or has begun during or prior to the relative/contextual present and will continue into the future of that same relative/contextual present, but does not continue into, or have a retrograde effect/impact on the speaker’s contextual present",
+      "X has been/done so in the past and will again in the future, but not being/doing so at present",
+      "X begins to be/occur before the relative/contextual present of a statement (as may be defined by TPP affix) and continues to be/occur during that same relative/contextual present but does not impact the speaker’s contextual present",
+      "X begins to be/occur before the relative/contextual present of a statement (as may be defined by TPP affix) and continues to be/occur during that same relative/contextual present",
+      "X is/occurs before the relative/contextual present of a statement (as may be defined by TPP affix) and the consequences of its occurrence are still outstanding/impacting the speaker’s present viewpoint",
+      "X is/occurs before the relative/contextual present of a statement (as may be defined by TPP affix) but is considered completed or no longer applicable after-the-fact from the speaker’s present viewpoint"
+    ]
+  },
+  {
+    "name": "AMD",
+    "description": "Ante-Meridiem Times of Day",
+    "gradient_type": "A1",
+    "cs": "řc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "just after midnight",
+      "during madrugada; during the wee hours; during the middle of the night",
+      "just before daybreak; just before dawn",
+      "at/around dawn; at daybreak",
+      "at sunrise",
+      "during/in the early morning after sunrise",
+      "during/in the morning",
+      "during the late morning",
+      "around mid-day; at/around noon"
+    ]
+  },
+  {
+    "name": "PMD",
+    "description": "Post-Meridiem Times of Day",
+    "gradient_type": "A1",
+    "cs": "řj",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "just after mid-day; in the early afternoon",
+      "in the mid afternoon",
+      "during/in the afternoon",
+      "in the late afternoon",
+      "at sunset",
+      "at dusk; at/during twilight",
+      "during the early evening",
+      "during/in the evening",
+      "in the late evening; around midnight"
+    ]
+  },
+  {
+    "name": "TME",
+    "description": "Degree Of Timeliness",
+    "gradient_type": "D2",
+    "cs": "km",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "too early / too soon",
+      "(quite) early",
+      "a little early / a bit soon",
+      "almost late / not a moment too soon / none too soon",
+      "just in time / sharp / on the dot",
+      "slightly late but not enough to make a difference",
+      "a little late",
+      "late / just missed it",
+      "too late / you missed it"
+    ]
+  },
+  {
+    "name": "TPR",
+    "description": "Temporal Placement/Reaction/Viewpoint",
+    "gradient_type": "D1",
+    "cs": "ţp",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "wistfully looking back / in the (good) old days [with longing] / with nostalgia",
+      "in hindsight / looking back",
+      "upon further consideration/upon reflection",
+      "initial; at first/initially / at first blush / at first glance",
+      "now that the moment has come / now that the time is here / now that the event is at hand",
+      "any moment now; on the verge of; just about to",
+      "imminent(ly); very soon",
+      "soon [w/ anticipation]",
+      "someday … / one day [with longing]"
+    ]
+  },
+  {
+    "name": "STG",
+    "description": "Stage, Step or Phase of a Process",
+    "gradient_type": "A1",
+    "cs": "rš",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "onset/initiation/birth of X",
+      "development/build-up of X",
+      "point of no return/iminent transition of X",
+      "plateau stage, rest or pause before next stage of X",
+      "(at) peak / in prime / mature stage",
+      "abrupt or premature termination of X",
+      "gradual decline of X",
+      "end stage / final state / terminal or last stage",
+      "cessation / finished / over / dead"
+    ]
+  },
+  {
+    "name": "STS",
+    "description": "Spatio-Temporal Specification",
+    "gradient_type": "C",
+    "cs": "šř",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "spatial interpretation",
+      "spatial interpretation — preceding X, in front of X, before (one arrives at) X, first this then X",
+      "spatial interpretation — at the exact spot where X is, right where X is",
+      "spatial interpretation — after X, behind X, following X, subsequent to X",
+      "spatial & temporal interpretation",
+      "temporal interpretation — after X, (in the time) following X, subsequent to X",
+      "temporal interpretation — at the moment of X, upon (the occurrence of) X",
+      "temporal interpretation — preceding X, (in the time) before X, first this then X, prior to X",
+      "temporal interpretation"
+    ]
+  },
+  {
+    "name": "DTS",
+    "description": "Duration of Shift/Change/Transition (used for both spatial and temporal contexts)",
+    "gradient_type": "D1",
+    "cs": "mp",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "sharp break, sudden shift from one state/form/shape/set of circumstances to another with no discernible transition period/zone (i.e., point-like/instantaneous transition)",
+      "extremely brief/small/barely discernible transition period or zone from one state/form/shape/set of circumstances to another",
+      "somewhat brief/small/discernible transition period or zone from one state/form/shape/set of circumstances to another",
+      "below-average or less-than-normal duration of transition period orzone from one state/form/shape/set of circumstances to another",
+      "normal/standard/expected transition period or zone from one state/form/shape/set of circumstances to another",
+      "above-average or greater-than-normal duration of transition period orzone from one state/form/shape/set of circumstances to another",
+      "somewhat lengthy duration in transition period or zone from one state/form/shape/set of circumstances to another",
+      "lengthy duration in transition period or zone from one state/form/shape/set of circumstances to another",
+      "very gradual/almost imperceptible rate/degree of change/transition from one state/form/shape/set of circumstances to another"
+    ]
+  },
+  {
+    "name": "VTS",
+    "description": "Variability of Shift/Change/Transition (used for both spatial and temporal contexts)",
+    "gradient_type": "D1",
+    "cs": "ňf",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "highly variable/chaotic transition from one state/form/shape/set of circumstances to another",
+      "disjointed/non-contiguous/non-continuous break/shift from one state/form/shape/set of circumstances to another",
+      "disjointed/non-contiguous/non-continuous break/shift from one state/form/shape/set of circumstances to another",
+      "somewhat variable/changing/fluctuating transition period/zone from one state/form/shape/set of circumstances to another",
+      "below-average or less-than-normal degree of variability/fluctuation in transition from one state/form/shape/set of circumstances to another",
+      "normal/standard/expected degree of smoothness/gradualness of transition from one state/form/shape/set of circumstances to another",
+      "above-average or greater-than-normal degree of smoothness/gradualness of transition from one state/form/shape/set of circumstances to another",
+      "somewhat smooth, gradual transition period/zone from one state/form/shape/set of circumstances to another",
+      "smooth, gradual transition period/zone from one state/form/shape/set of circumstances to another"
+    ]
+  }
 ]

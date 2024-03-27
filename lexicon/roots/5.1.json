@@ -1,363 +1,363 @@
 [
-    {
-        "root": "FB",
-        "refers": "ARTICLE OF CLOTHING",
-        "stems": [
-            {
-                "BSC": "(to be) a piece/article of clothing being worn for the purpose of covering or protecting (a part of) the body; to wear such",
-                "CTE": "(to be) a state of wearing an article of clothing as coverage/protection",
-                "CSV": "(to be) a physical act of putting on/donning an article of clothing as coverage/protection",
-                "OBJ": "(to be) the particular piece/article of clothing itself (i.e., not necessarily being worn)"
-            },
-            "(to be) a piece/article of clothing being worn as a fashion statement (i.e., to create a fashionable appearance); to wear such",
-            "(to be) a piece/article of clothing being worn as ornament or accessory; to wear such"
-        ]
-    },
-    {
-        "root": "RFB",
-        "refers": "CLOTHING AS UNIFORM OR COSTUME OR STATUS-INDICATOR",
-        "stems": [
-            "a piece/article of clothing being worn as (part of) a uniform (i.e., to indicate one’s job/position/organizational membership, etc.)",
-            "a piece/article of clothing being worn as (part of) a costume",
-            "an ornament or accessory being worn as an indicator of a particular rank, award, status, etc. (e.g., medal, sash, epaulets, medallion, special stripe, etc.)"
-        ],
-        "see": "FB"
-    },
-    {
-        "root": "FF",
-        "refers": "TRY ON",
-        "stems": [
-            {
-                "BSC": "(to be) an act/process of trying something on (e.g., an article of clothing) to see if it fits",
-                "CTE": "(to be) a state of wearing something as a trial to see if it fits",
-                "CSV": "(to be) an act of trying something on",
-                "OBJ": "(to be) that which is being tried on to see if it fits"
-            },
-            "(to be) an act/process of trying something on (e.g., an article of clothing) to see how it looks or how it makes one look",
-            "(to be) an act/process of trying something on (e.g., an article of clothing) to see whether one can work/move/maneuver or manipulate things while wearing"
-        ]
-    },
-    {
-        "root": "MTR",
-        "refers": "HEAD COVERING / HAT",
-        "stems": [
-            {
-                "BSC": "(to be) a hat or head covering being worn as protection; to wear a hat or head covering as protection",
-                "CTE": "(to be) a state of wearing a hat or head covering for protection/coverage",
-                "CSV": "(to be) a physical act of donning a hat or head covering as protection/coverage",
-                "OBJ": "(to be) a hat or head-covering itself (i.e., not necessarily being worn)"
-            },
-            "(to be) a hat or head covering worn for fashion; to wear a fashionable hat",
-            "(to be) a hat or head covering worn as indicator of one’s status, job, organizational membership, etc."
-        ]
-    },
-    {
-        "root": "LTL",
-        "refers": "JACKET / COAT",
-        "see": "MTR"
-    },
-    {
-        "root": "NĻT",
-        "refers": "UNDERGARMENT (FOR THE GROIN AREA)",
-        "see": "MTR"
-    },
-    {
-        "root": "VJW",
-        "refers": "WAIST SASH / CUMMERBUND",
-        "see": "MTR"
-    },
-    {
-        "root": "RTL",
-        "refers": "ROBE(S) / DRESS ROBES",
-        "see": "MTR"
-    },
-    {
-        "root": "NĻP",
-        "refers": "UNDERGARMENT (FOR THE TORSO)",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTR",
-        "refers": "NECKLACE / NECK-CHAIN",
-        "see": "MTR"
-    },
-    {
-        "root": "CTL",
-        "refers": "SHIRT / BLOUSE",
-        "see": "MTR"
-    },
-    {
-        "root": "NĻM",
-        "refers": "BRASSIERE",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTL",
-        "refers": "BROOCH / PENDANT",
-        "see": "MTR"
-    },
-    {
-        "root": "TTL",
-        "refers": "DRESS",
-        "see": "MTR"
-    },
-    {
-        "root": "VDW",
-        "refers": "APRON",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTW",
-        "refers": "EARRING",
-        "see": "MTR"
-    },
-    {
-        "root": "PTL",
-        "refers": "SKIRT / KILT",
-        "see": "MTR"
-    },
-    {
-        "root": "VDY",
-        "refers": "COLLAR",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTY",
-        "refers": "MEDALLION",
-        "see": "MTR"
-    },
-    {
-        "root": "XTR",
-        "refers": "PANTS / TROUSERS",
-        "see": "MTR"
-    },
-    {
-        "root": "VDV",
-        "refers": "BANDANA / HANDKERCHIEF",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTF",
-        "refers": "CUFF LINKS",
-        "see": "MTR"
-    },
-    {
-        "root": "CTR",
-        "refers": "TUNIC",
-        "see": "MTR"
-    },
-    {
-        "root": "VDN",
-        "refers": "SLEEVE",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTV",
-        "refers": "TIE PIN / TIE CLIP",
-        "see": "MTR"
-    },
-    {
-        "root": "ZTL",
-        "refers": "SARI / SARI-LIKE ARTICLE OF CLOTHING",
-        "see": "MTR"
-    },
-    {
-        "root": "VDL",
-        "refers": "SCARF",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTŘ",
-        "refers": "BUTTON / STUD",
-        "see": "MTR"
-    },
-    {
-        "root": "ŇTR",
-        "refers": "VEST",
-        "see": "MTR"
-    },
-    {
-        "root": "VDR",
-        "refers": "BELT",
-        "see": "MTR"
-    },
-    {
-        "root": "ŠTÇ",
-        "refers": "NON-EARRING ORNAMENT WORN VIA PIERCING",
-        "see": "MTR"
-    },
-    {
-        "root": "ŇTL",
-        "refers": "OVERCOAT / LONG COAT",
-        "see": "MTR"
-    },
-    {
-        "root": "VDŘ",
-        "refers": "TIE / CRAVAT",
-        "see": "MTR"
-    },
-    {
-        "root": "PTŘ",
-        "refers": "HELMET",
-        "see": "MTR"
-    },
-    {
-        "root": "ĻTR",
-        "refers": "PARKA / HEAVY WINTER COAT",
-        "see": "MTR"
-    },
-    {
-        "root": "VẒW",
-        "refers": "OVER-THE-SHOULDER SASH",
-        "see": "MTR"
-    },
-    {
-        "root": "LDY",
-        "refers": "(PAIR OF) GOGGLES",
-        "see": "MTR"
-    },
-    {
-        "root": "JTR",
-        "refers": "SOCK",
-        "see": "MTR"
-    },
-    {
-        "root": "ẒMR",
-        "refers": "JEWEL",
-        "see": "MTR"
-    },
-    {
-        "root": "LDV",
-        "refers": "MONOCLE",
-        "see": "MTR"
-    },
-    {
-        "root": "ZTR",
-        "refers": "GLOVE",
-        "see": "MTR"
-    },
-    {
-        "root": "ẒMŘ",
-        "refers": "PIECE OF JEWELRY",
-        "see": "MTR"
-    },
-    {
-        "root": "LDW",
-        "refers": "(PAIR OF) EYEGLASSES",
-        "see": "MTR"
-    },
-    {
-        "root": "PTR",
-        "refers": "TIGHTS / LEGGINGS",
-        "see": "MTR"
-    },
-    {
-        "root": "KTR",
-        "refers": "STOCKING / HOSE",
-        "see": "MTR"
-    },
-    {
-        "root": "MVDR",
-        "refers": "VEIL",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇGL",
-        "refers": "MASK",
-        "see": "MTR"
-    },
-    {
-        "root": "ŽTR",
-        "refers": "SHOE / MOCASSIN",
-        "see": "MTR"
-    },
-    {
-        "root": "MVDŘ",
-        "refers": "HOOD",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇGR",
-        "refers": "GAITER MASK",
-        "see": "MTR"
-    },
-    {
-        "root": "GTL",
-        "refers": "(SINGLE MEMBER OF) FOOTWEAR",
-        "see": "MTR"
-    },
-    {
-        "root": "BDL",
-        "refers": "HIJAB / SHAYLA",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇGV",
-        "refers": "BALACLAVA",
-        "see": "MTR"
-    },
-    {
-        "root": "NTL",
-        "refers": "SANDAL",
-        "see": "MTR"
-    },
-    {
-        "root": "BDR",
-        "refers": "CHADOR",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇGŘ",
-        "refers": "HEADBAND",
-        "see": "MTR"
-    },
-    {
-        "root": "ŽTL",
-        "refers": "BOOT",
-        "see": "MTR"
-    },
-    {
-        "root": "BDŘ",
-        "refers": "BURKA",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇGW",
-        "refers": "HAIRTIE/SCRUNCHIE",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇPF",
-        "refers": "CAPE",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇTL",
-        "refers": "slipper",
-        "see": "MTR"
-    },
-    {
-        "root": "BDV",
-        "refers": "AL-AMIRA / KHIMAR / DUPATTA",
-        "see": "MTR"
-    },
-    {
-        "root": "ÇGY",
-        "refers": "HAIR CLIP/BARRETTE",
-        "see": "MTR"
-    },
-    {
-        "root": "ŽMW",
-        "refers": "BLANKET / QUILT / COMFORTER",
-        "stems": [
-            {
-                "BSC": "(to be) a blanket; to use a blanket",
-                "CTE": "(to be) a state of being covered with/wrapped in a blanket",
-                "CSV": "(to be) a physical act of using a blanket",
-                "OBJ": "(to be) that which is covered with/wrapped in/lying on a blanket"
-            },
-            "(to be) a quilt",
-            "(to be) a comforter (i.e., a multi-layered blanket)"
-        ]
-    }
+  {
+    "root": "FB",
+    "refers": "ARTICLE OF CLOTHING",
+    "stems": [
+      {
+        "BSC": "(to be) a piece/article of clothing being worn for the purpose of covering or protecting (a part of) the body; to wear such",
+        "CTE": "(to be) a state of wearing an article of clothing as coverage/protection",
+        "CSV": "(to be) a physical act of putting on/donning an article of clothing as coverage/protection",
+        "OBJ": "(to be) the particular piece/article of clothing itself (i.e., not necessarily being worn)"
+      },
+      "(to be) a piece/article of clothing being worn as a fashion statement (i.e., to create a fashionable appearance); to wear such",
+      "(to be) a piece/article of clothing being worn as ornament or accessory; to wear such"
+    ]
+  },
+  {
+    "root": "RFB",
+    "refers": "CLOTHING AS UNIFORM OR COSTUME OR STATUS-INDICATOR",
+    "stems": [
+      "a piece/article of clothing being worn as (part of) a uniform (i.e., to indicate one’s job/position/organizational membership, etc.)",
+      "a piece/article of clothing being worn as (part of) a costume",
+      "an ornament or accessory being worn as an indicator of a particular rank, award, status, etc. (e.g., medal, sash, epaulets, medallion, special stripe, etc.)"
+    ],
+    "see": "FB"
+  },
+  {
+    "root": "FF",
+    "refers": "TRY ON",
+    "stems": [
+      {
+        "BSC": "(to be) an act/process of trying something on (e.g., an article of clothing) to see if it fits",
+        "CTE": "(to be) a state of wearing something as a trial to see if it fits",
+        "CSV": "(to be) an act of trying something on",
+        "OBJ": "(to be) that which is being tried on to see if it fits"
+      },
+      "(to be) an act/process of trying something on (e.g., an article of clothing) to see how it looks or how it makes one look",
+      "(to be) an act/process of trying something on (e.g., an article of clothing) to see whether one can work/move/maneuver or manipulate things while wearing"
+    ]
+  },
+  {
+    "root": "MTR",
+    "refers": "HEAD COVERING / HAT",
+    "stems": [
+      {
+        "BSC": "(to be) a hat or head covering being worn as protection; to wear a hat or head covering as protection",
+        "CTE": "(to be) a state of wearing a hat or head covering for protection/coverage",
+        "CSV": "(to be) a physical act of donning a hat or head covering as protection/coverage",
+        "OBJ": "(to be) a hat or head-covering itself (i.e., not necessarily being worn)"
+      },
+      "(to be) a hat or head covering worn for fashion; to wear a fashionable hat",
+      "(to be) a hat or head covering worn as indicator of one’s status, job, organizational membership, etc."
+    ]
+  },
+  {
+    "root": "LTL",
+    "refers": "JACKET / COAT",
+    "see": "MTR"
+  },
+  {
+    "root": "NĻT",
+    "refers": "UNDERGARMENT (FOR THE GROIN AREA)",
+    "see": "MTR"
+  },
+  {
+    "root": "VJW",
+    "refers": "WAIST SASH / CUMMERBUND",
+    "see": "MTR"
+  },
+  {
+    "root": "RTL",
+    "refers": "ROBE(S) / DRESS ROBES",
+    "see": "MTR"
+  },
+  {
+    "root": "NĻP",
+    "refers": "UNDERGARMENT (FOR THE TORSO)",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTR",
+    "refers": "NECKLACE / NECK-CHAIN",
+    "see": "MTR"
+  },
+  {
+    "root": "CTL",
+    "refers": "SHIRT / BLOUSE",
+    "see": "MTR"
+  },
+  {
+    "root": "NĻM",
+    "refers": "BRASSIERE",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTL",
+    "refers": "BROOCH / PENDANT",
+    "see": "MTR"
+  },
+  {
+    "root": "TTL",
+    "refers": "DRESS",
+    "see": "MTR"
+  },
+  {
+    "root": "VDW",
+    "refers": "APRON",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTW",
+    "refers": "EARRING",
+    "see": "MTR"
+  },
+  {
+    "root": "PTL",
+    "refers": "SKIRT / KILT",
+    "see": "MTR"
+  },
+  {
+    "root": "VDY",
+    "refers": "COLLAR",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTY",
+    "refers": "MEDALLION",
+    "see": "MTR"
+  },
+  {
+    "root": "XTR",
+    "refers": "PANTS / TROUSERS",
+    "see": "MTR"
+  },
+  {
+    "root": "VDV",
+    "refers": "BANDANA / HANDKERCHIEF",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTF",
+    "refers": "CUFF LINKS",
+    "see": "MTR"
+  },
+  {
+    "root": "CTR",
+    "refers": "TUNIC",
+    "see": "MTR"
+  },
+  {
+    "root": "VDN",
+    "refers": "SLEEVE",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTV",
+    "refers": "TIE PIN / TIE CLIP",
+    "see": "MTR"
+  },
+  {
+    "root": "ZTL",
+    "refers": "SARI / SARI-LIKE ARTICLE OF CLOTHING",
+    "see": "MTR"
+  },
+  {
+    "root": "VDL",
+    "refers": "SCARF",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTŘ",
+    "refers": "BUTTON / STUD",
+    "see": "MTR"
+  },
+  {
+    "root": "ŇTR",
+    "refers": "VEST",
+    "see": "MTR"
+  },
+  {
+    "root": "VDR",
+    "refers": "BELT",
+    "see": "MTR"
+  },
+  {
+    "root": "ŠTÇ",
+    "refers": "NON-EARRING ORNAMENT WORN VIA PIERCING",
+    "see": "MTR"
+  },
+  {
+    "root": "ŇTL",
+    "refers": "OVERCOAT / LONG COAT",
+    "see": "MTR"
+  },
+  {
+    "root": "VDŘ",
+    "refers": "TIE / CRAVAT",
+    "see": "MTR"
+  },
+  {
+    "root": "PTŘ",
+    "refers": "HELMET",
+    "see": "MTR"
+  },
+  {
+    "root": "ĻTR",
+    "refers": "PARKA / HEAVY WINTER COAT",
+    "see": "MTR"
+  },
+  {
+    "root": "VẒW",
+    "refers": "OVER-THE-SHOULDER SASH",
+    "see": "MTR"
+  },
+  {
+    "root": "LDY",
+    "refers": "(PAIR OF) GOGGLES",
+    "see": "MTR"
+  },
+  {
+    "root": "JTR",
+    "refers": "SOCK",
+    "see": "MTR"
+  },
+  {
+    "root": "ẒMR",
+    "refers": "JEWEL",
+    "see": "MTR"
+  },
+  {
+    "root": "LDV",
+    "refers": "MONOCLE",
+    "see": "MTR"
+  },
+  {
+    "root": "ZTR",
+    "refers": "GLOVE",
+    "see": "MTR"
+  },
+  {
+    "root": "ẒMŘ",
+    "refers": "PIECE OF JEWELRY",
+    "see": "MTR"
+  },
+  {
+    "root": "LDW",
+    "refers": "(PAIR OF) EYEGLASSES",
+    "see": "MTR"
+  },
+  {
+    "root": "PTR",
+    "refers": "TIGHTS / LEGGINGS",
+    "see": "MTR"
+  },
+  {
+    "root": "KTR",
+    "refers": "STOCKING / HOSE",
+    "see": "MTR"
+  },
+  {
+    "root": "MVDR",
+    "refers": "VEIL",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇGL",
+    "refers": "MASK",
+    "see": "MTR"
+  },
+  {
+    "root": "ŽTR",
+    "refers": "SHOE / MOCASSIN",
+    "see": "MTR"
+  },
+  {
+    "root": "MVDŘ",
+    "refers": "HOOD",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇGR",
+    "refers": "GAITER MASK",
+    "see": "MTR"
+  },
+  {
+    "root": "GTL",
+    "refers": "(SINGLE MEMBER OF) FOOTWEAR",
+    "see": "MTR"
+  },
+  {
+    "root": "BDL",
+    "refers": "HIJAB / SHAYLA",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇGV",
+    "refers": "BALACLAVA",
+    "see": "MTR"
+  },
+  {
+    "root": "NTL",
+    "refers": "SANDAL",
+    "see": "MTR"
+  },
+  {
+    "root": "BDR",
+    "refers": "CHADOR",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇGŘ",
+    "refers": "HEADBAND",
+    "see": "MTR"
+  },
+  {
+    "root": "ŽTL",
+    "refers": "BOOT",
+    "see": "MTR"
+  },
+  {
+    "root": "BDŘ",
+    "refers": "BURKA",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇGW",
+    "refers": "HAIRTIE/SCRUNCHIE",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇPF",
+    "refers": "CAPE",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇTL",
+    "refers": "slipper",
+    "see": "MTR"
+  },
+  {
+    "root": "BDV",
+    "refers": "AL-AMIRA / KHIMAR / DUPATTA",
+    "see": "MTR"
+  },
+  {
+    "root": "ÇGY",
+    "refers": "HAIR CLIP/BARRETTE",
+    "see": "MTR"
+  },
+  {
+    "root": "ŽMW",
+    "refers": "BLANKET / QUILT / COMFORTER",
+    "stems": [
+      {
+        "BSC": "(to be) a blanket; to use a blanket",
+        "CTE": "(to be) a state of being covered with/wrapped in a blanket",
+        "CSV": "(to be) a physical act of using a blanket",
+        "OBJ": "(to be) that which is covered with/wrapped in/lying on a blanket"
+      },
+      "(to be) a quilt",
+      "(to be) a comforter (i.e., a multi-layered blanket)"
+    ]
+  }
 ]

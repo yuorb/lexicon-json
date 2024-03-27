@@ -1,256 +1,256 @@
 [
-    {
-        "root": "LÇL",
-        "refers": "COMPLEMENTARY INTERPERSONAL RELATIONSHIP OR INTERACTION",
-        "stems": [
-            {
-                "BSC": "(to be) a complementary interpersonal relationship or interaction (i.e., where one party is, does, performs, offers, or initiates some state, act, service, etc. which is directed toward, received, dealt with, undergone, submitted to, acted upon, or reacted to, by a “secondary” or “beta” party)",
-                "CTE": "(to be) a state of a complementary interpersonal relationship or interaction taking place or having taken place",
-                "CSV": "(to be) the physical act of engaging in the specifics of a complementary interpersonal relationship or interaction",
-                "OBJ": "(to be) a party engaged in a complementary interpersonal relationship or interaction"
-            },
-            "(to be) the state/act/situation initiated, performed, offered, or undergone by the “alpha” or “primary” party of a complementary interpersonal relationship or interaction",
-            "(to be) the state/act/situation received, submitted to, dealt with, solicited or undergone by the “beta” or “secondary” party of a complementary interpersonal relationship or interaction"
-        ]
-    },
-    {
-        "root": "NTN",
-        "refers": "PREDATION ↔ PREY",
-        "stems": [
-            {
-                "BSC": "(to be) a state/act of [attempted] predation upon a prey and the prey’s attempt to flee or defend itself",
-                "CTE": "(to be) a state of a predation (i.e., the “nature” of the predator/prey relationship)",
-                "CSV": "(to be) the physical act of predation by a predator and defensive act of its (potential) prey",
-                "OBJ": "(to be) a party to a predator~prey relationship"
-            },
-            {
-                "BSC": "(to be) a state/act of stalking a prey; to stalk prey, to prey upon another [CPT = to attack a prey]",
-                "CTE": "(to be) a state of being a predator",
-                "CSV": "(to be) the physical act of stalking/attacking prey; to engage in preying upon another",
-                "OBJ": "(to be) a predator"
-            },
-            {
-                "BSC": "(to be) a state/act of being stalked or preyed upon; to be stalked or preyed upon; [CPT = to fall victim as prey to a predator]",
-                "CTE": "(to be) a state of being prey",
-                "CSV": "(to be) the physical act of fleeing or defending oneself from a predator",
-                "OBJ": "(to be) a predator’s prey"
-            }
-        ],
-        "see": "LÇL"
-    },
-    {
-        "root": "VKY",
-        "refers": "LEADING/BEING A LEADER/DIRECTOR ↔ BEING A FOLLOWER",
-        "see": "LÇL"
-    },
-    {
-        "root": "DDW",
-        "refers": "BEING A SAGE/GURU ↔ BEING A DISCIPLE",
-        "see": "LÇL"
-    },
-    {
-        "root": "DDY",
-        "refers": "TEACHING ↔ BEING A STUDENT/PUPIL",
-        "see": "LÇL"
-    },
-    {
-        "root": "JBV",
-        "refers": "LENDING ↔ BORROWING",
-        "see": "LÇL"
-    },
-    {
-        "root": "JBŘ",
-        "refers": "OFFERING OR GRANTING OF CREDIT ↔ OWE; BEING IN & PAYING OFF DEBT",
-        "see": "LÇL"
-    },
-    {
-        "root": "SXW",
-        "refers": "COMMISSION/PERPETRATION OF A CRIME ↔ BEING CRIMINALLY VICTIMIZED",
-        "see": "LÇL"
-    },
-    {
-        "root": "TNW",
-        "refers": "PROCESS OF JAILING/INCARCERATION ↔ BEING IMPRISONED/INCARCERATED",
-        "see": "LÇL"
-    },
-    {
-        "root": "TNY",
-        "refers": "ENSLAVEMENT ↔ BEING ENSLAVED",
-        "see": "LÇL"
-    },
-    {
-        "root": "BŠT",
-        "refers": "BEING A PRIEST/MINISTER/IMAM/RABBI, ETC. ↔ BEING A RELIGIOUS FOLLOWER/ACOLYTE/RELIGIOUS DISCIPLE",
-        "see": "LÇL"
-    },
-    {
-        "root": "VSW",
-        "refers": "PERFORMING ARTS PERFORMANCE ↔ ATTENDING/VIEWING AN ARTISTIC PERFORMANCE",
-        "see": "LÇL"
-    },
-    {
-        "root": "VSY",
-        "refers": "VISUAL ARTS EXHIBITION ↔ ATTENDING/VIEWING A VISUAL ARTS EXHIBITION",
-        "see": "LÇL"
-    },
-    {
-        "root": "VSM",
-        "refers": "AUTHORSHIP OF A WRITTEN WORK ↔ BEING A READER THEREOF",
-        "see": "LÇL"
-    },
-    {
-        "root": "VSN",
-        "refers": "COMPOSERSHIP OF A MUSICAL COMPOSITION ↔ BEING A LISTENER THEREOF",
-        "see": "LÇL"
-    },
-    {
-        "root": "NSF",
-        "refers": "BEING A PUBLIC CELEBRITY ↔ BEING A FAN",
-        "see": "LÇL"
-    },
-    {
-        "root": "ŘDM",
-        "refers": "BEING A PHYSICIAN/MEDICAL DOCTOR/HEALER/MEDICINEMAN/MEDICINEWOMAN ↔ BEING A MEDICAL PATIENT",
-        "see": "LÇL"
-    },
-    {
-        "root": "SCW",
-        "refers": "CONDUCTING AN INTERVIEW ↔ BEING INTERVIEWED",
-        "see": "LÇL"
-    },
-    {
-        "root": "SČW",
-        "refers": "CONDUCTING AN INTERROGATION ↔ BEING INTERROGATED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ẒJ",
-        "refers": "INTIMIDATION ↔ BEING INTIMIDATED/DAUNTED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ẒXM",
-        "refers": "MAKING A THREAT/THREATENING ↔ BEING THREATENED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ẒXW",
-        "refers": "HARASSMENT (NON-SEXUAL) ↔ BEING HARASSED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ẒXL",
-        "refers": "MENACE ↔ FACING A MENACE",
-        "see": "LÇL"
-    },
-    {
-        "root": "ẒXR",
-        "refers": "BULLYING ↔ BEING BULLIED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ŇTŘ",
-        "refers": "NAGGING/BROWBEATING ↔ BEING NAGGED/BROWBEATEN",
-        "see": "LÇL"
-    },
-    {
-        "root": "KŠY",
-        "refers": "CLAIRVOYANCE/BEING PSYCHIC ↔ SEEKING/RECEIVING THE SERVICES THEREOF",
-        "see": "LÇL"
-    },
-    {
-        "root": "RXN",
-        "refers": "BEING A MAGE/WIZARD/WITCH ↔ SEEKING/RECEIVING THE SERVICES THEREOF",
-        "see": "LÇL"
-    },
-    {
-        "root": "ZGW",
-        "refers": "BEING A MATCHMAKER ↔ BEING A PARTY MATCHED OR “SET UP” BY A MATCHMAKER",
-        "see": "LÇL"
-    },
-    {
-        "root": "LXM",
-        "refers": "BEING A SUPERVISOR/BOSS ↔ BEING AN UNDERLING",
-        "see": "LÇL"
-    },
-    {
-        "root": "LXN",
-        "refers": "BEING AN EMPLOYER ↔ BEING AN EMPLOYEE",
-        "see": "LÇL"
-    },
-    {
-        "root": "ḐDY",
-        "refers": "BEING A COMMISSIONING PATRON ↔ BEING A COMMISSIONED ARTIST OR ARTISAN",
-        "see": "LÇL"
-    },
-    {
-        "root": "LT",
-        "refers": "BEING AUTARCH/AUTOCRAT/RULER ↔ BEING A SUBJECT",
-        "see": "LÇL"
-    },
-    {
-        "root": "BŠK",
-        "refers": "BEING AN ORATOR/SPEECHMAKER ↔ BEING AN AUDIENCE MEMBER",
-        "see": "LÇL"
-    },
-    {
-        "root": "FKR",
-        "refers": "BEING AN IDOL ↔ BEING A SYCOPHANT",
-        "see": "LÇL"
-    },
-    {
-        "root": "NTM",
-        "refers": "BEING A MASTER ↔ BEING A SERVANT",
-        "see": "LÇL"
-    },
-    {
-        "root": "MPL",
-        "refers": "ADVICE / COUNSEL ↔ SEEKING/RECEIVING ADVICE/COUNSEL",
-        "see": "LÇL"
-    },
-    {
-        "root": "ŠTH",
-        "refers": "BEING A LAWYER/ATTORNEY/LEGAL ADVOCATE ↔ SEEKING/RECEIVING THE SERVICES THEREOF",
-        "see": "LÇL"
-    },
-    {
-        "root": "BŠP",
-        "refers": "BEING A GOVERNMENT OFFICIAL/AUTHORITY ↔ BEING A PETITIONER/APPLICANT/SUPPLICANT",
-        "see": "LÇL"
-    },
-    {
-        "root": "ČXL",
-        "refers": "OWNING A PET ↔ BEING A PET",
-        "see": "LÇL"
-    },
-    {
-        "root": "PPS",
-        "refers": "CRITICISM ↔ RECEIVING CRITICISM",
-        "see": "LÇL"
-    },
-    {
-        "root": "STM",
-        "refers": "PSYCHOLOGICAL/RHETORICAL MANIPULATION ↔ BEING PSYCHOLOGICALLY/RHETORICALLY MANIPULATED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ĻKR",
-        "refers": "CONSIDERATION OF FORGIVENESS ↔ SOLICITING FORGIVENESS/PENANCE",
-        "see": "LÇL"
-    },
-    {
-        "root": "ĻGW",
-        "refers": "GRANTING OF EXCUSE OR PARDON ↔ REQUESTING TO BE EXCUSED OR PARDONED",
-        "see": "LÇL"
-    },
-    {
-        "root": "ĻGY",
-        "refers": "CONSIDERATION OF AMNESTY / ABSOLUTION / INDEMNIFICATION ↔ SOLICITING AMNESTY/ABSOLUTION/INDEMNIFICATION",
-        "see": "LÇL"
-    },
-    {
-        "root": "NSŢ",
-        "refers": "INVADER / MILITARY OCCUPYING PARTY ↔ PARTY INVADED / INVADEE",
-        "see": "LÇL"
-    }
+  {
+    "root": "LÇL",
+    "refers": "COMPLEMENTARY INTERPERSONAL RELATIONSHIP OR INTERACTION",
+    "stems": [
+      {
+        "BSC": "(to be) a complementary interpersonal relationship or interaction (i.e., where one party is, does, performs, offers, or initiates some state, act, service, etc. which is directed toward, received, dealt with, undergone, submitted to, acted upon, or reacted to, by a “secondary” or “beta” party)",
+        "CTE": "(to be) a state of a complementary interpersonal relationship or interaction taking place or having taken place",
+        "CSV": "(to be) the physical act of engaging in the specifics of a complementary interpersonal relationship or interaction",
+        "OBJ": "(to be) a party engaged in a complementary interpersonal relationship or interaction"
+      },
+      "(to be) the state/act/situation initiated, performed, offered, or undergone by the “alpha” or “primary” party of a complementary interpersonal relationship or interaction",
+      "(to be) the state/act/situation received, submitted to, dealt with, solicited or undergone by the “beta” or “secondary” party of a complementary interpersonal relationship or interaction"
+    ]
+  },
+  {
+    "root": "NTN",
+    "refers": "PREDATION ↔ PREY",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act of [attempted] predation upon a prey and the prey’s attempt to flee or defend itself",
+        "CTE": "(to be) a state of a predation (i.e., the “nature” of the predator/prey relationship)",
+        "CSV": "(to be) the physical act of predation by a predator and defensive act of its (potential) prey",
+        "OBJ": "(to be) a party to a predator~prey relationship"
+      },
+      {
+        "BSC": "(to be) a state/act of stalking a prey; to stalk prey, to prey upon another [CPT = to attack a prey]",
+        "CTE": "(to be) a state of being a predator",
+        "CSV": "(to be) the physical act of stalking/attacking prey; to engage in preying upon another",
+        "OBJ": "(to be) a predator"
+      },
+      {
+        "BSC": "(to be) a state/act of being stalked or preyed upon; to be stalked or preyed upon; [CPT = to fall victim as prey to a predator]",
+        "CTE": "(to be) a state of being prey",
+        "CSV": "(to be) the physical act of fleeing or defending oneself from a predator",
+        "OBJ": "(to be) a predator’s prey"
+      }
+    ],
+    "see": "LÇL"
+  },
+  {
+    "root": "VKY",
+    "refers": "LEADING/BEING A LEADER/DIRECTOR ↔ BEING A FOLLOWER",
+    "see": "LÇL"
+  },
+  {
+    "root": "DDW",
+    "refers": "BEING A SAGE/GURU ↔ BEING A DISCIPLE",
+    "see": "LÇL"
+  },
+  {
+    "root": "DDY",
+    "refers": "TEACHING ↔ BEING A STUDENT/PUPIL",
+    "see": "LÇL"
+  },
+  {
+    "root": "JBV",
+    "refers": "LENDING ↔ BORROWING",
+    "see": "LÇL"
+  },
+  {
+    "root": "JBŘ",
+    "refers": "OFFERING OR GRANTING OF CREDIT ↔ OWE; BEING IN & PAYING OFF DEBT",
+    "see": "LÇL"
+  },
+  {
+    "root": "SXW",
+    "refers": "COMMISSION/PERPETRATION OF A CRIME ↔ BEING CRIMINALLY VICTIMIZED",
+    "see": "LÇL"
+  },
+  {
+    "root": "TNW",
+    "refers": "PROCESS OF JAILING/INCARCERATION ↔ BEING IMPRISONED/INCARCERATED",
+    "see": "LÇL"
+  },
+  {
+    "root": "TNY",
+    "refers": "ENSLAVEMENT ↔ BEING ENSLAVED",
+    "see": "LÇL"
+  },
+  {
+    "root": "BŠT",
+    "refers": "BEING A PRIEST/MINISTER/IMAM/RABBI, ETC. ↔ BEING A RELIGIOUS FOLLOWER/ACOLYTE/RELIGIOUS DISCIPLE",
+    "see": "LÇL"
+  },
+  {
+    "root": "VSW",
+    "refers": "PERFORMING ARTS PERFORMANCE ↔ ATTENDING/VIEWING AN ARTISTIC PERFORMANCE",
+    "see": "LÇL"
+  },
+  {
+    "root": "VSY",
+    "refers": "VISUAL ARTS EXHIBITION ↔ ATTENDING/VIEWING A VISUAL ARTS EXHIBITION",
+    "see": "LÇL"
+  },
+  {
+    "root": "VSM",
+    "refers": "AUTHORSHIP OF A WRITTEN WORK ↔ BEING A READER THEREOF",
+    "see": "LÇL"
+  },
+  {
+    "root": "VSN",
+    "refers": "COMPOSERSHIP OF A MUSICAL COMPOSITION ↔ BEING A LISTENER THEREOF",
+    "see": "LÇL"
+  },
+  {
+    "root": "NSF",
+    "refers": "BEING A PUBLIC CELEBRITY ↔ BEING A FAN",
+    "see": "LÇL"
+  },
+  {
+    "root": "ŘDM",
+    "refers": "BEING A PHYSICIAN/MEDICAL DOCTOR/HEALER/MEDICINEMAN/MEDICINEWOMAN ↔ BEING A MEDICAL PATIENT",
+    "see": "LÇL"
+  },
+  {
+    "root": "SCW",
+    "refers": "CONDUCTING AN INTERVIEW ↔ BEING INTERVIEWED",
+    "see": "LÇL"
+  },
+  {
+    "root": "SČW",
+    "refers": "CONDUCTING AN INTERROGATION ↔ BEING INTERROGATED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ẒJ",
+    "refers": "INTIMIDATION ↔ BEING INTIMIDATED/DAUNTED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ẒXM",
+    "refers": "MAKING A THREAT/THREATENING ↔ BEING THREATENED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ẒXW",
+    "refers": "HARASSMENT (NON-SEXUAL) ↔ BEING HARASSED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ẒXL",
+    "refers": "MENACE ↔ FACING A MENACE",
+    "see": "LÇL"
+  },
+  {
+    "root": "ẒXR",
+    "refers": "BULLYING ↔ BEING BULLIED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ŇTŘ",
+    "refers": "NAGGING/BROWBEATING ↔ BEING NAGGED/BROWBEATEN",
+    "see": "LÇL"
+  },
+  {
+    "root": "KŠY",
+    "refers": "CLAIRVOYANCE/BEING PSYCHIC ↔ SEEKING/RECEIVING THE SERVICES THEREOF",
+    "see": "LÇL"
+  },
+  {
+    "root": "RXN",
+    "refers": "BEING A MAGE/WIZARD/WITCH ↔ SEEKING/RECEIVING THE SERVICES THEREOF",
+    "see": "LÇL"
+  },
+  {
+    "root": "ZGW",
+    "refers": "BEING A MATCHMAKER ↔ BEING A PARTY MATCHED OR “SET UP” BY A MATCHMAKER",
+    "see": "LÇL"
+  },
+  {
+    "root": "LXM",
+    "refers": "BEING A SUPERVISOR/BOSS ↔ BEING AN UNDERLING",
+    "see": "LÇL"
+  },
+  {
+    "root": "LXN",
+    "refers": "BEING AN EMPLOYER ↔ BEING AN EMPLOYEE",
+    "see": "LÇL"
+  },
+  {
+    "root": "ḐDY",
+    "refers": "BEING A COMMISSIONING PATRON ↔ BEING A COMMISSIONED ARTIST OR ARTISAN",
+    "see": "LÇL"
+  },
+  {
+    "root": "LT",
+    "refers": "BEING AUTARCH/AUTOCRAT/RULER ↔ BEING A SUBJECT",
+    "see": "LÇL"
+  },
+  {
+    "root": "BŠK",
+    "refers": "BEING AN ORATOR/SPEECHMAKER ↔ BEING AN AUDIENCE MEMBER",
+    "see": "LÇL"
+  },
+  {
+    "root": "FKR",
+    "refers": "BEING AN IDOL ↔ BEING A SYCOPHANT",
+    "see": "LÇL"
+  },
+  {
+    "root": "NTM",
+    "refers": "BEING A MASTER ↔ BEING A SERVANT",
+    "see": "LÇL"
+  },
+  {
+    "root": "MPL",
+    "refers": "ADVICE / COUNSEL ↔ SEEKING/RECEIVING ADVICE/COUNSEL",
+    "see": "LÇL"
+  },
+  {
+    "root": "ŠTH",
+    "refers": "BEING A LAWYER/ATTORNEY/LEGAL ADVOCATE ↔ SEEKING/RECEIVING THE SERVICES THEREOF",
+    "see": "LÇL"
+  },
+  {
+    "root": "BŠP",
+    "refers": "BEING A GOVERNMENT OFFICIAL/AUTHORITY ↔ BEING A PETITIONER/APPLICANT/SUPPLICANT",
+    "see": "LÇL"
+  },
+  {
+    "root": "ČXL",
+    "refers": "OWNING A PET ↔ BEING A PET",
+    "see": "LÇL"
+  },
+  {
+    "root": "PPS",
+    "refers": "CRITICISM ↔ RECEIVING CRITICISM",
+    "see": "LÇL"
+  },
+  {
+    "root": "STM",
+    "refers": "PSYCHOLOGICAL/RHETORICAL MANIPULATION ↔ BEING PSYCHOLOGICALLY/RHETORICALLY MANIPULATED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ĻKR",
+    "refers": "CONSIDERATION OF FORGIVENESS ↔ SOLICITING FORGIVENESS/PENANCE",
+    "see": "LÇL"
+  },
+  {
+    "root": "ĻGW",
+    "refers": "GRANTING OF EXCUSE OR PARDON ↔ REQUESTING TO BE EXCUSED OR PARDONED",
+    "see": "LÇL"
+  },
+  {
+    "root": "ĻGY",
+    "refers": "CONSIDERATION OF AMNESTY / ABSOLUTION / INDEMNIFICATION ↔ SOLICITING AMNESTY/ABSOLUTION/INDEMNIFICATION",
+    "see": "LÇL"
+  },
+  {
+    "root": "NSŢ",
+    "refers": "INVADER / MILITARY OCCUPYING PARTY ↔ PARTY INVADED / INVADEE",
+    "see": "LÇL"
+  }
 ]

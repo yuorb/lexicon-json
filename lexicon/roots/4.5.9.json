@@ -1,102 +1,102 @@
 [
-    {
-        "root": "STN",
-        "refers": "NERVOUS HABIT",
-        "stems": [
-            "bite fingernails",
-            "pick nose",
-            "crack knuckles"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "XPW",
-        "refers": "HABITUAL ACTION",
-        "stems": [
-            "scratch oneself (unconsciously)",
-            "rub or pinch oneself",
-            "suck thumb"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "TPŘ",
-        "refers": "HABITUAL ORAL ACTION",
-        "stems": [
-            "purse lips",
-            "make smacking or other oral clicking sound",
-            "trill lips"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "DMW",
-        "refers": "EMOTION-BASED PHYSICAL REACTION",
-        "stems": [
-            "shrug",
-            "roll eyes",
-            "drop one’s jaw in surprise/shock"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "ŠKŢ",
-        "refers": "NEGATIVE FACIAL EXPRESSION",
-        "stems": [
-            "frown",
-            "scowl",
-            "have crestfallen/dejected look"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "ŠKF",
-        "refers": "FACIAL EXPRESSION",
-        "stems": [
-            "(one’s) facial expression",
-            "(one’s) natural/relaxed/unconscious facial expression",
-            "a conscious/semi-conscious/affected facial expression, a “look”"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "ḐBŘ",
-        "refers": "ONES POSTURE",
-        "stems": [
-            "straight / “ramrod” / “good” / upright / attentive posture",
-            "relaxed / slouched posture; to slouch, relax one’s posture",
-            "stooped / “poor” posture"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "ŠKV",
-        "refers": "ATYPICAL FACIAL EXPRESSION",
-        "stems": [
-            "“scrunch up” one’s face in irritation/puzzlement/concentration",
-            "look of distraction / not paying attention / being “far away”",
-            "raise eyebrows due to encountering/considering something unexpected"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "MW",
-        "refers": "SMILE / GRIN / SMIRK",
-        "stems": [
-            "smile (lips closed)",
-            "grin (i.e., smile with teeth visible)",
-            "smirk"
-        ],
-        "see": "JW"
-    },
-    {
-        "root": "RTN",
-        "refers": "FIDDLE / PLAY ABSENT-MINDEDLY",
-        "stems": [
-            "play with hair",
-            "play with piece of clothing or jewelry (unconsciousness)",
-            "fiddle with object"
-        ],
-        "see": "JW"
-    }
+  {
+    "root": "STN",
+    "refers": "NERVOUS HABIT",
+    "stems": [
+      "bite fingernails",
+      "pick nose",
+      "crack knuckles"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "XPW",
+    "refers": "HABITUAL ACTION",
+    "stems": [
+      "scratch oneself (unconsciously)",
+      "rub or pinch oneself",
+      "suck thumb"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "TPŘ",
+    "refers": "HABITUAL ORAL ACTION",
+    "stems": [
+      "purse lips",
+      "make smacking or other oral clicking sound",
+      "trill lips"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "DMW",
+    "refers": "EMOTION-BASED PHYSICAL REACTION",
+    "stems": [
+      "shrug",
+      "roll eyes",
+      "drop one’s jaw in surprise/shock"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "ŠKŢ",
+    "refers": "NEGATIVE FACIAL EXPRESSION",
+    "stems": [
+      "frown",
+      "scowl",
+      "have crestfallen/dejected look"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "ŠKF",
+    "refers": "FACIAL EXPRESSION",
+    "stems": [
+      "(one’s) facial expression",
+      "(one’s) natural/relaxed/unconscious facial expression",
+      "a conscious/semi-conscious/affected facial expression, a “look”"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "ḐBŘ",
+    "refers": "ONES POSTURE",
+    "stems": [
+      "straight / “ramrod” / “good” / upright / attentive posture",
+      "relaxed / slouched posture; to slouch, relax one’s posture",
+      "stooped / “poor” posture"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "ŠKV",
+    "refers": "ATYPICAL FACIAL EXPRESSION",
+    "stems": [
+      "“scrunch up” one’s face in irritation/puzzlement/concentration",
+      "look of distraction / not paying attention / being “far away”",
+      "raise eyebrows due to encountering/considering something unexpected"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "MW",
+    "refers": "SMILE / GRIN / SMIRK",
+    "stems": [
+      "smile (lips closed)",
+      "grin (i.e., smile with teeth visible)",
+      "smirk"
+    ],
+    "see": "JW"
+  },
+  {
+    "root": "RTN",
+    "refers": "FIDDLE / PLAY ABSENT-MINDEDLY",
+    "stems": [
+      "play with hair",
+      "play with piece of clothing or jewelry (unconsciousness)",
+      "fiddle with object"
+    ],
+    "see": "JW"
+  }
 ]

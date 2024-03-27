@@ -1,154 +1,154 @@
 [
-    {
-        "name": "DCD",
-        "description": "Deictic Demonstratives",
-        "gradient_type": "D1",
-        "cs": "t",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "this X (at/by/near speaker); the X under discussion; the X at hand; in this manner/way, in the manner at hand, in said manner",
-            "that X (at/by/near addressee); the X at/by/near the addressee; in that manner/way, thus",
-            "that X yonder (away from both speaker and addressee); in that manner, thus",
-            "the previously mentioned X, the X known to speaker and addressee, the contextually specific/relevant/identified X, “the” X; in the manner under discussion or contextually known",
-            "[head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
-            "[same as Degree 4 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
-            "[same as Degree 3 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
-            "[same as Degree 2 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
-            "[same as Degree 1 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]"
-        ]
-    },
-    {
-        "name": "DX1",
-        "description": "Deixis Categories",
-        "gradient_type": "C",
-        "cs": "tř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "yonder / way over there somewhere / a long way away (not near anyone) [inaccessible or unobservable]",
-            "over there somewhere (by third party) [inaccessible or unobservable]",
-            "there somewhere (by listener) [inaccessible or observable]",
-            "here somewhere (by speaker] [inaccessible or observable]",
-            "here with us (by speaker and listener and accessible]",
-            "here (by speaker and accessible]",
-            "there [by listener and accessible]",
-            "there (by third party, but accessible to speaker or listener)",
-            "yonder / way over there [not near any party but accessible]"
-        ]
-    },
-    {
-        "name": "DX2",
-        "description": "Additional Deixis Categories",
-        "gradient_type": "C",
-        "cs": "stř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "spread out / everywhere / scattered yonder / all over out there [inaccessible]",
-            "spread out / everywhere / scattered all about 3rd party / all over the place around 3rd party [inaccessible]",
-            "spread out / everywhere / scattered all about listener / all over the place around listener [inaccessible]",
-            "spread out / everywhere / scattered all about speaker / all over the place / here and there [inaccessible]",
-            "spread out / everywhere / scattered all about speaker and listener [accessible]",
-            "spread out / everywhere / scattered all about speaker / all over the place / here and there [accessible]",
-            "spread out / everywhere / scattered all about listener / all over the place around listener [accessible]",
-            "spread out / everywhere / scattered all about 3rd party / all over the place around 3rd party [accessible]",
-            "spread out / everywhere / scattered yonder / all over out there [accessible]"
-        ]
-    },
-    {
-        "name": "IDF",
-        "description": "Identificative",
-        "gradient_type": "D1",
-        "cs": "ňḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "any (of the various / of the number of) X [random selection - NOT quantitative/partitive “any”]; in any manner",
-            "almost any; in almost any (number of) way(s)",
-            "some X or other; in some way or other",
-            "some certain X; in some certain way [identity unknown]",
-            "this X or that; a certain X or more; in this way or that [identity almost known – choices limited]",
-            "a certain / a particular; in a certain or particular way [identity ascertainable]",
-            "presumably this/that; apparently this X; in that way presumably [tentatively identified]",
-            "a certain / a particular; in a certain or particular way [identity presumably known to addressee but not to speaker]",
-            "a certain / a particular; in a certain or particular way [identity known to speaker but (potentially) not to addressee]"
-        ]
-    },
-    {
-        "name": "EXT",
-        "description": "Exactness/Comparability of Identity / Identity As a Standard",
-        "gradient_type": "A1",
-        "cs": "řḑ",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "not comparable to X / unlike X / inexact(ly)",
-            "not quite comparable to X / not nearly exact enough",
-            "nearly or almost that X; nearly or almost so",
-            "just about … / for all intents and purposes",
-            "such (a); in such a manner",
-            "comparable / comparably / good enough / well enough / sufficiently exact",
-            "just like that; just so, thus(ly)",
-            "a(n exact) copy/duplicate of X / an exact substitute for X",
-            "the exact X / the very (one); exactly thus / exactly so"
-        ]
-    },
-    {
-        "name": "AFR",
-        "description": "Degree of Assumed Familiarity/Recognition",
-        "gradient_type": "C",
-        "cs": "çř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "speaker assumes addressee does not know/recognize the reference",
-            "speaker assumes addressee may know but has forgotten the reference",
-            "speaker assumes addressee knows but has forgotten the reference",
-            "speaker assumes addressee knows but may have forgotten the reference",
-            "speaker assumes addressee knows/recognizes the reference",
-            "unknown whether addressee knows the referent; speaker will elucidate anyway",
-            "unknown whether addressee knows the referent; speaker willing to elucidate if requested",
-            "unknown whether addressee knows the referent; speaker will elucidate only reluctantly if pressed to do so or absolutely necessary",
-            "unknown whether addressee knows the referent; speaker unwilling to elucidate"
-        ]
-    },
-    {
-        "name": "FAM",
-        "description": "Degree Of Familiarity",
-        "gradient_type": "A1",
-        "cs": "rļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "unknowable / alien; unable to even try X-ing",
-            "totally unfamiliar, utterly strange; totally unaccustomed to X-ing",
-            "unfamiliar, strange; unaccustomed to X-ing",
-            "somewhat unfamiliar; somewhat unaccustomed to X-ing",
-            "just becoming familiar, just getting to know; just getting used to X-ing",
-            "somewhat familiar; somewhat accustomed to X-ing",
-            "familiar/known; accustomed to X-ing",
-            "well-known / utterly familiar with / ingrained; inherently accustomed or used to X-ing",
-            "intimate with; intimately involved with / intimately accustomed to"
-        ]
-    },
-    {
-        "name": "SIM",
-        "description": "Degree Of Similarity",
-        "gradient_type": "A1",
-        "cs": "rx",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "opposite; as different as possible / at the other extreme",
-            "completely different/dissimilar; in a totally different or dissimilar way",
-            "rather different / barely similar / almost completely different or dissimilar; in an almost completely different way",
-            "other [=different]; in another [=different] way",
-            "somewhat different, only superficially similar; somewhat differently",
-            "(somewhat) similar, only superficially different, sort of like, something like, X-like; similarly",
-            "similar in the ways that count/similar down deep, some sort of X; similarly at deep level",
-            "very similar; very similarly",
-            "[exactly the] same, indistinguishable from; in the [exactly] same way"
-        ]
-    }
+  {
+    "name": "DCD",
+    "description": "Deictic Demonstratives",
+    "gradient_type": "D1",
+    "cs": "t",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "this X (at/by/near speaker); the X under discussion; the X at hand; in this manner/way, in the manner at hand, in said manner",
+      "that X (at/by/near addressee); the X at/by/near the addressee; in that manner/way, thus",
+      "that X yonder (away from both speaker and addressee); in that manner, thus",
+      "the previously mentioned X, the X known to speaker and addressee, the contextually specific/relevant/identified X, “the” X; in the manner under discussion or contextually known",
+      "[head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 4 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 3 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 2 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]",
+      "[same as Degree 1 + head of relative clause and/or the formative to which a later Reduplicative Referential refers]"
+    ]
+  },
+  {
+    "name": "DX1",
+    "description": "Deixis Categories",
+    "gradient_type": "C",
+    "cs": "tř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "yonder / way over there somewhere / a long way away (not near anyone) [inaccessible or unobservable]",
+      "over there somewhere (by third party) [inaccessible or unobservable]",
+      "there somewhere (by listener) [inaccessible or observable]",
+      "here somewhere (by speaker] [inaccessible or observable]",
+      "here with us (by speaker and listener and accessible]",
+      "here (by speaker and accessible]",
+      "there [by listener and accessible]",
+      "there (by third party, but accessible to speaker or listener)",
+      "yonder / way over there [not near any party but accessible]"
+    ]
+  },
+  {
+    "name": "DX2",
+    "description": "Additional Deixis Categories",
+    "gradient_type": "C",
+    "cs": "stř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "spread out / everywhere / scattered yonder / all over out there [inaccessible]",
+      "spread out / everywhere / scattered all about 3rd party / all over the place around 3rd party [inaccessible]",
+      "spread out / everywhere / scattered all about listener / all over the place around listener [inaccessible]",
+      "spread out / everywhere / scattered all about speaker / all over the place / here and there [inaccessible]",
+      "spread out / everywhere / scattered all about speaker and listener [accessible]",
+      "spread out / everywhere / scattered all about speaker / all over the place / here and there [accessible]",
+      "spread out / everywhere / scattered all about listener / all over the place around listener [accessible]",
+      "spread out / everywhere / scattered all about 3rd party / all over the place around 3rd party [accessible]",
+      "spread out / everywhere / scattered yonder / all over out there [accessible]"
+    ]
+  },
+  {
+    "name": "IDF",
+    "description": "Identificative",
+    "gradient_type": "D1",
+    "cs": "ňḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "any (of the various / of the number of) X [random selection - NOT quantitative/partitive “any”]; in any manner",
+      "almost any; in almost any (number of) way(s)",
+      "some X or other; in some way or other",
+      "some certain X; in some certain way [identity unknown]",
+      "this X or that; a certain X or more; in this way or that [identity almost known – choices limited]",
+      "a certain / a particular; in a certain or particular way [identity ascertainable]",
+      "presumably this/that; apparently this X; in that way presumably [tentatively identified]",
+      "a certain / a particular; in a certain or particular way [identity presumably known to addressee but not to speaker]",
+      "a certain / a particular; in a certain or particular way [identity known to speaker but (potentially) not to addressee]"
+    ]
+  },
+  {
+    "name": "EXT",
+    "description": "Exactness/Comparability of Identity / Identity As a Standard",
+    "gradient_type": "A1",
+    "cs": "řḑ",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "not comparable to X / unlike X / inexact(ly)",
+      "not quite comparable to X / not nearly exact enough",
+      "nearly or almost that X; nearly or almost so",
+      "just about … / for all intents and purposes",
+      "such (a); in such a manner",
+      "comparable / comparably / good enough / well enough / sufficiently exact",
+      "just like that; just so, thus(ly)",
+      "a(n exact) copy/duplicate of X / an exact substitute for X",
+      "the exact X / the very (one); exactly thus / exactly so"
+    ]
+  },
+  {
+    "name": "AFR",
+    "description": "Degree of Assumed Familiarity/Recognition",
+    "gradient_type": "C",
+    "cs": "çř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "speaker assumes addressee does not know/recognize the reference",
+      "speaker assumes addressee may know but has forgotten the reference",
+      "speaker assumes addressee knows but has forgotten the reference",
+      "speaker assumes addressee knows but may have forgotten the reference",
+      "speaker assumes addressee knows/recognizes the reference",
+      "unknown whether addressee knows the referent; speaker will elucidate anyway",
+      "unknown whether addressee knows the referent; speaker willing to elucidate if requested",
+      "unknown whether addressee knows the referent; speaker will elucidate only reluctantly if pressed to do so or absolutely necessary",
+      "unknown whether addressee knows the referent; speaker unwilling to elucidate"
+    ]
+  },
+  {
+    "name": "FAM",
+    "description": "Degree Of Familiarity",
+    "gradient_type": "A1",
+    "cs": "rļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "unknowable / alien; unable to even try X-ing",
+      "totally unfamiliar, utterly strange; totally unaccustomed to X-ing",
+      "unfamiliar, strange; unaccustomed to X-ing",
+      "somewhat unfamiliar; somewhat unaccustomed to X-ing",
+      "just becoming familiar, just getting to know; just getting used to X-ing",
+      "somewhat familiar; somewhat accustomed to X-ing",
+      "familiar/known; accustomed to X-ing",
+      "well-known / utterly familiar with / ingrained; inherently accustomed or used to X-ing",
+      "intimate with; intimately involved with / intimately accustomed to"
+    ]
+  },
+  {
+    "name": "SIM",
+    "description": "Degree Of Similarity",
+    "gradient_type": "A1",
+    "cs": "rx",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "opposite; as different as possible / at the other extreme",
+      "completely different/dissimilar; in a totally different or dissimilar way",
+      "rather different / barely similar / almost completely different or dissimilar; in an almost completely different way",
+      "other [=different]; in another [=different] way",
+      "somewhat different, only superficially similar; somewhat differently",
+      "(somewhat) similar, only superficially different, sort of like, something like, X-like; similarly",
+      "similar in the ways that count/similar down deep, some sort of X; similarly at deep level",
+      "very similar; very similarly",
+      "[exactly the] same, indistinguishable from; in the [exactly] same way"
+    ]
+  }
 ]

@@ -1,458 +1,458 @@
 [
-    {
-        "name": "DGR",
-        "description": "Exactness of Degree",
-        "gradient_type": "A1",
-        "cs": "řk",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "unknowable degree or amount of",
-            "almost impossible to determine degree of",
-            "unknown degree or amount of",
-            "nowhere near the desired degree of",
-            "difficult to pinpoint/determine the degree or amount of",
-            "fluctuating, ever-changing (amount of); to changing/fluctuating degree or extent of",
-            "vaguely around / vaguely in the range of / somewhere around / loosely in the vicinity of",
-            "approximate(ly) / somewhere around / just about; or something like that / … or so",
-            "exact/specific, exactly / specifically / on the dot / sharp / to the letter"
-        ]
-    },
-    {
-        "name": "PTW",
-        "description": "Contiguous Portion of the Whole",
-        "gradient_type": "A1",
-        "cs": "rf",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "no amount of / none (of)",
-            "a very few / a tiny amount of / a tiny number of, only a tiny bit / a tiny bit",
-            "few / a little / a bit, a little / a bit",
-            "some, any [= some of] / some of or any of the / a portion; partially / to some extent",
-            "a fair number of / a fair amount of / pretty … / fairly … / rather / somewhat; more or less / to a fair extent",
-            "much / many / (such) a lot of / very / quite (a); quite; a lot / very much / to a large extent",
-            "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
-            "most of / mostly",
-            "every / all (of) / whole, entirely / in its entirety"
-        ]
-    },
-    {
-        "name": "PTT",
-        "description": "Non-Contiguous (i.e., Intermixed) Portion of the Whole",
-        "gradient_type": "A1",
-        "cs": "rţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "no amount of / none (of)",
-            "a very few / a tiny amount of / a tiny number of, only a tiny bit / a tiny bit",
-            "few / a little / a bit, a little / a bit",
-            "some, any [= some of] / some of or any of the / a portion; partially / to some extent",
-            "a fair number of / a fair amount of / pretty (+adj.) / fairly (+adj.) / rather / somewhat; more or less / to a fair extent",
-            "much / many / (such) a lot of / very / quite (a); quite /; a lot / very much / to a large extent",
-            "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
-            "most of / mostly",
-            "every / all (of) / whole, entirely / in its entirety"
-        ]
-    },
-    {
-        "name": "EXN",
-        "description": "Degree or Extent",
-        "gradient_type": "D1",
-        "cs": "g",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "not at all / completely lacking in … / none whatsoever / not … whatsoever",
-            "hardly at all / almost completely lacking in …",
-            "to a small degree",
-            "to a somewhat small degree / somewhat",
-            "to a moderate or average or usual degree / to a fair or normal degree",
-            "to a somewhat large degree / fairly much / more so than not",
-            "to a large degree",
-            "very much so / decidedly so / to a very large degree",
-            "to the exclusion of all else / without consideration for anything else"
-        ]
-    },
-    {
-        "name": "POR",
-        "description": "Portion or Section",
-        "gradient_type": "D1",
-        "cs": "ft",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "smallest possible portion/section/amount of a larger whole",
-            "extremely small portion/section/amount of a larger whole",
-            "small portion/section/amount of a larger whole",
-            "somewhat small portion/section/amount of a larger whole",
-            "a portion/section or amount of a larger whole",
-            "a significantly-sized portion/section/amount of a larger whole",
-            "half of X in terms of portion/amount or the size of a section",
-            "a majority-sized portion/section/amount of a whole",
-            "almost the entire portion/amount of a whole"
-        ]
-    },
-    {
-        "name": "INL",
-        "description": "Degree Of Inclusion",
-        "gradient_type": "A1",
-        "cs": "řt",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "not a(ny), not one, no X whatsoever, none of X; in no such manner",
-            "hardly any, barely any X; in hardly any such manner",
-            "some few / a few certain …; in a few certain ways",
-            "some (of) / certain …; in certain ways",
-            "several / more than a few / various / in various ways / in several different ways",
-            "a significant portion of / a fair number of; in a fair number of ways",
-            "most / in most ways",
-            "almost every; in almost every way",
-            "each/every; in each way"
-        ]
-    },
-    {
-        "name": "SUF",
-        "description": "Degree Of Sufficiency of Amount/Impact",
-        "gradient_type": "A1",
-        "cs": "rt",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "none at all; no … at all",
-            "way too little / woefully insufficient / way too few; not … anywhere enough / totally under-[+verb]",
-            "not enough / insufficient / too few; not … enough / insufficiently / under-[+verb]",
-            "not quite enough / slightly insufficient; not … quite enough / a bit insufficiently / slightly under-[+verb]",
-            "enough (of) / sufficient; enough / sufficiently",
-            "a little too / a little too much; a little too much / slightly over- [+verb]",
-            "too / too much; too much / too many / over- [+verb]",
-            "way too / way too much; way too much / totally over- [+verb]",
-            "inundated with; to the exclusion of all else / to the point that X overwhelms or takes over"
-        ]
-    },
-    {
-        "name": "EXD",
-        "description": "Dynamically Changing Degree or Extent",
-        "gradient_type": "D1",
-        "cs": "pţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "less and less / fewer and fewer / ongoing decrease in; decreasingly",
-            "a lot fewer / a lot less (of); a lot less",
-            "fewer / less (of); less",
-            "a little less (of) / a bit less (of); a little less / a bit less",
-            "a fluctuating amount or degree of; to a fluctuating degree or extent",
-            "a little more (of) / a bit more (of); a little more / a bit more",
-            "more (of); more",
-            "a lot more (of); a lot more",
-            "more and more / continuing increase in / increasingly more / ever-increasing"
-        ]
-    },
-    {
-        "name": "ESO",
-        "description": "Extent to Which Something Occurs",
-        "gradient_type": "A1",
-        "cs": "ršk",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "almost / nearly",
-            "hardly / barely",
-            "“just” = barely past or beyond some threshold or limit, e.g., ‘Widen the aperture until the cable “just” fits through.’",
-            "mere / only (a); merely / only / simply / nothing more than / … and nothing more, e.g., ‘It’s just a mouse, dear’, ‘I only/merely touched his arm’, ‘I just wanted to see her, nothing more.’",
-            "partially so; definitely on its way to being …",
-            "some sort of / some kind of / sort of (like) / “kind of”; in a way / halfway / does and doesn’t",
-            "tentative confirmation: it seems likely that … / it looks increasingly certain that …",
-            "provisional confirmation: it certainly appears that … / it looks to be certain that …",
-            "confirmative: it is confirmed that … / … can safely say that …"
-        ]
-    },
-    {
-        "name": "NPE",
-        "description": "Non-Relative Physical Extent",
-        "gradient_type": "0",
-        "cs": "cv",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "the extent/degree of X; the degree to which X is present",
-            "the availability of X; the extent/degree to which X is available",
-            "the influence of X; the extent/degree to which X is influential",
-            "the pervasiveness or prevalence of X; the extent/degree to which X pervades/imbues an area or situation or is prevalent",
-            "the amount of X; how much X there is, i.e., not on a relative scale [as with EXN, SUF, EXD] but rather a specific amount (e.g., 4 kg., 8 dollars, 2 liters, 5 cats, etc.)",
-            "the spatial extent/volume/reach/spread of X; the degree/amount to which X physically/tangibly extends, reaches or spreads",
-            "the (degree of) strength/power of X; X’s strength or power",
-            "the sufficiency of X; the degree/extent to which X suffices or adequately serves",
-            "the physical size of X; the amount of spatial volume taken up by X"
-        ]
-    },
-    {
-        "name": "TVP",
-        "description": "Trivalent Polarity (gradient values from -1 thru 0 to +1)",
-        "gradient_type": "D1",
-        "cs": "lḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "completely the opposite extreme, polar opposite of, to the utmost opposite/negative extreme, couldn’t be worse, totally backfired",
-            "much worse than if nothing had been done",
-            "worse than if nothing had been done",
-            "somewhat worse than none, a bit worse than if nothing had been done",
-            "absence of … / no … at all / neither one way or the other",
-            "to a small degree/extent/amount",
-            "to a fair degree/extent/amount",
-            "to a large degree/extent/amount",
-            "to the utmost positive extreme; to the greatest positive extent/amount/degree possible"
-        ]
-    },
-    {
-        "name": "PLT",
-        "description": "Pletive (i.e., relative amount compared to a standard or a previous or expected amount)",
-        "gradient_type": "D1",
-        "cs": "tļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "total absence of X (where X was never present to begin with)",
-            "total loss/absence of X (where X was previously present)",
-            "severe loss of X from previous level — near absence of X",
-            "X is a state of depletion — losing X, X in a state of being depleted",
-            "X at its usual/normal/expected level/amount/capacity",
-            "X is a state of repletion — filling up on X",
-            "renewed/restored abundance of X after having been (nearly) depleted",
-            "abundant X / an abundance of X, X at full amount/capacity",
-            "over-abundance of X, more X than needed or can be used"
-        ]
-    },
-    {
-        "name": "RCO",
-        "description": "Recoil in place (spring back; snap back; fall back into place)",
-        "gradient_type": "D2",
-        "cs": "zm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "recoil in place not enough",
-            "recoil in place hardly at all",
-            "recoil in place to a small degree",
-            "recoil in place less than normal",
-            "recoil in place to the nomal degree",
-            "recoil in place more than normal",
-            "recoil in place to a large degree",
-            "recoil in place to a very large degree",
-            "recoil in place too much"
-        ]
-    },
-    {
-        "name": "TFI",
-        "description": "Back & forth; to & fro in place (e.g., pendulum, wagging tail)",
-        "gradient_type": "D2",
-        "cs": "žm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "go back and forth not enough",
-            "go back and forth hardly at all",
-            "go back and forth to a small degree",
-            "go back and forth less than normal",
-            "go back and forth to the nomal degree",
-            "go back and forth more than normal",
-            "go back and forth to a large degree",
-            "go back and forth to a very large degree",
-            "go back and forth too much"
-        ]
-    },
-    {
-        "name": "CRI",
-        "description": "Cycle or circular motion in place (spin, revolve)",
-        "gradient_type": "D2",
-        "cs": "cm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "cycle in place too slowly",
-            "cycle in place very slowly",
-            "cycle in place slowly",
-            "cycle in place slower than normal",
-            "cycle in place at a normal speed",
-            "cycle in place faster than normal",
-            "cycle in place fast",
-            "cycle in place very fast",
-            "cycle in place too fast"
-        ]
-    },
-    {
-        "name": "CRV",
-        "description": "Cycle or circular motion over linear vector (e.g., train wheels, bike wheels)",
-        "gradient_type": "D2",
-        "cs": "ẓm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "roll not enough",
-            "roll hardly at all",
-            "roll to a small degree",
-            "roll less than normal",
-            "roll to the nomal degree",
-            "roll more than normal",
-            "roll to a large degree",
-            "roll to a very large degree",
-            "roll too much"
-        ]
-    },
-    {
-        "name": "MDL",
-        "description": "Random pattern of modulation (unpredictable/irregular)",
-        "gradient_type": "D2",
-        "cs": "jm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "randomly modulate not enough",
-            "randomly modulate hardly at all",
-            "randomly modulate to a small degree",
-            "randomly modulate less than normal",
-            "randomly modulate to the nomal degree",
-            "randomly modulate more than normal",
-            "randomly modulate to a large degree",
-            "randomly modulate to a very large degree",
-            "randomly modulate too much"
-        ]
-    },
-    {
-        "name": "ICR",
-        "description": "Increase",
-        "gradient_type": "D2",
-        "cs": "sx",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "increase too slowly",
-            "increase very slowly",
-            "increase slowly",
-            "increase slower than normal",
-            "increase at a normal speed",
-            "increase faster than normal",
-            "increase fast",
-            "increase very fast",
-            "increase too fast"
-        ]
-    },
-    {
-        "name": "DCR",
-        "description": "Decrease",
-        "gradient_type": "D2",
-        "cs": "bx",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "decrease too slowly",
-            "decrease very slowly",
-            "decrease slowly",
-            "decrease slower than normal",
-            "decrease at a normal speed",
-            "decrease faster than normal",
-            "decrease fast",
-            "decrease very fast",
-            "decrease too fast"
-        ]
-    },
-    {
-        "name": "ICD",
-        "description": "Increase then Decrease",
-        "gradient_type": "D2",
-        "cs": "šx",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "increase then decrease too slowly",
-            "increase then decrease very slowly",
-            "increase then decrease slowly",
-            "increase then decrease slower than normal",
-            "increase then decrease at a normal speed",
-            "increase then decrease faster than normal",
-            "increase then decrease fast",
-            "increase then decrease very fast",
-            "increase then decrease too fast"
-        ]
-    },
-    {
-        "name": "DCI",
-        "description": "Decrease then Increase",
-        "gradient_type": "D2",
-        "cs": "dx",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "decrease then increase too slowly",
-            "decrease then increase very slowly",
-            "decrease then increase slowly",
-            "decrease then increase slower than normal",
-            "decrease then increase at a normal speed",
-            "decrease then increase faster than normal",
-            "decrease then increase fast",
-            "decrease then increase very fast",
-            "decrease then increase too fast"
-        ]
-    },
-    {
-        "name": "IDR",
-        "description": "Random/Varying Increases and Decreases",
-        "gradient_type": "D2",
-        "cs": "jx",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "increase and decrease randomly too slowly",
-            "increase and decrease randomly very slowly",
-            "increase and decrease randomly slowly",
-            "increase and decrease randomly slower than normal",
-            "increase and decrease randomly at a normal speed",
-            "increase and decrease randomly faster than normal",
-            "increase and decrease randomly fast",
-            "increase and decrease randomly very fast",
-            "increase and decrease randomly too fast"
-        ]
-    },
-    {
-        "name": "FLS",
-        "description": "Degree of Fluctuation/Stability",
-        "gradient_type": "A2",
-        "cs": "mh",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "too unstable / too random",
-            "unstable / highly variable/random fluctuation or instability",
-            "moderately variable/random fluctuation or instability",
-            "increasing fluctuation or destabilization in pattern",
-            "tending toward fluctuations and periods of instability",
-            "decreasing fluctuation or instability in pattern = increasing stability",
-            "moderately stable and lacking in fluctuations",
-            "complete lack of fluctuation or instability; highly stable, steadfast",
-            "too stable"
-        ]
-    },
-    {
-        "name": "MVT",
-        "description": "Degree of Stillness/Movement",
-        "gradient_type": "A1",
-        "cs": "rg",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "unmovable – integrated",
-            "unmovable due to mass",
-            "not easily moved",
-            "inclined to stillness",
-            "holding still",
-            "moving around slightly, stirring",
-            "moving around in one place, active",
-            "moving around, agitated, very active",
-            "highly agitated, hyperactive, unable to keep still"
-        ]
-    }
+  {
+    "name": "DGR",
+    "description": "Exactness of Degree",
+    "gradient_type": "A1",
+    "cs": "řk",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "unknowable degree or amount of",
+      "almost impossible to determine degree of",
+      "unknown degree or amount of",
+      "nowhere near the desired degree of",
+      "difficult to pinpoint/determine the degree or amount of",
+      "fluctuating, ever-changing (amount of); to changing/fluctuating degree or extent of",
+      "vaguely around / vaguely in the range of / somewhere around / loosely in the vicinity of",
+      "approximate(ly) / somewhere around / just about; or something like that / … or so",
+      "exact/specific, exactly / specifically / on the dot / sharp / to the letter"
+    ]
+  },
+  {
+    "name": "PTW",
+    "description": "Contiguous Portion of the Whole",
+    "gradient_type": "A1",
+    "cs": "rf",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "no amount of / none (of)",
+      "a very few / a tiny amount of / a tiny number of, only a tiny bit / a tiny bit",
+      "few / a little / a bit, a little / a bit",
+      "some, any [= some of] / some of or any of the / a portion; partially / to some extent",
+      "a fair number of / a fair amount of / pretty … / fairly … / rather / somewhat; more or less / to a fair extent",
+      "much / many / (such) a lot of / very / quite (a); quite; a lot / very much / to a large extent",
+      "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
+      "most of / mostly",
+      "every / all (of) / whole, entirely / in its entirety"
+    ]
+  },
+  {
+    "name": "PTT",
+    "description": "Non-Contiguous (i.e., Intermixed) Portion of the Whole",
+    "gradient_type": "A1",
+    "cs": "rţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "no amount of / none (of)",
+      "a very few / a tiny amount of / a tiny number of, only a tiny bit / a tiny bit",
+      "few / a little / a bit, a little / a bit",
+      "some, any [= some of] / some of or any of the / a portion; partially / to some extent",
+      "a fair number of / a fair amount of / pretty (+adj.) / fairly (+adj.) / rather / somewhat; more or less / to a fair extent",
+      "much / many / (such) a lot of / very / quite (a); quite /; a lot / very much / to a large extent",
+      "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
+      "most of / mostly",
+      "every / all (of) / whole, entirely / in its entirety"
+    ]
+  },
+  {
+    "name": "EXN",
+    "description": "Degree or Extent",
+    "gradient_type": "D1",
+    "cs": "g",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "not at all / completely lacking in … / none whatsoever / not … whatsoever",
+      "hardly at all / almost completely lacking in …",
+      "to a small degree",
+      "to a somewhat small degree / somewhat",
+      "to a moderate or average or usual degree / to a fair or normal degree",
+      "to a somewhat large degree / fairly much / more so than not",
+      "to a large degree",
+      "very much so / decidedly so / to a very large degree",
+      "to the exclusion of all else / without consideration for anything else"
+    ]
+  },
+  {
+    "name": "POR",
+    "description": "Portion or Section",
+    "gradient_type": "D1",
+    "cs": "ft",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "smallest possible portion/section/amount of a larger whole",
+      "extremely small portion/section/amount of a larger whole",
+      "small portion/section/amount of a larger whole",
+      "somewhat small portion/section/amount of a larger whole",
+      "a portion/section or amount of a larger whole",
+      "a significantly-sized portion/section/amount of a larger whole",
+      "half of X in terms of portion/amount or the size of a section",
+      "a majority-sized portion/section/amount of a whole",
+      "almost the entire portion/amount of a whole"
+    ]
+  },
+  {
+    "name": "INL",
+    "description": "Degree Of Inclusion",
+    "gradient_type": "A1",
+    "cs": "řt",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "not a(ny), not one, no X whatsoever, none of X; in no such manner",
+      "hardly any, barely any X; in hardly any such manner",
+      "some few / a few certain …; in a few certain ways",
+      "some (of) / certain …; in certain ways",
+      "several / more than a few / various / in various ways / in several different ways",
+      "a significant portion of / a fair number of; in a fair number of ways",
+      "most / in most ways",
+      "almost every; in almost every way",
+      "each/every; in each way"
+    ]
+  },
+  {
+    "name": "SUF",
+    "description": "Degree Of Sufficiency of Amount/Impact",
+    "gradient_type": "A1",
+    "cs": "rt",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "none at all; no … at all",
+      "way too little / woefully insufficient / way too few; not … anywhere enough / totally under-[+verb]",
+      "not enough / insufficient / too few; not … enough / insufficiently / under-[+verb]",
+      "not quite enough / slightly insufficient; not … quite enough / a bit insufficiently / slightly under-[+verb]",
+      "enough (of) / sufficient; enough / sufficiently",
+      "a little too / a little too much; a little too much / slightly over- [+verb]",
+      "too / too much; too much / too many / over- [+verb]",
+      "way too / way too much; way too much / totally over- [+verb]",
+      "inundated with; to the exclusion of all else / to the point that X overwhelms or takes over"
+    ]
+  },
+  {
+    "name": "EXD",
+    "description": "Dynamically Changing Degree or Extent",
+    "gradient_type": "D1",
+    "cs": "pţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "less and less / fewer and fewer / ongoing decrease in; decreasingly",
+      "a lot fewer / a lot less (of); a lot less",
+      "fewer / less (of); less",
+      "a little less (of) / a bit less (of); a little less / a bit less",
+      "a fluctuating amount or degree of; to a fluctuating degree or extent",
+      "a little more (of) / a bit more (of); a little more / a bit more",
+      "more (of); more",
+      "a lot more (of); a lot more",
+      "more and more / continuing increase in / increasingly more / ever-increasing"
+    ]
+  },
+  {
+    "name": "ESO",
+    "description": "Extent to Which Something Occurs",
+    "gradient_type": "A1",
+    "cs": "ršk",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "almost / nearly",
+      "hardly / barely",
+      "“just” = barely past or beyond some threshold or limit, e.g., ‘Widen the aperture until the cable “just” fits through.’",
+      "mere / only (a); merely / only / simply / nothing more than / … and nothing more, e.g., ‘It’s just a mouse, dear’, ‘I only/merely touched his arm’, ‘I just wanted to see her, nothing more.’",
+      "partially so; definitely on its way to being …",
+      "some sort of / some kind of / sort of (like) / “kind of”; in a way / halfway / does and doesn’t",
+      "tentative confirmation: it seems likely that … / it looks increasingly certain that …",
+      "provisional confirmation: it certainly appears that … / it looks to be certain that …",
+      "confirmative: it is confirmed that … / … can safely say that …"
+    ]
+  },
+  {
+    "name": "NPE",
+    "description": "Non-Relative Physical Extent",
+    "gradient_type": "0",
+    "cs": "cv",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "the extent/degree of X; the degree to which X is present",
+      "the availability of X; the extent/degree to which X is available",
+      "the influence of X; the extent/degree to which X is influential",
+      "the pervasiveness or prevalence of X; the extent/degree to which X pervades/imbues an area or situation or is prevalent",
+      "the amount of X; how much X there is, i.e., not on a relative scale [as with EXN, SUF, EXD] but rather a specific amount (e.g., 4 kg., 8 dollars, 2 liters, 5 cats, etc.)",
+      "the spatial extent/volume/reach/spread of X; the degree/amount to which X physically/tangibly extends, reaches or spreads",
+      "the (degree of) strength/power of X; X’s strength or power",
+      "the sufficiency of X; the degree/extent to which X suffices or adequately serves",
+      "the physical size of X; the amount of spatial volume taken up by X"
+    ]
+  },
+  {
+    "name": "TVP",
+    "description": "Trivalent Polarity (gradient values from -1 thru 0 to +1)",
+    "gradient_type": "D1",
+    "cs": "lḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "completely the opposite extreme, polar opposite of, to the utmost opposite/negative extreme, couldn’t be worse, totally backfired",
+      "much worse than if nothing had been done",
+      "worse than if nothing had been done",
+      "somewhat worse than none, a bit worse than if nothing had been done",
+      "absence of … / no … at all / neither one way or the other",
+      "to a small degree/extent/amount",
+      "to a fair degree/extent/amount",
+      "to a large degree/extent/amount",
+      "to the utmost positive extreme; to the greatest positive extent/amount/degree possible"
+    ]
+  },
+  {
+    "name": "PLT",
+    "description": "Pletive (i.e., relative amount compared to a standard or a previous or expected amount)",
+    "gradient_type": "D1",
+    "cs": "tļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "total absence of X (where X was never present to begin with)",
+      "total loss/absence of X (where X was previously present)",
+      "severe loss of X from previous level — near absence of X",
+      "X is a state of depletion — losing X, X in a state of being depleted",
+      "X at its usual/normal/expected level/amount/capacity",
+      "X is a state of repletion — filling up on X",
+      "renewed/restored abundance of X after having been (nearly) depleted",
+      "abundant X / an abundance of X, X at full amount/capacity",
+      "over-abundance of X, more X than needed or can be used"
+    ]
+  },
+  {
+    "name": "RCO",
+    "description": "Recoil in place (spring back; snap back; fall back into place)",
+    "gradient_type": "D2",
+    "cs": "zm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "recoil in place not enough",
+      "recoil in place hardly at all",
+      "recoil in place to a small degree",
+      "recoil in place less than normal",
+      "recoil in place to the nomal degree",
+      "recoil in place more than normal",
+      "recoil in place to a large degree",
+      "recoil in place to a very large degree",
+      "recoil in place too much"
+    ]
+  },
+  {
+    "name": "TFI",
+    "description": "Back & forth; to & fro in place (e.g., pendulum, wagging tail)",
+    "gradient_type": "D2",
+    "cs": "žm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "go back and forth not enough",
+      "go back and forth hardly at all",
+      "go back and forth to a small degree",
+      "go back and forth less than normal",
+      "go back and forth to the nomal degree",
+      "go back and forth more than normal",
+      "go back and forth to a large degree",
+      "go back and forth to a very large degree",
+      "go back and forth too much"
+    ]
+  },
+  {
+    "name": "CRI",
+    "description": "Cycle or circular motion in place (spin, revolve)",
+    "gradient_type": "D2",
+    "cs": "cm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "cycle in place too slowly",
+      "cycle in place very slowly",
+      "cycle in place slowly",
+      "cycle in place slower than normal",
+      "cycle in place at a normal speed",
+      "cycle in place faster than normal",
+      "cycle in place fast",
+      "cycle in place very fast",
+      "cycle in place too fast"
+    ]
+  },
+  {
+    "name": "CRV",
+    "description": "Cycle or circular motion over linear vector (e.g., train wheels, bike wheels)",
+    "gradient_type": "D2",
+    "cs": "ẓm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "roll not enough",
+      "roll hardly at all",
+      "roll to a small degree",
+      "roll less than normal",
+      "roll to the nomal degree",
+      "roll more than normal",
+      "roll to a large degree",
+      "roll to a very large degree",
+      "roll too much"
+    ]
+  },
+  {
+    "name": "MDL",
+    "description": "Random pattern of modulation (unpredictable/irregular)",
+    "gradient_type": "D2",
+    "cs": "jm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "randomly modulate not enough",
+      "randomly modulate hardly at all",
+      "randomly modulate to a small degree",
+      "randomly modulate less than normal",
+      "randomly modulate to the nomal degree",
+      "randomly modulate more than normal",
+      "randomly modulate to a large degree",
+      "randomly modulate to a very large degree",
+      "randomly modulate too much"
+    ]
+  },
+  {
+    "name": "ICR",
+    "description": "Increase",
+    "gradient_type": "D2",
+    "cs": "sx",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "increase too slowly",
+      "increase very slowly",
+      "increase slowly",
+      "increase slower than normal",
+      "increase at a normal speed",
+      "increase faster than normal",
+      "increase fast",
+      "increase very fast",
+      "increase too fast"
+    ]
+  },
+  {
+    "name": "DCR",
+    "description": "Decrease",
+    "gradient_type": "D2",
+    "cs": "bx",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "decrease too slowly",
+      "decrease very slowly",
+      "decrease slowly",
+      "decrease slower than normal",
+      "decrease at a normal speed",
+      "decrease faster than normal",
+      "decrease fast",
+      "decrease very fast",
+      "decrease too fast"
+    ]
+  },
+  {
+    "name": "ICD",
+    "description": "Increase then Decrease",
+    "gradient_type": "D2",
+    "cs": "šx",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "increase then decrease too slowly",
+      "increase then decrease very slowly",
+      "increase then decrease slowly",
+      "increase then decrease slower than normal",
+      "increase then decrease at a normal speed",
+      "increase then decrease faster than normal",
+      "increase then decrease fast",
+      "increase then decrease very fast",
+      "increase then decrease too fast"
+    ]
+  },
+  {
+    "name": "DCI",
+    "description": "Decrease then Increase",
+    "gradient_type": "D2",
+    "cs": "dx",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "decrease then increase too slowly",
+      "decrease then increase very slowly",
+      "decrease then increase slowly",
+      "decrease then increase slower than normal",
+      "decrease then increase at a normal speed",
+      "decrease then increase faster than normal",
+      "decrease then increase fast",
+      "decrease then increase very fast",
+      "decrease then increase too fast"
+    ]
+  },
+  {
+    "name": "IDR",
+    "description": "Random/Varying Increases and Decreases",
+    "gradient_type": "D2",
+    "cs": "jx",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "increase and decrease randomly too slowly",
+      "increase and decrease randomly very slowly",
+      "increase and decrease randomly slowly",
+      "increase and decrease randomly slower than normal",
+      "increase and decrease randomly at a normal speed",
+      "increase and decrease randomly faster than normal",
+      "increase and decrease randomly fast",
+      "increase and decrease randomly very fast",
+      "increase and decrease randomly too fast"
+    ]
+  },
+  {
+    "name": "FLS",
+    "description": "Degree of Fluctuation/Stability",
+    "gradient_type": "A2",
+    "cs": "mh",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "too unstable / too random",
+      "unstable / highly variable/random fluctuation or instability",
+      "moderately variable/random fluctuation or instability",
+      "increasing fluctuation or destabilization in pattern",
+      "tending toward fluctuations and periods of instability",
+      "decreasing fluctuation or instability in pattern = increasing stability",
+      "moderately stable and lacking in fluctuations",
+      "complete lack of fluctuation or instability; highly stable, steadfast",
+      "too stable"
+    ]
+  },
+  {
+    "name": "MVT",
+    "description": "Degree of Stillness/Movement",
+    "gradient_type": "A1",
+    "cs": "rg",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "unmovable – integrated",
+      "unmovable due to mass",
+      "not easily moved",
+      "inclined to stillness",
+      "holding still",
+      "moving around slightly, stirring",
+      "moving around in one place, active",
+      "moving around, agitated, very active",
+      "highly agitated, hyperactive, unable to keep still"
+    ]
+  }
 ]

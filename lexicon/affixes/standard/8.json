@@ -1,192 +1,192 @@
 [
-    {
-        "name": "CNS",
-        "description": "Degree of Consent",
-        "gradient_type": "A1",
-        "cs": "řs",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "deliberately against the expressed wishes/will of the affected party",
-            "without the affected party’s knowledge and against their implied/presumed wishes/will",
-            "without the consent or knowledge of the affected party [their expressed or implied wishes/will being unknown or undetermined]",
-            "with the affected party’s knowledge but without their consent",
-            "with the affected party’s consent obtained under pressure, threat, coercion",
-            "with the affected party’s reluctant consent",
-            "with the affected party’s full consent, willingly",
-            "with the affected party’s enthusiastic approval and support",
-            "by request of the affected party"
-        ]
-    },
-    {
-        "name": "RSN",
-        "description": "Reason for an Emotional State or Motivation for an Action",
-        "gradient_type": "0",
-        "cs": "cb",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "for no reason",
-            "for foolish/naïve reason",
-            "out of curiosity",
-            "in defense/for protection",
-            "to provoke/elicit reaction",
-            "to entice",
-            "to show appreciation",
-            "for good/appropriate reason",
-            "for virtuous reason"
-        ]
-    },
-    {
-        "name": "MTA",
-        "description": "Negative Motivation for an Action or State",
-        "gradient_type": "0",
-        "cs": "sč",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "for nefarious or perverse reasons",
-            "in fear",
-            "in anger",
-            "in irritation",
-            "in repugnance/revulsion",
-            "due to or based on faulty perception or misinterpretation of information or evidence",
-            "due to faulty information provided by another [no deception intended]",
-            "due to deception by another",
-            "despite negative circumstances or reasons not to"
-        ]
-    },
-    {
-        "name": "DLB",
-        "description": "Degree of Deliberateness/Agency",
-        "gradient_type": "A1",
-        "cs": "rj",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "accidental(ly) / inadvertent(ly) and unaware of consequences",
-            "unintended / unintentional(ly) / without meaning to and unaware of consequences",
-            "accidental(ly) / inadvertent(ly) but now aware of consequences",
-            "unintended / unintentional(ly) / without meaning to but now aware of consequences",
-            "unforeseeable(y) / unpredictable(y)",
-            "without realizing or considering potential consequences",
-            "thinking one can get away without reaping consequences / furtive(ly)",
-            "realizing potential risks or consequences / cognizant of potential risks or consequences",
-            "intentional(ly) / deliberate(ly) / on purpose / by choice; choose to"
-        ]
-    },
-    {
-        "name": "XPT",
-        "description": "Expectation of Outcome",
-        "gradient_type": "A1",
-        "cs": "řš",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "shockingly unexpected; without precedent or rumour",
-            "surprise X / unexpected X; completely by surprise /  completely unexpected(ly)",
-            "manage to X despite inadequacy of preparation or effort; harder than thought to be due to poor planning and / or execution",
-            "manage to X despite underestimating hindrances or obstacles; harder than initially thought to be",
-            "managed to X despite hindrance(s) or obstacles; hard-won",
-            "manage to X due to hindrances or obstacles being overestimated; easier than thought to be",
-            "manage to X due to excellent preparation / planning / execution",
-            "completely as expected / totally as anticipated / as predicted",
-            "pat; outcome pre-ordained or predetermined"
-        ]
-    },
-    {
-        "name": "MOT",
-        "description": "Degree of Self-Conscious Deliberation or Motivation",
-        "gradient_type": "A1",
-        "cs": "řz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "affected, ostentatious; affectedly/ostentatiously",
-            "self-conscious(ly)",
-            "guilty/guiltily",
-            "less-than-willingly; doing so out of sense of duty/honor/shame only",
-            "against better judgement / can’t help but / can’t help it",
-            "ingrained, by upbringing",
-            "learned / habitual; by habit / trained to",
-            "natural(ly) / un-self-conscious(ly)",
-            "autonomic / unaware, automatic"
-        ]
-    },
-    {
-        "name": "AGN",
-        "description": "Degree of Agency, Intent or Effectiveness",
-        "gradient_type": "C",
-        "cs": "nř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "with the anticipated max. resulting effect possible",
-            "with the anticipated resulting effect to a high degree",
-            "with the anticipated resulting effect to a moderate degree",
-            "with the anticipated resulting effect but only to a marginal, superficial or barely noticeable degree",
-            "with no noticeable effect or resulting change",
-            "with only marginal, superficial, or barely noticeable effect or resulting change unanticipated",
-            "with moderate effect or resulting change — unanticipated",
-            "with the resulting effect to a high degree — unanticipated",
-            "with the max. resulting effect possible — unanticipated"
-        ]
-    },
-    {
-        "name": "IMP",
-        "description": "Degree of Impact on Patient/Target or Enablement of Outcome",
-        "gradient_type": "A1",
-        "cs": "řň",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "target can do nothing - utterly inevitable",
-            "target chooses to do nothing - resigned to fate",
-            "target tries to prevent/avoid but fails",
-            "target tries to prevent/avoid and does so partially or mitigates impact somewhat",
-            "target tries to prevent/avoid and succeeds",
-            "target helps/enables outcome inadvertently",
-            "target helps/enables outcome against own interest (i.e., without thinking)",
-            "target helps/enables outcome intentionally despite negative consequences",
-            "target helps/enables outcome intentionally for own benefit"
-        ]
-    },
-    {
-        "name": "LET",
-        "description": "‘to let X be/happen/manifest …’",
-        "gradient_type": "0",
-        "cs": "kč",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "by deliberate inaction, not doing anything to prevent/stop it",
-            "by acting against one’s own interests",
-            "by deliberately inadequate preventative measures",
-            "by removal of hindrance/blockage, cessation of preventative measure",
-            "by one’s granting of permission",
-            "by unwitting/unknowing inaction, unwittingly not doing anything to prevent/stop it",
-            "by inadvertently/accidentally/unwittingly inadequate preventative measures",
-            "by underestimating, misjudging, failing to anticipate the situation leading to inadequate preventative measures",
-            "despite attempting to prevent it"
-        ]
-    },
-    {
-        "name": "CHC",
-        "description": "Degree of Choice by Externally-Induced Agent (operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled (i.e., EFFECTUATIVE) act, rather than the Patient of an agential act",
-        "gradient_type": "A1",
-        "cs": "rz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "party made/induced by another party/force/situation to initiate an state/act/event - can do nothing to stop it, initiation is inevitable",
-            "party made/induced by another party/force/situation to initiate an state/act/event - chooses to acquiesce due to being okay with, or indifferent as to outcome",
-            "party made/induced by another party/force/situation to initiate an state/act/event - tries to prevent/avoid but fails",
-            "party made/induced by another party/force/situation to initiate an state/act/event - tries to avoid and partially succeeds/mitigates impact",
-            "party made/induced by another party/force/situation to initiate an state/act/event - tries to prevent/avoid and succeeds",
-            "party made/induced by another party/force/situation to initiate an state/act/event - inadvertently helps/enables outcome",
-            "party made/induced by another party/force/situation to initiate an state/act/event - acquiesces/helps/enables outcome against own interest w/o thinking",
-            "party made/induced by another party/force/situation to initiate an state/act/event - intentionally acquiesces/helps/enables outcome consciously against own interest",
-            "party made/induced by another party/force/situation to initiate an state/act/event - intentionally acquiesces/helps/enables outcome for own benefit"
-        ]
-    }
+  {
+    "name": "CNS",
+    "description": "Degree of Consent",
+    "gradient_type": "A1",
+    "cs": "řs",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "deliberately against the expressed wishes/will of the affected party",
+      "without the affected party’s knowledge and against their implied/presumed wishes/will",
+      "without the consent or knowledge of the affected party [their expressed or implied wishes/will being unknown or undetermined]",
+      "with the affected party’s knowledge but without their consent",
+      "with the affected party’s consent obtained under pressure, threat, coercion",
+      "with the affected party’s reluctant consent",
+      "with the affected party’s full consent, willingly",
+      "with the affected party’s enthusiastic approval and support",
+      "by request of the affected party"
+    ]
+  },
+  {
+    "name": "RSN",
+    "description": "Reason for an Emotional State or Motivation for an Action",
+    "gradient_type": "0",
+    "cs": "cb",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "for no reason",
+      "for foolish/naïve reason",
+      "out of curiosity",
+      "in defense/for protection",
+      "to provoke/elicit reaction",
+      "to entice",
+      "to show appreciation",
+      "for good/appropriate reason",
+      "for virtuous reason"
+    ]
+  },
+  {
+    "name": "MTA",
+    "description": "Negative Motivation for an Action or State",
+    "gradient_type": "0",
+    "cs": "sč",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "for nefarious or perverse reasons",
+      "in fear",
+      "in anger",
+      "in irritation",
+      "in repugnance/revulsion",
+      "due to or based on faulty perception or misinterpretation of information or evidence",
+      "due to faulty information provided by another [no deception intended]",
+      "due to deception by another",
+      "despite negative circumstances or reasons not to"
+    ]
+  },
+  {
+    "name": "DLB",
+    "description": "Degree of Deliberateness/Agency",
+    "gradient_type": "A1",
+    "cs": "rj",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "accidental(ly) / inadvertent(ly) and unaware of consequences",
+      "unintended / unintentional(ly) / without meaning to and unaware of consequences",
+      "accidental(ly) / inadvertent(ly) but now aware of consequences",
+      "unintended / unintentional(ly) / without meaning to but now aware of consequences",
+      "unforeseeable(y) / unpredictable(y)",
+      "without realizing or considering potential consequences",
+      "thinking one can get away without reaping consequences / furtive(ly)",
+      "realizing potential risks or consequences / cognizant of potential risks or consequences",
+      "intentional(ly) / deliberate(ly) / on purpose / by choice; choose to"
+    ]
+  },
+  {
+    "name": "XPT",
+    "description": "Expectation of Outcome",
+    "gradient_type": "A1",
+    "cs": "řš",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "shockingly unexpected; without precedent or rumour",
+      "surprise X / unexpected X; completely by surprise /  completely unexpected(ly)",
+      "manage to X despite inadequacy of preparation or effort; harder than thought to be due to poor planning and / or execution",
+      "manage to X despite underestimating hindrances or obstacles; harder than initially thought to be",
+      "managed to X despite hindrance(s) or obstacles; hard-won",
+      "manage to X due to hindrances or obstacles being overestimated; easier than thought to be",
+      "manage to X due to excellent preparation / planning / execution",
+      "completely as expected / totally as anticipated / as predicted",
+      "pat; outcome pre-ordained or predetermined"
+    ]
+  },
+  {
+    "name": "MOT",
+    "description": "Degree of Self-Conscious Deliberation or Motivation",
+    "gradient_type": "A1",
+    "cs": "řz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "affected, ostentatious; affectedly/ostentatiously",
+      "self-conscious(ly)",
+      "guilty/guiltily",
+      "less-than-willingly; doing so out of sense of duty/honor/shame only",
+      "against better judgement / can’t help but / can’t help it",
+      "ingrained, by upbringing",
+      "learned / habitual; by habit / trained to",
+      "natural(ly) / un-self-conscious(ly)",
+      "autonomic / unaware, automatic"
+    ]
+  },
+  {
+    "name": "AGN",
+    "description": "Degree of Agency, Intent or Effectiveness",
+    "gradient_type": "C",
+    "cs": "nř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with the anticipated max. resulting effect possible",
+      "with the anticipated resulting effect to a high degree",
+      "with the anticipated resulting effect to a moderate degree",
+      "with the anticipated resulting effect but only to a marginal, superficial or barely noticeable degree",
+      "with no noticeable effect or resulting change",
+      "with only marginal, superficial, or barely noticeable effect or resulting change unanticipated",
+      "with moderate effect or resulting change — unanticipated",
+      "with the resulting effect to a high degree — unanticipated",
+      "with the max. resulting effect possible — unanticipated"
+    ]
+  },
+  {
+    "name": "IMP",
+    "description": "Degree of Impact on Patient/Target or Enablement of Outcome",
+    "gradient_type": "A1",
+    "cs": "řň",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "target can do nothing - utterly inevitable",
+      "target chooses to do nothing - resigned to fate",
+      "target tries to prevent/avoid but fails",
+      "target tries to prevent/avoid and does so partially or mitigates impact somewhat",
+      "target tries to prevent/avoid and succeeds",
+      "target helps/enables outcome inadvertently",
+      "target helps/enables outcome against own interest (i.e., without thinking)",
+      "target helps/enables outcome intentionally despite negative consequences",
+      "target helps/enables outcome intentionally for own benefit"
+    ]
+  },
+  {
+    "name": "LET",
+    "description": "‘to let X be/happen/manifest …’",
+    "gradient_type": "0",
+    "cs": "kč",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "by deliberate inaction, not doing anything to prevent/stop it",
+      "by acting against one’s own interests",
+      "by deliberately inadequate preventative measures",
+      "by removal of hindrance/blockage, cessation of preventative measure",
+      "by one’s granting of permission",
+      "by unwitting/unknowing inaction, unwittingly not doing anything to prevent/stop it",
+      "by inadvertently/accidentally/unwittingly inadequate preventative measures",
+      "by underestimating, misjudging, failing to anticipate the situation leading to inadequate preventative measures",
+      "despite attempting to prevent it"
+    ]
+  },
+  {
+    "name": "CHC",
+    "description": "Degree of Choice by Externally-Induced Agent (operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled (i.e., EFFECTUATIVE) act, rather than the Patient of an agential act",
+    "gradient_type": "A1",
+    "cs": "rz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "party made/induced by another party/force/situation to initiate an state/act/event - can do nothing to stop it, initiation is inevitable",
+      "party made/induced by another party/force/situation to initiate an state/act/event - chooses to acquiesce due to being okay with, or indifferent as to outcome",
+      "party made/induced by another party/force/situation to initiate an state/act/event - tries to prevent/avoid but fails",
+      "party made/induced by another party/force/situation to initiate an state/act/event - tries to avoid and partially succeeds/mitigates impact",
+      "party made/induced by another party/force/situation to initiate an state/act/event - tries to prevent/avoid and succeeds",
+      "party made/induced by another party/force/situation to initiate an state/act/event - inadvertently helps/enables outcome",
+      "party made/induced by another party/force/situation to initiate an state/act/event - acquiesces/helps/enables outcome against own interest w/o thinking",
+      "party made/induced by another party/force/situation to initiate an state/act/event - intentionally acquiesces/helps/enables outcome consciously against own interest",
+      "party made/induced by another party/force/situation to initiate an state/act/event - intentionally acquiesces/helps/enables outcome for own benefit"
+    ]
+  }
 ]

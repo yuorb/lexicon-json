@@ -1,17 +1,17 @@
 [
-    {
-        "root": "ÇM",
-        "refers": "AFFECTIVE STATE",
-        "stems": [
-            {
-                "BSC": "(to be in) a non-volitional (affective) state (both internal, psychological manifestations and external, visible manifestations)",
-                "CTE": "(to be) the internal psychological, and proprioceptive sensation of being in such a state; to experience such manifestations",
-                "CSV": "(to be) the “look” of being in such a state. i.e., the outward (visible or externally discernible) manifestation of being an affective state; to have the “look” of, (i.e., outwardly manifest the signs of) being in an emotional state",
-                "OBJ": "(to be) the act/event/situation/circumstance(s) which trigger or give rise to an affective state"
-            },
-            "[same as Stem 1 except that the affective state is specifically a non-volitional emotional state]",
-            "[same as Stem 1 except that the affective state is specifically a non-volitional physical/bodily (i.e., non-psychological state), e.g., being hot/cold, coughing, sneezing, fainting, sleepy/tired, hungry, etc.]"
-        ],
-        "notes": "In addition to the over 100 emotion roots, the EMO affix allows for the creation of emotional states associated with any semantically appropriate stem. Several of the more complex or obscure emotion roots from Ithkuil are instead lexicalized in this language using the EMO affix."
-    }
+  {
+    "root": "ÇM",
+    "refers": "AFFECTIVE STATE",
+    "stems": [
+      {
+        "BSC": "(to be in) a non-volitional (affective) state (both internal, psychological manifestations and external, visible manifestations)",
+        "CTE": "(to be) the internal psychological, and proprioceptive sensation of being in such a state; to experience such manifestations",
+        "CSV": "(to be) the “look” of being in such a state. i.e., the outward (visible or externally discernible) manifestation of being an affective state; to have the “look” of, (i.e., outwardly manifest the signs of) being in an emotional state",
+        "OBJ": "(to be) the act/event/situation/circumstance(s) which trigger or give rise to an affective state"
+      },
+      "[same as Stem 1 except that the affective state is specifically a non-volitional emotional state]",
+      "[same as Stem 1 except that the affective state is specifically a non-volitional physical/bodily (i.e., non-psychological state), e.g., being hot/cold, coughing, sneezing, fainting, sleepy/tired, hungry, etc.]"
+    ],
+    "notes": "In addition to the over 100 emotion roots, the EMO affix allows for the creation of emotional states associated with any semantically appropriate stem. Several of the more complex or obscure emotion roots from Ithkuil are instead lexicalized in this language using the EMO affix."
+  }
 ]

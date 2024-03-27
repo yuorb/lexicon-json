@@ -1,252 +1,252 @@
 [
-    {
-        "root": "KSMW",
-        "refers": "stove",
-        "notes": "- **BSC**: (to be) an act/process of using from an electronic device\n- **CTE**: (to be) the desired state/situation/improvement to be achieved by use of an electronic device CPT = to be the resulting state thereof\n- **CSV**: (to be) an act of physically interacting with/using an electronic device\n- **OBJ**: (to be) the actual electronic device being used"
-    },
-    {
-        "root": "KSMY",
-        "refers": "oven",
-        "see": "KSMW"
-    },
-    {
-        "root": "KSC",
-        "refers": "refrigerator",
-        "see": "KSMW"
-    },
-    {
-        "root": "KSČ",
-        "refers": "freezer",
-        "see": "KSMW"
-    },
-    {
-        "root": "LVB",
-        "refers": "washing machine",
-        "see": "KSMW"
-    },
-    {
-        "root": "LVD",
-        "refers": "clothes dryer",
-        "see": "KSMW"
-    },
-    {
-        "root": "MŽK",
-        "refers": "air conditioner",
-        "see": "KSMW"
-    },
-    {
-        "root": "MŽX",
-        "refers": "air purifier",
-        "see": "KSMW"
-    },
-    {
-        "root": "JJW",
-        "refers": "blender",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŢCW",
-        "refers": "calculator",
-        "see": "KSMW"
-    },
-    {
-        "root": "PÇM",
-        "refers": "coffee maker",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŢMY",
-        "refers": "doorbell camera",
-        "see": "KSMW"
-    },
-    {
-        "root": "ẒKW",
-        "refers": "telephone",
-        "see": "KSMW"
-    },
-    {
-        "root": "ẒKL",
-        "refers": "smartphone",
-        "see": "KSMW"
-    },
-    {
-        "root": "ẒKR",
-        "refers": "digital tablet/pad",
-        "see": "KSMW"
-    },
-    {
-        "root": "ČNW",
-        "refers": "clock",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŠDR",
-        "refers": "DVD player",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŠDL",
-        "refers": "CD player",
-        "see": "KSMW"
-    },
-    {
-        "root": "LÇN",
-        "refers": "charging unit for electronic device",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŢNW",
-        "refers": "curling iron",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŢNY",
-        "refers": "hair dryer",
-        "see": "KSMW"
-    },
-    {
-        "root": "GPĻ",
-        "refers": "earphones/headphones",
-        "see": "KSMW"
-    },
-    {
-        "root": "TFW",
-        "refers": "video game controller",
-        "see": "KSMW"
-    },
-    {
-        "root": "TFR",
-        "refers": "garage door opener",
-        "see": "KSMW"
-    },
-    {
-        "root": "ČČW",
-        "refers": "lawn mower",
-        "see": "KSMW"
-    },
-    {
-        "root": "RČT",
-        "refers": "inkjet/laser printer",
-        "see": "KSMW"
-    },
-    {
-        "root": "RČTW",
-        "refers": "photocopier",
-        "see": "KSMW"
-    },
-    {
-        "root": "RČTY",
-        "refers": "scanner",
-        "see": "KSMW"
-    },
-    {
-        "root": "RČTR",
-        "refers": "FAX machine",
-        "see": "KSMW"
-    },
-    {
-        "root": "RČTF",
-        "refers": "3-D printer",
-        "see": "KSMW"
-    },
-    {
-        "root": "LCŘ",
-        "refers": "mp3 player",
-        "see": "KSMW"
-    },
-    {
-        "root": "KŠČ",
-        "refers": "remote control",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŢČW",
-        "refers": "generator",
-        "see": "KSMW"
-    },
-    {
-        "root": "KÇP",
-        "refers": "rice cooker",
-        "see": "KSMW"
-    },
-    {
-        "root": "KÇPL",
-        "refers": "pressure cooker",
-        "see": "KSMW"
-    },
-    {
-        "root": "KÇPR",
-        "refers": "crockpot",
-        "see": "KSMW"
-    },
-    {
-        "root": "KÇPW",
-        "refers": "microwave cooker",
-        "see": "KSMW"
-    },
-    {
-        "root": "LČR",
-        "refers": "toaster",
-        "see": "KSMW"
-    },
-    {
-        "root": "FGY",
-        "refers": "water pump",
-        "see": "KSMW"
-    },
-    {
-        "root": "CCW",
-        "refers": "sewing machine",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŠČW",
-        "refers": "bathroom scale",
-        "see": "KSMW"
-    },
-    {
-        "root": "PÇN",
-        "refers": "juicer",
-        "see": "KSMW"
-    },
-    {
-        "root": "LPH",
-        "refers": "vacuum cleaner",
-        "see": "KSMW"
-    },
-    {
-        "root": "FGL",
-        "refers": "water heater",
-        "see": "KSMW"
-    },
-    {
-        "root": "FGR",
-        "refers": "heating unit / radiator",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŠDW",
-        "refers": "stereo receiver",
-        "see": "KSMW"
-    },
-    {
-        "root": "ŠDY",
-        "refers": "stereo speaker",
-        "see": "KSMW"
-    },
-    {
-        "root": "FGW",
-        "refers": "water purifier",
-        "see": "KSMW"
-    },
-    {
-        "root": "DBY",
-        "refers": "flashlight",
-        "see": "KSMW"
-    },
-    {
-        "root": "CBW",
-        "refers": "memory stick/flash memory unit",
-        "see": "KSMW"
-    }
+  {
+    "root": "KSMW",
+    "refers": "stove",
+    "notes": "- **BSC**: (to be) an act/process of using from an electronic device\n- **CTE**: (to be) the desired state/situation/improvement to be achieved by use of an electronic device CPT = to be the resulting state thereof\n- **CSV**: (to be) an act of physically interacting with/using an electronic device\n- **OBJ**: (to be) the actual electronic device being used"
+  },
+  {
+    "root": "KSMY",
+    "refers": "oven",
+    "see": "KSMW"
+  },
+  {
+    "root": "KSC",
+    "refers": "refrigerator",
+    "see": "KSMW"
+  },
+  {
+    "root": "KSČ",
+    "refers": "freezer",
+    "see": "KSMW"
+  },
+  {
+    "root": "LVB",
+    "refers": "washing machine",
+    "see": "KSMW"
+  },
+  {
+    "root": "LVD",
+    "refers": "clothes dryer",
+    "see": "KSMW"
+  },
+  {
+    "root": "MŽK",
+    "refers": "air conditioner",
+    "see": "KSMW"
+  },
+  {
+    "root": "MŽX",
+    "refers": "air purifier",
+    "see": "KSMW"
+  },
+  {
+    "root": "JJW",
+    "refers": "blender",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŢCW",
+    "refers": "calculator",
+    "see": "KSMW"
+  },
+  {
+    "root": "PÇM",
+    "refers": "coffee maker",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŢMY",
+    "refers": "doorbell camera",
+    "see": "KSMW"
+  },
+  {
+    "root": "ẒKW",
+    "refers": "telephone",
+    "see": "KSMW"
+  },
+  {
+    "root": "ẒKL",
+    "refers": "smartphone",
+    "see": "KSMW"
+  },
+  {
+    "root": "ẒKR",
+    "refers": "digital tablet/pad",
+    "see": "KSMW"
+  },
+  {
+    "root": "ČNW",
+    "refers": "clock",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŠDR",
+    "refers": "DVD player",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŠDL",
+    "refers": "CD player",
+    "see": "KSMW"
+  },
+  {
+    "root": "LÇN",
+    "refers": "charging unit for electronic device",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŢNW",
+    "refers": "curling iron",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŢNY",
+    "refers": "hair dryer",
+    "see": "KSMW"
+  },
+  {
+    "root": "GPĻ",
+    "refers": "earphones/headphones",
+    "see": "KSMW"
+  },
+  {
+    "root": "TFW",
+    "refers": "video game controller",
+    "see": "KSMW"
+  },
+  {
+    "root": "TFR",
+    "refers": "garage door opener",
+    "see": "KSMW"
+  },
+  {
+    "root": "ČČW",
+    "refers": "lawn mower",
+    "see": "KSMW"
+  },
+  {
+    "root": "RČT",
+    "refers": "inkjet/laser printer",
+    "see": "KSMW"
+  },
+  {
+    "root": "RČTW",
+    "refers": "photocopier",
+    "see": "KSMW"
+  },
+  {
+    "root": "RČTY",
+    "refers": "scanner",
+    "see": "KSMW"
+  },
+  {
+    "root": "RČTR",
+    "refers": "FAX machine",
+    "see": "KSMW"
+  },
+  {
+    "root": "RČTF",
+    "refers": "3-D printer",
+    "see": "KSMW"
+  },
+  {
+    "root": "LCŘ",
+    "refers": "mp3 player",
+    "see": "KSMW"
+  },
+  {
+    "root": "KŠČ",
+    "refers": "remote control",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŢČW",
+    "refers": "generator",
+    "see": "KSMW"
+  },
+  {
+    "root": "KÇP",
+    "refers": "rice cooker",
+    "see": "KSMW"
+  },
+  {
+    "root": "KÇPL",
+    "refers": "pressure cooker",
+    "see": "KSMW"
+  },
+  {
+    "root": "KÇPR",
+    "refers": "crockpot",
+    "see": "KSMW"
+  },
+  {
+    "root": "KÇPW",
+    "refers": "microwave cooker",
+    "see": "KSMW"
+  },
+  {
+    "root": "LČR",
+    "refers": "toaster",
+    "see": "KSMW"
+  },
+  {
+    "root": "FGY",
+    "refers": "water pump",
+    "see": "KSMW"
+  },
+  {
+    "root": "CCW",
+    "refers": "sewing machine",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŠČW",
+    "refers": "bathroom scale",
+    "see": "KSMW"
+  },
+  {
+    "root": "PÇN",
+    "refers": "juicer",
+    "see": "KSMW"
+  },
+  {
+    "root": "LPH",
+    "refers": "vacuum cleaner",
+    "see": "KSMW"
+  },
+  {
+    "root": "FGL",
+    "refers": "water heater",
+    "see": "KSMW"
+  },
+  {
+    "root": "FGR",
+    "refers": "heating unit / radiator",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŠDW",
+    "refers": "stereo receiver",
+    "see": "KSMW"
+  },
+  {
+    "root": "ŠDY",
+    "refers": "stereo speaker",
+    "see": "KSMW"
+  },
+  {
+    "root": "FGW",
+    "refers": "water purifier",
+    "see": "KSMW"
+  },
+  {
+    "root": "DBY",
+    "refers": "flashlight",
+    "see": "KSMW"
+  },
+  {
+    "root": "CBW",
+    "refers": "memory stick/flash memory unit",
+    "see": "KSMW"
+  }
 ]

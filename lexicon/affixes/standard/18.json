@@ -1,1562 +1,1562 @@
 [
-    {
-        "name": "ACQ",
-        "description": "Acquisition",
-        "gradient_type": "0",
-        "cs": "vz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "acquired by chance/whim/having stumbled upon",
-            "acquired by mental effort/learning/study/creation",
-            "acquired by informal, spur-of-the-moment search",
-            "acquired by trickery/subterfuge",
-            "innate/inherent",
-            "acquired by formal search",
-            "acquired by informal agreement/negotiation",
-            "acquired by formally negotiated trade or deal",
-            "acquired by purchase"
-        ]
-    },
-    {
-        "name": "RNC",
-        "description": "Renunciation",
-        "gradient_type": "0",
-        "cs": "ňz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "give up X-ing / give up on X",
-            "lose faith/belief in X(-ing)",
-            "stop trying to",
-            "undermine (efforts to) X",
-            "refuse to X",
-            "lose sense of resolve/commitment to X",
-            "no longer have passion for X / lose passion for X",
-            "lose ability to do/be/make X",
-            "lack means/ability to X"
-        ]
-    },
-    {
-        "name": "INB",
-        "description": "Inability/Incapacity Due To …",
-        "gradient_type": "0",
-        "cs": "čb",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "inability to [perform/achieve/realize] X so due to absence/loss of resources",
-            "inability to [perform/achieve/realize] X so due to absence/loss of physical means",
-            "inability to [perform/achieve/realize] X so due to absence/loss of skill/knowledge",
-            "inability to [perform/achieve/realize] X so due to blockage/prevention of access to resource(s)",
-            "inability to [perform/achieve/realize] X so due to blockage/prevention of access to physical means",
-            "inability to [perform/achieve/realize] X so due to blockage/prevention of access to skill/knowledge",
-            "inability to [perform/achieve/realize] X so due to psychological disorder or trauma",
-            "inability to [perform/achieve/realize] X so due to physical disorder/illness/injury",
-            "inability to [perform/achieve/realize] X so due to loss/absence of desire"
-        ]
-    },
-    {
-        "name": "CMF",
-        "description": "Communication Format",
-        "gradient_type": "0",
-        "cs": "s",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "via language (in general, whether spoken / written / printed / signed / signaled / broadcast / published / disseminated / streamed, etc.)",
-            "via spoken/vocalized language",
-            "via written language; in writing [for real-time communication to be read directly by the present audience]",
-            "via publication ( = in writing for distribution to future audience)",
-            "via electronic distribution/dissemination",
-            "via gesture, pantomime",
-            "via formal sign language",
-            "via pictures/images",
-            "via non-linguistic vocalizations (e.g., grunts, squeals, murmuring, cries, etc.)"
-        ]
-    },
-    {
-        "name": "ENG",
-        "description": "Degree of Engagement/Involvement",
-        "gradient_type": "A1",
-        "cs": "řns",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "avoiding X(-ing) at all costs / run away from X(-ing) / terrified of X(-ing)",
-            "averse to X(-ing); fear X(-ing) / fear of X(-ing) / afraid of X(-ing) / afraid to X",
-            "shirk involvement in X(-ing); not be/get involved in",
-            "to X for appearance’ sake only; to X solely for show",
-            "lackluster interest/involvement in X(-ing)",
-            "marginal interest/involvement in X(-ing)",
-            "limited/partial involvement in X(-ing)/ like X(-ing) / interested in X(-ing)",
-            "fully involved/engrossed in X(-ing) / love to X",
-            "irreversibly involved/engrossed in X(-ing) / enraptured with X(-ing)"
-        ]
-    },
-    {
-        "name": "OSQ",
-        "description": "Opportunity Squandered",
-        "gradient_type": "0",
-        "cs": "ňs",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "wished-for or hoped-for but so far has never come to pass",
-            "missed-out on [opportunity has arisen but one isn’t/wasn’t able or permitted to act upon it despite desire to do so]",
-            "missed-out on [opportunity has arisen but is/was passed by or ignored]",
-            "squandered [opportunity has arisen but attempt to act upon it is/was well-done but unsuccessful]",
-            "missed-out on [opportunity has never arisen and is not likely to arise]",
-            "squandered [opportunity has arisen but is/was acted upon incorrectly or incompetently]",
-            "squandered [opportunity has arisen but the attempt to act upon it is/was thwarted by external entities/factors]",
-            "squandered/missed-out on [opportunity passed by due to ignorance or not being informed]",
-            "won and lost [opportunity was acted upon successfully at first but subsequently failed]"
-        ]
-    },
-    {
-        "name": "MEM",
-        "description": "Memory",
-        "gradient_type": "A1",
-        "cs": "rmz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "always in mind / can’t forget",
-            "never to be forgotten / memorable",
-            "remembered / recalled / remember to …",
-            "(having just been) reminded of X",
-            "on the tip of one’s tongue / almost remembered / on the verge of remembering",
-            "slipped from one’s mind (momentarily); just had it but now can’t remember; momentary lapse in remembering X",
-            "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to …        d",
-            "forgotten, not remembered or recalled [does not occur to try to remember]",
-            "long-forgotten / not currently remembered in general"
-        ]
-    },
-    {
-        "name": "NNN",
-        "description": "N-Numbered Angles/Facets/Faces/Sides/Points/Forms",
-        "gradient_type": "C",
-        "cs": "vř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "uneven/asymmetrical n–sided 2D obtusely angled form (e.g., quadrilateral pentagonoid)",
-            "uneven/asymmetrical n-pointed 2D acutely angled “star” formation",
-            "uneven/asymmetrical n-faceted 3D solid",
-            "uneven/asymmetrical n-faced 3D solid (e.g., n-hedron-like solid)",
-            "having n number of 3D projections/spikes/pointed surfaces",
-            "symmetrical n-faced 3D solid (e.g., tetrahedron, dodecahedron)",
-            "symmetrical n-faceted 3D solid",
-            "symmetrical n-pointed 2D acutely angled “star” formation (can be used with numbers as low as 2, which would refer to an elongated diamond shape)",
-            "symmetrical n–sided 2D form (e.g., square, pentagon, hexagon)"
-        ]
-    },
-    {
-        "name": "RDT",
-        "description": "Redirection of X to Other Use(s)",
-        "gradient_type": "C",
-        "cs": "ḑř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "multiple uses – involuntary",
-            "opposing use – involuntary",
-            "complementary use – involuntary/unpredictable",
-            "unrelated use - involuntary",
-            "not used for traditional purpose – unknown or inapplicable as to whether voluntary or involuntary",
-            "unrelated use - voluntary",
-            "complementary use – voluntary/controlled/predictable",
-            "opposing use – voluntary",
-            "multiple uses – voluntary"
-        ]
-    },
-    {
-        "name": "PSS",
-        "description": "Degree of Alienable Possession",
-        "gradient_type": "0",
-        "cs": "ňš",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "the X which one circumstantially possesses/uses/handles at the moment or with which one is momentarily/circumstantially/informally associated",
-            "the X circumstantially/informally/temporarily taken by, or circumstantially/informally given/assigned/designated to one for their use/possession/responsibility",
-            "the X formally/officially taken by, or formally/officially given/assigned/designated to one for their use/possession/responsibility as per purchase, formal gift, declaration, contract, or other societal convention.",
-            "(one’s) own/(one’s) personal X [informally/circumstantial/temporarily/contextually]",
-            "(one’s) own/(one’s) personal X [formally/officially/contractually/(quasi-)permanently]",
-            "(one’s) own private X",
-            "one’s own private and unique/custom X, known by, but unavailable to others",
-            "one’s own secret and concealed X unknown to others",
-            "one’s own secret and concealed X, unique/custom and unknown to others"
-        ]
-    },
-    {
-        "name": "CLS",
-        "description": "Classification",
-        "gradient_type": "0",
-        "cs": "ňž",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "a physical arrangement or discernible pattern/assortment of X for aesthetic reasons",
-            "a physical arrangement or discernible pattern/assortment of X for utilitarian reasons",
-            "X as a member or representative of a certain kind/sort/genre/class of entity",
-            "X as the basis for classifying/sorting/arranging other entities",
-            "X as the representative label of a certain kind/sort/genre/class of entity",
-            "X as the representative label of a (system of) hierarchical ranking",
-            "X as the basis for a (system of) hierarchical ranking",
-            "(hierarchical) ranking of X",
-            "regular(ity) of X; X as a regular(ized) entity"
-        ]
-    },
-    {
-        "name": "BAS",
-        "description": "Basis",
-        "gradient_type": "0",
-        "cs": "nš",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X-based; on the basis of X  ( = general overall basis for something, i.e., X as both the idea behind and model for something)",
-            "X-based, on the basis of X ( = as the intellectual basis for, X as the idea behind something)",
-            "X-based; modeled upon/after X ( = in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
-            "X-derived, derived from X",
-            "X-patterned/arranged (not in visual shape/form, but in structural arrangement or structural principles; for visual shape/form patterning, see SHP affix)",
-            "X-inspired, inspired by X",
-            "X-driven, driven/powered by X",
-            "motivated by X",
-            "X-triggered; triggered by X ( = X as unwitting/non-causative stimulus for action)"
-        ]
-    },
-    {
-        "name": "SHP",
-        "description": "Shape or Form",
-        "gradient_type": "C",
-        "cs": "fř",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "having the 2-D shape of X; shaped like (an) X",
-            "somewhat or sort of like the 2-D shape of X; reminiscent of the 2-D shape of X",
-            "2-D figure ( = outlined/contoured representation) of X",
-            "2-D mold / “stamp” of X",
-            "X-pattern(ed); patterned like/after X (visual shape/pattern/form only; for structural pattern/arrangement, see BAS affix)",
-            "3-D mold/cast of X",
-            "3-D figure ( = outlined/conoured representation) of X",
-            "somewhat or sort of like the 3-D form/shape of X; reminiscent of the 3-D shape/form of X",
-            "having/mimicking the 3-D form/shape of X; formed like or modeled after X"
-        ]
-    },
-    {
-        "name": "VPF",
-        "description": "Variance From Prototypical 3-D Form",
-        "gradient_type": "0",
-        "cs": "ẓt",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "long axis obliquely angled/inclined away from the vertical/right-angled/rectilinear/perpendicular",
-            "elongated lengthwise/heightwise",
-            "elongated widthwise/girthwise",
-            "curved away from right-angled/rectilinear orientation",
-            "truncated at small/pointed/shorter/smaller end at angle parallel to base",
-            "truncated at small/pointed/shorter/smaller end at oblique angle to base",
-            "a quasi-planar longitudinal (i.e., perpendicular to base) slice through 3-D form X",
-            "a quasi-planar oblique slice through 3-D form/shape X",
-            "a quasi-planar latitudinal (i.e., parallel to base) slice through 3-D form X"
-        ]
-    },
-    {
-        "name": "TDP",
-        "description": "Three-Dimensional Polyhedral Forms",
-        "gradient_type": "C",
-        "cs": "ļř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "symmetrical 3D polyhedron having X-number of triangular faces",
-            "symmetrical 3D polyhedron having X-number of quadrilateral faces",
-            "symmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
-            "symmetrical 3D polyhedron having X-number of mixed polygonal faces",
-            "a 3D form/object whose 2-dimensional/planar outline shape (i.e., against a background) is X",
-            "asymmetrical 3D polyhedron having X-number of mixed polygonal faces",
-            "asymmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
-            "asymmetrical 3D polyhedron having X-number of quadrilateral faces",
-            "asymmetrical 3D polyhedron having X-number of triangular faces"
-        ]
-    },
-    {
-        "name": "CNW",
-        "description": "Conway Polyhedral Mathematical Operations",
-        "gradient_type": "D1",
-        "cs": "ļn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "dual",
-            "truncated",
-            "subdivided",
-            "augmented",
-            "kis",
-            "beveled",
-            "chamfered",
-            "join",
-            "ambo"
-        ]
-    },
-    {
-        "name": "PAT",
-        "description": "Common 2-Dimensional Decorative/Featural Patterns",
-        "gradient_type": "0",
-        "cs": "jb",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "checker-patterned; checked",
-            "polka-dotted",
-            "diagonally-striped",
-            "vertically striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
-            "striped",
-            "horizontally striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
-            "vertically & horizontally cross-hatched",
-            "diagonally cross-hatched; diamond-patterned",
-            "grid-like, screen-like ( = fine-grained cross-hatching)"
-        ]
-    },
-    {
-        "name": "PUA",
-        "description": "Private Usage Or Association",
-        "gradient_type": "B",
-        "cs": "çl",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "for one’s own personal use",
-            "for use by a private/select group",
-            "for use by a specific/particular group",
-            "known only to or familiar only to oneself",
-            "known only to or familiar only to a private/select group",
-            "known only to or familiar only to a specific/particular group",
-            "associated with or having to do with oneself only",
-            "associated with or having to do with a private/select group",
-            "associated with or having to do with a specific/particular group"
-        ]
-    },
-    {
-        "name": "HUM",
-        "description": "Human Usage/Presence/Intervention",
-        "gradient_type": "0",
-        "cs": "ẓp",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "as associated with human beings",
-            "for the benefit of human beings",
-            "for use by human beings",
-            "as determined/planned by human beings",
-            "as arranged/structured by human beings",
-            "as a product or planned result of human usage/intervention",
-            "as a(n unforeseen) by-product/consequence/vestige of human usage/association/intervention",
-            "as an indicator/clue of human presence/intervention/usage",
-            "as a resource for use by human beings"
-        ]
-    },
-    {
-        "name": "KIN",
-        "description": "Kinship Relation",
-        "gradient_type": "0",
-        "cs": "cc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "having a full-blood relationship (i.e., genetically related through both parents)",
-            "half-related (e.g., half-sister, half-cousin), (i.e., genetically related through one parent only)",
-            "paternally related (i.e., through one’s own genetic father)",
-            "maternally related (i.e., through one’s own genetic mother)",
-            "double-relation (i.e., related through both parents via the mating of a set of siblings from one family with a set of siblings of another family)",
-            "in-law relation (i.e., non-blood relation through marriage only)",
-            "parallel-related (i.e., related through a parent’s sibling of the same gender as the parent)",
-            "cross-related (i.e., related through a parent’s sibling of a different gender than the parent)",
-            "legally adopted relation (no genetic relation)"
-        ]
-    },
-    {
-        "name": "KSD",
-        "description": "Generational/Sequential Kinship Descriptions",
-        "gradient_type": "D1",
-        "cs": "vk",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "of one’s previous generation ( i.e., “once removed (upward)”)",
-            "of two generations previous (i.e., “grand-”, “twice removed (upward)”)",
-            "of three generations previous (i.e., “great grand-”, “three times removed (upward)”)",
-            "foster relationship",
-            "common law relationship",
-            "“god-” relative or other pseudo-familial relationship (i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent)",
-            "of three generations later (i.e., “great grand-”, “three times removed (downward)”)",
-            "of two generations later (i.e., “grand-”, “twice removed (downward)”)",
-            "of one’s subsequent generation ( i.e., “once removed (downward)”)"
-        ]
-    },
-    {
-        "name": "APV",
-        "description": "Alternate Points of View",
-        "gradient_type": "A1",
-        "cs": "rps",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "and not even occurring to one to evaluate/consider/analyze a/the situation in any way before deciding/acting",
-            "and not even occurring to one to evaluate/consider (a) point(s) of view other than one’s own",
-            "with alternate point(s) of view blindly dismissed as irrelevant or having no value before even being considered",
-            "with consideration given to alternate point(s) of view but dismissed because one’s own point of view is intransigent/non-negotiable",
-            "with potential seen in other point(s) of view leading to possible tolerance of each other’s viewpoint (i.e., “live and let live” solution)",
-            "with potential seen in other point(s) of view as basis for compromise solution (i.e., where each party makes concessions)",
-            "with potential seen in other point(s) of view as basis for win-win outcome (i.e., where both solutions together are mutually advantageous)",
-            "with potential seen in other point(s) of view as basis for conceding one’s own point of view partially in favor of alternate point(s) of view",
-            "with potential seen in other point(s) of view as basis for conceding one’s own point of view entirely in favor of alternate point(s) of view"
-        ]
-    },
-    {
-        "name": "CRD",
-        "description": "Degree of Crowdedness",
-        "gradient_type": "A1",
-        "cs": "řks",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "tightly packed together (“like sardines”) / with no space between components / with no room to move",
-            "packed together touching",
-            "packed together with minimal space between components / with barely enough room to move without touching others",
-            "crowded but with sufficient space to move around / loosely packed",
-            "somewhat crowded",
-            "not too crowded / lightly crowded / sufficient room to move around easily between components",
-            "uncrowded / somewhat sparse",
-            "sparse / spare / uncrowded / light",
-            "utterly sparse, spare, lone, solitary / the only one of / sole / unaccompanied; alone / by -self / on one’s own / unaccompanied / solely"
-        ]
-    },
-    {
-        "name": "EGY",
-        "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State (i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:)",
-        "gradient_type": "0",
-        "cs": "kz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "spring forth (from within), i.e., release pent-up energy into an outward thrusting motion",
-            "release (to lower energy state, e.g., fall, let drop, let go, slide, let out, give out, etc.)",
-            "grow",
-            "wither",
-            "“keep running”, i.e., by either continuous or periodic addition of fuel/energy to flow, as in a water-wheel, a windmill, an engine, staying awake, working, etc.",
-            "spurt, spray, blow out, i.e., release through constriction under pressure",
-            "accumulate, i.e., grow via accretion",
-            "be drawn out or sucked out, i.e., forced translative motion through aperture via low-pressure differential",
-            "become agitated/excited/heated via external energy application"
-        ]
-    },
-    {
-        "name": "SEX",
-        "description": "Biological (i.e., genetically-determined) Sex",
-        "gradient_type": "D1",
-        "cs": "š",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "born biologically/genetically female; of the female sex",
-            "different from / atypical of the female sex",
-            "born biologically/genetically male; of the male sex",
-            "different from / atypical of the male sex",
-            "born intersex / “hermaphrodite”",
-            "whose born sex is indiscernible/hidden/unknown/obscured",
-            "unisex; applying to or inclusive of both sexes",
-            "sex-based; formally differentiated/distinguished based on sex",
-            "sex-neutral; irrelevant in regard to sex"
-        ]
-    },
-    {
-        "name": "GID",
-        "description": "Gender Identity (i.e., one’s chosen identification in relation to sex)",
-        "gradient_type": "D1",
-        "cs": "c",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "female (gender identity, not necessarily biological sex)",
-            "intergender / androgynous (gender identity, not necessarily biological sex)",
-            "male (gender identity, not necessarily biological sex)",
-            "third gender (e.g., hijra, māhū, fakaleiti, fa’afafine)",
-            "non-binary gender identification",
-            "genderfluid, of varying gender identification",
-            "bigender, of multiple genders simultaneously",
-            "genderqueer",
-            "agender, without gender or gender identity being inapplicable/irrelevant"
-        ]
-    },
-    {
-        "name": "SID",
-        "description": "Subjective Identity",
-        "gradient_type": "B",
-        "cs": "lç",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
-            "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
-            "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
-            "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
-            "Psychologically/subjectively identifying oneself as conforming to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
-            "Psychologically/subjectively identifying oneself as conforming to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
-            "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X.",
-            "Psychologically/subjectively identifying oneself as conforming to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
-            "Psychologically/subjectively identifying oneself as conforming to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others."
-        ]
-    },
-    {
-        "name": "CLG",
-        "description": "Cultural or Geo-Demographic Association (primarily used with carrier stems)",
-        "gradient_type": "0",
-        "cs": "ḑc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "the spoken/written language associated with X",
-            "a historical event associated with X",
-            "the people/culture/society associated with X",
-            "the sense of socio-cultural identity/solidarity associated with X",
-            "a behavioral/personality trait or aesthetic style or physical characteristic associated with X",
-            "a practice/ritual associated with X",
-            "a belief associated with X",
-            "an item/artifact/object/costume/artwork or tangible accomplishment associated with X",
-            "the physical country/land/geographical domain associated with X"
-        ]
-    },
-    {
-        "name": "OGC",
-        "description": "Orientation or Location Relative to a Geographical Central Point",
-        "gradient_type": "D1",
-        "cs": "dn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "northern",
-            "northwestern",
-            "western",
-            "northeastern",
-            "geographically central",
-            "southwestern",
-            "eastern",
-            "southeastern",
-            "southern"
-        ]
-    },
-    {
-        "name": "MSE",
-        "description": "Miscellaneous Entailments Associated with an Entity",
-        "gradient_type": "0",
-        "cs": "zẓ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X offered/supplied/sold as a commodity",
-            "X packaged/processed for commercial sale/use",
-            "X as a coveted/guarded/protected/limited natural resource",
-            "X as a focal point of political contention",
-            "X as a focal point of geopolitical contention/war",
-            "X as a force of nature",
-            "X as the focal point/key to an inquiry/investigation/mystery",
-            "X as a causal/triggering element/circumstance for a story/plot/series of events",
-            "X as the source of one’s emotional state"
-        ]
-    },
-    {
-        "name": "PCM",
-        "description": "Primary Construction Material",
-        "gradient_type": "D1",
-        "cs": "bḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "where X is made exclusively or primarily of wood",
-            "where X is made exclusively or primarily of metal",
-            "where X is made exclusively or primarily of ceramic or porcelain",
-            "where X is made exclusively or primarily of rubber",
-            "where X is made exclusively or primarily of glass",
-            "where X is made exclusively of resin or natural secretion",
-            "where X is made exclusively or primarily of plastic",
-            "where X is made exclusively or primarily of anartificial/synthetic material",
-            "where X is made exclusively or primarily of stone"
-        ]
-    },
-    {
-        "name": "STF",
-        "description": "Miscellaneous Surface Textures or Formations (e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.)",
-        "gradient_type": "0",
-        "cs": "žv",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "fruticose (i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down)",
-            "foliose (i.e. structured/formed in 2D flat leaf-like lobes)",
-            "crustose (i.e. crust-like, adhering tightly to a surface/substrate like a thick coat of paint)",
-            "squamulose (i.e. formed of small leaf-like scales crust-like below but free at the tips)",
-            "leprose (i.e., powdery)",
-            "gelatinous (i.e. jelly-like)",
-            "filamentous (i.e. stringy or like matted hair)",
-            "byssoid (i.e. wispy, like teased wool or cotton candy)",
-            "imprinted (i.e. visibly distinct/different from the rest of the surface or substrate but texturally indistinct and imbued into and unseparable from the substrate)"
-        ]
-    },
-    {
-        "name": "MIA",
-        "description": "Musical Instrument Attributes",
-        "gradient_type": "0",
-        "cs": "ţš",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "instrument is non-pitched",
-            "instrument has a (quasi-) fixed pitch but is untunable",
-            "instrument is tunable to a fixed pitch",
-            "instrument is tunable and capable of a controllable range of pitches while being played (e.g., talking drum, banyan drum of a set of tabla, cuica, etc.)",
-            "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch (e.g., tongue drum, steel drum)",
-            "instrument is a set of tunable individual component instruments, each set/tunable to a distinct pitch",
-            "instrument is playable/played using multiple modes of contact (e.g., with both hand or stick, by both bow and hand, by striking and rubbing, etc.)",
-            "instrument’s primary interface is via a keyboard or set of patterned buttons which trigger the actual striking/plucking/air-flow sounding mechanism",
-            "instrument is electrically/electronically amplified"
-        ]
-    },
-    {
-        "name": "CAM",
-        "description": "Customization & Modifications",
-        "gradient_type": "B",
-        "cs": "ḑç",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "the largest (bass-oriented) version of the usual X",
-            "a larger (baritone-oriented) version of the usual X",
-            "a smaller (treble- or soprano-oriented) version of the usual X",
-            "a modified/enhanced version of the usual X (to give it a greater note-range)",
-            "a modified/enhanced version of the usual X (to make it louder)",
-            "a modified/enhanced version of the usual X (to give it more power/resonance)",
-            "a modified/customized version of the usual X tailored to the operator’s specifications",
-            "a modified/customized version of the usual X tailored/sized for a child",
-            "a modified/customized version of the usual X tailored/simplified for learning"
-        ],
-        "notes": "This affix is primarily applied to stems for musical instruments, however it may be used as needed for other devices/objects where applicable."
-    },
-    {
-        "name": "GAB",
-        "description": "Musical Notes GAB",
-        "gradient_type": "A1",
-        "cs": "řm",
-        "associated_root": false,
-        "degrees": [
-            null,
-            [
-                "(standard) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)",
-                "(relative) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)",
-                "(relative) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)"
-            ],
-            [
-                "(standard) “blue” note/tone between A-flat and A; Aᑯ",
-                "(relative) “blue” note/tone between A-flat and A; Aᑯ"
-            ],
-            [
-                "(standard) note/tone in A; A (la)",
-                "(relative) note/tone in A; A (la)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in A; ~A (~la)",
-                "(relative) bending/meend applied to note/tone in A; ~A (~la)"
-            ],
-            [
-                "(standard) “blue” note/tone between A and A-sharp/B-flat; A╪",
-                "(relative) “blue” note/tone between A and A-sharp/B-flat; A╪"
-            ],
-            [
-                "(standard) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)",
-                "(relative) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)",
-                "(relative) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)"
-            ],
-            [
-                "(standard) “blue” note/tone between B-flat and B; Bᑯ",
-                "(relative) “blue” note/tone between B-flat and B; Bᑯ"
-            ]
-        ],
-        "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
-    },
-    {
-        "name": "BCD",
-        "description": "Musical Notes BCD",
-        "gradient_type": "A1",
-        "cs": "řç",
-        "associated_root": false,
-        "degrees": [
-            null,
-            [
-                "(standard) note/tone in B; B (ti)",
-                "(relative) note/tone in B; B (ti)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in B; ~B (~ti)",
-                "(relative) bending/meend applied to note/tone in B; ~B (~ti)"
-            ],
-            [
-                "(standard) “blue” note/tone between B and C; Cᑯ/B╪",
-                "(relative) “blue” note/tone between B and C; Cᑯ/B╪"
-            ],
-            [
-                "(standard) note/tone in C; C (do)",
-                "(relative) note/tone in C; C (do)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in C; ~C (~do)",
-                "(relative) bending/meend applied to note/tone in C; ~C (~do)"
-            ],
-            [
-                "(standard) “blue” note/tone between C and C-sharp/D-flat; C╪",
-                "(relative) “blue” note/tone between C and C-sharp/D-flat; C╪"
-            ],
-            [
-                "(standard) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)",
-                "(relative) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)",
-                "(relative) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)"
-            ],
-            [
-                "(standard) “blue” note/tone between D-flat and D; Dᑯ",
-                "(relative) “blue” note/tone between D-flat and D; Dᑯ"
-            ]
-        ],
-        "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
-    },
-    {
-        "name": "DEF",
-        "description": "Musical Notes DEF",
-        "gradient_type": "A1",
-        "cs": "řļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            [
-                "(standard) note/tone in D; D (re)",
-                "(relative) note/tone in D; D (re)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in D; ~D (~re)",
-                "(relative) bending/meend applied to note/tone in D; ~D (~re)"
-            ],
-            [
-                "(standard) “blue” note/tone between D and D-sharp/E-flat; D╪",
-                "(relative) “blue” note/tone between D and D-sharp/E-flat; D╪"
-            ],
-            [
-                "(standard) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)",
-                "(relative) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)",
-                "(relative) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)"
-            ],
-            [
-                "(standard) “blue” note/tone between E-flat and E; Eᑯ",
-                "(relative) “blue” note/tone between E-flat and E; Eᑯ"
-            ],
-            [
-                "(standard) note/tone in E; E (mi)",
-                "(relative) note/tone in E; E (mi)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in E; ~E (~mi)",
-                "(relative) bending/meend applied to note/tone in E; ~E (~mi)"
-            ],
-            [
-                "(standard) “blue” note/tone between E and F; E╪/Fᑯ",
-                "(relative) “blue” note/tone between E and F; E╪/Fᑯ"
-            ]
-        ],
-        "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
-    },
-    {
-        "name": "FGA",
-        "description": "Musical Notes FGA",
-        "gradient_type": "A1",
-        "cs": "rl",
-        "associated_root": false,
-        "degrees": [
-            null,
-            [
-                "(standard) note/tone in F; F (fa)",
-                "(relative) note/tone in F; F (fa)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in F; ~F (~fa)",
-                "(relative) bending/meend applied to note/tone in F; ~F (~fa)"
-            ],
-            [
-                "(standard) “blue” note/tone between F and F-sharp/G-flat; F╪",
-                "(relative) “blue” note/tone between F and F-sharp/G-flat; F╪"
-            ],
-            [
-                "(standard) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)",
-                "(relative) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)"
-            ],
-            [
-                "(standard) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)",
-                "(relative) bending/meend applied to  note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
-            ],
-            [
-                "(standard) “blue” note/tone between G-flat and G; Gᑯ",
-                "(relative) “blue” note/tone between G-flat and G; Gᑯ"
-            ],
-            [
-                "(standard) note/tone in G; G (so)",
-                "(relative) note/tone in G; G (so)"
-            ],
-            [
-                "(standard) bending/meend applied to note/tone in G; ~G (~so)",
-                "(relative) bending/meend applied to note/tone in G; ~G (~so)"
-            ],
-            [
-                "(standard) “blue” note/tone between G and G-sharp/A-flat; G╪",
-                "(relative) “blue” note/tone between G and G-sharp/A-flat; G╪"
-            ]
-        ],
-        "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
-    },
-    {
-        "name": "ASC",
-        "description": "Areal/Spatial Scope",
-        "gradient_type": "D1",
-        "cs": "vḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "in the easily-accessible or visible vicinity of X; within the readily accessible or readily visible vicinity of X",
-            "in the area/space nearby X, in X’s neighborhood, in X’s general vicinity",
-            "in the quarter/district or general area surrounding X",
-            "local; in X’s locality; in the town where X is; in the place/town/locality/community/area where X is",
-            "regional; in X’s part of the larger geographic or geopolitical entity, e.g., in X’s part of the state, in X’s region, in X’s county/canton",
-            "geopolitically regional; at the state/provincial level; at the level, in X’s state/province, in X’s part of the country; geopolitically sub-national or in the geographically large area of; in the large region of, e.g., in the South, up North, having to do with the mountains/desert/plains, etc.",
-            "at the national level",
-            "international(ly); worldwide",
-            "universal"
-        ]
-    },
-    {
-        "name": "AAA",
-        "description": "Areal/Cultural Association - East Asia",
-        "gradient_type": "D1",
-        "cs": "sn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient China",
-            "originating in, indigenous to, or associated w/ traditional/ancient Japan",
-            "originating in, indigenous to, or associated w/ traditional/ancient Korea",
-            "originating in, indigenous to, or associated w/ traditional/ancient Taiwan",
-            "originating in, indigenous to, or associated w/ East Asia",
-            "originating in, indigenous to, or associated w/ contemporary Taiwan",
-            "originating in, indigenous to, or associated w/ contemporary Korea",
-            "originating in, indigenous to, or associated w/ contemporary Japan",
-            "originating in, indigenous to, or associated w/ contemporary China"
-        ]
-    },
-    {
-        "name": "AAS",
-        "description": "Areal/Cultural Association - South Asia",
-        "gradient_type": "D1",
-        "cs": "sň",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient India (including the areas comprising modern Pakistan, Bangladesh and Sri Lanka)",
-            "originating in, indigenous to, or associated w/ traditional/ancient Afghanistan",
-            "originating in, indigenous to, or associated w/ traditional/ancient Nepal",
-            "originating in, indigenous to, or associated w/ traditional/ancient Bhutan",
-            "originating in, indigenous to, or associated w/ South Asia",
-            "originating in, indigenous to, or associated w/ contemporary Bhutan",
-            "originating in, indigenous to, or associated w/ contemporary Nepal",
-            "originating in, indigenous to, or associated w/ contemporary Afghanistan",
-            "originating in, indigenous to, or associated w/ contemporary India, Pakistan, Bangladesh, Sri Lanka"
-        ]
-    },
-    {
-        "name": "AAI",
-        "description": "Areal/Cultural Association - Southeast Asia / East Indies",
-        "gradient_type": "D1",
-        "cs": "šn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)",
-            "originating in, indigenous to, or associated w/ traditional/ancient western mainland Southeast Asia (i.e., Thailand, Myanmar)",
-            "originating in, indigenous to, or associated w/ traditional/ancient East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
-            "originating in, indigenous to, or associated w/ traditional/ancient Philippines",
-            "originating in, indigenous to, or associated w/ Southeast Asia/East Indies",
-            "originating in, indigenous to, or associated w/ contemporary Philippines",
-            "originating in, indigenous to, or associated w/ contemporary East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
-            "originating in, indigenous to, or associated w/ contemporary western mainland Southeast Asia (i.e., Thailand, Myanmar)",
-            "originating in, indigenous to, or associated w/ contemporary eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)"
-        ]
-    },
-    {
-        "name": "AAC",
-        "description": "Areal/Cultural Association - Central Asia (and non-Chinese cultures of the East Asian mainland)",
-        "gradient_type": "D1",
-        "cs": "šň",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient Tibet",
-            "originating in, indigenous to, or associated w/ traditional/ancient Mongolia",
-            "originating in, indigenous to, or associated w/ traditional/ancient Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen",
-            "originating in, indigenous to, or associated w/ traditional/ancient post-expansion non-Turkic Central Asian cultures (i.e., Tajiks, Dari, Bukhori)",
-            "originating in, indigenous to, or associated w/ Central Asia",
-            "originating in, indigenous to, or associated w/ contemporary non-Turkic Central Asian countries/cultures (i.e., Tajiks, Dari, Bukhori)",
-            "originating in, indigenous to, or associated w/ contemporary Turkic Central Asian countries/cultures(i.e., Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen)",
-            "originating in, indigenous to, or associated w/ contemporary Mongolia",
-            "originating in, indigenous to, or associated w/ contemporary Tibet"
-        ]
-    },
-    {
-        "name": "AAM",
-        "description": "Areal/Cultural Association - Middle-East",
-        "gradient_type": "D1",
-        "cs": "cn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient Arabian Peninsula",
-            "originating in, indigenous to, or associated w/ traditional/ancient Fertile Crescent & Levant area",
-            "originating in, indigenous to, or associated w/ traditional/ancient Anatolia & Cyprus",
-            "originating in, indigenous to, or associated w/ traditional/ancient Palestine",
-            "originating in, indigenous to, or associated w/ Middle East",
-            "originating in, indigenous to, or associated w/ contemporary Israel & Palestine",
-            "originating in, indigenous to, or associated w/ contemporary Turkey and Cyprus",
-            "originating in, indigenous to, or associated w/ contemporary Levantine and Fertile Crescent countries/cultures (i.e., Syria, Lebanon, Iraq, Iran, Kurdistan)",
-            "originating in, indigenous to, or associated w/ contemporary Arabian Peninsula (i.e., Saudi Arabia, Oman, Yemen, UAE, Bahrain, Qatar)"
-        ]
-    },
-    {
-        "name": "AAH",
-        "description": "Areal/Cultural Association - Northern Africa & Horn of Africa",
-        "gradient_type": "D1",
-        "cs": "zn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient Egypt and Nile Valley",
-            "originating in, indigenous to, or associated w/ traditional/ancient Horn of Africa",
-            "originating in, indigenous to, or associated w/ traditional/ancient North Africa/Maghreb",
-            "originating in, indigenous to, or associated w/ traditional/ancient Saharan Africa",
-            "originating in, indigenous to, or associated w/ Northern and Eastern Horn of Africa",
-            "originating in, indigenous to, or associated w/ contemporary Saharan Africa (i.e., Mauritania, Mali, Niger, Burkina Faso, Chad, Sudan)",
-            "originating in, indigenous to, or associated w/ contemporary North Africa/Maghreb",
-            "originating in, indigenous to, or associated w/ contemporary Horn of Africa (i.e., Ethiopia, Somalia, Eritrea, Djibouti)",
-            "originating in, indigenous to, or associated w/ contemporary Egypt and Nile Valley"
-        ]
-    },
-    {
-        "name": "AAF",
-        "description": "Areal/Cultural Association - Sub-Saharan Africa",
-        "gradient_type": "D1",
-        "cs": "zň",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient West Coast and Benin Coast of Africa",
-            "originating in, indigenous to, or associated w/ traditional/ancient Central Africa",
-            "originating in, indigenous to, or associated w/ traditional/ancient Southern Africa",
-            "originating in, indigenous to, or associated w/ traditional/ancient East African Islands (i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.)",
-            "originating in, indigenous to, or associated w/ Sub-Saharan Africa",
-            "originating in, indigenous to, or associated w/ contemporary East African Islands (i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.)",
-            "originating in, indigenous to, or associated w/ contemporary Southern Africa (e.g., Namibia, South Africa, Lesotho, Mozambique. Zimbabwe, Zambia, Angola, Malawi)",
-            "originating in, indigenous to, or associated w/ contemporary Central Africa (i.e., Cameroon Central African Republic, Gabon, Congo, DRC, Rwanda, Uganda, Kenya)",
-            "originating in, indigenous to, or associated w/ contemporary West Coast and Benin Coast of Africa (i.e., countries from Senegal to Nigeria)"
-        ]
-    },
-    {
-        "name": "AAN",
-        "description": "Areal/Cultural Association - Northern & Western Europe",
-        "gradient_type": "D1",
-        "cs": "žn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient Celtic Europe (Gaul, Britain, Ireland, Scotland, North Sea and Channel islands)",
-            "originating in, indigenous to, or associated w/ ancent Teutonic Europe (Gothic lands, Norse lands)",
-            "originating in, indigenous to, or associated w/ traditional/ancient Baltic Europe (Estonia, Finland, Latvia, Lithuania, Karelia)",
-            "originating in, indigenous to, or associated w/ traditional/ancient Hungary",
-            "originating in, indigenous to, or associated w/ Northern and Western Europe",
-            "originating in, indigenous to, or associated w/ contemporary Hungary",
-            "originating in, indigenous to, or associated w/ contemporary Baltic countries (Estonia, Finland, Latvia, Lithuania)",
-            "originating in, indigenous to, or associated w/ contemporary Teutonic Europe (England, Teutonic Scandinavia, Germany, Low countries, Switzerland, Austria)",
-            "originating in, indigenous to, or associated w/ contemporary Celtic Europe (i.e., Ireland, Scotland, Wales, Brittany, Manx)"
-        ]
-    },
-    {
-        "name": "AAE",
-        "description": "Areal/Cultural Association - Southern & Eastern Europe",
-        "gradient_type": "D1",
-        "cs": "žň",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient Roman Empire, Iberia, France, Greece, Sicely, Corsica, Sardinia, Malta",
-            "originating in, indigenous to, or associated w/ traditional/ancient Balkans (southeastern Europe, Romania)",
-            "originating in, indigenous to, or associated w/ traditional/ancient Eastern/Slavic Europe other than the Balkans",
-            "originating in, indigenous to, or associated w/ traditional/ancient Caucasus/Caspian/Trans-Caucasia (e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia)",
-            "originating in, indigenous to, or associated w/ Southern and Eastern Europe",
-            "originating in, indigenous to, or associated w/ contemporary Caucasus/Caspian/Trans-Caucasia (e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia)",
-            "originating in, indigenous to, or associated w/ contemporary Eastern/Slavic Europe other than the Balkans (e.g., Russia, Ukraine, Belarus, Poland, Czechia, Slovakia)",
-            "originating in, indigenous to, or associated w/ contemporary Balkans (Croatia, Serbia, Slovenia, Montenegro, Bosnia, Bulgaria, N. Macedonia, Romania, Moldova)",
-            "originating in, indigenous to, or associated w/ contemporary Mediterranean Europe (i.e., Iberian Peninsula, Italy, Greece, the Balkan coast, Mediterranean islands)"
-        ]
-    },
-    {
-        "name": "AAW",
-        "description": "Areal/Cultural Association - Western Hemisphere",
-        "gradient_type": "D1",
-        "cs": "jn",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient North America",
-            "originating in, indigenous to, or associated w/ traditional/ancient Central America",
-            "originating in, indigenous to, or associated w/ traditional/ancient Caribbean",
-            "originating in, indigenous to, or associated w/ traditional/ancient South America",
-            "originating in, indigenous to, or associated w/ Western Hemisphere",
-            "originating in, indigenous to, or associated w/ contemporary South America",
-            "originating in, indigenous to, or associated w/ contemporary Caribbean",
-            "originating in, indigenous to, or associated w/ contemporary Central America",
-            "originating in, indigenous to, or associated w/ contemporary North America"
-        ]
-    },
-    {
-        "name": "AAO",
-        "description": "Areal/Cultural Association - Other Areas",
-        "gradient_type": "D1",
-        "cs": "jň",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "originating in, indigenous to, or associated w/ traditional/ancient Polynesia and Pacific Islands",
-            "originating in, indigenous to, or associated w/ traditional/ancient Australia & New Zealand",
-            "originating in, indigenous to, or associated w/ traditional/ancient Western and Central Siberia",
-            "originating in, indigenous to, or associated w/ traditional/ancient Eastern Siberia",
-            "originating in, indigenous to, or associated w/ Polynesia, Australia, New Zealand, or Siberia",
-            "originating in, indigenous to, or associated w/ contemporary Eastern Siberia",
-            "originating in, indigenous to, or associated w/ contemporary Western and Central Siberia",
-            "originating in, indigenous to, or associated w/ contemporary Australia & New Zealand",
-            "originating in, indigenous to, or associated w/ contemporary Polynesia and Pacific Islands"
-        ]
-    },
-    {
-        "name": "DDM",
-        "description": "Degree of Domestication",
-        "gradient_type": "D1",
-        "cs": "mḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "utterly wild, savage and untamable",
-            "wild/savage unknown if approachable/tamable",
-            "wild/savage but species known to be approachable and potentially tamable",
-            "in the process of domestication, being tamed",
-            "half-savage/half-wild, half-tamed, half-domesticated",
-            "fairly domesticated, fairly tame, but potentially subject to reversion to wild state",
-            "sufficiently domesticated/tamed",
-            "fully domesticated/tamed",
-            "permanently domesticated w/o possibility of returning to a wild state (genetically adapted)"
-        ]
-    },
-    {
-        "name": "CVL",
-        "description": "Degree of Civilization",
-        "gradient_type": "D1",
-        "cs": "řsk",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "hunter-gatherer status with little ability to forestall adversities such as hunger, disease, or invasion/war",
-            "agricultural/agrarian society with limited ability to forestall adversities such as famine, disease, or invasion/war",
-            "transitional society between agrarian and socio-economically complex society, with wide variance in individual socio-economic status, stability, or individual impact of hunger, disease, opportunities, etc.",
-            "socially and economically complex society with sufficient technology to limit the impact of famine, disease, or hardship but unstable due to the continuous impact of politics, war, greed, crime, etc.",
-            "socially and economically complex society with high level of technology and basic human needs met, but still driven by individual agenda and competition",
-            "having achieved a stable and high state of civilization via technology and emotional/psychological maturity/stability and long-term foresight with dual focus on collective security and individual purpose/discovery/potential",
-            "having surmounted the confines/limits of brief lifespan and individual consciousness",
-            "universal; having reached the point of existing beyond the confines/limits of such things as corporeality, time, space — having achieved a universal consciousness",
-            "transcendent; having reached the point of existing beyond the confines/limits of time, space, corporeality, or direct concerns with the material universe"
-        ]
-    },
-    {
-        "name": "HEA",
-        "description": "State of Health",
-        "gradient_type": "0",
-        "cs": "žf",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "in the prime of health, completely healthy, without any illness, malady, injury, or incapacity",
-            "suffering from a temporary illness or malady causing some degree of impairment or incapacity",
-            "suffering from a major illness or malady causing significant impairment or incapacity",
-            "malnourished/under-nourished/emaciated, suffering from malnutrition and/or long-term lack of proper care",
-            "suffering from a temporary/mild injury causing some degree of impairment or incapacity",
-            "suffering from a major injury causing significant impairment or incapacity",
-            "permanently impaired/incapacitated due to having suffered a life-altering injury or illness",
-            "chronically sick/ill to the point of (seemingly) permanent decrepitude/impairment",
-            "permanently bed-ridden and incapable of caring for one’s basic needs due to chronic illness or physical decrepitude/incapacity"
-        ]
-    },
-    {
-        "name": "ADI",
-        "description": "Adverse Disease/Disorder/Illness",
-        "gradient_type": "C",
-        "cs": "lkř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "temporarily asymptomatic despite having [contracted] condition/illness/disorder/pathogen X",
-            "temporarily mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-            "temporarily moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-            "temporarily severely ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-            "dead/deceased due to having [contracted] condition/illness/disorder/pathogen X [CPT=deceased]",
-            "permanently or chronically severely ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-            "permanently or chronically moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-            "permanently or chronically mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-            "permanently or chronically asymptomatic despite having [contracted] condition/illness/disorder/pathogen X"
-        ]
-    },
-    {
-        "name": "ASP",
-        "description": "Attributes of Sub-Atomic Particles",
-        "gradient_type": "0",
-        "cs": "xj",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "having opposite charge, antimatter version of X",
-            "super-symmetrical partner of X, “sparticle” counterpart of X, e.g., photino, gluino, gravitino, slepton, squark, sneutrino, etc.",
-            "spin value (intrinsic angular momentum) of particle X",
-            "orbital angular momentum of particle X",
-            "mass of particle X",
-            "isospin of particle X",
-            "parity of particle X",
-            "G-parity of particle X",
-            "C-parity of particle X"
-        ]
-    },
-    {
-        "name": "CFQ",
-        "description": "“Colors” and “Flavors” of Quarks",
-        "gradient_type": "0",
-        "cs": "bj",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "up",
-            "charm",
-            "top",
-            "red",
-            "green",
-            "blue",
-            "bottom",
-            "strange",
-            "down"
-        ]
-    },
-    {
-        "name": "ION",
-        "description": "Ionic Compounding Elements",
-        "gradient_type": "C",
-        "cs": "ltř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "transition metal cation with +1 charge",
-            "transition metal cation with +2 charge",
-            "transition metal cation with +3 charge",
-            "transition metal cation with +4 charge",
-            "hydrogen + anion acid (hydro … ic acid), e.g., when used with chlorine, this results in hydrochloric acid, i.e., hydrochloride / chlorhydrate",
-            "compounding anion with -4 charge",
-            "compounding anion with -3 charge",
-            "compounding anion with -2 charge",
-            "compounding anion with -1 charge"
-        ],
-        "notes": "Ionic Compounds — inorganic compounds between metals [cations] and non-metals [anions] (like English -ide suffix but with electron charge explicitly stated)"
-    },
-    {
-        "name": "AMC",
-        "description": "Number of Atoms in a Molecular Compound",
-        "gradient_type": "A1",
-        "cs": "rtl",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "deca-*",
-            "di-",
-            "tri-",
-            "tetra-",
-            "penta-",
-            "hexa-",
-            "hepta-",
-            "octa-",
-            "nona-"
-        ],
-        "notes": "Molecular Compounds — inorganic compounds between nonmetals\n\n* A single atom (equivalent to English “mono-”) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
-    },
-    {
-        "name": "PIA",
-        "description": "Polyatomic Ions A",
-        "gradient_type": "0",
-        "cs": "cţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "sulfate",
-            "nitrate",
-            "chlorate",
-            "arsenate",
-            "carbonate",
-            "chromate",
-            "bromate",
-            "phosphate",
-            "iodate"
-        ]
-    },
-    {
-        "name": "PIB",
-        "description": "Polyatomic Ions B",
-        "gradient_type": "0",
-        "cs": "ẓţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "sulfite",
-            "nitrite",
-            "chlorite",
-            "arsenite",
-            "hydroxide",
-            "chromite",
-            "bromite",
-            "phosphite",
-            "iodite"
-        ]
-    },
-    {
-        "name": "PIC",
-        "description": "Polyatomic Ions C",
-        "gradient_type": "0",
-        "cs": "čţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "peroxide",
-            "silicate",
-            "citrate",
-            "acetate",
-            "oxide",
-            "cyanide",
-            "tartrate",
-            "formate",
-            "oxalate"
-        ]
-    },
-    {
-        "name": "PID",
-        "description": "Polyatomic Ions D",
-        "gradient_type": "0",
-        "cs": "jţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "thiocyanate",
-            "thiosulfate",
-            "glycol",
-            "hexacyanoferrate",
-            "permanganate",
-            "succinate",
-            "azanide / amide",
-            "manganate",
-            "benzoate"
-        ]
-    },
-    {
-        "name": "CPI",
-        "description": "Polyatomic Cations",
-        "gradient_type": "0",
-        "cs": "zţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "ammonium",
-            "fluoronium",
-            "hydronium",
-            "pyrylium",
-            "phosphonium",
-            "guanidinium",
-            "tropylium",
-            "triphenylcarbenium",
-            "cyclopropenium"
-        ]
-    },
-    {
-        "name": "API",
-        "description": "Additional Polyatomic Ionic Configurations",
-        "gradient_type": "0",
-        "cs": "žţ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "-ate (base oxyanion), e.g., sulfate",
-            "-ite (i.e., one less oxyanion than base form), e.g., sulfite",
-            "hypo- … -ite (two less oxyanions than base form), e.g., hyposulfite",
-            "per- … -ate (one more oxyanion than base form), e.g., persulfate",
-            "-ide (anionic element where electron charge not specified), e.g., sulfide",
-            "bi- … -ate / hydrogen … -ate (hydrogen + one oxyanion more than base form), e.g., bisulfate",
-            "dihydrogen … -ate (two hydrogens + one oxyanion more than base form), e.g., dihydrogen phosphate",
-            "di- … -ate (two atoms of an element + one oxyanion more than base form), e.g., dichromate",
-            "di … -ide (two atoms of an element + base oxyanion), e.g., disulfide"
-        ],
-        "notes": "Since the abbreviation of this affix in the original pdf conflicts with the abbreviation of -čţ-, a new abbreviation has been unofficially assigned."
-    },
-    {
-        "name": "GPA",
-        "description": "Functional Group A",
-        "gradient_type": "0",
-        "cs": "sḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "alkane, alkyl-, -ane",
-            "alkene, alkenyl-, -ene",
-            "alkyne, alkynyl-, -yne",
-            "benzene deriv., phenyl-, benzene",
-            "halo-, alkyl halide",
-            "fluoro-, alkyl fluoride",
-            "chloro-, alkyl chloride",
-            "bromo-, alkyl bromide",
-            "iodo-, alkyl iodide"
-        ]
-    },
-    {
-        "name": "GPB",
-        "description": "Functional Group B",
-        "gradient_type": "0",
-        "cs": "sļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "hydroxil, hydroxy-, -ol",
-            "carbonyl, oxo-, -oyl-, -one",
-            "aldehyde, -formyl-, -al",
-            "haloformyl, carbono- … -oyl-, -oyl halide",
-            "carbonate ester, alkoxycarbonyloxy-, alkyl carbonate",
-            "carboxylate, carboxylato-, -oate",
-            "carboxyl, carboxy-, -oic acid",
-            "carboalcoxy, alkanoyloxy-, alkyl alkanoate",
-            "methoxy, methoxy-"
-        ]
-    },
-    {
-        "name": "GPC",
-        "description": "Functional Group C",
-        "gradient_type": "0",
-        "cs": "šḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "hydroperoxy-, alkyl hydroperoxide",
-            "peroxy-, alkyl peroxide",
-            "ether, alkoxy-, alkyl ether",
-            "hemiacetal, alkoxy -ol, -al alkyl hemiacetal",
-            "hemiketal, alxoxy -ol, -one alkyl hemiketal",
-            "acetal, dialkoxy-, -al dialkyl acetal",
-            "ketal, dialcoxy-, -one dialkyl ketal",
-            "orthoester, -trialkoxy",
-            "orthocarbonate ester, tetralkoxy-, tetraalkyl orthocarbonate"
-        ]
-    },
-    {
-        "name": "GPD",
-        "description": "Functional Group D",
-        "gradient_type": "0",
-        "cs": "šļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "methylenedioxy-, -dioxole",
-            "carboxylic anhydride, anhydride",
-            "carboxamide, carboxamido-, carbamoyl-, -amide",
-            "primary amine, amino-, -amine",
-            "secondary amine, amino-, -amine",
-            "tertiary amine, amino-, -amine",
-            "ammonio-, -ammonium",
-            "imide, imido-, -imide",
-            "azide, azido-, alkyl azide"
-        ]
-    },
-    {
-        "name": "GPE",
-        "description": "Functional Group E",
-        "gradient_type": "0",
-        "cs": "zḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "primary ketimine, imino-, imine",
-            "secondary ketimine, imino-, -imine",
-            "primary aldimine, imino-, imine",
-            "secondary aldimine, imino-, -imine",
-            "azo diimide, azo-, -diazene",
-            "cyanate, cyanato-, alkyl cyanate",
-            "isocyanate, isocyanato-, alkyl isocyanate",
-            "nitrate, nitrooxy-, nitroxy-, alkyl nitrate",
-            "nitrite, nitrosooxy-, alkyl nitrite"
-        ]
-    },
-    {
-        "name": "GPF",
-        "description": "Functional Group F",
-        "gradient_type": "0",
-        "cs": "zļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "nitrile, cyano-, alkanenitrile, alkyl cyanide",
-            "isonitrile, isocyano-, alkaneisonitrile, alkyl isocyanide",
-            "nitro compound, nitro-",
-            "nitroso compound, nitroso-, nitrosyl-",
-            "oxime",
-            "pyridyl, 4-pyridyl, 3-pyridyl, 2-pyridyl, -pyridine",
-            "carbamate, -carbamoyloxy-, -carbamate",
-            "phosphine, phosphanyl-, -phosphane",
-            "phosphonic acid, phosphono-, -phosphonic acid"
-        ]
-    },
-    {
-        "name": "GPG",
-        "description": "Functional Group G",
-        "gradient_type": "0",
-        "cs": "žḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "phosphate, phosphonooxy-, O-phospono-, … phosphate",
-            "phosphodiester, hydroxyphosphoryloxy-, di- … -hydrogen phosphate",
-            "boronic acid, borono-, … boronic acid",
-            "boronate, O-alkylboronyl-, … boronic acid di- … ester",
-            "borinic acid, hydroxyborino-, di- … borinic acid",
-            "borinate, O-alkoxydialkylboronyl-, di- … borinic acid … ester",
-            "alkyllithium, -lithium",
-            "alkylmagnesium halide, -magnesium halide",
-            "alkylaluminium, -aluminium / -aluminum"
-        ]
-    },
-    {
-        "name": "GPH",
-        "description": "Functional Group H",
-        "gradient_type": "0",
-        "cs": "žļ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "sulfhydryl, sulfanyl-, -thiol",
-            "sulfide, -sulfanyl-, di- … sulfide",
-            "disulfide, -disulfanyl-, d-i … disulfide",
-            "sulfoxide, -sulfinyl-, di- … sulfoxide",
-            "sulfone, -sulfonyl-, di- … sulfone",
-            "sulfinic acid, sulfino-, -sulfinic acid",
-            "sulfonic acid, sulfo-, -sulfonic acid",
-            "sulfonate ester, alkoxysulfonyl-, -sulfonate",
-            "carbonothioyl, -thioyl-, sulfanylidene-, -thione"
-        ]
-    },
-    {
-        "name": "GPJ",
-        "description": "Functional Group J",
-        "gradient_type": "0",
-        "cs": "ẓḑ",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "thiocyanate, thocyanato-, … thiocyanate",
-            "isothiocyanate, isothiocyanato-, … isothiocyanate",
-            "methanethioyl-, -thial",
-            "carbothioic S-acid, mercaptocarbonyl-, -thioic S-acid",
-            "carbothioic O-acid, hydroxythiocarbonyl-, -thioic O-acid",
-            "thioester, S-alkyl-alkane-thioate",
-            "thionoester, O-alkyl-alkane-thioate",
-            "carbodithioic acid, dithiocarboxy-, -dithioic acid",
-            "dithiocarboxylic acid ester, -dithioate"
-        ]
-    },
-    {
-        "name": "HDM",
-        "description": "Hidden or Double Meaning",
-        "gradient_type": "C",
-        "cs": "nkř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "the hidden, double-, or intended meaning of a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-            "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-            "a clue or unintended piece of information gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-            "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-            "hidden meaning or double-meaning contained in or implied by X not gleaned/noticed by addressee; addressee fails to read between the lines of X; the hidden meaning implied by X gone over the addressee’s head",
-            "without any hidden or double-meaning being contained in verbal or written communication X",
-            "a clue or unintended piece of information gleaned from verbal or written communication X",
-            "a hidden warning/advisory gleaned from verbal or written communication X",
-            "the hidden, double-, or intended meaning of verbal innuendo X"
-        ]
-    },
-    {
-        "name": "URS",
-        "description": "Usage of a Resource",
-        "gradient_type": "D1",
-        "cs": "lg",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "with X going foolishly unused / with X being needlessly wasted",
-            "with X going unused / with X being wasted",
-            "with (there being) X left over / with X remaining",
-            "with (there being) additional X / with extra X",
-            "with (there being) just the right amount or number of X",
-            "with a decreasing supply/amount of X",
-            "with X being scarce / with X being hard to come by / running short of or on X",
-            "with (there being) not enough X / with (there being) a lack of sufficient X",
-            "with X (having been) foolishly depleted / having run out of X through lack of planning or foresight"
-        ]
-    },
-    {
-        "name": "CRE",
-        "description": "Capacity for a Relationship with an Entity",
-        "gradient_type": "0",
-        "cs": "jf",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "ability/capacity to consider/ponder/analyze X",
-            "ability/capacity to recognize/acknowledge X; ability/capacity to take X seriously",
-            "ability/capacity to understand X",
-            "ability/capacity to withstand/tolerate/hold up/perservere against X",
-            "ability/capacity to appreciate X; ability/capacity to accept how and why X functions or is important",
-            "ability/capacity to practice/perform/participate in X",
-            "ability/capacity to empathize with X; ability/capacity to see X’s point of view or “stand in the shoes” of X",
-            "ability/capacity to socialize with X or allow X to be part of one’s life",
-            "ability/capacity to love X"
-        ]
-    }
+  {
+    "name": "ACQ",
+    "description": "Acquisition",
+    "gradient_type": "0",
+    "cs": "vz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "acquired by chance/whim/having stumbled upon",
+      "acquired by mental effort/learning/study/creation",
+      "acquired by informal, spur-of-the-moment search",
+      "acquired by trickery/subterfuge",
+      "innate/inherent",
+      "acquired by formal search",
+      "acquired by informal agreement/negotiation",
+      "acquired by formally negotiated trade or deal",
+      "acquired by purchase"
+    ]
+  },
+  {
+    "name": "RNC",
+    "description": "Renunciation",
+    "gradient_type": "0",
+    "cs": "ňz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "give up X-ing / give up on X",
+      "lose faith/belief in X(-ing)",
+      "stop trying to",
+      "undermine (efforts to) X",
+      "refuse to X",
+      "lose sense of resolve/commitment to X",
+      "no longer have passion for X / lose passion for X",
+      "lose ability to do/be/make X",
+      "lack means/ability to X"
+    ]
+  },
+  {
+    "name": "INB",
+    "description": "Inability/Incapacity Due To …",
+    "gradient_type": "0",
+    "cs": "čb",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "inability to [perform/achieve/realize] X so due to absence/loss of resources",
+      "inability to [perform/achieve/realize] X so due to absence/loss of physical means",
+      "inability to [perform/achieve/realize] X so due to absence/loss of skill/knowledge",
+      "inability to [perform/achieve/realize] X so due to blockage/prevention of access to resource(s)",
+      "inability to [perform/achieve/realize] X so due to blockage/prevention of access to physical means",
+      "inability to [perform/achieve/realize] X so due to blockage/prevention of access to skill/knowledge",
+      "inability to [perform/achieve/realize] X so due to psychological disorder or trauma",
+      "inability to [perform/achieve/realize] X so due to physical disorder/illness/injury",
+      "inability to [perform/achieve/realize] X so due to loss/absence of desire"
+    ]
+  },
+  {
+    "name": "CMF",
+    "description": "Communication Format",
+    "gradient_type": "0",
+    "cs": "s",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "via language (in general, whether spoken / written / printed / signed / signaled / broadcast / published / disseminated / streamed, etc.)",
+      "via spoken/vocalized language",
+      "via written language; in writing [for real-time communication to be read directly by the present audience]",
+      "via publication ( = in writing for distribution to future audience)",
+      "via electronic distribution/dissemination",
+      "via gesture, pantomime",
+      "via formal sign language",
+      "via pictures/images",
+      "via non-linguistic vocalizations (e.g., grunts, squeals, murmuring, cries, etc.)"
+    ]
+  },
+  {
+    "name": "ENG",
+    "description": "Degree of Engagement/Involvement",
+    "gradient_type": "A1",
+    "cs": "řns",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "avoiding X(-ing) at all costs / run away from X(-ing) / terrified of X(-ing)",
+      "averse to X(-ing); fear X(-ing) / fear of X(-ing) / afraid of X(-ing) / afraid to X",
+      "shirk involvement in X(-ing); not be/get involved in",
+      "to X for appearance’ sake only; to X solely for show",
+      "lackluster interest/involvement in X(-ing)",
+      "marginal interest/involvement in X(-ing)",
+      "limited/partial involvement in X(-ing)/ like X(-ing) / interested in X(-ing)",
+      "fully involved/engrossed in X(-ing) / love to X",
+      "irreversibly involved/engrossed in X(-ing) / enraptured with X(-ing)"
+    ]
+  },
+  {
+    "name": "OSQ",
+    "description": "Opportunity Squandered",
+    "gradient_type": "0",
+    "cs": "ňs",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "wished-for or hoped-for but so far has never come to pass",
+      "missed-out on [opportunity has arisen but one isn’t/wasn’t able or permitted to act upon it despite desire to do so]",
+      "missed-out on [opportunity has arisen but is/was passed by or ignored]",
+      "squandered [opportunity has arisen but attempt to act upon it is/was well-done but unsuccessful]",
+      "missed-out on [opportunity has never arisen and is not likely to arise]",
+      "squandered [opportunity has arisen but is/was acted upon incorrectly or incompetently]",
+      "squandered [opportunity has arisen but the attempt to act upon it is/was thwarted by external entities/factors]",
+      "squandered/missed-out on [opportunity passed by due to ignorance or not being informed]",
+      "won and lost [opportunity was acted upon successfully at first but subsequently failed]"
+    ]
+  },
+  {
+    "name": "MEM",
+    "description": "Memory",
+    "gradient_type": "A1",
+    "cs": "rmz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "always in mind / can’t forget",
+      "never to be forgotten / memorable",
+      "remembered / recalled / remember to …",
+      "(having just been) reminded of X",
+      "on the tip of one’s tongue / almost remembered / on the verge of remembering",
+      "slipped from one’s mind (momentarily); just had it but now can’t remember; momentary lapse in remembering X",
+      "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to …        d",
+      "forgotten, not remembered or recalled [does not occur to try to remember]",
+      "long-forgotten / not currently remembered in general"
+    ]
+  },
+  {
+    "name": "NNN",
+    "description": "N-Numbered Angles/Facets/Faces/Sides/Points/Forms",
+    "gradient_type": "C",
+    "cs": "vř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "uneven/asymmetrical n–sided 2D obtusely angled form (e.g., quadrilateral pentagonoid)",
+      "uneven/asymmetrical n-pointed 2D acutely angled “star” formation",
+      "uneven/asymmetrical n-faceted 3D solid",
+      "uneven/asymmetrical n-faced 3D solid (e.g., n-hedron-like solid)",
+      "having n number of 3D projections/spikes/pointed surfaces",
+      "symmetrical n-faced 3D solid (e.g., tetrahedron, dodecahedron)",
+      "symmetrical n-faceted 3D solid",
+      "symmetrical n-pointed 2D acutely angled “star” formation (can be used with numbers as low as 2, which would refer to an elongated diamond shape)",
+      "symmetrical n–sided 2D form (e.g., square, pentagon, hexagon)"
+    ]
+  },
+  {
+    "name": "RDT",
+    "description": "Redirection of X to Other Use(s)",
+    "gradient_type": "C",
+    "cs": "ḑř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "multiple uses – involuntary",
+      "opposing use – involuntary",
+      "complementary use – involuntary/unpredictable",
+      "unrelated use - involuntary",
+      "not used for traditional purpose – unknown or inapplicable as to whether voluntary or involuntary",
+      "unrelated use - voluntary",
+      "complementary use – voluntary/controlled/predictable",
+      "opposing use – voluntary",
+      "multiple uses – voluntary"
+    ]
+  },
+  {
+    "name": "PSS",
+    "description": "Degree of Alienable Possession",
+    "gradient_type": "0",
+    "cs": "ňš",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "the X which one circumstantially possesses/uses/handles at the moment or with which one is momentarily/circumstantially/informally associated",
+      "the X circumstantially/informally/temporarily taken by, or circumstantially/informally given/assigned/designated to one for their use/possession/responsibility",
+      "the X formally/officially taken by, or formally/officially given/assigned/designated to one for their use/possession/responsibility as per purchase, formal gift, declaration, contract, or other societal convention.",
+      "(one’s) own/(one’s) personal X [informally/circumstantial/temporarily/contextually]",
+      "(one’s) own/(one’s) personal X [formally/officially/contractually/(quasi-)permanently]",
+      "(one’s) own private X",
+      "one’s own private and unique/custom X, known by, but unavailable to others",
+      "one’s own secret and concealed X unknown to others",
+      "one’s own secret and concealed X, unique/custom and unknown to others"
+    ]
+  },
+  {
+    "name": "CLS",
+    "description": "Classification",
+    "gradient_type": "0",
+    "cs": "ňž",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "a physical arrangement or discernible pattern/assortment of X for aesthetic reasons",
+      "a physical arrangement or discernible pattern/assortment of X for utilitarian reasons",
+      "X as a member or representative of a certain kind/sort/genre/class of entity",
+      "X as the basis for classifying/sorting/arranging other entities",
+      "X as the representative label of a certain kind/sort/genre/class of entity",
+      "X as the representative label of a (system of) hierarchical ranking",
+      "X as the basis for a (system of) hierarchical ranking",
+      "(hierarchical) ranking of X",
+      "regular(ity) of X; X as a regular(ized) entity"
+    ]
+  },
+  {
+    "name": "BAS",
+    "description": "Basis",
+    "gradient_type": "0",
+    "cs": "nš",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X-based; on the basis of X  ( = general overall basis for something, i.e., X as both the idea behind and model for something)",
+      "X-based, on the basis of X ( = as the intellectual basis for, X as the idea behind something)",
+      "X-based; modeled upon/after X ( = in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
+      "X-derived, derived from X",
+      "X-patterned/arranged (not in visual shape/form, but in structural arrangement or structural principles; for visual shape/form patterning, see SHP affix)",
+      "X-inspired, inspired by X",
+      "X-driven, driven/powered by X",
+      "motivated by X",
+      "X-triggered; triggered by X ( = X as unwitting/non-causative stimulus for action)"
+    ]
+  },
+  {
+    "name": "SHP",
+    "description": "Shape or Form",
+    "gradient_type": "C",
+    "cs": "fř",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "having the 2-D shape of X; shaped like (an) X",
+      "somewhat or sort of like the 2-D shape of X; reminiscent of the 2-D shape of X",
+      "2-D figure ( = outlined/contoured representation) of X",
+      "2-D mold / “stamp” of X",
+      "X-pattern(ed); patterned like/after X (visual shape/pattern/form only; for structural pattern/arrangement, see BAS affix)",
+      "3-D mold/cast of X",
+      "3-D figure ( = outlined/conoured representation) of X",
+      "somewhat or sort of like the 3-D form/shape of X; reminiscent of the 3-D shape/form of X",
+      "having/mimicking the 3-D form/shape of X; formed like or modeled after X"
+    ]
+  },
+  {
+    "name": "VPF",
+    "description": "Variance From Prototypical 3-D Form",
+    "gradient_type": "0",
+    "cs": "ẓt",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "long axis obliquely angled/inclined away from the vertical/right-angled/rectilinear/perpendicular",
+      "elongated lengthwise/heightwise",
+      "elongated widthwise/girthwise",
+      "curved away from right-angled/rectilinear orientation",
+      "truncated at small/pointed/shorter/smaller end at angle parallel to base",
+      "truncated at small/pointed/shorter/smaller end at oblique angle to base",
+      "a quasi-planar longitudinal (i.e., perpendicular to base) slice through 3-D form X",
+      "a quasi-planar oblique slice through 3-D form/shape X",
+      "a quasi-planar latitudinal (i.e., parallel to base) slice through 3-D form X"
+    ]
+  },
+  {
+    "name": "TDP",
+    "description": "Three-Dimensional Polyhedral Forms",
+    "gradient_type": "C",
+    "cs": "ļř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "symmetrical 3D polyhedron having X-number of triangular faces",
+      "symmetrical 3D polyhedron having X-number of quadrilateral faces",
+      "symmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
+      "symmetrical 3D polyhedron having X-number of mixed polygonal faces",
+      "a 3D form/object whose 2-dimensional/planar outline shape (i.e., against a background) is X",
+      "asymmetrical 3D polyhedron having X-number of mixed polygonal faces",
+      "asymmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
+      "asymmetrical 3D polyhedron having X-number of quadrilateral faces",
+      "asymmetrical 3D polyhedron having X-number of triangular faces"
+    ]
+  },
+  {
+    "name": "CNW",
+    "description": "Conway Polyhedral Mathematical Operations",
+    "gradient_type": "D1",
+    "cs": "ļn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "dual",
+      "truncated",
+      "subdivided",
+      "augmented",
+      "kis",
+      "beveled",
+      "chamfered",
+      "join",
+      "ambo"
+    ]
+  },
+  {
+    "name": "PAT",
+    "description": "Common 2-Dimensional Decorative/Featural Patterns",
+    "gradient_type": "0",
+    "cs": "jb",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "checker-patterned; checked",
+      "polka-dotted",
+      "diagonally-striped",
+      "vertically striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
+      "striped",
+      "horizontally striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
+      "vertically & horizontally cross-hatched",
+      "diagonally cross-hatched; diamond-patterned",
+      "grid-like, screen-like ( = fine-grained cross-hatching)"
+    ]
+  },
+  {
+    "name": "PUA",
+    "description": "Private Usage Or Association",
+    "gradient_type": "B",
+    "cs": "çl",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "for one’s own personal use",
+      "for use by a private/select group",
+      "for use by a specific/particular group",
+      "known only to or familiar only to oneself",
+      "known only to or familiar only to a private/select group",
+      "known only to or familiar only to a specific/particular group",
+      "associated with or having to do with oneself only",
+      "associated with or having to do with a private/select group",
+      "associated with or having to do with a specific/particular group"
+    ]
+  },
+  {
+    "name": "HUM",
+    "description": "Human Usage/Presence/Intervention",
+    "gradient_type": "0",
+    "cs": "ẓp",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "as associated with human beings",
+      "for the benefit of human beings",
+      "for use by human beings",
+      "as determined/planned by human beings",
+      "as arranged/structured by human beings",
+      "as a product or planned result of human usage/intervention",
+      "as a(n unforeseen) by-product/consequence/vestige of human usage/association/intervention",
+      "as an indicator/clue of human presence/intervention/usage",
+      "as a resource for use by human beings"
+    ]
+  },
+  {
+    "name": "KIN",
+    "description": "Kinship Relation",
+    "gradient_type": "0",
+    "cs": "cc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "having a full-blood relationship (i.e., genetically related through both parents)",
+      "half-related (e.g., half-sister, half-cousin), (i.e., genetically related through one parent only)",
+      "paternally related (i.e., through one’s own genetic father)",
+      "maternally related (i.e., through one’s own genetic mother)",
+      "double-relation (i.e., related through both parents via the mating of a set of siblings from one family with a set of siblings of another family)",
+      "in-law relation (i.e., non-blood relation through marriage only)",
+      "parallel-related (i.e., related through a parent’s sibling of the same gender as the parent)",
+      "cross-related (i.e., related through a parent’s sibling of a different gender than the parent)",
+      "legally adopted relation (no genetic relation)"
+    ]
+  },
+  {
+    "name": "KSD",
+    "description": "Generational/Sequential Kinship Descriptions",
+    "gradient_type": "D1",
+    "cs": "vk",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "of one’s previous generation ( i.e., “once removed (upward)”)",
+      "of two generations previous (i.e., “grand-”, “twice removed (upward)”)",
+      "of three generations previous (i.e., “great grand-”, “three times removed (upward)”)",
+      "foster relationship",
+      "common law relationship",
+      "“god-” relative or other pseudo-familial relationship (i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent)",
+      "of three generations later (i.e., “great grand-”, “three times removed (downward)”)",
+      "of two generations later (i.e., “grand-”, “twice removed (downward)”)",
+      "of one’s subsequent generation ( i.e., “once removed (downward)”)"
+    ]
+  },
+  {
+    "name": "APV",
+    "description": "Alternate Points of View",
+    "gradient_type": "A1",
+    "cs": "rps",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "and not even occurring to one to evaluate/consider/analyze a/the situation in any way before deciding/acting",
+      "and not even occurring to one to evaluate/consider (a) point(s) of view other than one’s own",
+      "with alternate point(s) of view blindly dismissed as irrelevant or having no value before even being considered",
+      "with consideration given to alternate point(s) of view but dismissed because one’s own point of view is intransigent/non-negotiable",
+      "with potential seen in other point(s) of view leading to possible tolerance of each other’s viewpoint (i.e., “live and let live” solution)",
+      "with potential seen in other point(s) of view as basis for compromise solution (i.e., where each party makes concessions)",
+      "with potential seen in other point(s) of view as basis for win-win outcome (i.e., where both solutions together are mutually advantageous)",
+      "with potential seen in other point(s) of view as basis for conceding one’s own point of view partially in favor of alternate point(s) of view",
+      "with potential seen in other point(s) of view as basis for conceding one’s own point of view entirely in favor of alternate point(s) of view"
+    ]
+  },
+  {
+    "name": "CRD",
+    "description": "Degree of Crowdedness",
+    "gradient_type": "A1",
+    "cs": "řks",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "tightly packed together (“like sardines”) / with no space between components / with no room to move",
+      "packed together touching",
+      "packed together with minimal space between components / with barely enough room to move without touching others",
+      "crowded but with sufficient space to move around / loosely packed",
+      "somewhat crowded",
+      "not too crowded / lightly crowded / sufficient room to move around easily between components",
+      "uncrowded / somewhat sparse",
+      "sparse / spare / uncrowded / light",
+      "utterly sparse, spare, lone, solitary / the only one of / sole / unaccompanied; alone / by -self / on one’s own / unaccompanied / solely"
+    ]
+  },
+  {
+    "name": "EGY",
+    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State (i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:)",
+    "gradient_type": "0",
+    "cs": "kz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "spring forth (from within), i.e., release pent-up energy into an outward thrusting motion",
+      "release (to lower energy state, e.g., fall, let drop, let go, slide, let out, give out, etc.)",
+      "grow",
+      "wither",
+      "“keep running”, i.e., by either continuous or periodic addition of fuel/energy to flow, as in a water-wheel, a windmill, an engine, staying awake, working, etc.",
+      "spurt, spray, blow out, i.e., release through constriction under pressure",
+      "accumulate, i.e., grow via accretion",
+      "be drawn out or sucked out, i.e., forced translative motion through aperture via low-pressure differential",
+      "become agitated/excited/heated via external energy application"
+    ]
+  },
+  {
+    "name": "SEX",
+    "description": "Biological (i.e., genetically-determined) Sex",
+    "gradient_type": "D1",
+    "cs": "š",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "born biologically/genetically female; of the female sex",
+      "different from / atypical of the female sex",
+      "born biologically/genetically male; of the male sex",
+      "different from / atypical of the male sex",
+      "born intersex / “hermaphrodite”",
+      "whose born sex is indiscernible/hidden/unknown/obscured",
+      "unisex; applying to or inclusive of both sexes",
+      "sex-based; formally differentiated/distinguished based on sex",
+      "sex-neutral; irrelevant in regard to sex"
+    ]
+  },
+  {
+    "name": "GID",
+    "description": "Gender Identity (i.e., one’s chosen identification in relation to sex)",
+    "gradient_type": "D1",
+    "cs": "c",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "female (gender identity, not necessarily biological sex)",
+      "intergender / androgynous (gender identity, not necessarily biological sex)",
+      "male (gender identity, not necessarily biological sex)",
+      "third gender (e.g., hijra, māhū, fakaleiti, fa’afafine)",
+      "non-binary gender identification",
+      "genderfluid, of varying gender identification",
+      "bigender, of multiple genders simultaneously",
+      "genderqueer",
+      "agender, without gender or gender identity being inapplicable/irrelevant"
+    ]
+  },
+  {
+    "name": "SID",
+    "description": "Subjective Identity",
+    "gradient_type": "B",
+    "cs": "lç",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
+      "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
+      "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
+      "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
+      "Psychologically/subjectively identifying oneself as conforming to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
+      "Psychologically/subjectively identifying oneself as conforming to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
+      "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X.",
+      "Psychologically/subjectively identifying oneself as conforming to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
+      "Psychologically/subjectively identifying oneself as conforming to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others."
+    ]
+  },
+  {
+    "name": "CLG",
+    "description": "Cultural or Geo-Demographic Association (primarily used with carrier stems)",
+    "gradient_type": "0",
+    "cs": "ḑc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "the spoken/written language associated with X",
+      "a historical event associated with X",
+      "the people/culture/society associated with X",
+      "the sense of socio-cultural identity/solidarity associated with X",
+      "a behavioral/personality trait or aesthetic style or physical characteristic associated with X",
+      "a practice/ritual associated with X",
+      "a belief associated with X",
+      "an item/artifact/object/costume/artwork or tangible accomplishment associated with X",
+      "the physical country/land/geographical domain associated with X"
+    ]
+  },
+  {
+    "name": "OGC",
+    "description": "Orientation or Location Relative to a Geographical Central Point",
+    "gradient_type": "D1",
+    "cs": "dn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "northern",
+      "northwestern",
+      "western",
+      "northeastern",
+      "geographically central",
+      "southwestern",
+      "eastern",
+      "southeastern",
+      "southern"
+    ]
+  },
+  {
+    "name": "MSE",
+    "description": "Miscellaneous Entailments Associated with an Entity",
+    "gradient_type": "0",
+    "cs": "zẓ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X offered/supplied/sold as a commodity",
+      "X packaged/processed for commercial sale/use",
+      "X as a coveted/guarded/protected/limited natural resource",
+      "X as a focal point of political contention",
+      "X as a focal point of geopolitical contention/war",
+      "X as a force of nature",
+      "X as the focal point/key to an inquiry/investigation/mystery",
+      "X as a causal/triggering element/circumstance for a story/plot/series of events",
+      "X as the source of one’s emotional state"
+    ]
+  },
+  {
+    "name": "PCM",
+    "description": "Primary Construction Material",
+    "gradient_type": "D1",
+    "cs": "bḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "where X is made exclusively or primarily of wood",
+      "where X is made exclusively or primarily of metal",
+      "where X is made exclusively or primarily of ceramic or porcelain",
+      "where X is made exclusively or primarily of rubber",
+      "where X is made exclusively or primarily of glass",
+      "where X is made exclusively of resin or natural secretion",
+      "where X is made exclusively or primarily of plastic",
+      "where X is made exclusively or primarily of anartificial/synthetic material",
+      "where X is made exclusively or primarily of stone"
+    ]
+  },
+  {
+    "name": "STF",
+    "description": "Miscellaneous Surface Textures or Formations (e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.)",
+    "gradient_type": "0",
+    "cs": "žv",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "fruticose (i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down)",
+      "foliose (i.e. structured/formed in 2D flat leaf-like lobes)",
+      "crustose (i.e. crust-like, adhering tightly to a surface/substrate like a thick coat of paint)",
+      "squamulose (i.e. formed of small leaf-like scales crust-like below but free at the tips)",
+      "leprose (i.e., powdery)",
+      "gelatinous (i.e. jelly-like)",
+      "filamentous (i.e. stringy or like matted hair)",
+      "byssoid (i.e. wispy, like teased wool or cotton candy)",
+      "imprinted (i.e. visibly distinct/different from the rest of the surface or substrate but texturally indistinct and imbued into and unseparable from the substrate)"
+    ]
+  },
+  {
+    "name": "MIA",
+    "description": "Musical Instrument Attributes",
+    "gradient_type": "0",
+    "cs": "ţš",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "instrument is non-pitched",
+      "instrument has a (quasi-) fixed pitch but is untunable",
+      "instrument is tunable to a fixed pitch",
+      "instrument is tunable and capable of a controllable range of pitches while being played (e.g., talking drum, banyan drum of a set of tabla, cuica, etc.)",
+      "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch (e.g., tongue drum, steel drum)",
+      "instrument is a set of tunable individual component instruments, each set/tunable to a distinct pitch",
+      "instrument is playable/played using multiple modes of contact (e.g., with both hand or stick, by both bow and hand, by striking and rubbing, etc.)",
+      "instrument’s primary interface is via a keyboard or set of patterned buttons which trigger the actual striking/plucking/air-flow sounding mechanism",
+      "instrument is electrically/electronically amplified"
+    ]
+  },
+  {
+    "name": "CAM",
+    "description": "Customization & Modifications",
+    "gradient_type": "B",
+    "cs": "ḑç",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "the largest (bass-oriented) version of the usual X",
+      "a larger (baritone-oriented) version of the usual X",
+      "a smaller (treble- or soprano-oriented) version of the usual X",
+      "a modified/enhanced version of the usual X (to give it a greater note-range)",
+      "a modified/enhanced version of the usual X (to make it louder)",
+      "a modified/enhanced version of the usual X (to give it more power/resonance)",
+      "a modified/customized version of the usual X tailored to the operator’s specifications",
+      "a modified/customized version of the usual X tailored/sized for a child",
+      "a modified/customized version of the usual X tailored/simplified for learning"
+    ],
+    "notes": "This affix is primarily applied to stems for musical instruments, however it may be used as needed for other devices/objects where applicable."
+  },
+  {
+    "name": "GAB",
+    "description": "Musical Notes GAB",
+    "gradient_type": "A1",
+    "cs": "řm",
+    "associated_root": false,
+    "degrees": [
+      null,
+      [
+        "(standard) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)",
+        "(relative) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)",
+        "(relative) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)"
+      ],
+      [
+        "(standard) “blue” note/tone between A-flat and A; Aᑯ",
+        "(relative) “blue” note/tone between A-flat and A; Aᑯ"
+      ],
+      [
+        "(standard) note/tone in A; A (la)",
+        "(relative) note/tone in A; A (la)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in A; ~A (~la)",
+        "(relative) bending/meend applied to note/tone in A; ~A (~la)"
+      ],
+      [
+        "(standard) “blue” note/tone between A and A-sharp/B-flat; A╪",
+        "(relative) “blue” note/tone between A and A-sharp/B-flat; A╪"
+      ],
+      [
+        "(standard) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)",
+        "(relative) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)",
+        "(relative) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)"
+      ],
+      [
+        "(standard) “blue” note/tone between B-flat and B; Bᑯ",
+        "(relative) “blue” note/tone between B-flat and B; Bᑯ"
+      ]
+    ],
+    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+  },
+  {
+    "name": "BCD",
+    "description": "Musical Notes BCD",
+    "gradient_type": "A1",
+    "cs": "řç",
+    "associated_root": false,
+    "degrees": [
+      null,
+      [
+        "(standard) note/tone in B; B (ti)",
+        "(relative) note/tone in B; B (ti)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in B; ~B (~ti)",
+        "(relative) bending/meend applied to note/tone in B; ~B (~ti)"
+      ],
+      [
+        "(standard) “blue” note/tone between B and C; Cᑯ/B╪",
+        "(relative) “blue” note/tone between B and C; Cᑯ/B╪"
+      ],
+      [
+        "(standard) note/tone in C; C (do)",
+        "(relative) note/tone in C; C (do)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in C; ~C (~do)",
+        "(relative) bending/meend applied to note/tone in C; ~C (~do)"
+      ],
+      [
+        "(standard) “blue” note/tone between C and C-sharp/D-flat; C╪",
+        "(relative) “blue” note/tone between C and C-sharp/D-flat; C╪"
+      ],
+      [
+        "(standard) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)",
+        "(relative) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)",
+        "(relative) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)"
+      ],
+      [
+        "(standard) “blue” note/tone between D-flat and D; Dᑯ",
+        "(relative) “blue” note/tone between D-flat and D; Dᑯ"
+      ]
+    ],
+    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+  },
+  {
+    "name": "DEF",
+    "description": "Musical Notes DEF",
+    "gradient_type": "A1",
+    "cs": "řļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      [
+        "(standard) note/tone in D; D (re)",
+        "(relative) note/tone in D; D (re)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in D; ~D (~re)",
+        "(relative) bending/meend applied to note/tone in D; ~D (~re)"
+      ],
+      [
+        "(standard) “blue” note/tone between D and D-sharp/E-flat; D╪",
+        "(relative) “blue” note/tone between D and D-sharp/E-flat; D╪"
+      ],
+      [
+        "(standard) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)",
+        "(relative) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)",
+        "(relative) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)"
+      ],
+      [
+        "(standard) “blue” note/tone between E-flat and E; Eᑯ",
+        "(relative) “blue” note/tone between E-flat and E; Eᑯ"
+      ],
+      [
+        "(standard) note/tone in E; E (mi)",
+        "(relative) note/tone in E; E (mi)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in E; ~E (~mi)",
+        "(relative) bending/meend applied to note/tone in E; ~E (~mi)"
+      ],
+      [
+        "(standard) “blue” note/tone between E and F; E╪/Fᑯ",
+        "(relative) “blue” note/tone between E and F; E╪/Fᑯ"
+      ]
+    ],
+    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+  },
+  {
+    "name": "FGA",
+    "description": "Musical Notes FGA",
+    "gradient_type": "A1",
+    "cs": "rl",
+    "associated_root": false,
+    "degrees": [
+      null,
+      [
+        "(standard) note/tone in F; F (fa)",
+        "(relative) note/tone in F; F (fa)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in F; ~F (~fa)",
+        "(relative) bending/meend applied to note/tone in F; ~F (~fa)"
+      ],
+      [
+        "(standard) “blue” note/tone between F and F-sharp/G-flat; F╪",
+        "(relative) “blue” note/tone between F and F-sharp/G-flat; F╪"
+      ],
+      [
+        "(standard) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)",
+        "(relative) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)"
+      ],
+      [
+        "(standard) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)",
+        "(relative) bending/meend applied to  note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
+      ],
+      [
+        "(standard) “blue” note/tone between G-flat and G; Gᑯ",
+        "(relative) “blue” note/tone between G-flat and G; Gᑯ"
+      ],
+      [
+        "(standard) note/tone in G; G (so)",
+        "(relative) note/tone in G; G (so)"
+      ],
+      [
+        "(standard) bending/meend applied to note/tone in G; ~G (~so)",
+        "(relative) bending/meend applied to note/tone in G; ~G (~so)"
+      ],
+      [
+        "(standard) “blue” note/tone between G and G-sharp/A-flat; G╪",
+        "(relative) “blue” note/tone between G and G-sharp/A-flat; G╪"
+      ]
+    ],
+    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+  },
+  {
+    "name": "ASC",
+    "description": "Areal/Spatial Scope",
+    "gradient_type": "D1",
+    "cs": "vḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "in the easily-accessible or visible vicinity of X; within the readily accessible or readily visible vicinity of X",
+      "in the area/space nearby X, in X’s neighborhood, in X’s general vicinity",
+      "in the quarter/district or general area surrounding X",
+      "local; in X’s locality; in the town where X is; in the place/town/locality/community/area where X is",
+      "regional; in X’s part of the larger geographic or geopolitical entity, e.g., in X’s part of the state, in X’s region, in X’s county/canton",
+      "geopolitically regional; at the state/provincial level; at the level, in X’s state/province, in X’s part of the country; geopolitically sub-national or in the geographically large area of; in the large region of, e.g., in the South, up North, having to do with the mountains/desert/plains, etc.",
+      "at the national level",
+      "international(ly); worldwide",
+      "universal"
+    ]
+  },
+  {
+    "name": "AAA",
+    "description": "Areal/Cultural Association - East Asia",
+    "gradient_type": "D1",
+    "cs": "sn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient China",
+      "originating in, indigenous to, or associated w/ traditional/ancient Japan",
+      "originating in, indigenous to, or associated w/ traditional/ancient Korea",
+      "originating in, indigenous to, or associated w/ traditional/ancient Taiwan",
+      "originating in, indigenous to, or associated w/ East Asia",
+      "originating in, indigenous to, or associated w/ contemporary Taiwan",
+      "originating in, indigenous to, or associated w/ contemporary Korea",
+      "originating in, indigenous to, or associated w/ contemporary Japan",
+      "originating in, indigenous to, or associated w/ contemporary China"
+    ]
+  },
+  {
+    "name": "AAS",
+    "description": "Areal/Cultural Association - South Asia",
+    "gradient_type": "D1",
+    "cs": "sň",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient India (including the areas comprising modern Pakistan, Bangladesh and Sri Lanka)",
+      "originating in, indigenous to, or associated w/ traditional/ancient Afghanistan",
+      "originating in, indigenous to, or associated w/ traditional/ancient Nepal",
+      "originating in, indigenous to, or associated w/ traditional/ancient Bhutan",
+      "originating in, indigenous to, or associated w/ South Asia",
+      "originating in, indigenous to, or associated w/ contemporary Bhutan",
+      "originating in, indigenous to, or associated w/ contemporary Nepal",
+      "originating in, indigenous to, or associated w/ contemporary Afghanistan",
+      "originating in, indigenous to, or associated w/ contemporary India, Pakistan, Bangladesh, Sri Lanka"
+    ]
+  },
+  {
+    "name": "AAI",
+    "description": "Areal/Cultural Association - Southeast Asia / East Indies",
+    "gradient_type": "D1",
+    "cs": "šn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)",
+      "originating in, indigenous to, or associated w/ traditional/ancient western mainland Southeast Asia (i.e., Thailand, Myanmar)",
+      "originating in, indigenous to, or associated w/ traditional/ancient East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
+      "originating in, indigenous to, or associated w/ traditional/ancient Philippines",
+      "originating in, indigenous to, or associated w/ Southeast Asia/East Indies",
+      "originating in, indigenous to, or associated w/ contemporary Philippines",
+      "originating in, indigenous to, or associated w/ contemporary East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
+      "originating in, indigenous to, or associated w/ contemporary western mainland Southeast Asia (i.e., Thailand, Myanmar)",
+      "originating in, indigenous to, or associated w/ contemporary eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)"
+    ]
+  },
+  {
+    "name": "AAC",
+    "description": "Areal/Cultural Association - Central Asia (and non-Chinese cultures of the East Asian mainland)",
+    "gradient_type": "D1",
+    "cs": "šň",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient Tibet",
+      "originating in, indigenous to, or associated w/ traditional/ancient Mongolia",
+      "originating in, indigenous to, or associated w/ traditional/ancient Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen",
+      "originating in, indigenous to, or associated w/ traditional/ancient post-expansion non-Turkic Central Asian cultures (i.e., Tajiks, Dari, Bukhori)",
+      "originating in, indigenous to, or associated w/ Central Asia",
+      "originating in, indigenous to, or associated w/ contemporary non-Turkic Central Asian countries/cultures (i.e., Tajiks, Dari, Bukhori)",
+      "originating in, indigenous to, or associated w/ contemporary Turkic Central Asian countries/cultures(i.e., Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen)",
+      "originating in, indigenous to, or associated w/ contemporary Mongolia",
+      "originating in, indigenous to, or associated w/ contemporary Tibet"
+    ]
+  },
+  {
+    "name": "AAM",
+    "description": "Areal/Cultural Association - Middle-East",
+    "gradient_type": "D1",
+    "cs": "cn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient Arabian Peninsula",
+      "originating in, indigenous to, or associated w/ traditional/ancient Fertile Crescent & Levant area",
+      "originating in, indigenous to, or associated w/ traditional/ancient Anatolia & Cyprus",
+      "originating in, indigenous to, or associated w/ traditional/ancient Palestine",
+      "originating in, indigenous to, or associated w/ Middle East",
+      "originating in, indigenous to, or associated w/ contemporary Israel & Palestine",
+      "originating in, indigenous to, or associated w/ contemporary Turkey and Cyprus",
+      "originating in, indigenous to, or associated w/ contemporary Levantine and Fertile Crescent countries/cultures (i.e., Syria, Lebanon, Iraq, Iran, Kurdistan)",
+      "originating in, indigenous to, or associated w/ contemporary Arabian Peninsula (i.e., Saudi Arabia, Oman, Yemen, UAE, Bahrain, Qatar)"
+    ]
+  },
+  {
+    "name": "AAH",
+    "description": "Areal/Cultural Association - Northern Africa & Horn of Africa",
+    "gradient_type": "D1",
+    "cs": "zn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient Egypt and Nile Valley",
+      "originating in, indigenous to, or associated w/ traditional/ancient Horn of Africa",
+      "originating in, indigenous to, or associated w/ traditional/ancient North Africa/Maghreb",
+      "originating in, indigenous to, or associated w/ traditional/ancient Saharan Africa",
+      "originating in, indigenous to, or associated w/ Northern and Eastern Horn of Africa",
+      "originating in, indigenous to, or associated w/ contemporary Saharan Africa (i.e., Mauritania, Mali, Niger, Burkina Faso, Chad, Sudan)",
+      "originating in, indigenous to, or associated w/ contemporary North Africa/Maghreb",
+      "originating in, indigenous to, or associated w/ contemporary Horn of Africa (i.e., Ethiopia, Somalia, Eritrea, Djibouti)",
+      "originating in, indigenous to, or associated w/ contemporary Egypt and Nile Valley"
+    ]
+  },
+  {
+    "name": "AAF",
+    "description": "Areal/Cultural Association - Sub-Saharan Africa",
+    "gradient_type": "D1",
+    "cs": "zň",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient West Coast and Benin Coast of Africa",
+      "originating in, indigenous to, or associated w/ traditional/ancient Central Africa",
+      "originating in, indigenous to, or associated w/ traditional/ancient Southern Africa",
+      "originating in, indigenous to, or associated w/ traditional/ancient East African Islands (i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.)",
+      "originating in, indigenous to, or associated w/ Sub-Saharan Africa",
+      "originating in, indigenous to, or associated w/ contemporary East African Islands (i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.)",
+      "originating in, indigenous to, or associated w/ contemporary Southern Africa (e.g., Namibia, South Africa, Lesotho, Mozambique. Zimbabwe, Zambia, Angola, Malawi)",
+      "originating in, indigenous to, or associated w/ contemporary Central Africa (i.e., Cameroon Central African Republic, Gabon, Congo, DRC, Rwanda, Uganda, Kenya)",
+      "originating in, indigenous to, or associated w/ contemporary West Coast and Benin Coast of Africa (i.e., countries from Senegal to Nigeria)"
+    ]
+  },
+  {
+    "name": "AAN",
+    "description": "Areal/Cultural Association - Northern & Western Europe",
+    "gradient_type": "D1",
+    "cs": "žn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient Celtic Europe (Gaul, Britain, Ireland, Scotland, North Sea and Channel islands)",
+      "originating in, indigenous to, or associated w/ ancent Teutonic Europe (Gothic lands, Norse lands)",
+      "originating in, indigenous to, or associated w/ traditional/ancient Baltic Europe (Estonia, Finland, Latvia, Lithuania, Karelia)",
+      "originating in, indigenous to, or associated w/ traditional/ancient Hungary",
+      "originating in, indigenous to, or associated w/ Northern and Western Europe",
+      "originating in, indigenous to, or associated w/ contemporary Hungary",
+      "originating in, indigenous to, or associated w/ contemporary Baltic countries (Estonia, Finland, Latvia, Lithuania)",
+      "originating in, indigenous to, or associated w/ contemporary Teutonic Europe (England, Teutonic Scandinavia, Germany, Low countries, Switzerland, Austria)",
+      "originating in, indigenous to, or associated w/ contemporary Celtic Europe (i.e., Ireland, Scotland, Wales, Brittany, Manx)"
+    ]
+  },
+  {
+    "name": "AAE",
+    "description": "Areal/Cultural Association - Southern & Eastern Europe",
+    "gradient_type": "D1",
+    "cs": "žň",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient Roman Empire, Iberia, France, Greece, Sicely, Corsica, Sardinia, Malta",
+      "originating in, indigenous to, or associated w/ traditional/ancient Balkans (southeastern Europe, Romania)",
+      "originating in, indigenous to, or associated w/ traditional/ancient Eastern/Slavic Europe other than the Balkans",
+      "originating in, indigenous to, or associated w/ traditional/ancient Caucasus/Caspian/Trans-Caucasia (e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia)",
+      "originating in, indigenous to, or associated w/ Southern and Eastern Europe",
+      "originating in, indigenous to, or associated w/ contemporary Caucasus/Caspian/Trans-Caucasia (e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia)",
+      "originating in, indigenous to, or associated w/ contemporary Eastern/Slavic Europe other than the Balkans (e.g., Russia, Ukraine, Belarus, Poland, Czechia, Slovakia)",
+      "originating in, indigenous to, or associated w/ contemporary Balkans (Croatia, Serbia, Slovenia, Montenegro, Bosnia, Bulgaria, N. Macedonia, Romania, Moldova)",
+      "originating in, indigenous to, or associated w/ contemporary Mediterranean Europe (i.e., Iberian Peninsula, Italy, Greece, the Balkan coast, Mediterranean islands)"
+    ]
+  },
+  {
+    "name": "AAW",
+    "description": "Areal/Cultural Association - Western Hemisphere",
+    "gradient_type": "D1",
+    "cs": "jn",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient North America",
+      "originating in, indigenous to, or associated w/ traditional/ancient Central America",
+      "originating in, indigenous to, or associated w/ traditional/ancient Caribbean",
+      "originating in, indigenous to, or associated w/ traditional/ancient South America",
+      "originating in, indigenous to, or associated w/ Western Hemisphere",
+      "originating in, indigenous to, or associated w/ contemporary South America",
+      "originating in, indigenous to, or associated w/ contemporary Caribbean",
+      "originating in, indigenous to, or associated w/ contemporary Central America",
+      "originating in, indigenous to, or associated w/ contemporary North America"
+    ]
+  },
+  {
+    "name": "AAO",
+    "description": "Areal/Cultural Association - Other Areas",
+    "gradient_type": "D1",
+    "cs": "jň",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "originating in, indigenous to, or associated w/ traditional/ancient Polynesia and Pacific Islands",
+      "originating in, indigenous to, or associated w/ traditional/ancient Australia & New Zealand",
+      "originating in, indigenous to, or associated w/ traditional/ancient Western and Central Siberia",
+      "originating in, indigenous to, or associated w/ traditional/ancient Eastern Siberia",
+      "originating in, indigenous to, or associated w/ Polynesia, Australia, New Zealand, or Siberia",
+      "originating in, indigenous to, or associated w/ contemporary Eastern Siberia",
+      "originating in, indigenous to, or associated w/ contemporary Western and Central Siberia",
+      "originating in, indigenous to, or associated w/ contemporary Australia & New Zealand",
+      "originating in, indigenous to, or associated w/ contemporary Polynesia and Pacific Islands"
+    ]
+  },
+  {
+    "name": "DDM",
+    "description": "Degree of Domestication",
+    "gradient_type": "D1",
+    "cs": "mḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "utterly wild, savage and untamable",
+      "wild/savage unknown if approachable/tamable",
+      "wild/savage but species known to be approachable and potentially tamable",
+      "in the process of domestication, being tamed",
+      "half-savage/half-wild, half-tamed, half-domesticated",
+      "fairly domesticated, fairly tame, but potentially subject to reversion to wild state",
+      "sufficiently domesticated/tamed",
+      "fully domesticated/tamed",
+      "permanently domesticated w/o possibility of returning to a wild state (genetically adapted)"
+    ]
+  },
+  {
+    "name": "CVL",
+    "description": "Degree of Civilization",
+    "gradient_type": "D1",
+    "cs": "řsk",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "hunter-gatherer status with little ability to forestall adversities such as hunger, disease, or invasion/war",
+      "agricultural/agrarian society with limited ability to forestall adversities such as famine, disease, or invasion/war",
+      "transitional society between agrarian and socio-economically complex society, with wide variance in individual socio-economic status, stability, or individual impact of hunger, disease, opportunities, etc.",
+      "socially and economically complex society with sufficient technology to limit the impact of famine, disease, or hardship but unstable due to the continuous impact of politics, war, greed, crime, etc.",
+      "socially and economically complex society with high level of technology and basic human needs met, but still driven by individual agenda and competition",
+      "having achieved a stable and high state of civilization via technology and emotional/psychological maturity/stability and long-term foresight with dual focus on collective security and individual purpose/discovery/potential",
+      "having surmounted the confines/limits of brief lifespan and individual consciousness",
+      "universal; having reached the point of existing beyond the confines/limits of such things as corporeality, time, space — having achieved a universal consciousness",
+      "transcendent; having reached the point of existing beyond the confines/limits of time, space, corporeality, or direct concerns with the material universe"
+    ]
+  },
+  {
+    "name": "HEA",
+    "description": "State of Health",
+    "gradient_type": "0",
+    "cs": "žf",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "in the prime of health, completely healthy, without any illness, malady, injury, or incapacity",
+      "suffering from a temporary illness or malady causing some degree of impairment or incapacity",
+      "suffering from a major illness or malady causing significant impairment or incapacity",
+      "malnourished/under-nourished/emaciated, suffering from malnutrition and/or long-term lack of proper care",
+      "suffering from a temporary/mild injury causing some degree of impairment or incapacity",
+      "suffering from a major injury causing significant impairment or incapacity",
+      "permanently impaired/incapacitated due to having suffered a life-altering injury or illness",
+      "chronically sick/ill to the point of (seemingly) permanent decrepitude/impairment",
+      "permanently bed-ridden and incapable of caring for one’s basic needs due to chronic illness or physical decrepitude/incapacity"
+    ]
+  },
+  {
+    "name": "ADI",
+    "description": "Adverse Disease/Disorder/Illness",
+    "gradient_type": "C",
+    "cs": "lkř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "temporarily asymptomatic despite having [contracted] condition/illness/disorder/pathogen X",
+      "temporarily mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
+      "temporarily moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
+      "temporarily severely ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
+      "dead/deceased due to having [contracted] condition/illness/disorder/pathogen X [CPT=deceased]",
+      "permanently or chronically severely ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
+      "permanently or chronically moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
+      "permanently or chronically mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
+      "permanently or chronically asymptomatic despite having [contracted] condition/illness/disorder/pathogen X"
+    ]
+  },
+  {
+    "name": "ASP",
+    "description": "Attributes of Sub-Atomic Particles",
+    "gradient_type": "0",
+    "cs": "xj",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "having opposite charge, antimatter version of X",
+      "super-symmetrical partner of X, “sparticle” counterpart of X, e.g., photino, gluino, gravitino, slepton, squark, sneutrino, etc.",
+      "spin value (intrinsic angular momentum) of particle X",
+      "orbital angular momentum of particle X",
+      "mass of particle X",
+      "isospin of particle X",
+      "parity of particle X",
+      "G-parity of particle X",
+      "C-parity of particle X"
+    ]
+  },
+  {
+    "name": "CFQ",
+    "description": "“Colors” and “Flavors” of Quarks",
+    "gradient_type": "0",
+    "cs": "bj",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "up",
+      "charm",
+      "top",
+      "red",
+      "green",
+      "blue",
+      "bottom",
+      "strange",
+      "down"
+    ]
+  },
+  {
+    "name": "ION",
+    "description": "Ionic Compounding Elements",
+    "gradient_type": "C",
+    "cs": "ltř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "transition metal cation with +1 charge",
+      "transition metal cation with +2 charge",
+      "transition metal cation with +3 charge",
+      "transition metal cation with +4 charge",
+      "hydrogen + anion acid (hydro … ic acid), e.g., when used with chlorine, this results in hydrochloric acid, i.e., hydrochloride / chlorhydrate",
+      "compounding anion with -4 charge",
+      "compounding anion with -3 charge",
+      "compounding anion with -2 charge",
+      "compounding anion with -1 charge"
+    ],
+    "notes": "Ionic Compounds — inorganic compounds between metals [cations] and non-metals [anions] (like English -ide suffix but with electron charge explicitly stated)"
+  },
+  {
+    "name": "AMC",
+    "description": "Number of Atoms in a Molecular Compound",
+    "gradient_type": "A1",
+    "cs": "rtl",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "deca-*",
+      "di-",
+      "tri-",
+      "tetra-",
+      "penta-",
+      "hexa-",
+      "hepta-",
+      "octa-",
+      "nona-"
+    ],
+    "notes": "Molecular Compounds — inorganic compounds between nonmetals\n\n* A single atom (equivalent to English “mono-”) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
+  },
+  {
+    "name": "PIA",
+    "description": "Polyatomic Ions A",
+    "gradient_type": "0",
+    "cs": "cţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "sulfate",
+      "nitrate",
+      "chlorate",
+      "arsenate",
+      "carbonate",
+      "chromate",
+      "bromate",
+      "phosphate",
+      "iodate"
+    ]
+  },
+  {
+    "name": "PIB",
+    "description": "Polyatomic Ions B",
+    "gradient_type": "0",
+    "cs": "ẓţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "sulfite",
+      "nitrite",
+      "chlorite",
+      "arsenite",
+      "hydroxide",
+      "chromite",
+      "bromite",
+      "phosphite",
+      "iodite"
+    ]
+  },
+  {
+    "name": "PIC",
+    "description": "Polyatomic Ions C",
+    "gradient_type": "0",
+    "cs": "čţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "peroxide",
+      "silicate",
+      "citrate",
+      "acetate",
+      "oxide",
+      "cyanide",
+      "tartrate",
+      "formate",
+      "oxalate"
+    ]
+  },
+  {
+    "name": "PID",
+    "description": "Polyatomic Ions D",
+    "gradient_type": "0",
+    "cs": "jţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "thiocyanate",
+      "thiosulfate",
+      "glycol",
+      "hexacyanoferrate",
+      "permanganate",
+      "succinate",
+      "azanide / amide",
+      "manganate",
+      "benzoate"
+    ]
+  },
+  {
+    "name": "CPI",
+    "description": "Polyatomic Cations",
+    "gradient_type": "0",
+    "cs": "zţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "ammonium",
+      "fluoronium",
+      "hydronium",
+      "pyrylium",
+      "phosphonium",
+      "guanidinium",
+      "tropylium",
+      "triphenylcarbenium",
+      "cyclopropenium"
+    ]
+  },
+  {
+    "name": "API",
+    "description": "Additional Polyatomic Ionic Configurations",
+    "gradient_type": "0",
+    "cs": "žţ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "-ate (base oxyanion), e.g., sulfate",
+      "-ite (i.e., one less oxyanion than base form), e.g., sulfite",
+      "hypo- … -ite (two less oxyanions than base form), e.g., hyposulfite",
+      "per- … -ate (one more oxyanion than base form), e.g., persulfate",
+      "-ide (anionic element where electron charge not specified), e.g., sulfide",
+      "bi- … -ate / hydrogen … -ate (hydrogen + one oxyanion more than base form), e.g., bisulfate",
+      "dihydrogen … -ate (two hydrogens + one oxyanion more than base form), e.g., dihydrogen phosphate",
+      "di- … -ate (two atoms of an element + one oxyanion more than base form), e.g., dichromate",
+      "di … -ide (two atoms of an element + base oxyanion), e.g., disulfide"
+    ],
+    "notes": "Since the abbreviation of this affix in the original pdf conflicts with the abbreviation of -čţ-, a new abbreviation has been unofficially assigned."
+  },
+  {
+    "name": "GPA",
+    "description": "Functional Group A",
+    "gradient_type": "0",
+    "cs": "sḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "alkane, alkyl-, -ane",
+      "alkene, alkenyl-, -ene",
+      "alkyne, alkynyl-, -yne",
+      "benzene deriv., phenyl-, benzene",
+      "halo-, alkyl halide",
+      "fluoro-, alkyl fluoride",
+      "chloro-, alkyl chloride",
+      "bromo-, alkyl bromide",
+      "iodo-, alkyl iodide"
+    ]
+  },
+  {
+    "name": "GPB",
+    "description": "Functional Group B",
+    "gradient_type": "0",
+    "cs": "sļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "hydroxil, hydroxy-, -ol",
+      "carbonyl, oxo-, -oyl-, -one",
+      "aldehyde, -formyl-, -al",
+      "haloformyl, carbono- … -oyl-, -oyl halide",
+      "carbonate ester, alkoxycarbonyloxy-, alkyl carbonate",
+      "carboxylate, carboxylato-, -oate",
+      "carboxyl, carboxy-, -oic acid",
+      "carboalcoxy, alkanoyloxy-, alkyl alkanoate",
+      "methoxy, methoxy-"
+    ]
+  },
+  {
+    "name": "GPC",
+    "description": "Functional Group C",
+    "gradient_type": "0",
+    "cs": "šḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "hydroperoxy-, alkyl hydroperoxide",
+      "peroxy-, alkyl peroxide",
+      "ether, alkoxy-, alkyl ether",
+      "hemiacetal, alkoxy -ol, -al alkyl hemiacetal",
+      "hemiketal, alxoxy -ol, -one alkyl hemiketal",
+      "acetal, dialkoxy-, -al dialkyl acetal",
+      "ketal, dialcoxy-, -one dialkyl ketal",
+      "orthoester, -trialkoxy",
+      "orthocarbonate ester, tetralkoxy-, tetraalkyl orthocarbonate"
+    ]
+  },
+  {
+    "name": "GPD",
+    "description": "Functional Group D",
+    "gradient_type": "0",
+    "cs": "šļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "methylenedioxy-, -dioxole",
+      "carboxylic anhydride, anhydride",
+      "carboxamide, carboxamido-, carbamoyl-, -amide",
+      "primary amine, amino-, -amine",
+      "secondary amine, amino-, -amine",
+      "tertiary amine, amino-, -amine",
+      "ammonio-, -ammonium",
+      "imide, imido-, -imide",
+      "azide, azido-, alkyl azide"
+    ]
+  },
+  {
+    "name": "GPE",
+    "description": "Functional Group E",
+    "gradient_type": "0",
+    "cs": "zḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "primary ketimine, imino-, imine",
+      "secondary ketimine, imino-, -imine",
+      "primary aldimine, imino-, imine",
+      "secondary aldimine, imino-, -imine",
+      "azo diimide, azo-, -diazene",
+      "cyanate, cyanato-, alkyl cyanate",
+      "isocyanate, isocyanato-, alkyl isocyanate",
+      "nitrate, nitrooxy-, nitroxy-, alkyl nitrate",
+      "nitrite, nitrosooxy-, alkyl nitrite"
+    ]
+  },
+  {
+    "name": "GPF",
+    "description": "Functional Group F",
+    "gradient_type": "0",
+    "cs": "zļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "nitrile, cyano-, alkanenitrile, alkyl cyanide",
+      "isonitrile, isocyano-, alkaneisonitrile, alkyl isocyanide",
+      "nitro compound, nitro-",
+      "nitroso compound, nitroso-, nitrosyl-",
+      "oxime",
+      "pyridyl, 4-pyridyl, 3-pyridyl, 2-pyridyl, -pyridine",
+      "carbamate, -carbamoyloxy-, -carbamate",
+      "phosphine, phosphanyl-, -phosphane",
+      "phosphonic acid, phosphono-, -phosphonic acid"
+    ]
+  },
+  {
+    "name": "GPG",
+    "description": "Functional Group G",
+    "gradient_type": "0",
+    "cs": "žḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "phosphate, phosphonooxy-, O-phospono-, … phosphate",
+      "phosphodiester, hydroxyphosphoryloxy-, di- … -hydrogen phosphate",
+      "boronic acid, borono-, … boronic acid",
+      "boronate, O-alkylboronyl-, … boronic acid di- … ester",
+      "borinic acid, hydroxyborino-, di- … borinic acid",
+      "borinate, O-alkoxydialkylboronyl-, di- … borinic acid … ester",
+      "alkyllithium, -lithium",
+      "alkylmagnesium halide, -magnesium halide",
+      "alkylaluminium, -aluminium / -aluminum"
+    ]
+  },
+  {
+    "name": "GPH",
+    "description": "Functional Group H",
+    "gradient_type": "0",
+    "cs": "žļ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "sulfhydryl, sulfanyl-, -thiol",
+      "sulfide, -sulfanyl-, di- … sulfide",
+      "disulfide, -disulfanyl-, d-i … disulfide",
+      "sulfoxide, -sulfinyl-, di- … sulfoxide",
+      "sulfone, -sulfonyl-, di- … sulfone",
+      "sulfinic acid, sulfino-, -sulfinic acid",
+      "sulfonic acid, sulfo-, -sulfonic acid",
+      "sulfonate ester, alkoxysulfonyl-, -sulfonate",
+      "carbonothioyl, -thioyl-, sulfanylidene-, -thione"
+    ]
+  },
+  {
+    "name": "GPJ",
+    "description": "Functional Group J",
+    "gradient_type": "0",
+    "cs": "ẓḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "thiocyanate, thocyanato-, … thiocyanate",
+      "isothiocyanate, isothiocyanato-, … isothiocyanate",
+      "methanethioyl-, -thial",
+      "carbothioic S-acid, mercaptocarbonyl-, -thioic S-acid",
+      "carbothioic O-acid, hydroxythiocarbonyl-, -thioic O-acid",
+      "thioester, S-alkyl-alkane-thioate",
+      "thionoester, O-alkyl-alkane-thioate",
+      "carbodithioic acid, dithiocarboxy-, -dithioic acid",
+      "dithiocarboxylic acid ester, -dithioate"
+    ]
+  },
+  {
+    "name": "HDM",
+    "description": "Hidden or Double Meaning",
+    "gradient_type": "C",
+    "cs": "nkř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "the hidden, double-, or intended meaning of a non-verbal signal, gesture, movement, or sign contained in or implied by X",
+      "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
+      "a clue or unintended piece of information gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
+      "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
+      "hidden meaning or double-meaning contained in or implied by X not gleaned/noticed by addressee; addressee fails to read between the lines of X; the hidden meaning implied by X gone over the addressee’s head",
+      "without any hidden or double-meaning being contained in verbal or written communication X",
+      "a clue or unintended piece of information gleaned from verbal or written communication X",
+      "a hidden warning/advisory gleaned from verbal or written communication X",
+      "the hidden, double-, or intended meaning of verbal innuendo X"
+    ]
+  },
+  {
+    "name": "URS",
+    "description": "Usage of a Resource",
+    "gradient_type": "D1",
+    "cs": "lg",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with X going foolishly unused / with X being needlessly wasted",
+      "with X going unused / with X being wasted",
+      "with (there being) X left over / with X remaining",
+      "with (there being) additional X / with extra X",
+      "with (there being) just the right amount or number of X",
+      "with a decreasing supply/amount of X",
+      "with X being scarce / with X being hard to come by / running short of or on X",
+      "with (there being) not enough X / with (there being) a lack of sufficient X",
+      "with X (having been) foolishly depleted / having run out of X through lack of planning or foresight"
+    ]
+  },
+  {
+    "name": "CRE",
+    "description": "Capacity for a Relationship with an Entity",
+    "gradient_type": "0",
+    "cs": "jf",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "ability/capacity to consider/ponder/analyze X",
+      "ability/capacity to recognize/acknowledge X; ability/capacity to take X seriously",
+      "ability/capacity to understand X",
+      "ability/capacity to withstand/tolerate/hold up/perservere against X",
+      "ability/capacity to appreciate X; ability/capacity to accept how and why X functions or is important",
+      "ability/capacity to practice/perform/participate in X",
+      "ability/capacity to empathize with X; ability/capacity to see X’s point of view or “stand in the shoes” of X",
+      "ability/capacity to socialize with X or allow X to be part of one’s life",
+      "ability/capacity to love X"
+    ]
+  }
 ]

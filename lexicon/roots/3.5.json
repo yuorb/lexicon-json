@@ -1,134 +1,134 @@
 [
-    {
-        "root": "ŢF",
-        "refers": "POSITIONALLY-DEFINED COMPONENTIAL PART",
-        "stems": [
-            {
-                "BSC": "positionally-defined part/section of an entity (e.g., side, front, top, bottom, rear, etc.); to be a positionally-defined part/section of an entity",
-                "CTE": "The state/act of physically being/doing what a positionally-defined part/section of an entity is/does; to physically be/do what a positionally-defined part of an entity/is/does",
-                "CSV": "A/the (relative) spatial position/location which defines/delineates a part/section of an entity; to be a/the spatial position/location which defines/delineates a part/section of an entity",
-                "OBJ": "The entity of which the componential position is a part; to be the entity of which the componential part/section is a part"
-            },
-            "Inalienable, inherent, inseparable “built-in” component part/section in relation to the whole",
-            "Alienable, separable, detachable component part/section in relation to the whole"
-        ],
-        "notes": "Affix: **S08**"
-    },
-    {
-        "root": "KF",
-        "refers": "REAR/BACK PART OF AN ENTITY [RELATIVE TO ITS DIRECTIONAL ORIENTATION OR PRIMARY EXTERNAL INTERFACE]",
-        "see": "ŢF"
-    },
-    {
-        "root": "DY",
-        "refers": "TOP/PEAK/SUMMIT OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
-        "see": "ŢF"
-    },
-    {
-        "root": "DW",
-        "refers": "BOTTOM/FOUNDATION OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
-        "see": "ŢF"
-    },
-    {
-        "root": "ḐY",
-        "refers": "UPPER PART/“HALF” OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
-        "see": "ŢF"
-    },
-    {
-        "root": "ḐW",
-        "refers": "LOWER PART/“HALF” OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
-        "see": "ŢF"
-    },
-    {
-        "root": "XW",
-        "refers": "INTERIOR/INTERNAL VOLUME/“INSIDE(S)”/“INNARDS” OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "CL",
-        "refers": "LINEAR UNI-DIMENSIONAL MIDDLE, CENTER [AS SEEN PARALLEL TO LONG AXIS OF ENTITY (OR HEIGHT-AXIS OF A “TALL” ENTITY)]",
-        "see": "ŢF"
-    },
-    {
-        "root": "CR",
-        "refers": "LINEAR UNI-DIMENSIONAL MIDDLE, CENTER [AS SEEN PERPENDICULAR TO LONG AXIS OF ENTITY (OR HEIGHT-AXIS OF A “TALL” ENTITY)]",
-        "see": "ŢF"
-    },
-    {
-        "root": "ẒL",
-        "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER (RUNNING VERTICALLY AND LATERALLY PARALLEL TO LONG (OR TALL) SIDE OF ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "ẒR",
-        "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER [RUNNING VERTICALLY PARALLEL BUT LATERALLY PERPENDICULAR TO LONG (OR TALL) SIDE OF ENTITY]",
-        "see": "ŢF"
-    },
-    {
-        "root": "ẒW",
-        "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER [RUNNING VERTICALLY AND LATERALLY PERPENDICULAR TO LONG (OR TALL) SIDE OF ENTITY]",
-        "see": "ŢF"
-    },
-    {
-        "root": "CW",
-        "refers": "CENTER POINT OF ENTITY",
-        "notes": "i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity",
-        "see": "ŢF"
-    },
-    {
-        "root": "FḐ",
-        "refers": "SIDE/FLANK OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "PF",
-        "refers": "FRONT PART OF AN ENTITY [RELATIVE TO ITS DIRECTIONAL ORIENTATION OR PRIMARY EXTERNAL INTERFACE]",
-        "see": "ŢF"
-    },
-    {
-        "root": "XL",
-        "refers": "INTERIOR SURFACE/INTERNAL SURFACE/INSIDE SURFACE/“WALL” OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "XR",
-        "refers": "EXTERIOR/EXTERNAL SURFACE/“OUTSIDE”/“SKIN” OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "XḐ",
-        "refers": "EXTERNAL POINT-LIKE OUTWARD FACING VERTEX/“CORNER” OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "XT",
-        "refers": "EXTERNAL QUASI-LINEAR EDGE OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "XK",
-        "refers": "EXTERNAL QUASI-LINEAR JOINING OF SURFACES/“SEAM” OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "XF",
-        "refers": "EXTERNAL ATTACHMENT POINT OR FASTENING MECHANISM OF AN ENTITY",
-        "notes": "i.e., handle, hook, latch, velcro patch, knob, peg, etc.",
-        "see": "ŢF"
-    },
-    {
-        "root": "ČḐ",
-        "refers": "INTERNAL POINT-LIKE INTERIOR VERTEX/“CORNER” OF AN ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "XḐR",
-        "refers": "EXTERNAL LINEAR OUTWARD-FACING “CORNER” EDGE OR “CORNER” SPACE OF ENTITY",
-        "see": "ŢF"
-    },
-    {
-        "root": "ČḐR",
-        "refers": "INTERNAL LINEAR INTERIOR “CORNER” EDGE OR “CORNER” SPACE OF AN ENTITY",
-        "see": "ŢF"
-    }
+  {
+    "root": "ŢF",
+    "refers": "POSITIONALLY-DEFINED COMPONENTIAL PART",
+    "stems": [
+      {
+        "BSC": "positionally-defined part/section of an entity (e.g., side, front, top, bottom, rear, etc.); to be a positionally-defined part/section of an entity",
+        "CTE": "The state/act of physically being/doing what a positionally-defined part/section of an entity is/does; to physically be/do what a positionally-defined part of an entity/is/does",
+        "CSV": "A/the (relative) spatial position/location which defines/delineates a part/section of an entity; to be a/the spatial position/location which defines/delineates a part/section of an entity",
+        "OBJ": "The entity of which the componential position is a part; to be the entity of which the componential part/section is a part"
+      },
+      "Inalienable, inherent, inseparable “built-in” component part/section in relation to the whole",
+      "Alienable, separable, detachable component part/section in relation to the whole"
+    ],
+    "notes": "Affix: **S08**"
+  },
+  {
+    "root": "KF",
+    "refers": "REAR/BACK PART OF AN ENTITY [RELATIVE TO ITS DIRECTIONAL ORIENTATION OR PRIMARY EXTERNAL INTERFACE]",
+    "see": "ŢF"
+  },
+  {
+    "root": "DY",
+    "refers": "TOP/PEAK/SUMMIT OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
+    "see": "ŢF"
+  },
+  {
+    "root": "DW",
+    "refers": "BOTTOM/FOUNDATION OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
+    "see": "ŢF"
+  },
+  {
+    "root": "ḐY",
+    "refers": "UPPER PART/“HALF” OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
+    "see": "ŢF"
+  },
+  {
+    "root": "ḐW",
+    "refers": "LOWER PART/“HALF” OF AN ENTITY [RELATIVE TO ITS TYPICAL ORIENTATION UNDER GRAVITY]",
+    "see": "ŢF"
+  },
+  {
+    "root": "XW",
+    "refers": "INTERIOR/INTERNAL VOLUME/“INSIDE(S)”/“INNARDS” OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "CL",
+    "refers": "LINEAR UNI-DIMENSIONAL MIDDLE, CENTER [AS SEEN PARALLEL TO LONG AXIS OF ENTITY (OR HEIGHT-AXIS OF A “TALL” ENTITY)]",
+    "see": "ŢF"
+  },
+  {
+    "root": "CR",
+    "refers": "LINEAR UNI-DIMENSIONAL MIDDLE, CENTER [AS SEEN PERPENDICULAR TO LONG AXIS OF ENTITY (OR HEIGHT-AXIS OF A “TALL” ENTITY)]",
+    "see": "ŢF"
+  },
+  {
+    "root": "ẒL",
+    "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER (RUNNING VERTICALLY AND LATERALLY PARALLEL TO LONG (OR TALL) SIDE OF ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "ẒR",
+    "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER [RUNNING VERTICALLY PARALLEL BUT LATERALLY PERPENDICULAR TO LONG (OR TALL) SIDE OF ENTITY]",
+    "see": "ŢF"
+  },
+  {
+    "root": "ẒW",
+    "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER [RUNNING VERTICALLY AND LATERALLY PERPENDICULAR TO LONG (OR TALL) SIDE OF ENTITY]",
+    "see": "ŢF"
+  },
+  {
+    "root": "CW",
+    "refers": "CENTER POINT OF ENTITY",
+    "notes": "i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity",
+    "see": "ŢF"
+  },
+  {
+    "root": "FḐ",
+    "refers": "SIDE/FLANK OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "PF",
+    "refers": "FRONT PART OF AN ENTITY [RELATIVE TO ITS DIRECTIONAL ORIENTATION OR PRIMARY EXTERNAL INTERFACE]",
+    "see": "ŢF"
+  },
+  {
+    "root": "XL",
+    "refers": "INTERIOR SURFACE/INTERNAL SURFACE/INSIDE SURFACE/“WALL” OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "XR",
+    "refers": "EXTERIOR/EXTERNAL SURFACE/“OUTSIDE”/“SKIN” OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "XḐ",
+    "refers": "EXTERNAL POINT-LIKE OUTWARD FACING VERTEX/“CORNER” OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "XT",
+    "refers": "EXTERNAL QUASI-LINEAR EDGE OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "XK",
+    "refers": "EXTERNAL QUASI-LINEAR JOINING OF SURFACES/“SEAM” OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "XF",
+    "refers": "EXTERNAL ATTACHMENT POINT OR FASTENING MECHANISM OF AN ENTITY",
+    "notes": "i.e., handle, hook, latch, velcro patch, knob, peg, etc.",
+    "see": "ŢF"
+  },
+  {
+    "root": "ČḐ",
+    "refers": "INTERNAL POINT-LIKE INTERIOR VERTEX/“CORNER” OF AN ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "XḐR",
+    "refers": "EXTERNAL LINEAR OUTWARD-FACING “CORNER” EDGE OR “CORNER” SPACE OF ENTITY",
+    "see": "ŢF"
+  },
+  {
+    "root": "ČḐR",
+    "refers": "INTERNAL LINEAR INTERIOR “CORNER” EDGE OR “CORNER” SPACE OF AN ENTITY",
+    "see": "ŢF"
+  }
 ]

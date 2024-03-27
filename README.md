@@ -56,7 +56,7 @@ type StandardAffix = {
   description: string;
   gradient_type: "0" | "A1" | "A2" | "B" | "C" | "D1" | "D2";
   cs: string;
-  associated_root: boolean,
+  associated_root: boolean;
   degrees: [
     // Degree 0
     Degree | null,

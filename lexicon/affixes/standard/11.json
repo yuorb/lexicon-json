@@ -1,349 +1,349 @@
 [
-    {
-        "name": "PWF",
-        "description": "Part/Whole Functional Metaphors",
-        "gradient_type": "0",
-        "cs": "nz",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "(acting as) engine / motor / heart / pump / core / driver mechanism",
-            "(acting as) brain / computer / chip / instruction set",
-            "(acting as) input / feeder / access point / mouth",
-            "(acting as) exit point / anus / exhaust / tailpipe / smokestack / vent",
-            "(acting as) skeleton / frame",
-            "(acting as) wiring / energy conduits",
-            "(acting as) plumbing / hydraulic or gas conduits",
-            "(acting as) EM audio or visual sensor / eye / ear / antennae",
-            "(acting as) communication interface / voice"
-        ]
-    },
-    {
-        "name": "PWC",
-        "description": "Part/Whole Componential Metaphors (replaces Ithkuil’s PTG affix)",
-        "gradient_type": "0",
-        "cs": "mž",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "(acting as) support / leg / stand / base of X",
-            "(acting as) “trunk”, torso, or central bulk portion of X",
-            "(acting as) “head” extension or main interface area of X",
-            "(acting as) top/upper component relative to gravity or natural vector of movement of X",
-            "(acting as) side/flank/lateral component of X",
-            "(acting as) bottom/lower component relative to gravity or natural vector of movement of X",
-            "(acting as) middle or divisional segment or joint (e.g., elbow, knee, knuckle)",
-            "(acting as) wing /  arm / branch / extensor of X",
-            "(acting as) end-manipulator, hand of X"
-        ]
-    },
-    {
-        "name": "SBS",
-        "description": "Subset of Configurative Set",
-        "gradient_type": "C",
-        "cs": "dř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "single specific member (random, i.e., any given member)",
-            "natural first level subset (e.g., “a cell among a network”, “a clique within a club”, “a row of an orchard”)",
-            "natural 2nd level subset (e.g., “section of a network”, “subcommittee within a club”, “section of an orchard”)",
-            "complex natural system or pattern within a set (e.g., “the circulatory system”, “the heating system”)",
-            "subset of set (unknown if natural or select sub-configuration)",
-            "complex/circumstantial select pattern/arrangement within a set (e.g., “the parts/things of a house damaged by fire”)",
-            "2nd level subset (externally determined) (e.g., “select section of trees of an orchard”)",
-            "1st level subset (externally determined) (e.g., “select rocks from a pile”, “select trees of an orchard”)",
-            "single select member (externally determined)"
-        ]
-    },
-    {
-        "name": "SPS",
-        "description": "Superset",
-        "gradient_type": "C",
-        "cs": "bř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set",
-            "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity",
-            "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate (quasi-)independently",
-            "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate interdependently, i.e., the superset is now a complex system",
-            "High-order super-system, consisting of multiple levels of interdependent systems; the super-system manifests synergistic/emergent effects/properties",
-            "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate interdependently, & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
-            "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate (quasi-)independently & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
-            "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity",
-            "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties"
-        ],
-        "notes": "The affix can be used in conjunction with the specialized Ca-stacking Cs affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt (i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration)."
-    },
-    {
-        "name": "DCF",
-        "description": "2nd-Level Duplex Configurative Set of 1st-Level Sets",
-        "gradient_type": "B",
-        "cs": "mç",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "DSS set of first-order configurative sets X",
-            "DSC set of first-order configurative sets X",
-            "DSF set of first-order configurative sets X",
-            "DDS set of the first-order configurative sets X",
-            "DDC set of first-order configurative sets X",
-            "DDF set of first-order configurative sets X",
-            "DFS set of first-order configurative sets X",
-            "DFC set of first-order configurative sets X",
-            "DFF set of first-order configurative sets X"
-        ],
-        "notes": "The affix serves the same purpose as Ca-stacking but are limited only to the category of Configuration"
-    },
-    {
-        "name": "MCF",
-        "description": "2nd-Level Multiplex Configurative Set of 1st-Level Sets",
-        "gradient_type": "B",
-        "cs": "nç",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "MSS set of first-order configurative sets X",
-            "MSC set of first-order configurative sets X",
-            "MSF set of first-order configurative sets X",
-            "MDS set of first-order configurative sets X",
-            "MDC set of first-order configurative sets X",
-            "MDF set of first-order configurative sets X",
-            "MFS set of first-order configurative sets X",
-            "MFC set of first-order configurative sets X",
-            "MFF set of first-order configurative sets X"
-        ],
-        "notes": "The affix serves the same purpose as Ca-stacking but are limited only to the category of Configuration"
-    },
-    {
-        "name": "DPR",
-        "description": "Dispersion or Separability of a Configurative Set (can be used for spatial or temporal contexts)",
-        "gradient_type": "C",
-        "cs": "sř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "in total contact/contiguous mass of; pile, “ball of …” [(quasi-)permanent]",
-            "non-contiguous but closely connected, interlinked, each linked to adjacent via connecting medium (e.g., a web, branches, vines); cluster[(quasi-)permanent]",
-            "not physically connected but with immediate accessibility and knowledge of other member actions [(quasi-)permanent]",
-            "“virtual” association only [(quasi-)permanent]",
-            "scattered/sporadic - contact with nearest member possible but less possible with others (e.g., a dialect chain)",
-            "“virtual” association only [temporary]",
-            "not physically connected but with immediate accessibility and knowledge of other member actions [temporary]",
-            "non-contiguous but closely connected, interlinked, each linked to adjacent via connecting medium (e.g., a web, branches, vines); cluster[temporary]",
-            "in total contact/contiguous mass of; pile, “ball of …” [temporary]"
-        ]
-    },
-    {
-        "name": "SEP",
-        "description": "Spatio-Temporal Separability of a Configurative Set",
-        "gradient_type": "C",
-        "cs": "gř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "logical connectedness only (spatial)",
-            "Loosely integrated spatially – one positioned far away from another",
-            "Loosely integrated spatially – one positioned a little ways away from another",
-            "Well-integrated spatially – one positioned right next to or behind another",
-            "Both spatially and temporally well-integrated (one right after another)",
-            "Well-integrated temporally – one right after the other",
-            "Loosely integrated temporally – one a little while after the other",
-            "Loosely integrated temporally – one a long while after the other",
-            "Logical connectedness only (temporal)"
-        ]
-    },
-    {
-        "name": "SDP",
-        "description": "Subset of Duplex Set",
-        "gradient_type": "C",
-        "cs": "ẓř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "first, top, front, lefthand or lead “half” of duplex set or pair (e.g., upper lip, inhale/inhalation, lefthand)",
-            "beginning or leading “edge” of the first, top, front, lefthand or lead “half” of a duplex entity",
-            "middle section of the first, top, front, lefthand or lead “half” of a duplex entity",
-            "ending or trailing “edge” of the first, top, front, lefthand or lead “half” of a duplex entity",
-            "midpoint, peak, or lull between the 2 halves of a duplex set or pair",
-            "beginning or leading “edge” of 2nd, bottom, back, righthand or trailing “half” of a duplex entity",
-            "middle section of 2nd, bottom, back, righthand or trailing “half” of a duplex entity",
-            "ending or trailing “edge” of 2nd, bottom, back, righthand or trailing “half” of a duplex entity",
-            "2nd, bottom, back, righthand or trailing “half” of duplex set or pair (e.g., lower lip, exhale/exhalation, right hand)"
-        ]
-    },
-    {
-        "name": "CGL",
-        "description": "Motive/Reason for Conglomeration of Gestalt Entity",
-        "gradient_type": "0",
-        "cs": "ẓv",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "by being physically forced to against the memberentities’ interest or will",
-            "by being pressured, coerced, tricked",
-            "by reluctant agreement",
-            "for pragmatic/utilitarian reasons",
-            "by random chance",
-            "by custom/societal convention/expectation",
-            "by nature, by natural tendency, as a natural process",
-            "by appointment to the task",
-            "by voluntary/volitional association"
-        ]
-    },
-    {
-        "name": "ITG",
-        "description": "Integrity of a Configurative Set",
-        "gradient_type": "A1",
-        "cs": "rst",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "complete, whole, full [ = the entirety of an expected/established/conventionalized configurative set without any members/parts/segments missing or removed]",
-            "functionally complete, whole, full [ = members/parts/segments missing or removed from the expected/established/conventionalized set but functionality still OK ]",
-            "nearly complete, nearly whole, nearly full [ = some members/parts/segments missing or removed, possibly affecting the functionality/purpose of the whole somewhat]",
-            "somewhat incomplete, somewhat partial [ = some members/parts/segments missing or removed, noticeably affecting the functionality/purpose of the whole]",
-            "partial [ = members/parts/segments missing or removed from the expected/established configurative set so that the functionality/purpose/effect is compromised]",
-            "fairly incomplete, mostly incomplete [ = members/parts/segments missing or removed so that the functionality/purpose/effect is significantly compromised]",
-            "incomplete, lacking [ = members/parts/segments missing or removed to the extent that the functionality/purpose/effect is not achievable or possible]",
-            "decimated [ = the integrity of the expected/established/conventionalized configurative set has been compromised to the point of unrecognizability/uselessness]",
-            "disorganized, unorganized, unsystematic [ = no recognizable associations between members of a group of entities exist that would/could constitute a configurative set]"
-        ],
-        "notes": "Examples of use: *a **full** meal, the **whole** library, a **partial** list, an **incomplete** story, **There are holes in** his account of what happened, the **decimated** platoon, An old man whose body **is falling apart**, a **partially** rebuilt city.*"
-    },
-    {
-        "name": "SYS",
-        "description": "Networks & Systems",
-        "gradient_type": "C",
-        "cs": "ţř",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting",
-            "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a (quasi-)mechanistic system",
-            "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a dynamic/feedback-driven/self-sustaining system",
-            "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes an autopoietic system",
-            "A feedback-driven/self-sustaining/autopoietic system based on X whose dynamism complexity generates/manifests synergistic/emergent effects/properties",
-            "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes an autopoietic system",
-            "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a dynamic/feedback-driven/self-sustaining system",
-            "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a (quasi-)mechanistic system",
-            "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, "
-        ],
-        "notes": "Like the SPS affix earlier, the affix can be used in conjunction with the -üa Ca-stacking affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt (i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration)."
-    },
-    {
-        "name": "SMN",
-        "description": "Semantic Network",
-        "gradient_type": "D1",
-        "cs": "tv",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "semantic network of places associated with X and their (inter-)relationships to each other",
-            "semantic network of places and objects associated with X and their (inter-)relationships to each other",
-            "semantic network of objects associated with X and their (inter-)relationships to each other",
-            "semantic network of entities (concepts, persons, places, objects) associated with X",
-            "semantic network (or Fillmorean frame) associated with X, i.e., the network of entities (concepts, persons, places, objects), and their (inter-)relationships associated with X; X and all its milieu and entailments",
-            "semantic network of relationships to other entities associated with X",
-            "semantic network of persons associated with X and their (inter-)relationships to each other",
-            "semantic network of persons and concepts associated with X and their (inter-)relationships to each other",
-            "semantic network of concepts/ideas associated with X and their (inter-)relationships to each other"
-        ]
-    },
-    {
-        "name": "ERN",
-        "description": "Entity and Relationship Within A Semantic Network",
-        "gradient_type": "0",
-        "cs": "ţs",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "individual concept/idea within X’s semantic network",
-            "individual place/location within X’s semantic network",
-            "individual object within X’s semantic network",
-            "individual person within X’s semantic network",
-            "individual node/entity (i.e., concept, person, place, object) within X’s semantic network and its/his/her relationship(s) to other entities in the network",
-            "individual person associated with X’s semantic network and his/her relationship to the network",
-            "a relationship within X’s semantic network",
-            "individual place/location within X’s semantic network and its relationship to the network",
-            "individual concept/idea within X’s semantic network and its relationship to the network"
-        ]
-    },
-    {
-        "name": "PXM",
-        "description": "Degree of Proximity",
-        "gradient_type": "A2",
-        "cs": "nh",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "too close",
-            "as close as possible without contact",
-            "very close to",
-            "close to",
-            "somewhat close to",
-            "not very close to / somewhat far from",
-            "far from / distant from",
-            "very far away / very far from",
-            "too far away"
-        ]
-    },
-    {
-        "name": "CTC",
-        "description": "Degree of Contact",
-        "gradient_type": "D1",
-        "cs": "ţd",
-        "associated_root": true,
-        "degrees": [
-            null,
-            "melded with / blended with / fused",
-            "inseparable(ly) / locked together / bonded",
-            "linked / attached / connected / joined",
-            "touching intimately / touching all over / flush with / in close contact with",
-            "in contact (with exact location/amount/intensity of touching unspecified)",
-            "deliberately touching at several spots or places or over a fair area",
-            "deliberately touching at one spot or place",
-            "barely touching / hardly touching at all / touching at one small spot",
-            "not in contact, not touching"
-        ]
-    },
-    {
-        "name": "EPP",
-        "description": "Edible or Autonomous Plant Parts/Components",
-        "gradient_type": "0",
-        "cs": "kc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "seed/nut of X",
-            "(seed) pod of X",
-            "fruit of X",
-            "leaf of X",
-            "flower/bloom of X",
-            "juice of X",
-            "sap of X",
-            "rhizome/rootstalk of X",
-            "tuber/bulb/corm of X"
-        ]
-    },
-    {
-        "name": "SPP",
-        "description": "Structural Plant Parts",
-        "gradient_type": "0",
-        "cs": "fc",
-        "associated_root": false,
-        "degrees": [
-            null,
-            "root of X",
-            "trunk of X",
-            "branch/limb of X",
-            "small branch/branchling of X",
-            "twig of X",
-            "bark of X",
-            "stamen of X",
-            "stem of X",
-            "stalk of X"
-        ]
-    }
+  {
+    "name": "PWF",
+    "description": "Part/Whole Functional Metaphors",
+    "gradient_type": "0",
+    "cs": "nz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "(acting as) engine / motor / heart / pump / core / driver mechanism",
+      "(acting as) brain / computer / chip / instruction set",
+      "(acting as) input / feeder / access point / mouth",
+      "(acting as) exit point / anus / exhaust / tailpipe / smokestack / vent",
+      "(acting as) skeleton / frame",
+      "(acting as) wiring / energy conduits",
+      "(acting as) plumbing / hydraulic or gas conduits",
+      "(acting as) EM audio or visual sensor / eye / ear / antennae",
+      "(acting as) communication interface / voice"
+    ]
+  },
+  {
+    "name": "PWC",
+    "description": "Part/Whole Componential Metaphors (replaces Ithkuil’s PTG affix)",
+    "gradient_type": "0",
+    "cs": "mž",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "(acting as) support / leg / stand / base of X",
+      "(acting as) “trunk”, torso, or central bulk portion of X",
+      "(acting as) “head” extension or main interface area of X",
+      "(acting as) top/upper component relative to gravity or natural vector of movement of X",
+      "(acting as) side/flank/lateral component of X",
+      "(acting as) bottom/lower component relative to gravity or natural vector of movement of X",
+      "(acting as) middle or divisional segment or joint (e.g., elbow, knee, knuckle)",
+      "(acting as) wing /  arm / branch / extensor of X",
+      "(acting as) end-manipulator, hand of X"
+    ]
+  },
+  {
+    "name": "SBS",
+    "description": "Subset of Configurative Set",
+    "gradient_type": "C",
+    "cs": "dř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "single specific member (random, i.e., any given member)",
+      "natural first level subset (e.g., “a cell among a network”, “a clique within a club”, “a row of an orchard”)",
+      "natural 2nd level subset (e.g., “section of a network”, “subcommittee within a club”, “section of an orchard”)",
+      "complex natural system or pattern within a set (e.g., “the circulatory system”, “the heating system”)",
+      "subset of set (unknown if natural or select sub-configuration)",
+      "complex/circumstantial select pattern/arrangement within a set (e.g., “the parts/things of a house damaged by fire”)",
+      "2nd level subset (externally determined) (e.g., “select section of trees of an orchard”)",
+      "1st level subset (externally determined) (e.g., “select rocks from a pile”, “select trees of an orchard”)",
+      "single select member (externally determined)"
+    ]
+  },
+  {
+    "name": "SPS",
+    "description": "Superset",
+    "gradient_type": "C",
+    "cs": "bř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set",
+      "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity",
+      "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate (quasi-)independently",
+      "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate interdependently, i.e., the superset is now a complex system",
+      "High-order super-system, consisting of multiple levels of interdependent systems; the super-system manifests synergistic/emergent effects/properties",
+      "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate interdependently, & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
+      "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate (quasi-)independently & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
+      "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity",
+      "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties"
+    ],
+    "notes": "The affix can be used in conjunction with the specialized Ca-stacking Cs affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt (i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration)."
+  },
+  {
+    "name": "DCF",
+    "description": "2nd-Level Duplex Configurative Set of 1st-Level Sets",
+    "gradient_type": "B",
+    "cs": "mç",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "DSS set of first-order configurative sets X",
+      "DSC set of first-order configurative sets X",
+      "DSF set of first-order configurative sets X",
+      "DDS set of the first-order configurative sets X",
+      "DDC set of first-order configurative sets X",
+      "DDF set of first-order configurative sets X",
+      "DFS set of first-order configurative sets X",
+      "DFC set of first-order configurative sets X",
+      "DFF set of first-order configurative sets X"
+    ],
+    "notes": "The affix serves the same purpose as Ca-stacking but are limited only to the category of Configuration"
+  },
+  {
+    "name": "MCF",
+    "description": "2nd-Level Multiplex Configurative Set of 1st-Level Sets",
+    "gradient_type": "B",
+    "cs": "nç",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "MSS set of first-order configurative sets X",
+      "MSC set of first-order configurative sets X",
+      "MSF set of first-order configurative sets X",
+      "MDS set of first-order configurative sets X",
+      "MDC set of first-order configurative sets X",
+      "MDF set of first-order configurative sets X",
+      "MFS set of first-order configurative sets X",
+      "MFC set of first-order configurative sets X",
+      "MFF set of first-order configurative sets X"
+    ],
+    "notes": "The affix serves the same purpose as Ca-stacking but are limited only to the category of Configuration"
+  },
+  {
+    "name": "DPR",
+    "description": "Dispersion or Separability of a Configurative Set (can be used for spatial or temporal contexts)",
+    "gradient_type": "C",
+    "cs": "sř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "in total contact/contiguous mass of; pile, “ball of …” [(quasi-)permanent]",
+      "non-contiguous but closely connected, interlinked, each linked to adjacent via connecting medium (e.g., a web, branches, vines); cluster[(quasi-)permanent]",
+      "not physically connected but with immediate accessibility and knowledge of other member actions [(quasi-)permanent]",
+      "“virtual” association only [(quasi-)permanent]",
+      "scattered/sporadic - contact with nearest member possible but less possible with others (e.g., a dialect chain)",
+      "“virtual” association only [temporary]",
+      "not physically connected but with immediate accessibility and knowledge of other member actions [temporary]",
+      "non-contiguous but closely connected, interlinked, each linked to adjacent via connecting medium (e.g., a web, branches, vines); cluster[temporary]",
+      "in total contact/contiguous mass of; pile, “ball of …” [temporary]"
+    ]
+  },
+  {
+    "name": "SEP",
+    "description": "Spatio-Temporal Separability of a Configurative Set",
+    "gradient_type": "C",
+    "cs": "gř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "logical connectedness only (spatial)",
+      "Loosely integrated spatially – one positioned far away from another",
+      "Loosely integrated spatially – one positioned a little ways away from another",
+      "Well-integrated spatially – one positioned right next to or behind another",
+      "Both spatially and temporally well-integrated (one right after another)",
+      "Well-integrated temporally – one right after the other",
+      "Loosely integrated temporally – one a little while after the other",
+      "Loosely integrated temporally – one a long while after the other",
+      "Logical connectedness only (temporal)"
+    ]
+  },
+  {
+    "name": "SDP",
+    "description": "Subset of Duplex Set",
+    "gradient_type": "C",
+    "cs": "ẓř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "first, top, front, lefthand or lead “half” of duplex set or pair (e.g., upper lip, inhale/inhalation, lefthand)",
+      "beginning or leading “edge” of the first, top, front, lefthand or lead “half” of a duplex entity",
+      "middle section of the first, top, front, lefthand or lead “half” of a duplex entity",
+      "ending or trailing “edge” of the first, top, front, lefthand or lead “half” of a duplex entity",
+      "midpoint, peak, or lull between the 2 halves of a duplex set or pair",
+      "beginning or leading “edge” of 2nd, bottom, back, righthand or trailing “half” of a duplex entity",
+      "middle section of 2nd, bottom, back, righthand or trailing “half” of a duplex entity",
+      "ending or trailing “edge” of 2nd, bottom, back, righthand or trailing “half” of a duplex entity",
+      "2nd, bottom, back, righthand or trailing “half” of duplex set or pair (e.g., lower lip, exhale/exhalation, right hand)"
+    ]
+  },
+  {
+    "name": "CGL",
+    "description": "Motive/Reason for Conglomeration of Gestalt Entity",
+    "gradient_type": "0",
+    "cs": "ẓv",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "by being physically forced to against the memberentities’ interest or will",
+      "by being pressured, coerced, tricked",
+      "by reluctant agreement",
+      "for pragmatic/utilitarian reasons",
+      "by random chance",
+      "by custom/societal convention/expectation",
+      "by nature, by natural tendency, as a natural process",
+      "by appointment to the task",
+      "by voluntary/volitional association"
+    ]
+  },
+  {
+    "name": "ITG",
+    "description": "Integrity of a Configurative Set",
+    "gradient_type": "A1",
+    "cs": "rst",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "complete, whole, full [ = the entirety of an expected/established/conventionalized configurative set without any members/parts/segments missing or removed]",
+      "functionally complete, whole, full [ = members/parts/segments missing or removed from the expected/established/conventionalized set but functionality still OK ]",
+      "nearly complete, nearly whole, nearly full [ = some members/parts/segments missing or removed, possibly affecting the functionality/purpose of the whole somewhat]",
+      "somewhat incomplete, somewhat partial [ = some members/parts/segments missing or removed, noticeably affecting the functionality/purpose of the whole]",
+      "partial [ = members/parts/segments missing or removed from the expected/established configurative set so that the functionality/purpose/effect is compromised]",
+      "fairly incomplete, mostly incomplete [ = members/parts/segments missing or removed so that the functionality/purpose/effect is significantly compromised]",
+      "incomplete, lacking [ = members/parts/segments missing or removed to the extent that the functionality/purpose/effect is not achievable or possible]",
+      "decimated [ = the integrity of the expected/established/conventionalized configurative set has been compromised to the point of unrecognizability/uselessness]",
+      "disorganized, unorganized, unsystematic [ = no recognizable associations between members of a group of entities exist that would/could constitute a configurative set]"
+    ],
+    "notes": "Examples of use: *a **full** meal, the **whole** library, a **partial** list, an **incomplete** story, **There are holes in** his account of what happened, the **decimated** platoon, An old man whose body **is falling apart**, a **partially** rebuilt city.*"
+  },
+  {
+    "name": "SYS",
+    "description": "Networks & Systems",
+    "gradient_type": "C",
+    "cs": "ţř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting",
+      "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a (quasi-)mechanistic system",
+      "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a dynamic/feedback-driven/self-sustaining system",
+      "X as an entity/element within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes an autopoietic system",
+      "A feedback-driven/self-sustaining/autopoietic system based on X whose dynamism complexity generates/manifests synergistic/emergent effects/properties",
+      "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes an autopoietic system",
+      "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a dynamic/feedback-driven/self-sustaining system",
+      "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a (quasi-)mechanistic system",
+      "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, "
+    ],
+    "notes": "Like the SPS affix earlier, the affix can be used in conjunction with the -üa Ca-stacking affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt (i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration)."
+  },
+  {
+    "name": "SMN",
+    "description": "Semantic Network",
+    "gradient_type": "D1",
+    "cs": "tv",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "semantic network of places associated with X and their (inter-)relationships to each other",
+      "semantic network of places and objects associated with X and their (inter-)relationships to each other",
+      "semantic network of objects associated with X and their (inter-)relationships to each other",
+      "semantic network of entities (concepts, persons, places, objects) associated with X",
+      "semantic network (or Fillmorean frame) associated with X, i.e., the network of entities (concepts, persons, places, objects), and their (inter-)relationships associated with X; X and all its milieu and entailments",
+      "semantic network of relationships to other entities associated with X",
+      "semantic network of persons associated with X and their (inter-)relationships to each other",
+      "semantic network of persons and concepts associated with X and their (inter-)relationships to each other",
+      "semantic network of concepts/ideas associated with X and their (inter-)relationships to each other"
+    ]
+  },
+  {
+    "name": "ERN",
+    "description": "Entity and Relationship Within A Semantic Network",
+    "gradient_type": "0",
+    "cs": "ţs",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "individual concept/idea within X’s semantic network",
+      "individual place/location within X’s semantic network",
+      "individual object within X’s semantic network",
+      "individual person within X’s semantic network",
+      "individual node/entity (i.e., concept, person, place, object) within X’s semantic network and its/his/her relationship(s) to other entities in the network",
+      "individual person associated with X’s semantic network and his/her relationship to the network",
+      "a relationship within X’s semantic network",
+      "individual place/location within X’s semantic network and its relationship to the network",
+      "individual concept/idea within X’s semantic network and its relationship to the network"
+    ]
+  },
+  {
+    "name": "PXM",
+    "description": "Degree of Proximity",
+    "gradient_type": "A2",
+    "cs": "nh",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "too close",
+      "as close as possible without contact",
+      "very close to",
+      "close to",
+      "somewhat close to",
+      "not very close to / somewhat far from",
+      "far from / distant from",
+      "very far away / very far from",
+      "too far away"
+    ]
+  },
+  {
+    "name": "CTC",
+    "description": "Degree of Contact",
+    "gradient_type": "D1",
+    "cs": "ţd",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "melded with / blended with / fused",
+      "inseparable(ly) / locked together / bonded",
+      "linked / attached / connected / joined",
+      "touching intimately / touching all over / flush with / in close contact with",
+      "in contact (with exact location/amount/intensity of touching unspecified)",
+      "deliberately touching at several spots or places or over a fair area",
+      "deliberately touching at one spot or place",
+      "barely touching / hardly touching at all / touching at one small spot",
+      "not in contact, not touching"
+    ]
+  },
+  {
+    "name": "EPP",
+    "description": "Edible or Autonomous Plant Parts/Components",
+    "gradient_type": "0",
+    "cs": "kc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "seed/nut of X",
+      "(seed) pod of X",
+      "fruit of X",
+      "leaf of X",
+      "flower/bloom of X",
+      "juice of X",
+      "sap of X",
+      "rhizome/rootstalk of X",
+      "tuber/bulb/corm of X"
+    ]
+  },
+  {
+    "name": "SPP",
+    "description": "Structural Plant Parts",
+    "gradient_type": "0",
+    "cs": "fc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "root of X",
+      "trunk of X",
+      "branch/limb of X",
+      "small branch/branchling of X",
+      "twig of X",
+      "bark of X",
+      "stamen of X",
+      "stem of X",
+      "stalk of X"
+    ]
+  }
 ]

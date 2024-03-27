@@ -1,80 +1,80 @@
 [
-    {
-        "root": "SL",
-        "refers": "THOUGHT / CONTEMPLATION / REASON / INTELLECT",
-        "stems": [
-            {
-                "BSC": "(to be) an act of thinking/cogitating; to think/cogitate",
-                "CTE": "(to be) the state/process of thinking/cogitating",
-                "CSV": "(to be) the thought one is thinking",
-                "OBJ": "(to be) the basis/trigger for a thought; that which makes one think of something"
-            },
-            "(to be) something one is considering/mulling/contemplating; to consider, mull, contemplate, take into account",
-            "(to be) an act of reasoning; to reason, use one’s intellect [= employ a strict process of integrating logic and experience when thinking/analyzing]"
-        ],
-        "notes": "Derivations: ponder, deliberate/deliberation, contemplate, mull, concentrate, theory, hypothesis, judge, conclude/conclusion.\n\nThis root is also used as the **PROPOSITIVE (PPV) Bias Affix**: *“what if …” “It could be that …” “Consider this: …” “Posit the following: …” “Assume for the sake of argument that …”*"
-    },
-    {
-        "root": "KSL",
-        "refers": "IDEA / ANALYSIS / ABSTRACTION / CONCEPT",
-        "stems": [
-            "(to be) ana ct of thinking up/of an idea; to brainstorm; to come up with an idea (CSV = an idea)",
-            "(to be) an act of analysis; to analyze",
-            "(to be) an act of abstraction; to abstract (CPT = conceptualization/conceptualize, CSV = a concept)"
-        ],
-        "see": "SL"
-    },
-    {
-        "root": "ŘSL",
-        "refers": "MODE OF THINKING / MODE OF ANALYSIS",
-        "stems": [
-            {
-                "BSC": "(to be) a state/act/process of convergent/critical thinking/analysis using logic; to think/analyze logically [i.e., using the rules of logic]",
-                "CTE": "(to be) the state/process of convergent/critical thinking/analysis using logic",
-                "CSV": "(to be) thought/conclusion one is thinking/contemplating as part of or as a result of convergent/critical thinking/analysis using logic",
-                "OBJ": "(to be) a rule of logic by which one conducts convergent/critical thinking/analysis"
-            },
-            "(to be) a state/act/process of divergent/creative thinking relying on imagination, inspiration, and creative instinct",
-            "(to be) a state/act/process of lateral thinking “outside the box” employing a synthesis of divergent thinking and convergent thinking"
-        ]
-    },
-    {
-        "root": "MSL",
-        "refers": "DEDUCTION / INFERENCE / INSIGHT",
-        "stems": [
-            {
-                "BSC": "(to be) a state/act/process of deductive thinking; to engage in deductive thinking (based on an analysis of external evidence) [CPT = a deduction; to deduce (something)]",
-                "CTE": "(to be) the state/process of deductive reasoning/analysis",
-                "CSV": "(to be) the thought/conclusion one is thinking via deductive reasoning",
-                "OBJ": "(to be) a rule of logic by which one conducts deductive thinking/analysis"
-            },
-            "(to be) a state/act/process of inference; to infer (something implied by external evidence)",
-            "(to be) a state/act/process a deductive insight; to experience a feeling of insight/understanding about something via deductive reasoning"
-        ]
-    },
-    {
-        "root": "LTÇ",
-        "refers": "SUGGESTION / ADVICE / PROFFER / RECOMMENDATION",
-        "stems": [
-            {
-                "BSC": "(to be) an act of suggesting something, i.e., proferring an idea as to potential course of action or way of thinking",
-                "CTE": "(to be) a state of having a suggestion made to one; listening to/hearing/reading a suggestion being made",
-                "CSV": "(to be) the words/means/method of making a suggestion",
-                "OBJ": "(to be) a suggestion, the idea offered as a potential course of action or way of thinking"
-            },
-            "(to be) a piece of advice; to advise",
-            "(to be) a recommendation; to recommend"
-        ],
-        "notes": "This root is also used as the **SUGGESTIVE (SGS) Bias Affix**: *“How about …” “We could …” “Might I suggest …”*"
-    },
-    {
-        "root": "ŇTÇ",
-        "refers": "PROPOSITION / COUNSELING / ADVOCACY",
-        "stems": [
-            "(to be) a proposal; to propose",
-            "(to be) an instance of counseling; to counsel",
-            "(to be) an act of advocating; to advocate"
-        ],
-        "see": "LTÇ"
-    }
+  {
+    "root": "SL",
+    "refers": "THOUGHT / CONTEMPLATION / REASON / INTELLECT",
+    "stems": [
+      {
+        "BSC": "(to be) an act of thinking/cogitating; to think/cogitate",
+        "CTE": "(to be) the state/process of thinking/cogitating",
+        "CSV": "(to be) the thought one is thinking",
+        "OBJ": "(to be) the basis/trigger for a thought; that which makes one think of something"
+      },
+      "(to be) something one is considering/mulling/contemplating; to consider, mull, contemplate, take into account",
+      "(to be) an act of reasoning; to reason, use one’s intellect [= employ a strict process of integrating logic and experience when thinking/analyzing]"
+    ],
+    "notes": "Derivations: ponder, deliberate/deliberation, contemplate, mull, concentrate, theory, hypothesis, judge, conclude/conclusion.\n\nThis root is also used as the **PROPOSITIVE (PPV) Bias Affix**: *“what if …” “It could be that …” “Consider this: …” “Posit the following: …” “Assume for the sake of argument that …”*"
+  },
+  {
+    "root": "KSL",
+    "refers": "IDEA / ANALYSIS / ABSTRACTION / CONCEPT",
+    "stems": [
+      "(to be) ana ct of thinking up/of an idea; to brainstorm; to come up with an idea (CSV = an idea)",
+      "(to be) an act of analysis; to analyze",
+      "(to be) an act of abstraction; to abstract (CPT = conceptualization/conceptualize, CSV = a concept)"
+    ],
+    "see": "SL"
+  },
+  {
+    "root": "ŘSL",
+    "refers": "MODE OF THINKING / MODE OF ANALYSIS",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act/process of convergent/critical thinking/analysis using logic; to think/analyze logically [i.e., using the rules of logic]",
+        "CTE": "(to be) the state/process of convergent/critical thinking/analysis using logic",
+        "CSV": "(to be) thought/conclusion one is thinking/contemplating as part of or as a result of convergent/critical thinking/analysis using logic",
+        "OBJ": "(to be) a rule of logic by which one conducts convergent/critical thinking/analysis"
+      },
+      "(to be) a state/act/process of divergent/creative thinking relying on imagination, inspiration, and creative instinct",
+      "(to be) a state/act/process of lateral thinking “outside the box” employing a synthesis of divergent thinking and convergent thinking"
+    ]
+  },
+  {
+    "root": "MSL",
+    "refers": "DEDUCTION / INFERENCE / INSIGHT",
+    "stems": [
+      {
+        "BSC": "(to be) a state/act/process of deductive thinking; to engage in deductive thinking (based on an analysis of external evidence) [CPT = a deduction; to deduce (something)]",
+        "CTE": "(to be) the state/process of deductive reasoning/analysis",
+        "CSV": "(to be) the thought/conclusion one is thinking via deductive reasoning",
+        "OBJ": "(to be) a rule of logic by which one conducts deductive thinking/analysis"
+      },
+      "(to be) a state/act/process of inference; to infer (something implied by external evidence)",
+      "(to be) a state/act/process a deductive insight; to experience a feeling of insight/understanding about something via deductive reasoning"
+    ]
+  },
+  {
+    "root": "LTÇ",
+    "refers": "SUGGESTION / ADVICE / PROFFER / RECOMMENDATION",
+    "stems": [
+      {
+        "BSC": "(to be) an act of suggesting something, i.e., proferring an idea as to potential course of action or way of thinking",
+        "CTE": "(to be) a state of having a suggestion made to one; listening to/hearing/reading a suggestion being made",
+        "CSV": "(to be) the words/means/method of making a suggestion",
+        "OBJ": "(to be) a suggestion, the idea offered as a potential course of action or way of thinking"
+      },
+      "(to be) a piece of advice; to advise",
+      "(to be) a recommendation; to recommend"
+    ],
+    "notes": "This root is also used as the **SUGGESTIVE (SGS) Bias Affix**: *“How about …” “We could …” “Might I suggest …”*"
+  },
+  {
+    "root": "ŇTÇ",
+    "refers": "PROPOSITION / COUNSELING / ADVOCACY",
+    "stems": [
+      "(to be) a proposal; to propose",
+      "(to be) an instance of counseling; to counsel",
+      "(to be) an act of advocating; to advocate"
+    ],
+    "see": "LTÇ"
+  }
 ]

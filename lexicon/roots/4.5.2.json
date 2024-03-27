@@ -1,62 +1,62 @@
 [
-    {
-        "root": "ŽG",
-        "refers": "SMELL / ODOR",
-        "stems": [
-            {
-                "BSC": "(to be) a smell/odor and the smelling thereof [act of smelling + the odor itself]; an act of smelling something — [both the odor and the smelling thereof]",
-                "CTE": "(to be) a smell/odor",
-                "CSV": "(to be) an act of smelling; to smell; to engage one’s olfactory sense",
-                "OBJ": "(to be) the entity/event/object whose odor one smells"
-            },
-            "(to be) one’s olfactory bulb or “nose” [as olfactory organ, not one’s nasal proboscis (see -**LMW**-)]",
-            "(to be) one’s olfactory faculty; one’s sense of smell"
-        ],
-        "notes": "MORPHOLOGICAL DERIVATIVES: sniff, aroma, “bouquet”, perfume, stench\n\nThe OLF affix can be used to identify additional odors associated with any applicable formative."
-    },
-    {
-        "root": "NKY",
-        "refers": "PUNGENT/FUNKY/PUTRID/STINKY",
-        "stems": [
-            {
-                "BSC": "(to be) something having a pungent odor (e.g., vinegar, ammonia, urine, stale coffee, vomit, etc.)",
-                "CTE": "(to be/manifest) the particular pungent odor (of something)",
-                "CSV": "(to be) the odor perceived by an observer as being identifiable as a particular pungent odor (i.e., the odor of something known)",
-                "OBJ": "(to be) an entity having a pungent odor (e.g., “the pungent-smelling one”)"
-            },
-            "funky odor (e.g., of sweat, livestock, musk, tamari, ambergris, stinky cheeses, etc.)",
-            "putrid odor (e.g., as of rotting eggs, roadkill, feces, sulfur, low-tide, etc.)"
-        ],
-        "notes": "The OLF affix can be used to identify additional odors associated with any applicable formative."
-    },
-    {
-        "root": "RGY",
-        "refers": "VEGETAL/PIQUANT/MUSTY",
-        "stems": [
-            "vegetal odor (e.g., grass, garlic, onion, parsley, coriander, celery, etc.)",
-            "piquant odor (e.g., ginger, cinnamon, clove, chilies, horseradish, hot mustard, etc.)",
-            "musty odor (e.g., soil, mushrooms, aged compost, mold, moss, petrichor, etc.)"
-        ],
-        "see": "NKY"
-    },
-    {
-        "root": "LMS",
-        "refers": "SWEET/FRAGRANT/RESINOUS",
-        "stems": [
-            "sweet odor (e.g., honey, raisin, caramel, apple, date, yam, etc.)",
-            "fragrant odor (e.g., vanilla, rose, almond, peach, jasmine, etc.)",
-            "resinous odor (e.g., camphor, sagebrush, eucalyptus, lavender, peppermint, etc.)"
-        ],
-        "see": "NKY"
-    },
-    {
-        "root": "RZG",
-        "refers": "CHEMICAL/BURNT/ACRID",
-        "stems": [
-            "chemical odor (e.g., alcohol, gasoline, solvents, paint, etc.)",
-            "burnt odor (e.g., leather, toasted nuts, woodsmoke, tobacco, etc.)",
-            "acrid odor (e.g., salt, copper, blood, tar, burning rubber, etc.)"
-        ],
-        "see": "NKY"
-    }
+  {
+    "root": "ŽG",
+    "refers": "SMELL / ODOR",
+    "stems": [
+      {
+        "BSC": "(to be) a smell/odor and the smelling thereof [act of smelling + the odor itself]; an act of smelling something — [both the odor and the smelling thereof]",
+        "CTE": "(to be) a smell/odor",
+        "CSV": "(to be) an act of smelling; to smell; to engage one’s olfactory sense",
+        "OBJ": "(to be) the entity/event/object whose odor one smells"
+      },
+      "(to be) one’s olfactory bulb or “nose” [as olfactory organ, not one’s nasal proboscis (see -**LMW**-)]",
+      "(to be) one’s olfactory faculty; one’s sense of smell"
+    ],
+    "notes": "MORPHOLOGICAL DERIVATIVES: sniff, aroma, “bouquet”, perfume, stench\n\nThe OLF affix can be used to identify additional odors associated with any applicable formative."
+  },
+  {
+    "root": "NKY",
+    "refers": "PUNGENT/FUNKY/PUTRID/STINKY",
+    "stems": [
+      {
+        "BSC": "(to be) something having a pungent odor (e.g., vinegar, ammonia, urine, stale coffee, vomit, etc.)",
+        "CTE": "(to be/manifest) the particular pungent odor (of something)",
+        "CSV": "(to be) the odor perceived by an observer as being identifiable as a particular pungent odor (i.e., the odor of something known)",
+        "OBJ": "(to be) an entity having a pungent odor (e.g., “the pungent-smelling one”)"
+      },
+      "funky odor (e.g., of sweat, livestock, musk, tamari, ambergris, stinky cheeses, etc.)",
+      "putrid odor (e.g., as of rotting eggs, roadkill, feces, sulfur, low-tide, etc.)"
+    ],
+    "notes": "The OLF affix can be used to identify additional odors associated with any applicable formative."
+  },
+  {
+    "root": "RGY",
+    "refers": "VEGETAL/PIQUANT/MUSTY",
+    "stems": [
+      "vegetal odor (e.g., grass, garlic, onion, parsley, coriander, celery, etc.)",
+      "piquant odor (e.g., ginger, cinnamon, clove, chilies, horseradish, hot mustard, etc.)",
+      "musty odor (e.g., soil, mushrooms, aged compost, mold, moss, petrichor, etc.)"
+    ],
+    "see": "NKY"
+  },
+  {
+    "root": "LMS",
+    "refers": "SWEET/FRAGRANT/RESINOUS",
+    "stems": [
+      "sweet odor (e.g., honey, raisin, caramel, apple, date, yam, etc.)",
+      "fragrant odor (e.g., vanilla, rose, almond, peach, jasmine, etc.)",
+      "resinous odor (e.g., camphor, sagebrush, eucalyptus, lavender, peppermint, etc.)"
+    ],
+    "see": "NKY"
+  },
+  {
+    "root": "RZG",
+    "refers": "CHEMICAL/BURNT/ACRID",
+    "stems": [
+      "chemical odor (e.g., alcohol, gasoline, solvents, paint, etc.)",
+      "burnt odor (e.g., leather, toasted nuts, woodsmoke, tobacco, etc.)",
+      "acrid odor (e.g., salt, copper, blood, tar, burning rubber, etc.)"
+    ],
+    "see": "NKY"
+  }
 ]
