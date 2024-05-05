@@ -41,7 +41,7 @@
     "name": "XXZ",
     "description": "[zero]",
     "gradient_type": "0",
-    "cs": "vc",
+    "cs": "vr",
     "associated_root": true,
     "degrees": [
       null,
