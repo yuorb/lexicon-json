@@ -18,10 +18,10 @@ jobs:
       - run: deno task json
       - run: git config --global user.name 'GitHub Action'
       - run: git config --global user.email 'action@github.com'
-      - run: git fetch 
-      - run: mv ./output/lexicon.json > /tmp/lexicon.json
+      - run: git fetch
       - run: git checkout bundled
-      - run: mv /tmp/lexicon.json ./lexicon.json
+      - run: mv output/lexicon.json lexicon.json
+      - run: git add lexicon.json
       - run: git commit -m "Update bundled lexicon"
       - run: git push origin bundled
       - uses: ncipollo/release-action@v1
