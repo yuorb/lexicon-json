@@ -16,6 +16,9 @@ jobs:
         with:
             deno-version: v1.x
       - run: deno task json
+      - run: git config --global user.name 'GitHub Action'
+      - run: git config --global user.email 'action@github.com'
+      - run: git fetch 
       - run: git checkout bundled
       - run: git show main:output/lexicon.json > lexicon.json
       - run: git push origin bundled
