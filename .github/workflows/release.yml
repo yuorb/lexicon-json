@@ -16,6 +16,14 @@ jobs:
         with:
             deno-version: v1.x
       - run: deno task json
+      - run: git config --global user.name 'GitHub Action'
+      - run: git config --global user.email 'action@github.com'
+      - run: git fetch
+      - run: git checkout bundled
+      - run: mv output/lexicon.json lexicon.json
+      - run: git add lexicon.json
+      - run: git commit -m "Update bundled lexicon"
+      - run: git push origin bundled
       - uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
