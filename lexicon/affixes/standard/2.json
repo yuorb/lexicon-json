@@ -764,7 +764,7 @@
   },
   {
     "name": "SPT",
-    "description": "Specified Points in Calendrical Time (used with Stem 3 of the number roots to render, e.g., ‘the third day of the week (i.e., Wednesday)’ or ‘20th of May’, etc.)",
+    "description": "Specified Points in Calendrical Time [used with Stem 3 of the number roots to render, e.g., ‘the third day of the week (i.e., Wednesday)’ or ‘20th of May’, etc.]",
     "gradient_type": "A1",
     "cs": "rw/-ry",
     "associated_root": false,

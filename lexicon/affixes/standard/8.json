@@ -172,7 +172,7 @@
   },
   {
     "name": "CHC",
-    "description": "Degree of Choice by Externally-Induced Agent (operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled (i.e., EFFECTUATIVE) act, rather than the Patient of an agential act",
+    "description": "Degree of Choice by Externally-Induced Agent [operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled (i.e., EFFECTUATIVE) act, rather than the Patient of an agential act]",
     "gradient_type": "A1",
     "cs": "rz",
     "associated_root": false,
