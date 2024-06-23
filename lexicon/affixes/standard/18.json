@@ -616,7 +616,7 @@
     "degrees": [
       null,
       "instrument is non-pitched",
-      "instrument has a (quasi-) fixed pitch but is untunable",
+      "instrument has a (quasi-)fixed pitch but is untunable",
       "instrument is tunable to a fixed pitch",
       "instrument is tunable and capable of a controllable range of pitches while being played [e.g., talking drum, banyan drum of a set of tabla, cuica, etc.]",
       "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch [e.g., tongue drum, steel drum]",

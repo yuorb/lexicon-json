@@ -88,7 +88,7 @@
     "refers": "FIRMAMENT / GROUND / FLOOR",
     "stems": [
       {
-        "BSC": "(to be) the (quasi-) planar surface on which an entity naturally rests due to gravity, i.e., firmament, “ground”, “surface of the earth”, “floor”",
+        "BSC": "(to be) the (quasi-)planar surface on which an entity naturally rests due to gravity, i.e., firmament, “ground”, “surface of the earth”, “floor”",
         "CTE": "(to be) the tangible material substance of the firmament/surface/ground/floor upon which an entity is situated due to gravity",
         "CSV": "(to be) the state/act of being bound to, being (up)on, or falling toward a (quasi-)planar surface/firmament due to gravity; to be bound to or headed for the ground due to gravity, to fall",
         "OBJ": "(to be) that which is bound to, situated (up)on, or falling toward the ground due to gravity"
@@ -104,8 +104,8 @@
       {
         "BSC": "(to be) an aperture / “window” in a surface for the purpose of being able to visually view what is on the other side",
         "CTE": "(to be) the state of there being (potential) visibility to the other side of a partition/wall or planar surface due to there being a window",
-        "CSV": "(to be) the physical aperture within a (quasi-) planar surface which constitutes a window",
-        "OBJ": "(to be) the (quasi-) transparent/translucent planar entity situated within the bounds of a window/aperture to function as a protective partition between one side of the window and the other, e.g., plane of glass, screen, plane of plastic/acrylic, etc."
+        "CSV": "(to be) the physical aperture within a (quasi-)planar surface which constitutes a window",
+        "OBJ": "(to be) the (quasi-)transparent/translucent planar entity situated within the bounds of a window/aperture to function as a protective partition between one side of the window and the other, e.g., plane of glass, screen, plane of plastic/acrylic, etc."
       },
       "(to be) an aperture/window in a surface for the purpose of letting in sunlight (or artificial light) from outside or another room",
       "(to be) an aperture/window in a surface for the purpose of limited physical access between one side of a partition and another [e.g., as in a ticket window, a pass-through slot, etc.]"

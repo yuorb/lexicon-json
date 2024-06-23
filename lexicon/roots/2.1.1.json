@@ -28,7 +28,7 @@
     "refers": "CUT / STAB / CRACK / FISSURE",
     "stems": [
       {
-        "BSC": "(be) an act of cutting something with a (quasi-) bladed instrument or force [“cut” = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument]",
+        "BSC": "(be) an act of cutting something with a (quasi-)bladed instrument or force [“cut” = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument]",
         "CTE": "(be) the physical cut itself; a quasi-linear break in the structural/cohesive integrity of the surface integument of an entity/object",
         "CSV": "(be) the physical act/process of cutting; to cut",
         "OBJ": "(be) a blade (the portion of a knife/sword/axe/scissors, etc. that effectuates a cut)"
@@ -371,13 +371,13 @@
     "refers": "FELL / BRING DOWN / LOWER",
     "stems": [
       {
-        "BSC": "(be) an act/instance of making something fall via gravity from its (quasi-) perpendicular stance; to fell",
+        "BSC": "(be) an act/instance of making something fall via gravity from its (quasi-)perpendicular stance; to fell",
         "CTE": "(be) a state of falling",
         "CSV": "(be) the physical act of felling",
         "OBJ": "(be) the means/implement/procedure/command used to make something fall"
       },
       "(be) an act/instance of letting something fall; to drop",
-      "(be) an act/instance of lowering something down to (quasi-) ground level from on high, involving a use of energy and manipulation (as opposed to letting it fall freely via gravity); to physically lower something to one’s level"
+      "(be) an act/instance of lowering something down to (quasi-)ground level from on high, involving a use of energy and manipulation (as opposed to letting it fall freely via gravity); to physically lower something to one’s level"
     ]
   },
   {
