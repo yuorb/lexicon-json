@@ -6,11 +6,11 @@
       {
         "BSC": "(to be) a state/act of playing a musical instrument (or object/device used to make musical sound or to accompany singing or music)",
         "CTE": "(to be) a musical instrument itself",
-        "CSV": "(to be) an act/state of playing a musical instrument; to play (i.e., make musical sound from) a musical instrument",
+        "CSV": "(to be) an act/state of playing a musical instrument; to play [i.e., make musical sound from] a musical instrument",
         "OBJ": "(to be) the sound emanating from playing a musical instrument"
       },
-      "(to be) a state/act of sounding a musical instrument (i.e., making a sound/note on a musical instrument, but not necessarily playing something musical)",
-      "(to be) a state/act of using one’s voice or vocal apparatus to make/mimic a musical sound (i.e., not singing a song with words [see the root -**LLY**-], but rather used in its capacity to make musical sound, as in humming, mimicking percussion sounds, used as a drone accompaniment, chanting, etc.); to make/mimic a musical sound using one’s vocal apparatus"
+      "(to be) a state/act of sounding a musical instrument [i.e., making a sound/note on a musical instrument, but not necessarily playing something musical]",
+      "(to be) a state/act of using one’s voice or vocal apparatus to make/mimic a musical sound [i.e., not singing a song with words [see the root -**LLY**-], but rather used in its capacity to make musical sound, as in humming, mimicking percussion sounds, used as a drone accompaniment, chanting, etc.]; to make/mimic a musical sound using one’s vocal apparatus"
     ],
     "notes": "The affixes GAB, BCD, DEF, and FGA are used with the above root to indicate specific musical notes/tones, and the affixes MIA, CAM, and the eleven Areal/Cultural Association affixes can be used to derive additional musical affixes from this and other related musical instrument roots."
   },
@@ -20,7 +20,7 @@
     "stems": [
       "concussion/percussion idiophonic musical instrument (struck with the hand or other non-vibrating foreign object, or by being struck against each other)",
       "friction/rattling idiophonic musical instrument (shaking and/or scraping)",
-      "lamellophone / plucked idiophonic musical instrument (e.g., jaw harp, mbira, music box)"
+      "lamellophone / plucked idiophonic musical instrument [e.g., jaw harp, mbira, music box]"
     ],
     "see": "LHW",
     "notes": "i.e., vibration of the instrument itself"
@@ -28,7 +28,7 @@
   {
     "root": "ẒPW",
     "stems": [
-      "musical block (e.g., of wood or metal)",
+      "musical block [e.g., of wood or metal]",
       "musical stick",
       "clave"
     ],
@@ -38,7 +38,7 @@
     "root": "ẒPY",
     "stems": [
       "castanet",
-      "musical clapper (e.g., khartal, qraqeb)",
+      "musical clapper [e.g., khartal, qraqeb]",
       "musical spoon"
     ],
     "see": "LHW"
@@ -47,8 +47,8 @@
     "root": "ẒPL",
     "stems": [
       "triangle",
-      "musical metal plaque (e.g., of vibraphone)",
-      "musical plaque of wood or gourd (e.g., of xylophone or balafon)"
+      "musical metal plaque [e.g., of vibraphone]",
+      "musical plaque of wood or gourd [e.g., of xylophone or balafon]"
     ],
     "see": "LHW"
   },
@@ -56,7 +56,7 @@
     "root": "ẒPR",
     "stems": [
       "cymbal",
-      "finger cymbal / hand cymbal (e.g., manjira, taal)",
+      "finger cymbal / hand cymbal [e.g., manjira, taal]",
       "gong"
     ],
     "see": "LHW"
@@ -118,9 +118,9 @@
   {
     "root": "ẒPHW",
     "stems": [
-      "clay/ceramic pot (e.g., ghatam, fou)",
-      "aerophone ceramic pot (e.g., udu, botija)",
-      "handpan (e.g., Hang)"
+      "clay/ceramic pot [e.g., ghatam, fou]",
+      "aerophone ceramic pot [e.g., udu, botija]",
+      "handpan [e.g., Hang]"
     ],
     "see": "LHW"
   },
@@ -146,9 +146,9 @@
     "root": "ŘBW",
     "refers": "STRUCK, SHAKEN, OR PLUCKED MEMBRANOPHONE MUSICAL INSTRUMENT",
     "stems": [
-      "struck membranophone (e.g., drum, conga drum, bongo, bodhran, tar, etc.)",
-      "shaken membranophones (e.g., rattle drum)",
-      "plucked membranophone (e.g., khamak/bugchu/anondo lahori, gubguba)"
+      "struck membranophone [e.g., drum, conga drum, bongo, bodhran, tar, etc.]",
+      "shaken membranophones [e.g., rattle drum]",
+      "plucked membranophone [e.g., khamak/bugchu/anondo lahori, gubguba]"
     ],
     "notes": "i.e., the vibration of a membrane",
     "see": "LHW"
@@ -212,7 +212,7 @@
     "stems": [
       "djembe",
       "dabakan",
-      "other goblet-type drum (e.g., davul, tapan, atabal, tabl, darbuka, tonbak)"
+      "other goblet-type drum [e.g., davul, tapan, atabal, tabl, darbuka, tonbak]"
     ],
     "see": "LHW"
   },
@@ -238,9 +238,9 @@
     "root": "GZDV",
     "refers": "FRICTION, RUBBED, OR AIR-DRIVEN MEMBRANOPHONE MUSICAL INSTRUMENT",
     "stems": [
-      "friction membranophone (e.g., cuica, rommelpot)",
+      "friction membranophone [e.g., cuica, rommelpot]",
       "rubbed membranophone",
-      "air-driven membranophone (e.g., kazoo, mirliton, swazzle)"
+      "air-driven membranophone [e.g., kazoo, mirliton, swazzle]"
     ],
     "see": "LHW"
   },
@@ -266,9 +266,9 @@
     "root": "ŇÇN",
     "refers": "CHORDOPHONE MUSICAL INSTRUMENT",
     "stems": [
-      "zither-like or zither-based musical instrument (i.e., strings stretched across a frame with or without a non-integrated resonator box)",
-      "lute-like musical instrument [whether strummed/, plucked, or bowed (i.e., string-bearing frame is integrated with a resonator box)",
-      "harp-like musical instrument (i.e., plane of strings is perpendicular to the resonator box)"
+      "zither-like or zither-based musical instrument [i.e., strings stretched across a frame with or without a non-integrated resonator box]",
+      "lute-like musical instrument (whether strummed, plucked, or bowed) [i.e., string-bearing frame is integrated with a resonator box]",
+      "harp-like musical instrument [i.e., plane of strings is perpendicular to the resonator box]"
     ],
     "see": "LHW",
     "notes": "i.e., vibration of a string or strings"
@@ -278,7 +278,7 @@
     "stems": [
       "guitar",
       "guitarrón/huapanguera",
-      "Latin guitar-like instrument (e.g., jarana, bajo quinto, bajo sexto, requinto jarocho)"
+      "Latin guitar-like instrument [e.g., jarana, bajo quinto, bajo sexto, requinto jarocho]"
     ],
     "see": "LHW",
     "notes": "Concatenate a number stem with these stems to indicate the number of strings for Latin guitar-like instruments such as the *tres*, *cuatro*, *bajo quinto*, etc., and Central Asian lutes such as the *dutar*, *chartar*, *setar*, *shashtar*, etc."
@@ -433,7 +433,7 @@
     "stems": [
       "dulcimer",
       "santur",
-      "cimbalon or dulcimer/cimbalon-like instruments (e.g., yangquin, khim, klezmer)"
+      "cimbalon or dulcimer/cimbalon-like instruments [e.g., yangquin, khim, klezmer]"
     ],
     "see": "LHW"
   },
@@ -486,9 +486,9 @@
   {
     "root": "ŇÇPL",
     "stems": [
-      "bowed zither (e.g., bowed psaltery, ajaeng, harppu, gue, yazheng/yaqin, zhengni)",
+      "bowed zither [e.g., bowed psaltery, ajaeng, harppu, gue, yazheng/yaqin, zhengni]",
       "crwth",
-      "bowed lyre (e.g., jouhikko, talharpa)"
+      "bowed lyre [e.g., jouhikko, talharpa]"
     ],
     "see": "LHW"
   },
@@ -594,9 +594,9 @@
   {
     "root": "ŇÇPÇW",
     "stems": [
-      "mid-pitched huqin-type instrument (e.g., erhu, banhu, erxian, tiqin, sihu, maguhu, niutuiqin/niubaqin/niubatui)",
-      "lower-pitched huqin-type instrument (e.g., zhonghu, dihu, gehu, dihu, diyingehu, tuhu)",
-      "higher-pitched huqin-type instrument (e.g., gaohu, jinghu)"
+      "mid-pitched huqin-type instrument [e.g., erhu, banhu, erxian, tiqin, sihu, maguhu, niutuiqin/niubaqin/niubatui]",
+      "lower-pitched huqin-type instrument [e.g., zhonghu, dihu, gehu, dihu, diyingehu, tuhu]",
+      "higher-pitched huqin-type instrument [e.g., gaohu, jinghu]"
     ],
     "see": "LHW"
   },
@@ -660,7 +660,7 @@
     "stems": [
       "hurdy-gurdy",
       "dulcigurdy",
-      "other rosined wheel instrument (e.g., bowed clavier / ninera / viola organista)"
+      "other rosined wheel instrument [e.g., bowed clavier / ninera / viola organista]"
     ],
     "see": "LHW"
   },
@@ -668,9 +668,9 @@
     "root": "ÇKM",
     "refers": "AEROPHONE MUSICAL INSTRUMENT",
     "stems": [
-      "“wind” instrument which, when played, contains an enclosed column of vibrating air (e.g., clarinet, oboe, flute, didgeridoo, etc.)",
-      "“free reed” instrument which utilize a reed or band but do not contain the vibrating air (e.g., harmonica, accordion, harmonium)",
-      "instrument where an unenclosed air flow is interrupted other than by a reed or band (e.g., bullroarer, siren, boomwhacker, corrugaphone, whip)"
+      "“wind” instrument which, when played, contains an enclosed column of vibrating air [e.g., clarinet, oboe, flute, didgeridoo, etc.]",
+      "“free reed” instrument which utilize a reed or band but do not contain the vibrating air [e.g., harmonica, accordion, harmonium]",
+      "instrument where an unenclosed air flow is interrupted other than by a reed or band [e.g., bullroarer, siren, boomwhacker, corrugaphone, whip]"
     ],
     "see": "i.e., vibration of a volume of air"
   },
@@ -695,7 +695,7 @@
   {
     "root": "ÇKL",
     "stems": [
-      "ductless flute (e.g., hocchiku, palendagpulalu/shakuhachi/tumpong)",
+      "ductless flute [e.g., hocchiku, palendagpulalu/shakuhachi/tumpong]",
       "pan pipe",
       "Western concert flute"
     ],
@@ -732,7 +732,7 @@
   {
     "root": "ÇKŢ",
     "stems": [
-      "fipple flute (e.g., bansuri, diple, flabiol, flageolet, khloy, khlui, salamuri, shvi, souravli, stabule, txistu, frula)",
+      "fipple flute [e.g., bansuri, diple, flabiol, flageolet, khloy, khlui, salamuri, shvi, souravli, stabule, txistu, frula]",
       "recorder",
       "fujara"
     ],
@@ -750,7 +750,7 @@
   {
     "root": "ÇKH",
     "stems": [
-      "vessel flute (e.g., xun, jug)",
+      "vessel flute [e.g., xun, jug]",
       "ocarina / huaca",
       "gemshorn"
     ],
@@ -761,7 +761,7 @@
     "stems": [
       "pipe organ",
       "calliope",
-      "non-pipe organ (e.g., reed organ / pump organ / harmonium, electric organ)"
+      "non-pipe organ [e.g., reed organ / pump organ / harmonium, electric organ]"
     ],
     "see": "LHW"
   },
@@ -770,7 +770,7 @@
     "stems": [
       "single-reed instrument",
       "double-reed instrument",
-      "reedless brass instrument (e.g., horn, trumpet)"
+      "reedless brass instrument [e.g., horn, trumpet]"
     ],
     "see": "LHW"
   },
@@ -941,7 +941,7 @@
     "stems": [
       "sralai",
       "pi nai",
-      "Southeast Asian quadruple reed instrument (e.g., hne, sawnay, sarunay, serunai)"
+      "Southeast Asian quadruple reed instrument [e.g., hne, sawnay, sarunay, serunai]"
     ],
     "see": "LHW"
   },
@@ -959,7 +959,7 @@
     "stems": [
       "bagpipe(s)",
       "breath-blown bagpipes",
-      "bellows-driven bagpipes (e.g., uilleann pipes)"
+      "bellows-driven bagpipes [e.g., uilleann pipes]"
     ],
     "see": "LHW"
   },
@@ -1157,8 +1157,8 @@
     "root": "LHM",
     "refers": "ELECTRO-MECHANICAL OR ELECTRONIC MUSICAL INSTRUMENT",
     "stems": [
-      "electro-mechanical taped music controller (e.g., mellotron, byrotron)",
-      "early electronic (or electro-mechanical) musical instrument (e.g., telharmonium, theramin, Ondes Martenot, Trautonium, Hammond Organ, Novachord)",
+      "electro-mechanical taped music controller [e.g., mellotron, byrotron]",
+      "early electronic (or electro-mechanical) musical instrument [e.g., telharmonium, theramin, Ondes Martenot, Trautonium, Hammond Organ, Novachord]",
       "electronic synthesizer"
     ],
     "see": "LHW"

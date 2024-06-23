@@ -6,7 +6,7 @@
       {
         "BSC": "(to be) food and drink; to eat and drink",
         "CTE": "(to be) (the biological process of consuming) food and drink as nourishment; eat/drink as nourishment",
-        "CSV": "(to be) the physical process of food/drink consumption, the physical process of eating/drinking (i.e., placement of consumable in mouth/chewing/swallowing/digestion).",
+        "CSV": "(to be) the physical process of food/drink consumption, the physical process of eating/drinking [i.e., placement of consumable in mouth/chewing/swallowing/digestion]",
         "OBJ": "(to be) the food and drink one consumes; the actual food/drink items one consumes"
       },
       "(to be) food, i.e., (semi-/quasi-)solid consumable/digestible material; to eat (semi-/quasi-)solid food",
@@ -37,7 +37,7 @@
         "CSV": "(to be) the physical process of stirring [use Phase categories if necessary to specify a single iteration or appropriate affixes or concatenation with shape/form roots to describe particular patterns of stirring]",
         "OBJ": "(to be) the entity/material/substance/object one stirs"
       },
-      "(to be) an act/instance of “folding” something into something else as in baking; to “fold” as in baking (i.e., combining a lighter/thinner component into a heavier/thicker component while retaining as much air as possible)",
+      "(to be) an act/instance of “folding” something into something else as in baking; to “fold” as in baking [i.e., combining a lighter/thinner component into a heavier/thicker component while retaining as much air as possible]",
       "(to be) an act/instance of mechanically blending something via rotary action (as with a mechanical or electric- powered blender)"
     ],
     "notes": "(useful to describe food preparation but also applicable any other appropriate context)"
@@ -187,7 +187,7 @@
   {
     "root": "ŢMW",
     "refers": "WINE",
-    "notes": "(i.e., an alcoholic beverage made by the fermentation of a fruit, whether grapes, apples, berries, etc. - thus this stem includes the meaning of the English terms (alcoholic) *cider and perry*)",
+    "notes": "[i.e., an alcoholic beverage made by the fermentation of a fruit, whether grapes, apples, berries, etc. - thus this stem includes the meaning of the English terms (alcoholic) *cider and perry*]",
     "see": "LKS"
   },
   {

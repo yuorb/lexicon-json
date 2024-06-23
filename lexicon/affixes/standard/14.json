@@ -167,7 +167,7 @@
       ],
       [
         "(in) radians",
-        "(in) radians² (i.e., steradians)"
+        "(in) radians² [i.e., steradians]"
       ],
       [
         "(in) sextants",
@@ -186,7 +186,7 @@
         "(in) degrees²"
       ]
     ],
-    "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² (i.e., steradians), etc."
+    "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² [i.e., steradians], etc."
   },
   {
     "name": "LDA",
@@ -374,7 +374,7 @@
       "in/per nano-second(s) (10×100⁻⁵s = 10⁻⁹s)",
       "in/per micro-second(s) (100⁻³s = 10⁻⁶s)",
       "in/per milli-second(s) (10×100⁻²s = 10⁻³s)",
-      "in/per -second(s) (e.g., with root -**LSTR**- = Hertz)"
+      "in/per -second(s) [e.g., with root -**LSTR**- = Hertz]"
     ],
     "notes": "\\* this affix is the measurement counterpart to the UST affix"
   },
@@ -409,10 +409,10 @@
       "in/per millenium(a)",
       "in/per 100²-year period(s)",
       "in/per 100,000-year period(s)",
-      "in/per age(s) (i.e., 1 million years)",
-      "in/per epoch(s) (i.e., 10 million years)",
-      "in/per era(s) (i.e., 100 million years)",
-      "in/per eon(s) (i.e. 500 million years)",
+      "in/per age(s) [i.e., 1 million years]",
+      "in/per epoch(s) [i.e., 10 million years]",
+      "in/per era(s) [i.e., 100 million years]",
+      "in/per eon(s) [i.e. 500 million years]",
       "in/per thousand-million-year period(s)"
     ]
   },
@@ -563,8 +563,8 @@
       "(in) gilberts",
       "(in) teslas",
       "(in) nepers",
-      "(in) darafs (i.e., reciprocal of farad)",
-      "(in) oersteds (i.e., amperes per meter)",
+      "(in) darafs [i.e., reciprocal of farad]",
+      "(in) oersteds [i.e., amperes per meter]",
       "(in) ohm meters"
     ]
   },
@@ -597,10 +597,10 @@
       null,
       "(in) candelas",
       "(in) candle-powers",
-      "(in) lumens ( = candela steradians)",
+      "(in) lumens (= candela steradians)",
       "(in) foot-candles",
       "(in) lux",
-      "(in) nits ( = candelas per square meter)",
+      "(in) nits (= candelas per square meter)",
       "(in) talbots",
       "(in) rayleighs",
       "(in) lux seconds"
@@ -635,7 +635,7 @@
       null,
       "(in) moles",
       "(in) International Units (IU)",
-      "(in) katals ( = moles per second)",
+      "(in) katals (= moles per second)",
       "(in) moles per cu. meter",
       "(in) joules per mole",
       "(in) molar volumes (= cu. meter per mole)",

@@ -146,7 +146,7 @@
       "target tries to prevent/avoid and does so partially or mitigates impact somewhat",
       "target tries to prevent/avoid and succeeds",
       "target helps/enables outcome inadvertently",
-      "target helps/enables outcome against own interest (i.e., without thinking)",
+      "target helps/enables outcome against own interest [i.e., without thinking]",
       "target helps/enables outcome intentionally despite negative consequences",
       "target helps/enables outcome intentionally for own benefit"
     ]
@@ -172,7 +172,7 @@
   },
   {
     "name": "CHC",
-    "description": "Degree of Choice by Externally-Induced Agent [operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled (i.e., EFFECTUATIVE) act, rather than the Patient of an agential act]",
+    "description": "Degree of Choice by Externally-Induced Agent [operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled [i.e., EFFECTUATIVE] act, rather than the Patient of an agential act]",
     "gradient_type": "A1",
     "cs": "rz",
     "associated_root": false,

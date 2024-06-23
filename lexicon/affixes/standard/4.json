@@ -39,7 +39,7 @@
   },
   {
     "name": "PTT",
-    "description": "Non-Contiguous (i.e., Intermixed) Portion of the Whole",
+    "description": "Non-Contiguous [i.e., Intermixed] Portion of the Whole",
     "gradient_type": "A1",
     "cs": "rţ",
     "associated_root": false,
@@ -182,7 +182,7 @@
       "the availability of X; the extent/degree to which X is available",
       "the influence of X; the extent/degree to which X is influential",
       "the pervasiveness or prevalence of X; the extent/degree to which X pervades/imbues an area or situation or is prevalent",
-      "the amount of X; how much X there is, i.e., not on a relative scale [as with EXN, SUF, EXD] but rather a specific amount (e.g., 4 kg., 8 dollars, 2 liters, 5 cats, etc.)",
+      "the amount of X; how much X there is, i.e., not on a relative scale [as with EXN, SUF, EXD] but rather a specific amount [e.g., 4 kg., 8 dollars, 2 liters, 5 cats, etc.]",
       "the spatial extent/volume/reach/spread of X; the degree/amount to which X physically/tangibly extends, reaches or spreads",
       "the (degree of) strength/power of X; X’s strength or power",
       "the sufficiency of X; the degree/extent to which X suffices or adequately serves",
@@ -210,7 +210,7 @@
   },
   {
     "name": "PLT",
-    "description": "Pletive (i.e., relative amount compared to a standard or a previous or expected amount)",
+    "description": "Pletive [i.e., relative amount compared to a standard or a previous or expected amount]",
     "gradient_type": "D1",
     "cs": "tļ",
     "associated_root": false,
@@ -248,7 +248,7 @@
   },
   {
     "name": "TFI",
-    "description": "Back & forth; to & fro in place (e.g., pendulum, wagging tail)",
+    "description": "Back & forth; to & fro in place [e.g., pendulum, wagging tail]",
     "gradient_type": "D2",
     "cs": "žm",
     "associated_root": false,
@@ -286,7 +286,7 @@
   },
   {
     "name": "CRV",
-    "description": "Cycle or circular motion over linear vector (e.g., train wheels, bike wheels)",
+    "description": "Cycle or circular motion over linear vector [e.g., train wheels, bike wheels]",
     "gradient_type": "D2",
     "cs": "ẓm",
     "associated_root": false,

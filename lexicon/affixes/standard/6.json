@@ -39,7 +39,7 @@
   },
   {
     "name": "VEL",
-    "description": "Degree of Velocity ( = Ratio of Distance to Time)",
+    "description": "Degree of Velocity (= Ratio of Distance to Time)",
     "gradient_type": "D2",
     "cs": "fm",
     "associated_root": true,
@@ -58,7 +58,7 @@
   },
   {
     "name": "ITY",
-    "description": "Degree of Intensity ( = strength, overtness, or level of impact in which a quality/characteristic/act/process, etc. is manifested)",
+    "description": "Degree of Intensity (= strength, overtness, or level of impact in which a quality/characteristic/act/process, etc. is manifested)",
     "gradient_type": "D2",
     "cs": "ţm",
     "associated_root": true,
@@ -143,9 +143,9 @@
       "ad hoc  /  impromptu  /  unplanned (no forewarning)",
       "ad hoc  /  improvised (forewarned but no preparation performed)",
       "off-the-cuff (forewarned but no planning or preparation necessary due to necessary resources / skills being at hand)",
-      "unplanned but prepared (e.g., due to prior experience and having necessary resources at hand)",
+      "unplanned but prepared [e.g., due to prior experience and having necessary resources at hand]",
       "in the planning stages; being planned",
-      "conceptually planned but not (yet) prepared (i.e., a plan of action exists but the necessary resources/skills have not (yet) been identified or obtained)",
+      "conceptually planned but not (yet) prepared [i.e., a plan of action exists but the necessary resources/skills have not (yet) been identified or obtained]",
       "conceptually planned and in the process of preparing",
       "pre-planned and prepared",
       "meticulously planned, prepared, and rehearsed/practiced"
@@ -311,7 +311,7 @@
     "associated_root": false,
     "degrees": [
       null,
-      "paroxysm(al) / paraoxysmally; having a sudden, intense, unexpected onset but of only momentary duration (e.g., an explosion, a flash of light, a spasm, a stab of pain)",
+      "paroxysm(al) / paraoxysmally; having a sudden, intense, unexpected onset but of only momentary duration [e.g., an explosion, a flash of light, a spasm, a stab of pain]",
       "having a sudden/intense onset and enduring for a relatively brief duration",
       "having a sudden/intense onset and enduring for a prolonged duration",
       "having a relatively quick onset then suddenly stopping/ending; fast-acting but then stopping suddenly",
@@ -514,7 +514,7 @@
   },
   {
     "name": "PPF",
-    "description": "Degree of Practice-Based Proficiency ( = skill acquired via practice)",
+    "description": "Degree of Practice-Based Proficiency (= skill acquired via practice)",
     "gradient_type": "A2",
     "cs": "šh",
     "associated_root": false,
@@ -533,7 +533,7 @@
   },
   {
     "name": "KPF",
-    "description": "Degree of Knowledge-Based Proficiency ( = skill acquired via application of learning/knowledge)",
+    "description": "Degree of Knowledge-Based Proficiency (= skill acquired via application of learning/knowledge)",
     "gradient_type": "A2",
     "cs": "žh",
     "associated_root": false,
@@ -810,7 +810,7 @@
       "disintegrated, in pieces, shattered",
       "irreparably damaged/broken, ruined, worn out",
       "badly damaged/broken, non-operational, non-functional (with possibility of being repaired)",
-      "damaged/broken — only partially functional (i.e., some parts/aspects are functional while others are not)",
+      "damaged/broken — only partially functional [i.e., some parts/aspects are functional while others are not]",
       "something wrong with X, not functioning properly, something not right with X wearing out",
       "impaired — functional but not performing to full extent of output or efficiency",
       "in fair working order/condition",

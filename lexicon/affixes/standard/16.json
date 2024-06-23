@@ -123,14 +123,14 @@
     "degrees": [
       null,
       "only explicitly stated arguments are implied, no unstated arguments should be inferred",
-      "only logically required arguments are implied or should be inferred (e.g., a STIMULUS for a state of external sensory input, a RECIPIENT for an act of transferring possession); unstated arguments that are logically unnecessary but possible should not be inferred",
-      "logically required arguments should be inferred; logically unnecessary but possible arguments (e.g., INSTRUMENTAL, SITUATIVE, DEPENDENT, or Temporal) may be inferred",
+      "only logically required arguments are implied or should be inferred [e.g., a STIMULUS for a state of external sensory input, a RECIPIENT for an act of transferring possession]; unstated arguments that are logically unnecessary but possible should not be inferred",
+      "logically required arguments should be inferred; logically unnecessary but possible arguments [e.g., INSTRUMENTAL, SITUATIVE, DEPENDENT, or Temporal] may be inferred",
       "logically unnecessary but possible arguments may be inferred, logically required arguments are ONLY those explicitly stated",
       "OK to infer an affective STIMULUS only, no other unstated arguments implied",
       "OK to infer an ERG or EFF agent only, no other unstated arguments implied",
       "OK to infer a temporal context/argument plus any logically required arguments",
       "OK to infer an INSTRUMENTAL argument plus any logically required arguments",
-      "OK to infer a SITUATIVE or a DEPENDENT argument  (i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame) plus any logically required arguments"
+      "OK to infer a SITUATIVE or a DEPENDENT argument  [i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame] plus any logically required arguments"
     ]
   },
   {
@@ -383,7 +383,7 @@
       "technically speaking … / context aside for a moment, …",
       "for all practical purposes / to all intents and purposes / practically  / virtually / all but technically",
       "sort of / kind of",
-      "strictly speaking ( = to put it in clinical terms …)",
+      "strictly speaking (= to put it in clinical terms …)",
       "essentially / in essence / basically",
       "(what) might as well be",
       "in one sense",
@@ -554,7 +554,7 @@
       "(PPS*) Propositional: statement is an ontological assertion based on ontologogical fact",
       "(EPI*) Epistemic: statement is an epistemic assertion based on conventional (culturally agreed-upon) fact",
       "(ALG*) Allegative: statement is an allegation expressing one’s belief, subject to rubuttal or refutation",
-      "(IPU*) Imputative: statement is a rebuttable presumption (i.e., to be assumed true until proven otherwise)",
+      "(IPU*) Imputative: statement is a rebuttable presumption [i.e., to be assumed true until proven otherwise]",
       "(RFU*) Refutative: statement is a rebuttal/refutation based on epistemic knowledge",
       "(REB*) Rebutative: statement is a rebuttal/refutation based on ontological fact",
       "(CJT*) Conjectural: statement is a conjecture/theory/hypothesis that is testable/verifiable",
@@ -591,7 +591,7 @@
     "degrees": [
       null,
       "yet, still",
-      "‘even’ (e.g., “I don’t even like them”) = to the slightest extent contrary to expectation",
+      "‘even’ [e.g., “I don’t even like them”] = to the slightest extent contrary to expectation",
       "Contemplative: upon reflection / in hindsight",
       "upon deep introspection/following careful consideration or meditation on the matter",
       "on first blush / at first / upon initial impression / [my] first thought is/was …",

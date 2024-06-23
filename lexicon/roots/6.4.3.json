@@ -611,7 +611,7 @@
     "stems": [
       {
         "BSC": "(to be) a chemical compound; to consist of a chemical compound",
-        "CTE": "(to be) an instance (i.e.g, piece, drop, granule, plume, glob) of the substance comprising a chemical compound",
+        "CTE": "(to be) an instance [i.e.g, piece, drop, granule, plume, glob] of the substance comprising a chemical compound",
         "CSV": "(to be) a chemical reaction resulting in the formation of a chemical compound; to chemically react, make/undergo a chemical reaction",
         "OBJ": "(to be) a chemical compound in its naturally occurring state "
       },
@@ -625,7 +625,7 @@
     "stems": [
       {
         "BSC": "(to be) a chemical compound held together by covalent molecular bonds",
-        "CTE": "(to be) an instance (i.e.g, amount, piece, drop, granule, flume, glob) of the substance comprising a chemical compound held together by covalent molecular bonds",
+        "CTE": "(to be) an instance [i.e.g, amount, piece, drop, granule, flume, glob] of the substance comprising a chemical compound held together by covalent molecular bonds",
         "CSV": "(to be) a chemical reaction resulting in the formation of a chemical compound held together by covalent molecular bonds; the chemically react, make/undergo a chemical reaction involving covalent molecular bonds",
         "OBJ": "(to be) a chemical compound held together by covalent molecular bonds in its naturally occurring state "
       },
@@ -665,7 +665,7 @@
   },
   {
     "root": "DPF",
-    "refers": "sodium bicarbonate (i.e., baking soda) NaHCO₃",
+    "refers": "sodium bicarbonate [i.e., baking soda] NaHCO₃",
     "see": "RẒB"
   },
   {
@@ -780,7 +780,7 @@
   },
   {
     "root": "KÇPF",
-    "refers": "calcium oxychloride (i.e., bleaching powder)",
+    "refers": "calcium oxychloride [i.e., bleaching powder]",
     "see": "RẒB"
   },
   {
@@ -845,7 +845,7 @@
   },
   {
     "root": "ZDY",
-    "refers": "copper sulphate (i.e., blue vitriol)",
+    "refers": "copper sulphate [i.e., blue vitriol]",
     "see": "RẒB"
   },
   {
@@ -1754,7 +1754,7 @@
         "OBJ": "(to be) an object/entity made from or consisting of a particular material"
       },
       "(to be) a state of consisting of or being composed/made of a particular material substance; to consist of/be composed of/made (out) of a particular material/substance",
-      "(to be/manifest a) material consistency, (i.e., a discernible (quasi-)tactile or (quasi-)visual or other (quasi-)sensory attribute/quality/characteristic)"
+      "(to be/manifest a) material consistency, [i.e., a discernible (quasi-)tactile or (quasi-)visual or other (quasi-)sensory attribute/quality/characteristic]"
     ]
   },
   {
@@ -1904,7 +1904,7 @@
   },
   {
     "root": "ŇŽKH",
-    "refers": "epoxy (i.e., polyepoxide)",
+    "refers": "epoxy [i.e., polyepoxide]",
     "see": "SY"
   },
   {
@@ -1974,7 +1974,7 @@
   },
   {
     "root": "SNW",
-    "refers": "vinyl (i.e., polyvinyl chloride)",
+    "refers": "vinyl [i.e., polyvinyl chloride]",
     "see": "SY"
   },
   {

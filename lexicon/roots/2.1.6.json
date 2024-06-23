@@ -4,22 +4,22 @@
     "refers": "FURNITURE / FURNISHING / APPLIANCE",
     "stems": [
       {
-        "BSC": "(to be) a piece of functional furniture; to furnish an environment with a piece of functional furniture (i.e., piece of furniture whose primary purpose is functional rather than decorative, e.g., chair, table, lamp, armoire, cabinet, chest of drawers, desk, bed, bookcase, etc.); utilize or make use of a piece of functional furniture",
+        "BSC": "(to be) a piece of functional furniture; to furnish an environment with a piece of functional furniture [i.e., piece of furniture whose primary purpose is functional rather than decorative, e.g., chair, table, lamp, armoire, cabinet, chest of drawers, desk, bed, bookcase, etc.]; utilize or make use of a piece of functional furniture",
         "CTE": "(to be) the function(al purpose) of a piece of furniture; to utilize/make use of a piece of furniture",
         "CSV": "(to be) the physical structure/design of a piece of furniture; to design a piece of functional furniture (CPT = construct a piece of functional furniture)",
         "OBJ": "(to be) the space in a room or environment taken up by a piece of functional furniture"
       },
-      "(to be) a piece of decorative furniture; to furnish an environment with a piece of decorative furniture (e.g., antique curio cabinet, fancy rug, designer furnishing, decorative mirror, chandelier, wallpaper, etc.)",
-      "(to be) a major household or office appliance; to furnish an environment with a major functional appliance (e.g., stove, oven, refrigerator, generator, sewing machine, washing machine, freezer, heating unit, air conditioner, television set, etc.)"
+      "(to be) a piece of decorative furniture; to furnish an environment with a piece of decorative furniture [e.g., antique curio cabinet, fancy rug, designer furnishing, decorative mirror, chandelier, wallpaper, etc.]",
+      "(to be) a major household or office appliance; to furnish an environment with a major functional appliance [e.g., stove, oven, refrigerator, generator, sewing machine, washing machine, freezer, heating unit, air conditioner, television set, etc.]"
     ]
   },
   {
     "root": "SKF",
     "refers": "TABLE / SHELF / PLATFORM",
     "stems": [
-      "(to be) a table; utilize a table (i.e., a personal-sized (quasi-) rectangular or symmetrically shaped flat surface perpendicular to the direction of gravity positioned to allow one to either stand or sit and use it as a surface for working, storage, or performing some function)",
+      "(to be) a table; utilize a table [i.e., a personal-sized (quasi-) rectangular or symmetrically shaped flat surface perpendicular to the direction of gravity positioned to allow one to either stand or sit and use it as a surface for working, storage, or performing some function]",
       "(to be) a shelf",
-      "(to be) a platform or large flat artificially-surfaced area to provide a large planar surface for goods or people engaged in some specialized function (e.g., a stage)"
+      "(to be) a platform or large flat artificially-surfaced area to provide a large planar surface for goods or people engaged in some specialized function [e.g., a stage]"
     ],
     "see": "PŢT"
   },
@@ -77,9 +77,9 @@
     "root": "VTŘ",
     "refers": "DRAWER / FILING SLOT / RACK",
     "stems": [
-      "(to be) a drawer [container within a supporting/enclosing structure that slides or rolls out to allow access",
-      "(to be) a filing slot (i.e., as within the drawer of a filing cabinet)",
-      "(to be) a rack (i.e., a framework, lattice, or partition for holding or displaying objects, keeping them spatially separated from each other)"
+      "(to be) a drawer [container within a supporting/enclosing structure that slides or rolls out to allow access]",
+      "(to be) a filing slot [i.e., as within the drawer of a filing cabinet]",
+      "(to be) a rack [i.e., a framework, lattice, or partition for holding or displaying objects, keeping them spatially separated from each other]"
     ],
     "see": "PŢT"
   },

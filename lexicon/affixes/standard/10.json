@@ -83,7 +83,7 @@
     "associated_root": false,
     "degrees": [
       null,
-      "w/the body’s natural method of doing so (e.g., on foot, by hand, etc.)",
+      "w/the body’s natural method of doing so [e.g., on foot, by hand, etc.]",
       "w/ object employed circumstantially as implement for X-ing",
       "w/a specialized tool for that specific purpose or activity",
       "w/a machine or via mechanical means or process",
@@ -128,7 +128,7 @@
       "means/method for X-ing",
       "procedure for X-ing",
       "resource/material needed for X-ing",
-      "(quasi-) permanent implement used/left in place after X-ing (e.g., nail, screw, rivet, bolt, staple, clamp, suture, etc.)",
+      "(quasi-) permanent implement used/left in place after X-ing [e.g., nail, screw, rivet, bolt, staple, clamp, suture, etc.]",
       "automated process/system for X-ing"
     ]
   },
@@ -301,12 +301,12 @@
     "degrees": [
       null,
       "powered by burning or combustion of fossil fuel",
-      "hydraulic-powered (e.g., water, wind, compressed air, etc.)",
+      "hydraulic-powered [e.g., water, wind, compressed air, etc.]",
       "steam-driven",
       "solar-powered",
       "electric, electricity-driven, hydro-electric",
       "powered by stored energy (battery, flywheel)",
-      "atomic-powered, nuclear-powered (e.g., fission, fusion)",
+      "atomic-powered, nuclear-powered [e.g., fission, fusion]",
       "hydrogen-powered",
       "powered by quantum vacuum energy, zero-point energy"
     ]

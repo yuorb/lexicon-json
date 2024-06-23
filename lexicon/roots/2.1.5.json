@@ -4,7 +4,7 @@
     "refers": "BUILDING FIXTURE / ARCHITECTURAL FIXTURE",
     "stems": [
       {
-        "BSC": "(to be) a state/act/of serving/functioning as a builtin/permanent fixture in a building/domicile for the purposes of maintaining/providing a continuous mechanical, electrical, plumbing, or living state or process; to serve/function as such a fixture (e.g., wall-mounted or built-in feature, fireplace, chimney, window shutter, ceiling fan, tapware, sink/basin, tub, toilet, water or gas pipe, electrical conduit, wiring, etc.)",
+        "BSC": "(to be) a state/act/of serving/functioning as a builtin/permanent fixture in a building/domicile for the purposes of maintaining/providing a continuous mechanical, electrical, plumbing, or living state or process; to serve/function as such a fixture [e.g., wall-mounted or built-in feature, fireplace, chimney, window shutter, ceiling fan, tapware, sink/basin, tub, toilet, water or gas pipe, electrical conduit, wiring, etc.]",
         "CTE": "(to be) the state/service maintained/delivered by a fixture",
         "CSV": "(to be) an act/process of a building fixture functioning or in operation; for a fixture to function/operate",
         "OBJ": "(to be) the fixture itself"
@@ -95,7 +95,7 @@
   },
   {
     "root": "RVB",
-    "refers": "power system protection unit (e.g., fusebox / circuit breaker box)",
+    "refers": "power system protection unit [e.g., fusebox / circuit breaker box]",
     "see": "LCW"
   },
   {
@@ -105,7 +105,7 @@
   },
   {
     "root": "LČL",
-    "refers": "lamp (i.e., powered local light source)",
+    "refers": "lamp [i.e., powered local light source]",
     "see": "LCW"
   },
   {

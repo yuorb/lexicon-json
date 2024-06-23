@@ -4,7 +4,7 @@
     "refers": "BIRTH / BE BORN / GESTATION / CONCEPTION",
     "stems": [
       {
-        "BSC": "(to be) a state/act of birth; to give birth or be born (i.e., the leaving of a child from their mother’s womb to enter the world, with no implied perspective as to it being an act/state of the mother or the child)",
+        "BSC": "(to be) a state/act of birth; to give birth or be born [i.e., the leaving of a child from their mother’s womb to enter the world, with no implied perspective as to it being an act/state of the mother or the child]",
         "CTE": "(to be) a state/act of being born [from the child’s perspective]",
         "CSV": "(to be) the physical act of giving birth [from the perspective of the mother]",
         "OBJ": "(to be) the newborn infant"
@@ -18,7 +18,7 @@
     "refers": "SEX",
     "stems": [
       {
-        "BSC": "(be/manifest) a particular sex of an organism that is normally one of two sexes (e.g., chordates) [both the existence and the clinical/biological determination/identification thereof]",
+        "BSC": "(be/manifest) a particular sex of an organism that is normally one of two sexes [e.g., chordates] [both the existence and the clinical/biological determination/identification thereof]",
         "CTE": "(be) a particular biological sex",
         "CSV": "(be) an act/process/state of clinical/biological determination/identification of sex; to clinically/biologically determine a particular sex",
         "OBJ": "(to be) that which biologically determines or by which one identifies a particular sex"
@@ -26,20 +26,20 @@
       "(to be/manifest) the female sex of an organism that is normally one of two biological sexes",
       "(to be/manifest) the male sex of an organism that is normally one of two biological sexes"
     ],
-    "notes": " (i.e., genetically-based, the normally 2-way distinction in higher living organisms for reproductive/procreative purposes)\n\nAssociated Affix: SEX"
+    "notes": " [i.e., genetically-based, the normally 2-way distinction in higher living organisms for reproductive/procreative purposes]\n\nAssociated Affix: SEX"
   },
   {
     "root": "ŽF",
     "refers": "HEALTHINESS / PHYSICAL CONDITION / FITNESS / SANITY",
     "stems": [
       {
-        "BSC": "(to be) a state of physical and mental healthiness (i.e., freedom from illness or malady)",
+        "BSC": "(to be) a state of physical and mental healthiness [i.e., freedom from illness or malady]",
         "CTE": "(to be) the state of healthiness itself; good health",
         "CSV": "(to be) the state of living and going about one’s desired normal life due to good health; to live in a state of healthiness, be healthy",
-        "OBJ": "(to be) what one does to stay healthy; a healthy living praxis (e.g., diet, exercise, avoiding stress, prophylactic medication, healthy lifestyle, etc.) "
+        "OBJ": "(to be) what one does to stay healthy; a healthy living praxis [e.g., diet, exercise, avoiding stress, prophylactic medication, healthy lifestyle, etc.] "
       },
       "(to be) one’s state of mental health",
-      "(to be) one’s physical condition or state of health/fitness (i.e., the extent to which one is sufficiently healthy/fit to carry out specialized physical tasks or feats of physical prowess/stress)"
+      "(to be) one’s physical condition or state of health/fitness [i.e., the extent to which one is sufficiently healthy/fit to carry out specialized physical tasks or feats of physical prowess/stress]"
     ],
     "notes": "Associated Affix: HEA"
   },
@@ -51,10 +51,10 @@
         "BSC": "(to be) a state of aging; to age, get older",
         "CTE": "(to be) a state of being/having a certain age",
         "CSV": "(to be) the state/process of aging, getting older; to do/feel/notice/observe something that manifests/demonstrates one is aging/getting older",
-        "OBJ": "(to be) one’s age (i.e., the amount of elapsed time since an entity came into being)"
+        "OBJ": "(to be) one’s age [i.e., the amount of elapsed time since an entity came into being]"
       },
-      "(to be) a (developmental) stage/phase in one’s life (i.e., a period of time during the life of an entity where it displays/manifests certain characteristics, activities, ideas, values, attributes, etc. specific to that period of time)",
-      "(to be) a state/act of celebration/recognition/acknowledgement of one reaching a particular age; a birthday; to celebrate/recognize/acknowledge one’s birthday (i.e., anniversary of one’s birth)"
+      "(to be) a (developmental) stage/phase in one’s life [i.e., a period of time during the life of an entity where it displays/manifests certain characteristics, activities, ideas, values, attributes, etc. specific to that period of time]",
+      "(to be) a state/act of celebration/recognition/acknowledgement of one reaching a particular age; a birthday; to celebrate/recognize/acknowledge one’s birthday [i.e., anniversary of one’s birth]"
     ]
   },
   {
@@ -95,8 +95,8 @@
         "CSV": "(to be) an act of dying; to undergo the act of passing from life to death",
         "OBJ": "(to be) the cause/manner of one’s death "
       },
-      "(to be) a state/process of approaching death, to be dying, to have a fatal condition, to be in a fatal state (i.e., to be in a terminal state where death is immanent, e.g., from a terminal illness, starvation, a mortal wound, etc.)",
-      "(to be) a state of mortality; be mortal (i.e., certain that one will eventually die)"
+      "(to be) a state/process of approaching death, to be dying, to have a fatal condition, to be in a fatal state [i.e., to be in a terminal state where death is immanent, e.g., from a terminal illness, starvation, a mortal wound, etc.]",
+      "(to be) a state of mortality; be mortal [i.e., certain that one will eventually die]"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "refers": "DEGREE OF BODILY STRENGTH / ENERGY / VIGOR",
     "stems": [
       {
-        "BSC": "(to be/manifest a) degree of brute bodily strength; to manifest/apply a particular degree of strength ( = available bodily dynamic energy) — [both the quality and the entity manifesting such]",
+        "BSC": "(to be/manifest a) degree of brute bodily strength; to manifest/apply a particular degree of strength (= available bodily dynamic energy) — [both the quality and the entity manifesting such]",
         "CTE": "(to be) something with a degree of brute bodily strength",
         "CSV": "(to be) a degree of brute bodily strength",
         "OBJ": "(to be) an entity/party impacted/affected by one’s degree of brute bodily strength"
@@ -125,7 +125,7 @@
         "OBJ": "(to be) an entity/party impacted/affected by one’s degree of applied physical force"
       },
       "(to be/manifest a) degree of energy",
-      "(to be/manifest a) degree of potency, “might” ( = potential strength/power to cause or accomplish something)"
+      "(to be/manifest a) degree of potency, “might” (= potential strength/power to cause or accomplish something)"
     ],
     "notes": "Affix: FRC (use SUF/EXN/EXD, etc.)"
   },
@@ -155,7 +155,7 @@
         "OBJ": "(to be) the blow/impact delivered from chopping with one’s hand "
       },
       "(to be) a hand as flat rigid “blade” for use of fingers used “head-on” for pressing/jabbing/poking",
-      "(to be) a hand held flat and rigid for use in covering something or stopping something from escaping (e.g., from a hole or tear)"
+      "(to be) a hand held flat and rigid for use in covering something or stopping something from escaping [e.g., from a hole or tear]"
     ]
   },
   {

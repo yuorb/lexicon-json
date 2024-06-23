@@ -4,7 +4,7 @@
     "refers": "MEASUREMENT OF A LINEAR DIMENSIONAL PROPERTY",
     "stems": [
       {
-        "BSC": "(to be) a state/act of being/having/making something of a certain measure of a linear dimensional property (i.e., length, height, width, circumference, etc.)",
+        "BSC": "(to be) a state/act of being/having/making something of a certain measure of a linear dimensional property [i.e., length, height, width, circumference, etc.]",
         "CTE": "(to be) the state of having/being a certain measure of a linear dimensional property",
         "CSV": "(to be) a physical act of making something have/be a certain measure of a linear dimensional property; to make something a certain number of measurement units [long or wide or high or around, etc.]",
         "OBJ": "(to be) the actual length/height/width/circumference, etc. of something"
@@ -73,7 +73,7 @@
         "OBJ": "(to be) the actual amount/length of time measured"
       },
       "(to be) a state/act of recording/archiving/making available/accessing a temporal measurement made",
-      "(to be) a particular system of timekeeping employed in a temporal measurement (i.e., what system of measurement units are employed)"
+      "(to be) a particular system of timekeeping employed in a temporal measurement [i.e., what system of measurement units are employed]"
     ]
   },
   {
@@ -237,13 +237,13 @@
     "refers": "DEGREE OF VELOCITY",
     "stems": [
       {
-        "BSC": "(to be/manifest a) degree of speed/velocity [ = ratio of distance over time]",
+        "BSC": "(to be/manifest a) degree of speed/velocity [= ratio of distance over time]",
         "CTE": "(to be) something with a degree of speed/velocity",
         "CSV": "(to be) a degree of speed/velocity",
         "OBJ": "(to be) an entity/party impacted/affected by one’s degree of speed/velocity"
       },
-      "(to be/manifest a) degree of acceleration (i.e., increasing rate of speed/velocity)",
-      "(to be/manifest a) degree of deceleration (i.e., decreasing rate of speed/velocity)"
+      "(to be/manifest a) degree of acceleration [i.e., increasing rate of speed/velocity]",
+      "(to be/manifest a) degree of deceleration [i.e., decreasing rate of speed/velocity]"
     ],
     "notes": "Affix: VEL (use SUF/EXN/EXD, etc.)"
   },
@@ -277,13 +277,13 @@
   {
     "root": "LPSN",
     "refers": "PRESSURE",
-    "notes": "as measured by (mass x (distance/time²)) / distance²",
+    "notes": "as measured by (mass × (distance/time²)) / distance²",
     "see": "LPS"
   },
   {
     "root": "LPSF",
     "refers": "POWER",
-    "notes": "as measured by mass x distance² / time³",
+    "notes": "as measured by mass × distance² / time³",
     "see": "LPS"
   },
   {
@@ -563,7 +563,7 @@
   {
     "root": "RŠPŘ",
     "refers": "LUMINOUS ENERGY",
-    "notes": "i.e., the perceived energy of light, as measured by luminous intensity times unit of time per solid angle (e.g., talbots)",
+    "notes": "i.e., the perceived energy of light, as measured by luminous intensity times unit of time per solid angle [e.g., talbots]",
     "see": "ŇŠP"
   },
   {
@@ -575,13 +575,13 @@
   {
     "root": "RŠPŢ",
     "refers": "LUMINOUS EXPOSURE",
-    "notes": "as measured by luminous intensity times unit of time per distance squared (e.g., lux second)",
+    "notes": "as measured by luminous intensity times unit of time per distance squared [e.g., lux second]",
     "see": "ŇŠP"
   },
   {
     "root": "RŠPÇ",
     "refers": "LUMINOUS EFFICACY",
-    "notes": "as measured by luminous intensity per solid angle per unit power (e.g., lumen per watt)",
+    "notes": "as measured by luminous intensity per solid angle per unit power [e.g., lumen per watt]",
     "see": "ŇŠP"
   },
   {
@@ -639,7 +639,7 @@
       {
         "BSC": "(to be/manifest a) degree of spatio-temporal size (= the amount/volume of space or time taken up by an entity)",
         "CTE": "(to be) something with a size [focus on the entity itself]",
-        "CSV": "(to be) a size ( = the volume of space or time taken up)",
+        "CSV": "(to be) a size (= the volume of space or time taken up)",
         "OBJ": "(to be) the particular size of an entity; to measure the size of an entity"
       },
       "(to be/manifest a) degree of spatial size, i.e., volume of space (whether uni-dimensional, 2-D, or 3-D)",

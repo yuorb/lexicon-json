@@ -6,7 +6,7 @@
       {
         "BSC": "(to be) zero as the empty-set / a set having no members; to have no quantity or amount",
         "CTE": "(to be) a party/entity of whom/which there are no members",
-        "CSV": "(to be) a set having no members; to have no (i.e., zero) members in a set",
+        "CSV": "(to be) a set having no members; to have no [i.e., zero] members in a set",
         "OBJ": "(to be) a null value / a value for a parameter that is undefined and/or for which the expected or standard value(s) is/are inapplicable"
       },
       {
@@ -552,9 +552,9 @@
     "refers": "COUNTING / TALLYING / SEQUENTIAL ENUMERATION",
     "stems": [
       {
-        "BSC": "(to be) a sequential numerical count(ing) of entities by natural numbers (i.e., positive integers) to determine the numerical quantity thereof; to count a set of entities, to tally the number of entities",
-        "CTE": "(to be) the [natural] number of entities counted; the count; to count (up)/tally using natural numbers [ = focusing on the accrual/addition of numbers in anticipation of the total/tally]",
-        "CSV": "(to be) the process of counting/tallying; to count (up)/tally [ = focusing on the counting process itself irrespective of the eventual total]",
+        "BSC": "(to be) a sequential numerical count(ing) of entities by natural numbers [i.e., positive integers] to determine the numerical quantity thereof; to count a set of entities, to tally the number of entities",
+        "CTE": "(to be) the [natural] number of entities counted; the count; to count (up)/tally using natural numbers [= focusing on the accrual/addition of numbers in anticipation of the total/tally]",
+        "CSV": "(to be) the process of counting/tallying; to count (up)/tally [= focusing on the counting process itself irrespective of the eventual total]",
         "OBJ": "(to be) the entity/entities so counted"
       },
       "(to be) a sequential numerical labeling [of entities by natural numbers] for purpose of identification, individuation, arrangement, etc.",
@@ -573,7 +573,7 @@
         "OBJ": "(to be) a numerical expression"
       },
       "(to be) an integer, express via integers *",
-      "(to be) a rational number, express via rational numbers * (i.e., expressible as a ratio of two integers)  "
+      "(to be) a rational number, express via rational numbers * [i.e., expressible as a ratio of two integers]  "
     ],
     "notes": "(* concatenate an appropriate stem from the root -**TVY**-with this stem to indicate positive or negative numbers)"
   },
@@ -587,7 +587,7 @@
         "CSV": "(to be) an act of performing something by expressing it as a real number, do something by using real numbers",
         "OBJ": "(to be) a real number expression  "
       },
-      "(to be) an irrational number (i.e., not expressible as a ratio of two integers)",
+      "(to be) an irrational number [i.e., not expressible as a ratio of two integers]",
       "(to be) an imaginary/complex number [i.e., a multiple of i]  "
     ]
   },

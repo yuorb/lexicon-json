@@ -8,10 +8,10 @@
     "degrees": [
       null,
       "… and (in a quasi-sequential series, with topic in common [as well as main verb if a subsequent main verb is missing]): Sam visited Clara and (then/subsequently visited) Jane every Sunday; Sam visited Clara and [Sam then/subsequently] danced with Jane every Sunday.",
-      "… and (in a quasi-sequential series, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member): When Sam shopped for toys, he looked at (AGG sets of miniature replica) cars, soldiers, animals, and marbles-DCT [i.e., all items were AGG sets of miniature-replicas, except the marbles which were a look-alike DCT set].",
+      "… and (in a quasi-sequential series, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member): When Sam shopped for toys, he looked at (AGG sets of miniature replica) cars, soldiers, animals, and marbles-DCT [i.e., all items were AGG sets of miniature-replicas, except the marbles which were a look-alike DCT set]",
       "… and (in a quasi-sequential series where verb participants are in common but case relationships are not and must be inferred) He saw, entered, and conquered the city.",
       "… and (in a quasi-sequential series, with no assumed commonality of morphology between sequential referents, i.e., X + Y + Z …) Sam attended college and Jeff broke his wrist.",
-      "[same as Degree 4 except neutral/unspecified as to whether X is simultaneous vs. subsequent to a previous referent; as such, it can be utilized as an equivalent to English neural (i.e., ambiguous) “and” where simultaneity/concurrency vs. sequentiality is unspecified, or irrelevant.]",
+      "[same as Degree 4 except neutral/unspecified as to whether X is simultaneous vs. subsequent to a previous referent; as such, it can be utilized as an equivalent to English neural [i.e., ambiguous] “and” where simultaneity/concurrency vs. sequentiality is unspecified, or irrelevant.]",
       "… and (at the same time, with no assumed commonality of morphology between referents, i.e., X + Y + Z …) Sam attended college and concurrently Jeff broke his wrist.",
       "… and (at the same time where verb participants are in common, but case relationships are not and must be inferred) He simultaneously saw, entered, and conquered the city.",
       "… and (at the same time, with all morphology in common with first member of series other than as non-default marked or differently-marked than first member)",
@@ -102,12 +102,12 @@
     "associated_root": false,
     "degrees": [
       null,
-      "but, yet, still [ = nevertheless = despite the aforementioned]",
+      "but, yet, still [= nevertheless = despite the aforementioned]",
       "X, however …; X, on the other hand …; as an exception to the aforementioned, X …",
-      "besides, X [ = in addition to the aforementioned, X]; not just the aforementioned, but also X",
+      "besides, X [= in addition to the aforementioned, X]; not just the aforementioned, but also X",
       "X notwithstanding, ignoring X for the moment, without taking X into account; aside from X; with the exception of X",
       "except (for) X; but (not) X; excluding X",
-      "even X; or even X; X still (e.g., thicker still)",
+      "even X; or even X; X still [e.g., thicker still]",
       "not even X",
       "focusing exclusively on X, taking only X into account for the moment, in reference solely to X, in regard only to X, as for X alone",
       "exclusive to X; only applying to X; (as) applicable only to X"

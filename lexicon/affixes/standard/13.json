@@ -64,15 +64,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "red(dish) ( = colored or emanating light of reddish wavelengths)",
-      "orange(y) ( = colored or emanating light of orangish wavelengths)",
-      "yellow(ish) ( = colored or emanating light of yellowish wavelengths)",
-      "green(ish) ( = colored or emanating light of greenish wavelengths)",
-      "cyan/azure ( = colored or emanating light of cyan/azure wavelengths)",
-      "blue(ish) ( = colored or emanating light of bluish wavelengths)",
-      "purple(ish) ( = colored or emanating light of violet/purplish wavelengths)",
-      "magenta(ish) ( = colored or emanating light of magenta-ish wavelengths)",
-      "white/bright/light-gray ( = colored or emanating light of multiple/diffuse wavelengths essentially being a white or colorless light contrasting with a darker background)"
+      "red(dish) (= colored or emanating light of reddish wavelengths)",
+      "orange(y) (= colored or emanating light of orangish wavelengths)",
+      "yellow(ish) (= colored or emanating light of yellowish wavelengths)",
+      "green(ish) (= colored or emanating light of greenish wavelengths)",
+      "cyan/azure (= colored or emanating light of cyan/azure wavelengths)",
+      "blue(ish) (= colored or emanating light of bluish wavelengths)",
+      "purple(ish) (= colored or emanating light of violet/purplish wavelengths)",
+      "magenta(ish) (= colored or emanating light of magenta-ish wavelengths)",
+      "white/bright/light-gray (= colored or emanating light of multiple/diffuse wavelengths essentially being a white or colorless light contrasting with a darker background)"
     ]
   },
   {
@@ -103,15 +103,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "pale, extra-light, -tinted, -tinged ( = bright + very low saturation of hue; nearly white)",
+      "pale, extra-light, -tinted, -tinged (= bright + very low saturation of hue; nearly white)",
       "light-colored",
-      "bright-colored; intense; warm ( = light + full saturation of hue)",
-      "dull-colored ( = desaturated in hue)",
+      "bright-colored; intense; warm (= light + full saturation of hue)",
+      "dull-colored (= desaturated in hue)",
       "medium-colored",
-      "vivid ( = high saturation of a hue)",
-      "dim-colored ( = dark + desaturated)",
+      "vivid (= high saturation of a hue)",
+      "dim-colored (= dark + desaturated)",
       "dark-colored; subdued; cool",
-      "deep, extra-dark ( = dark + high saturation of hue)"
+      "deep, extra-dark (= dark + high saturation of hue)"
     ]
   },
   {

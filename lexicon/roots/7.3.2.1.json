@@ -7,12 +7,12 @@
         "BSC": "(to be) (Chlorophytes; numerous genera) a chlorophyte, chlorophytic green alga, as a holistic entity, including its physical/corporeal body and its living essence; to live/be alive (as a chlorophyte)",
         "CTE": "(to be) that which gives a chlorophyte its individual identity; the living essence of a chlorophyte",
         "CSV": "(to be) the physical body of a chlorophyte; the corporeal aspect of a chlorophyte",
-        "OBJ": "(to be) a state or activity being undergone or engaged in by a chlorophyte, most likely associated with a particular stage of a chlorophyte’s life-cycle (e.g., dormancy as seed(-equivalent), sproutling, budding, in bloom, withering, winter dormancy, etc.)"
+        "OBJ": "(to be) a state or activity being undergone or engaged in by a chlorophyte, most likely associated with a particular stage of a chlorophyte’s life-cycle [e.g., dormancy as seed(-equivalent), sproutling, budding, in bloom, withering, winter dormancy, etc.]"
       },
       "(Charophyta [other than Embryophyta]; numerous genera) charophytic green alga",
       "(Mesostigmatophyceae, Spirotaenia, Chlorokybophyceae; several genera) other green alga"
     ],
-    "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant (e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.), an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
+    "notes": "When utilizing lexical stems relating to plants, care should be taken to remember that each of these stems refers to the entire plant as a whole. If the context is referencing a particular part of a pant [e.g., fruit, seed, leaf, stem, root, tuber, flower, nut, pod, etc.], an appropriate EPP affix should be utilized or the stem should be concatenated with another stem naming the relevant part of the plant."
   },
   {
     "root": "FXM",

@@ -9,7 +9,7 @@
         "CSV": "A/the position/location in space occupied by an entity; to be a/the position/location in space",
         "OBJ": "The entity situated/located at; to be that which situated/located at"
       },
-      "Direction relative to the observer (i.e., linear directional path between an object and the observer)",
+      "Direction relative to the observer [i.e., linear directional path between an object and the observer]",
       "The opposing direction from which something emerges/originates/appears/etc."
     ],
     "notes": "Stem Zero = area, general vicinity of a particular position/location relative to the observer, whether 2-dimensional or 3-dimensional according to the situational context"
@@ -229,7 +229,7 @@
         "OBJ": "(to be) an entity/party at a certain distance/proximity to another"
       },
       "(to be/manifest a) degree of linear spatial proximity/distance/spatial interval between entities",
-      "(to be/manifest a) degree of temporal proximity/distance (i.e., elapsed time between entities)"
+      "(to be/manifest a) degree of temporal proximity/distance [i.e., elapsed time between entities]"
     ]
   }
 ]

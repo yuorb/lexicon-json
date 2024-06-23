@@ -7,15 +7,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "with hand extended frontward (i.e., as when offering to shake hand)",
+      "with hand extended frontward [i.e., as when offering to shake hand]",
       "with hand extended or finger pointing to indicate orientational direction or to focus attention upon something",
-      "with hand held rigid and palm of hand facing outward (i.e., as when signifying someone to “halt”)",
-      "with hand (and arm) gesturing (i.e., as when “talking with one’s hands”)",
+      "with hand held rigid and palm of hand facing outward [i.e., as when signifying someone to “halt”]",
+      "with hand (and arm) gesturing [i.e., as when “talking with one’s hands”]",
       "with hand(s) balled into in a fist",
-      "with hand (and arm) waving (i.e., as when hailing someone)",
-      "with hand(s) waving inward toward oneself (i.e., as in a beckoning motion)",
-      "with hand(s) extended and motioning with palm downward (i.e., as in signalling someone to slow down or to signal “lower”)",
-      "with hand(s) signalling various learned signs (i.e., as when using a sign-language)"
+      "with hand (and arm) waving [i.e., as when hailing someone]",
+      "with hand(s) waving inward toward oneself [i.e., as in a beckoning motion]",
+      "with hand(s) extended and motioning with palm downward [i.e., as in signalling someone to slow down or to signal “lower”]",
+      "with hand(s) signalling various learned signs [i.e., as when using a sign-language]"
     ]
   },
   {
@@ -45,7 +45,7 @@
     "associated_root": false,
     "degrees": [
       null,
-      "with one arm flexed (i.e., curled up at elbow joint)",
+      "with one arm flexed [i.e., curled up at elbow joint]",
       "with one arm behind one’s back",
       "with one arm held behind one’s head",
       "with one arm held with hand on one’s hip",
@@ -53,7 +53,7 @@
       "with arms akimbo",
       "with both arms raised behind one’s head",
       "with both arms behind one’s back",
-      "with both arms flexed (i.e., curled up at elbow joint)"
+      "with both arms flexed [i.e., curled up at elbow joint]"
     ]
   },
   {
@@ -91,26 +91,26 @@
       "with fingers curling and extending in unison",
       "with fingers curling and extending one after the other rapidly(as when imitating a spider crawling)",
       "with fingers “tapping” one after the other (as when impatient)",
-      "with index finger curled/crooked (e.g., as when beckoning someone secretly)"
+      "with index finger curled/crooked [e.g., as when beckoning someone secretly]"
     ]
   },
   {
     "name": "BOD",
-    "description": "Position Of One’s Core Body (i.e., head and torso, not including limbs)",
+    "description": "Position Of One’s Core Body [i.e., head and torso, not including limbs]",
     "gradient_type": "0",
     "cs": "ňẓ",
     "associated_root": false,
     "degrees": [
       null,
-      "in supine position (i.e., lying prone, facing upward)",
+      "in supine position [i.e., lying prone, facing upward]",
       "lying face-downward",
       "lying on one’s right side",
       "lying on one’s left side",
-      "upside-down (i.e., with one’s head held/dangling below one’s torso in the direction of gravity)",
-      "with body positioned at an angle (i.e., neither lying fully flat, nor fully upright) with left side facing downward",
-      "with body positioned at an angle (i.e., neither lying fully flat, nor fully upright) with right side facing downward",
-      "with body positioned at an angle (i.e., neither lying fully flat, nor fully upright) facing downward",
-      "with body positioned at an angle (i.e., neither lying fully flat, nor fully upright) in supine position (i.e., facing upward)"
+      "upside-down [i.e., with one’s head held/dangling below one’s torso in the direction of gravity]",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] with left side facing downward",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] with right side facing downward",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] facing downward",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] in supine position [i.e., facing upward]"
     ]
   },
   {
@@ -124,11 +124,11 @@
       "with one leg held straight, the other bent",
       "with one leg folded under oneself, the other not",
       "with one leg bent at the knee, the other held straight",
-      "with one leg bent with ankle upon opposite thigh (i.e., open-legged cross-legged position, “half-lotus” position)",
+      "with one leg bent with ankle upon opposite thigh [i.e., open-legged cross-legged position, “half-lotus” position]",
       "with legs crossed (one over the other)",
-      "with both legs crossed over one’s thighs (i.e. “lotus” position)",
+      "with both legs crossed over one’s thighs [i.e. “lotus” position]",
       "with both legs bent at the knee",
-      "with both legs folded under oneself (i.e., sitting cross-legged “Indian” style)",
+      "with both legs folded under oneself [i.e., sitting cross-legged “Indian” style]",
       "with both legs held together"
     ]
   }
