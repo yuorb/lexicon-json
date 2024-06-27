@@ -29,10 +29,10 @@
       "yonder / way over there somewhere / a long way away (not near anyone) [inaccessible or unobservable]",
       "over there somewhere (by third party) [inaccessible or unobservable]",
       "there somewhere (by listener) [inaccessible or observable]",
-      "here somewhere (by speaker] [inaccessible or observable]",
-      "here with us (by speaker and listener and accessible]",
-      "here (by speaker and accessible]",
-      "there [by listener and accessible]",
+      "here somewhere (by speaker) [inaccessible or observable]",
+      "here with us (by speaker and listener and accessible)",
+      "here (by speaker and accessible)",
+      "there (by listener and accessible)",
       "there (by third party, but accessible to speaker or listener)",
       "yonder / way over there [not near any party but accessible]"
     ]

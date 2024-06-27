@@ -439,7 +439,7 @@
   },
   {
     "name": "UHN",
-    "description": "Uncountably High Number (e.g., “zillions”, “a myriad of”, etc.)",
+    "description": "Uncountably High Number [e.g., “zillions”, “a myriad of”, etc.]",
     "gradient_type": "0",
     "cs": "vj",
     "associated_root": false,
@@ -561,15 +561,15 @@
     "associated_root": true,
     "degrees": [
       null,
-      "momentary ( = lasting no more than a few seconds)",
-      "brief ( = lasting from about 10 seconds to less than a minute)",
+      "momentary (= lasting no more than a few seconds)",
+      "brief (= lasting from about 10 seconds to less than a minute)",
       "for a “minute” or so",
-      "for a few minutes (e.g., “while you wait”)",
-      "for a little while (i.e., approx. 10 to 30 minutes)",
-      "for a while; for the better part of an hour (i.e., for up to an hour)",
-      "for a bit of a while (i.e., from one to several hours)",
-      "for a quite a while (i.e., from several hours up to most of the day)",
-      "all day long; for all day (i.e., lasting nearly, approx., or up to 24 hours)"
+      "for a few minutes [e.g., “while you wait”]",
+      "for a little while [i.e., approx. 10 to 30 minutes]",
+      "for a while; for the better part of an hour [i.e., for up to an hour]",
+      "for a bit of a while [i.e., from one to several hours]",
+      "for a quite a while [i.e., from several hours up to most of the day]",
+      "all day long; for all day [i.e., lasting nearly, approx., or up to 24 hours]"
     ]
   },
   {
@@ -586,8 +586,8 @@
       "for several weeks",
       "for a month or two",
       "for several months",
-      "for about half a year (i.e., approx. six months)",
-      "for the better part of a year (i.e., from seven to 11 months)",
+      "for about half a year [i.e., approx. six months]",
+      "for the better part of a year [i.e., from seven to 11 months]",
       "for a year (approx.)"
     ]
   },
@@ -638,7 +638,7 @@
     "degrees": [
       null,
       "for several hundred thousand years",
-      "for the better part of an age (i.e., up to a million years)",
+      "for the better part of an age [i.e., up to a million years]",
       "for an age (approx. one million years)",
       "for an epoch (approx. 10 million years)",
       "for an era (approx. 10 epochs = 100 million years)",
@@ -764,7 +764,7 @@
   },
   {
     "name": "SPT",
-    "description": "Specified Points in Calendrical Time (used with Stem 3 of the number roots to render, e.g., ‘the third day of the week (i.e., Wednesday)’ or ‘20th of May’, etc.)",
+    "description": "Specified Points in Calendrical Time [used with Stem 3 of the number roots to render, e.g., ‘the third day of the week [i.e., Wednesday]’ or ‘20th of May’, etc.]",
     "gradient_type": "A1",
     "cs": "rw/-ry",
     "associated_root": false,
@@ -813,7 +813,7 @@
       "(occurring) every ten-thousand years",
       "(occurring) every hundred-thousand years",
       "(occurring) every age; every million years",
-      "(occurring) every epoch; every 10 million yrs.",
+      "(occurring) every epoch; every 10 million years",
       "(occurring) every era; every 100 million years",
       "(occurring) every eon; every 500 million years",
       "(occurring) every billion years",
@@ -1039,7 +1039,7 @@
     "associated_root": false,
     "degrees": [
       null,
-      "sharp break, sudden shift from one state/form/shape/set of circumstances to another with no discernible transition period/zone (i.e., point-like/instantaneous transition)",
+      "sharp break, sudden shift from one state/form/shape/set of circumstances to another with no discernible transition period/zone [i.e., point-like/instantaneous transition]",
       "extremely brief/small/barely discernible transition period or zone from one state/form/shape/set of circumstances to another",
       "somewhat brief/small/discernible transition period or zone from one state/form/shape/set of circumstances to another",
       "below-average or less-than-normal duration of transition period orzone from one state/form/shape/set of circumstances to another",

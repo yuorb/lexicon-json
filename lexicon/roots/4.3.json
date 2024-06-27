@@ -19,9 +19,9 @@
     "refers": "DESIRE / WANT / WISH / HOPE",
     "stems": [
       {
-        "BSC": "(to be/manifest) an affective (i.e., unwilled) state of want/desire [affective state + object of desire]; to want something, to desire something",
+        "BSC": "(to be/manifest) an affective [i.e., unwilled] state of want/desire [affective state + object of desire]; to want something, to desire something",
         "CTE": "(to be) the internal, psychological, proprioceptive manifestation of being in a state of desire; to experience such a state",
-        "CSV": "(to be) the outwardly discernible manifestations of a state of desire; to have the “look” of (i.e., outwardly manifest the signs of) being in a state of desire",
+        "CSV": "(to be) the outwardly discernible manifestations of a state of desire; to have the “look” of [i.e., outwardly manifest the signs of] being in a state of desire",
         "OBJ": "(to be) an entity wanted/desired, a want, a desire; to be the entity wanted/desired"
       },
       "(to be/manifest) a wish/hope for something",
@@ -36,7 +36,7 @@
       {
         "BSC": "(to be) a request + entity requested; to ask for something (out of desire), to request something",
         "CTE": "(to be) the internal, psychological, proprioceptive manifestation of being in a state of desire; to experience such a state",
-        "CSV": "(to be) the outwardly discernible manifestations of a state of desire; to have the “look” of (i.e., outwardly manifest the signs of) being in a state of desire",
+        "CSV": "(to be) the outwardly discernible manifestations of a state of desire; to have the “look” of [i.e., outwardly manifest the signs of] being in a state of desire",
         "OBJ": "(to be) an entity requested; that which is requested"
       },
       "(to be) a demand + entity demanded; to demand something",
@@ -53,8 +53,8 @@
         "CSV": "(to be) a physical state/act or tangible behavior manifested as a result of physical attraction to another",
         "OBJ": "(to be) the target/source of one’s physical attraction, what/whom one is attracted to"
       },
-      "(to be) a state of psychological/philosophical attraction to an abstract entity (e.g., a cause, a socio-political movement, a philosophy, a religion, etc.)",
-      "(to be) a state of psychological/emotional attraction to an inanimate object or non-human entity (e.g., a sports car, a diamond ring, a cute puppy, etc.)"
+      "(to be) a state of psychological/philosophical attraction to an abstract entity [e.g., a cause, a socio-political movement, a philosophy, a religion, etc.]",
+      "(to be) a state of psychological/emotional attraction to an inanimate object or non-human entity [e.g., a sports car, a diamond ring, a cute puppy, etc.]"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "refers": "FREEDOM / SELF-DETERMINATION / INDEPENDENCE / AUTONOMY",
     "stems": [
       {
-        "BSC": "(to be) a state/act of being free; be free, get free, to free (i.e., not be subject to another’s permission/control/oversight/restriction in regard to one’s actions/decisions/lifestyle/choices, etc.)",
+        "BSC": "(to be) a state/act of being free; be free, get free, to free [i.e., not be subject to another’s permission/control/oversight/restriction in regard to one’s actions/decisions/lifestyle/choices, etc.]",
         "CTE": "(to be) a state of freedom, a state of being free; to be free as an existential state",
         "CSV": "(to be) a physical act taken to (attempt to) be free; to get free (from), to free",
         "OBJ": "(to be) what one is (attempting to become) free from"
@@ -91,12 +91,12 @@
     "stems": [
       {
         "BSC": "(to be) one’s reputation, i.e., how one is judged by one’s community in comparison to ethical/behavioral as well as socio-cultural and socio-economic standards/norms/expectations; to have/garner a reputation",
-        "CTE": "(to be) what one’s reputation actually is (i.e., what is said/believed by the community about something/someone)",
+        "CTE": "(to be) what one’s reputation actually is [i.e., what is said/believed by the community about something/someone]",
         "CSV": "(to be) a state/act of establishing/maintaining one’s reputation",
         "OBJ": "(to be) the party/entity having a particular reputation"
       },
       "(to be) one’s public image, how one presents oneself for judgement by one’s community in terms of reputation/opinion",
-      "(to be) one’s sense of prestige (i.e., the extent to which one’s accomplishments/status/celebrity makes a positive impression on others)"
+      "(to be) one’s sense of prestige [i.e., the extent to which one’s accomplishments/status/celebrity makes a positive impression on others]"
     ]
   },
   {
@@ -110,14 +110,14 @@
         "OBJ": "(to be) a particular rule/edict/moral/law, etc. which is to be obeyed"
       },
       "(to be) a state/act of mastery/guardianship/parental authority and obedience/subservience/submission thereto",
-      "(to be) a state/act of enforceable governmental authority (e.g., police, court ruling, codified law/ordinance) and obedience/adherence thereto"
+      "(to be) a state/act of enforceable governmental authority [e.g., police, court ruling, codified law/ordinance] and obedience/adherence thereto"
     ]
   },
   {
     "root": "RZW",
     "refers": "OCCUPATIONAL AUTHORITY / SLAVERY / MILITARY AUTHORITY",
     "stems": [
-      "(to be) a state/act of contractual occupational authority (i.e., employer/supervisor/boss) and employee compliance thereto",
+      "(to be) a state/act of contractual occupational authority [i.e., employer/supervisor/boss] and employee compliance thereto",
       "(to be) a state/act of slavery and subjugation thereto as a slave",
       "(to be) a state/act of military authority and obedience to/following of orders"
     ],
@@ -133,7 +133,7 @@
         "CSV": "(to be) a physical act/process of armed security enforcement/guardianship/policing by an agent of a private/commercial/corporate armed security/policing agency or guard force",
         "OBJ": "(to be) an individual agent/officer/guard with a private/commercial/corporate armed security/policing agency or guard force"
       },
-      "(to be) an authorized police force/law enforcement agency for an official governmental jurisdiction (e.g., municipal police, county sheriff, state police, military police, federal police, U.N. police, etc.)",
+      "(to be) an authorized police force/law enforcement agency for an official governmental jurisdiction [e.g., municipal police, county sheriff, state police, military police, federal police, U.N. police, etc.]",
       "(to be) an authorized national army/navy/marines/coast guard or similar national armed defensive force of a sovereign nation"
     ]
   },
@@ -144,7 +144,7 @@
       {
         "BSC": "(to be) a feeling of pride for someone/something; be proud of someone/something",
         "CTE": "(to be) the feeling of pride itself as a personal emotional state",
-        "CSV": "(to be) the physical manifestation (i.e., act(s)/word(s)/behavior) of a state of pride felt for an entity",
+        "CSV": "(to be) the physical manifestation [i.e., act(s)/word(s)/behavior] of a state of pride felt for an entity",
         "OBJ": "(to be) the entity/party/event/situation/state one is proud of"
       },
       "(to be) a feeling of respect for someone/something; respect someone/something",
@@ -176,7 +176,7 @@
         "OBJ": "(to be) the party to whom one is amicable"
       },
       "(to be) a state of friendship (unidirectional); to be someone’s friend",
-      "(to be) a state of peace; to be/live in peace (i.e., non-enmity)"
+      "(to be) a state of peace; to be/live in peace [i.e., non-enmity]"
     ]
   },
   {
@@ -190,7 +190,7 @@
         "OBJ": "(to be) the party/entity who is welcomed"
       },
       "(to be) a state/act of hospitality toward a party; to host a guest Specification = “guest”]",
-      "(to be) a state/act of temporary commercial/paid accommodation (e.g., at a hotel, inn, resort, retreat, etc.); to accommodate, take in, or host a paying guest (as customer) [OBJ Specification = paying guest]"
+      "(to be) a state/act of temporary commercial/paid accommodation [e.g., at a hotel, inn, resort, retreat, etc.]; to accommodate, take in, or host a paying guest (as customer) [OBJ Specification = paying guest]"
     ]
   },
   {
@@ -204,7 +204,7 @@
         "OBJ": "(to be) the party/entity visited"
       },
       "(to be) a state/act of visiting a place, sight-seeing; to tour, to visit [a place to see what’s there]; to sight-see, to tour",
-      "(to be) a formal visit (for other than mere social purposes); to pay a visit to or on [visiting someone as an obligation, duty, job, etc.)"
+      "(to be) a formal visit (for other than mere social purposes); to pay a visit to or on [visiting someone as an obligation, duty, job, etc.]"
     ]
   },
   {
@@ -218,7 +218,7 @@
         "OBJ": "(to be) what one believes"
       },
       "(to be) an article of faith / an item of doctrine or; to believe something as an article of faith/doctrine",
-      "(to be) dogma; to believe dogmatically (i.e., to intransigently hold as an unquestionable belief which, to doubt such, constitutes an act of apostasy/heresy)"
+      "(to be) dogma; to believe dogmatically [i.e., to intransigently hold as an unquestionable belief which, to doubt such, constitutes an act of apostasy/heresy]"
     ]
   },
   {
@@ -228,7 +228,7 @@
       {
         "BSC": "(to be) a state/act of holding a religious belief; to hold a religious belief, be a believer in a (set of) religious tenet(s)",
         "CTE": "(to be) a state of being religious; to have religious faith",
-        "CSV": "(to be) a physical act of religious faith; to engage in an act based on religious belief(s)/faith (e.g., pray, partake in a religious service or sacrament, participate in a religious ritual, burn heretics or non-believers, commit atrocity, etc.)",
+        "CSV": "(to be) a physical act of religious faith; to engage in an act based on religious belief(s)/faith [e.g., pray, partake in a religious service or sacrament, participate in a religious ritual, burn heretics or non-believers, commit atrocity, etc.]",
         "OBJ": "(to be) a religious tenet or dogma"
       },
       {
@@ -265,13 +265,13 @@
     "refers": "APOSTASY / HERESY / HETERODOXY / ICONOCLASM",
     "stems": [
       {
-        "BSC": "(to be) a state/act of being apostatic; practice apostasy, hold apostatic beliefs (i.e., a loss of one’s faith/belief in some system of belief/doctrine/religion/cause, etc.)",
+        "BSC": "(to be) a state/act of being apostatic; practice apostasy, hold apostatic beliefs [i.e., a loss of one’s faith/belief in some system of belief/doctrine/religion/cause, etc.]",
         "CTE": "(to be) a state of apostasy",
         "CSV": "(to be) a physical act of apostasy; to say/do something that conveys/manifests one’s apostasy",
         "OBJ": "(to be) the tenet(s)/beliefs/doctrine the apostate no longer believes in"
       },
       "(to be) a state/act of being heretical; practice heresy/heterodoxy; to hold heretical beliefs",
-      "(to be) a state/act of being iconoclastic; practice iconoclasm, act iconoclastically (i.e., a belief that certain venerated or sacred institutions/beliefs are superstitious nonsense)"
+      "(to be) a state/act of being iconoclastic; practice iconoclasm, act iconoclastically [i.e., a belief that certain venerated or sacred institutions/beliefs are superstitious nonsense]"
     ]
   },
   {
@@ -284,8 +284,8 @@
         "CSV": "(to be) a physical act of mindfulness; do something that manifests mindfulness",
         "OBJ": "(to be) what one is mindful of"
       },
-      "(to be) a state/act of alertness/caution; be alert/cautious (i.e., mindfulness/ awareness of one’s surroundings as a precautionary measure against potential threats)",
-      "(to be) a state/act of warning; to warn, to be warned, to beware (i.e., advisement that one’s safety or well-being is potentially at risk)"
+      "(to be) a state/act of alertness/caution; be alert/cautious [i.e., mindfulness/ awareness of one’s surroundings as a precautionary measure against potential threats]",
+      "(to be) a state/act of warning; to warn, to be warned, to beware [i.e., advisement that one’s safety or well-being is potentially at risk]"
     ],
     "notes": "For wariness/caution as an emotional state, see the root -**KSG**-"
   },
@@ -294,13 +294,13 @@
     "refers": "EXAGGERATION / EMBELLISHMENT / OVERSTATEMENT / HYPERBOLE / OVER-REACTION",
     "stems": [
       {
-        "BSC": "(to be) a state/act of exaggerating/embellishing facts; to exaggerate or embellish (i.e., magnification, amplification, embellishment of facts with the intent to impress or garner attention)",
+        "BSC": "(to be) a state/act of exaggerating/embellishing facts; to exaggerate or embellish [i.e., magnification, amplification, embellishment of facts with the intent to impress or garner attention]",
         "CTE": "(to be) a state of exaggeration",
         "CSV": "(to be) a physical act of exaggeration; to do/say something that constitutes/manifests exaggeration",
         "OBJ": "(to be) what one exaggerates about"
       },
-      "(to be) a state/act of overstating or resorting to hyperbole; to overstate, resort to hyperbole (i.e., exaggeration with the intention to misrepresent)",
-      "(to be) a state of being overwrought, over-reaction; to over-react, be overwrought (i.e., an over-the-top emotional or reactionary response the degree of which is not warranted by circumstances)"
+      "(to be) a state/act of overstating or resorting to hyperbole; to overstate, resort to hyperbole [i.e., exaggeration with the intention to misrepresent]",
+      "(to be) a state of being overwrought, over-reaction; to over-react, be overwrought [i.e., an over-the-top emotional or reactionary response the degree of which is not warranted by circumstances]"
     ],
     "notes": "Derivation: Use the stems of this root with the SIM/1 or TVP/1 affix to generate the concepts of “underplay”, “understatement”, “subtlety”."
   },
@@ -309,12 +309,12 @@
     "refers": "ANNOYANCE / IRRITATION / VEXATION / BOTHER / HARASSMENT",
     "stems": [
       {
-        "BSC": "(to be) a state/act of annoyance/vex/irritate emotionally; to annoy someone, to irritate someone (emotionally) (i.e., cause someone to become annoyed/irritated)",
+        "BSC": "(to be) a state/act of annoyance/vex/irritate emotionally; to annoy someone, to irritate someone (emotionally) [i.e., cause someone to become annoyed/irritated]",
         "CTE": "(to be) a state of annoyance/irritation/vexation",
         "CSV": "(to be) an act of annoying/irritating/vexing; to do something that annoys, irritates (emotionally), vexes",
         "OBJ": "(to be) the party/entity/object/situation which causes annoyance"
       },
-      "(to be) a state of bother/pestering/nagging; to bother/pester/nag (i.e., to cause someone against their will/consent to have to deal/treat with the bothering party)",
+      "(to be) a state of bother/pestering/nagging; to bother/pester/nag [i.e., to cause someone against their will/consent to have to deal/treat with the bothering party]",
       "(to be) state/act of harassing/harassment; to harass"
     ],
     "notes": "Derivation: hazing, to haze"
@@ -330,7 +330,7 @@
         "OBJ": "(to be) the rationalization itself [i.e., what one convinces oneself is true via a process of rationalization]"
       },
       "(to be) a state/act/process of whitewashing; to whitewash [i.e., the deliberate and selective distortion/suppression/highlighting data/facts/evidence to create a favorable impression/interpretation/explanation of something]",
-      "(to be) a state/act/process of conducting a cover-up; to (conduct a) cover- up [i.e., the deliberate concealment and/or tampering/destruction of data/facts/evidence and/or the suppression of witnesses in order to conceal evidence of an illegal and/or immoral act/situation"
+      "(to be) a state/act/process of conducting a cover-up; to (conduct a) cover- up [i.e., the deliberate concealment and/or tampering/destruction of data/facts/evidence and/or the suppression of witnesses in order to conceal evidence of an illegal and/or immoral act/situation]"
     ]
   },
   {
@@ -366,12 +366,12 @@
     "refers": "EMBARRASSMENT / SHAME / HUMILIATION",
     "stems": [
       {
-        "BSC": "(to be) a state/act of embarrassment; to embarrass (i.e., make one feel embarrassed)",
+        "BSC": "(to be) a state/act of embarrassment; to embarrass [i.e., make one feel embarrassed]",
         "CTE": "(to be) a state of embarrassment",
         "CSV": "(to be) an act of embarrassing someone; to do something to embarrass another",
         "OBJ": "(to be) what one is (or should be) embarrassed about"
       },
-      "(to be) a state/act of shaming someone; to shame someone, pressure/coerce someone via guilt/shame (i.e., to make someone feel guilty about something)",
+      "(to be) a state/act of shaming someone; to shame someone, pressure/coerce someone via guilt/shame [i.e., to make someone feel guilty about something]",
       "(to be) a state/act of humiliation/abasement; to humiliate/abase someone"
     ]
   },
@@ -380,12 +380,12 @@
     "refers": "LAXITY / LENIENCY / NEGLIGENCE",
     "stems": [
       {
-        "BSC": "(to be) a state/act of laxity, being lax about something; to be lax about something (i.e., not having a strong desire or sense of responsibility about controlling or overseeing something/someone where it is appropriate to have such a desire or sense of responsibility)",
+        "BSC": "(to be) a state/act of laxity, being lax about something; to be lax about something [i.e., not having a strong desire or sense of responsibility about controlling or overseeing something/someone where it is appropriate to have such a desire or sense of responsibility]",
         "CTE": "(to be) a state of feeling lax/unconcerned regarding a responsibility",
         "CSV": "(to be) a physical act of laxity; to do something that manifests one’s laxity about something",
         "OBJ": "(to be) what one is lax about"
       },
-      "(to be) a state/act of leniency; be lenient toward another, act leniently (i.e., allow another to act with a lesser degree of oversight than others might expect based one’s belief/sense that the party one has oversight of or responsibility for is capable of making their own decisions or able to act responsibly themselves)",
+      "(to be) a state/act of leniency; be lenient toward another, act leniently [i.e., allow another to act with a lesser degree of oversight than others might expect based one’s belief/sense that the party one has oversight of or responsibility for is capable of making their own decisions or able to act responsibly themselves]",
       "(to be) a state/act of being remiss/negligent; to be remiss/negligent"
     ]
   },
@@ -400,7 +400,7 @@
         "OBJ": "(to be) what one is being criticized/disparaged for or about"
       },
       "(to be) a state/act of rebuking, scolding, reproaching, berating, chastisement, castigation; to rebuke/scold/reproach/berate/chastise/castigate",
-      "(to be) a state/act of defamation/slander/libel (i.e. attempt to damage the reputation of a party/entity)"
+      "(to be) a state/act of defamation/slander/libel [i.e. attempt to damage the reputation of a party/entity]"
     ]
   },
   {
@@ -427,7 +427,7 @@
         "CSV": "(to be) an act of purposefulness; do something that manifests one’s purposefulness",
         "OBJ": "(to be) one’s purpose"
       },
-      "(to be) a state/act/process of judging, a process of judgement; to judge over, to weigh evidence toward making a judgement [CPT version = to judge, make/render a judgement",
+      "(to be) a state/act/process of judging, a process of judgement; to judge over, to weigh evidence toward making a judgement [CPT version = to judge, make/render a judgement]",
       "(to be) a state/act/process of resolving something, coming up with a resolution; to consider/work out a resolution [CPT version = to resolve, come to a resolution]"
     ]
   },
@@ -436,7 +436,7 @@
     "refers": "AUDACITY / “NERVE” / CONFRONTATION / CIVIL DISOBEDIENCE",
     "stems": [
       {
-        "BSC": "(to be) a state/act of audacity; be audacious (i.e., have the “nerve” or pluck or “balls” to do something]",
+        "BSC": "(to be) a state/act of audacity; be audacious [i.e., have the “nerve” or pluck or “balls” to do something]",
         "CTE": "(to be) a psychological state of being/feeling audacious",
         "CSV": "(to be) a physical act of audacious behavior; to do something audacious",
         "OBJ": "(to be) what one is audacious about or towards"
@@ -450,12 +450,12 @@
     "refers": "NAÏVETÉ / FOOLISHNESS / IGNORANCE",
     "stems": [
       {
-        "BSC": "(to be) a state of being naïve/foolish; act naively or foolishly (i.e., ill- conceived thinking/behavior due to a failure to analyze a situation or one’s circumstances realistically and/or thoroughly)",
+        "BSC": "(to be) a state of being naïve/foolish; act naively or foolishly [i.e., ill- conceived thinking/behavior due to a failure to analyze a situation or one’s circumstances realistically and/or thoroughly]",
         "CTE": "(to be) a state of naïveté or foolishness",
         "CSV": "(to be) a physical act/manifestation of naïveté or foolishness; to do/say something that is naïve or foolish",
         "OBJ": "(to be) the situation or circumstances one is (being) foolish/naïve about"
       },
-      "(to be) a state of being obtuse or “clueless”; be obtuse or clueless (i.e., fail to draw appropriate/expected conclusions from a situation or fail to recognize a situation for what it is despite the seeming obviousness thereof)",
+      "(to be) a state of being obtuse or “clueless”; be obtuse or clueless [i.e., fail to draw appropriate/expected conclusions from a situation or fail to recognize a situation for what it is despite the seeming obviousness thereof]",
       "(to be) a state of ignorance, “blindness” or unawareness; be unaware or ignorant of something"
     ]
   },
@@ -464,7 +464,7 @@
     "refers": "DISINTEREST / PROBITY / HONESTY / SUBLIMITY / NOBILITY / VIRTUE",
     "stems": [
       {
-        "BSC": "(to be) an state/act of personal disinterest (i.e., not concerned with or motivated by personal interest, personal gain, or self-centered motivations)",
+        "BSC": "(to be) an state/act of personal disinterest [i.e., not concerned with or motivated by personal interest, personal gain, or self-centered motivations]",
         "CTE": "(to be) a state of disinterest(edness)",
         "CSV": "(to be) a physical act manifesting personal disinterest; to do something that displays one’s disinterest",
         "OBJ": "(to be) that regarding which one is disinterested"
@@ -498,7 +498,7 @@
         "CSV": "(to be) a physical act of being generous; to do something generous",
         "OBJ": "(to be) the party/entity toward which/whom one is generous"
       },
-      "(to be) an act/state of altruism; to be altruistic, act altruistically (i.e., helping/giving to another against one’s own self-interest, self-sacrifice)",
+      "(to be) an act/state of altruism; to be altruistic, act altruistically [i.e., helping/giving to another against one’s own self-interest, self-sacrifice]",
       "(to be) an act of self-abasement, self-abnegation, self-denial"
     ]
   },
@@ -523,7 +523,7 @@
       {
         "BSC": "(to be) a state/act of appreciation or commendation for someone/something; appreciate/commend someone/something",
         "CTE": "(to be) the feeling of appreciation itself as a personal emotional state",
-        "CSV": "(to be) the physical manifestation (i.e., act(s)/word(s)/behavior) of a state of appreciation felt for an entity",
+        "CSV": "(to be) the physical manifestation [i.e., act(s)/word(s)/behavior] of a state of appreciation felt for an entity",
         "OBJ": "(to be) the entity/party/event/situation/state one appreciates"
       },
       "(to be) a state/act of honoring upon someone; to honor someone",
@@ -589,13 +589,13 @@
     "refers": "PSYCHE / MIND",
     "stems": [
       {
-        "BSC": "one’s psyche (i.e., the amalgamation of both the conscious and unconscious mind)",
+        "BSC": "one’s psyche [i.e., the amalgamation of both the conscious and unconscious mind]",
         "CTE": "(to be) the state of having a psyche; to have a psyche",
         "CSV": "(to be) a state/act of one’s psyche in operation; to experience or engage in conscious or unconscious mental activity",
-        "OBJ": "(to be) a phaneron or quale (i.e., the “content” of what is being experienced by one’s mind at any given moment)"
+        "OBJ": "(to be) a phaneron or quale [i.e., the “content” of what is being experienced by one’s mind at any given moment]"
       },
-      "(to be) one’s conscious mind (i.e., the amalgamation of consciousness, perception, thinking, judgement, imagination, language, and memory)",
-      "one’s unconscious mind (i.e., the seat of subliminal perceptions, automatic skills, repressed feelings and values, instinct, etc.)"
+      "(to be) one’s conscious mind [i.e., the amalgamation of consciousness, perception, thinking, judgement, imagination, language, and memory]",
+      "one’s unconscious mind [i.e., the seat of subliminal perceptions, automatic skills, repressed feelings and values, instinct, etc.]"
     ]
   },
   {
@@ -603,13 +603,13 @@
     "refers": "SENTIENCE / SUBJECTIVITY",
     "stems": [
       {
-        "BSC": "(to be) a state/act of sentience (i.e., self-awareness plus awareness of both a [seemingly] external reality and a subjective, personal reality); to be sentient",
+        "BSC": "(to be) a state/act of sentience [i.e., self-awareness plus awareness of both a [seemingly] external reality and a subjective, personal reality]; to be sentient",
         "CTE": "(to be) the state of sentience itself as an ontological phenomenon",
         "CSV": "(to be) an act/state of awareness of self and/or external/internal reality by which one manifests sentience; to manifest sentience",
         "OBJ": "(to be) a thought/feeling/instinctive reaction by which one determines one’s sentience"
       },
-      "(to be) a state of subjectivity (i.e., one’s personal viewpoint, perspective, or way of thinking about something based on one’s conscious and unconscious values, biases, memories, experiences, etc.)",
-      "(to be) a subjective experience; to undergo a subjective experience (i.e., an experience which occurs solely within one’s mind, or which entails subjective/introspective implications/consequences for oneself)"
+      "(to be) a state of subjectivity [i.e., one’s personal viewpoint, perspective, or way of thinking about something based on one’s conscious and unconscious values, biases, memories, experiences, etc.]",
+      "(to be) a subjective experience; to undergo a subjective experience [i.e., an experience which occurs solely within one’s mind, or which entails subjective/introspective implications/consequences for oneself]"
     ]
   },
   {
@@ -650,8 +650,8 @@
         "CSV": "(to be) an act/process of forming/holding a mental image; to visualize",
         "OBJ": "(to be) the mental image itself that one holds/forms in one’s mind, a visualization"
       },
-      "(to be) a state/act of imagination; to imagine something (i.e., to form a subjective mental image/narrative about something which does not exist in reality)",
-      "(to be) a state/act of creativity or being creative; to be creative (i.e., to engage in a mental or physical manipulation of subjective and/or objective reality for the purpose of personal artistic expression or to test/disturb/alter/extend the boundaries of socio-cultural expectations or one’s own psychological expectations)"
+      "(to be) a state/act of imagination; to imagine something [i.e., to form a subjective mental image/narrative about something which does not exist in reality]",
+      "(to be) a state/act of creativity or being creative; to be creative [i.e., to engage in a mental or physical manipulation of subjective and/or objective reality for the purpose of personal artistic expression or to test/disturb/alter/extend the boundaries of socio-cultural expectations or one’s own psychological expectations]"
     ]
   },
   {
@@ -664,8 +664,8 @@
         "CSV": "(to be) an act/state created or performed by supernatural means or by a supernatural entity",
         "OBJ": "(to be) a supernatural entity/being/presence"
       },
-      "(to be) a state/act of being a ghost or spirit from the afterlife or beyond death (e.g., ghost, spirit, zombie, etc.)",
-      "(to be) a state/act of being an entity associated with supernatural, magical, spiritual, or a heavenly/infernal realm (e.g., angel, demon, devil, leprechaun, banshee, etc.)"
+      "(to be) a state/act of being a ghost or spirit from the afterlife or beyond death [e.g., ghost, spirit, zombie, etc.]",
+      "(to be) a state/act of being an entity associated with supernatural, magical, spiritual, or a heavenly/infernal realm [e.g., angel, demon, devil, leprechaun, banshee, etc.]"
     ],
     "notes": "For “god/deity”, see Stem 3 of the root -**BS**- “RELIGIOUS BELIEF / RELIGION / RELIGIOUS WORSHIP”"
   },
@@ -679,7 +679,7 @@
         "CSV": "(to be) an act of seeing/confronting/dealing with an imaginary being or creature",
         "OBJ": "(to be) one who believes in or sees/confronts/deals with an imaginary being/creature"
       },
-      "(to be) a monster (i.e., a malevolent and/or hideous terrifying creature",
+      "(to be) a monster [i.e., a malevolent and/or hideous terrifying creature]",
       "(to be) alien/extraterrestrial being"
     ],
     "notes": "Use the **IMX** affix to indicate status as mythological, fantasy-based, hypothetical, etc."
@@ -692,7 +692,7 @@
         "BSC": "(to be) a state/act/instance of magic, something magical; to be magical, to practice magic [i.e., the supernatural ability to manipulate reality or the semblance thereof in seeming violation of the laws of physics]",
         "CTE": "(to be) the essence/state of magic itself; the supernatural existence of magic as an existential force or art",
         "CSV": "(to be) a physical act/ritual of performing/practicing magic; to do/make/practice magic, to conjure, to perform a ritual of magic",
-        "OBJ": "(to be) a product of magic (e.g., a potion, an apparition, the appearance of a spirit or demon, a conjured state of affairs, etc.)"
+        "OBJ": "(to be) a product of magic [e.g., a potion, an apparition, the appearance of a spirit or demon, a conjured state of affairs, etc.]"
       },
       "(to be) a state/act/instance of thaumaturgy, wonderworking, or miracle-working; to be/constitute/perform a miracle",
       "(to be) something supernatural or of the occult, a supernatural/occult phenomenon; do/practice ritual activity based upon a(n assumed) capacity to manipulate reality based on supernatural or occult arts/practices/beliefs"
@@ -703,12 +703,12 @@
     "refers": "PSYCHIC ABILITY OR PARANORMAL POWER",
     "stems": [
       {
-        "BSC": "(to be) a state/act of having/using a psychic power or paranormal psychic ability (e.g., telekinesis, telepathy, levitation, ESP, pyrokinesis, precognition, etc.)",
+        "BSC": "(to be) a state/act of having/using a psychic power or paranormal psychic ability [e.g., telekinesis, telepathy, levitation, ESP, pyrokinesis, precognition, etc.]",
         "CTE": "(to be) a state of having/undergoing a psychic/paranormal experience",
         "CSV": "(to be) a physical act of applying/practicing/using one’s paranormal psychic power/ability; to perform an act of using/applying one’s paranormal psychic power/ability",
         "OBJ": "(to be) a product of, or a state of affairs resulting from, the use/application/performance of one’s paranormal psychic power/ability"
       },
-      "(to be) a paranormal ability/power beyond the normal range of bodily or mental ability (e.g., super strength, X-ray vision, inability to be frozen or burnt, etc.)",
+      "(to be) a paranormal ability/power beyond the normal range of bodily or mental ability [e.g., super strength, X-ray vision, inability to be frozen or burnt, etc.]",
       "(to be) an act/process of casting a magical spell; to cast a spell"
     ]
   },
@@ -716,7 +716,7 @@
     "root": "LSML",
     "stems": [
       "mediumship/channeling [i.e., the ability to communicate with spirits]",
-      "psychometry/psychoscopy (i.e., ability to obtain information about an entity through touch)",
+      "psychometry/psychoscopy [i.e., ability to obtain information about an entity through touch]",
       "astral projection / mental projection [i.e., ability to voluntarily project the consciousness of an entity outside of its body]"
     ],
     "see": "SMR"
@@ -761,7 +761,7 @@
     "root": "RSMR",
     "stems": [
       "invisibility",
-      "apportation [i.e., ability to perform/undergo materialization, disappearance or teleportation of an object/entity",
+      "apportation [i.e., ability to perform/undergo materialization, disappearance or teleportation of an object/entity]",
       "ability to pass through solid objects"
     ],
     "see": "SMR"
@@ -780,13 +780,13 @@
     "refers": "EXISTENCE / REALITY / SOLIPSISM",
     "stems": [
       {
-        "BSC": "(to be) something ontologically existent/real; to exist ontologically, be ontologically real (i.e., to exist in reality regardless of anyone’s beliefs, opinions, philosophy, interpretation, societal convention, decree, etc.",
+        "BSC": "(to be) something ontologically existent/real; to exist ontologically, be ontologically real [i.e., to exist in reality regardless of anyone’s beliefs, opinions, philosophy, interpretation, societal convention, decree, etc.]",
         "CTE": "(to be) a state of ontological existence; to exist in reality regardless of anyone’s beliefs, opinions, etc.",
         "CSV": "(to be) the physical manifestation of one’s ontological existence *",
         "OBJ": "(to be) an entity that ontologically exists, an ontologically existent thing/entity/object/party"
       },
-      "(to be) something epistemologically real; to exist epistemologically, be epistemologically real (i.e., to exist based on another entity’s beliefs, opinions, philosophy, interpretation, societal convention, decree, etc.",
-      "(to be) one’s own solipsistic existence; to exist solipsistically (i.e., the existence of one’s own psyche as the only ontologically existent entity)"
+      "(to be) something epistemologically real; to exist epistemologically, be epistemologically real [i.e., to exist based on another entity’s beliefs, opinions, philosophy, interpretation, societal convention, decree, etc.]",
+      "(to be) one’s own solipsistic existence; to exist solipsistically [i.e., the existence of one’s own psyche as the only ontologically existent entity]"
     ],
     "notes": "The CSV specification of this stem is essentially synonymous with the CTE Specification of Stem 1 of the root -**ŠŘ**- “SPACETIME / SPACE / PASSAGE OF TIME”"
   },
@@ -848,7 +848,7 @@
     "refers": "FOOLING / PSYCHO-LINGUISTIC MANIPULATION / HYPNOSIS",
     "stems": [
       {
-        "BSC": "(to be) an instance/act of fooling another party (i.e., into believing/doing something);",
+        "BSC": "(to be) an instance/act of fooling another party [i.e., into believing/doing something];",
         "CTE": "(to be) a state of having been fooled",
         "CSV": "(to be) the psychological/linguistic or other means employed by which someone is fooled; to take actions or employ means to fool a party",
         "OBJ": "(to be) the entity/party fooled"
@@ -911,7 +911,7 @@
         "OBJ": "(to be) what one is (being) stupid about"
       },
       "(to be) a state/act of being non-intellectual, non-conceptual/non-analytical in one’s thinking; to be non-intellectual/non-analytical in one’s thinking",
-      "(to be) a state of being “shallow”/anti-intellectual; be “shallow”/anti-intellectual, act in a “shallow”/anti-intellectual manner (i.e., unconcerned with or indifferent to intellectual prowess or analytical thinking)"
+      "(to be) a state of being “shallow”/anti-intellectual; be “shallow”/anti-intellectual, act in a “shallow”/anti-intellectual manner [i.e., unconcerned with or indifferent to intellectual prowess or analytical thinking]"
     ]
   },
   {
@@ -924,8 +924,8 @@
         "CSV": "(to be) an act of sincerity/honesty; to do/say something sincere/genuine",
         "OBJ": "(to be) what one is sincere/genuine about"
       },
-      "(to be) a state/act of honesty; to be/act honest(ly)  (i.e., without deceit, withholding necessary information)",
-      "(to be) a state/act of guilelessness, being without guile; be/act without guile, to be/act guileless(ly)  (i.e., be/act without ulterior motive)"
+      "(to be) a state/act of honesty; to be/act honest(ly)  [i.e., without deceit, withholding necessary information]",
+      "(to be) a state/act of guilelessness, being without guile; be/act without guile, to be/act guileless(ly)  [i.e., be/act without ulterior motive]"
     ]
   },
   {
@@ -952,8 +952,8 @@
         "CSV": "(to be) an act of respect/esteem; do/say something that conveys/manifests one’s respect for something/someone",
         "OBJ": "(to be) the party/entity respected/esteemed"
       },
-      "(to be) a state/act of respectability; be respectable/estimable (i.e., having a degree of potential for being respected/esteemed)",
-      "(to be) a state/act of being honorable; to have honor (i.e., a sense of high regard and great respect given or received based on one’s adherence to actions or principles considered by one’s community/society as right)"
+      "(to be) a state/act of respectability; be respectable/estimable [i.e., having a degree of potential for being respected/esteemed]",
+      "(to be) a state/act of being honorable; to have honor [i.e., a sense of high regard and great respect given or received based on one’s adherence to actions or principles considered by one’s community/society as right]"
     ]
   },
   {
@@ -975,7 +975,7 @@
     "refers": "CIVILITY / PEACEABLENESS",
     "stems": [
       {
-        "BSC": "(to be) a state/act of civility; be civil, act civilly (i.e., in accordance with socio-cultural/societal norms and expectations)",
+        "BSC": "(to be) a state/act of civility; be civil, act civilly [i.e., in accordance with socio-cultural/societal norms and expectations]",
         "CTE": "(to be) a state of civility",
         "CSV": "(to be) a physical act of civility; to do something that constitutes an act of peaceableness",
         "OBJ": "(to be) a symbol of civility"
@@ -995,7 +995,7 @@
         "OBJ": "(to be) what one condones"
       },
       "(to be) a state/act of attempting to placate or appease; to attempt to placate, to attempt to appease [CPT Version = placate, appease]",
-      "(to be) a state/act of propitiating or conciliating; to propitiate, to conciliate [i.e., act to obtain the good will of or be in the good graces of another [CPT Version = to (re-)gain the favor of someone]"
+      "(to be) a state/act of propitiating or conciliating; to propitiate, to conciliate [i.e., act to obtain the good will of or be in the good graces of another] [CPT Version = to (re-)gain the favor of someone]"
     ]
   },
   {
@@ -1003,7 +1003,7 @@
     "refers": "DIFFIDENCE / SHYNESS / BASHFULNESS / TIMIDITY / TIMOROUSNESS / PUSILLANIMITY / COWARDICE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of diffidence/shyness/bashfulness; to act/behave diffidently/shyly/bashfully; to be diffident/shy/bashful/timidly (i.e., lacking self-confidence to the point of being incapable of self-assertiveness or behaving/communicating in a straightforward manner)",
+        "BSC": "(be) an act/instance of diffidence/shyness/bashfulness; to act/behave diffidently/shyly/bashfully; to be diffident/shy/bashful/timidly [i.e., lacking self-confidence to the point of being incapable of self-assertiveness or behaving/communicating in a straightforward manner]",
         "CTE": "(be) a diffident/shy/bashful person, have a modest character/personality",
         "CSV": "(be) an appearance of diffidence/shyness/bashfulness, i.e., to behave/act as (if) one who is",
         "OBJ": "(be) a person whom others generally perceive as being diffident/shy/bashful"
@@ -1037,7 +1037,7 @@
         "OBJ": "(to be) what one is being pompous/pretentious/ostentatious about"
       },
       "(to be) an act of bragging/boasting; to brag/boast about something",
-      "(to be) an act of one-upmanship; to one-up (i.e., do/say something to another with the intent to impress upon them that one’s own story/experience/feat, etc. is better or more impressive than theirs)"
+      "(to be) an act of one-upmanship; to one-up [i.e., do/say something to another with the intent to impress upon them that one’s own story/experience/feat, etc. is better or more impressive than theirs]"
     ]
   },
   {
@@ -1089,8 +1089,8 @@
         "CSV": "(to be) a physical act that is heedless/impetuous",
         "OBJ": "(to be) the expected/normative state of affairs, situation, event or act that should/would occur or exist if not for the heedless/impetuous act"
       },
-      "(to be) a state/act of imprudence/indiscretion; be act imprudently/indiscreetly (i.e., without concern for the (potential) consequences of one’s action/behavior)",
-      "(to be) a state of temerity/recklessness/rashness/foolhardiness; be/act in a reckless/rash/foolhardy manner (i.e., without proper concern for and/or realization of the adverse, or even dangerous consequences of one’s action/behavior)"
+      "(to be) a state/act of imprudence/indiscretion; be act imprudently/indiscreetly [i.e., without concern for the (potential) consequences of one’s action/behavior]",
+      "(to be) a state of temerity/recklessness/rashness/foolhardiness; be/act in a reckless/rash/foolhardy manner [i.e., without proper concern for and/or realization of the adverse, or even dangerous consequences of one’s action/behavior]"
     ]
   },
   {
@@ -1255,7 +1255,7 @@
       {
         "BSC": "(to be) a state/act of having common sense; use common sense",
         "CTE": "(to be) the feeling/subjective experience of having common sense; to experience the feeling of knowing one is using common sense",
-        "CSV": "(to be) a physical manifestation (i.e., actions, words) of using common sense",
+        "CSV": "(to be) a physical manifestation [i.e., actions, words] of using common sense",
         "OBJ": "(to be) the particular situation/dilemma/event/state requiring the use/application of common sense"
       },
       "(to be) a state of being prudent/circumspect/discerning",
@@ -1272,7 +1272,7 @@
         "CSV": "(to be) a physical manifestation of practicality; to do something practical or that demonstrates practicality",
         "OBJ": "(to be) the particular situation/dilemma/event/state requiring the use/application of practicality, what one is being practical about"
       },
-      "(to be) a state of being pragmatic; be pragmatic, exercise pragmatism (i.e., practicality out of necessity, choosing and pursuing a course of action based on weighing the impact or consequences of various alternatives)",
+      "(to be) a state of being pragmatic; be pragmatic, exercise pragmatism [i.e., practicality out of necessity, choosing and pursuing a course of action based on weighing the impact or consequences of various alternatives]",
       "(to be) a state of being driven by value-based analysis; to choose and/or pursue a course of action based on a cost-benefit analysis where the outcome delivers the most value relative to the cost or consequences"
     ]
   },
@@ -1281,13 +1281,13 @@
     "refers": "INSIGHT / ASTUTENESS",
     "stems": [
       {
-        "BSC": "(to be) a state/act/instance of being insightful about something, having insight about something; to be insightful about something, to have insight about something (i.e., able to make subtle and correct inferences about a situation or party)",
+        "BSC": "(to be) a state/act/instance of being insightful about something, having insight about something; to be insightful about something, to have insight about something [i.e., able to make subtle and correct inferences about a situation or party]",
         "CTE": "(to be) the feeling/subjective experience of being insightful or having insight; to experience the feeling of knowing one is being insightful or having insight",
         "CSV": "(to be) a physical manifestation of; to do something practical or that demonstrates",
         "OBJ": "(to be) what one is insightful about"
       },
-      "(to be) a state/act/instance of being astute about something; be astute about something, (i.e., able to see/understand something clearly about something that is obscure/hidden/unobserved to/by others)",
-      "(to be) a state/act/instance of “seeing through” something or someone; to “see through” something or someone, for something/someone to be transparent to one (i.e., to perceive/understand the true nature/purpose behind a façade/guise/ruse)"
+      "(to be) a state/act/instance of being astute about something; be astute about something, [i.e., able to see/understand something clearly about something that is obscure/hidden/unobserved to/by others]",
+      "(to be) a state/act/instance of “seeing through” something or someone; to “see through” something or someone, for something/someone to be transparent to one [i.e., to perceive/understand the true nature/purpose behind a façade/guise/ruse]"
     ]
   },
   {
@@ -1309,13 +1309,13 @@
     "refers": "“TOUGHNESS” / RESILIENCY",
     "stems": [
       {
-        "BSC": "(to be) a state of “toughness” or perseverance; to be “tough” or perseverant (i.e., having the ability to withstand an adverse situation without significant harm to oneself)",
+        "BSC": "(to be) a state of “toughness” or perseverance; to be “tough” or perseverant [i.e., having the ability to withstand an adverse situation without significant harm to oneself]",
         "CTE": "(to be) the psychological state of being tough",
         "CSV": "(to be) the physical manifestation of one’s toughness",
         "OBJ": "(to be) that which one is tough against"
       },
-      "(to be) a state of personal resiliency; to be personally resilient (i.e., able to quickly recover from an adverse situation)",
-      "(to be) a state of “anti-fragility”; to be “anti-fragile” (i.e., not only able to recover from and deal with an adverse situation, but to learn from it so as to be able to handle or deal with such situations in the future more easily)"
+      "(to be) a state of personal resiliency; to be personally resilient [i.e., able to quickly recover from an adverse situation]",
+      "(to be) a state of “anti-fragility”; to be “anti-fragile” [i.e., not only able to recover from and deal with an adverse situation, but to learn from it so as to be able to handle or deal with such situations in the future more easily]"
     ]
   },
   {
@@ -1325,10 +1325,10 @@
       {
         "BSC": "(to be) a state/act of nosiness; be nosy, “poke one’s nose” into another’s business [to allow curiosity to cause one to attempt to find or learn something that is not one’s business]",
         "CTE": "(to be) a state of nosiness as a character trait",
-        "CSV": "(to be) a physical act of being nosy (i.e., what actions and/or words one employs that constitute an act of nosiness)",
+        "CSV": "(to be) a physical act of being nosy [i.e., what actions and/or words one employs that constitute an act of nosiness]",
         "OBJ": "(to be) that which one discovers or attempts to discover while being nosy"
       },
-      "(to be) an act of prying; to pry (i.e., to persistently attempt to discover another’s secrets or learn about another’s private affairs)",
+      "(to be) an act of prying; to pry [i.e., to persistently attempt to discover another’s secrets or learn about another’s private affairs]",
       "(to be) an act of interfering or “butting in” where/when one is not wanted or where/when inappropriate"
     ]
   },
@@ -1442,7 +1442,7 @@
         "OBJ": "(be) the party/entity/situation/circumstance at the focal point of an anticipated but ultimately unrealized outcome, whose non-occurrence does not have the adverse impact/consequences one would have expected."
       },
       "(be) a seemingly adverse/undesirable/harmful situation/event whose outcome/aftermath ironically leaves the participant in a better/improved/beneficial state that is ultimately interpreted as “having been worth” the pain/suffering/turmoil/distress undergone.",
-      "(be) a situation/event constituting a case of dramatic irony (i.e., where an audience or uninvolved third party has knowledge/awareness of information of importance to another party who is ignorant of that information)."
+      "(be) a situation/event constituting a case of dramatic irony [i.e., where an audience or uninvolved third party has knowledge/awareness of information of importance to another party who is ignorant of that information]"
     ],
     "notes": "This root is also used as the **FORTUITOUS (FOR) Bias Affix**: *“It’s just as well that …”* or “All’s well that ends well …”"
   },
@@ -1456,8 +1456,8 @@
         "CSV": "(be) the physical/tangible circumstances constituting what makes an event/occurrence/state/act perceivable as being a coincidence",
         "OBJ": "(be) a party/entity/object that is involved in, or is the focal point of, a coincidence"
       },
-      "(be) a coincidence temporally-speaking (i.e., occurring at the same approximate time)",
-      "(be) a coincidence, spatially-speaking (i.e., occurring in the same approximate place)"
+      "(be) a coincidence temporally-speaking [i.e., occurring at the same approximate time]",
+      "(be) a coincidence, spatially-speaking [i.e., occurring in the same approximate place]"
     ],
     "notes": "Derivatives: serendipity, good timing, bad timing, bad luck, fortuitousness, be fortuitous\n\nThis root is also used as the **COINCIDENTAL (COI) Bias Affix**: *“What a coincidence!”"
   },
@@ -1466,13 +1466,13 @@
     "refers": "DEGREE OF LUCK/FORTUNE/FATE/CHANCE/PROBABILITY",
     "stems": [
       {
-        "BSC": "(to be/manifest a) degree of luck/fortune ( = unpredictable circumstances/outcome/event based on non-random or quasi-predictable input/circumstances) [both the quality and the entity manifesting such]",
+        "BSC": "(to be/manifest a) degree of luck/fortune (= unpredictable circumstances/outcome/event based on non-random or quasi-predictable input/circumstances) [both the quality and the entity manifesting such]",
         "CTE": "(to be) a state of having/experiencing a particular degree of luck/fortune, be (un)lucky to a certain degree",
         "CSV": "(to be) a degree of luck/fortune; to manifest a degree of luck/fortune",
         "OBJ": "(to be) something with a degree of luck/fortune"
       },
-      "(to be/manifest a) degree of fate/chance ( = unpredictable circumstances/outcome/event based on unpredictable or random input/circumstances)",
-      "(to be/manifest a) degree of probability; the “odds”  ( = quasi-predictable circumstances/outcome based on statistical probability)"
+      "(to be/manifest a) degree of fate/chance (= unpredictable circumstances/outcome/event based on unpredictable or random input/circumstances)",
+      "(to be/manifest a) degree of probability; the “odds”  (= quasi-predictable circumstances/outcome based on statistical probability)"
     ],
     "notes": "Associated Affix: **LCK**\n\nThis root is also used as the **ACCIDENTAL (ACC) Bias Affix**: *“As luck would have it …”, “Fate has decided that …”, “What luck!”*"
   },
@@ -1481,8 +1481,8 @@
     "refers": "IRONIC RELIEF / IRONIC SURPRISE",
     "stems": [
       "feel(ing of) ironic surprise + relief + exasperation that an expected/anticipated adverse or detrimental state/event/outcome has not, in fact, occurred (the exasperation being due to a feeling of having either embarrassed oneself and/or feeling one has wasted one’s time and emotional energy fretting about the situation)",
-      "feel(ing of) negative astonishment (i.e., astonishment at perceiving/experiencing/discovering something awful/sad/horrible/devastating/terrible, etc.)",
-      "feel(ing of) negative wonder (i.e., a sense of dread-based wonder and awe at the power/formidableness of something awful/sad/horrible/devastating/terrible, etc.)"
+      "feel(ing of) negative astonishment [i.e., astonishment at perceiving/experiencing/discovering something awful/sad/horrible/devastating/terrible, etc.]",
+      "feel(ing of) negative wonder [i.e., a sense of dread-based wonder and awe at the power/formidableness of something awful/sad/horrible/devastating/terrible, etc.]"
     ],
     "see": "ÇM",
     "notes": "This root is also used as the **PROPITIOUS (PPT) Bias Affix**: *“it’s a wonder that”* as in *“It’s a wonder he didn’t break a bone in that fall.”*"
@@ -1538,7 +1538,7 @@
         "CSV": "(to be) the physical act/state of accepting or being okay with",
         "OBJ": "(to be) that which one accepts/tolerates or is okay with"
       },
-      "(to be/manifest a) degree of assent/consent ( = granting of informal permission)",
+      "(to be/manifest a) degree of assent/consent (= granting of informal permission)",
       "(to be/manifest a) degree of agreement/concurrence/accordance with"
     ],
     "notes": "Associated Affix: **CNS**\n\nThis root is also used as the **APPROBATIVE (APB) Bias Affix**: *“(That’s) OK”, “(That’s) alright”, “(That’s) good”, “(That’s) fine”, “Very well”, “Sure”*"
@@ -1601,12 +1601,12 @@
     "refers": "JUSTIFICATION / VINDICATION / EXHONERATION",
     "stems": [
       {
-        "BSC": "(be) state/act of justification; to justify (i.e., to present an evidential/intellectual basis explaining the reason/necessity behind one’s actions)",
+        "BSC": "(be) state/act of justification; to justify [i.e., to present an evidential/intellectual basis explaining the reason/necessity behind one’s actions]",
         "CTE": "(be) a state of being justified (in one’s actions/state/behavior)",
         "CSV": "(be) a physical act of justification; do/say something that justifies one’s actions/state/behavior",
         "OBJ": "(be) the state/act/situation/behavior one is justifying"
       },
-      "(be) a state/act of vindication (i.e., being proved correct/right after the fact)",
+      "(be) a state/act of vindication [i.e., being proved correct/right after the fact]",
       "(be) a state/act of exhoneration/acquittal"
     ]
   },
@@ -1618,7 +1618,7 @@
         "BSC": "(be) an act/instance of lying; tell a lie; state a falsehood",
         "CTE": "(be) the state of being lied to; the state of there being a lie having been told",
         "CSV": "(be) the actual speaking/writing/communicating of words which constitutes a lie",
-        "OBJ": "(be) that which is the reason for (i.e., the pre-existing state giving rise to the need for) telling a lie"
+        "OBJ": "(be) that which is the reason for [i.e., the pre-existing state giving rise to the need for] telling a lie"
       },
       "(be) state/act of dishonesty/disingenuousness",
       "(be) perjury"
@@ -1635,7 +1635,7 @@
         "CSV": "(be) the act/words/deed which constitutes a betrayal of one’s promise/oath/trust",
         "OBJ": "(be) the promise/oath or terms/understanding/bond which is betrayed/broken"
       },
-      "(be) an act/instance of deviousness/underhandedness; to do something devious or underhanded (i.e., act secretly without others knowing or in a manner which will be perceived to be innocent when in fact it is not)",
+      "(be) an act/instance of deviousness/underhandedness; to do something devious or underhanded [i.e., act secretly without others knowing or in a manner which will be perceived to be innocent when in fact it is not]",
       "(be) an act/instance of going behind one’s back; an act of deception based on playing on one’s trust; to go behind one’s back, to deceive another by playing on their trust in you"
     ],
     "notes": "This root lends itself to use with the EMO affix."
@@ -1661,7 +1661,7 @@
         "OBJ": "(be) what one is avenging, what one is taking revenge for"
       },
       "(be) a state/act of retaliation",
-      "(be) a state/act of vindictiveness (i.e., a desire for revenge)"
+      "(be) a state/act of vindictiveness [i.e., a desire for revenge]"
     ],
     "notes": "This root lends itself to use with the EMO affix."
   },
@@ -1686,7 +1686,7 @@
     "stems": [
       {
         "BSC": "(be) an instance of committing a social faux pas",
-        "CTE": "(be) the state one finds oneself in socially (i.e., as perceived/judged by others) once one commits a social faux pas",
+        "CTE": "(be) the state one finds oneself in socially [i.e., as perceived/judged by others] once one commits a social faux pas",
         "CSV": "(be) the actual act/word(s) constituting a social faux pas",
         "OBJ": "(be) the object/party/entity which constitutes the focal point of a faux pas*"
       },
@@ -1700,7 +1700,7 @@
     "refers": "TEASE / RIDICULE / SNICKERING / SNIGGERING / SCOFFING",
     "stems": [
       {
-        "BSC": "(be) an act/instance of teasing; to tease (i.e., make light-hearted embarrassment of someone for the sake of humor/fun or mild come-uppance)",
+        "BSC": "(be) an act/instance of teasing; to tease [i.e., make light-hearted embarrassment of someone for the sake of humor/fun or mild come-uppance]",
         "CTE": "(be) the state of being teased",
         "CSV": "(be) the actual act/word(s) constituting an act of teasing; to do/say something that teases another",
         "OBJ": "(be) what one is teased about"
@@ -1730,7 +1730,7 @@
         "CSV": "(be) a state/act of contemplation/introspection/deep personal reflection; to undergo such a state/act",
         "OBJ": "(be) what one contemplates, introspects upon, or deliberates"
       },
-      "(be) a state/act of ethical maturation/growth (i.e., becoming more ethically enlightened based on the acquiring of wisdom and empathy)",
+      "(be) a state/act of ethical maturation/growth [i.e., becoming more ethically enlightened based on the acquiring of wisdom and empathy]",
       "(be) a state/act of discovering that achieving a long-awaited vengeance/vindication is hollow/meaningless due to personal ethical maturation or present irrelevance of the original circumstances"
     ],
     "notes": "This root lends itself to use with the EMO affix."
@@ -1740,7 +1740,7 @@
     "refers": "PREDICAMENT / QUANDARY / CRISIS / DILEMMA",
     "stems": [
       {
-        "BSC": "(be) a state/act of having/facing/being in a predicament/quandary; be in or have/face a predicament/quandary, be in a “spot/jam/fix/pickle”  (i.e., being involved in or having to deal with an unexpected negative situation)",
+        "BSC": "(be) a state/act of having/facing/being in a predicament/quandary; be in or have/face a predicament/quandary, be in a “spot/jam/fix/pickle”  [i.e., being involved in or having to deal with an unexpected negative situation]",
         "CTE": "(be) a state of being unable to know what to do or how to escape a predicament",
         "CSV": "(be) a state/act of doing something that creates/causes a predicament; to do something to cause/create a predicament",
         "OBJ": "(be) the predicament itself, i.e., the (set of) circumstance(s)/situation which constitutes an unexpected and undesirable situation"
@@ -1776,7 +1776,7 @@
         "OBJ": "(be) the realizations/sense of understanding one comes to in contemplating such"
       },
       "(be) a state/act of suddenly realizing that absolute strangers/passersby are living lives as full and complex as yours are have opinions, beliefs, values, feelings as strong as yours",
-      "(be) a state/act of contemplating the ubiquity of the small everyday absurdities of life, especially those that are human-made (e.g., overkill technology, useless social customs, ridiculous fashions, etc.)"
+      "(be) a state/act of contemplating the ubiquity of the small everyday absurdities of life, especially those that are human-made [e.g., overkill technology, useless social customs, ridiculous fashions, etc.]"
     ],
     "notes": "This root lends itself to use with the EMO affix."
   },
@@ -1785,7 +1785,7 @@
     "refers": "HINDSIGHT",
     "stems": [
       {
-        "BSC": "(be) a state/act of having hindsight about something; to have hindsight about something (i.e., to have a perspective/viewpoint on something via contemplation about it after the fact)",
+        "BSC": "(be) a state/act of having hindsight about something; to have hindsight about something [i.e., to have a perspective/viewpoint on something via contemplation about it after the fact]",
         "CTE": "(be) a state of hindsight",
         "CSV": "(be) a state/act of contemplating something in hindsight; to contemplate/ponder/consider something in hindsight",
         "OBJ": "(be) what one has (or engages in) hindsight about"
@@ -1819,20 +1819,20 @@
       "(to be) the outlook-on-life described above as the basis for one’s public face/persona, i.e., personal relationships, business dealings, negotiating principles, politics, public expression, etc.",
       "(to be) the outlook-on-life described above as an aesthetic principle or basis for artistic self-expression"
     ],
-    "notes": "(to experience/feel/live by) a striving for (and, if achieved, the serenity resulting from) a delicate but sustained balance of the following personal states/ideals:\n* a calm appreciation for, and acceptance of one’s life/existence that cannot be controlled/avoided (e.g., death, pain, loss, misfortune, etc.) due to understanding that such things are necessary to have a true appreciation for the value of life’s joys;\n* being able to identify/recognize opportunities to improve one’s chances for happiness/achievement/self-esteem and having the willingness and determination to pursue such opportunities as long as doing so no harm to others or to Nature;\n* a deep appreciation and sense of pride in those achievements of humankind that have brought happiness, prosperity, and well-being to people’s lives, while at the same time having a keen ability to distinguish the difference between those achievements which have truly benefited humankind versus those seeming achievements which are ultimately divisive, alientating, anxiety-causing, or destructive in the long-term;\n* a sense of personal reward, pride, and personal sanction (i.e., feeling that one’s existence is justified) when experiencing joy in one’s life;\n* joy from, and humble appreciation for, the giving and receiving of love to/from others;\n* humbleness in understanding that one’s own joy and sense of personal satisfaction/reward for achieving one’s goals/desires is a private, personal matter not to be used arrogantly as a weapon against the self-esteem of other people."
+    "notes": "(to experience/feel/live by) a striving for (and, if achieved, the serenity resulting from) a delicate but sustained balance of the following personal states/ideals:\n* a calm appreciation for, and acceptance of one’s life/existence that cannot be controlled/avoided [e.g., death, pain, loss, misfortune, etc.] due to understanding that such things are necessary to have a true appreciation for the value of life’s joys;\n* being able to identify/recognize opportunities to improve one’s chances for happiness/achievement/self-esteem and having the willingness and determination to pursue such opportunities as long as doing so no harm to others or to Nature;\n* a deep appreciation and sense of pride in those achievements of humankind that have brought happiness, prosperity, and well-being to people’s lives, while at the same time having a keen ability to distinguish the difference between those achievements which have truly benefited humankind versus those seeming achievements which are ultimately divisive, alientating, anxiety-causing, or destructive in the long-term;\n* a sense of personal reward, pride, and personal sanction [i.e., feeling that one’s existence is justified] when experiencing joy in one’s life;\n* joy from, and humble appreciation for, the giving and receiving of love to/from others;\n* humbleness in understanding that one’s own joy and sense of personal satisfaction/reward for achieving one’s goals/desires is a private, personal matter not to be used arrogantly as a weapon against the self-esteem of other people."
   },
   {
     "root": "NKR",
     "refers": "ONES SURROUNDINGS/ENVIRONMENT/SPACE/LOCALE/HOME / “THE WORLD”",
     "stems": [
       {
-        "BSC": "(to be) one’s surroundings/environment/space/locale/home (i.e., one’s current quasi-permanent location as it relates to the interaction between oneself and one’s environment",
+        "BSC": "(to be) one’s surroundings/environment/space/locale/home [i.e., one’s current quasi-permanent location as it relates to the interaction between oneself and one’s environment]",
         "CTE": "(to be) the state one is in due to one’s environment/surroundings",
         "CSV": "(to be) a physical interaction with one’s environment/surroundings; to interact with one’s environment/surroundings/home/locale",
         "OBJ": "(to be) an object/entity directly associated with one’s surroundings/environment/space/ locale/home"
       },
       "(to be) one’s personal situation/circumstances as it/they relate to, or are determined by, one’s location/locale/surroundings/environment/locale/home",
-      "(to be) “the World” (i.e., one’s sense of their being an external reality/universe in which one lives and with which one interacts); to have/experience a sense of one’s place in the World, one’s niche, how/where one “fits in” to the grand scheme of things"
+      "(to be) “the World” [i.e., one’s sense of their being an external reality/universe in which one lives and with which one interacts]; to have/experience a sense of one’s place in the World, one’s niche, how/where one “fits in” to the grand scheme of things"
     ]
   },
   {
@@ -1845,8 +1845,8 @@
         "CSV": "(to be) the physically bounded space/volume comprising a zone",
         "OBJ": "(to be) a party within or inhabiting a zone"
       },
-      "(to be) a habitat; to be within or inhabiting a habitat (i.e., a zone identified as being the natural living environment for (a) particular (community of) life-form(s)",
-      "(to be) an environmental niche; to be within an environmental niche (i.e., a complementary set of naturally occurring environmental parameters such as climate, latitude, terrain, soil types, sources of food and water, etc., that supports and sustains various flora and fauna)"
+      "(to be) a habitat; to be within or inhabiting a habitat [i.e., a zone identified as being the natural living environment for (a) particular (community of) life-form(s)]",
+      "(to be) an environmental niche; to be within an environmental niche [i.e., a complementary set of naturally occurring environmental parameters such as climate, latitude, terrain, soil types, sources of food and water, etc., that supports and sustains various flora and fauna]"
     ]
   },
   {
@@ -1854,12 +1854,12 @@
     "refers": "SOCIAL INTERACTION / SOCIETAL NORM / SOCIAL RESPONSIBILITY/ MEMBER OF SOCIETY",
     "stems": [
       {
-        "BSC": "(to be) a state/act/process of social interaction; to socially interact (i.e., for a member of a social group or society to interact/deal with/engage with another member or other members of the group or society)",
+        "BSC": "(to be) a state/act/process of social interaction; to socially interact [i.e., for a member of a social group or society to interact/deal with/engage with another member or other members of the group or society]",
         "CTE": "(to be) the sense of community and reciprocal responsibilities one feels and upholds and adheres to (or is expected to do so) as a member of a social group or society",
         "CSV": "(to be) a physical act of interacting/dealing /engaging with another member or other members of a social group or one’s society",
-        "OBJ": "(to be) a societal norm, a societal custom (i.e., an expected behavior/act or adherence to a rule/law/custom which demonstrates one’s place and role in a social group or society)"
+        "OBJ": "(to be) a societal norm, a societal custom [i.e., an expected behavior/act or adherence to a rule/law/custom which demonstrates one’s place and role in a social group or society]"
       },
-      "(to be) a state/act/process of having/meeting one’s social responsibilities; to have/meet one’s social responsibilities (e.g., to abide by the law, behave well toward one’s neighbors, adhere to social norms and societal expectations, etc.)",
+      "(to be) a state/act/process of having/meeting one’s social responsibilities; to have/meet one’s social responsibilities [e.g., to abide by the law, behave well toward one’s neighbors, adhere to social norms and societal expectations, etc.]",
       "(to be) a member of a social group or society; to do one’s part or participate (as expected/appropriate) in one’s social group or society"
     ]
   },
@@ -1883,7 +1883,7 @@
     "stems": [
       {
         "BSC": "(to be) a state of being/functioning as the setting for something that exists or takes place",
-        "CTE": "(to be) a physical setting, a physical place * (i.e., the physical 3-dimensional space involved along with any infrastructure/ building structure/boundary walls, and demarcated space/seating for persons/observers/participants, etc.)",
+        "CTE": "(to be) a physical setting, a physical place * [i.e., the physical 3-dimensional space involved along with any infrastructure/ building structure/boundary walls, and demarcated space/seating for persons/observers/participants, etc.]",
         "CSV": "(to be) a state/act of something existing or taking place/occurring at a particular physical place or in a particular physical setting; to exist or occur at a particular physical place or physical setting",
         "OBJ": "(to be) what takes place at, exists at, or distinguishes a particular place/setting from anywhere else"
       },
@@ -1903,7 +1903,7 @@
         "OBJ": "(to be) a document or other tangible (and potentially verifiable) indicator/credentials that one may enter/be admitted to a restricted-access area/event/assembly/school, etc."
       },
       "(to be) a state/act/process of charging an admission fare for an entry ticket to a venue/event",
-      "(to be) a state/act/process of charging a fare or fee for the use of some public/commercial utility or service (e.g., transportation fare, bridge toll, poll tax, customs duty, trash disposal, water delivery, etc.)"
+      "(to be) a state/act/process of charging a fare or fee for the use of some public/commercial utility or service [e.g., transportation fare, bridge toll, poll tax, customs duty, trash disposal, water delivery, etc.]"
     ]
   },
   {
@@ -1925,12 +1925,12 @@
     "refers": "VISUAL ARTWORK / ARTISTIC DESIGN / WORK OF SCULPTURE",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of creating a work of visual art (e.g., a painting, a watercolor, a fine drawing, an etching, etc.)",
+        "BSC": "(to be) an act/instance of creating a work of visual art [e.g., a painting, a watercolor, a fine drawing, an etching, etc.]",
         "CTE": "(be) what is depicted/illustrated in a work of visual art",
         "CSV": "(be) the physical act of creating a work of visual art",
         "OBJ": "(be) the medium utilized to create a work of visual art"
       },
-      "(to be) an act/instance of creating an visual design/image/picture/pattern for aesthetic purposes (e.g., a textile design, a wallpaper pattern, a design for a font, a visual representation of something, etc.)",
+      "(to be) an act/instance of creating an visual design/image/picture/pattern for aesthetic purposes [e.g., a textile design, a wallpaper pattern, a design for a font, a visual representation of something, etc.]",
       "(to be) an act/instance of creating a work of sculpture"
     ]
   },
@@ -1939,7 +1939,7 @@
     "refers": "ILLUSTRATION / VISUAL DEPICTION / VISUAL DESIGN / VISUAL MODEL",
     "stems": [
       {
-        "BSC": "(be) an act/instance of drawing or painting or producing (e.g., via electronic means or photography) a 2-dimensional visual image or visual representation of something",
+        "BSC": "(be) an act/instance of drawing or painting or producing [e.g., via electronic means or photography] a 2-dimensional visual image or visual representation of something",
         "CTE": "(be) what is depicted/illustrated in a drawing or painting or 2-D image/representation",
         "CSV": "(be) the physical act of creating a drawing or painting or 2-dimensional visual image or representation/illustration; to draw, to paint, to produce a 2-dimensional visual representation",
         "OBJ": "(be) the medium utilized to create a drawing or painting or 2-D image/representation"

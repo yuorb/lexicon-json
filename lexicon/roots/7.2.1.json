@@ -49,7 +49,7 @@
     "stems": [
       "leg/strut as support structure of animal or inanimate entity",
       "leg as ambulatory appendage of animal or ambulatory entity",
-      "leg as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)"
+      "leg as functional “tool”/manipulator [e.g., with which to kick, push, press, apply force, etc.]"
     ],
     "see": "GW"
   },
@@ -121,7 +121,7 @@
       "earlobe/lobule",
       "concha, scapha, and triangular fossa depressions of the outer ear"
     ],
-    "notes": "Stem Zero = the outer (i.e., visible) ear",
+    "notes": "Stem Zero = the outer [i.e., visible] ear",
     "see": "GW"
   },
   {
@@ -130,7 +130,7 @@
     "stems": [
       "foot/paw as an entity’s primary contact/support point with ground/firmament when standing/ambulating",
       "foot/paw as ambulatory appendage",
-      "foot/paw as functional “tool”/manipulator (e.g., with which to kick, push, press, apply force, etc.)"
+      "foot/paw as functional “tool”/manipulator [e.g., with which to kick, push, press, apply force, etc.]"
     ],
     "see": "GW"
   },
@@ -238,9 +238,9 @@
     "root": "GŘ",
     "refers": "BONE",
     "stems": [
-      "quasi-cylindrical bone (e.g., tibia, ulna, phalanx, etc.)",
-      "plate-like or quasi-planar bone (e.g., skull-section, scapula, pelvis)",
-      "special-shaped bone (e.g., vertebra, rib, calcaneus, talus, antler, etc.)"
+      "quasi-cylindrical bone [e.g., tibia, ulna, phalanx, etc.]",
+      "plate-like or quasi-planar bone [e.g., skull-section, scapula, pelvis]",
+      "special-shaped bone [e.g., vertebra, rib, calcaneus, talus, antler, etc.]"
     ],
     "see": "GW"
   },
@@ -308,9 +308,9 @@
     "root": "STY",
     "refers": "ORIENTATIONAL BODY SURFACE",
     "stems": [
-      "dorsal surface (i.e., the back [or topside] of a corporeal body)",
-      "ventral surface (i.e., the front [or underbelly] of a corporeal body)",
-      "lateral surface (i.e., the side/flank of a corporeal body)"
+      "dorsal surface [i.e., the back [or topside] of a corporeal body]",
+      "ventral surface [i.e., the front [or underbelly] of a corporeal body]",
+      "lateral surface [i.e., the side/flank of a corporeal body]"
     ],
     "see": "GW"
   },
@@ -358,7 +358,7 @@
     "root": "ĻPŘ",
     "refers": "NON-PRIMATE MAMMARY ORGAN/TISSUE",
     "stems": [
-      "non-primate mammary organ (e.g., udder, dug)",
+      "non-primate mammary organ [e.g., udder, dug]",
       "nipple of non-primate mammary organ",
       "areola or surrounding structure of nipple in non-primate mammary organ"
     ],
@@ -380,7 +380,7 @@
     "stems": [
       "a (single strand of) human head hair (other than androgenic facial hair or eyebrows/eyelashes)",
       "a (single strand of) human androgenic facial hair",
-      "a (single strand of) human armpit or pubic or eyebrow/eyelash hair (i.e. thick body hair that stops growing at a certain length)"
+      "a (single strand of) human armpit or pubic or eyebrow/eyelash hair [i.e. thick body hair that stops growing at a certain length]"
     ],
     "see": "GW"
   },
@@ -528,8 +528,8 @@
     "root": "PKL",
     "refers": "FIN / FLIPPER",
     "stems": [
-      "fin (e.g., of a fish)",
-      "flipper (e.g., of a dolphin, seal, walrus, manatee, etc.)",
+      "fin [e.g., of a fish]",
+      "flipper [e.g., of a dolphin, seal, walrus, manatee, etc.]",
       "fin- or flipper-like extension (mechanical)"
     ],
     "see": "GW"
@@ -538,9 +538,9 @@
     "root": "ŘC",
     "refers": "THROAT",
     "stems": [
-      "throat (i.e., front/ventral portion of neck)",
-      "upper portion of throat (i.e., the underside of the jaw)",
-      "lower portion of the throat (i.e., overlying the gullet/trachea/larynx)"
+      "throat [i.e., front/ventral portion of neck]",
+      "upper portion of throat [i.e., the underside of the jaw]",
+      "lower portion of the throat [i.e., overlying the gullet/trachea/larynx]"
     ],
     "see": "GW"
   },
@@ -550,7 +550,7 @@
     "stems": [
       "(to be) the superior/dorsal side of a bodily joint [i.e., the “hard/bony” side of a bodily joint]",
       "(to be) the inferior/ventral side of a bodily joint [i.e., the soft, concave side of a bodily joint]",
-      "(to be) the internal “swivel” mechanism of a bodily joint (i.e., the internal anatomy of a joint which allows an appendage to bend/twist)"
+      "(to be) the internal “swivel” mechanism of a bodily joint [i.e., the internal anatomy of a joint which allows an appendage to bend/twist]"
     ],
     "notes": "Concatenate the stem of a specific limb or digit to specify “elbow”, “knee”, “knuckle (of finger)”, “knuckle (of toe)”, “shoulder”, etc.",
     "see": "GW"
@@ -579,9 +579,9 @@
     "root": "BF",
     "refers": "GENERIC REPRODUCTIVE ORGANS / CELLS",
     "stems": [
-      "gonad (i.e., testicle, ovary)",
-      "gamete (i.e., ovum/egg cell, spermatozoon/sperm cell)",
-      "transport duct/tubule for gametes from gonad (i.e., Fallopian tube, vas deferens)"
+      "gonad [i.e., testicle, ovary]",
+      "gamete [i.e., ovum/egg cell, spermatozoon/sperm cell]",
+      "transport duct/tubule for gametes from gonad [i.e., Fallopian tube, vas deferens]"
     ],
     "see": "GW"
   },
@@ -627,7 +627,7 @@
   },
   {
     "root": "JGŘ",
-    "refers": "ADIPOSE TISSUE (i.e., FAT)",
+    "refers": "ADIPOSE TISSUE [i.e., FAT]",
     "stems": [
       "adipose tissue / fat; have fat, be fat",
       "blubber",
@@ -641,7 +641,7 @@
     "stems": [
       "tongue as organ for manipulation of food for eating and seat of taste buds",
       "tongue as manipulative organ for the production of spoken language",
-      "proboscis [non-mammalian], (i.e., tubular organ(s) for feeding/sensing as in insects, worms, molluscs, etc.)"
+      "proboscis [non-mammalian], [i.e., tubular organ(s) for feeding/sensing as in insects, worms, molluscs, etc.]"
     ],
     "see": "GW"
   },
@@ -672,7 +672,7 @@
     "stems": [
       "one’s cheek (on face)",
       "one’s chin",
-      "one’s jaw (i.e., lower portion of face that moves on hinge-like joint)"
+      "one’s jaw [i.e., lower portion of face that moves on hinge-like joint]"
     ],
     "see": "GW"
   },
@@ -852,7 +852,7 @@
     "stems": [
       {
         "BSC": "(to be) the mouth [of a chordate animal]",
-        "CTE": "(to be) the oral cavity (i.e., the interior space of a mouth)",
+        "CTE": "(to be) the oral cavity [i.e., the interior space of a mouth]",
         "CSV": "(to be) the structural tissue(s) which form a mouth",
         "OBJ": "(to be) that which enters or is placed within one’s mouth"
       },

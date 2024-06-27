@@ -25,7 +25,7 @@
     "stems": [
       "plant",
       "animal",
-      "non-plant / non-animal eukaryote, (i.e., protist, fungus, or chromist)"
+      "non-plant / non-animal eukaryote, [i.e., protist, fungus, or chromist]"
     ],
     "see": "ŠW"
   },
@@ -33,7 +33,7 @@
     "root": "KST",
     "refers": "NON-PLANT & NON-ANIMAL EUKARYOTIC LIFE-FORM",
     "stems": [
-      "protist (i.e., protozoa, amoeboids, protophytic algae, slime molds)",
+      "protist [i.e., protozoa, amoeboids, protophytic algae, slime molds]",
       "fungus",
       "chromist (brown algae, diatoms, water molds)"
     ],
@@ -57,7 +57,7 @@
   },
   {
     "root": "LḐL",
-    "refers": "NON-VASCULAR (i.e., PRIMITIVE) PLANT FORM",
+    "refers": "NON-VASCULAR [i.e., PRIMITIVE] PLANT FORM",
     "stems": ["alga", "moss", "hornwort, liverwort, or lichen"],
     "see": "ŠW"
   },
@@ -67,7 +67,7 @@
     "stems": [
       "grass",
       "stalk-like plant",
-      "cereal grain or pseudo-cereal grain (e.g., wheat, rice, buckwheat, amaranth, etc.)"
+      "cereal grain or pseudo-cereal grain [e.g., wheat, rice, buckwheat, amaranth, etc.]"
     ],
     "see": "ŠW"
   },
@@ -76,8 +76,8 @@
     "refers": "FERN-LIKE PLANT",
     "stems": [
       "fern",
-      "eusporangiate fern (e.g., whisk fern, grapefern, horsetail, adder’s tongue)",
-      "lycopod (e.g., club moss, firmoss, spike moss, quillwort)"
+      "eusporangiate fern [e.g., whisk fern, grapefern, horsetail, adder’s tongue]",
+      "lycopod [e.g., club moss, firmoss, spike moss, quillwort]"
     ],
     "see": "ŠW"
   },
@@ -124,7 +124,7 @@
     "root": "ZZ",
     "refers": "(SMALLER) REPTILE",
     "stems": [
-      "lizard-like reptile (e.g., lizard, skink, gecko, monitor)",
+      "lizard-like reptile [e.g., lizard, skink, gecko, monitor]",
       "snake or legless lizard",
       "turtle/tortoise"
     ],
@@ -134,9 +134,9 @@
     "root": "JXW",
     "refers": "AMPHIBIAN",
     "stems": [
-      "Salientian amphibian (i.e., frog, toad)",
-      "Caudatan amphibian (i.e., salamander, newt)",
-      "Gymnophione (caecilian) amphibian (i.e., snake-like or worm-like amphibian)"
+      "Salientian amphibian [i.e., frog, toad]",
+      "Caudatan amphibian [i.e., salamander, newt]",
+      "Gymnophione (caecilian) amphibian [i.e., snake-like or worm-like amphibian]"
     ],
     "see": "ŠW"
   },
@@ -161,8 +161,8 @@
     "refers": "MOLLUSC [other than cephalopod]",
     "stems": [
       "snail or slug",
-      "bivalve (e.g., clam, mussel, scallop, oyster, cockle, etc.)",
-      "other non-cephalopod mollusc (e.g., nautilus, chiton, solenogaster, etc.)"
+      "bivalve [e.g., clam, mussel, scallop, oyster, cockle, etc.]",
+      "other non-cephalopod mollusc [e.g., nautilus, chiton, solenogaster, etc.]"
     ],
     "see": "ŠW"
   },
@@ -170,7 +170,7 @@
     "root": "NGW",
     "refers": "WORM-LIKE INVERTEBRATE",
     "stems": [
-      "worm (i.e., annelid worm or nematode worm)",
+      "worm [i.e., annelid worm or nematode worm]",
       "flatworm or tapeworm",
       "fluke or leech"
     ],
@@ -180,9 +180,9 @@
     "root": "NGŘ",
     "refers": "OTHER INVERTBRATE",
     "stems": [
-      "cephalopod (e.g., octopus, squid, cuttlefish, argonaut, etc.)",
-      "sponge (i.e., poriferan)",
-      "cnidarian, ctenophore, or placozoan (e.g., jellyfish, coral, sea anemone, hydra, comb jelly, etc.)"
+      "cephalopod [e.g., octopus, squid, cuttlefish, argonaut, etc.]",
+      "sponge [i.e., poriferan]",
+      "cnidarian, ctenophore, or placozoan [e.g., jellyfish, coral, sea anemone, hydra, comb jelly, etc.]"
     ],
     "see": "ŠW"
   },
@@ -190,9 +190,9 @@
     "root": "ŽJ",
     "refers": "ARTHROPOD",
     "stems": [
-      "hexapod or chelicerate (i.e., insect or arachnid, including springtail, conehead, dipluran, horseshoe crab, and sea spider)",
+      "hexapod or chelicerate [i.e., insect or arachnid, including springtail, conehead, dipluran, horseshoe crab, and sea spider]",
       "crustacean",
-      "myriapod (i.e., millipede or centipede)"
+      "myriapod [i.e., millipede or centipede]"
     ],
     "see": "ŠW"
   },
@@ -218,7 +218,7 @@
     "stems": [
       "beetle or beetle-like insect (in terms of appearance/behavior)",
       "ant or ant-like insect (in terms of behavior/appearance)",
-      "rounded “bug”-like insect other than beetle (e.g., bed bug, stink bug, junebug, etc.)"
+      "rounded “bug”-like insect other than beetle [e.g., bed bug, stink bug, junebug, etc.]"
     ],
     "see": "ŠW"
   },
@@ -254,7 +254,7 @@
     "stems": [
       "mushroom (edible)",
       "non-harmful / non-parasitic fungus",
-      "harmful (i.e., parasitic, pathogenic or poisonous) fungus/mushroom"
+      "harmful [i.e., parasitic, pathogenic or poisonous] fungus/mushroom"
     ],
     "see": "ŠW"
   },
@@ -285,7 +285,7 @@
     "refers": "NON-MAMMALIAN LIFE STAGE",
     "stems": [
       {
-        "BSC": "(to be) a newborn, newly hatched, newly sprouted, first-stage life-form (e.g., sprout, larva, tadpole, caterpillar, gametophyte, sporophyte, etc.)",
+        "BSC": "(to be) a newborn, newly hatched, newly sprouted, first-stage life-form [e.g., sprout, larva, tadpole, caterpillar, gametophyte, sporophyte, etc.]",
         "CTE": "(to be) the individual essence/soul, set of instincts, or mind of a first-stage life-form (that distinguishes it from other individuals)",
         "CSV": "(to be) the physical body or corporeal aspect of a first-stage life-form",
         "OBJ": "(to be) an entity/party impacted/affected by the presence of, or interaction with a first-stage life-form"

@@ -1,10 +1,10 @@
 [
   {
     "root": "Č",
-    "refers": "BE (i.e., copular identification only) / EQUIVALENCE / IDENTIFICATION",
+    "refers": "BE [i.e., copular identification only] / EQUIVALENCE / IDENTIFICATION",
     "stems": [
       {
-        "BSC": "(to be ontologically the) self-same entity (as) (i.e., [to be] simply another name for the self-same entity)",
+        "BSC": "(to be ontologically the) self-same entity (as) [i.e., (to be) simply another name for the self-same entity]",
         "CTE": "(to be ontologically the) self-same entity (as) in terms of essence, sense of identity, behavior, personality, mind, etc.",
         "CSV": "(to be ontologically) the self-same entity (as) in terms of appearance, physical manifestation or construction",
         "OBJ": "what X ontologically is (as opposed to being something else), X’s natural identity, X’s existence as X; to be X as itself (as opposed to something else)"

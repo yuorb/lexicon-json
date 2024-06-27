@@ -529,8 +529,8 @@
     "root": "ẒFŇ",
     "refers": "OTHER MITE",
     "stems": [
-      "(Sarcoptiformes; numerous genera) sarcoptiform mite (i.e., astigmatine, endeostigmatid, or oribatid mite)",
-      "(Trombidiformes; numerous genera) trombidiform mite (i.e., prostigmatid or sphaerolichid mite), chigger",
+      "(Sarcoptiformes; numerous genera) sarcoptiform mite [i.e., astigmatine, endeostigmatid, or oribatid mite]",
+      "(Trombidiformes; numerous genera) trombidiform mite [i.e., prostigmatid or sphaerolichid mite], chigger",
       "(Holothyrids, Mesostigma, and Opilioacariformes; numerous genera) parasitiform mite"
     ],
     "see": "RR"
@@ -621,7 +621,7 @@
     "stems": [
       "(Thoracica; numerous genera) [common] barnacle",
       "(Rhizocephala; numerous genera) parasitic barnacle",
-      "(Acrothoracica, Ascothoracids, Facetotecta; several genera) acrothoracic (i.e.,calcareous material-boring) barnacle, ascothoracid parasite, facetotectid / Hansenocaris"
+      "(Acrothoracica, Ascothoracids, Facetotecta; several genera) acrothoracic [i.e.,calcareous material-boring] barnacle, ascothoracid parasite, facetotectid / Hansenocaris"
     ],
     "see": "RR"
   },
@@ -1769,7 +1769,7 @@
   },
   {
     "root": "RÇKF",
-    "refers": "CURCULIONOID BEETLE (i.e., WEEVIL) I",
+    "refers": "CURCULIONOID BEETLE [i.e., WEEVIL] I",
     "stems": [
       "(Curculionids; numous genera) true weevil / snout beetle, flower weevil, acorn weevil, nut weevil, broad-nosed weevil, ambrosia beetle / pinhole borer, bark beetle",
       "(Brentids; numerous genera) straight-snouted weevil",
@@ -1779,7 +1779,7 @@
   },
   {
     "root": "RÇKŢ",
-    "refers": "CURCULIONOID BEETLE (i.e., WEEVIL) II",
+    "refers": "CURCULIONOID BEETLE [i.e., WEEVIL] II",
     "stems": [
       "(Nemonychids; numerous genera) pine flower weevil",
       "(Anthribids; numerous genera) fungus weevil",
@@ -3073,7 +3073,7 @@
     "refers": "“OPOMYZOID FLY” II",
     "stems": [
       "(Opomyzids; several genera) opomyzid fly, cereal fly, grass fly",
-      "( Neurochaetids; two genera) upside-down fly",
+      "(Neurochaetids; two genera) upside-down fly",
       "(Anthomyzids, Asteiids, Odiniids, Periscelidids, Teratomyzids, Xenasteiids; numerous genera) other opomyzoid fly"
     ],
     "see": "RR"

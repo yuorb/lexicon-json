@@ -10,9 +10,9 @@
       "primordial / proto-",
       "prehistoric",
       "ancient",
-      "old ( = first )",
-      "old ( = former, no longer current or in use)",
-      "modern, contemporary, present-day ( = currently in use)",
+      "old (= first )",
+      "old (= former, no longer current or in use)",
+      "modern, contemporary, present-day (= currently in use)",
       "innovative, trailblazing",
       "cutting edge, experimental, futuristic",
       "ultimate, everlasting, omega point"
@@ -50,7 +50,7 @@
       "frowned-upon/disapproved; in a manner guaranteed to arouse disapproval",
       "tolerated; in a tolerated manner",
       "common/customary/expected/accepted; in an common, customary, expected, or accepted manner",
-      "notorious(ly) (i.e., well-known but in a less-than favorable manner)",
+      "notorious(ly) [i.e., well-known but in a less-than favorable manner]",
       "well-known / well-liked / well thought of; in a totally appropriate way / in a socially acceptable manner",
       "respected/honored; respectfully/honorably",
       "highly praised / highly honored / highly esteemed / highly respected / most excellent / most honorable"
@@ -72,7 +72,7 @@
       "well-established / senior X",
       "long-time X / long-established X; long-standing X, veteran X",
       "respected elder X; time-honored X",
-      "X as emeritus / X as a (quasi-) founding member"
+      "X as emeritus / X as a (quasi-)founding member"
     ]
   },
   {
@@ -105,7 +105,7 @@
       "smallest single manifestation of / particle of",
       "runaway shrinkage of / rapid disappearance or diminishment of",
       "decreasing / de-escalating / shrinking",
-      "reduced/diminished; in a regressing or narrow way (e.g., canyon → crevasse/crack]",
+      "reduced/diminished; in a regressing or narrow way [e.g., canyon → crevasse/crack]",
       "compact/concentrated; in efficient or compact way [e.g., canyon → gorge]",
       "expanded/enhanced; in expanded or enhanced way [e.g., canyon → ri0 valley]",
       "growing, increasing, escalating",
@@ -506,10 +506,10 @@
       null,
       "mythological",
       "religion-based / scripture-based",
-      "legendary (i.e., based on a legend)",
-      "fantastic (i.e., based in fantasy)",
-      "fictional (i.e., based on a work of fiction)",
-      "dreamed (i.e., conjured from or in a dream)",
+      "legendary [i.e., based on a legend]",
+      "fantastic [i.e., based in fantasy]",
+      "fictional [i.e., based on a work of fiction]",
+      "dreamed [i.e., conjured from or in a dream]",
       "made-up, pretend, imagined",
       "theoretical / theoretically-speaking",
       "hypothetical / hypothetically-speaking"
@@ -600,7 +600,7 @@
     "degrees": [
       null,
       "not portable – solidly integrated into substrate",
-      "not portable (e.g., due to excessive mass, shape/form, texture, toxicity, temperature, etc.)",
+      "not portable [e.g., due to excessive mass, shape/form, texture, toxicity, temperature, etc.]",
       "not easily portable; barely portable",
       "potentially portable but traditionally occupying its current location or there is no reason for moving it",
       "potentially portable and location can be moved if needed",

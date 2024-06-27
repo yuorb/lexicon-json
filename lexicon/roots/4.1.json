@@ -4,13 +4,13 @@
     "refers": "VOICE / VOCAL UTTERANCE",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of making a vocal utterance; to make sound by means of one’s vocal apparatus (e.g., bark, meow, hoot, call, shout, cry, scream, shriek, moo, whinny, roar, purr, yowl); to vocalize, to utter a sound [both the sound and the process of uttering it]",
+        "BSC": "(to be) an act/instance of making a vocal utterance; to make sound by means of one’s vocal apparatus [e.g., bark, meow, hoot, call, shout, cry, scream, shriek, moo, whinny, roar, purr, yowl]; to vocalize, to utter a sound [both the sound and the process of uttering it]",
         "CTE": "(to be) the sound made by/consisting of a vocal utterance, a vocalization, to vocalize (= the aurally discernible sound, not the originating process)",
         "CSV": "(to be) the process of making a vocal utterance; to utter, to vocalize (= the vocal process itself irrespective of the resulting sound or communicative content)",
         "OBJ": "(to be) the communicative content of a vocal utterance, what a vocal utterance is intended to convey"
       },
-      "(to be) an act/instance of making the usual, common, representative vocalization made by an entity (e.g., a meow, bark, whinny, chirp, roar, speaking, etc.)",
-      "(to be) an act/instance of making an alternate, less-common vocalization made by an entity (e.g., cry, yowl, murmur, hum, purr, mumble)"
+      "(to be) an act/instance of making the usual, common, representative vocalization made by an entity [e.g., a meow, bark, whinny, chirp, roar, speaking, etc.]",
+      "(to be) an act/instance of making an alternate, less-common vocalization made by an entity [e.g., cry, yowl, murmur, hum, purr, mumble]"
     ]
   },
   {
@@ -32,7 +32,7 @@
     "refers": "VOCALIZATION OF DISTRESS OR PAIN / CRY / WEEP / SCREAM",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of uttering a vocal sound of physical/mental distress or pain; to utter a vocal sound of physical/mental distress or pain (e.g., moaning, howling, etc.)",
+        "BSC": "(to be) an act/instance of uttering a vocal sound of physical/mental distress or pain; to utter a vocal sound of physical/mental distress or pain [e.g., moaning, howling, etc.]",
         "CTE": "(to be) the vocalized sound of vocalized physical or mental distress/pain, a vocalized sound of distress/pain; for there to be a vocalized sound of physical/mental distress/pain",
         "CSV": "(to be) the physical act of uttering a vocal sound of distress/pain; to moan, to howl",
         "OBJ": "(to be) the physical or mental distress/pain which causes one to moan or howl"
@@ -48,11 +48,11 @@
       {
         "BSC": "(to be) a spoken/written/signed/signaled utterance for communicating linguistically",
         "CTE": "(to be) the (intended) message/comment/meaning of an instance of linguistic communication; to say/tell/communicate something using language",
-        "CSV": "(to be) an instance of producing/uttering/writing/signing/signaling using language (i.e., the process thereof, irrespective of the content/message); to speak/write/sign/signal in a language",
+        "CSV": "(to be) an instance of producing/uttering/writing/signing/signaling using language [i.e., the process thereof, irrespective of the content/message]; to speak/write/sign/signal in a language",
         "OBJ": "(to be) the entity/party to which/whom one (intends to) communicate linguistically; the (intended) audience/listener/hearer/reader/recipient of a linguistic communication"
       },
       "(to be) an instance/utterance of linguistic communication for rhetorical, inspirational, socially effective, or psychologically manipulative purposes",
-      "(to be) a phoneme or morpho-phonemic element/component of linguistic communication; to be a meaningful “sound” in one’s spoken language (e.g., a vowel or consonant or syllable)"
+      "(to be) a phoneme or morpho-phonemic element/component of linguistic communication; to be a meaningful “sound” in one’s spoken language [e.g., a vowel or consonant or syllable]"
     ]
   },
   {
@@ -89,12 +89,12 @@
     "refers": "READ / RECITE / ERUDITION",
     "stems": [
       {
-        "BSC": "(to be) an act of reading; to read (i.e., acquire/attain information from a written-language source via one’s knowledge of the written language)",
+        "BSC": "(to be) an act of reading; to read [i.e., acquire/attain information from a written-language source via one’s knowledge of the written language]",
         "CTE": "(to be) the state/act of mental interpretation/comprehension of what one reads; to comprehend/take in what one reads",
-        "CSV": "(to be) the physical act of reading written content; to perform the physical act of reading (i.e., the visual scanning of written characters with one’s eyes plus the mental interpretation thereof)",
-        "OBJ": "(to be) the contents of what one reads (i.e., the communicative message in writing)"
+        "CSV": "(to be) the physical act of reading written content; to perform the physical act of reading [i.e., the visual scanning of written characters with one’s eyes plus the mental interpretation thereof]",
+        "OBJ": "(to be) the contents of what one reads [i.e., the communicative message in writing]"
       },
-      "(to be) an act of reading aloud, reciting; to read (aloud), to recite (i.e., speak words aloud from a written source)",
+      "(to be) an act of reading aloud, reciting; to read (aloud), to recite [i.e., speak words aloud from a written source]",
       "(to be) a state/act of erudition/scholarship; to acquire knowledge/expertise via reading"
     ]
   },
@@ -103,13 +103,13 @@
     "refers": "SIGN / MARK / SYMBOL/ VISUAL OR TACTILE MEANS OF COMMUNICATION / DATUM / INFORMATION",
     "stems": [
       {
-        "BSC": "(to be) a state/act of being a sign/signal/gesture/indication; to be/make a sign/signal/gesture/indication, to indicate, to gesture, to (transmit a) signal (i.e., general indication of something)",
+        "BSC": "(to be) a state/act of being a sign/signal/gesture/indication; to be/make a sign/signal/gesture/indication, to indicate, to gesture, to (transmit a) signal [i.e., general indication of something]",
         "CTE": "(to be) a datum, a piece of information conveyed by a sign/signal/indication/indicator",
         "CSV": "(to be) an act of indicating; do something that indicates",
         "OBJ": "(to be) a sign/signal/indication/indicator itself"
       },
       "(to be) a state/act of being a (visual/tactile/olfactory) mark, token track, print, trail, clue, trace",
-      "(to be) a state/act of being a non-linguistic communicative/informational gesture (i.e., a visual/tactile indication designed to communicate non-linguistic information, e.g., a nod, a certain facial expression, a wink, a hand-wave of greeting, a hand-wave of dismissal, a shrug, a pat on the head, a pat on the back, etc.)"
+      "(to be) a state/act of being a non-linguistic communicative/informational gesture [i.e., a visual/tactile indication designed to communicate non-linguistic information, e.g., a nod, a certain facial expression, a wink, a hand-wave of greeting, a hand-wave of dismissal, a shrug, a pat on the head, a pat on the back, etc.]"
     ]
   },
   {
@@ -117,13 +117,13 @@
     "refers": "OFFICIAL SIGN OR SIGNAL / EMBLEM / INSIGNIA / LOGO / SYMBOL",
     "stems": [
       {
-        "BSC": "(to be) a state/act of being a formal/authorized/official sign/signal (e.g., road sign, traffic signal, marquee, written name/information on a dedicated placard- like surface, etc.)",
+        "BSC": "(to be) a state/act of being a formal/authorized/official sign/signal [e.g., road sign, traffic signal, marquee, written name/information on a dedicated placard- like surface, etc.]",
         "CTE": "(to be) the information indicated/expressed by a formal/authorized/official sign/signal",
         "CSV": "(to be) an act of expression via a formal/authorized/official sign/signal; to express/convey via a formal/authorized/official sign/signal",
         "OBJ": "(to be) a formal/authorized/official sign/signal"
       },
       "(to be) a state/act of being a symbol, emblem, device, insignia, logo",
-      "(to be) a state/act of being a linguistically representational mark/symbol other than a character/letter/grapheme from a language; to be/write a linguistically representational mark/symbol other than a character/letter/grapheme from a language (e.g., an emoji, an arrow, the power-on/off symbol on a device, the outline of a raised hand indicating “stop”, a red circle with diagonal bar indicating something prohibited, etc.)"
+      "(to be) a state/act of being a linguistically representational mark/symbol other than a character/letter/grapheme from a language; to be/write a linguistically representational mark/symbol other than a character/letter/grapheme from a language [e.g., an emoji, an arrow, the power-on/off symbol on a device, the outline of a raised hand indicating “stop”, a red circle with diagonal bar indicating something prohibited, etc.]"
     ]
   },
   {
@@ -147,7 +147,7 @@
       {
         "BSC": "(to be) an act/process of giving an account of/relating/recounting an event/occurrence to another",
         "CTE": "(to be) the content of an account",
-        "CSV": "(to be) an act/process of giving an account; to give an account (i.e., verbally, in writing, on screen, etc.)",
+        "CSV": "(to be) an act/process of giving an account; to give an account [i.e., verbally, in writing, on screen, etc.]",
         "OBJ": "(to be) the event/occurrence/situation about which an account pertains"
       },
       "(to be) an act of telling a story or narrative about a real-life experience; to narrate, tell a narrative, tell a (real-life) story",
@@ -187,7 +187,7 @@
     "refers": "LEAVETAKING / SAYING GOODBYE / FAREWELL",
     "stems": [
       {
-        "BSC": "(to be) a state/act of casual leavetaking, saying “see you later”; to casually take one’s leave (until an expected and predictable meeting); to say “bye” or “good night” or ’see you [tomorrow, this weekend, next week, etc.), to bid one a casual/temporary goodbye until an expected, predictable, soon-to-come remeeting.",
+        "BSC": "(to be) a state/act of casual leavetaking, saying “see you later”; to casually take one’s leave (until an expected and predictable meeting); to say “bye” or “good night” or “see you (tomorrow, this weekend, next week, etc.)”, to bid one a casual/temporary goodbye until an expected, predictable, soon-to-come remeeting.",
         "CTE": "(to be) a state of casual leavetaking",
         "CSV": "(to be) an act of casually taking one’s leave; the actual words/actions employed to casually take leave of someone; to say words of casual/temporary leavetaking",
         "OBJ": "(to be) the party/entity to whom one directs one’s casual/temporary goodbye"
@@ -201,7 +201,7 @@
     "refers": "MODULATION OF ELECTRO-MAGNETIC WAVE FOR COMMUNICATION PURPOSES",
     "stems": [
       {
-        "BSC": "(to be) a state/act of amplitude modulation of an e-m frequency for purposes of communication with an e-m (i.e., radio/television) receiver [i.e., an AM broadcast]",
+        "BSC": "(to be) a state/act of amplitude modulation of an e-m frequency for purposes of communication with an e-m [i.e., radio/television] receiver [i.e., an AM broadcast]",
         "CTE": "(to be) a state of amplitude modulation; to be an AM broadcast",
         "CSV": "(to be) an act of modulating the amplitude of an e-m frequency; to make an AM broadcast",
         "OBJ": "(to be) the message/communicative content of an AM broadcast"
@@ -249,7 +249,7 @@
         "OBJ": "(to be) the name that an entity has"
       },
       "(to be) a title [plus the entity so titled] [here, “title” refers to a formal designation given a person indicating their societal/occupational role/function, as in “Doctor”, “Queen”, “President”, “Deputy”, “Minister”, “Countess”, etc.]",
-      "(to be) a role [plus the entity carrying out the role] (i.e., a formally assigned functional niche or societal status, as in a role in a play, or a role in society, e.g., jester, Hamlet, yenta, amanuensis, matchmaker, femme fatale, scapegoat, etc."
+      "(to be) a role [plus the entity carrying out the role] [i.e., a formally assigned functional niche or societal status, as in a role in a play, or a role in society, e.g., jester, Hamlet, yenta, amanuensis, matchmaker, femme fatale, scapegoat, etc.]"
     ]
   },
   {
@@ -259,7 +259,7 @@
       {
         "BSC": "(to be) an act/process of question & answer [statement requesting information + the answer/reply/response thereto]",
         "CTE": "(to be) an act/process of asking a question and receiving an answer [focus on the inquiry/response process itself]",
-        "CSV": "(to be) the act/process of tangibly/physically/linguistically expressing a question and hearing/reading/discerning an answer (i.e., regardless of the content of the question or answer)",
+        "CSV": "(to be) the act/process of tangibly/physically/linguistically expressing a question and hearing/reading/discerning an answer [i.e., regardless of the content of the question or answer]",
         "OBJ": "(to be) the actual words or specific /communicative expression(s) of a question and answer"
       },
       "(to be) an act of questioning/querying",
@@ -271,7 +271,7 @@
     "refers": "INQUIRY / INVESTIGATION / RESEARCH / DISCOVERY",
     "stems": [
       {
-        "BSC": "(to be) an act/process of inquiry + answer or resulting discovery; to inquire into something [i.e., seek an explanation or answer(s) for something that (one believes_ needs explaining]",
+        "BSC": "(to be) an act/process of inquiry + answer or resulting discovery; to inquire into something [i.e., seek an explanation or answer(s) for something that (one believes) needs explaining]",
         "CTE": "(to be) the state of there being something unexplained that (one believes) needs an explanation",
         "CSV": "(to be) the physical actions taken and/or question(s) posed that constitute an inquiry; to physically take the actions and/or physically state/ask the questions constitute an inquiry",
         "OBJ": "(to be) that which is unexplained and (that one believes) needs to be inquired about/investigated"
@@ -403,13 +403,13 @@
     "refers": "MODESTY / HUMBLENESS / MEEKNESS",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of modesty; to act/behave modestly; to be modest (i.e., not boastful, conceited, or demonstrating pride about one’s identity, talents, characteristics, accomplishments, etc.)",
+        "BSC": "(to be) an act/instance of modesty; to act/behave modestly; to be modest [i.e., not boastful, conceited, or demonstrating pride about one’s identity, talents, characteristics, accomplishments, etc.]",
         "CTE": "(to be) a modest person, have a modest character/personality",
         "CSV": "(to be) an appearance of modesty, i.e., to behave/act as (if) one who is modest",
         "OBJ": "(to be) a person whom others generally perceive as being modest"
       },
-      "(to be) an act/instance of humility/humbleness; be humble (i.e., behaving/being with a conscious sense of one’s own defects or shortcomings, so that one is unassertive",
-      "(to be) an act/instance of meekness; be meek (i.e., patient and mild in character/personality and not inclined to anger or resentment)"
+      "(to be) an act/instance of humility/humbleness; be humble [i.e., behaving/being with a conscious sense of one’s own defects or shortcomings, so that one is unassertive]",
+      "(to be) an act/instance of meekness; be meek [i.e., patient and mild in character/personality and not inclined to anger or resentment]"
     ],
     "notes": "This root is also used as the **DIFFIDENT (DFD) Bias Affix**: *“sorry, but …” “It’s nothing. It’s just …”*"
   },
@@ -419,12 +419,12 @@
     "stems": [
       {
         "BSC": "(to be) something ordinary or commonplace",
-        "CTE": "(to be) a state of being ordinary or commonplace (i.e., the subjective state of ordinariness)",
+        "CTE": "(to be) a state of being ordinary or commonplace [i.e., the subjective state of ordinariness]",
         "CSV": "(to be) physical/tangible aspects/characteristics of a party/entity/object/event/situation that make it ordinary or commonplace",
         "OBJ": "(to be) what is commonplace or ordinary, i.e., the party/entity/object/event/situation that is commonplace or ordinary"
       },
-      "(to be) something matter-of-fact, down-to-earth or prosaic (i.e., lacking in any features or characteristics or behavior which would cause one to infer or guess their nature, motives, meaning, intentions, etc.)",
-      "(to be) something unoriginal and predictable (i.e., lacking in any original or innovative aspects)"
+      "(to be) something matter-of-fact, down-to-earth or prosaic [i.e., lacking in any features or characteristics or behavior which would cause one to infer or guess their nature, motives, meaning, intentions, etc.]",
+      "(to be) something unoriginal and predictable [i.e., lacking in any original or innovative aspects]"
     ],
     "notes": "This root is also used as the **PROSAIC (PSC) Bias Affix**: *“Meh … (said in disappointment)” “How ordinary!”*"
   },
@@ -447,13 +447,13 @@
     "refers": "ABANDONMENT / GIVING UP ON / RESIGNATION",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of giving up on something; to give up on (i.e., losing one’s faith/belief that something is or functions as one thought it would or as it used to [be])",
+        "BSC": "(to be) an act/instance of giving up on something; to give up on [i.e., losing one’s faith/belief that something is or functions as one thought it would or as it used to (be)]",
         "CTE": "(to be) a state of having given up",
         "CSV": "(to be) an act of giving up",
         "OBJ": "(to be) what one gives up on, what one no longer believes in"
       },
       "(to be) an act/instance of abandonment; to abandon",
-      "(to be) a act/instance of resignation (i.e., officially vacating one’s role, duty, job)"
+      "(to be) a act/instance of resignation [i.e., officially vacating one’s role, duty, job]"
     ],
     "notes": "This root is also used as the **RENUNCIATIVE (RNC) Bias Affix**: *“So much for …!” “There goes …!”*"
   },
@@ -478,7 +478,7 @@
         "OBJ": "(be) the object/entity/service which the soliciting party hopes to obtain"
       },
       "(be) an act/process of urging/begging/imploring/ beseeching/entreating, i.e., an emotionally earnest/intense form of solicitation; to beseech, entreat, beg, insist",
-      "(be) an act of prayer; to pray (i.e., to a deity or supernatural entity)"
+      "(be) an act of prayer; to pray [i.e., to a deity or supernatural entity]"
     ],
     "notes": "This root is also used as the **SOLICITATIVE (SOL) Bias Affix**: *“please”*"
   },
@@ -486,9 +486,9 @@
     "root": "RŇS",
     "refers": "CLAIM / LAWSUIT / APPEAL",
     "stems": [
-      "(be) a process of claiming; to make a claim (i.e., to seek relief/indemnification from some injustice done)",
+      "(be) a process of claiming; to make a claim [i.e., to seek relief/indemnification from some injustice done]",
       "(be) an act/process of suing; to sue, file a (law)suit",
-      "(be) an act/process of appealing; to appeal (i.e., to seek reversal of some punishment meted)"
+      "(be) an act/process of appealing; to appeal [i.e., to seek reversal of some punishment meted]"
     ],
     "notes": "For “claim” in the sense of “to assert (something) as being true”, see -**RRJ**-.",
     "see": "ŇŇS"
@@ -503,8 +503,8 @@
         "CSV": "(to be) the actual manifestation (acts, words, circumstances, situations, objects, etc.) of whatever is funny",
         "OBJ": "(to be) what is funny, i.e., the party/entity/object/event/situation that is the focus of the humor"
       },
-      "(to be) something witty (i.e., subtly and cleverly humorous which strikes an audience as charming); to be witty",
-      "(to be) something farcical or sardonic (i.e., something humorous in a double-edged manner based in irony or sarcasm); to be a farce, to be farcical"
+      "(to be) something witty [i.e., subtly and cleverly humorous which strikes an audience as charming]; to be witty",
+      "(to be) something farcical or sardonic [i.e., something humorous in a double-edged manner based in irony or sarcasm]; to be a farce, to be farcical"
     ],
     "notes": "This root is also used as the **COMEDIC (CMD) Bias Affix: — -pļļ** *“Funny!” “LOL”*"
   },
@@ -513,13 +513,13 @@
     "refers": "JEST / PRANK / JOKE",
     "stems": [
       {
-        "BSC": "(to be) a joke; make a joke (i.e., a communicated story or message designed to evoke humor)",
+        "BSC": "(to be) a joke; make a joke [i.e., a communicated story or message designed to evoke humor]",
         "CTE": "(to be) the state of funniness/humor induced by a joke",
-        "CSV": "(to be) the actual manifestation (act(s) and/or word(s) or circumstance(s) that constitute a joke; to tell/perpetrate a joke",
+        "CSV": "(to be) the actual manifestation [act(s) and/or word(s) or circumstance(s) that constitute a joke]; to tell/perpetrate a joke",
         "OBJ": "(to be) the butt of a joke, what or who the joke is about"
       },
       "(to be) a jest; make a jest",
-      "(to be) a prank; pull a prank (i.e., an act or situation designed to evoke humor through embarrassment)"
+      "(to be) a prank; pull a prank [i.e., an act or situation designed to evoke humor through embarrassment]"
     ]
   },
   {
@@ -527,7 +527,7 @@
     "refers": "GRATITUDE / THANKFULNESS",
     "stems": [
       {
-        "BSC": "(to be) an offer of thank(s)/gratitude for a favor, honor, courtesy or convenience performed; to offer gratitude for a favor, honor, courtesy or convenience performed ( = both the motivating desire to offer gratitude and its tangible/physical/verbal expression)",
+        "BSC": "(to be) an offer of thank(s)/gratitude for a favor, honor, courtesy or convenience performed; to offer gratitude for a favor, honor, courtesy or convenience performed (= both the motivating desire to offer gratitude and its tangible/physical/verbal expression)",
         "CTE": "(to be) the psychological state motivating one to offer thanks/gratitude for a favor, honor, courtesy or convenience performed",
         "CSV": "(to be) the physical/tangible/linguistic expression of an act of thanks or gratitude for a favor, honor, courtesy or convenience performed; to communicate/express one’s thanks or gratitude for a favor, honor, courtesy or convenience performed",
         "OBJ": "(to be) the actual words or other form(s) of expression used in communicating one’s thanks/gratitude for a favor, honor, courtesy or convenience performed"
@@ -555,13 +555,13 @@
     "refers": "ACKNOWLEDGEMENT / DISCLOSURE / ADMISSION",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of acknowledgement of something (i.e., demonstrating to another one’s awareness of something)",
+        "BSC": "(to be) an act/instance of acknowledgement of something [i.e., demonstrating to another one’s awareness of something]",
         "CTE": "(to be) the state of mutual awareness/understanding created by an act of acknowledgement",
-        "CSV": "(to be) an act of physically acknowledgement; to physically acknowledge (e.g., nodding, verbally, a wave of one’s hand, a wink, etc.)",
+        "CSV": "(to be) an act of physically acknowledgement; to physically acknowledge [e.g., nodding, verbally, a wave of one’s hand, a wink, etc.]",
         "OBJ": "(to be) that which is acknowledged"
       },
-      "(to be) an act/instance of disclosing or revealing something (i.e., let others see/know something which has previously not been seen by or known to them)",
-      "(to be) a act/instance of admitting to something; to admit to, grant that something is so (i.e., acquiesce to allowing others to know of one’s awareness of, association with, or involvement in something)"
+      "(to be) an act/instance of disclosing or revealing something [i.e., let others see/know something which has previously not been seen by or known to them]",
+      "(to be) a act/instance of admitting to something; to admit to, grant that something is so [i.e., acquiesce to allowing others to know of one’s awareness of, association with, or involvement in something]"
     ],
     "notes": "This root is also used as the **ADMISSIVE (ADM) Bias Affix**: *“mm-hmm” “uh-huh”, “I see”*."
   },
@@ -570,7 +570,7 @@
     "refers": "ASSENT / ACQUIESCENCE / CONFESSION",
     "stems": [
       "(be) an act of assent/acquiescence",
-      "(be) an act of divulging/exposing something; to divulge or expose something (i.e., let others see/know what has previously been private or secret)",
+      "(be) an act of divulging/exposing something; to divulge or expose something [i.e., let others see/know what has previously been private or secret]",
       "(be) an act of confessing something, owning up to something; to confess or own up to something"
     ],
     "see": "LĻ"
@@ -580,7 +580,7 @@
     "refers": "PARTNERSHIP / COLLEAGUE",
     "stems": [
       {
-        "BSC": "(to be) a state/act of partnering, being a partner to or with; to be a partner with or to, to partner with, to partner up (i.e., teaming up with someone to accomplish something together",
+        "BSC": "(to be) a state/act of partnering, being a partner to or with; to be a partner with or to, to partner with, to partner up [i.e., teaming up with someone to accomplish something together]",
         "CTE": "(to be) a state of partnership",
         "CSV": "(to be) be an act of partnering; to take on a partner",
         "OBJ": "(to be) the entity/party which/who partners with one; be one’s partner"
@@ -622,7 +622,7 @@
     "refers": "PROSTITUTION / PIMPING",
     "stems": [
       {
-        "BSC": "(to be) a state/act of prostituting oneself, to engage in an act of prostitution (i.e., offering oneself for sexual relations in exchange for money or other for of remuneration) CPT Version = to successfully procure a paying customer for sex",
+        "BSC": "(to be) a state/act of prostituting oneself, to engage in an act of prostitution [i.e., offering oneself for sexual relations in exchange for money or other for of remuneration] CPT Version = to successfully procure a paying customer for sex",
         "CTE": "(to be) an act of sex(ual relations) performed as a prostitute",
         "CSV": "(to be) a physical act of offering oneself for sexual relations; to offer sex for monetary or other remuneration",
         "OBJ": "(to be) a prostitute"
@@ -699,7 +699,7 @@
         "OBJ": "(to be) that which is useful"
       },
       "(to be) a state of potentially serving a function/purpose to one; to be of potential service, to potentially serve a function, be serviceable [i.e., available to perform a function/operation/act which is helpful/assistive/useful to another]",
-      "(to be) a state/act of being of potential assistance/assistiveness to one or in a situation (e.g., an assistive device, an assistive hand-railing, an assistive feature in an automobile, etc.)"
+      "(to be) a state/act of being of potential assistance/assistiveness to one or in a situation [e.g., an assistive device, an assistive hand-railing, an assistive feature in an automobile, etc.]"
     ],
     "notes": "This root refers to the usefulness/assistiveness of an inanimate or collective entity. To denote assistance/helpfulness/support from an animate conscious entity, see root -**NN**-."
   },
@@ -714,7 +714,7 @@
         "OBJ": "(to be) what one does that is helpful, the help one gives"
       },
       "(to be) a state/act of assisting/assistance; to assist, to lend a hand in doing/accomplishing something, to help to accomplish something",
-      "(to be) a state/act of supporting/advocating; to support, to advocate (i.e., to verbally advocate for and/or provide tangible or intangible resources to reinforce something or someone)"
+      "(to be) a state/act of supporting/advocating; to support, to advocate [i.e., to verbally advocate for and/or provide tangible or intangible resources to reinforce something or someone]"
     ],
     "notes": "This root refers to the conscious giving/rendering of help/aid/support by a conscious animate entity, motivated by the desire to do so. To denote assistance/helpfulness/support from a non-animate or collective entity, see root -**NŢR**-."
   },
@@ -766,7 +766,7 @@
     "refers": "CAPTURE / CATCH / APPREHENSION / SEIZURE / TAKE-OVER",
     "stems": [
       {
-        "BSC": "(to be) an act of apprehending/capturing; to apprehend, capture (i.e., apprehension or removal from present location/environs for purpose of seizure and/or restriction of freedom of movement)",
+        "BSC": "(to be) an act of apprehending/capturing; to apprehend, capture [i.e., apprehension or removal from present location/environs for purpose of seizure and/or restriction of freedom of movement]",
         "CTE": "(to be) a state of captivity",
         "CSV": "(to be) an act of physically capturing/apprehending/seizing",
         "OBJ": "(to be) a party/entity that is captured/apprehended/seized"
@@ -780,7 +780,7 @@
     "refers": "DETENTION / CONFISCATION / ABDUCTION",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of detaining something, an act of detention; to detain (i.e., to prevent something/someone from continuing what they/it is doing or from proceeding further along a course or proceeding with an action)",
+        "BSC": "(to be) an act/instance of detaining something, an act of detention; to detain [i.e., to prevent something/someone from continuing what they/it is doing or from proceeding further along a course or proceeding with an action]",
         "CTE": "(to be) a state of (being under) detention",
         "CSV": "(to be) a physical act of detaining; to physically act to detain",
         "OBJ": "(to be) a party/entity that is detained"
@@ -794,7 +794,7 @@
     "refers": "TAKEOVER / USURPATION / COUP",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of taking over something, an act of taking over; to to take over (i.e., to stop a party’s governance or control of a situation and replace them with oneself as the new governing or controlling party)",
+        "BSC": "(to be) an act/instance of taking over something, an act of taking over; to to take over [i.e., to stop a party’s governance or control of a situation and replace them with oneself as the new governing or controlling party]",
         "CTE": "(to be) a state of having been taken over, replaced by a takeover",
         "CSV": "(to be) a physical act of taking over; to physically act to take over",
         "OBJ": "(to be) the party/entity whose role/position/task/job, etc. is taken over"
@@ -827,7 +827,7 @@
         "CSV": "(to be) a physical act of fleeing/escaping",
         "OBJ": "(to be) what one is fleeing or escaping from"
       },
-      "(to be) an act evading or eluding something/someone (i.e., to take steps so that some other entity does not find one or encounter one)",
+      "(to be) an act evading or eluding something/someone [i.e., to take steps so that some other entity does not find one or encounter one]",
       "(to be) an act of shirking, deserting, abandoning something/someone"
     ]
   },
@@ -878,13 +878,13 @@
     "refers": "IGNORE / DISREGARD / STATE OF DENIAL",
     "stems": [
       {
-        "BSC": "(to be) a state/act of ignoring something or someone; to ignore something/someone (i.e., to behave as if something/someone present or pressing does not exist)",
+        "BSC": "(to be) a state/act of ignoring something or someone; to ignore something/someone [i.e., to behave as if something/someone present or pressing does not exist]",
         "CTE": "(to be) a state of being ignored",
         "CSV": "(to be) a physical act of ignoring; to behave/act in a manner which manifests ignoring something/someone",
         "OBJ": "(to be) what/whom one ignores"
       },
-      "(to be) an act of disregarding; to disregard (i.e., to not take something/someone into account)",
-      "(to be) a state/act of denial (i.e., deluding oneself into believing that something important/consequential does not exist or is of no account)"
+      "(to be) an act of disregarding; to disregard [i.e., to not take something/someone into account]",
+      "(to be) a state/act of denial [i.e., deluding oneself into believing that something important/consequential does not exist or is of no account]"
     ]
   },
   {
@@ -897,7 +897,7 @@
         "CSV": "(to be) a physical act of avoidance",
         "OBJ": "(to be) what one is avoiding or trying to avoid"
       },
-      "(to be) a state of shunning, to shun (i.e., refuse to have dealings with or to partake of something)",
+      "(to be) a state of shunning, to shun [i.e., refuse to have dealings with or to partake of something]",
       "(to be) a state/act of eschewing/abstaining/refraining from something; to eschew something, abstain from something, refrain from doing something"
     ]
   },
@@ -920,7 +920,7 @@
     "refers": "EXCLUSION / EXPULSION / EXILE",
     "stems": [
       {
-        "BSC": "(to be) a state/act of excluding, act of exclusion; to exclude (i.e., to take steps to ensure that some entity is not part of or does not participate in one’s activities or does not appear in one’s presence)",
+        "BSC": "(to be) a state/act of excluding, act of exclusion; to exclude [i.e., to take steps to ensure that some entity is not part of or does not participate in one’s activities or does not appear in one’s presence]",
         "CTE": "(to be) a state of exclusion, state of being excluded",
         "CSV": "(to be) a physical act of excluding",
         "OBJ": "(to be) what/whom one excludes"
@@ -978,7 +978,7 @@
         "CSV": "(to be) the act of engaging/indulging in something based on one’s personal taste(s)/preference(s)/proclivities; to engage/indulge in something that is to one’s personal taste(s)/preference(s)/proclivities",
         "OBJ": "(to be) what one likes as a matter of course; that which is to one’s personal taste(s)/preference(s)"
       },
-      "(to be) a state of something being a matter of taste (i.e., for the evaluation/outcome/status of something or a situation to be dependent on whether it conforms to one’s personal taste(s)/preference(s)/proclivities",
+      "(to be) a state of something being a matter of taste [i.e., for the evaluation/outcome/status of something or a situation to be dependent on whether it conforms to one’s personal taste(s)/preference(s)/proclivities]",
       "(to be) a secret inclination/temptation; to have a secret inclination/temptation for something"
     ]
   },
@@ -1060,13 +1060,13 @@
     "refers": "MEDIUM OF EXCHANGE / CURRENCY / MONEY",
     "stems": [
       {
-        "BSC": "(to be) a state/act of utilizing a medium of exchange (i.e., intermediary method of trade in avoidance of the inconveniences of a pure barter system); to utilize a medium of exchange to carry out a purchase or commercial/financial transaction",
+        "BSC": "(to be) a state/act of utilizing a medium of exchange [i.e., intermediary method of trade in avoidance of the inconveniences of a pure barter system]; to utilize a medium of exchange to carry out a purchase or commercial/financial transaction",
         "CTE": "(to be) a state of there being a medium of exchange for use in financial/commercial/trade transactions (as opposed to simple bartering or stealing)",
         "CSV": "(to be) an act of purchasing using a medium of exchange; to buy/purchase something utilizing a medium of exchange",
-        "OBJ": "(to be) a medium/means of exchange (e.g., beads, shells, gems, coins, bills, etc.)"
+        "OBJ": "(to be) a medium/means of exchange [e.g., beads, shells, gems, coins, bills, etc.]"
       },
       "(to be) a state/act of utilizing money/currency to pay for something {OBJ = unit of money/currency]",
-      "(to be) a state/act of utilizing a quasi-contractual document equivalent to currency (e.g., a cheque, scrip, bond, promissor note)"
+      "(to be) a state/act of utilizing a quasi-contractual document equivalent to currency [e.g., a cheque, scrip, bond, promissor note]"
     ]
   },
   {
@@ -1076,18 +1076,18 @@
       {
         "BSC": "(to be) a state/act/process of monetary accumulation (via earning wages, investments, etc.); earn/raise money",
         "CTE": "(to be) a state of earning/accumulating money",
-        "CSV": "(to be) a state/act of physically doing something to earn/raise money; to physically perform a task (e.g., labor, choosing an investment, organizing a fundraiser, etc.) that earns/raises money (e.g., paid labor organizing a fundraiser, etc.)",
+        "CSV": "(to be) a state/act of physically doing something to earn/raise money; to physically perform a task [e.g., labor, choosing an investment, organizing a fundraiser, etc.] that earns/raises money [e.g., paid labor organizing a fundraiser, etc.]",
         "OBJ": "(to be) an amount of money; to have/possess an amount of money"
       },
       {
-        "BSC": "(to be) a state/act of monetary accumulation via an item of financial capital or financial instrument other than currency (e.g., stocks, bonds, trade in commodities, etc.)",
+        "BSC": "(to be) a state/act of monetary accumulation via an item of financial capital or financial instrument other than currency [e.g., stocks, bonds, trade in commodities, etc.]",
         "CTE": "(to be) a state of earning/accumulating financial assets via investment or trade in financial instruments",
         "CSV": "(to be) a state/act of physically doing something to earn/raise money using financial capital or a financial instrument; to perform a physical act of investment or trade in financial instruments",
         "OBJ": "(to be) an amount of money earned/accumulated via investment, etc.; to have/possess an amount of money earned via investment/financial instruments, etc."
       },
       {
-        "BSC": "(to be) an act/process of financial accounting; to financially account [i.e., an accurate economic evaluation of (one’s) material/financial assets",
-        "CTE": "(to be) one’s monetary state/situation, how one is “set” for money; to have or be in a particular monetary situation (i.e., the extent/degree to which one is able to afford day-to-day and other expenses)",
+        "BSC": "(to be) an act/process of financial accounting; to financially account [i.e., an accurate economic evaluation of (one’s) material/financial assets]",
+        "CTE": "(to be) one’s monetary state/situation, how one is “set” for money; to have or be in a particular monetary situation [i.e., the extent/degree to which one is able to afford day-to-day and other expenses]",
         "CSV": "(to be) a physical act/process of accounting/arithmetically figuring out one’s (or another’s) financial state/situation; to engage in a process of accounting",
         "OBJ": "(to be) one’s personal funds or monetary assets/the amount of money and other financial assets one owns"
       }
@@ -1129,7 +1129,7 @@
         "BSC": "(to be) a state/process of having/accruing an amount of material wealth; to have/accrue the amount of material wealth one has [i.e., monetary plus material assets]",
         "CTE": "(to be) a state of (having) one’s material wealth",
         "CSV": "(to be) an act/process of monetization; to monetize [i.e., creating material wealth out of something]",
-        "OBJ": "(to be) the particular amount of material wealth (e.g., money and material assets) one has"
+        "OBJ": "(to be) the particular amount of material wealth [e.g., money and material assets] one has"
       },
       "(to be) a state/process of being/getting rich, having/accruing a large amount of material wealth; to be rich, to be materially wealthy",
       "(to be) a state/process of being poor/impoverished, having little or no material wealth; to be poor, to be impoverished, to be in poverty"
@@ -1173,7 +1173,7 @@
         "CSV": "(to be) a physical act of demonstrating one deserves something; to do/say something that demonstrates that one deserves something",
         "OBJ": "(to be) what one is or has done that warrants one’s deserving something"
       },
-      "(to be) a state of worthiness/merit; to be worthy, to merit (i.e. demonstrate that one has the necessary attributes/character/skill to qualify for some privilege or status or recognition or reward)",
+      "(to be) a state of worthiness/merit; to be worthy, to merit [i.e. demonstrate that one has the necessary attributes/character/skill to qualify for some privilege or status or recognition or reward]",
       "(to be) a state/act of granting/bestowing recompense or reparation to a party/entity; to grant recompense, to grant reparation to"
     ]
   },
@@ -1187,8 +1187,8 @@
         "CSV": "(to be) an act of entitlement; to grant an entitlement",
         "OBJ": "(to be) that to which a party is entitled"
       },
-      "(to be) an act of enrolling someone in something; to enroll someone into something (i.e., to proclaim/announce/authorize the bestowal of a particular status/task/position)",
-      "(to be) an act of conferring/ ordaining or anointing; to confer, ordain or anoint someone (i.e., the official/authorized granting/bestowing of a specialized/honored/sacred status/position)"
+      "(to be) an act of enrolling someone in something; to enroll someone into something [i.e., to proclaim/announce/authorize the bestowal of a particular status/task/position]",
+      "(to be) an act of conferring/ ordaining or anointing; to confer, ordain or anoint someone [i.e., the official/authorized granting/bestowing of a specialized/honored/sacred status/position]"
     ]
   },
   {
@@ -1212,11 +1212,11 @@
       {
         "BSC": "(to be) an act of promising; to (make a) promise",
         "CTE": "(to be) a state of being bound by/to a promise",
-        "CSV": "(to be) the physical act (e.g., words spoken, signed statement) of promising; to perform an action (e.g., in words or writing) that constitutes making a promise",
+        "CSV": "(to be) the physical act [e.g., words spoken, signed statement] of promising; to perform an action [e.g., in words or writing] that constitutes making a promise",
         "OBJ": "(to be) what one has promised"
       },
-      "(to be) an act of vowing/pledging; to (make/take a) vow/pledge (i.e., a solemn/sacred long-term promise to oneself or to oneself and others)",
-      "(to be) an act of taking/swearing an oath; to take/swear an oath (i.e., a legally enforceable solemn vow/promise with adverse social/legal consequences if broken)"
+      "(to be) an act of vowing/pledging; to (make/take a) vow/pledge [i.e., a solemn/sacred long-term promise to oneself or to oneself and others]",
+      "(to be) an act of taking/swearing an oath; to take/swear an oath [i.e., a legally enforceable solemn vow/promise with adverse social/legal consequences if broken]"
     ]
   },
   {
@@ -1226,11 +1226,11 @@
       {
         "BSC": "(to be) an act of assurance/vouching for something or someone; to assure/vouch for someone or someone",
         "CTE": "(to be) a state of being bound by having vouched for something or someone",
-        "CSV": "(to be) the physical act (e.g., words spoken, signed statement) of vouching for someone or something; to perform an action (e.g., in words or writing) that constitutes vouching for someone or something",
+        "CSV": "(to be) the physical act [e.g., words spoken, signed statement] of vouching for someone or something; to perform an action [e.g., in words or writing] that constitutes vouching for someone or something",
         "OBJ": "(to be) what/who one has vouched for"
       },
       "(to be) an act of guaranteeing; to (make a) guarantee",
-      "(to be) an act of underwriting/securing something; to underwrite/secure something (i.e., a legal contract to financially secure/back up a contract)"
+      "(to be) an act of underwriting/securing something; to underwrite/secure something [i.e., a legal contract to financially secure/back up a contract]"
     ]
   },
   {
@@ -1258,7 +1258,7 @@
         "OBJ": "(to be) the basis/reason for one’s loyalty/fealty/allegiance, why one is loyal to a party/entity"
       },
       "(to be) a state/act of being morally/emotionally/legally bonded/tied to a party/entity",
-      "(to be) a state/act of being bound in fellowship to others; to be a member of a fellowship (i.e., a bond between members of a collective entity to trust, defend, support, aid one another)"
+      "(to be) a state/act of being bound in fellowship to others; to be a member of a fellowship [i.e., a bond between members of a collective entity to trust, defend, support, aid one another]"
     ]
   },
   {
@@ -1266,13 +1266,13 @@
     "refers": "SUBJECTIVE INTERPRETATION / “READING”",
     "stems": [
       {
-        "BSC": "(to be) a state/act of “reading” (i.e., interpreting) clues/signs/evidence (e.g., the clouds in the sky for a coming storm, footprints, animal tracks, a crime scene, etc.)",
+        "BSC": "(to be) a state/act of “reading” [i.e., interpreting] clues/signs/evidence [e.g., the clouds in the sky for a coming storm, footprints, animal tracks, a crime scene, etc.]",
         "CTE": "(to be) a state of subjective interpretation based on clues/signs/evidence",
         "CSV": "(to be) an act of “reading”/interpreting clues/signs/evidence; to “read”/interpret clues/signs/evidence",
         "OBJ": "(to be) the clue(s)/sign(s)/piece(s) of evidence one “reads”/interprets"
       },
-      "(to be) a state/act of “reading” (i.e., interpreting) a subjective situation or subjective set of clues, e.g., “reading” a person’s face, “reading between the lines”, “reading” a social situation, etc.)",
-      "(to be) a state/act of “reading” (i.e., interpreting) signs/marks within a specific arcane branch of knowledge (e.g., read palms, read the stars, read the I-Ching or other arcane symbology, etc.)"
+      "(to be) a state/act of “reading” [i.e., interpreting] a subjective situation or subjective set of clues, e.g., “reading” a person’s face, “reading between the lines”, “reading” a social situation, etc.)",
+      "(to be) a state/act of “reading” [i.e., interpreting] signs/marks within a specific arcane branch of knowledge [e.g., read palms, read the stars, read the I-Ching or other arcane symbology, etc.]"
     ]
   },
   {
@@ -1280,13 +1280,13 @@
     "refers": "MEANING / SIGNIFICATION / TRANSLATION / INTERPRETATION",
     "stems": [
       {
-        "BSC": "(to be) a state/act of meaning; to mean/signify/denote something (i.e., to have a specific/correct interpretation/signification/denotation)",
+        "BSC": "(to be) a state/act of meaning; to mean/signify/denote something [i.e., to have a specific/correct interpretation/signification/denotation]",
         "CTE": "(to be) the meaning/signification/denotation of something, what something means/signifies/denotes",
         "CSV": "(to be) an act of conveying/communicating/indicating the meaning of something; to signify, to express/convey the meaning of",
         "OBJ": "(to be) that which has (a) meaning/signification/denotation"
       },
       "(to be) a state/act/instance of translating; to create a translation of something, to translate",
-      "(to be) an act of interpretation; to interpret (i.e., act/function as skilled medium between an information source and its audience for purposes of making the source information comprehensible)"
+      "(to be) an act of interpretation; to interpret [i.e., act/function as skilled medium between an information source and its audience for purposes of making the source information comprehensible]"
     ],
     "notes": "For “interpret” meaning “ability to understand something by observation/analysis” as in “to interpret signs/clues”, see the root -**VẒ**-"
   },
@@ -1295,7 +1295,7 @@
     "refers": "DEFINITION / EXPLANATION / EXPOSITION / ELUCIDATION",
     "stems": [
       {
-        "BSC": "(to be) an act/instance of defining something; to define (i.e., a formal explanation of the meaning of an entity]",
+        "BSC": "(to be) an act/instance of defining something; to define [i.e., a formal explanation of the meaning of an entity]",
         "CTE": "(to be) the definition of something, how something is defined",
         "CSV": "(to be) an act of conveying/communicating/indicating a definition; to express/convey a definition",
         "OBJ": "(to be) that which has a definition"
@@ -1329,7 +1329,7 @@
         "OBJ": "(to be) one’s opponent"
       },
       "(to be) a state/act of working openly against something or someone, openly acting inimically toward something or someone; to openly work against something or someone, be inimical toward something or someone",
-      "(to be) state/act of undermining something or someone (i.e., working secretly or underhandedly or “behind one’s back” against their interests; to undermine something or someone"
+      "(to be) state/act of undermining something or someone [i.e., working secretly or underhandedly or “behind one’s back” against their interests; to undermine something or someone]"
     ]
   },
   {
@@ -1365,7 +1365,7 @@
     "refers": "RENTAL",
     "stems": [
       {
-        "BSC": "(to be) an act/state of renting; to rent (e.g., an apartment, an automobile, etc.) [both the service being paid for, and the offering/providing of what is being rented in exchange for payment]",
+        "BSC": "(to be) an act/state of renting; to rent [e.g., an apartment, an automobile, etc.] [both the service being paid for, and the offering/providing of what is being rented in exchange for payment]",
         "CTE": "(to be) a state of two parties having a rental agreement or contract",
         "CSV": "(to be) an act/process of a party offering something for rental and another party renting it",
         "OBJ": "(to be) what is being rented or offered/provided as a rental"
@@ -1379,7 +1379,7 @@
     "refers": "LEASING",
     "stems": [
       {
-        "BSC": "(to be) an act/state of leasing; to lease (e.g., an apartment, an automobile, etc.) [both the service being paid for, and the offering/providing of what is being leased in exchange for payment]",
+        "BSC": "(to be) an act/state of leasing; to lease [e.g., an apartment, an automobile, etc.] [both the service being paid for, and the offering/providing of what is being leased in exchange for payment]",
         "CTE": "(to be) a state of two parties having a leasing contract",
         "CSV": "(to be) an act/process of a party offering something for lease and another party leasing it",
         "OBJ": "(to be) what is being leased or offered for lease"
@@ -1393,12 +1393,12 @@
     "refers": "GOVERNMENT",
     "stems": [
       {
-        "BSC": "(to be) a form of governance; to govern (i.e., to be the authorized system for legal regulation/oversight of a community)",
+        "BSC": "(to be) a form of governance; to govern [i.e., to be the authorized system for legal regulation/oversight of a community]",
         "CTE": "(to be) the carrying out of an act as part of the process of governance",
         "CSV": "(to be) a praxis/custom/rule/law or defining characteristic of a particular form of government",
         "OBJ": "(to be) a party who is subject to governance"
       },
-      "(to be) a state/act/event that is political (i.e., motivated by, or in furtherance or support of a particular government or the authorities within that government)",
+      "(to be) a state/act/event that is political [i.e., motivated by, or in furtherance or support of a particular government or the authorities within that government]",
       "(to be) the particular collective group of authorities authorized as being the government for a particular community, i.e., “the [(contextually) current] government”"
     ]
   },
@@ -1451,7 +1451,7 @@
       {
         "BSC": "(to be) an act of official law enforcement; to enforce the law",
         "CTE": "(to be) a state of having laws be enforced",
-        "CSV": "(to be) a physical act of enforcing a law (i.e. specific actions/words utilized)",
+        "CSV": "(to be) a physical act of enforcing a law [i.e. specific actions/words utilized]",
         "OBJ": "(to be) the particular law enforced"
       },
       "(to be) a state of having the authority to enforce a law or statute; to have legal authority to",
@@ -1505,12 +1505,12 @@
     "refers": "PUNISHMENT / JUSTICE / SENTENCE / PENANCE",
     "stems": [
       {
-        "BSC": "(to be) an act/process of punishment; to punish (i.e., mete out physical and/or psychological pain or adverse circumstances to a party as a deterrent- oriented consequence of, and/or moral recompense for, their (actual or perceived) wrongdoing or negligence);",
+        "BSC": "(to be) an act/process of punishment; to punish [i.e., mete out physical and/or psychological pain or adverse circumstances to a party as a deterrent- oriented consequence of, and/or moral recompense for, their (actual or perceived) wrongdoing or negligence]",
         "CTE": "(to be) a state of being punished or enduring punishment",
         "CSV": "(to be) a physical act of punishing; to physically punish, to mete out punishment",
         "OBJ": "(to be) to be the specific form of punishment meted out"
       },
-      "(to be) an act/process of justice or sentencing; to sentence, to carry out an act of justice (i.e., officially mete out a form of punishment against a party found legally guilty of or legally liable for a crime or wrongdoing) (CTE Specification = to serve/suffer a sentence)",
+      "(to be) an act/process of justice or sentencing; to sentence, to carry out an act of justice [i.e., officially mete out a form of punishment against a party found legally guilty of or legally liable for a crime or wrongdoing] (CTE Specification = to serve/suffer a sentence)",
       "(to be) a state/act of imposing a penance on a party for a moral transgression or moral wrongdoing; to impose a penance (CTE = to do penance)"
     ]
   },
@@ -1524,8 +1524,8 @@
         "CSV": "(to be) a physical act of corruption; to do something corrupt",
         "OBJ": "(to be) what one does that is corrupt or constitutes corruption"
       },
-      "(to be) a state of legal/business/governmental corruption (e.g., accepting bribes or kickbacks, embezzling funds, back-room or under-the-table deals, quid pro quo arrangements, extortion schemes, etc.)",
-      "(to be) a state of material corruption (e.g., of data, records, process flow, etc.)"
+      "(to be) a state of legal/business/governmental corruption [e.g., accepting bribes or kickbacks, embezzling funds, back-room or under-the-table deals, quid pro quo arrangements, extortion schemes, etc.]",
+      "(to be) a state of material corruption [e.g., of data, records, process flow, etc.]"
     ],
     "notes": "This root is also used as the **CORRUPTIVE (CRP) Bias Affix**: *“How corrupt!” “What corruption!”*"
   },
@@ -1539,8 +1539,8 @@
         "CSV": "(be) a physical act of murdering",
         "OBJ": "(be) a murder victim"
       },
-      "(be) a state/act of negligent homicide (i.e., death caused by criminal negligence)",
-      "(be) a state/act of manslaughter (i.e., unintentional killing of another)"
+      "(be) a state/act of negligent homicide [i.e., death caused by criminal negligence]",
+      "(be) a state/act of manslaughter [i.e., unintentional killing of another]"
     ]
   },
   {
@@ -1572,7 +1572,7 @@
     "refers": "SEXUAL HARASSMENT / SEXUAL ASSAULT / RAPE",
     "stems": [
       {
-        "BSC": "(to be) state/act of sexual harassment against another; to sexually harass another [both the act and the state undergone by the victim",
+        "BSC": "(to be) state/act of sexual harassment against another; to sexually harass another [both the act and the state undergone by the victim]",
         "CTE": "(to be) a state of being a victim of sexual harassment",
         "CSV": "(to be) a physical act of sexually harassing; to sexually harass",
         "OBJ": "(to be) a victim of sexual harassment"
@@ -1591,8 +1591,8 @@
         "CSV": "(to be) a physical act of stealing; to steal",
         "OBJ": "(to be) the party whose property is stolen"
       },
-      "(to be) a state/act of burglary of something from someone (i.e., theft under cover of secrecy or despite security measures)",
-      "(to be) a state/act of robbery (i.e., theft under threat of, or commission of violence)"
+      "(to be) a state/act of burglary of something from someone [i.e., theft under cover of secrecy or despite security measures]",
+      "(to be) a state/act of robbery [i.e., theft under threat of, or commission of violence]"
     ]
   },
   {
@@ -1600,7 +1600,7 @@
     "refers": "EMBEZZLEMENT / LOOT / PLUNDER",
     "stems": [
       "(to be) an act embezzlement; to embezzle",
-      "(to be) a state/act of looting; to loot (i.e., to plunder private property left unprotected or undefended)",
+      "(to be) a state/act of looting; to loot [i.e., to plunder private property left unprotected or undefended]",
       "(to be) a state/act of plundering/pillaging/ransacking/spoliation; to plunder/pillage/ransack/spoliate/despoil"
     ],
     "see": "DPL"
@@ -1615,7 +1615,7 @@
         "CSV": "(to be) a physical act of kidnapping; to commit an act of kidnapping",
         "OBJ": "(to be) a kidnap victim"
       },
-      "(to be) a state/act of false imprisonment (i.e., restricting/preventing another’s freedom of movement without legal grounds to do so); to falsely imprison another",
+      "(to be) a state/act of false imprisonment [i.e., restricting/preventing another’s freedom of movement without legal grounds to do so]; to falsely imprison another",
       "(to be) a state/act of conscription; to conscript someone"
     ]
   },
@@ -1629,8 +1629,8 @@
         "CSV": "(to be) a physical act of blackmailing; to (commit) blackmail, do something that constitutes an act/state of blackmail",
         "OBJ": "(to be) the party being blackmailed"
       },
-      "(to be) a state/act of extortion (i.e., obtaining a benefit through coercion of another)",
-      "(to be) a state/act of larceny (i.e., non-consensual removal of another’s property under threat of punishment or adverse consequences)"
+      "(to be) a state/act of extortion [i.e., obtaining a benefit through coercion of another]",
+      "(to be) a state/act of larceny [i.e., non-consensual removal of another’s property under threat of punishment or adverse consequences]"
     ]
   },
   {
@@ -1652,7 +1652,7 @@
     "refers": "TRADE IN STOLEN GOODS",
     "stems": [
       {
-        "BSC": "(to be) state/act of trading in (i.e., offering/receiving) stolen goods; to trade in (i.e., engage in the transportation/receipt of) stolen goods [both the offering and accepting/receipt/possession thereof]",
+        "BSC": "(to be) state/act of trading in [i.e., offering/receiving] stolen goods; to trade in [i.e., engage in the transportation/receipt of] stolen goods [both the offering and accepting/receipt/possession thereof]",
         "CTE": "(to be) a party engaged in the possession/offering/receipt of stolen goods",
         "CSV": "(to be) a physical act of trading in stolen goods; to engage in a trade of stolen goods",
         "OBJ": "(to be) a stolen item"
@@ -1665,7 +1665,7 @@
     "root": "RDPŘ",
     "refers": "SMUGGLING",
     "stems": [
-      "(to be) an act of smuggling, to smuggle (i.e., the transportation and offering/receipt of contraband for sale or use); to deal in smuggled goods",
+      "(to be) an act of smuggling, to smuggle [i.e., the transportation and offering/receipt of contraband for sale or use]; to deal in smuggled goods",
       "(to be) a state/act of offering (for sale or use) smuggled goods; to offer (for sale or use) smuggled goods",
       "(to be) a state/act of receiving/possessing smuggled good; to possess/receive stolen goods"
     ],
@@ -1710,7 +1710,7 @@
         "OBJ": "(to be) the party whose privacy is violated"
       },
       "(to be) a state/act of stalking; to stalk",
-      "(to be) a state/act of assault (i.e., to make non-consensual physical contact with another)"
+      "(to be) a state/act of assault [i.e., to make non-consensual physical contact with another]"
     ],
     "notes": "This root lends itself to use with the EMO affix."
   }

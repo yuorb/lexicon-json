@@ -523,7 +523,7 @@
     "root": "PSK",
     "refers": "SALMONINE FISH",
     "stems": [
-      "(genus *Oncorhynchus*) Pacific salmon (i.e., Chinook, Coho, Pink, Sockeye, Chum), Pacific trout (i.e., Cutthroat, Rainbow/Steelhead)",
+      "(genus *Oncorhynchus*) Pacific salmon [i.e., Chinook, Coho, Pink, Sockeye, Chum], Pacific trout [i.e., Cutthroat, Rainbow/Steelhead]",
       "(genus *Salmo*) Atlantic salmon, Brown trout",
       "(genera *Salvelinus*, *Salvethymus*) char (including brook trout, lake trout, bull trout, Dolly Varden trout), long-finned char"
     ],

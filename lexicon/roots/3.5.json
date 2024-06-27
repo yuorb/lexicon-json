@@ -4,7 +4,7 @@
     "refers": "POSITIONALLY-DEFINED COMPONENTIAL PART",
     "stems": [
       {
-        "BSC": "positionally-defined part/section of an entity (e.g., side, front, top, bottom, rear, etc.); to be a positionally-defined part/section of an entity",
+        "BSC": "positionally-defined part/section of an entity [e.g., side, front, top, bottom, rear, etc.]; to be a positionally-defined part/section of an entity",
         "CTE": "The state/act of physically being/doing what a positionally-defined part/section of an entity is/does; to physically be/do what a positionally-defined part of an entity/is/does",
         "CSV": "A/the (relative) spatial position/location which defines/delineates a part/section of an entity; to be a/the spatial position/location which defines/delineates a part/section of an entity",
         "OBJ": "The entity of which the componential position is a part; to be the entity of which the componential part/section is a part"
@@ -56,7 +56,7 @@
   },
   {
     "root": "ẒL",
-    "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER (RUNNING VERTICALLY AND LATERALLY PARALLEL TO LONG (OR TALL) SIDE OF ENTITY",
+    "refers": "PLANAR 2-DIMENSIONAL MIDDLE, CENTER [RUNNING VERTICALLY AND LATERALLY PARALLEL TO LONG (OR TALL) SIDE OF ENTITY]",
     "see": "ŢF"
   },
   {

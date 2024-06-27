@@ -4,8 +4,8 @@
     "refers": "DIMENSIONAL ATTRIBUTE",
     "stems": [
       {
-        "BSC": "(to be) a degree of a (static) dimensional attribute (e.g., length, width, volume, etc.)",
-        "CTE": "(to be) the intrinsic nature/essence of a particular attribute (i.e., the existence of the attribute within or as part of an entity regardless of its physical manifestation ",
+        "BSC": "(to be) a degree of a (static) dimensional attribute [e.g., length, width, volume, etc.]",
+        "CTE": "(to be) the intrinsic nature/essence of a particular attribute [i.e., the existence of the attribute within or as part of an entity regardless of its physical manifestation]",
         "CSV": "(to be) the physical manifestation of a particular dimensional attribute",
         "OBJ": "(to be) the object/entity having the particular dimensional attribute"
       },
@@ -18,7 +18,7 @@
     "root": "ẒB",
     "refers": "PLANARITY/FLATNESS RELATIVE TO THE FORM OF AN OBJECT ITSELF",
     "see": "JG",
-    "notes": "i.e., the extent to which all the points of a surface are parallel to each other in the dimensional context of the surface itself, such as the surface of a blanket (regardless of whether it is folded or laid flat) or the surface of a sphere (where the sphere’s surface can be considered flat/planar from the perspective of the surface itself, regardless of the fact the sphere as a whole is not"
+    "notes": "i.e., the extent to which all the points of a surface are parallel to each other in the dimensional context of the surface itself, such as the surface of a blanket (regardless of whether it is folded or laid flat) or the surface of a sphere (where the sphere’s surface can be considered flat/planar from the perspective of the surface itself, regardless of the fact the sphere as a whole is not)"
   },
   {
     "root": "ČF",
@@ -129,7 +129,7 @@
   },
   {
     "root": "ẒḐ",
-    "refers": "LINEAR (i.e., ONE-DIMENSIONAL) CURVATURE",
+    "refers": "LINEAR [i.e., ONE-DIMENSIONAL] CURVATURE",
     "see": "JG"
   },
   {
@@ -156,8 +156,8 @@
         "CSV": "(to be) an act of physically positioning oneself or being positioned on a particular level ",
         "OBJ": " (to be) the particular physical level something or someone is positioned on"
       },
-      "(to be in) a position on a particular floor/story of a building (e.g., be on the fifth floor/story of a hotel); be on a particular floor/story of a building",
-      " (to be in) a position on a particular abstract level/tier of a series of metaphorical/abstract tiers/levels of something (e.g., “He plays at grandmaster level/tier when it comes to chess.”)"
+      "(to be in) a position on a particular floor/story of a building [e.g., be on the fifth floor/story of a hotel]; be on a particular floor/story of a building",
+      " (to be in) a position on a particular abstract level/tier of a series of metaphorical/abstract tiers/levels of something [e.g., “He plays at grandmaster level/tier when it comes to chess.”]"
     ]
   },
   {
@@ -185,7 +185,7 @@
         "OBJ": "(to be) the particular physical column something or someone is positioned in"
       },
       "(to be in) a position in a particular linear vertical column of a sequential series of front-to-back-aligned columns; to be positioned oin a particular vertical column (of a sequential series of front-to-back-aligned columns)",
-      "(to be in) a position in a vertical column (i.e., a vertical/columnar queue)"
+      "(to be in) a position in a vertical column [i.e., a vertical/columnar queue]"
     ]
   },
   {
@@ -208,13 +208,13 @@
     "refers": "REGULARITY / CLASSIFICATION / ASSORTMENT",
     "stems": [
       {
-        "BSC": " (to be) a state/act/instance of being/making regular or displaying regularity (i.e., having an expected/conventionalized/predictable pattern); be/make regular, regularize ",
+        "BSC": " (to be) a state/act/instance of being/making regular or displaying regularity [i.e., having an expected/conventionalized/predictable pattern]; be/make regular, regularize ",
         "CTE": "(to be) a state of being regular",
         "CSV": "(to be) an act/process of making something regular; to regularize",
         "OBJ": "(to be) something that is in a state of being regular or having been regularized "
       },
-      "(to be) a state/act/instance of being in or making a classification (i.e., an arranged scheme for storage-and-retrieval); to classify",
-      "(to be) a state/act/instance of being in or making an assortment (i.e., an arranged selection of members/components); to sort"
+      "(to be) a state/act/instance of being in or making a classification [i.e., an arranged scheme for storage-and-retrieval]; to classify",
+      "(to be) a state/act/instance of being in or making an assortment [i.e., an arranged selection of members/components]; to sort"
     ],
     "notes": "MORPHOLOGICAL DERIVATIVES: regularity, regulate"
   }

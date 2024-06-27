@@ -10,7 +10,7 @@
         "OBJ": "(to be) the target/victim of an object used (circumstantially) for harming/injuring/killing"
       },
       "(to be) an object/device/force designed/constructed specifically for the purpose of harming/injuring/killing a living entity; (to be) a weapon",
-      "(to be) an intangible or abstract entity used as a weapon (e.g., words, propaganda, one’s intimidating/bullying behavior, one’s passive-aggressive “game-playing”, etc.)"
+      "(to be) an intangible or abstract entity used as a weapon [e.g., words, propaganda, one’s intimidating/bullying behavior, one’s passive-aggressive “game-playing”, etc.]"
     ]
   },
   {
@@ -52,7 +52,7 @@
     "refers": "HAND-ASSOCIATED MELEE WEAPON I",
     "stems": [
       {
-        "BSC": "(to be) a particular weapon; to use (i.e., stab/cut/throw/fire, etc.) a particular weapon [Stem 1 = hand-held or hand-attached clawed or spiked weapon (e.g., tiger claws, bagh nakh)]",
+        "BSC": "(to be) a particular weapon; to use [i.e., stab/cut/throw/fire, etc.] a particular weapon [Stem 1 = hand-held or hand-attached clawed or spiked weapon [e.g., tiger claws, bagh nakh]]",
         "CTE": "(to be) a state of wielding/brandish/carrying a particular weapon",
         "CSV": "(to be) an act of physically attacking with a particular weapon",
         "OBJ": "(to be) the target/victim of a particular weapon"
@@ -75,9 +75,9 @@
     "root": "XVW",
     "refers": "HAND-ASSOCIATED MELEE WEAPON III",
     "stems": [
-      "push dagger-like weapon (e.g., katar, African finger knife",
+      "push dagger-like weapon [e.g., katar, African finger knife]",
       "emeici",
-      "wrist-knife-like weapon (e.g., larim, nyepel)"
+      "wrist-knife-like weapon [e.g., larim, nyepel]"
     ],
     "see": "XVL"
   },
@@ -85,7 +85,7 @@
     "root": "XVY",
     "refers": "HAND-ASSOCIATED MELEE WEAPON IV",
     "stems": [
-      "Japanese war fan (e.g., tessen, gunsen, gunbai)",
+      "Japanese war fan [e.g., tessen, gunsen, gunbai]",
       "Korean war fan / mubuchae",
       "other hand-held or hand-attached bladed or point-sharpened weapon"
     ],
@@ -106,7 +106,7 @@
     "refers": "SLING / BOLAS / LASSO",
     "stems": [
       "sling",
-      "bolas or bolas-like weapon (e.g., ayllo, lliwi, qilumitautit)",
+      "bolas or bolas-like weapon [e.g., ayllo, lliwi, qilumitautit]",
       "lasso / lariat"
     ],
     "see": "XVL"
@@ -115,8 +115,8 @@
     "root": "ČY",
     "refers": "CLUB / BLUDGEON",
     "stems": [
-      "club or club-like weapon (e.g., bludgeon, baseball bat, truncheon, cudgel, shillelagh, knobkerrie)",
-      "stave-like weapon (e.g., quarterstaff, bō, jousting pole)",
+      "club or club-like weapon [e.g., bludgeon, baseball bat, truncheon, cudgel, shillelagh, knobkerrie]",
+      "stave-like weapon [e.g., quarterstaff, bō, jousting pole]",
       "morning star"
     ],
     "see": "XVL"
@@ -217,7 +217,7 @@
     "stems": [
       "partisan-/ranseur-/spetum-like weapon",
       "plançon/goedendag-like weapon",
-      "sword-like weapon extension (e.g., patta, bayonet)"
+      "sword-like weapon extension [e.g., patta, bayonet]"
     ],
     "see": "XVL"
   },
@@ -247,7 +247,7 @@
     "stems": [
       "battering ram",
       "ballista",
-      "petrary (e.g., catapult, trebuchet, mangonel)"
+      "petrary [e.g., catapult, trebuchet, mangonel]"
     ],
     "see": "XVL"
   },
@@ -355,8 +355,8 @@
     "root": "LŢX",
     "refers": "CHEMICAL WEAPON",
     "stems": [
-      "noxious gas or aerosol (e.g., tear gas, pepper spray)",
-      "chemical weapon (e.g., mustard gas)",
+      "noxious gas or aerosol [e.g., tear gas, pepper spray]",
+      "chemical weapon [e.g., mustard gas]",
       "nerve gas / nerve agent"
     ],
     "see": "XVL"
@@ -375,7 +375,7 @@
     "root": "ẒVY",
     "refers": "DIRECTED ENERGY WEAPON",
     "stems": [
-      "electromagnetic energy weapon (e.g., laser-based)",
+      "electromagnetic energy weapon [e.g., laser-based]",
       "atomic particle beam",
       "“disruptor”-style weapon"
     ],
@@ -426,7 +426,7 @@
     "stems": [
       {
         "BSC": "(to be) a act/process of targeting or aiming at a target; to target, to aim (at a target)",
-        "CTE": "(to be) what one is aiming (e.g., a projectile weapon, a hand-held projectile, a basketball)",
+        "CTE": "(to be) what one is aiming [e.g., a projectile weapon, a hand-held projectile, a basketball]",
         "CSV": "(to be) an act/process of aiming, training one’s sights upon; to aim at, to target, to train one’s sights upon",
         "OBJ": "(to be) a target, what one aims at"
       },

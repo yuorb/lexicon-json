@@ -67,12 +67,12 @@
       "via language (in general, whether spoken / written / printed / signed / signaled / broadcast / published / disseminated / streamed, etc.)",
       "via spoken/vocalized language",
       "via written language; in writing [for real-time communication to be read directly by the present audience]",
-      "via publication ( = in writing for distribution to future audience)",
+      "via publication (= in writing for distribution to future audience)",
       "via electronic distribution/dissemination",
       "via gesture, pantomime",
       "via formal sign language",
       "via pictures/images",
-      "via non-linguistic vocalizations (e.g., grunts, squeals, murmuring, cries, etc.)"
+      "via non-linguistic vocalizations [e.g., grunts, squeals, murmuring, cries, etc.]"
     ]
   },
   {
@@ -140,15 +140,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "uneven/asymmetrical n–sided 2D obtusely angled form (e.g., quadrilateral pentagonoid)",
+      "uneven/asymmetrical n–sided 2D obtusely angled form [e.g., quadrilateral pentagonoid]",
       "uneven/asymmetrical n-pointed 2D acutely angled “star” formation",
       "uneven/asymmetrical n-faceted 3D solid",
-      "uneven/asymmetrical n-faced 3D solid (e.g., n-hedron-like solid)",
+      "uneven/asymmetrical n-faced 3D solid [e.g., n-hedron-like solid]",
       "having n number of 3D projections/spikes/pointed surfaces",
-      "symmetrical n-faced 3D solid (e.g., tetrahedron, dodecahedron)",
+      "symmetrical n-faced 3D solid [e.g., tetrahedron, dodecahedron]",
       "symmetrical n-faceted 3D solid",
       "symmetrical n-pointed 2D acutely angled “star” formation (can be used with numbers as low as 2, which would refer to an elongated diamond shape)",
-      "symmetrical n–sided 2D form (e.g., square, pentagon, hexagon)"
+      "symmetrical n–sided 2D form [e.g., square, pentagon, hexagon]"
     ]
   },
   {
@@ -216,15 +216,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "X-based; on the basis of X  ( = general overall basis for something, i.e., X as both the idea behind and model for something)",
-      "X-based, on the basis of X ( = as the intellectual basis for, X as the idea behind something)",
-      "X-based; modeled upon/after X ( = in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
+      "X-based; on the basis of X  (= general overall basis for something, i.e., X as both the idea behind and model for something)",
+      "X-based, on the basis of X (= as the intellectual basis for, X as the idea behind something)",
+      "X-based; modeled upon/after X (= in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
       "X-derived, derived from X",
       "X-patterned/arranged (not in visual shape/form, but in structural arrangement or structural principles; for visual shape/form patterning, see SHP affix)",
       "X-inspired, inspired by X",
       "X-driven, driven/powered by X",
       "motivated by X",
-      "X-triggered; triggered by X ( = X as unwitting/non-causative stimulus for action)"
+      "X-triggered; triggered by X (= X as unwitting/non-causative stimulus for action)"
     ]
   },
   {
@@ -237,11 +237,11 @@
       null,
       "having the 2-D shape of X; shaped like (an) X",
       "somewhat or sort of like the 2-D shape of X; reminiscent of the 2-D shape of X",
-      "2-D figure ( = outlined/contoured representation) of X",
+      "2-D figure (= outlined/contoured representation) of X",
       "2-D mold / “stamp” of X",
       "X-pattern(ed); patterned like/after X (visual shape/pattern/form only; for structural pattern/arrangement, see BAS affix)",
       "3-D mold/cast of X",
-      "3-D figure ( = outlined/conoured representation) of X",
+      "3-D figure (= outlined/conoured representation) of X",
       "somewhat or sort of like the 3-D form/shape of X; reminiscent of the 3-D shape/form of X",
       "having/mimicking the 3-D form/shape of X; formed like or modeled after X"
     ]
@@ -260,9 +260,9 @@
       "curved away from right-angled/rectilinear orientation",
       "truncated at small/pointed/shorter/smaller end at angle parallel to base",
       "truncated at small/pointed/shorter/smaller end at oblique angle to base",
-      "a quasi-planar longitudinal (i.e., perpendicular to base) slice through 3-D form X",
+      "a quasi-planar longitudinal [i.e., perpendicular to base] slice through 3-D form X",
       "a quasi-planar oblique slice through 3-D form/shape X",
-      "a quasi-planar latitudinal (i.e., parallel to base) slice through 3-D form X"
+      "a quasi-planar latitudinal [i.e., parallel to base] slice through 3-D form X"
     ]
   },
   {
@@ -277,7 +277,7 @@
       "symmetrical 3D polyhedron having X-number of quadrilateral faces",
       "symmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
       "symmetrical 3D polyhedron having X-number of mixed polygonal faces",
-      "a 3D form/object whose 2-dimensional/planar outline shape (i.e., against a background) is X",
+      "a 3D form/object whose 2-dimensional/planar outline shape [i.e., against a background] is X",
       "asymmetrical 3D polyhedron having X-number of mixed polygonal faces",
       "asymmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
       "asymmetrical 3D polyhedron having X-number of quadrilateral faces",
@@ -319,7 +319,7 @@
       "horizontally striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
       "vertically & horizontally cross-hatched",
       "diagonally cross-hatched; diamond-patterned",
-      "grid-like, screen-like ( = fine-grained cross-hatching)"
+      "grid-like, screen-like (= fine-grained cross-hatching)"
     ]
   },
   {
@@ -368,14 +368,14 @@
     "associated_root": false,
     "degrees": [
       null,
-      "having a full-blood relationship (i.e., genetically related through both parents)",
-      "half-related (e.g., half-sister, half-cousin), (i.e., genetically related through one parent only)",
-      "paternally related (i.e., through one’s own genetic father)",
-      "maternally related (i.e., through one’s own genetic mother)",
-      "double-relation (i.e., related through both parents via the mating of a set of siblings from one family with a set of siblings of another family)",
-      "in-law relation (i.e., non-blood relation through marriage only)",
-      "parallel-related (i.e., related through a parent’s sibling of the same gender as the parent)",
-      "cross-related (i.e., related through a parent’s sibling of a different gender than the parent)",
+      "having a full-blood relationship [i.e., genetically related through both parents]",
+      "half-related [e.g., half-sister, half-cousin], [i.e., genetically related through one parent only]",
+      "paternally related [i.e., through one’s own genetic father]",
+      "maternally related [i.e., through one’s own genetic mother]",
+      "double-relation [i.e., related through both parents via the mating of a set of siblings from one family with a set of siblings of another family]",
+      "in-law relation [i.e., non-blood relation through marriage only]",
+      "parallel-related [i.e., related through a parent’s sibling of the same gender as the parent]",
+      "cross-related [i.e., related through a parent’s sibling of a different gender than the parent]",
       "legally adopted relation (no genetic relation)"
     ]
   },
@@ -387,15 +387,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "of one’s previous generation ( i.e., “once removed (upward)”)",
-      "of two generations previous (i.e., “grand-”, “twice removed (upward)”)",
-      "of three generations previous (i.e., “great grand-”, “three times removed (upward)”)",
+      "of one’s previous generation [i.e., “once removed (upward)”]",
+      "of two generations previous [i.e., “grand-”, “twice removed (upward)”]",
+      "of three generations previous [i.e., “great grand-”, “three times removed (upward)”]",
       "foster relationship",
       "common law relationship",
-      "“god-” relative or other pseudo-familial relationship (i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent)",
-      "of three generations later (i.e., “great grand-”, “three times removed (downward)”)",
-      "of two generations later (i.e., “grand-”, “twice removed (downward)”)",
-      "of one’s subsequent generation ( i.e., “once removed (downward)”)"
+      "“god-” relative or other pseudo-familial relationship [i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent]",
+      "of three generations later [i.e., “great grand-”, “three times removed (downward)”]",
+      "of two generations later [i.e., “grand-”, “twice removed (downward)”]",
+      "of one’s subsequent generation [i.e., “once removed (downward)”]"
     ]
   },
   {
@@ -410,9 +410,9 @@
       "and not even occurring to one to evaluate/consider (a) point(s) of view other than one’s own",
       "with alternate point(s) of view blindly dismissed as irrelevant or having no value before even being considered",
       "with consideration given to alternate point(s) of view but dismissed because one’s own point of view is intransigent/non-negotiable",
-      "with potential seen in other point(s) of view leading to possible tolerance of each other’s viewpoint (i.e., “live and let live” solution)",
-      "with potential seen in other point(s) of view as basis for compromise solution (i.e., where each party makes concessions)",
-      "with potential seen in other point(s) of view as basis for win-win outcome (i.e., where both solutions together are mutually advantageous)",
+      "with potential seen in other point(s) of view leading to possible tolerance of each other’s viewpoint [i.e., “live and let live” solution]",
+      "with potential seen in other point(s) of view as basis for compromise solution [i.e., where each party makes concessions]",
+      "with potential seen in other point(s) of view as basis for win-win outcome [i.e., where both solutions together are mutually advantageous]",
       "with potential seen in other point(s) of view as basis for conceding one’s own point of view partially in favor of alternate point(s) of view",
       "with potential seen in other point(s) of view as basis for conceding one’s own point of view entirely in favor of alternate point(s) of view"
     ]
@@ -438,7 +438,7 @@
   },
   {
     "name": "EGY",
-    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State (i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:)",
+    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State [i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:]",
     "gradient_type": "0",
     "cs": "kz",
     "associated_root": false,
@@ -457,7 +457,7 @@
   },
   {
     "name": "SEX",
-    "description": "Biological (i.e., genetically-determined) Sex",
+    "description": "Biological [i.e., genetically-determined] Sex",
     "gradient_type": "D1",
     "cs": "š",
     "associated_root": true,
@@ -476,7 +476,7 @@
   },
   {
     "name": "GID",
-    "description": "Gender Identity (i.e., one’s chosen identification in relation to sex)",
+    "description": "Gender Identity [i.e., one’s chosen identification in relation to sex]",
     "gradient_type": "D1",
     "cs": "c",
     "associated_root": false,
@@ -485,7 +485,7 @@
       "female (gender identity, not necessarily biological sex)",
       "intergender / androgynous (gender identity, not necessarily biological sex)",
       "male (gender identity, not necessarily biological sex)",
-      "third gender (e.g., hijra, māhū, fakaleiti, fa’afafine)",
+      "third gender [e.g., hijra, māhū, fakaleiti, fa’afafine]",
       "non-binary gender identification",
       "genderfluid, of varying gender identification",
       "bigender, of multiple genders simultaneously",
@@ -590,21 +590,21 @@
   },
   {
     "name": "STF",
-    "description": "Miscellaneous Surface Textures or Formations (e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.)",
+    "description": "Miscellaneous Surface Textures or Formations [e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.]",
     "gradient_type": "0",
     "cs": "žv",
     "associated_root": false,
     "degrees": [
       null,
-      "fruticose (i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down)",
-      "foliose (i.e. structured/formed in 2D flat leaf-like lobes)",
-      "crustose (i.e. crust-like, adhering tightly to a surface/substrate like a thick coat of paint)",
-      "squamulose (i.e. formed of small leaf-like scales crust-like below but free at the tips)",
-      "leprose (i.e., powdery)",
-      "gelatinous (i.e. jelly-like)",
-      "filamentous (i.e. stringy or like matted hair)",
-      "byssoid (i.e. wispy, like teased wool or cotton candy)",
-      "imprinted (i.e. visibly distinct/different from the rest of the surface or substrate but texturally indistinct and imbued into and unseparable from the substrate)"
+      "fruticose [i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down]",
+      "foliose [i.e. structured/formed in 2D flat leaf-like lobes]",
+      "crustose [i.e. crust-like, adhering tightly to a surface/substrate like a thick coat of paint]",
+      "squamulose [i.e. formed of small leaf-like scales crust-like below but free at the tips]",
+      "leprose [i.e., powdery]",
+      "gelatinous [i.e. jelly-like]",
+      "filamentous [i.e. stringy or like matted hair]",
+      "byssoid [i.e. wispy, like teased wool or cotton candy]",
+      "imprinted [i.e. visibly distinct/different from the rest of the surface or substrate but texturally indistinct and imbued into and unseparable from the substrate]"
     ]
   },
   {
@@ -616,12 +616,12 @@
     "degrees": [
       null,
       "instrument is non-pitched",
-      "instrument has a (quasi-) fixed pitch but is untunable",
+      "instrument has a (quasi-)fixed pitch but is untunable",
       "instrument is tunable to a fixed pitch",
-      "instrument is tunable and capable of a controllable range of pitches while being played (e.g., talking drum, banyan drum of a set of tabla, cuica, etc.)",
-      "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch (e.g., tongue drum, steel drum)",
+      "instrument is tunable and capable of a controllable range of pitches while being played [e.g., talking drum, banyan drum of a set of tabla, cuica, etc.]",
+      "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch [e.g., tongue drum, steel drum]",
       "instrument is a set of tunable individual component instruments, each set/tunable to a distinct pitch",
-      "instrument is playable/played using multiple modes of contact (e.g., with both hand or stick, by both bow and hand, by striking and rubbing, etc.)",
+      "instrument is playable/played using multiple modes of contact [e.g., with both hand or stick, by both bow and hand, by striking and rubbing, etc.]",
       "instrument’s primary interface is via a keyboard or set of patterned buttons which trigger the actual striking/plucking/air-flow sounding mechanism",
       "instrument is electrically/electronically amplified"
     ]
@@ -899,15 +899,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)",
-      "originating in, indigenous to, or associated w/ traditional/ancient western mainland Southeast Asia (i.e., Thailand, Myanmar)",
-      "originating in, indigenous to, or associated w/ traditional/ancient East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
+      "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia [i.e., Vietnam, Laos, Cambodia]",
+      "originating in, indigenous to, or associated w/ traditional/ancient western mainland Southeast Asia [i.e., Thailand, Myanmar]",
+      "originating in, indigenous to, or associated w/ traditional/ancient East Asian archipelago [i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea]",
       "originating in, indigenous to, or associated w/ traditional/ancient Philippines",
       "originating in, indigenous to, or associated w/ Southeast Asia/East Indies",
       "originating in, indigenous to, or associated w/ contemporary Philippines",
-      "originating in, indigenous to, or associated w/ contemporary East Asian archipelago (i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea)",
-      "originating in, indigenous to, or associated w/ contemporary western mainland Southeast Asia (i.e., Thailand, Myanmar)",
-      "originating in, indigenous to, or associated w/ contemporary eastern mainland Southeast Asia (i.e., Vietnam, Laos, Cambodia)"
+      "originating in, indigenous to, or associated w/ contemporary East Asian archipelago [i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea]",
+      "originating in, indigenous to, or associated w/ contemporary western mainland Southeast Asia [i.e., Thailand, Myanmar]",
+      "originating in, indigenous to, or associated w/ contemporary eastern mainland Southeast Asia [i.e., Vietnam, Laos, Cambodia]"
     ]
   },
   {
@@ -921,10 +921,10 @@
       "originating in, indigenous to, or associated w/ traditional/ancient Tibet",
       "originating in, indigenous to, or associated w/ traditional/ancient Mongolia",
       "originating in, indigenous to, or associated w/ traditional/ancient Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen",
-      "originating in, indigenous to, or associated w/ traditional/ancient post-expansion non-Turkic Central Asian cultures (i.e., Tajiks, Dari, Bukhori)",
+      "originating in, indigenous to, or associated w/ traditional/ancient post-expansion non-Turkic Central Asian cultures [i.e., Tajiks, Dari, Bukhori]",
       "originating in, indigenous to, or associated w/ Central Asia",
-      "originating in, indigenous to, or associated w/ contemporary non-Turkic Central Asian countries/cultures (i.e., Tajiks, Dari, Bukhori)",
-      "originating in, indigenous to, or associated w/ contemporary Turkic Central Asian countries/cultures(i.e., Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen)",
+      "originating in, indigenous to, or associated w/ contemporary non-Turkic Central Asian countries/cultures [i.e., Tajiks, Dari, Bukhori]",
+      "originating in, indigenous to, or associated w/ contemporary Turkic Central Asian countries/cultures[i.e., Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen]",
       "originating in, indigenous to, or associated w/ contemporary Mongolia",
       "originating in, indigenous to, or associated w/ contemporary Tibet"
     ]
@@ -944,8 +944,8 @@
       "originating in, indigenous to, or associated w/ Middle East",
       "originating in, indigenous to, or associated w/ contemporary Israel & Palestine",
       "originating in, indigenous to, or associated w/ contemporary Turkey and Cyprus",
-      "originating in, indigenous to, or associated w/ contemporary Levantine and Fertile Crescent countries/cultures (i.e., Syria, Lebanon, Iraq, Iran, Kurdistan)",
-      "originating in, indigenous to, or associated w/ contemporary Arabian Peninsula (i.e., Saudi Arabia, Oman, Yemen, UAE, Bahrain, Qatar)"
+      "originating in, indigenous to, or associated w/ contemporary Levantine and Fertile Crescent countries/cultures [i.e., Syria, Lebanon, Iraq, Iran, Kurdistan]",
+      "originating in, indigenous to, or associated w/ contemporary Arabian Peninsula [i.e., Saudi Arabia, Oman, Yemen, UAE, Bahrain, Qatar]"
     ]
   },
   {
@@ -961,9 +961,9 @@
       "originating in, indigenous to, or associated w/ traditional/ancient North Africa/Maghreb",
       "originating in, indigenous to, or associated w/ traditional/ancient Saharan Africa",
       "originating in, indigenous to, or associated w/ Northern and Eastern Horn of Africa",
-      "originating in, indigenous to, or associated w/ contemporary Saharan Africa (i.e., Mauritania, Mali, Niger, Burkina Faso, Chad, Sudan)",
+      "originating in, indigenous to, or associated w/ contemporary Saharan Africa [i.e., Mauritania, Mali, Niger, Burkina Faso, Chad, Sudan]",
       "originating in, indigenous to, or associated w/ contemporary North Africa/Maghreb",
-      "originating in, indigenous to, or associated w/ contemporary Horn of Africa (i.e., Ethiopia, Somalia, Eritrea, Djibouti)",
+      "originating in, indigenous to, or associated w/ contemporary Horn of Africa [i.e., Ethiopia, Somalia, Eritrea, Djibouti]",
       "originating in, indigenous to, or associated w/ contemporary Egypt and Nile Valley"
     ]
   },
@@ -978,12 +978,12 @@
       "originating in, indigenous to, or associated w/ traditional/ancient West Coast and Benin Coast of Africa",
       "originating in, indigenous to, or associated w/ traditional/ancient Central Africa",
       "originating in, indigenous to, or associated w/ traditional/ancient Southern Africa",
-      "originating in, indigenous to, or associated w/ traditional/ancient East African Islands (i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.)",
+      "originating in, indigenous to, or associated w/ traditional/ancient East African Islands [i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.]",
       "originating in, indigenous to, or associated w/ Sub-Saharan Africa",
-      "originating in, indigenous to, or associated w/ contemporary East African Islands (i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.)",
-      "originating in, indigenous to, or associated w/ contemporary Southern Africa (e.g., Namibia, South Africa, Lesotho, Mozambique. Zimbabwe, Zambia, Angola, Malawi)",
-      "originating in, indigenous to, or associated w/ contemporary Central Africa (i.e., Cameroon Central African Republic, Gabon, Congo, DRC, Rwanda, Uganda, Kenya)",
-      "originating in, indigenous to, or associated w/ contemporary West Coast and Benin Coast of Africa (i.e., countries from Senegal to Nigeria)"
+      "originating in, indigenous to, or associated w/ contemporary East African Islands [i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.]",
+      "originating in, indigenous to, or associated w/ contemporary Southern Africa [e.g., Namibia, South Africa, Lesotho, Mozambique. Zimbabwe, Zambia, Angola, Malawi]",
+      "originating in, indigenous to, or associated w/ contemporary Central Africa [i.e., Cameroon Central African Republic, Gabon, Congo, DRC, Rwanda, Uganda, Kenya]",
+      "originating in, indigenous to, or associated w/ contemporary West Coast and Benin Coast of Africa [i.e., countries from Senegal to Nigeria]"
     ]
   },
   {
@@ -1002,7 +1002,7 @@
       "originating in, indigenous to, or associated w/ contemporary Hungary",
       "originating in, indigenous to, or associated w/ contemporary Baltic countries (Estonia, Finland, Latvia, Lithuania)",
       "originating in, indigenous to, or associated w/ contemporary Teutonic Europe (England, Teutonic Scandinavia, Germany, Low countries, Switzerland, Austria)",
-      "originating in, indigenous to, or associated w/ contemporary Celtic Europe (i.e., Ireland, Scotland, Wales, Brittany, Manx)"
+      "originating in, indigenous to, or associated w/ contemporary Celtic Europe [i.e., Ireland, Scotland, Wales, Brittany, Manx]"
     ]
   },
   {
@@ -1016,12 +1016,12 @@
       "originating in, indigenous to, or associated w/ traditional/ancient Roman Empire, Iberia, France, Greece, Sicily, Corsica, Sardinia, Malta",
       "originating in, indigenous to, or associated w/ traditional/ancient Balkans (southeastern Europe, Romania)",
       "originating in, indigenous to, or associated w/ traditional/ancient Eastern/Slavic Europe other than the Balkans",
-      "originating in, indigenous to, or associated w/ traditional/ancient Caucasus/Caspian/Trans-Caucasia (e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia)",
+      "originating in, indigenous to, or associated w/ traditional/ancient Caucasus/Caspian/Trans-Caucasia [e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia]",
       "originating in, indigenous to, or associated w/ Southern and Eastern Europe",
-      "originating in, indigenous to, or associated w/ contemporary Caucasus/Caspian/Trans-Caucasia (e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia)",
-      "originating in, indigenous to, or associated w/ contemporary Eastern/Slavic Europe other than the Balkans (e.g., Russia, Ukraine, Belarus, Poland, Czechia, Slovakia)",
+      "originating in, indigenous to, or associated w/ contemporary Caucasus/Caspian/Trans-Caucasia [e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia]",
+      "originating in, indigenous to, or associated w/ contemporary Eastern/Slavic Europe other than the Balkans [e.g., Russia, Ukraine, Belarus, Poland, Czechia, Slovakia]",
       "originating in, indigenous to, or associated w/ contemporary Balkans (Croatia, Serbia, Slovenia, Montenegro, Bosnia, Bulgaria, N. Macedonia, Romania, Moldova)",
-      "originating in, indigenous to, or associated w/ contemporary Mediterranean Europe (i.e., Iberian Peninsula, Italy, Greece, the Balkan coast, Mediterranean islands)"
+      "originating in, indigenous to, or associated w/ contemporary Mediterranean Europe [i.e., Iberian Peninsula, Italy, Greece, the Balkan coast, Mediterranean islands]"
     ]
   },
   {
@@ -1320,7 +1320,7 @@
     "degrees": [
       null,
       "-ate (base oxyanion), e.g., sulfate",
-      "-ite (i.e., one less oxyanion than base form), e.g., sulfite",
+      "-ite [i.e., one less oxyanion than base form], e.g., sulfite",
       "hypo- … -ite (two less oxyanions than base form), e.g., hyposulfite",
       "per- … -ate (one more oxyanion than base form), e.g., persulfate",
       "-ide (anionic element where electron charge not specified), e.g., sulfide",

@@ -29,18 +29,18 @@
     "refers": "PHYSICAL DISABILITY DUE TO INJURY",
     "stems": [
       {
-        "BSC": "(to be) a state of living with a static/permanent physical or mental disability (i.e., not disease-related, e.g., missing a limb, paralysis due to a war injury, blindness due to an accident, etc.)",
-        "CTE": "(to be) a state of physical disability (i.e., not having all of one’s potential abilities)",
+        "BSC": "(to be) a state of living with a static/permanent physical or mental disability [i.e., not disease-related, e.g., missing a limb, paralysis due to a war injury, blindness due to an accident, etc.]",
+        "CTE": "(to be) a state of physical disability [i.e., not having all of one’s potential abilities]",
         "CSV": "(to be) a state of suffering/enduring/dealing with the effect(s) of a disability",
         "OBJ": "(to be) the disability itself"
       },
-      "(to be) a state of living with a temporary physical or mental disability (i.e., not disease-related, e.g., a broken leg, blindness while recovering from eye surgery, etc.)",
+      "(to be) a state of living with a temporary physical or mental disability [i.e., not disease-related, e.g., a broken leg, blindness while recovering from eye surgery, etc.]",
       "(to be) a state of using/living with a prosthetic or adaptive device or process or routine to compensate for a physical disability"
     ]
   },
   {
     "root": "MŠK",
-    "refers": "infectious (i.e., microbial) illness/disease",
+    "refers": "infectious [i.e., microbial] illness/disease",
     "see": "ÇK"
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "root": "MŠKL",
-    "refers": "disease/malady caused by adverse personal habits (e.g., smoking, diet, sloth, etc.)",
+    "refers": "disease/malady caused by adverse personal habits [e.g., smoking, diet, sloth, etc.]",
     "see": "ÇK"
   },
   {
@@ -65,7 +65,7 @@
   },
   {
     "root": "MŠKŘ",
-    "refers": "neoplastic disorder/malady (i.e., cancer)",
+    "refers": "neoplastic disorder/malady [i.e., cancer]",
     "see": "ÇK"
   },
   {
@@ -194,8 +194,8 @@
     "root": "JDŘ",
     "refers": "organ failure / arrest / hyperactivity",
     "stems": [
-      "organ failure (i.e., insufficiency)",
-      "organ arrest (i.e., complete shutdown)",
+      "organ failure [i.e., insufficiency]",
+      "organ arrest [i.e., complete shutdown]",
       "organ hyperactivity"
     ],
     "see": "ÇK"
@@ -299,13 +299,13 @@
     "refers": "CAUSE OF AN ILLNESS / SICKNESS / DISEASE / MALADY / AILMENT",
     "stems": [
       {
-        "BSC": "(to be) the pathogenic or toxicological cause of an illness/disease/ailment/sickness/malady (e.g., microbial, toxic substance, venom)",
+        "BSC": "(to be) the pathogenic or toxicological cause of an illness/disease/ailment/sickness/malady [e.g., microbial, toxic substance, venom]",
         "CTE": "(to be) a state of infection/exposure to a pathogen/poison/venom",
         "CSV": "(to be) an act of contracting or being exposed to a pathogen/poison/venom",
         "OBJ": "(to be) the microbe, poison, venom, toxic substance involved"
       },
-      "(to be) the idiopathic/congenital cause of an illness/disease/ailment/sickness/malady (e.g., the cause(s) of cancer, autoimmune disorder, mental illness, Type-1 diabetes)",
-      "(to be) the iatrogenic or lifestyle/behavioral/environmental cause of an illness/disease/ailment/sickness/malady (e.g., smoking, gluttony, heatstroke, hypoxia due to living at high altitude, alcoholism, drug addiction, botched surgery, bodily injury)"
+      "(to be) the idiopathic/congenital cause of an illness/disease/ailment/sickness/malady [e.g., the cause(s) of cancer, autoimmune disorder, mental illness, Type-1 diabetes]",
+      "(to be) the iatrogenic or lifestyle/behavioral/environmental cause of an illness/disease/ailment/sickness/malady [e.g., smoking, gluttony, heatstroke, hypoxia due to living at high altitude, alcoholism, drug addiction, botched surgery, bodily injury]"
     ]
   }
 ]

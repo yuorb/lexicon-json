@@ -9,7 +9,7 @@
         "CSV": "(to be) an act of touching; to touch, to feel (tactilely); to engage one’s tactile sense",
         "OBJ": "(to be) the entity/object one touches/feels"
       },
-      "(to be) one’s tactile organ(s) (i.e., the epidermal layer of the body as tactile sensor)",
+      "(to be) one’s tactile organ(s) [i.e., the epidermal layer of the body as tactile sensor]",
       "(to be a) the tactile faculty; sense of touch"
     ],
     "notes": "The meaning of the old FORMAL stems previously associated with this root can be expressed by the following: for Stems 1 and 3, use appropriate Transrelative case marking for the arguments/participants; for Stem 2 use the MEC affix."
@@ -21,8 +21,8 @@
       {
         "BSC": "(to be) something having a chunky texture or tactile sensation (chunk-like, irregular/coarse pieces one can easily hold between thumb and forefinger)",
         "CTE": "(to be/have) a chunky texture or tactile sensation",
-        "CSV": "(to be) the chunky texture or tactile sensation perceived and being identifiable as a particular texture or tactile sensation (i.e., the texture or tactile sensation of something known)",
-        "OBJ": "(to be) an object/entity having a chunky texture or tactile sensation (e.g., “the chunky-feeling one”)"
+        "CSV": "(to be) the chunky texture or tactile sensation perceived and being identifiable as a particular texture or tactile sensation [i.e., the texture or tactile sensation of something known]",
+        "OBJ": "(to be) an object/entity having a chunky texture or tactile sensation [e.g., “the chunky-feeling one”]"
       },
       "gravel-like sensation",
       "coarse/gritty sensation like sand"
@@ -82,7 +82,7 @@
     "root": "GC",
     "refers": "SOLID BUT MALLEABLE TEXTURE",
     "stems": [
-      "solid but malleable/bendable texture (e.g., like a piece of wire or thin piece of copper plating)",
+      "solid but malleable/bendable texture [e.g., like a piece of wire or thin piece of copper plating]",
       "plastic-like texture",
       "cartilaginous texture"
     ],
@@ -134,7 +134,7 @@
     "stems": [
       "dusty, soot-like or ash-like texture",
       "powdery",
-      "smooth granular (e.g., processed granules)"
+      "smooth granular [e.g., processed granules]"
     ],
     "see": "GS"
   },
@@ -222,8 +222,8 @@
     "root": "SB",
     "refers": "SMOOTH / ROUNDED TEXTURE",
     "stems": [
-      "smooth (i.e., having no discernible surface changes/irregularities/indentations",
-      "rounded / knobbed (e.g., a doorknob)",
+      "smooth [i.e., having no discernible surface changes/irregularities/indentations]s",
+      "rounded / knobbed [e.g., a doorknob]",
       "dull / blunt"
     ],
     "see": "GS"
@@ -244,7 +244,7 @@
     "stems": [
       "point-like, needle-like sharpness",
       "blade-like sharpness",
-      "sharpness of an irregular edge (e.g., broken glass)"
+      "sharpness of an irregular edge [e.g., broken glass]"
     ],
     "see": "GS"
   },

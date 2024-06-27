@@ -24,7 +24,7 @@
         "OBJ": "(to be) the orbit(al path) of the planet Earth/Terra"
       },
       "(to be) the Moon/Luna",
-      "(to be) one of the named asteroids or micro-planets of the solar system (e.g., Pluto, Ceres, Juno, Sedna, etc.)"
+      "(to be) one of the named asteroids or micro-planets of the solar system [e.g., Pluto, Ceres, Juno, Sedna, etc.]"
     ]
   },
   {
@@ -52,7 +52,7 @@
         "OBJ": "(to be) the location in space of the Sun/Sol relative to other astral bodies"
       },
       "(to be) a named comet",
-      "(to be) a named small asteroid/planetesimal (e.g., Eros)"
+      "(to be) a named small asteroid/planetesimal [e.g., Eros]"
     ]
   },
   {
@@ -60,13 +60,13 @@
     "refers": "NEBULA",
     "stems": [
       {
-        "BSC": "(to be) a gas-based emission-type nebula or volume of nebulosity in interstellar space (i.e. cloud in space of of high-temperature and/or ionized gas, e.g., an H II region or Herbig-Haro object)",
+        "BSC": "(to be) a gas-based emission-type nebula or volume of nebulosity in interstellar space [i.e. cloud in space of of high-temperature and/or ionized gas, e.g., an H II region or Herbig-Haro object]",
         "CTE": "(to be) a state of a gaseousness/nebulosity in a gas-based nebula",
         "CSV": "(to be) the physical body/mass constituting a gas-based nebula",
         "OBJ": "(to be) the location in space of a (relative to other celestial bodies) of a gas-based nebula"
       },
-      "(to be) a reflection nebula or dark nebulae (i.e., cloud of dust in space, whether reflecting or blocking light from another source)",
-      "(to be) a planetary nebula (i.e., gaseous cloud thrown out by a star at the end of its life) [CPT = supernova remnant nebula]"
+      "(to be) a reflection nebula or dark nebulae [i.e., cloud of dust in space, whether reflecting or blocking light from another source]",
+      "(to be) a planetary nebula [i.e., gaseous cloud thrown out by a star at the end of its life] [CPT = supernova remnant nebula]"
     ]
   },
   {
@@ -74,12 +74,12 @@
     "refers": "CELESTIAL SPACE / CELESTIAL MEDIUM",
     "stems": [
       {
-        "BSC": "(to be) a volume of celestial (i.e., interplanetary, interstellar/intergalactic) space; to be (situated) in space",
+        "BSC": "(to be) a volume of celestial [i.e., interplanetary, interstellar/intergalactic] space; to be (situated) in space",
         "CTE": "(to be) the state/quality of three-dimensional “spaciousness” or “room” within a volume of celestial space",
         "CSV": "(to be) the physical body/structure/medium of celestial space; to occur or be situated in celestial space",
         "OBJ": "(to be) a location in space (relative to celestial bodies within that space)"
       },
-      "(to be) a naturally occurring physical material filling or contained within a volume of celestial space (e.g., cosmic dust, plasma or ionized clouds of hydrogen or helium, etc.)",
+      "(to be) a naturally occurring physical material filling or contained within a volume of celestial space [e.g., cosmic dust, plasma or ionized clouds of hydrogen or helium, etc.]",
       "(to be) a magnetic or energy-based field occurring in or contained within a volume of celestial space"
     ]
   },
@@ -105,10 +105,10 @@
         "BSC": "(to be) an atom",
         "CTE": "(to be) the state of an atom in terms of its interaction (or lack thereof) with other atoms; for an atom to interact (via atomic bonding) with other atoms",
         "CSV": "(to be) the tangible/physical “embodiment”/manifestation of an atom",
-        "OBJ": "(to be) a component/attribute/aspect of an atom (i.e., a particle, a charge, a force, etc.)"
+        "OBJ": "(to be) a component/attribute/aspect of an atom [i.e., a particle, a charge, a force, etc.]"
       },
-      "(to be) the electron cloud of an atom (i.e., set of electron shells with “orbiting” electrons) of an atom",
-      "(to be) an orbital state (i.e., state and behavior of an electron based on its orbital probability distribution)"
+      "(to be) the electron cloud of an atom [i.e., set of electron shells with “orbiting” electrons] of an atom",
+      "(to be) an orbital state [i.e., state and behavior of an electron based on its orbital probability distribution]"
     ]
   },
   {
@@ -119,9 +119,9 @@
         "BSC": "(to be) the nucleus of an atom",
         "CTE": "(to be) the state of an atomic nucleus in terms of its interaction (or lack thereof) with other atoms; for an atom to interact (via atomic bonding) with other atoms",
         "CSV": "(to be) the tangible/physical “embodiment”/manifestation of an atomic nucleus",
-        "OBJ": "(to be) a component/attribute/aspect of an atomic nucleus (i.e., a particle, a charge, a force, etc.)"
+        "OBJ": "(to be) a component/attribute/aspect of an atomic nucleus [i.e., a particle, a charge, a force, etc.]"
       },
-      "(to be) a nuclide (i.e., specific configuration of Z- value, N-value, and energy state for a particular atomic nucleus)",
+      "(to be) a nuclide [i.e., specific configuration of Z- value, N-value, and energy state for a particular atomic nucleus]",
       {
         "BSC": "(to be) a state/process of nucleosynthesis resulting in an atomic nucleus",
         "CTE": "(to be) state which gives rise to nucleosynthesis",
@@ -136,12 +136,12 @@
     "stems": [
       {
         "BSC": "(to be) a sub-atomic particle",
-        "CTE": "(to be) the sub-atomic state or “force” (i.e., interaction) mediated or maintained by a sub- atomic particle",
+        "CTE": "(to be) the sub-atomic state or “force” [i.e., interaction] mediated or maintained by a sub- atomic particle",
         "CSV": "(to be) the tangible/physical “embodiment”/manifestation/“stuff” of a sub-atomic particle",
-        "OBJ": "(to be) an attribute of sub-atomic particle (e.g., mass, charge, spin, angular momentum, etc.)"
+        "OBJ": "(to be) an attribute of sub-atomic particle [e.g., mass, charge, spin, angular momentum, etc.]"
       },
-      "(to be) an elementary particle (i.e., fermion or boson)",
-      "(to be) a composite particle (i.e., a hadron, whether baryon or meson)"
+      "(to be) an elementary particle [i.e., fermion or boson]",
+      "(to be) a composite particle [i.e., a hadron, whether baryon or meson]"
     ]
   },
   {
@@ -175,7 +175,7 @@
     "stems": [
       "boson",
       "“string” (from string theory) [CTE Specification = vibration of “string”]",
-      "acceleron (i.e., hypothetical particle associated with dark energy theory)"
+      "acceleron [i.e., hypothetical particle associated with dark energy theory]"
     ],
     "see": "LŢK"
   },
@@ -188,7 +188,7 @@
   {
     "root": "LŢKŢ",
     "refers": "HIGGS BOSON / MUON / TAUON",
-    "stems": ["Higgs boson", "muon", "tauon (i.e., tau lepton)"],
+    "stems": ["Higgs boson", "muon", "tauon [i.e., tau lepton]"],
     "see": "LŢK"
   },
   {
@@ -246,13 +246,13 @@
     "refers": "WAVE / WAVE-FRONT / STANDING WAVE",
     "stems": [
       {
-        "BSC": "(to be) a mechanical wave; to move/propagate/act as a mechanical wave (e.g., sound, water, seismic, surface, string vibration, etc.) [i.e., propagated oscillations through a medium]",
+        "BSC": "(to be) a mechanical wave; to move/propagate/act as a mechanical wave [e.g., sound, water, seismic, surface, string vibration, etc.] [i.e., propagated oscillations through a medium]",
         "CTE": "(to be) the state of oscillation/vibration which makes up a wave",
         "CSV": "(to be) an act/process of generating a wave; to generate a wave",
         "OBJ": "(to be) a wave-front, the leading edge of a wave phenomenon"
       },
-      "(to be) an electromagnetic or other non-mechanical wave; to move/propagate/act as an electro-magnetic wave (e.g., visible light, radio, ultraviolet, infrared, x-ray, gamma ray, gravitational wave, reaction-diffusion wave, quantum probability wave, etc.)",
-      "(to be) a standing wave (e.g., a plucked string of a violin vibrating); to vibrate as a standing wave"
+      "(to be) an electromagnetic or other non-mechanical wave; to move/propagate/act as an electro-magnetic wave [e.g., visible light, radio, ultraviolet, infrared, x-ray, gamma ray, gravitational wave, reaction-diffusion wave, quantum probability wave, etc.]",
+      "(to be) a standing wave [e.g., a plucked string of a violin vibrating]; to vibrate as a standing wave"
     ]
   },
   {
@@ -274,13 +274,13 @@
     "refers": "AIR",
     "stems": [
       {
-        "BSC": "(to be) the state/act/process of there being air in a particular spatio-temporal location (i.e., the standard combination of nitrogen/oxygen/argon/CO₂, etc. that constitutes the breathable atmosphere of Earth)",
+        "BSC": "(to be) the state/act/process of there being air in a particular spatio-temporal location [i.e., the standard combination of nitrogen/oxygen/argon/CO₂, etc. that constitutes the breathable atmosphere of Earth]",
         "CTE": "(to be) air as the primary/relevant component of Earth’s (or a planet’s) atmosphere",
         "CSV": "(to be) an act of obtaining/providing/disseminating air (into a volume of space); to get air, give air, let air in",
         "OBJ": "(to be) the air one breathes"
       },
-      "(to be) the state/act/process of there being “fresh” air (i.e., air let in from an external source/outside to replenish the recycled or “stale” air in a location)",
-      "(to be) the state/act/process of there being “stale” air (i.e., air with a lowered oxygen content and/or higher CO₂ concentration and/or pollutants due to breathing in an enclosed space, air pollution, etc.)"
+      "(to be) the state/act/process of there being “fresh” air [i.e., air let in from an external source/outside to replenish the recycled or “stale” air in a location]",
+      "(to be) the state/act/process of there being “stale” air [i.e., air with a lowered oxygen content and/or higher CO₂ concentration and/or pollutants due to breathing in an enclosed space, air pollution, etc.]"
     ]
   },
   {
@@ -294,7 +294,7 @@
         "OBJ": "(to be) the outdoors, the open air, outside (as a location/setting/environment for something to be or take place in)"
       },
       "(to be) the state/act/process of being/occurring/manifesting indoors/inside, within the enclosed space(s) of an interior environment separate from the outdoors",
-      "(to be) the state/act/process of being/occurring/manifesting in a protected/localized interior/enclosed environment while outdoors (e.g., in a spacesuit on a planetary surface, in a transparent tent outdoors, in a screened-off sun-room of a house, on the screen-enclosed balcony/ledge of a building)"
+      "(to be) the state/act/process of being/occurring/manifesting in a protected/localized interior/enclosed environment while outdoors [e.g., in a spacesuit on a planetary surface, in a transparent tent outdoors, in a screened-off sun-room of a house, on the screen-enclosed balcony/ledge of a building]"
     ]
   },
   {
@@ -305,7 +305,7 @@
         "BSC": "(to be) the quantitative area of a bounded quasi-planar surface, i.e., the amount of square surface space contained within a bounded area (including area expanded by non-level variations in surface gradients); to measure the area of a bounded quasi-planar surface",
         "CTE": "(to be) the physical ground/surface of a bounded area",
         "CSV": "(to be) the act of measuring/determining the quantitative area of a bounded quasi-planar surface",
-        "OBJ": "(to be) the actual measured amount of area (i.e., how much acreage/square meters, etc.)"
+        "OBJ": "(to be) the actual measured amount of area [i.e., how much acreage/square meters, etc.]"
       },
       "(to be) the quantitative surface-footprint or areal footprint taken up by a quasi-planar surface regardless of non-level variations in surface gradients",
       "(to be) a formal/bounded plot of ground/land based on natural or authorized delineations"
@@ -318,7 +318,7 @@
       {
         "BSC": "(to be) a terrestrial/geographic land feature",
         "CTE": "(to be) a particular geographic/terrestrial feature itself",
-        "CSV": "(to be) the particular aspects/characteristics of a particular type of terrestrial land feature (e.g., the aridness/starkness of a desert, the packed ice/snow of a glacier, the vastness/flatness of a the plains/pampas, etc.)",
+        "CSV": "(to be) the particular aspects/characteristics of a particular type of terrestrial land feature [e.g., the aridness/starkness of a desert, the packed ice/snow of a glacier, the vastness/flatness of a the plains/pampas, etc.]",
         "OBJ": "(to be) the geographic/ecological impact of a geographic feature on its surrounding environment"
       },
       "(to be) an area of arable land",
@@ -332,11 +332,11 @@
       {
         "BSC": "(to be) a terrestrial land feature of raised elevation in relation to sea level or surrounding flatlands; a hill or mountain",
         "CTE": "(to be) the state of being a hill/mountain",
-        "CSV": "(to be) a state of dealing with mountainous/elevated terrain; to deal with (e.g., traveling through, living in, etc.) mountainous/elevated terrain",
+        "CSV": "(to be) a state of dealing with mountainous/elevated terrain; to deal with [e.g., traveling through, living in, etc.] mountainous/elevated terrain",
         "OBJ": "(to be) the geographic/ecological impact of mountain on its surrounding environment"
       },
       "(to be) a peak, a single elevated terrestrial upwelling higher than the surrounding the terrain",
-      "(to be) a plateau/butte/mesa (i.e., a high/elevated flatland)"
+      "(to be) a plateau/butte/mesa [i.e., a high/elevated flatland]"
     ],
     "notes": "[use appropriate affixes to indicate degree of relative elevation]"
   },
@@ -347,7 +347,7 @@
       {
         "BSC": "(to be) a desert",
         "CTE": "(to be) the state of being a desert",
-        "CSV": "(to be) a state of dealing with desert terrain; to deal with (e.g., traveling through, living in, etc.) desert terrain",
+        "CSV": "(to be) a state of dealing with desert terrain; to deal with [e.g., traveling through, living in, etc.] desert terrain",
         "OBJ": "(to be) the geographic/ecological impact of a desert on its surrounding environment"
       },
       "(to be) an area of steppe, steppe-like terrain",
@@ -361,7 +361,7 @@
       {
         "BSC": "(to be) a valley",
         "CTE": "(to be) the state of being a valley",
-        "CSV": "(to be) a state of dealing with a valley as a type of terrain; to deal with (e.g., traveling through, living in, etc.) a valley",
+        "CSV": "(to be) a state of dealing with a valley as a type of terrain; to deal with [e.g., traveling through, living in, etc.] a valley",
         "OBJ": "(to be) the geographic/ecological impact of a valley on its surrounding environment"
       },
       "(to be) a canyon",
@@ -448,7 +448,7 @@
         "CSV": "(to be) a state/act of drawing/pouring/filling/serving an amount of water; to draw/pour/fill/serve some water",
         "OBJ": "(to be) the container, vessel, conveying implement which holds an amount of water"
       },
-      "(to be) a natural source of fresh water (e.g., a natural well, river, spring, etc.)",
+      "(to be) a natural source of fresh water [e.g., a natural well, river, spring, etc.]",
       "(to be) a a human-made source of fresh water, i.e., a cistern, a reservoir, etc."
     ]
   },
@@ -474,7 +474,7 @@
         "BSC": "(to be) an ocean/sea",
         "CTE": "(to be) the state of being an ocean/sea",
         "CSV": "(to be) a state of utilizing/living by the ocean/sea; to deal with, live by, utilize the ocean/sea",
-        "OBJ": "(to be) a particular (i.e., named) ocean/sea"
+        "OBJ": "(to be) a particular [i.e., named] ocean/sea"
       },
       "(to be) a lagoon",
       "(to be) a saltwater pond/lake"
@@ -488,7 +488,7 @@
         "BSC": "(to be) a channel-like body of water allowing passage between two land masses",
         "CTE": "(to be) the state of being a channel-like body of water",
         "CSV": "(to be) a state of utilizing/living by channel-like body of water; to deal with, live by, utilize a channel-like body of water",
-        "OBJ": "(to be) a particular (i.e., named) channel-like body of water"
+        "OBJ": "(to be) a particular [i.e., named] channel-like body of water"
       },
       "(to be) a bay [i.e., body of water partially surrounded by land]",
       "(to be) a narrow river-like inlet (on a body of water)"
@@ -503,7 +503,7 @@
         "BSC": "(to be) a pond/lake",
         "CTE": "(to be) the state of being a pond/lake",
         "CSV": "(to be) a state of utilizing/living by a pond/lake; to deal with, live by, utilize a pond/lake",
-        "OBJ": "(to be) a particular (i.e., named) pond/lake"
+        "OBJ": "(to be) a particular [i.e., named] pond/lake"
       },
       "(to be) a stream/river",
       "(to be) a freshwater inland sea"
@@ -518,10 +518,10 @@
         "BSC": "(to be) an estuary",
         "CTE": "(to be) the state of being an estuary",
         "CSV": "(to be) a state of utilizing/living by an estuary; to deal with, live by, utilize an estuary",
-        "OBJ": "(to be) a particular (i.e., named) estuary"
+        "OBJ": "(to be) a particular [i.e., named] estuary"
       },
       "(to be) a river delta",
-      "(to be) a freshwater-saltwater transition zone (e.g., the mouth of the Amazon or Mississippi Rivers)"
+      "(to be) a freshwater-saltwater transition zone [e.g., the mouth of the Amazon or Mississippi Rivers]"
     ]
   },
   {
@@ -532,7 +532,7 @@
         "BSC": "(to be) a swamp/marsh",
         "CTE": "(to be) the state of being a swamp/marsh",
         "CSV": "(to be) a state of utilizing/living by a swamp/marsh; to deal with, live by, utilize a swamp/marsh",
-        "OBJ": "(to be) a particular (i.e., named) swamp"
+        "OBJ": "(to be) a particular [i.e., named] swamp"
       },
       "(to be) a bog/fen",
       "(to be) a bayou/wetland(s)"
@@ -544,7 +544,7 @@
     "stems": [
       {
         "BSC": "(to be) a state of north-south directional orientation",
-        "CTE": "(to be) a north-south (i.e., longitudinal) line/path/orientation",
+        "CTE": "(to be) a north-south [i.e., longitudinal] line/path/orientation",
         "CSV": "(to be) a state/act of lying upon, traveling upon, or being directed along a north-south, i.e., longitudinal axis",
         "OBJ": "(to be) what lies upon or is moving or being directed upon a longitudinal line/axis/path, etc."
       },
@@ -558,7 +558,7 @@
     "stems": [
       {
         "BSC": "(to be) a state of east-west directional orientation",
-        "CTE": "(to be) an east-west (i.e., latitudinal) line/path/orientation",
+        "CTE": "(to be) an east-west [i.e., latitudinal] line/path/orientation",
         "CSV": "(to be) a state/act of lying upon, traveling upon, or being directed along a east- west, i.e., latitudinal axis",
         "OBJ": "(to be) what lies upon or is moving or being directed upon a latitudinal line/axis/path, etc."
       },
@@ -585,7 +585,7 @@
     "refers": "SEASON",
     "stems": [
       {
-        "BSC": "(to be) a particular season (i.e., spring, summer, autumn, winter)",
+        "BSC": "(to be) a particular season [i.e., spring, summer, autumn, winter]",
         "CTE": "(to be) the state of it being a certain season; be seasonal",
         "CSV": "(to be) a phenomenon occurring during a particular season",
         "OBJ": "(to be) a seasonal activity/event/state, i.e., something that happens during a particular season; be something seasonal"
@@ -660,8 +660,8 @@
         "CSV": "(to be) an act of determining the ambient temperature range; to see/feel how hot/cold it is outside (based on the expected temperature range of the season)",
         "OBJ": "(to be) the ambient temperature (as expected for the season)"
       },
-      "(to be) the duration of daylight during a 24-hour period in a location due to the time (i.e., season) of the year",
-      "(to be) the angle of the sun (i.e., height of the arc of the sun’s passage) due to the time (i.e., season) of the year"
+      "(to be) the duration of daylight during a 24-hour period in a location due to the time [i.e., season] of the year",
+      "(to be) the angle of the sun [i.e., height of the arc of the sun’s passage] due to the time [i.e., season] of the year"
     ]
   },
   {
@@ -671,7 +671,7 @@
       {
         "BSC": "(to be) a weather condition; to be the weather (conditions)",
         "CTE": "(to be) the actual extant weather condition at a particular time",
-        "CSV": "(to be) the physical manifestation(s) of a particular weather condition (e.g., the rain itself, the fog itself, the sunniness itself, the heat itself, the wind itself, etc.)",
+        "CSV": "(to be) the physical manifestation(s) of a particular weather condition [e.g., the rain itself, the fog itself, the sunniness itself, the heat itself, the wind itself, etc.]",
         "OBJ": "(to be) a party effected/impacted by the weather conditions"
       },
       "(to be) a state of good weather conditions",
@@ -718,7 +718,7 @@
         "BSC": "(to be) an amount of rainfall; to rain [CPT version = fallen rain, fallen precipitation]",
         "CTE": "(to be) a state of rainfall, for rain to be falling",
         "CSV": "(to be) a state/act of rain falling",
-        "OBJ": "(to be) an amount of rainwater (e.g., in a puddle, in a container, in one’s hand, etc.)"
+        "OBJ": "(to be) an amount of rainwater [e.g., in a puddle, in a container, in one’s hand, etc.]"
       },
       "(to be) an amount of snow; to snow [CPT = fallen snow]",
       "(to be) an amount of hail; to hail [CPT = ice on the ground]"
@@ -747,7 +747,7 @@
         "BSC": "(to be) a state of there being a momentary air-pressure-based atmospheric phenomenon, to be a gust of wind, for a gust of wind to blow, for an air current to blow",
         "CTE": "(to be) the collection of air (or other gas) reacting to pressure variance which comprise a gust wind",
         "CSV": "(to be) a process/phenomenon of a gust of wind blowing; for a gust of wind to blow",
-        "OBJ": "(to be) the wave-front of a gust of wind (i.e., the concentration of gaseous molecules) which constitutes a (potentially destructive) energetic force which can be felt or which can physically impact objects contacted by the wave front."
+        "OBJ": "(to be) the wave-front of a gust of wind [i.e., the concentration of gaseous molecules] which constitutes a (potentially destructive) energetic force which can be felt or which can physically impact objects contacted by the wave front."
       },
       "(to be) a storm",
       "(to be) a spirally-oriented storm driven by massive air-pressure variances and Coriolis forces [use appropriate affixes to indicate severity as a tropical depression, hurricane/cyclone/typhoon, tornado, etc.]"
@@ -792,7 +792,7 @@
         "OBJ": "(to be) the atmospheric state of aerosolized water vapor conducive to/needed for seeing a rainbow"
       },
       "(to be) a state of there being a visible aurora",
-      "(to be) a state of there being sunlight reflected from interplanetary dust particles visible under certain conditions (e.g., zodiacal light (“false dawn”), gegenschein/counterglow)"
+      "(to be) a state of there being sunlight reflected from interplanetary dust particles visible under certain conditions [e.g., zodiacal light (“false dawn”), gegenschein/counterglow]"
     ]
   }
 ]

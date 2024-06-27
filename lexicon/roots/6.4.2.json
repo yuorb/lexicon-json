@@ -44,7 +44,7 @@
     "refers": "OPEN-ENDED LINEAR OUTLINE SHAPE",
     "stems": [
       {
-        "BSC": "(be) an open-ended (quasi-)linear outline shape (i.e. for describing the outline shape of any visual or tactile object/entity), e.g., an arc, a straight line, an S-shape, a V-shape, a squiggly line, etc.",
+        "BSC": "(be) an open-ended (quasi-)linear outline shape [i.e. for describing the outline shape of any visual or tactile object/entity], e.g., an arc, a straight line, an S-shape, a V-shape, a squiggly line, etc.",
         "CTE": "(be) the state of having a particular (quasi-)linear outline shape",
         "CSV": "(be) the act of discerning/observing/perceiving a (quasi-)linear outline shape",
         "OBJ": "(be) an object/entity which manifests the particular (quasi-)linear outline shape"
@@ -280,7 +280,7 @@
     "refers": "CLOSED LINEAR OUTLINE SHAPE",
     "stems": [
       {
-        "BSC": "(be) a closed (quasi-)linear outline shape (i.e. for describing the outline shape of any visual or tactile object/entity)",
+        "BSC": "(be) a closed (quasi-)linear outline shape [i.e. for describing the outline shape of any visual or tactile object/entity]",
         "CTE": "(be) the state of having a particular closed (quasi-)linear outline shape",
         "CSV": "(be) the act of discerning/observing/perceiving a closed (quasi-)linear outline shape",
         "OBJ": "(be) an object/entity which manifests the particular closed (quasi-)linear outline shape"
@@ -469,13 +469,13 @@
     "refers": "THREE-DIMENSIONAL FORM/LATTICE",
     "stems": [
       {
-        "BSC": "(be) a solid three-dimensional outline form/shape, as determined by the holistic structure of its planar surfaces (e.g., a cube, a sphere, a pyramidal shape, etc.)",
+        "BSC": "(be) a solid three-dimensional outline form/shape, as determined by the holistic structure of its planar surfaces [e.g., a cube, a sphere, a pyramidal shape, etc.]",
         "CTE": "(be) the state of having a particular three-dimensional outline form/shape",
         "CSV": "(be) the act of discerning/observing/perceiving a three-dimensional outline form/shape",
         "OBJ": "(be) an object/entity which manifests the particular three-dimensional outline form/shape"
       },
       "[same as stem 1 except that the 3-dimensional form is hollow, consisting only of the collection of surface planes or geodesic/curved plane]",
-      "(be) a a three-dimensional lattice form/shape, as determined by the collective structure/lattice formed by its linear edges (e.g., a cube-shaped lattice formed from eight linear elements of equal length whose end-points are connected to two others at right angles, a lattice in the form of a sphere, a pyramid-shaped lattice, etc.)"
+      "(be) a a three-dimensional lattice form/shape, as determined by the collective structure/lattice formed by its linear edges [e.g., a cube-shaped lattice formed from eight linear elements of equal length whose end-points are connected to two others at right angles, a lattice in the form of a sphere, a pyramid-shaped lattice, etc.]"
     ]
   },
   {

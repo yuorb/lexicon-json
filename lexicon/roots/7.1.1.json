@@ -7,7 +7,7 @@
         "BSC": "(to be) a seed or pit of a plant",
         "CTE": "(to be) the potential for germination/sprouting/nourishment contained within a plant seed or pit",
         "CSV": "(to be) the physical flesh/material of which a plant seed or pit is composed",
-        "OBJ": "(to be) a seed/pit of a plant as an energy source; to consume a plant seed/pit as energy source (e.g., by burning, eating, fermenting, etc.)"
+        "OBJ": "(to be) a seed/pit of a plant as an energy source; to consume a plant seed/pit as energy source [e.g., by burning, eating, fermenting, etc.]"
       },
       "(to be) a fruit or nut of a plant",
       "(to be) a bulb/tuber/corm of a plant"
@@ -31,13 +31,13 @@
     "refers": "PSYCHOACTIVE/INTOXICATING SUBSTANCE",
     "stems": [
       {
-        "BSC": "(to be) an act/state of being intoxicated by using/ingesting a naturally derived psychoactive chemical substance (e.g., ethyl alcohol, cannabis, peyote, psilocybin, ayahuasca, etc.); to be(come) intoxicated due to use/ingestion of such a substance",
+        "BSC": "(to be) an act/state of being intoxicated by using/ingesting a naturally derived psychoactive chemical substance [e.g., ethyl alcohol, cannabis, peyote, psilocybin, ayahuasca, etc.]; to be(come) intoxicated due to use/ingestion of such a substance",
         "CTE": "(to be) in a state of intoxication from a naturally derived chemical substance; to be/get drunk/high/intoxicated",
         "CSV": "(to be) an act of using/ingesting a naturally derived chemical substance; to use/ingest/smoke/inject an intoxicating substance",
         "OBJ": "(to be) a(n amount/serving/hit/drink/cigarette, etc. of a) particular intoxicating/psychoactive substance itself"
       },
-      "(to be) a synthetic medicinal chemical used recreationally (e.g., a prescription drug)",
-      "(to be) a chemical substance repurposed for recreational use (e.g., glue/solvents, etc.)"
+      "(to be) a synthetic medicinal chemical used recreationally [e.g., a prescription drug]",
+      "(to be) a chemical substance repurposed for recreational use [e.g., glue/solvents, etc.]"
     ]
   },
   {
@@ -45,13 +45,13 @@
     "refers": "OTHER METHODS OF BODILY INGESTION",
     "stems": [
       {
-        "BSC": "(to be) an act/state of smoking of a gaseous or aerosolized substance (i.e., the oral intake/inhalation of fumes via an ingressive velaric airstream)",
+        "BSC": "(to be) an act/state of smoking of a gaseous or aerosolized substance [i.e., the oral intake/inhalation of fumes via an ingressive velaric airstream]",
         "CTE": "(to be) the smoke/fumes of a burning substance which one takes in or inhales orally via smoking",
         "CSV": "(to be) an act of smoking; to smoke, to intake/inhale orally by means of smoking",
         "OBJ": "(to be) the apparatus utilized for an act of smoking"
       },
-      "(to be) an act/state of nasal inhalation of a substance (e.g., snuff, cocaine, other powdery substance)",
-      "(to be) an act/process of subcutaneous or intravenous injection (e.g., with a syringe) of a substance"
+      "(to be) an act/state of nasal inhalation of a substance [e.g., snuff, cocaine, other powdery substance]",
+      "(to be) an act/process of subcutaneous or intravenous injection [e.g., with a syringe] of a substance"
     ]
   }
 ]

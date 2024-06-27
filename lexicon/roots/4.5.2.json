@@ -19,13 +19,13 @@
     "refers": "PUNGENT/FUNKY/PUTRID/STINKY",
     "stems": [
       {
-        "BSC": "(to be) something having a pungent odor (e.g., vinegar, ammonia, urine, stale coffee, vomit, etc.)",
+        "BSC": "(to be) something having a pungent odor [e.g., vinegar, ammonia, urine, stale coffee, vomit, etc.]",
         "CTE": "(to be/manifest) the particular pungent odor (of something)",
-        "CSV": "(to be) the odor perceived by an observer as being identifiable as a particular pungent odor (i.e., the odor of something known)",
-        "OBJ": "(to be) an entity having a pungent odor (e.g., “the pungent-smelling one”)"
+        "CSV": "(to be) the odor perceived by an observer as being identifiable as a particular pungent odor [i.e., the odor of something known]",
+        "OBJ": "(to be) an entity having a pungent odor [e.g., “the pungent-smelling one”]"
       },
-      "funky odor (e.g., of sweat, livestock, musk, tamari, ambergris, stinky cheeses, etc.)",
-      "putrid odor (e.g., as of rotting eggs, roadkill, feces, sulfur, low-tide, etc.)"
+      "funky odor [e.g., of sweat, livestock, musk, tamari, ambergris, stinky cheeses, etc.]",
+      "putrid odor [e.g., as of rotting eggs, roadkill, feces, sulfur, low-tide, etc.]"
     ],
     "notes": "The OLF affix can be used to identify additional odors associated with any applicable formative."
   },
@@ -33,9 +33,9 @@
     "root": "RGY",
     "refers": "VEGETAL/PIQUANT/MUSTY",
     "stems": [
-      "vegetal odor (e.g., grass, garlic, onion, parsley, coriander, celery, etc.)",
-      "piquant odor (e.g., ginger, cinnamon, clove, chilies, horseradish, hot mustard, etc.)",
-      "musty odor (e.g., soil, mushrooms, aged compost, mold, moss, petrichor, etc.)"
+      "vegetal odor [e.g., grass, garlic, onion, parsley, coriander, celery, etc.]",
+      "piquant odor [e.g., ginger, cinnamon, clove, chilies, horseradish, hot mustard, etc.]",
+      "musty odor [e.g., soil, mushrooms, aged compost, mold, moss, petrichor, etc.]"
     ],
     "see": "NKY"
   },
@@ -43,9 +43,9 @@
     "root": "LMS",
     "refers": "SWEET/FRAGRANT/RESINOUS",
     "stems": [
-      "sweet odor (e.g., honey, raisin, caramel, apple, date, yam, etc.)",
-      "fragrant odor (e.g., vanilla, rose, almond, peach, jasmine, etc.)",
-      "resinous odor (e.g., camphor, sagebrush, eucalyptus, lavender, peppermint, etc.)"
+      "sweet odor [e.g., honey, raisin, caramel, apple, date, yam, etc.]",
+      "fragrant odor [e.g., vanilla, rose, almond, peach, jasmine, etc.]",
+      "resinous odor [e.g., camphor, sagebrush, eucalyptus, lavender, peppermint, etc.]"
     ],
     "see": "NKY"
   },
@@ -53,9 +53,9 @@
     "root": "RZG",
     "refers": "CHEMICAL/BURNT/ACRID",
     "stems": [
-      "chemical odor (e.g., alcohol, gasoline, solvents, paint, etc.)",
-      "burnt odor (e.g., leather, toasted nuts, woodsmoke, tobacco, etc.)",
-      "acrid odor (e.g., salt, copper, blood, tar, burning rubber, etc.)"
+      "chemical odor [e.g., alcohol, gasoline, solvents, paint, etc.]",
+      "burnt odor [e.g., leather, toasted nuts, woodsmoke, tobacco, etc.]",
+      "acrid odor [e.g., salt, copper, blood, tar, burning rubber, etc.]"
     ],
     "see": "NKY"
   }

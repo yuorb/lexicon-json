@@ -7,9 +7,9 @@
         "BSC": "(to be) a piece/article of clothing being worn for the purpose of covering or protecting (a part of) the body; to wear such",
         "CTE": "(to be) a state of wearing an article of clothing as coverage/protection",
         "CSV": "(to be) a physical act of putting on/donning an article of clothing as coverage/protection",
-        "OBJ": "(to be) the particular piece/article of clothing itself (i.e., not necessarily being worn)"
+        "OBJ": "(to be) the particular piece/article of clothing itself [i.e., not necessarily being worn]"
       },
-      "(to be) a piece/article of clothing being worn as a fashion statement (i.e., to create a fashionable appearance); to wear such",
+      "(to be) a piece/article of clothing being worn as a fashion statement [i.e., to create a fashionable appearance]; to wear such",
       "(to be) a piece/article of clothing being worn as ornament or accessory; to wear such"
     ]
   },
@@ -17,9 +17,9 @@
     "root": "RFB",
     "refers": "CLOTHING AS UNIFORM OR COSTUME OR STATUS-INDICATOR",
     "stems": [
-      "a piece/article of clothing being worn as (part of) a uniform (i.e., to indicate one’s job/position/organizational membership, etc.)",
+      "a piece/article of clothing being worn as (part of) a uniform [i.e., to indicate one’s job/position/organizational membership, etc.]",
       "a piece/article of clothing being worn as (part of) a costume",
-      "an ornament or accessory being worn as an indicator of a particular rank, award, status, etc. (e.g., medal, sash, epaulets, medallion, special stripe, etc.)"
+      "an ornament or accessory being worn as an indicator of a particular rank, award, status, etc. [e.g., medal, sash, epaulets, medallion, special stripe, etc.]"
     ],
     "see": "FB"
   },
@@ -28,13 +28,13 @@
     "refers": "TRY ON",
     "stems": [
       {
-        "BSC": "(to be) an act/process of trying something on (e.g., an article of clothing) to see if it fits",
+        "BSC": "(to be) an act/process of trying something on [e.g., an article of clothing] to see if it fits",
         "CTE": "(to be) a state of wearing something as a trial to see if it fits",
         "CSV": "(to be) an act of trying something on",
         "OBJ": "(to be) that which is being tried on to see if it fits"
       },
-      "(to be) an act/process of trying something on (e.g., an article of clothing) to see how it looks or how it makes one look",
-      "(to be) an act/process of trying something on (e.g., an article of clothing) to see whether one can work/move/maneuver or manipulate things while wearing"
+      "(to be) an act/process of trying something on [e.g., an article of clothing] to see how it looks or how it makes one look",
+      "(to be) an act/process of trying something on [e.g., an article of clothing] to see whether one can work/move/maneuver or manipulate things while wearing"
     ]
   },
   {
@@ -45,7 +45,7 @@
         "BSC": "(to be) a hat or head covering being worn as protection; to wear a hat or head covering as protection",
         "CTE": "(to be) a state of wearing a hat or head covering for protection/coverage",
         "CSV": "(to be) a physical act of donning a hat or head covering as protection/coverage",
-        "OBJ": "(to be) a hat or head-covering itself (i.e., not necessarily being worn)"
+        "OBJ": "(to be) a hat or head-covering itself [i.e., not necessarily being worn]"
       },
       "(to be) a hat or head covering worn for fashion; to wear a fashionable hat",
       "(to be) a hat or head covering worn as indicator of one’s status, job, organizational membership, etc."
@@ -357,7 +357,7 @@
         "OBJ": "(to be) that which is covered with/wrapped in/lying on a blanket"
       },
       "(to be) a quilt",
-      "(to be) a comforter (i.e., a multi-layered blanket)"
+      "(to be) a comforter [i.e., a multi-layered blanket]"
     ]
   }
 ]

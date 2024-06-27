@@ -84,14 +84,14 @@
     "degrees": [
       null,
       "generic container(-ful) of X",
-      "natural or generic mass containment/formation (e.g., a loaf of bread, a lump of clay)",
-      "natural/inherent “container” of X (e.g., lake-basin, river-channel, blood-vessel, wheat field)",
+      "natural or generic mass containment/formation [e.g., a loaf of bread, a lump of clay]",
+      "natural/inherent “container” of X [e.g., lake-basin, river-channel, blood-vessel, wheat field]",
       "pile of, heap of, load of X",
       "(arranged) stack/column of X",
       "satchel, pack of [= for personal conveyance/moving]",
       "parcel/package containing X",
-      "X-ful of [+ Partitive] (e.g., a roomful of clowns, a skyful of clouds, a treeful of leaves, a spoonful)",
-      "embodiment/manifestation of abstract essence (e.g., a life form [= an embodiment of life])"
+      "X-ful of [+ Partitive] [e.g., a roomful of clowns, a skyful of clouds, a treeful of leaves, a spoonful]",
+      "embodiment/manifestation of abstract essence [e.g., a life form [= an embodiment of life]]"
     ]
   },
   {
@@ -281,7 +281,7 @@
       "research facility/laboratory established to design/create/test/experiment with X",
       "governmental agency/bureau/office/department created to/for or associated with X",
       "multi-faceted infrastructural network created/built for, devoted to, or associated with X",
-      "campus devoted to or associated with X (i.e., a collection/set of buildings, facilities, labs, domiciles & infrastructure)"
+      "campus devoted to or associated with X [i.e., a collection/set of buildings, facilities, labs, domiciles & infrastructure]"
     ]
   },
   {
@@ -413,7 +413,7 @@
       "recipe/dish made from/with X",
       "dessert made from X",
       "puree of X",
-      "processed/derived food product made from X  (e.g., flour)",
+      "processed/derived food product made from X  [e.g., flour]",
       "flavoring/seasoning made from/with X"
     ]
   },
@@ -427,11 +427,11 @@
       null,
       "served/eaten as breakfast",
       "served/eaten as brunch",
-      "served/eaten as mid-day meal (i.e., lunch, or dinner if main meal of the day)",
+      "served/eaten as mid-day meal [i.e., lunch, or dinner if main meal of the day]",
       "served/eaten as lunchtime dessert",
       "served/eaten as afternoon snack",
-      "served/eaten as tea or at teatime (i.e., late afternoon)",
-      "served/eaten as dinner/supper (i.e., evening meal)",
+      "served/eaten as tea or at teatime [i.e., late afternoon]",
+      "served/eaten as dinner/supper [i.e., evening meal]",
       "served/eaten as dessert at/after/before dinner/supper",
       "served/eaten as bedtime or midnight snack"
     ]
@@ -510,9 +510,9 @@
       "beneficial as medicinal source",
       "of unknown value as medicinal source",
       "of no medicinal value",
-      "beneficial as source of material (e.g., for fiber, cloth, rope, weaving, material processing, etc.)",
-      "unknown potential as source of material (e.g., for fiber, cloth, rope, weaving, material processing, etc.)",
-      "valueless as source of material (e.g., for fiber, cloth, rope, weaving, material processing, etc.)"
+      "beneficial as source of material [e.g., for fiber, cloth, rope, weaving, material processing, etc.]",
+      "unknown potential as source of material [e.g., for fiber, cloth, rope, weaving, material processing, etc.]",
+      "valueless as source of material [e.g., for fiber, cloth, rope, weaving, material processing, etc.]"
     ]
   },
   {

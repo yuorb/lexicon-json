@@ -4,13 +4,13 @@
     "refers": "GROUND VEHICLE / CONVEY IN GROUND VEHICLE",
     "stems": [
       {
-        "BSC": "(to be) an act/state of traveling/conveying objects or persons in an open-air wheeled vehicle (e.g., cart, wagon, open-bed truck/lorry, open-bed train car, wheelbarrow, wheelchair, wheeled stretcher or gurney, bicycle, skateboard, motorcycle, etc.); to travel/convey (an) object(s)/person(s) in an open-aired wheeled vehicle [both the travel/conveyance and the vehicle itself]",
+        "BSC": "(to be) an act/state of traveling/conveying objects or persons in an open-air wheeled vehicle [e.g., cart, wagon, open-bed truck/lorry, open-bed train car, wheelbarrow, wheelchair, wheeled stretcher or gurney, bicycle, skateboard, motorcycle, etc.]; to travel/convey (an) object(s)/person(s) in an open-aired wheeled vehicle [both the travel/conveyance and the vehicle itself]",
         "CTE": "(to be) a wheeled open-air wheeled vehicle",
         "CSV": "(to be) an act/instance of conveying/traveling in a wheeled open-air vehicle; to travel/convey by open-air wheeled vehicle",
         "OBJ": "(to be) the entity/object(s)/party being conveyed by an open-air wheeled vehicle"
       },
-      "(to be) an act/instance of traveling/conveying objects or persons in an enclosed wheeled vehicle (e.g., car, carriage, coach, van, bus, train car, etc.)",
-      "(to be) an act/instance of traveling/conveying objects or persons in a non-wheeled vehicle (e.g., sled, palanquin, sedan chair, litter, etc.)"
+      "(to be) an act/instance of traveling/conveying objects or persons in an enclosed wheeled vehicle [e.g., car, carriage, coach, van, bus, train car, etc.]",
+      "(to be) an act/instance of traveling/conveying objects or persons in a non-wheeled vehicle [e.g., sled, palanquin, sedan chair, litter, etc.]"
     ],
     "notes": "Use degrees 3 and 5 of the MEA and CVY affixes with this root to designated motorized vs non-motorized vehicles/vessels."
   },
@@ -181,7 +181,7 @@
     "stems": [
       "military tank",
       "crane",
-      "specialized construction vehicle (e.g., bulldozer, excavator)"
+      "specialized construction vehicle [e.g., bulldozer, excavator]"
     ],
     "see": "DDL"
   },
@@ -208,12 +208,12 @@
     "refers": "VESSEL / WATERCRAFT / AIRCRAFT / SPACECRAFT",
     "stems": [
       {
-        "BSC": "(to be) an act/state of traveling/conveying objects or persons in a water vessel/watercraft (e.g., boat, ship, canoe, kayak, catamaran, dinghy, etc.); to travel/convey in a watercraft",
+        "BSC": "(to be) an act/state of traveling/conveying objects or persons in a water vessel/watercraft [e.g., boat, ship, canoe, kayak, catamaran, dinghy, etc.]; to travel/convey in a watercraft",
         "CTE": "(to be) a watercraft",
         "CSV": "(to be) an act/instance of conveying/traveling in a watercraft; to travel/convey by watercraft",
         "OBJ": "(to be) the entity/object(s)/party being conveyed by a watercraft"
       },
-      "(to be) an act/state of traveling/conveying objects or persons in an aircraft (e.g., airplane/aeroplane, jet plane, glider, hot-air balloon, etc.)",
+      "(to be) an act/state of traveling/conveying objects or persons in an aircraft [e.g., airplane/aeroplane, jet plane, glider, hot-air balloon, etc.]",
       "(to be) an act/state of traveling/conveying objects or persons in a spacecraft"
     ],
     "notes": "Use degrees 3 and 5 of the MEA and CVY affixes with this root to designated motorized vs non-motorized vehicles/vessels."
@@ -249,16 +249,16 @@
     "root": "ŇSW",
     "stems": [
       "single-masted sailboat",
-      "sailboat + rowboat (e.g., dragon boat, karve, bireme, trireme, skeid)",
-      "small sailboat (e.g., sloop, catboat, felucca, skipjack)"
+      "sailboat + rowboat [e.g., dragon boat, karve, bireme, trireme, skeid]",
+      "small sailboat [e.g., sloop, catboat, felucca, skipjack]"
     ],
     "see": "DDR"
   },
   {
     "root": "ŇSY",
     "stems": [
-      "multi-masted sailboat (e.g., schooner, caravel, ketch, yawl)",
-      "sailing ship (e.g., galleon, brig, galleon, barque, clipper)",
+      "multi-masted sailboat [e.g., schooner, caravel, ketch, yawl]",
+      "sailing ship [e.g., galleon, brig, galleon, barque, clipper]",
       "catamaran"
     ],
     "see": "DDR"
@@ -330,7 +330,7 @@
     "root": "LVŽ",
     "stems": [
       "military jetfighter",
-      "military jet airplane (e.g., bomber, cargo plane)",
+      "military jet airplane [e.g., bomber, cargo plane]",
       "aerial drone"
     ],
     "see": "DDR"

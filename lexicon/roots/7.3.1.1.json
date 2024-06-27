@@ -49,7 +49,7 @@
     "stems": [
       "ocelot",
       "margay",
-      "other ocelot-like feline (e.g., oncilla, pampas cat, kodkod, tigrina, etc.)"
+      "other ocelot-like feline [e.g., oncilla, pampas cat, kodkod, tigrina, etc.]"
     ],
     "see": "RR"
   },
@@ -129,7 +129,7 @@
     "stems": [
       "(genus *Lycalopex*; species *vetulus*, *sechurae*, *fulvipes*, *gymnocercus*, *griseus*, *culpaeus*) [South American] fox",
       "(genus *Speothos*) bush dog",
-      "other South American cerdocyonine canine (e.g., genera *Chrysocyon*, *Dusicyon*, *Cerdocyon*, *Atelocynus*)"
+      "other South American cerdocyonine canine [e.g., genera *Chrysocyon*, *Dusicyon*, *Cerdocyon*, *Atelocynus*]"
     ],
     "see": "RR"
   },
@@ -209,7 +209,7 @@
     "stems": [
       "(genus *Aepyceros*) impala",
       "(genera *Gazella*, *Eudorcas*, *Nanger*, *Procapra*, *Antidorcas*) gazelle, springbok",
-      "(genera *Litocranius*, *Antilope*, *Ammodorcas*) East-African or Asian antelope (e.g., dibatag, gerenuk, blackbuck)"
+      "(genera *Litocranius*, *Antilope*, *Ammodorcas*) East-African or Asian antelope [e.g., dibatag, gerenuk, blackbuck]"
     ],
     "see": "RR"
   },
@@ -418,7 +418,7 @@
     "refers": "MUSTELID",
     "stems": [
       "(genus *Mustela*) weasel/polecat/stoat/European mink",
-      "ferret ( = genus *Mustela*; domesticated weasel/polecat)",
+      "ferret (= genus *Mustela*; domesticated weasel/polecat)",
       "(genus *Neovison*) American mink"
     ],
     "see": "RR"

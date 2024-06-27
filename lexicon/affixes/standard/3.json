@@ -1983,15 +1983,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "short-period (i.e., fast) spinning motion on parallel-vertical plane relative to the direction of travel (i.e., forward-rolling or pitch-like tumbling motion)",
-      "varying-period (i.e., variable-speed) spinning motion on parallel-vertical plane relative to the direction of travel (i.e., forward-rolling or pitch-like tumbling motion)",
-      "long-period (i.e., slow) spinning/revolving motion on parallel-vertical plane relative to the direction of travel (i.e., forward-rolling or pitch-like tumbling motion)",
-      "short-period (i.e., fast) spinning motion on perpendicular plane relative to the direction of travel (i.e., spiral vector in direction of travel)",
-      "varying-period (i.e., variable-speed) spinning motion on perpendicular plane relative to the direction of travel (i.e., spiral vector in direction of travel)",
-      "long-period (i.e., slow) spinning/revolving motion on perpendicular plane relative to the direction of travel (i.e., spiral vector in direction of travel)",
-      "short-period (i.e., fast) spinning motion on parallel-horizontal plane relative to the direction of travel (i.e., horizontally revolving/rotating)",
-      "varying-period (i.e., variable-speed) spinning motion on parallel-horizontal plane relative to the direction of travel (i.e., horizontally revolving/rotating)",
-      "long-period (i.e., slow) spinning/revolving motion on parallel-horizontal plane relative to the direction of travel (i.e., horizontally revolving/rotating)"
+      "short-period [i.e., fast] spinning motion on parallel-vertical plane relative to the direction of travel [i.e., forward-rolling or pitch-like tumbling motion]",
+      "varying-period [i.e., variable-speed] spinning motion on parallel-vertical plane relative to the direction of travel [i.e., forward-rolling or pitch-like tumbling motion]",
+      "long-period [i.e., slow] spinning/revolving motion on parallel-vertical plane relative to the direction of travel [i.e., forward-rolling or pitch-like tumbling motion]",
+      "short-period [i.e., fast] spinning motion on perpendicular plane relative to the direction of travel [i.e., spiral vector in direction of travel]",
+      "varying-period [i.e., variable-speed] spinning motion on perpendicular plane relative to the direction of travel [i.e., spiral vector in direction of travel]",
+      "long-period [i.e., slow] spinning/revolving motion on perpendicular plane relative to the direction of travel [i.e., spiral vector in direction of travel]",
+      "short-period [i.e., fast] spinning motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]",
+      "varying-period [i.e., variable-speed] spinning motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]",
+      "long-period [i.e., slow] spinning/revolving motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]"
     ]
   },
   {
@@ -2002,15 +2002,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "while traveling in (a) short-period (i.e., fast/small) circle(s) on a plane vertically parallel to the direction of travel (i.e., where X rolls or tumbles along, e.g., a ball or a tumbleweed)",
-      "while traveling in (a) mid-period (i.e., medium-sized/paced) circle(s) on a plane vertically parallel to the direction of travel (i.e., where X rolls along, e.g., a ball or tumbleweed)",
-      "while traveling in (a) long-period (i.e., slow/large) circle(s) on a plane vertically parallel to the direction of travel (i.e., where X rolls or tumbles along, e.g., a ball or tumbleweed)",
-      "while traveling in (a) short-period (i.e., fast/small) circle(s) on a plane perpendicular to the direction of travel (i.e., resulting in a corkscrew-like path)",
-      "while traveling in (a) mid-period (i.e., medium-sized/paced) circle(s) on a plane perpendicular to the direction of travel (i.e., resulting in a corkscrew-like path)",
-      "while traveling in (a) long-period (i.e., slow/large) circle(s) on a plane perpendicular to the direction of travel (i.e., resulting in a corkscrew-like path)",
-      "while traveling in (a) short-period (i.e., fast/small) circle(s) on a plane horizontally parallel to the direction of travel (i.e., resulting in a path of moving epicycles / “curlycues”)",
-      "while traveling in (a) mid-period (i.e., medium-sized/paced) circle(s) on a plane horizontally parallel to the direction of travel (i.e., a path of moving epicycles / “curlycues”)",
-      "while traveling in (a) long-period (i.e., slow/large) circle(s) on a plane horizontally parallel to the direction of travel (i.e., resulting in a path of moving epicycles / “curlycues”)"
+      "while traveling in (a) short-period [i.e., fast/small] circle(s) on a plane vertically parallel to the direction of travel [i.e., where X rolls or tumbles along, e.g., a ball or a tumbleweed]",
+      "while traveling in (a) mid-period [i.e., medium-sized/paced] circle(s) on a plane vertically parallel to the direction of travel [i.e., where X rolls along, e.g., a ball or tumbleweed]",
+      "while traveling in (a) long-period [i.e., slow/large] circle(s) on a plane vertically parallel to the direction of travel [i.e., where X rolls or tumbles along, e.g., a ball or tumbleweed]",
+      "while traveling in (a) short-period [i.e., fast/small] circle(s) on a plane perpendicular to the direction of travel [i.e., resulting in a corkscrew-like path]",
+      "while traveling in (a) mid-period [i.e., medium-sized/paced] circle(s) on a plane perpendicular to the direction of travel [i.e., resulting in a corkscrew-like path]",
+      "while traveling in (a) long-period [i.e., slow/large] circle(s) on a plane perpendicular to the direction of travel [i.e., resulting in a corkscrew-like path]",
+      "while traveling in (a) short-period [i.e., fast/small] circle(s) on a plane horizontally parallel to the direction of travel [i.e., resulting in a path of moving epicycles / “curlycues”]",
+      "while traveling in (a) mid-period [i.e., medium-sized/paced] circle(s) on a plane horizontally parallel to the direction of travel [i.e., a path of moving epicycles / “curlycues”]",
+      "while traveling in (a) long-period [i.e., slow/large] circle(s) on a plane horizontally parallel to the direction of travel [i.e., resulting in a path of moving epicycles / “curlycues”]"
     ]
   },
   {
@@ -2081,11 +2081,11 @@
       "with accompanying/simultaneous back-and-forth (inward-outward) shaking motion",
       "with accompanying/simultaneous side-to-side (leftward-rightward) shaking motion",
       "with accompanying/simultaneous up-and-down motion",
-      "with accompanying/simultaneous back-and-forth (inward-outward) swinging (i.e., pendulum-like) motion",
-      "with accompanying/simultaneous side-to-side (leftward-rightward) swinging (i.e., pendulum-like) motion",
+      "with accompanying/simultaneous back-and-forth (inward-outward) swinging [i.e., pendulum-like] motion",
+      "with accompanying/simultaneous side-to-side (leftward-rightward) swinging [i.e., pendulum-like] motion",
       "with accompanying/simultaneous up-and-down “bobbing” motion",
-      "with accompanying/simultaneous with accompanying/simultaneous back-and-forth (inward-outward) overhead arc-like (i.e., parabolic) motion",
-      "with accompanying/simultaneous side-to-side (leftward-rightward) overhead arc-like (i.e., parabolic) motion",
+      "with accompanying/simultaneous with accompanying/simultaneous back-and-forth (inward-outward) overhead arc-like [i.e., parabolic] motion",
+      "with accompanying/simultaneous side-to-side (leftward-rightward) overhead arc-like [i.e., parabolic] motion",
       "with accompanying/simultaneous up-and-down arc-like motion"
     ]
   },
@@ -2097,15 +2097,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial (i.e., X- planar) axis [rotational direction: away from observer, as if “rolling away” from observer)",
-      "with accompanying/simultaneous spinning/rotating/“twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: “east-to-west”)",
-      "with accompanying/simultaneous spinning/rotating motion along equatorial (i.e., Z-planar) axis [rotational direction: “clockwise”)",
-      "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial (i.e., X-planar) axis [rotational direction: toward observer, as if “rolling toward” observer)",
-      "with accompanying/simultaneous spinning/rotating/“twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: “west-to-east”)",
-      "with accompanying/simultaneous spinning/rotating motion along equatorial (i.e., Z-planar) axis [rotational direction: “counter-/anti-clockwise”)",
-      "with accompanying/simultaneous bi-directional spinning/rotating/“rolling” motion along equatorial (i.e., X-planar) axis [rotational direction: alternating between toward and away from observer)",
-      "with accompanying/simultaneous bi-directional spinning/rotating/“twirling” motion along vertical (i.e., Y-planar) axis [rotational direction: alternating between “east-to-west” and “west-to-east”)",
-      "with accompanying/simultaneous bi-directional spinning/rotating motion along equatorial (i.e., Z-planar) axis [rotational direction: alternating between “clockwise” and “counter-/anti-clockwise”)"
+      "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial [i.e., X- planar] axis [rotational direction: away from observer, as if “rolling away” from observer]",
+      "with accompanying/simultaneous spinning/rotating/“twirling” motion along vertical [i.e., Y-planar] axis [rotational direction: “east-to-west”]",
+      "with accompanying/simultaneous spinning/rotating motion along equatorial [i.e., Z-planar] axis [rotational direction: “clockwise”]",
+      "with accompanying/simultaneous spinning/rotating/“rolling” motion along equatorial [i.e., X-planar] axis [rotational direction: toward observer, as if “rolling toward” observer]",
+      "with accompanying/simultaneous spinning/rotating/“twirling” motion along vertical [i.e., Y-planar] axis [rotational direction: “west-to-east”]",
+      "with accompanying/simultaneous spinning/rotating motion along equatorial [i.e., Z-planar] axis [rotational direction: “counter-/anti-clockwise”]",
+      "with accompanying/simultaneous bi-directional spinning/rotating/“rolling” motion along equatorial [i.e., X-planar] axis [rotational direction: alternating between toward and away from observer]",
+      "with accompanying/simultaneous bi-directional spinning/rotating/“twirling” motion along vertical [i.e., Y-planar] axis [rotational direction: alternating between “east-to-west” and “west-to-east”]",
+      "with accompanying/simultaneous bi-directional spinning/rotating motion along equatorial [i.e., Z-planar] axis [rotational direction: alternating between “clockwise” and “counter-/anti-clockwise”]"
     ]
   },
   {
@@ -2118,10 +2118,10 @@
       null,
       "with (an) orientational “end” of X facing toward the observer",
       "with (an) orientational “end” of X pointing perpendicularly upward/upright/vertically upward relative to the observer",
-      "with X’s orientational “end(s)” at an oblique angle to, but equidistant from (i.e., neither facing toward or away from) the observer",
+      "with X’s orientational “end(s)” at an oblique angle to, but equidistant from [i.e., neither facing toward or away from] the observer",
       "with X’s orientational “end(s)” changing position relative the observer",
       "with the observer being unable to discern/determine the position of X’s orientational “end(s)” relative to the observer",
-      "with X’s orientational “end(s)” pointing horizontally sideways relative to the observer (i.e., “lying flat with ends pointing left and right”)",
+      "with X’s orientational “end(s)” pointing horizontally sideways relative to the observer [i.e., “lying flat with ends pointing left and right”]",
       "with X’s orientational “ends” at an oblique angle to the observer with one end closer to observer than the other",
       "with X’s orientational “end” pointing perpendicularly downward/upside-down/vertically downward relative to the observer",
       "with X’s (an) orientational “end” facing away from the observer"
@@ -2135,7 +2135,7 @@
     "associated_root": false,
     "degrees": [
       null,
-      "with X’s orientational “face” or “front” facing directly toward the observer(i.e.at an angle perpendicular to observer’s line of sight)",
+      "with X’s orientational “face” or “front” facing directly toward the observer[i.e.at an angle perpendicular to observer’s line of sight]",
       "with X’s orientational “face” or “front” pointing perpendicularly upward/upright/vertically upward relative to the observer",
       "with X’s orientational “face” or “front” at an oblique angle oriented toward the observer",
       "with X’s orientational “face” or “front” changing position relative the observer",
@@ -2143,7 +2143,7 @@
       "with X’s orientational “face” or “front” pointing horizontally sideways relative to the observer",
       "with X’s orientational “face” or “front” at an oblique angle oriented away from the observer",
       "with X’s orientational “face” or “front” pointing perpendicularly downward/upside-down/vertically downward relative to the observer",
-      "with X’s orientational “face” or “front” facing completely away from the observer (i.e., at an angle perpendicular to observer’s line of sight)"
+      "with X’s orientational “face” or “front” facing completely away from the observer [i.e., at an angle perpendicular to observer’s line of sight]"
     ]
   },
   {
@@ -2174,7 +2174,7 @@
     "degrees": [
       null,
       "on an atomic/quantum-sized scale in terms of size or areal/volumetric impact",
-      "on a very small scale in terms of size or areal/volumetric impact (where the area/volume impacted is from molecular/microscopic to a size where it is still too small to easily manipulate without use of specialized implements (e.g., tweezers, magnifying glass, microscope, etc.)",
+      "on a very small scale in terms of size or areal/volumetric impact [where the area/volume impacted is from molecular/microscopic to a size where it is still too small to easily manipulate without use of specialized implements e.g., tweezers, magnifying glass, microscope, etc.]",
       "on a small scale in terms of size or areal/volumetric impact (where the area/volume impacted is within range of manual manipulation by one’s hands/arms/appendages or hand-held implements)",
       "on a somewhat large scale beyond one’s ability to manipulate manually -- requiring mechanical or other assistance in order to manipulate",
       "on a large scale, requiring specialized heavy machinery or industrial-level technology to manipulate",
@@ -2192,14 +2192,14 @@
     "associated_root": true,
     "degrees": [
       null,
-      "quasi-linear “trail” or wake left behind on path of linear movement; trail or wake is not composed of the moving entity itself but shows effect of its passage (e.g., slime trail left by snail, footprints left on snow, mowed down foliage left by moving convoy, etc.)",
-      "quasi-linear spread of entity stretching behind linearly moving “head” (e.g., a line of soldiers put in place to create a front, a line left on a piece of paper as written by an ink pen, path of a ball of string or skein of yarn as it unravels while rolling down an incline)",
+      "quasi-linear “trail” or wake left behind on path of linear movement; trail or wake is not composed of the moving entity itself but shows effect of its passage [e.g., slime trail left by snail, footprints left on snow, mowed down foliage left by moving convoy, etc.]",
+      "quasi-linear spread of entity stretching behind linearly moving “head” [e.g., a line of soldiers put in place to create a front, a line left on a piece of paper as written by an ink pen, path of a ball of string or skein of yarn as it unravels while rolling down an incline]",
       "quasi-linear trail/wake/spread left behind passage as line of demarcation/boundary/barrier",
-      "2-D quasi-planar wake left behind on path of movement; wake is not composed of the moving entity itself but shows effect of its passage (e.g., aftermath of a forest fire, cleaned area of dirty floor or wall after it has been wiped by a mop or dustcloth)",
-      "2-D quasi-planar spread stretching behind moving front (e.g., area of spreading flames in a forest fire, area being inundated by a flood, area of a wall being covered up by plaster by workmen, coating of an apple dipped in chocolate, area of floor covered up by a rug)",
+      "2-D quasi-planar wake left behind on path of movement; wake is not composed of the moving entity itself but shows effect of its passage [e.g., aftermath of a forest fire, cleaned area of dirty floor or wall after it has been wiped by a mop or dustcloth]",
+      "2-D quasi-planar spread stretching behind moving front [e.g., area of spreading flames in a forest fire, area being inundated by a flood, area of a wall being covered up by plaster by workmen, coating of an apple dipped in chocolate, area of floor covered up by a rug]",
       "2-D quasi-planar trail/wake/spread left behind passage as area of demarcation/zone/restricted area",
-      "3-D volume left behind a moving front; volume is not composed of or inundated with the moving entity itself but shows effect of its passage (e.g., area left behind the passage of a tidal wave, column of superheated air left behind the passage of a rocket",
-      "3-D volume inundated by spread of moving front (e.g., spread of a gas within a room, area inundated by fog, volume of a container taken up by substance placed/poured/stuffed into it)",
+      "3-D volume left behind a moving front; volume is not composed of or inundated with the moving entity itself but shows effect of its passage [e.g., area left behind the passage of a tidal wave, column of superheated air left behind the passage of a rocket]",
+      "3-D volume inundated by spread of moving front [e.g., spread of a gas within a room, area inundated by fog, volume of a container taken up by substance placed/poured/stuffed into it]",
       "3-D volume left behind passage of moving front as volume/spatial area of demarcation/zone"
     ]
   }

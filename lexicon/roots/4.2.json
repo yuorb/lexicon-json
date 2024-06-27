@@ -18,9 +18,9 @@
     "root": "MP",
     "refers": "NUCLEAR FAMILY MEMBER",
     "stems": [
-      "(to be) a parent (i.e., person who raised another from childhood, whether genetic parent, foster parent, adoptive parent, guardian, etc.); to parent; to raise a child as a parent",
-      "(to be) a child (i.e., person being raised by a parent/guardian)",
-      "(to be) a grandparent (i.e., parent of a parent)"
+      "(to be) a parent [i.e., person who raised another from childhood, whether genetic parent, foster parent, adoptive parent, guardian, etc.]; to parent; to raise a child as a parent",
+      "(to be) a child [i.e., person being raised by a parent/guardian]",
+      "(to be) a grandparent [i.e., parent of a parent]"
     ],
     "notes": "Refers to a functional relationship, not necessarily a genetic one.",
     "see": "BČ"
@@ -29,9 +29,9 @@
     "root": "MM",
     "refers": "MEMBER OF GENETIC PARENT-OFFSPRING RELATION",
     "stems": [
-      "(to be) a parent/progenitor (i.e., person who is the genetic father or mother of a child); to procreate; to create a child",
-      "(to be) a child (i.e., genetic offspring/progeny of another)",
-      "(to be) a grandparent (i.e., genetic parent of a parent)"
+      "(to be) a parent/progenitor [i.e., person who is the genetic father or mother of a child]; to procreate; to create a child",
+      "(to be) a child [i.e., genetic offspring/progeny of another]",
+      "(to be) a grandparent [i.e., genetic parent of a parent]"
     ],
     "see": "BČ"
   },
@@ -59,9 +59,9 @@
     "root": "LH",
     "refers": "COLLATERAL FAMILIAL RELATIONS",
     "stems": [
-      "(to be) a parent’s sibling (i.e., aunt/uncle)",
-      "(to be) a sibling’s child (i.e., nephew/niece)",
-      "(to be) a parent’s sibling’s child (i.e., first cousin)"
+      "(to be) a parent’s sibling [i.e., aunt/uncle]",
+      "(to be) a sibling’s child [i.e., nephew/niece]",
+      "(to be) a parent’s sibling’s child [i.e., first cousin]"
     ],
     "see": "BČ"
   }

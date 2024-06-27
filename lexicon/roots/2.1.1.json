@@ -28,15 +28,15 @@
     "refers": "CUT / STAB / CRACK / FISSURE",
     "stems": [
       {
-        "BSC": "(be) an act of cutting something with a (quasi-) bladed instrument or force (“cut” = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument)",
+        "BSC": "(be) an act of cutting something with a (quasi-)bladed instrument or force [“cut” = to make a quasi-linear, parallel-to-the-surface break in the structural/cohesive integrity of the surface integument of an entity/object by means of a bladed (or bladelike) instrument]",
         "CTE": "(be) the physical cut itself; a quasi-linear break in the structural/cohesive integrity of the surface integument of an entity/object",
         "CSV": "(be) the physical act/process of cutting; to cut",
         "OBJ": "(be) a blade (the portion of a knife/sword/axe/scissors, etc. that effectuates a cut)"
       },
-      "(be) an act of stabbing (i.e., puncturing in a quasi-linear manner perpendicular to the surface integument of an object/entity using a sharp-pointed quasi-linear object).",
+      "(be) an act of stabbing [i.e., puncturing in a quasi-linear manner perpendicular to the surface integument of an object/entity using a sharp-pointed quasi-linear object]",
       "(be) an act of making a quasi-linear rent or crack or fissure in the surface integument of an object/entity; to (make a) rent, to (make a) crack"
     ],
-    "notes": "(i.e., quasi-linear puncturing or quasi-planar breaking of surface integument)"
+    "notes": "[i.e., quasi-linear puncturing or quasi-planar breaking of surface integument]"
   },
   {
     "root": "ÇR",
@@ -57,13 +57,13 @@
     "refers": "SLICE / PLANE / SHAVE / SHRED",
     "stems": [
       {
-        "BSC": "(be) an act of slicing/sectioning something with a bladed (or blade-like) instrument (i.e., cut quasi-perpendicularly relative to the surface plane of an entity into quasi-planar piece/section)",
+        "BSC": "(be) an act of slicing/sectioning something with a bladed (or blade-like) instrument [i.e., cut quasi-perpendicularly relative to the surface plane of an entity into quasi-planar piece/section]",
         "CTE": "(be) the physical gash/divide caused by an act of slicing; a quasi-planar break in the structural/cohesive integrity of the surface integument of an entity/object and the three-dimensional volume beneath",
         "CSV": "(be) the physical act/process of slicing; to slice",
         "OBJ": "(be) a blade (the portion of a knife that effectuates slice/section)"
       },
-      "(be) an act of making a planed/shaved slice; to plane; to shave off a piece (i.e., cut parallel to the surface plane of an entity into a quasi-planar piece/strip)",
-      "(be) an act of shredding (i.e., using a specialized instrument to render a three-dimensional volume/portion of an object entity into quasi-linear ribbon-like or thread-like pieces)"
+      "(be) an act of making a planed/shaved slice; to plane; to shave off a piece [i.e., cut parallel to the surface plane of an entity into a quasi-planar piece/strip]",
+      "(be) an act of shredding [i.e., using a specialized instrument to render a three-dimensional volume/portion of an object entity into quasi-linear ribbon-like or thread-like pieces]"
     ]
   },
   {
@@ -71,10 +71,10 @@
     "refers": "SCRATCH * / SCRAPE / PEEL",
     "stems": [
       {
-        "BSC": "(be) an act of scratching, i.e., using a pointed or (quasi-)chisel-headed instrument or body part (e.g. fingernails) to imbue a surface with shallow quasi-linear rents; to scratch something [ = to make a scratch/scratches in a surface, NOT to relieve an itch]",
+        "BSC": "(be) an act of scratching, i.e., using a pointed or (quasi-)chisel-headed instrument or body part [e.g. fingernails] to imbue a surface with shallow quasi-linear rents; to scratch something [= to make a scratch/scratches in a surface, NOT to relieve an itch]",
         "CTE": "(be) a scratch",
         "CSV": "(be) the physical act/process of scratching; to scratch",
-        "OBJ": "(be) the means (i.e., implement or body part) utilized to effectuate an act of scratching"
+        "OBJ": "(be) the means [i.e., implement or body part] utilized to effectuate an act of scratching"
       },
       "(be) an act of scraping, i.e., using an implement to remove a shallow layer of material from a surface; to scrape",
       "(be) an act of peeling; to peel"
@@ -91,8 +91,8 @@
         "CSV": "(be) the physical act/process of chopping; to chop",
         "OBJ": "(be) a blade (the portion of a knife/cleaver/axe, etc. that effectuates an act of chopping)"
       },
-      "(be) an act of dicing (i.e., slicing into quasi-cubic pieces)",
-      "(be) an act of mincing (i.e., slicing in crosshatched fashion to the point of making an entity’s texture a slurry or paste-like)"
+      "(be) an act of dicing [i.e., slicing into quasi-cubic pieces]",
+      "(be) an act of mincing [i.e., slicing in crosshatched fashion to the point of making an entity’s texture a slurry or paste-like]"
     ]
   },
   {
@@ -106,7 +106,7 @@
         "OBJ": "(be) a blade (the portion of carving implement that effectuates an act of carving)"
       },
       "(be) an act of interior carving, carving out, i.e., careful/precise removal of specific interior tissue/volume of an entity using a (quasi-)bladed instrument; to carve out",
-      "(be) an act of gutting or evisceration; to gut/eviscerate (i.e., remove most or all of the interior volume of an entity"
+      "(be) an act of gutting or evisceration; to gut/eviscerate [i.e., remove most or all of the interior volume of an entity]"
     ]
   },
   {
@@ -114,7 +114,7 @@
     "refers": "PIERCE / PUNCTURE / BREACH / HOLE / TUNNEL",
     "stems": [
       {
-        "BSC": "(be) an act of piercing through, puncturing through, punching through, breaching, breaking through, tunneling (i.e., create an access point/passageway in a 2- or 3-dimensional medium to the other side or to another separate space)",
+        "BSC": "(be) an act of piercing through, puncturing through, punching through, breaching, breaking through, tunneling [i.e., create an access point/passageway in a 2- or 3-dimensional medium to the other side or to another separate space]",
         "CTE": "(be) the material removed via an act of piercing, puncturing",
         "CSV": "(be) an act of piercing, puncturing",
         "OBJ": "(be) the appendage/implement/tool used for piercing, puncturing"
@@ -153,12 +153,12 @@
     "refers": "EXCAVATION / DREDGING / MINING",
     "stems": [
       {
-        "BSC": "(to be) an act/process of excavation; to excavate/exhumation [i.e., remove a relatively large amount material from a solid substrate for the purpose of reshaping that substrate or to find something within the removed material",
+        "BSC": "(to be) an act/process of excavation; to excavate/exhumation [i.e., remove a relatively large amount material from a solid substrate for the purpose of reshaping that substrate or to find something within the removed material]",
         "CTE": "(to be) the material removed/carved out from an act/process of excavation/exhumation",
         "CSV": "(to be) a physical act of; to physically perform an act of excavation/exhumation",
         "OBJ": "(to be) an implement/tool/process/device used in the act/process of excavation/exhumation"
       },
-      "(to be) an act/process of dredging; to dredge (i.e., remove material from an underwater surface to improve the use of that substrate as a conduit/passage or to find something within the material removed]",
+      "(to be) an act/process of dredging; to dredge [i.e., remove material from an underwater surface to improve the use of that substrate as a conduit/passage or to find something within the material removed]",
       "(to be) an act/process of mining; to mine [i.e., to use an implement or machinery to remove desired ore or other desired material from a surrounding subterranean or underwater substrate]"
     ]
   },
@@ -167,7 +167,7 @@
     "refers": "BURROW / HOLLOW OUT",
     "stems": [
       {
-        "BSC": "(be) an act of hollowing out, burrowing/tunneling*; to burrow/tunnel (i.e., create a tube-like space within a 3-dimensional medium",
+        "BSC": "(be) an act of hollowing out, burrowing/tunneling*; to burrow/tunnel [i.e., create a tube-like space within a 3-dimensional medium]",
         "CTE": "(be) the material removed via an act of hollowing out or burrowing",
         "CSV": "(be) an act of hollowing out or burrowing",
         "OBJ": "(be) the appendage/implement/device/machine used for hollowing/burrowing/tunneling"
@@ -182,7 +182,7 @@
     "refers": "TIGHTNESS / FITTEDNESS / COMPATIBILITY",
     "stems": [
       {
-        "BSC": "(be) a state of being tight; tightness; be/make tight, i.e., difficult to disjoin or open or separate",
+        "BSC": "(be) a state of being tight; tightness; be/make tight, [i.e., difficult to disjoin or open or separate]",
         "CTE": "(be) the state undergone by an entity or entities having a physical bond/connection/juncture/fitting which is tight",
         "CSV": "(be) the physical act of tightening",
         "OBJ": "(be) the juncture itself which is (to be) tight(ened)"
@@ -201,8 +201,8 @@
         "CSV": "(be) the physical act of fitting",
         "OBJ": "(be) the juncture itself which one establishes or seeks to establish by an act of fitting something into something else"
       },
-      "(be) an act/instance of accommodating something (i.e., finding a place for something within a surrounding context so that it can become a functioning/contributing/associated part of that context)",
-      "(be) a act/instance of finding/establishing a niche for something (i.e., establishing an existence/lifestyle/role which becomes part of and contributes to the encompassing contextual environment)"
+      "(be) an act/instance of accommodating something [i.e., finding a place for something within a surrounding context so that it can become a functioning/contributing/associated part of that context]",
+      "(be) a act/instance of finding/establishing a niche for something [i.e., establishing an existence/lifestyle/role which becomes part of and contributes to the encompassing contextual environment]"
     ]
   },
   {
@@ -210,13 +210,13 @@
     "refers": "STRAIGHTENING / ALIGNMENT",
     "stems": [
       {
-        "BSC": "(be) an act/instance of making something straight/rectilinear [by design]; make something straight by design (i.e., make rectilinear as opposed to making it bent, curved, crooked)",
+        "BSC": "(be) an act/instance of making something straight/rectilinear [by design]; make something straight by design [i.e., make rectilinear as opposed to making it bent, curved, crooked]",
         "CTE": "(be) the state of being straight/rectilinear",
         "CSV": "(be) the physical act of straightening; make something straight/rectilinear",
         "OBJ": "(be) that which is straight(ened)"
       },
-      "(be) an act/instance of straightening something out; to straighten out (i.e., fix something that was crooked/bent/curved/warped by making it rectilinear/straight as it should be)",
-      "(be) a act/instance of aligning/alignment; to align (i.e., make an entity or collection of entities line up in a rectilinear shape/pattern for aesthetic reasons or for proper/optimal functioning)"
+      "(be) an act/instance of straightening something out; to straighten out [i.e., fix something that was crooked/bent/curved/warped by making it rectilinear/straight as it should be]",
+      "(be) a act/instance of aligning/alignment; to align [i.e., make an entity or collection of entities line up in a rectilinear shape/pattern for aesthetic reasons or for proper/optimal functioning]"
     ]
   },
   {
@@ -227,7 +227,7 @@
         "BSC": "(be) an act/instance of one entity physically being connected to another via a structural juncture or pivot point",
         "CTE": "(be) the state of being connected to another via a structural juncture or pivot point",
         "CSV": "(be) the physical act of connecting via a structural juncture/pivot point",
-        "OBJ": "(be) the implement itself which establishes such a juncture or pivot point (e.g., a hinge, a universal joint, a ball joint, prismatic joint, cylindrical joint, snake-like flexible joint, etc.)"
+        "OBJ": "(be) the implement itself which establishes such a juncture or pivot point [e.g., a hinge, a universal joint, a ball joint, prismatic joint, cylindrical joint, snake-like flexible joint, etc.]"
       },
       "(be) an act/instance of being able to pivot due to the placement of a structural juncture",
       "(be) a act/instance of structural/physical tension caused by pivoting within the constraints allowed by a structural juncture"
@@ -274,7 +274,7 @@
         "OBJ": "(be) the gear mechanism which creates a change in kinematic ratio of energy output or speed"
       },
       "[same as Stem 1 except that the gear mechanism is designed to redirect energy into a different direction as opposed to a change in energy output ratio or speed]",
-      "[combination of Stems 1 and 2; both change in energy output ratio or speed plus change in direction of energy output/utilization"
+      "[combination of Stems 1 and 2]; both change in energy output ratio or speed plus change in direction of energy output/utilization"
     ],
     "notes": "(allowing 3-dimensional movement)"
   },
@@ -283,10 +283,10 @@
     "refers": "SUSPEND / HANG (UP) / DANGLE / PENDENCY",
     "stems": [
       {
-        "BSC": "(be) an act/instance of hanging something (up); to hang, suspend (i.e., supporting something continuously against gravity",
+        "BSC": "(be) an act/instance of hanging something (up); to hang, suspend [i.e., supporting something continuously against gravity]",
         "CTE": "(be) a state of hanging/suspension; be hanging (up/on) something",
         "CSV": "(be) the physical act of hanging something up or onto",
-        "OBJ": "(be) the implement/connecting medium used to keep something hanging (e.g., hook, knotted string/cord/rope, strap, harness, etc.)"
+        "OBJ": "(be) the implement/connecting medium used to keep something hanging [e.g., hook, knotted string/cord/rope, strap, harness, etc.]"
       },
       "(be) an act/instance of dangling something; to dangle",
       "(be) an act/instance of overhanging, jutting (out)"
@@ -303,8 +303,8 @@
         "CSV": "(to be) an act/state of flotation/drifting upon a (semi-)liquid surface; to (make) float/drift, to be afloat, to be adrift",
         "OBJ": "(to be) the liquid or semi-liquid surface upon which one floats/drifts"
       },
-      "(to be) an act/instance of being/floating/drifting aloft; be aloft, soar, swim within or through, i.e., to have free movement or move freely within a 3-dimensional medium (e.g., air, water, space, etc.);",
-      "(to be) an act/instance of hovering in place within a medium (e.g., air, water, space, etc.); to hover [i.e., controlled station-keeping in one place within a 3-dimensional medium against the force of gravity]"
+      "(to be) an act/instance of being/floating/drifting aloft; be aloft, soar, swim within or through, i.e., to have free movement or move freely within a 3-dimensional medium [e.g., air, water, space, etc.];",
+      "(to be) an act/instance of hovering in place within a medium [e.g., air, water, space, etc.]; to hover [i.e., controlled station-keeping in one place within a 3-dimensional medium against the force of gravity]"
     ]
   },
   {
@@ -312,13 +312,13 @@
     "refers": "FLATTEN / SMOOTH / LEVEL",
     "stems": [
       {
-        "BSC": "(be) an act/instance of flattening;, make flat(ter), render flat(ter) (i.e., make have a more planar surface without significant perturbations)",
+        "BSC": "(be) an act/instance of flattening;, make flat(ter), render flat(ter) [i.e., make have a more planar surface without significant perturbations]",
         "CTE": "(be) a state of being flat",
         "CSV": "(be) the physical act of flattening",
         "OBJ": "(be) the implement/tool used to flatten something"
       },
-      "(be) an act/instance of making smooth (i.e., not having surface roughness, projections, or perturbations)",
-      "(be) an act/instance of make (more) level or even or parallel (i.e., make a quasi-linear or quasi-planar surface be as parallel to another surface or measuring line/plane as possible)"
+      "(be) an act/instance of making smooth [i.e., not having surface roughness, projections, or perturbations]",
+      "(be) an act/instance of make (more) level or even or parallel [i.e., make a quasi-linear or quasi-planar surface be as parallel to another surface or measuring line/plane as possible]"
     ],
     "notes": "Morphological derivatives: polish"
   },
@@ -327,13 +327,13 @@
     "refers": "HOLD TOGETHER / HOLD STILL / BIND / RESTRAIN",
     "stems": [
       {
-        "BSC": "(be) an act/instance of holding something together on a long-term or (quasi-) permanent basis (i.e., so that it doesn’t separate, come apart, or disassemble)",
+        "BSC": "(be) an act/instance of holding something together on a long-term or (quasi-)permanent basis [i.e., so that it doesn’t separate, come apart, or disassemble]",
         "CTE": "(be) a state of being held together",
         "CSV": "(be) the physical act of holding together",
-        "OBJ": "(be) the implement/tool/medium used to keep something held together (e.g., clip, clasp, clamp, vice, clothespin, string/cord, rubber band, bookend(s), etc.)"
+        "OBJ": "(be) the implement/tool/medium used to keep something held together [e.g., clip, clasp, clamp, vice, clothespin, string/cord, rubber band, bookend(s), etc.]"
       },
-      "(be) an act/instance of binding something (i.e., keeping it from coming apart, coming loose, or escaping by internal motion in-situ)",
-      "(be) an act/instance of holding something still; restrain (i.e., keeping it from moving from one place to another; keeping it in one place)"
+      "(be) an act/instance of binding something [i.e., keeping it from coming apart, coming loose, or escaping by internal motion in-situ]",
+      "(be) an act/instance of holding something still; restrain [i.e., keeping it from moving from one place to another; keeping it in one place]"
     ],
     "notes": "This root refers to long-term, (quasi-)permanent states of holding things together. For incidental, temporary contexts, see the next root -**TV**- below."
   },
@@ -345,10 +345,10 @@
         "BSC": "(be) an act/instance of supporting something up or holding something up so that it does not collapse; to support/hold up/bolster something against collapse",
         "CTE": "(be) a state of being held up or supported against collapse",
         "CSV": "(be) the physical act of holding up or supporting against collapse",
-        "OBJ": "(be) the implement/tool/medium used to keep something held up (e.g., crutch, strut, hanging wire/rope/string, negative pressure, etc.)"
+        "OBJ": "(be) the implement/tool/medium used to keep something held up [e.g., crutch, strut, hanging wire/rope/string, negative pressure, etc.]"
       },
-      "(be) an act/instance of bearing something so that it remains raised high, to hold high, to bear up (i.e., keeping it from falling or returning to a lowered height)",
-      "(be) an act/instance of holding something aloft; to hold aloft, keep aloft (i.e., keeping it from returning/falling to the ground)"
+      "(be) an act/instance of bearing something so that it remains raised high, to hold high, to bear up [i.e., keeping it from falling or returning to a lowered height]",
+      "(be) an act/instance of holding something aloft; to hold aloft, keep aloft [i.e., keeping it from returning/falling to the ground]"
     ]
   },
   {
@@ -359,25 +359,25 @@
         "BSC": "(be) an act/instance of erecting something to a vertical position perpendicular to the ground (or parallel to the direction of gravity)",
         "CTE": "(be) a state of erecting",
         "CSV": "(be) the physical act of erecting",
-        "OBJ": "(be) the means/implement/procedure/command used to erect something (e.g., pulley)"
+        "OBJ": "(be) the means/implement/procedure/command used to erect something [e.g., pulley]"
       },
       "(be) an act/instance of letting rise up to an erect position",
       "(be) an act/instance of raising something up to a high(er) level, involving a use of energy and manipulation (as opposed to letting it rise freely on its own); to physically raise something to a high(er) level"
     ],
-    "notes": "(i.e., perpendicular to the ground)"
+    "notes": "[i.e., perpendicular to the ground]"
   },
   {
     "root": "MJ",
     "refers": "FELL / BRING DOWN / LOWER",
     "stems": [
       {
-        "BSC": "(be) an act/instance of making something fall via gravity from its (quasi-) perpendicular stance; to fell",
+        "BSC": "(be) an act/instance of making something fall via gravity from its (quasi-)perpendicular stance; to fell",
         "CTE": "(be) a state of falling",
         "CSV": "(be) the physical act of felling",
         "OBJ": "(be) the means/implement/procedure/command used to make something fall"
       },
       "(be) an act/instance of letting something fall; to drop",
-      "(be) an act/instance of lowering something down to (quasi-) ground level from on high, involving a use of energy and manipulation (as opposed to letting it fall freely via gravity); to physically lower something to one’s level"
+      "(be) an act/instance of lowering something down to (quasi-)ground level from on high, involving a use of energy and manipulation (as opposed to letting it fall freely via gravity); to physically lower something to one’s level"
     ]
   },
   {
@@ -390,7 +390,7 @@
         "CSV": "(be) the physical act of grabbing/grasping",
         "OBJ": "(be) the hand or appendage with which one grabs/grasps"
       },
-      "(be) an act/instance of picking something up or picking something out of something else (i.e., physically isolating and removing something from its surface/medium/substrate)",
+      "(be) an act/instance of picking something up or picking something out of something else [i.e., physically isolating and removing something from its surface/medium/substrate]",
       "(be) an act/instance of handling/manipulating something with one’s hands or manipulative appendage(s)"
     ]
   },
@@ -402,10 +402,10 @@
         "BSC": "(be) an act/instance of breaking something apart or breaking something open",
         "CTE": "(be) a state of being broken apart or broken open",
         "CSV": "(be) the physical act of breaking apart or broken open",
-        "OBJ": "(be) the implement/tool/medium used to break something apart (e.g., pickaxe, crowbar, sledgehammer, mallet, chisel, etc."
+        "OBJ": "(be) the implement/tool/medium used to break something apart [e.g., pickaxe, crowbar, sledgehammer, mallet, chisel, etc.]"
       },
       "(be) an act/instance of breaking something into multiple pieces",
-      "(be) an act/instance of crumbling something into non-discrete pieces (i.e., powder, dust, gravel, crumbs, etc.)"
+      "(be) an act/instance of crumbling something into non-discrete pieces [i.e., powder, dust, gravel, crumbs, etc.]"
     ]
   },
   {
@@ -427,13 +427,13 @@
     "refers": "MANUAL MANIPULATION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of incidentally or temporarily holding something together (i.e., so that it doesn’t separate, come apart, or disassemble)",
+        "BSC": "(be) an act/instance of incidentally or temporarily holding something together [i.e., so that it doesn’t separate, come apart, or disassemble]",
         "CTE": "(be) a state of being incidentally or temporarily held together",
         "CSV": "(be) the physical act of incidentally or temporarily holding together",
-        "OBJ": "(be) the implement/tool/medium used to keep something incidentally or temporarily held together (e.g., pliers, tweezers, forceps, etc.)"
+        "OBJ": "(be) the implement/tool/medium used to keep something incidentally or temporarily held together [e.g., pliers, tweezers, forceps, etc.]"
       },
       "(be) an act/instance of incidentally or temporarily touching, holding or handling something for the purpose of carrying, conveying, protecting, inspecting, displaying, admiring it, etc.",
-      "(be) an act/instance of manipulating something for the purpose of changing/activating/reshaping/stimulating/operating it (e.g., by squeezing, twisting, pressing, pushing, pulling, rubbing, etc.)"
+      "(be) an act/instance of manipulating something for the purpose of changing/activating/reshaping/stimulating/operating it [e.g., by squeezing, twisting, pressing, pushing, pulling, rubbing, etc.]"
     ]
   },
   {
@@ -443,11 +443,11 @@
       {
         "BSC": "(be) an act/instance of moving two or more entities apart (to create a gap or opening or passageway)",
         "CTE": "(be) a state of being/having been moved apart",
-        "CSV": "(be) the physical act of moving two or more entities apart (e.g., via pulling, pushing, or other force or means)",
+        "CSV": "(be) the physical act of moving two or more entities apart [e.g., via pulling, pushing, or other force or means]",
         "OBJ": "(be) the means/implement/procedure used to effectuate an act of moving apart"
       },
-      "(be) an act/instance of pushing (i.e., applying force/pressure toward) an entity in order to move it apart so as to create a gap, opening, or passageway",
-      "(be) an act/instance of pulling (i.e., drawing force/pressure away from) an entity in order to move it apart so as to create a gap, opening, or passageway"
+      "(be) an act/instance of pushing [i.e., applying force/pressure toward] an entity in order to move it apart so as to create a gap, opening, or passageway",
+      "(be) an act/instance of pulling [i.e., drawing force/pressure away from] an entity in order to move it apart so as to create a gap, opening, or passageway"
     ]
   },
   {
@@ -455,22 +455,22 @@
     "refers": "JUNCTION / CONNECTION / FASTENING / BONDING",
     "stems": [
       {
-        "BSC": "(be) an act/instance of joining two or more entities together so that they become a set (i.e., bringing two or more entities spatially close or in contact so that they move/function or can be considered as a set)",
+        "BSC": "(be) an act/instance of joining two or more entities together so that they become a set [i.e., bringing two or more entities spatially close or in contact so that they move/function or can be considered as a set]",
         "CTE": "(be) a state of being a member of a set",
         "CSV": "(be) the physical act of joining together into a set",
         "OBJ": "(be) the juncture itself which one establishes or seeks to establish by an act of joining"
       },
-      "(be) an act/instance of connecting or attaching; a connection; to connect or attach (i.e., utilize a tangible part of an object, or a dedicated implement, e.g., wire, rope, glue, staple, etc., to form a physical link between two or more entities",
-      "(be) an act/instance of fastening/bonding; a bond; to fasten or bond (i.e., utilize a dedicated implement or means, e.g., wire, rope, glue, staple, etc., to physically attach two or more entities together in a (quasi-)permanent or long-term bond so that one entity is now considered part of another or that the entities are considered a unit)"
+      "(be) an act/instance of connecting or attaching; a connection; to connect or attach [i.e., utilize a tangible part of an object, or a dedicated implement, e.g., wire, rope, glue, staple, etc., to form a physical link between two or more entities]",
+      "(be) an act/instance of fastening/bonding; a bond; to fasten or bond [i.e., utilize a dedicated implement or means, e.g., wire, rope, glue, staple, etc., to physically attach two or more entities together in a (quasi-)permanent or long-term bond so that one entity is now considered part of another or that the entities are considered a unit]"
     ]
   },
   {
     "root": "RMC",
     "refers": "LINKAGE / UNIFICATION / FUSION / MERGING / COALESCING / MELDING",
     "stems": [
-      "(be) an act/instance of linking; a link, linkage; to link (i.e., a joining together of entities with a focus on the individual members of the resulting set maintaining their individual autonomy/identity)",
-      "(be) an act/instance of unifying, uniting (i.e., joining entities together so that they are objectively or subjectively a unit, a single gestalt entity",
-      "(be) an act/instance of fusion/merging/coalescing/melding (i.e., joining entities together so that each loses its individual boundaries or compositional integrity and becomes part of or mixed with others into a (quasi-)indivisible physical whole."
+      "(be) an act/instance of linking; a link, linkage; to link [i.e., a joining together of entities with a focus on the individual members of the resulting set maintaining their individual autonomy/identity]",
+      "(be) an act/instance of unifying, uniting [i.e., joining entities together so that they are objectively or subjectively a unit, a single gestalt entity]",
+      "(be) an act/instance of fusion/merging/coalescing/melding [i.e., joining entities together so that each loses its individual boundaries or compositional integrity and becomes part of or mixed with others into a (quasi-)indivisible physical whole]"
     ],
     "see": "MC"
   },
@@ -479,12 +479,12 @@
     "refers": "PENETRATION / DRIVING INTO / INJECTION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of penetration through a (quasi-)two-dimensional surface (i.e., the passing of an external entity into or through a quasi-planar surface in which the structural integrity of the surface is broken/interrupted)",
+        "BSC": "(be) an act/instance of penetration through a (quasi-)two-dimensional surface [i.e., the passing of an external entity into or through a quasi-planar surface in which the structural integrity of the surface is broken/interrupted]",
         "CTE": "(be) a state of being/having been penetrated",
         "CSV": "(be) the physical act of penetration",
-        "OBJ": "(be) the entity/object employed to penetrate (e.g., a nail, screw, blade, pointed object, etc.)"
+        "OBJ": "(be) the entity/object employed to penetrate [e.g., a nail, screw, blade, pointed object, etc.]"
       },
-      "(be) an act/instance of driving into (i.e., forceful insertion or penetration through a resistant/hard surface by breaking/interrupting its surface integrity and passing into the resistant/hard three-dimensional volume beyond via pure force and quasi-violent breaking/distortion/displacement of the structural integrity of that volume",
+      "(be) an act/instance of driving into [i.e., forceful insertion or penetration through a resistant/hard surface by breaking/interrupting its surface integrity and passing into the resistant/hard three-dimensional volume beyond via pure force and quasi-violent breaking/distortion/displacement of the structural integrity of that volume]",
       "(be) an act/instance of injection"
     ],
     "notes": "This root refers only to the act/process of penetration of an external entity through a two-dimensional medium or into a three-dimensional medium; it is not focused on the resulting state of interiority itself. Thus, for translations of English words focused on the resulting state of interiority rather than the interruption of the surface integrity, e.g., “insert, infuse, immerse, instill, imbue, implant”, use an appropriate SPATIO-TEMPORAL Root instead, e.g., -**XW**-, -**XL**-, -**CW**-, -**ŢP**-, -**ḐB**- and/or appropriate SpatioTemporal affixes associated with these roots."
@@ -494,13 +494,13 @@
     "refers": "EXTRACTION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of extraction; to extract, draw out, draw forth (i.e., to remove or separate out something from something else by using physical force, causing it to exit from some surrounding or encasing medium or substrate, e.g., pulling, sucking, reversal of pressure, etc.)",
+        "BSC": "(be) an act/instance of extraction; to extract, draw out, draw forth [i.e., to remove or separate out something from something else by using physical force, causing it to exit from some surrounding or encasing medium or substrate, e.g., pulling, sucking, reversal of pressure, etc.]",
         "CTE": "(be) a state of being/having been extracted, drawn out, withdrawn out of something",
         "CSV": "(be) the physical act of extraction; to do something that physically extracts, draws something forth/out",
         "OBJ": "(be) the entity/object employed to extract"
       },
-      "(be) an act/instance of removing something from some surrounding medium/substrate by physically invading/cutting into that medium and forcibly extracting (e.g., surgery, digging for something, immersing one’s hands or appendage(s) into and grabbing, etc.)",
-      "(be) an act/instance of obtaining or drawing out something from a surrounding medium/substrate by chemical or other non-manual means (e.g., osmosis, titration, burning, chemical reaction, etc)."
+      "(be) an act/instance of removing something from some surrounding medium/substrate by physically invading/cutting into that medium and forcibly extracting [e.g., surgery, digging for something, immersing one’s hands or appendage(s) into and grabbing, etc.]",
+      "(be) an act/instance of obtaining or drawing out something from a surrounding medium/substrate by chemical or other non-manual means [e.g., osmosis, titration, burning, chemical reaction, etc.]"
     ]
   },
   {
@@ -519,7 +519,7 @@
   },
   {
     "root": "RTV",
-    "refers": "TEMPLATE-BASED FORMATION / DRAWING ( = mechanical process) / EXTRUSION",
+    "refers": "TEMPLATE-BASED FORMATION / DRAWING (= mechanical process) / EXTRUSION",
     "stems": [
       {
         "BSC": "(to be) an act/instance/process of forming/shaping/molding an object/entity by means of a template or die",
@@ -564,7 +564,7 @@
     "refers": "STRETCH / ELONGATE / SPREAD",
     "stems": [
       {
-        "BSC": "(be) an act/instance of linear (i.e. unidimensional) stretching or elongation; to stretch, to elongate [i.e., to expand in size along a single dimensional axis without the individual component molecules/members/contents themselves expanding, but rather only the space between them)",
+        "BSC": "(be) an act/instance of linear [i.e. unidimensional] stretching or elongation; to stretch, to elongate [i.e., to expand in size along a single dimensional axis without the individual component molecules/members/contents themselves expanding, but rather only the space between them]",
         "CTE": "(be) a state of being/having been [unidimensionally] stretched or elongated",
         "CSV": "(be) the physical act of [unidimensionally] stretching or elongation",
         "OBJ": "(be) the means/implement/procedure used to [unidimensionally] stretch"
@@ -585,7 +585,7 @@
     "refers": "CLUSTERING / CLUMPING / FLOCK / SWARM / MOB",
     "stems": [
       {
-        "BSC": "(to be) an act/process of entities (e.g., molecules, bacteria, rodents, leaves, etc.) clustering/clumping together into a cluster/clump; to cluster/clump together",
+        "BSC": "(to be) an act/process of entities [e.g., molecules, bacteria, rodents, leaves, etc.] clustering/clumping together into a cluster/clump; to cluster/clump together",
         "CTE": "(to be) a cluster/clump",
         "CSV": "(to be) an act/process of clumping/clustering together, to participate in a process of clumping/clustering, to cluster, to clump",
         "OBJ": "(to be) the entity/means/procedure utilized to achieve clustering/clumping"
@@ -599,7 +599,7 @@
     "refers": "GROUP / GATHERING / ASSEMBLY / MEETING / CONGREGATION / CONFERENCE / CONGRESS",
     "stems": [
       {
-        "BSC": "(to be) an act/process of entities (e.g., people, animals, molecules, etc.) assembling or gathering together into a group; to assemble/gather together/group",
+        "BSC": "(to be) an act/process of entities [e.g., people, animals, molecules, etc.] assembling or gathering together into a group; to assemble/gather together/group",
         "CTE": "(to be) a state of entities assembled/gathered together in a group",
         "CSV": "(to be) an act/process of gathering/bringing entities together, to perform an act which gathers/helps to gather entities together, to muster, to round up",
         "OBJ": "(to be) the entity/means/procedure utilized to achieve gathering/grouping"
@@ -613,13 +613,13 @@
     "refers": "ADHESION / STICKINESS / AGGREGATION / AGGLOMERATION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of adhesion; to adhere (i.e., something sticking to something else via some adhesive medium",
+        "BSC": "(be) an act/instance of adhesion; to adhere [i.e., something sticking to something else via some adhesive medium]",
         "CTE": "(be) a state of adhesion",
         "CSV": "(be) the physical act of adhering",
         "OBJ": "(be) an entity/substance used for adhering; an adhesive"
       },
-      "(be) an act/instance of stickiness; be sticky; to stick (i.e., to physically adhere to something via a sticky medium where the focus is on the textural stickiness of the adhesion, not necessarily the fact of adhering)",
-      "(be) an act/instance of aggregation/agglomeration/conglomeration (i.e., bringing separate entities physically together for a unified purpose, where the focus is on their functioning together as opposed to the nature of the physical connection itself)"
+      "(be) an act/instance of stickiness; be sticky; to stick [i.e., to physically adhere to something via a sticky medium where the focus is on the textural stickiness of the adhesion, not necessarily the fact of adhering]",
+      "(be) an act/instance of aggregation/agglomeration/conglomeration [i.e., bringing separate entities physically together for a unified purpose, where the focus is on their functioning together as opposed to the nature of the physical connection itself]"
     ]
   },
   {
@@ -627,13 +627,13 @@
     "refers": "COMMENCEMENT / ACTIVATION / INITIATION / INSTIGATION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of commencing/starting an act/event/state (i.e., the transition moment/period between a non-active vs. active state",
+        "BSC": "(be) an act/instance of commencing/starting an act/event/state [i.e., the transition moment/period between a non-active vs. active state]",
         "CTE": "(be) a state of commencement/starting",
         "CSV": "(be) the physical act of commencing/starting",
         "OBJ": "(be) an entity/object used to commence/start something"
       },
-      "(be) an act/instance of initiating/activating something; to activate, to initiate, to start up (i.e., the act/process/procedure necessary to bring energy to a non-active state/entity so that it becomes active, e.g., starting a motor, activating a device, initiating a complex procedure, etc.)",
-      "(be) an act/instance of instigation; to instigate (i.e., set in motion a series of events or arranging a precursor state/act/event that will lead to a specific outcome)"
+      "(be) an act/instance of initiating/activating something; to activate, to initiate, to start up [i.e., the act/process/procedure necessary to bring energy to a non-active state/entity so that it becomes active, e.g., starting a motor, activating a device, initiating a complex procedure, etc.]",
+      "(be) an act/instance of instigation; to instigate [i.e., set in motion a series of events or arranging a precursor state/act/event that will lead to a specific outcome]"
     ],
     "notes": "This root refers to “beginning/initiation” meaning “activate, start/initiate from a stopped/dormant state, or the commencement of a common/recurring/pre-arranged activity”; for the “beginning/initiation” meaning “origination, first-time occurrence, first-time causation”, see the root -**ÇN**-."
   },
@@ -642,13 +642,13 @@
     "refers": "TURN / VEER / PITCH",
     "stems": [
       {
-        "BSC": "(be) an act/instance of turning something; to turn something (i.e., cause an object to move in an arc-like motion so that its direction/orientation relative to the surrounding space/surface/medium/substrate changes",
+        "BSC": "(be) an act/instance of turning something; to turn something [i.e., cause an object to move in an arc-like motion so that its direction/orientation relative to the surrounding space/surface/medium/substrate changes]",
         "CTE": "(be) a state of being turned",
         "CSV": "(be) the physical act of turning",
         "OBJ": "(be) an entity/object used to make something turn"
       },
-      "(be) an act of veering; to veer (i.e., a sudden, unexpected turn)",
-      "(be) an act of changing one’s pitch; to pitch upward or downward (i.e., to turn one’s orientation on a vertical axis upward or downward relative to one’s (quasi-)static horizontal frame of reference)"
+      "(be) an act of veering; to veer [i.e., a sudden, unexpected turn]",
+      "(be) an act of changing one’s pitch; to pitch upward or downward [i.e., to turn one’s orientation on a vertical axis upward or downward relative to one’s (quasi-)static horizontal frame of reference]"
     ],
     "notes": "Use this root with various spatial affixes to add specific detail, e.g., SPR, CRC, SPM, SWM, SPN, IPE, IPF, PFL, etc."
   },
@@ -656,9 +656,9 @@
     "root": "RPĻ",
     "refers": "SPINNING / REVOLVING / ORBIT / ROTATION",
     "stems": [
-      "(be) an act/instance of spinning/revolving (i.e., revolving in place on one’s own rotational axis)",
-      "(be) an act/instance of revolving/orbiting; to revolve/orbit (i.e., to follow a (quasi-)circular motion around another entity/object)",
-      "(be) an act of rotation; to rotate (e.g., twisting a handle or turning a steering wheel)"
+      "(be) an act/instance of spinning/revolving [i.e., revolving in place on one’s own rotational axis]",
+      "(be) an act/instance of revolving/orbiting; to revolve/orbit [i.e., to follow a (quasi-)circular motion around another entity/object]",
+      "(be) an act of rotation; to rotate [e.g., twisting a handle or turning a steering wheel]"
     ],
     "see": "PĻ"
   },
@@ -670,10 +670,10 @@
         "BSC": "(be) an act/instance of rolling an entity [i.e., vertical spinning motion relative to a quasi-stationary substrate resulting in vectored movement]",
         "CTE": "(be) a state of rolling",
         "CSV": "(be) the physical act of rolling; to roll something or to make something revolve",
-        "OBJ": "(be) an entity/object used for rolling (e.g., log, wheel, bobbin, reel, spool, etc.)"
+        "OBJ": "(be) an entity/object used for rolling [e.g., log, wheel, bobbin, reel, spool, etc.]"
       },
       "(be) an act/instance of moving an object/entity translatively by means of wheel(s)",
-      "(be) an act/instance of winding something into a coil (e.g., string, wire, rope, etc.) by continuous circular turning; to wind (up) into a coil (e.g., rolling up a carpet)"
+      "(be) an act/instance of winding something into a coil [e.g., string, wire, rope, etc.] by continuous circular turning; to wind (up) into a coil [e.g., rolling up a carpet]"
     ]
   },
   {
@@ -681,7 +681,7 @@
     "refers": "STRIKE / HIT / BLOW / KNOCK / TOPPLE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of striking/hitting something using one’s body/appendages or an implement/device used as an extension of one’s body/appendages, with the intention of changing its location, placement, movement, state, arrangement, etc. (e.g., as in hitting a ball in sport, or striking a nail with a hammer)",
+        "BSC": "(be) an act/instance of striking/hitting something using one’s body/appendages or an implement/device used as an extension of one’s body/appendages, with the intention of changing its location, placement, movement, state, arrangement, etc. [e.g., as in hitting a ball in sport, or striking a nail with a hammer]",
         "CTE": "(be) a state of being struck/hit",
         "CSV": "(be) the physical act of striking/hitting",
         "OBJ": "(be) the implement/tool used to strike/hit something"
@@ -696,12 +696,12 @@
     "refers": "IMPULSE / PUSHING / PROPULSION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of pushing something; to push (i.e., make something move by exerting an impulsive force upon it via one’s hands or appendages or via a manually-controlled object/device)",
+        "BSC": "(be) an act/instance of pushing something; to push [i.e., make something move by exerting an impulsive force upon it via one’s hands or appendages or via a manually-controlled object/device]",
         "CTE": "(be) a state of being pushed",
         "CSV": "(be) the physical act of pushing",
         "OBJ": "(be) an entity/object used to push"
       },
-      "(be) an act/instance of shoving, bumping, butting, prodding (i.e., using one’s hands or body, or a manually-controlled extension thereof, to deliver a sudden push to another entity for the ostensible purpose of making it move out of one’s path or to gain the entity’s attention)",
+      "(be) an act/instance of shoving, bumping, butting, prodding [i.e., using one’s hands or body, or a manually-controlled extension thereof, to deliver a sudden push to another entity for the ostensible purpose of making it move out of one’s path or to gain the entity’s attention]",
       "(be) an act/instance of thrusting or propulsion; to make something (or oneself) move quickly via a sudden, violent use of impulsive force"
     ]
   },
@@ -710,13 +710,13 @@
     "refers": "THROWING / LAUNCHING / SHOOTING",
     "stems": [
       {
-        "BSC": "(be) an act/instance of throwing something (i.e., using one’s arms or other appendage to suddenly and forcefully impel/project an object into the surrounding air/space where its path of motion then becomes subject to gravitational/environmental forces)",
+        "BSC": "(be) an act/instance of throwing something [i.e., using one’s arms or other appendage to suddenly and forcefully impel/project an object into the surrounding air/space where its path of motion then becomes subject to gravitational/environmental forces]",
         "CTE": "(be) a state of being thrown",
         "CSV": "(be) the physical act of throwing",
         "OBJ": "(be) an entity/object used to throw"
       },
       "(be) an act/instance of discharging, firing off, shooting a projectile from a firearm or other device using violently explosive/propulsive force; to shoot, fire off, discharge",
-      "(be) an act/instance of launching an airborne or spaceborne projectile, rocket or craft using a large amount of force (e.g., chemical rockets, nuclear reaction, anti-gravity, magic, etc.); to launch a weapon/missile/aircraft/spacecraft"
+      "(be) an act/instance of launching an airborne or spaceborne projectile, rocket or craft using a large amount of force [e.g., chemical rockets, nuclear reaction, anti-gravity, magic, etc.]; to launch a weapon/missile/aircraft/spacecraft"
     ]
   },
   {
@@ -724,13 +724,13 @@
     "refers": "TRACTION / DRAWING / PULLING / DRAGGING",
     "stems": [
       {
-        "BSC": "(be) an act/instance of pulling or drawing (i.e., make something move by exerting a tractive force upon it via one’s hands or appendages or via a manually-controlled object/device)",
+        "BSC": "(be) an act/instance of pulling or drawing [i.e., make something move by exerting a tractive force upon it via one’s hands or appendages or via a manually-controlled object/device]",
         "CTE": "(be) a state of being pulled or drawn",
         "CSV": "(be) the physical act of pulling or drawing",
         "OBJ": "(be) an entity/object used to pull or draw, e.g., rope, reins, chain, etc."
       },
-      "(be) an act/instance of dragging, tugging, towing, lugging (i.e., to pull/draw with resistance from the entity being towed either due to gravity, friction, or the pulled entity’s own resistive efforts)",
-      "(be) an act/instance of hauling, trawling, raking (i.e., using pulling/drawing force to carry/convey/transport a load/object/entity)"
+      "(be) an act/instance of dragging, tugging, towing, lugging [i.e., to pull/draw with resistance from the entity being towed either due to gravity, friction, or the pulled entity’s own resistive efforts]",
+      "(be) an act/instance of hauling, trawling, raking [i.e., using pulling/drawing force to carry/convey/transport a load/object/entity]"
     ],
     "notes": "Morphological derivative: hoist"
   },
@@ -739,7 +739,7 @@
     "refers": "MANUAL MEANS OF CARRYING & MOVING A LOAD",
     "stems": [
       "(be) a hand-held stretcher ",
-      "(be) a dragged platform (e.g., with one end tied to a pack animal and the other end dragged along the ground to carry supplies or as a stretcher)",
+      "(be) a dragged platform [e.g., with one end tied to a pack animal and the other end dragged along the ground to carry supplies or as a stretcher]",
       "(be) a sled [for moving, not recreation]"
     ],
     "see": "ÇV"
@@ -773,13 +773,13 @@
     "refers": "COVERING / SUPERIMPOSITION / ENCASEMENT / SHEATH",
     "stems": [
       {
-        "BSC": "(be) an act/instance of covering something; to cover (i.e., superimposing an entity over/onto another for the purpose of protection, concealment, etc.)",
+        "BSC": "(be) an act/instance of covering something; to cover [i.e., superimposing an entity over/onto another for the purpose of protection, concealment, etc.]",
         "CTE": "(be) a state of being covered",
         "CSV": "(be) the physical act of covering",
-        "OBJ": "(be) an entity/object used to cover (e.g., lid, blanket, tarp, screen, etc.)"
+        "OBJ": "(be) an entity/object used to cover [e.g., lid, blanket, tarp, screen, etc.]"
       },
       "(be) an act/instance of placing an encasing medium/material around something; to encase, to wrap",
-      "(be) an act/instance of sheathing; to sheathe (i.e., to place something into its associated/customized encasing cover/holder/container"
+      "(be) an act/instance of sheathing; to sheathe [i.e., to place something into its associated/customized encasing cover/holder/container]"
     ]
   },
   {
@@ -788,7 +788,7 @@
     "stems": [
       "(be) an act/instance of placing a top or roof(-like covering); to roof, to tent, to put a top upon something",
       "(be) an act/instance of placing a veneer, facing, coating, crust, or protective layer (of a substance/material) onto something",
-      "(be) an act/instance of masking something; put a mask on something; to mask (i.e., a false face or false exterior covering designed to hide the appearance of something)"
+      "(be) an act/instance of masking something; put a mask on something; to mask [i.e., a false face or false exterior covering designed to hide the appearance of something]"
     ],
     "see": "ŢS"
   },
@@ -797,7 +797,7 @@
     "refers": "SURFACE APPLICATION / OVERLAY / SPRAY",
     "stems": [
       {
-        "BSC": "(be) an act/instance of applying/spreading/overlaying a (quasi-)liquid or viscous substance or material to the surface of something; to apply, spread on(to), to overlay, to coat, to smear a (quasi-)liquid substance/material to something (e.g., frosting, plaster, stucco, peanut butter, etc.)",
+        "BSC": "(be) an act/instance of applying/spreading/overlaying a (quasi-)liquid or viscous substance or material to the surface of something; to apply, spread on(to), to overlay, to coat, to smear a (quasi-)liquid substance/material to something [e.g., frosting, plaster, stucco, peanut butter, etc.]",
         "CTE": "(be) a state of having (had) a substance/material applied",
         "CSV": "(be) the physical act of applying a (quasi-)liquid or viscous substance or material",
         "OBJ": "(be) the material or substance (to be) applied"
@@ -892,7 +892,7 @@
     "refers": "LEVERAGE",
     "stems": [
       {
-        "BSC": "(be) an act/instance of leveraging; to leverage (i.e., to move/hoist something by means of the principle of the lever)*",
+        "BSC": "(be) an act/instance of leveraging; to leverage [i.e., to move/hoist something by means of the principle of the lever]*",
         "CTE": "(be) a state of being leveraged",
         "CSV": "(be) the physical act of leveraging",
         "OBJ": "(be) a lever"
@@ -907,13 +907,13 @@
     "refers": "FILL / INUNDATE / FILL-IN / STUFF",
     "stems": [
       {
-        "BSC": "(be) an act/instance of filling something (up) (i.e., use an empty volume of space as a container/holder for some something)",
+        "BSC": "(be) an act/instance of filling something (up) [i.e., use an empty volume of space as a container/holder for some something]",
         "CTE": "(be) a state of being filled",
         "CSV": "(be) the physical act of filling",
         "OBJ": "(be) the substance/entity with which a contained space is filled"
       },
-      "(be) an act/instance of filling something in, stuffing (i.e., to fit/move/insert something into a contained space to the point where the contained space is completely filled)",
-      "(be) an instance of inundating a space with some entity/substance; to inundate, to flood, cover over/up (e.g., with a liquid, gas, or malleable substance which completely supplants, covers, or renders inaccessible a surface, an object, or a contained volume of space"
+      "(be) an act/instance of filling something in, stuffing [i.e., to fit/move/insert something into a contained space to the point where the contained space is completely filled]",
+      "(be) an instance of inundating a space with some entity/substance; to inundate, to flood, cover over/up [e.g., with a liquid, gas, or malleable substance which completely supplants, covers, or renders inaccessible a surface, an object, or a contained volume of space]"
     ]
   },
   {
@@ -963,13 +963,13 @@
     "refers": "DISSIPATION / DISPERSION / SCATTERING / THINNING / CULLING",
     "stems": [
       {
-        "BSC": "(to be) a state/act of dissipating/dispersing; to dissipate/disperse something (i.e., render a conglomerate entity less viable or concentrated by increasing the distance between its members or component entities)",
+        "BSC": "(to be) a state/act of dissipating/dispersing; to dissipate/disperse something [i.e., render a conglomerate entity less viable or concentrated by increasing the distance between its members or component entities]",
         "CTE": "(to be) a state of being / having been dissipated/dispersed",
         "CSV": "(to be) the physical act of dispersion/dissipation; to dissipate/disperse",
         "OBJ": "(to be) the means/implement/procedure by which something is dissipated/dispersed"
       },
-      "(to be) a state/act of scattering; to scatter [i.e., dissemble or destroy the symmetry/order/arrangement/viability of a multi-member or conglomerate entity by physically separating its members/components in (quasi-)random fashion",
-      "(to be) a state/act of thinning/culling [i.e., rendering a conglomerate entity less viable or less concentrated by removing/eliminating some of its members or component entities"
+      "(to be) a state/act of scattering; to scatter [i.e., dissemble or destroy the symmetry/order/arrangement/viability of a multi-member or conglomerate entity by physically separating its members/components in (quasi-)random fashion]",
+      "(to be) a state/act of thinning/culling [i.e., rendering a conglomerate entity less viable or less concentrated by removing/eliminating some of its members or component entities]"
     ]
   },
   {
@@ -1011,7 +1011,7 @@
         "OBJ": "(to be) the hair/fur being combed"
       },
       "(to be) an act/state of brushing hair/fur; to brush hair/fur",
-      "(to be) an act/state of raking or carding (to remove unwanted elements from a substrate (e.g., fallen leaves from grass, knots from wool, etc.); to rake or card"
+      "(to be) an act/state of raking or carding (to remove unwanted elements from a substrate [e.g., fallen leaves from grass, knots from wool, etc.]); to rake or card"
     ]
   },
   {
@@ -1034,12 +1034,12 @@
     "refers": "DRAINAGE",
     "stems": [
       {
-        "BSC": "(to be) a state/act of draining a liquid via gravity; to drain a liquid via gravity [i.e., remove/relocate a volume of liquid by means of pouring it or channeling it via gravity through a hole/conduit/pipe/channel, etc.",
+        "BSC": "(to be) a state/act of draining a liquid via gravity; to drain a liquid via gravity [i.e., remove/relocate a volume of liquid by means of pouring it or channeling it via gravity through a hole/conduit/pipe/channel, etc.]",
         "CTE": "(to be) a state of being / having been drained",
         "CSV": "(to be) the physical act of draining; to drain",
         "OBJ": "(to be) the liquid which is removed/relocated by being drained"
       },
-      "(to be) an act of drainage via osmosis/soaking/absorption into a surrounding media (e.g., the ground, a bandage, absorptive cotton, etc.)",
+      "(to be) an act of drainage via osmosis/soaking/absorption into a surrounding media [e.g., the ground, a bandage, absorptive cotton, etc.]",
       "(to be) an act/state of drainage via pressure/suction/pumping; to drain via pressure/suction/pumping"
     ]
   },
@@ -1058,12 +1058,12 @@
     "refers": "ABSORPTION* / IMBUEMENT / INFILTRATION",
     "stems": [
       {
-        "BSC": "(be) an act/instance of absorption*; to absorb (i.e., for a [quasi-]liquid substance to be soaked up into a porous material)",
+        "BSC": "(be) an act/instance of absorption*; to absorb [i.e., for a (quasi-)liquid substance to be soaked up into a porous material]",
         "CTE": "(be) a state of being (or having been) absorbed",
         "CSV": "(be) the physical act of absorbing",
         "OBJ": "(be) a porous material/object/entity which absorbs"
       },
-      "(be) an act/instance of imbuement/infusion; to imbue, to infuse (i.e., to introduce a quality or characteristic into an entity so that it spreads throughout and becomes part of that entity’s character/essence/identity, etc.)",
+      "(be) an act/instance of imbuement/infusion; to imbue, to infuse [i.e., to introduce a quality or characteristic into an entity so that it spreads throughout and becomes part of that entity’s character/essence/identity, etc.]",
       "(be) an instance of infiltration"
     ],
     "notes": "\\* This stem refers to the drawing up of a (quasi-)liquid substance into an absorbable material; for a focus on removing/cleaning up a spilled substance, see -**ŠNY**- below. "
@@ -1087,13 +1087,13 @@
     "refers": "CLEANLINESS / PURITY / DECONTAMINATION / DISINFECTION / SANITATION / HYGIENE",
     "stems": [
       {
-        "BSC": "(be) a state of cleanliness; be clean, to (make) clean (i.e., a state of being relatively free from dirt/grime/germs/mold, etc.) *",
+        "BSC": "(be) a state of cleanliness; be clean, to (make) clean [i.e., a state of being relatively free from dirt/grime/germs/mold, etc.] *",
         "CTE": "(be) a state of cleanliness",
         "CSV": "(be) a physical act of cleaning",
         "OBJ": "(be) the entity/party/object (to be/being) cleaned"
       },
-      "(be) a state of purity, being pure; be/make pure, purify, decontaminate, disinfect (i.e., to be/make free from foreign/invasive/polluting substances)",
-      "(be) a state/act of proper sanitation/hygiene; be sanitary/hygienic, exercise proper sanitation/hygiene (i.e., practices which help to ensure an entity/party/environment remains clean or pure)"
+      "(be) a state of purity, being pure; be/make pure, purify, decontaminate, disinfect [i.e., to be/make free from foreign/invasive/polluting substances]",
+      "(be) a state/act of proper sanitation/hygiene; be sanitary/hygienic, exercise proper sanitation/hygiene [i.e., practices which help to ensure an entity/party/environment remains clean or pure]"
     ],
     "notes": "\\* This stem does not mean “organize” or “de-clutter” as in “to clean a room” — see the next root -**ŢB**- below."
   },
@@ -1102,13 +1102,13 @@
     "refers": "TIDINESS / ORDERLINESS / GROOMING",
     "stems": [
       {
-        "BSC": "(be) a state of tidiness/orderliness/neatness, being tidy/orderly;neat; to tidy (up), put in order, to neaten (i.e., to organize/arrange the location/placement of entities in an environment so that they are logically and neatly arranged for ease of use and so the environment has a positive aesthetic appearance)",
+        "BSC": "(be) a state of tidiness/orderliness/neatness, being tidy/orderly;neat; to tidy (up), put in order, to neaten [i.e., to organize/arrange the location/placement of entities in an environment so that they are logically and neatly arranged for ease of use and so the environment has a positive aesthetic appearance]",
         "CTE": "(be) a state of orderliness/tidiness/neatness",
         "CSV": "(be) an act of tidying/neatening; to make tidy or neat, to tidy up",
         "OBJ": "(be) that which is (to be) tidy/neat/orderly"
       },
-      "(be) a state of pristineness, pristine condition; to be/keep/maintain (in) pristine (condition) (i.e. in original condition)",
-      "(be) a state of being well-groomed; to groom (i.e. be/make free from slovenliness)"
+      "(be) a state of pristineness, pristine condition; to be/keep/maintain (in) pristine (condition) [i.e. in original condition]",
+      "(be) a state of being well-groomed; to groom [i.e. be/make free from slovenliness]"
     ]
   },
   {
@@ -1122,7 +1122,7 @@
         "OBJ": "(be) that which is removed via wiping (up); a stain, a spill, etc."
       },
       "(be) a state/act of mopping; to use a mop, to mop (up)",
-      "(be) a state/act/process of removing/cleaning an undesired (quasi-)liquid substance via an absorptive material (e.g., a towel, a tissue, gauze, etc.)"
+      "(be) a state/act/process of removing/cleaning an undesired (quasi-)liquid substance via an absorptive material [e.g., a towel, a tissue, gauze, etc.]"
     ]
   },
   {
@@ -1141,7 +1141,7 @@
     "stems": [
       "(be) a sponge",
       "(be) an absorbent pad or bandage",
-      "(be) an absorbent substance or material (e.g., sand, powder, cellulose granules, etc.)"
+      "(be) an absorbent substance or material [e.g., sand, powder, cellulose granules, etc.]"
     ],
     "see": "ŠNY"
   },
@@ -1150,7 +1150,7 @@
     "refers": "SUCTION / PUMPING",
     "stems": [
       {
-        "BSC": "(be) a state/act of orally sucking; to orally suck (i.e., create a velaric ingressive airstream in one’s oral cavity in order to suck in liquid, food, air, etc.)",
+        "BSC": "(be) a state/act of orally sucking; to orally suck [i.e., create a velaric ingressive airstream in one’s oral cavity in order to suck in liquid, food, air, etc.]",
         "CTE": "(be) a state of being sucked",
         "CSV": "(be) an act of sucking; to physically suck something",
         "OBJ": "(be) that into which something is suck"
@@ -1164,13 +1164,13 @@
     "refers": "COMBINE / (INTER-)MINGLE / MIX / BLEND / SYNTHESIS",
     "stems": [
       {
-        "BSC": "(be) an act/instance of combining two or more entities (i.e., bring separate entities together to function as one, for to achieve a more effective/desirable result/outcome",
+        "BSC": "(be) an act/instance of combining two or more entities [i.e., bring separate entities together to function as one, for to achieve a more effective/desirable result/outcome]",
         "CTE": "(be) a state of being (or having been) combined",
         "CSV": "(be) the physical act of combining",
-        "OBJ": "((to be) the rule(s)/pattern(s)/procedure(s) one follows in order to achieve a meaningful or coherent combination of elements"
+        "OBJ": "(to be) the rule(s)/pattern(s)/procedure(s) one follows in order to achieve a meaningful or coherent combination of elements"
       },
-      "(be) an act/instance of mixing or (inter-)mingling two or more parties/entities (i.e., for the purpose of having the entities interact/associate with each other in some way); to mix",
-      "(be) an instance of synthesizing; to synthesize (i.e., to combine elements to form a new gestalt)"
+      "(be) an act/instance of mixing or (inter-)mingling two or more parties/entities [i.e., for the purpose of having the entities interact/associate with each other in some way]; to mix",
+      "(be) an instance of synthesizing; to synthesize [i.e., to combine elements to form a new gestalt]"
     ],
     "notes": "For the meaning of the old FORMAL stems previously associated with this root, use the following new root -**RSJ**-"
   },
@@ -1178,7 +1178,7 @@
     "root": "RSJ",
     "refers": "BLENDING / FUSION / AMALGAMATION / SYNERGY",
     "stems": [
-      "(be) an act/instance of mixing/blending two or more entities together (i.e., same as Stem 1 of the above root except that the two entities coalesce/merge/dissolve into a new gestalt entity); to blend, to fuse, to amalgamate",
+      "(be) an act/instance of mixing/blending two or more entities together [i.e., same as Stem 1 of the above root except that the two entities coalesce/merge/dissolve into a new gestalt entity]; to blend, to fuse, to amalgamate",
       "(be) an act/instance of synergy",
       "(be) an act/instance of synergy with emergent properties"
     ]
@@ -1202,12 +1202,12 @@
     "refers": "CHANNEL / STEER / AIM",
     "stems": [
       {
-        "BSC": "(be) an act/instance of channeling; to channel (i.e., direct one’s translative course or that of another through a channel or conduit)",
+        "BSC": "(be) an act/instance of channeling; to channel [i.e., direct one’s translative course or that of another through a channel or conduit]",
         "CTE": "(be) a state of being moved through/within/along a channel/conduit",
         "CSV": "(be) the physical act of moving through spacetime via a channel/conduit",
-        "OBJ": "(be) that which is used to channel the course of something (e.g., a funnel, chute, conduit, pipe, tube, trough, shaft, tunnel, etc.)"
+        "OBJ": "(be) that which is used to channel the course of something [e.g., a funnel, chute, conduit, pipe, tube, trough, shaft, tunnel, etc.]"
       },
-      "(be) an act/instance of steering; to steer (i.e., direct one’s course via manually-manipulated means)",
+      "(be) an act/instance of steering; to steer [i.e., direct one’s course via manually-manipulated means]",
       "(be) an act/instance of aiming; aim for, take aim at"
     ]
   },
@@ -1216,7 +1216,7 @@
     "refers": "SAFETY / SECURITY / LOCK",
     "stems": [
       {
-        "BSC": "(be) an act/instance of making something safe (i.e., removing the threat of other entities from harming something or someone)",
+        "BSC": "(be) an act/instance of making something safe [i.e., removing the threat of other entities from harming something or someone]",
         "CTE": "(be) the state of being safe",
         "CSV": "(be) the physical act of making something/someone safe",
         "OBJ": "(be) the object/entity/procedure/rule/law, etc. by which one effectuates a state of safety"
@@ -1230,13 +1230,13 @@
     "refers": "BUFFER / FAIL-SAFE / LIAISON",
     "stems": [
       {
-        "BSC": "(be) an act/instance of buffering; to buffer (i.e., place an intervening medium between two entities as a protective measure)",
+        "BSC": "(be) an act/instance of buffering; to buffer [i.e., place an intervening medium between two entities as a protective measure]",
         "CTE": "(be) the state of being buffered",
         "CSV": "(be) the physical act of buffering; to do something that acts as or creates a buffer",
         "OBJ": "(be) the object/entity/procedure/rule/law, etc. used to buffer"
       },
       "(be) an act/instance of functioning as a fail-safe; to function/act as a fail-safe measure",
-      "(be) a act/instance of being/functioning as a go-between or liaison; to function as a gobetween or liaison (i.e., a neutral entity or party for purposes of diplomacy)"
+      "(be) a act/instance of being/functioning as a go-between or liaison; to function as a gobetween or liaison [i.e., a neutral entity or party for purposes of diplomacy]"
     ]
   },
   {
@@ -1244,13 +1244,13 @@
     "refers": "HANDLE / MANIPULATIVE ASSISTIVE COMPONENT",
     "stems": [
       {
-        "BSC": "(to be) a state/act/process of supporting oneself by holding onto a handle (i.e., a protruding extension, ring, bar, etc. of an entity designed for one to hold onto)",
-        "CTE": "(to be) a handle (e.g., of a cane)",
+        "BSC": "(to be) a state/act/process of supporting oneself by holding onto a handle [i.e., a protruding extension, ring, bar, etc. of an entity designed for one to hold onto]",
+        "CTE": "(to be) a handle [e.g., of a cane]",
         "CSV": "(to be) an act/process of making use of a handle; to grab/hold (onto) a handle",
         "OBJ": "(to be) the entity being supported by holding onto a handle"
       },
-      "(to be) a state/act of physically controlling another entity by holding onto its handle (e.g., a pot handle, the handle of a hammer or shovel, the handle of a gun, etc.)",
-      "(to be) a remote control device (e.g., a joystick controller, a detonation plunger, etc.)"
+      "(to be) a state/act of physically controlling another entity by holding onto its handle [e.g., a pot handle, the handle of a hammer or shovel, the handle of a gun, etc.]",
+      "(to be) a remote control device [e.g., a joystick controller, a detonation plunger, etc.]"
     ]
   },
   {
@@ -1275,9 +1275,9 @@
         "BSC": "(to be) a state of reflecting (of electromagnetic radiation); to reflect [i.e., change in the direction of EM waves/particles via contact with a barrier]",
         "CTE": "(to be) a state of reflection; for there to be reflecting going on",
         "CSV": "(to be) a physical act/process of reflecting; to have/use a reflective surface that causes electromagnetic energy to change direction",
-        "OBJ": "(to be) a reflection, i.e., what gets reflected (i.e., a beam of light, a visual image)"
+        "OBJ": "(to be) a reflection, i.e., what gets reflected [i.e., a beam of light, a visual image]"
       },
-      "(to be) a state of refraction; to refract [i.e., the bending of, and change in speed and/or wavelength",
+      "(to be) a state of refraction; to refract [i.e., the bending of, and change in speed and/or wavelength]",
       "(to be) a state of diffraction; to diffract [i.e., the bending of, and change in direction of electronic energy to due to passage through an opening or around a barrier]"
     ]
   },
