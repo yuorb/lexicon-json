@@ -67,7 +67,7 @@
       "candidate X; X being under consideration for acceptance/initiation",
       "newly established / newly initiated / newly accepted / rookie",
       "recently established / recently initiated / recently accepted / freshman",
-      "X-in-training, learning-the-ropes / apprentice X / sophmore",
+      "X-in-training, learning-the-ropes / apprentice X / sophomore",
       "established X / fully-trained X / journeyman X",
       "well-established / senior X",
       "long-time X / long-established X; long-standing X, veteran X",
@@ -107,7 +107,7 @@
       "decreasing / de-escalating / shrinking",
       "reduced/diminished; in a regressing or narrow way [e.g., canyon → crevasse/crack]",
       "compact/concentrated; in efficient or compact way [e.g., canyon → gorge]",
-      "expanded/enhanced; in expanded or enhanced way [e.g., canyon → ri0 valley]",
+      "expanded/enhanced; in expanded or enhanced way [e.g., canyon → rift valley]",
       "growing, increasing, escalating",
       "runaway / runaway growth, increase or expansion of",
       "synergistic expansion e.g., hit (+ RCP valence) → fight"
@@ -466,7 +466,7 @@
     "associated_root": true,
     "degrees": [
       null,
-      "imaginary / unreal / made-up; imagine X-ing, not really X-ing [contrary to suggestion otherwise]",
+      "imaginary / unreal / made-up; imagine X-ing, not really X-ing [affirmation contrary to suggestion otherwise]",
       "imaginary / unreal / made-up / fictional; imagine X-ing, not really X-ing",
       "fake / pretend / mock; pretend to, fake X-ing",
       "substitute / replacement / proxy / fill-in / placeholder; as a substitute or proxy for",

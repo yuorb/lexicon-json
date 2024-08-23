@@ -1,0 +1,135 @@
+[
+  {
+    "name": "HND",
+    "description": "Hand Position",
+    "gradient_type": "0",
+    "cs": "žp",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with hand extended frontward [i.e., as when offering to shake hand]",
+      "with hand extended or finger pointing to indicate orientational direction or to focus attention upon something",
+      "with hand held rigid and palm of hand facing outward [i.e., as when signifying someone to “halt”]",
+      "with hand (and arm) gesturing [i.e., as when “talking with one’s hands”]",
+      "with hand(s) balled into in a fist",
+      "with hand (and arm) waving [i.e., as when hailing someone]",
+      "with hand(s) waving inward toward oneself [i.e., as in a beckoning motion]",
+      "with hand(s) extended and motioning with palm downward [i.e., as in signalling someone to slow down or to signal “lower”]",
+      "with hand(s) signalling various learned signs [i.e., as when using a sign-language]"
+    ]
+  },
+  {
+    "name": "AR1",
+    "description": "Position Of One’s Arms 1",
+    "gradient_type": "0",
+    "cs": "žt",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with both arms extended upward parallel to each other",
+      "with both arms extended upward in a “V” shape",
+      "with both arms extended outward to the sides",
+      "with both arms extended/reaching forward/frontward",
+      "with both arms at one’s sides",
+      "with one arm extended forward/frontward",
+      "with one arm extended outward to the side",
+      "with one arm extended upward at an angle",
+      "with one arm extended upward vertically"
+    ]
+  },
+  {
+    "name": "AR2",
+    "description": "Position Of One’s Arms 2",
+    "gradient_type": "0",
+    "cs": "žk",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with one arm flexed [i.e., curled up at elbow joint]",
+      "with one arm behind one’s back",
+      "with one arm held behind one’s head",
+      "with one arm held with hand on one’s hip",
+      "with arms folded across chest/torso",
+      "with arms akimbo",
+      "with both arms raised behind one’s head",
+      "with both arms behind one’s back",
+      "with both arms flexed [i.e., curled up at elbow joint]"
+    ]
+  },
+  {
+    "name": "FP1",
+    "description": "Finger Positions 1",
+    "gradient_type": "0",
+    "cs": "ňc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with index finger extended/pointing outward",
+      "with middle finger extended",
+      "with pinkie finger extended",
+      "with index and middle fingers extended outward",
+      "with fingers and thumb at rest",
+      "with index and middle fingers extended and held apart in a “V”",
+      "with first three fingers held upright",
+      "with four fingers held upright",
+      "with thumb extended only"
+    ]
+  },
+  {
+    "name": "FP2",
+    "description": "Finger Positions 2",
+    "gradient_type": "0",
+    "cs": "ňč",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with thumb and pinkie finger extended",
+      "with thumb and index finger extended",
+      "with four fingers and thumb held outward/extended",
+      "with fingers held curled together at first interphalangeal joint (primary finger knuckle)",
+      "with fingers held in “Vulcan salute”",
+      "with fingers curling and extending in unison",
+      "with fingers curling and extending one after the other rapidly(as when imitating a spider crawling)",
+      "with fingers “tapping” one after the other (as when impatient)",
+      "with index finger curled/crooked [e.g., as when beckoning someone secretly]"
+    ]
+  },
+  {
+    "name": "BOD",
+    "description": "Position Of One’s Core Body [i.e., head and torso, not including limbs]",
+    "gradient_type": "0",
+    "cs": "ňẓ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "in supine position [i.e., lying prone, facing upward]",
+      "lying face-downward",
+      "lying on one’s right side",
+      "lying on one’s left side",
+      "upside-down [i.e., with one’s head held/dangling below one’s torso in the direction of gravity]",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] with left side facing downward",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] with right side facing downward",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] facing downward",
+      "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] in supine position [i.e., facing upward]"
+    ]
+  },
+  {
+    "name": "LEG",
+    "description": "Position Of One’s Legs",
+    "gradient_type": "0",
+    "cs": "čd",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "with one leg held straight, the other bent",
+      "with one leg folded under oneself, the other not",
+      "with one leg bent at the knee, the other held straight",
+      "with one leg bent with ankle upon opposite thigh [i.e., open-legged cross-legged position, “half-lotus” position]",
+      "with legs crossed (one over the other)",
+      "with both legs crossed over one’s thighs [i.e. “lotus” position]",
+      "with both legs bent at the knee",
+      "with both legs folded under oneself [i.e., sitting cross-legged “Indian” style]",
+      "with both legs held together"
+    ]
+  }
+]

@@ -27,7 +27,7 @@
     "degrees": [
       null,
       "too light(ly) / too soft(ly) / too delicate(ly)",
-      "light as a feather /  baby soft, extremely delicately or lightly or softly",
+      "light as a feather / baby soft, extremely delicately or lightly or softly",
       "light/soft/hardly a, softly / lightly / delicately / gingerly",
       "somewhat on the light or soft side, somewhat softly / lightly / delicately / gingerly",
       "neither soft(ly) nor forceful(ly), with just the right touch",
@@ -140,8 +140,8 @@
     "associated_root": false,
     "degrees": [
       null,
-      "ad hoc  /  impromptu  /  unplanned (no forewarning)",
-      "ad hoc  /  improvised (forewarned but no preparation performed)",
+      "ad hoc /  impromptu /  unplanned (no forewarning)",
+      "ad hoc /  improvised (forewarned but no preparation performed)",
       "off-the-cuff (forewarned but no planning or preparation necessary due to necessary resources / skills being at hand)",
       "unplanned but prepared [e.g., due to prior experience and having necessary resources at hand]",
       "in the planning stages; being planned",
@@ -221,8 +221,8 @@
       "growing / budding / youthful / young",
       "maturing / developing / getting stronger, bigger, more complex sophisticated",
       "fully developed / fully mature(d) / robust / ripe",
-      "overly developed / overripe / showing signs of wear and tear / stressed / under stress /  fatigued",
-      "declining/fading; trail off/fade / getting softer or weaker / faded / decrepit / has-been /  past one’s prime",
+      "overly developed / overripe / showing signs of wear and tear / stressed / under stress / fatigued",
+      "declining/fading; trail off/fade / getting softer or weaker / faded / decrepit / has-been / past one’s prime",
       "disintegrating / deteriorated / beyond repair or rehabilitation / irreparable / dying",
       "dead / defunct"
     ]
@@ -316,7 +316,7 @@
       "having a sudden/intense onset and enduring for a prolonged duration",
       "having a relatively quick onset then suddenly stopping/ending; fast-acting but then stopping suddenly",
       "having a relatively quick onset and enduring for a relatively brief duration; fast-acting / having a fast effect / taking effect quickly then lasting relatively briefly",
-      "having a relatively quick onset and enduring for a prolonged duration; fast-acting / having a fast effect /  taking effect quickly with a relatively prolonged/lasting effect",
+      "having a relatively quick onset and enduring for a prolonged duration; fast-acting / having a fast effect / taking effect quickly with a relatively prolonged/lasting effect",
       "having a slow onset then suddenly stopping; slow-acting then stopping / having a slow onset then stopping",
       "having a slow onset and enduring for a relatively brief duration; slow-acting with relatively brief following effect / having a slow onset followed by a relatively brief effect / taking effect gradually with brief effect following",
       "having a slow onset and enduring for a prolonged duration; slow-acting with prolonged effect / having a slow onset with a relatively prolonged/lasting effect"
@@ -406,10 +406,10 @@
     "associated_root": true,
     "degrees": [
       null,
-      "announced/advertised/heralded; w/  public disclosure",
+      "announced/advertised/heralded; w/ public disclosure",
       "open & well-known; with full public knowledge",
       "open/public; for all to see/publicly/openly",
-      "shown, open, or available by request /  by request",
+      "shown, open, or available by request / by request",
       "semi-public(ly), exclusive(ly), available to select parties",
       "personal, semi-private",
       "private(ly)",
@@ -660,7 +660,7 @@
       "somewhat painful(ly); unpleasant(ly)",
       "in neither pain nor pleasure",
       "pleasant(ly)",
-      "in pleasure  /  with pleasure  /  pleasurably",
+      "in pleasure /  with pleasure /  pleasurably",
       "in (or due to) great pleasure; extremely pleasurable / extremely pleasurably",
       "in ecstasy"
     ],
@@ -687,7 +687,7 @@
   },
   {
     "name": "TIG",
-    "description": "Degree of Tightness or Elascticity",
+    "description": "Degree of Tightness or Elasticity",
     "gradient_type": "D2",
     "cs": "tm",
     "associated_root": false,

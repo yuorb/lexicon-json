@@ -1,0 +1,119 @@
+[
+  {
+    "name": "DSD",
+    "description": "Desiderative modalities",
+    "gradient_type": "0",
+    "cs": "lz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "want to/that; desire to/that",
+      [
+        "hope to/that, wish to/that",
+        "dream about/long to"
+      ],
+      "request / would like to/that / if you please",
+      "feel like / up for / be inclined to",
+      "envy / covet",
+      "deign to / acquiesce to / assent to",
+      "be willing to, not mind, be open to, be OK with",
+      "would rather / prefer to",
+      "demand to / that"
+    ]
+  },
+  {
+    "name": "CPC",
+    "description": "Capacitative modalities",
+    "gradient_type": "0",
+    "cs": "ž",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "can/be able = have phys. ability/capacity to",
+      "can/be able = have opportunity to",
+      "can/could = have the potential to / possibility of",
+      "can/be able = offer to / volunteer to",
+      "can/be able = have knowledge/skill needed to",
+      "can/be able = be permitted to",
+      "let / allow to / permit that",
+      "suggest that / propose to",
+      "take advantage of (the opportunity to)"
+    ]
+  },
+  {
+    "name": "DBV",
+    "description": "Deliberative modalities",
+    "gradient_type": "0",
+    "cs": "čp",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "be devoted/committed to",
+      "have impression/feeling that",
+      "think (believe) that",
+      "remember to",
+      "consider/think about",
+      "be resigned to",
+      "dare to",
+      "choose to / decide to / resolve to, make up one’s mind to",
+      "help to, aid in, assist with"
+    ]
+  },
+  {
+    "name": "ATI",
+    "description": "Anticipatory modalities",
+    "gradient_type": "0",
+    "cs": "fs",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "tend to / be apt/prone to / be characterized by X-ness",
+      "be prepared/ready to",
+      "promise to / swear to / vow to",
+      "look forward to / eagerly await",
+      "free to, available to",
+      "anticipate / expect to/that",
+      "intend to / plan on / shall",
+      "(be) face(d with)",
+      "be predisposed to"
+    ]
+  },
+  {
+    "name": "OBG",
+    "description": "Obligative/necessitative",
+    "gradient_type": "0",
+    "cs": "lž",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "must / have to",
+      "should / ought to",
+      "be supposed/expected to, would be best if",
+      "feed driven/compelled to / feel a need to",
+      "need to / be necessary that/to",
+      "agree to",
+      "be tempted to",
+      "be persuaded to",
+      "to be fated/destined to"
+    ]
+  },
+  {
+    "name": "AVS",
+    "description": "Aversive (“short-cut” negations of other modalities)",
+    "gradient_type": "0",
+    "cs": "vč",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "forget to",
+      "avoid/shy away from",
+      "fear to / dare not",
+      "hinder, interfere with",
+      "prevent / prohibit / not let",
+      "refrain/abstain from",
+      "dread, not look forward to",
+      "be forced to / coerced to / … unwillingly",
+      "would rather not / prefer not to"
+    ]
+  }
+]

@@ -235,15 +235,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "recoil in place not enough",
-      "recoil in place hardly at all",
-      "recoil in place to a small degree",
-      "recoil in place less than normal",
-      "recoil in place to the nomal degree",
-      "recoil in place more than normal",
-      "recoil in place to a large degree",
-      "recoil in place to a very large degree",
-      "recoil in place too much"
+      "recoil in place not enough / to too little a degree / too slowly",
+      "recoil in place hardly at all / very slowly",
+      "recoil in place to a small degree / slowly",
+      "recoil in place to a less than normal degree / more slowly than normal",
+      "recoil in place to the normal / standard / usual degree / at the usual speed or rate",
+      "recoil in place to a greater than normal degree / more rapidly than normal",
+      "recoil in place to a large degree / rapidly",
+      "recoil in place to a very large degree / very rapidly",
+      "recoil in place too much / overly / too rapidly"
     ]
   },
   {
@@ -254,15 +254,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "go back and forth not enough",
-      "go back and forth hardly at all",
-      "go back and forth to a small degree",
-      "go back and forth less than normal",
-      "go back and forth to the nomal degree",
-      "go back and forth more than normal",
-      "go back and forth to a large degree",
-      "go back and forth to a very large degree",
-      "go back and forth too much"
+      "go back and forth not enough / to too little a degree / too slowly",
+      "go back and forth hardly at all / very slowly",
+      "go back and forth to a small degree / slowly",
+      "go back and forth to a less than normal degree / more slowly than normal",
+      "go back and forth to the normal / standard / usual degree / at the usual speed or rate",
+      "go back and forth to a greater than normal degree / more rapidly than normal",
+      "go back and forth to a large degree / rapidly",
+      "go back and forth to a very large degree / very rapidly",
+      "go back and forth much / overly / too rapidly"
     ]
   },
   {
@@ -273,15 +273,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "cycle in place too slowly",
-      "cycle in place very slowly",
-      "cycle in place slowly",
-      "cycle in place slower than normal",
+      "cycle in place not enough / to too little a degree / too slowly",
+      "cycle in place hardly at all / very slowly",
+      "cycle in place to a small degree / slowly",
+      "cycle in place to a less than normal degree / more slowly than normal",
       "cycle in place at a normal speed",
-      "cycle in place faster than normal",
-      "cycle in place fast",
-      "cycle in place very fast",
-      "cycle in place too fast"
+      "cycle in place to the normal / standard / usual degree / at the usual speed or rate",
+      "cycle in place to a large degree / rapidly",
+      "cycle in place to a very large degree / very rapidly",
+      "cycle in place much / overly / too rapidly"
     ]
   },
   {
@@ -292,15 +292,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "roll not enough",
-      "roll hardly at all",
-      "roll to a small degree",
-      "roll less than normal",
-      "roll to the nomal degree",
-      "roll more than normal",
-      "roll to a large degree",
-      "roll to a very large degree",
-      "roll too much"
+      "roll not enough / to too little a degree / too slowly",
+      "roll hardly at all / very slowly",
+      "roll to a small degree / slowly",
+      "roll to a less than normal degree / more slowly than normal",
+      "roll to the normal / standard / usual degree / at the usual speed or rate",
+      "roll to a greater than normal degree / more rapidly than normal",
+      "roll to a large degree / rapidly",
+      "roll to a very large degree / very rapidly",
+      "roll much / overly / too rapidly"
     ]
   },
   {
@@ -311,15 +311,15 @@
     "associated_root": false,
     "degrees": [
       null,
-      "randomly modulate not enough",
-      "randomly modulate hardly at all",
-      "randomly modulate to a small degree",
-      "randomly modulate less than normal",
-      "randomly modulate to the nomal degree",
-      "randomly modulate more than normal",
-      "randomly modulate to a large degree",
-      "randomly modulate to a very large degree",
-      "randomly modulate too much"
+      "randomly modulate not enough / to too little a degree / too slowly",
+      "randomly modulate hardly at all / very slowly",
+      "randomly modulate to a small degree / slowly",
+      "randomly modulate to a less than normal degree / more slowly than normal",
+      "randomly modulate to the normal / standard / usual degree / at the usual speed or rate",
+      "randomly modulate to a greater than normal degree / more rapidly than normal",
+      "randomly modulate to a large degree / rapidly",
+      "randomly modulate to a very large degree / very rapidly",
+      "randomly modulate much / overly / too rapidly"
     ]
   },
   {

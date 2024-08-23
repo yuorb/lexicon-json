@@ -1,0 +1,352 @@
+[
+  {
+    "name": "BY1",
+    "description": "Bodily Instrumentality = ‘by means of/using …’",
+    "gradient_type": "0",
+    "cs": "zb",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "w/a finger",
+      "w/a thumb",
+      "w/one’s fingers",
+      "w/a hand",
+      "w/both hands",
+      "w/an elbow/forearm",
+      "w/both elbows/forearms",
+      "w/an arm / tentacle / primary manipulator appendage",
+      "w/both arms / tentacles / primary manipulator appendages"
+    ]
+  },
+  {
+    "name": "BY2",
+    "description": "Bodily Instrumentality 2 = ‘by means of/using …’ (formerly DBI)",
+    "gradient_type": "0",
+    "cs": "zd",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "w/a toe",
+      "w/a big toe",
+      "w/one’s toes",
+      "w/a foot/paw",
+      "w/both feet/paws",
+      "w/a knee",
+      "w/both knees",
+      "w/a leg / primary ambulatory appendage",
+      "w/both legs / primary ambulatory appendages"
+    ]
+  },
+  {
+    "name": "BY3",
+    "description": "Bodily Instrumentality 3 = ‘by means of/using …’",
+    "gradient_type": "0",
+    "cs": "zg",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "w/one’s torso/chest/thorax",
+      "w/one’s shoulders",
+      "w/one’s head",
+      "w/one’s ears",
+      "w/one’s eyes",
+      "w/one’s nose/snout/proboscis",
+      "w/one’s teeth/fangs",
+      "w/one’s lips",
+      "w/one’s tongue"
+    ]
+  },
+  {
+    "name": "BY4",
+    "description": "Bodily Instrumentality 4 = ‘by means of/using …’",
+    "gradient_type": "0",
+    "cs": "zk",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "w/one’s mouth/beak",
+      "w/one’s fins/flippers/flukes",
+      "w/one’s stinger",
+      "w/one’s tail",
+      "w/one’s horn/tusk",
+      "w/one’s horns/tusks",
+      "w/one’s whiskers/feelers/antennae",
+      "a fingernail/claw",
+      "w/one’s fingernails/claws"
+    ]
+  },
+  {
+    "name": "MEC",
+    "description": "Type of Mechanical Instrumentality = ‘by means of …’",
+    "gradient_type": "0",
+    "cs": "ms",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "w/the body’s natural method of doing so [e.g., on foot, by hand, etc.]",
+      "w/ object employed circumstantially as implement for X-ing",
+      "w/a specialized tool for that specific purpose or activity",
+      "w/a machine or via mechanical means or process",
+      "w/a virtual, electronic means or via engineering",
+      "w/ mental power, force of will, concentration",
+      "w/a redirection or collation of energy specially applied",
+      "w/a coordinated/formal/commercial service dedicated to the task",
+      "w/a collective pooling of electronic/mechanical/engineering resources"
+    ]
+  },
+  {
+    "name": "UTE",
+    "description": "Utilitative or Enabling Resource",
+    "gradient_type": "0",
+    "cs": "bš",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "power/energy source for X(-ing)",
+      "supporting structure, base or platform for X(-ing)",
+      "raw material resource which makes X(-ing) possible",
+      "conduit-like tool through which one X’s",
+      "medium through which one X’s",
+      "covering/protective element employed to allow/permit X(-ing)",
+      "enabling element/device/apparatus to allow/foster X(-ing)",
+      "environment/situation/circumstances/setting which allows/fosters X(-ing)",
+      "FORCE which causes/permits X(-ing)"
+    ]
+  },
+  {
+    "name": "TDM",
+    "description": "Tool/Device/Means",
+    "gradient_type": "0",
+    "cs": "čv",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "hand-held / manual tool / utensil / implement for X-ing",
+      "specialized powered tool for X-ing",
+      "device/appliance for X-ing (small, handheld, countertop)",
+      "machine/apparatus for X-ing (large, industrial)",
+      "means/method for X-ing",
+      "procedure for X-ing",
+      "resource/material needed for X-ing",
+      "(quasi-)permanent implement used/left in place after X-ing [e.g., nail, screw, rivet, bolt, staple, clamp, suture, etc.]",
+      "automated process/system for X-ing"
+    ]
+  },
+  {
+    "name": "MDI",
+    "description": "Modification (type 2 affixes = specifically designed tool/device)",
+    "gradient_type": "D1",
+    "cs": "gḑ",
+    "associated_root": false,
+    "degrees": [
+      null,
+      [
+        "entity/object used to stop/interrupt (the process/effect of) X",
+        "specifically designed tool/device used to stop/interrupt (the process/effect of) X"
+      ],
+      [
+        "entity/object used to lessen/mitigate (the process/effect of) X",
+        "specifically designed tool/device used to lessen/mitigate (the process/effect of) X"
+      ],
+      [
+        "entity/object used to prevent/impede/block (the process/effect of) X",
+        "specifically designed tool/device used to prevent/impede/block (the process/effect of) X"
+      ],
+      [
+        "entity/object used to slow down (the process/effect of) X",
+        "specifically designed tool/device used to slow down (the process/effect of) X"
+      ],
+      [
+        "entity/object used to modify (the process/effect of) X",
+        "specifically designed tool/device used to modify (the process/effect of) X"
+      ],
+      [
+        "entity/object used to accelerate/speed up/intensify (the process/effect of) X",
+        "specifically designed tool/device used to accelerate/speed up/intensify (the process/effect of) X"
+      ],
+      [
+        "entity/object used to enable/facilitate (the process/effect of) X",
+        "specifically designed tool/device used to enable/facilitate (the process/effect of) X"
+      ],
+      [
+        "entity/object used to enhance/magnify (the process/effect) of X",
+        "specifically designed tool/device used to enhance/magnify (the process/effect of) X"
+      ],
+      [
+        "entity/object used to initiate/start/effectuate (the process/effect of) X",
+        "specifically designed tool/device used to initiate/start/effectuate (the process/effect of) X"
+      ]
+    ]
+  },
+  {
+    "name": "SOC",
+    "description": "Type of Social Instrumentality = ‘by means of …’",
+    "gradient_type": "0",
+    "cs": "mz",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "via lackeys, grunt labor, go-fors or henchmen",
+      "by coercion, threat, blackmail",
+      "“fronts”, or disguised go-betweens",
+      "indirectly through actions of others (unbeknownst to them)",
+      "indirectly through actions of others (with their knowledge)",
+      "by leveraging existing resources / personnel (deploying existing methods in a new application)",
+      "via a proxy or proxies",
+      "hired help or staff",
+      "by delegation of task to experts"
+    ]
+  },
+  {
+    "name": "OAU",
+    "description": "Origin/Association/Utilization",
+    "gradient_type": "B",
+    "cs": "çn",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "entity/thing/phenomenon that hails from X",
+      "entity/thing/phenomenon associated with X",
+      "entity/thing/phenomenon that utilizes X",
+      "person that hails from X",
+      "person associated with X",
+      "person that utilizes X",
+      "idea/practice/custom that hails from X",
+      "idea/practice/custom associated with X",
+      "idea/practice/custom that utilizes X"
+    ]
+  },
+  {
+    "name": "AUT",
+    "description": "Authorization",
+    "gradient_type": "0",
+    "cs": "pč",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "by being granted a personal privilege / via the generosity or largess ofanother or others",
+      "by inalienable human right / by natural right",
+      "by right of a legal claim / by right of statute or law",
+      "by right of custom or social convention / by right of general agreement or common knowledge",
+      "by granting of a personal favor or claim on a favor owed",
+      "by making of a threat or via a quid-pro-quo agreement",
+      "by one’s own formal authority, rank, or formal position",
+      "by authority of one’s social position, class, or position in informal or subjective hierarchy",
+      "as authorized by a governing entity or formal collective authority"
+    ]
+  },
+  {
+    "name": "ENB",
+    "description": "Means of Enablement",
+    "gradient_type": "0",
+    "cs": "mš",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "by inadvertent gesture/word/sign taken as order or permission",
+      "by granting of permission",
+      "by cajoling or persuasion",
+      "by direct request or imploring",
+      "by direct order based on one’s real or perceived authority",
+      "by inadvertent removal of hindrance",
+      "by inadvertent action that initiates a chain of events",
+      "by deliberate removal of hindrance",
+      "by deliberate action that initiates a chain of events"
+    ]
+  },
+  {
+    "name": "MAK",
+    "description": "Making/Constructing",
+    "gradient_type": "0",
+    "cs": "ţk",
+    "associated_root": true,
+    "degrees": [
+      null,
+      "the idea/concept of how to make/construct X",
+      "the instructions/plan/blueprint/diagram stating/illustrating how X is (to be) made",
+      "the method(ology) in/with which X is/has been constructed",
+      "the material of which X is made or which X consists of",
+      "a component/ingredient which goes into the making/construction of X",
+      "the mold/model/archetype used to create/construct X",
+      "the making/construction of X",
+      "the physical/structural design in which X is/has been constructed or of which X is an example",
+      "the type/kind/sort/genre of entity of which X is a representative"
+    ]
+  },
+  {
+    "name": "CSN",
+    "description": "Cancellation - Suspension - Nullification - Maintenance",
+    "gradient_type": "C",
+    "cs": "cř",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "(quasi-)permanent suspension/cancellation/nullification of X",
+      "long-term suspension/cancellation/nullification of X",
+      "temporary suspension/cancellation/nullification of X",
+      "almost/near (full/total/complete) suspension/cancellation/nullification of X",
+      "partial suspension/cancellation/nullification/maintaining of X",
+      "almost/near (full/total/complete) maintaining of X",
+      "temporary maintaining of X",
+      "long-term maintaining of X",
+      "(quasi-)permanent maintaining of X"
+    ]
+  },
+  {
+    "name": "EPS",
+    "description": "Energy/Power Source",
+    "gradient_type": "0",
+    "cs": "sc",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "powered by burning or combustion of fossil fuel",
+      "hydraulic-powered [e.g., water, wind, compressed air, etc.]",
+      "steam-driven",
+      "solar-powered",
+      "electric, electricity-driven, hydro-electric",
+      "powered by stored energy (battery, flywheel)",
+      "atomic-powered, nuclear-powered [e.g., fission, fusion]",
+      "hydrogen-powered",
+      "powered by quantum vacuum energy, zero-point energy"
+    ]
+  },
+  {
+    "name": "LCM",
+    "description": "Life-Cycle of a Mechanism/Device/Fixture/Machine",
+    "gradient_type": "A1",
+    "cs": "řst",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "designing X, drafting a blueprint of X; to design X, to draft a blueprint/design of X",
+      "constructing/forming/crafting/making X; to make/build/construct/craft X",
+      "determining placement/location of X within/among/in association with its surrounding infrastructure",
+      "installation/connection/set-up of X; to install/connect/set up X",
+      "operational test of X; to test whether X is functioning/operating correctly",
+      "servicing/maintenance of X; to perform maintenance service on X",
+      "repair of X; to repair X",
+      "removal/retirement/discarding of X; remove/retire/discard X",
+      "replacement of X; replace X"
+    ]
+  },
+  {
+    "name": "MNS",
+    "description": "Maintenance of a State",
+    "gradient_type": "0",
+    "cs": "zt",
+    "associated_root": false,
+    "degrees": [
+      null,
+      "maintain in pristine/ideal state without needing/applying X",
+      "maintain in pristine/ideal state by requiring/obtaining X",
+      "maintain in pristine/ideal state by applying/providing X",
+      "maintain (in) the state that requires X (where X has not yet occurred or been applied)",
+      "be (in) the state where X must be constantly maintained/present/applied",
+      "maintain (in) the state resulting from X-ing or having X’d / maintain (in) the resulting state after (having) X(’d)",
+      "(able to) maintain (in) the state of X only by constant monitoring and upkeep / maintain (in) the state of X-ing but requiring constant monitoring and upkeep",
+      "(able to) maintain (in) the state of X but requiring periodic monitoring or upkeep / maintain (in) the state of X-ing but requiring periodic monitoring or upkeep",
+      "(able to) maintain (in) the state of X without requiring further monitoring or upkeep / maintain (in) the state of X-ing without requiring further monitoring or upkeep"
+    ]
+  }
+]
