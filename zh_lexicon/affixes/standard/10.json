@@ -237,21 +237,21 @@
   },
   {
     "name": "ENB",
-    "description": "Means of Enablement",
+    "description": "使然方式",
     "gradient_type": "0",
     "cs": "mš",
     "associated_root": false,
     "degrees": [
       null,
-      "by inadvertent gesture/word/sign taken as order or permission",
-      "by granting of permission",
-      "by cajoling or persuasion",
-      "by direct request or imploring",
-      "by direct order based on one’s real or perceived authority",
-      "by inadvertent removal of hindrance",
-      "by inadvertent action that initiates a chain of events",
-      "by deliberate removal of hindrance",
-      "by deliberate action that initiates a chain of events"
+      "通过无意的行为/话语被当作命令或许可",
+      "通过给予许可",
+      "通过说服/劝诱",
+      "通过直接请求/恳求",
+      "通过基于实际或以为的个人权威而直接命令",
+      "通过无意移除阻碍",
+      "通过无意行为引起连锁反应",
+      "通过有意移除阻碍",
+      "通过有意行为引起连锁反应"
     ]
   },
   {

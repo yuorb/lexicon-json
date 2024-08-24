@@ -1,119 +1,119 @@
 [
   {
     "name": "DSD",
-    "description": "Desiderative modalities",
+    "description": "渴望性情态",
     "gradient_type": "0",
     "cs": "lz",
     "associated_root": false,
     "degrees": [
       null,
-      "want to/that; desire to/that",
+      "想要；欲……",
       [
-        "hope to/that, wish to/that",
-        "dream about/long to"
+        "希望/期望……",
+        "梦想/渴望……"
       ],
-      "request / would like to/that / if you please",
-      "feel like / up for / be inclined to",
-      "envy / covet",
-      "deign to / acquiesce to / assent to",
-      "be willing to, not mind, be open to, be OK with",
-      "would rather / prefer to",
-      "demand to / that"
+      "请求/想要/如果可以的话……",
+      "有兴趣/倾向于……",
+      "羡慕/垂涎……",
+      "屈尊/默许/批准……",
+      "愿意/不介意/愿意接受/觉得……OK",
+      "宁愿/更喜欢……",
+      "要求……"
     ]
   },
   {
     "name": "CPC",
-    "description": "Capacitative modalities",
+    "description": "可能性情态",
     "gradient_type": "0",
     "cs": "ž",
     "associated_root": false,
     "degrees": [
       null,
-      "can/be able = have phys. ability/capacity to",
-      "can/be able = have opportunity to",
-      "can/could = have the potential to / possibility of",
-      "can/be able = offer to / volunteer to",
-      "can/be able = have knowledge/skill needed to",
-      "can/be able = be permitted to",
-      "let / allow to / permit that",
-      "suggest that / propose to",
-      "take advantage of (the opportunity to)"
+      "能够/有能力 = 有身体能力/才能做……",
+      "能够 = 有机会……",
+      "能够/可以 = 有潜力/可能性……",
+      "能够 = 主动提供/自愿……",
+      "能够 = 具备所需的知识/技能……",
+      "能够 = 被允许……",
+      "让/允许/批准……",
+      "建议/提议……",
+      "利用……（的机会）"
     ]
   },
   {
     "name": "DBV",
-    "description": "Deliberative modalities",
+    "description": "审议性情态",
     "gradient_type": "0",
     "cs": "čp",
     "associated_root": false,
     "degrees": [
       null,
-      "be devoted/committed to",
-      "have impression/feeling that",
-      "think (believe) that",
-      "remember to",
-      "consider/think about",
-      "be resigned to",
-      "dare to",
-      "choose to / decide to / resolve to, make up one’s mind to",
-      "help to, aid in, assist with"
+      "致力于/专注于……",
+      "有印象/感觉到……",
+      "认为（相信）……",
+      "记得……",
+      "考虑/思考……",
+      "顺从/甘心情愿……",
+      "敢于……",
+      "选择/决定/下定决心……",
+      "帮助/协助……"
     ]
   },
   {
     "name": "ATI",
-    "description": "Anticipatory modalities",
+    "description": "预期性情态",
     "gradient_type": "0",
     "cs": "fs",
     "associated_root": false,
     "degrees": [
       null,
-      "tend to / be apt/prone to / be characterized by X-ness",
-      "be prepared/ready to",
-      "promise to / swear to / vow to",
-      "look forward to / eagerly await",
-      "free to, available to",
-      "anticipate / expect to/that",
-      "intend to / plan on / shall",
-      "(be) face(d with)",
-      "be predisposed to"
+      "倾向于/易于/以 X 性为特征",
+      "准备好/愿意……",
+      "承诺/发誓……",
+      "（热切）期待……",
+      "有空……",
+      "预期/预料……",
+      "打算/计划/将要……",
+      "面对……",
+      "预先有意向……"
     ]
   },
   {
     "name": "OBG",
-    "description": "Obligative/necessitative",
+    "description": "义务性/必要性情态",
     "gradient_type": "0",
     "cs": "lž",
     "associated_root": false,
     "degrees": [
       null,
-      "must / have to",
-      "should / ought to",
-      "be supposed/expected to, would be best if",
-      "feed driven/compelled to / feel a need to",
-      "need to / be necessary that/to",
-      "agree to",
-      "be tempted to",
-      "be persuaded to",
-      "to be fated/destined to"
+      "必须/不得不……",
+      "应该/应当……",
+      "必须做/受指望/最好……",
+      "感到驱使/被迫/感到需要……",
+      "需要/必须……",
+      "同意……",
+      "因诱而……",
+      "受说服而……",
+      "注定/命定……"
     ]
   },
   {
     "name": "AVS",
-    "description": "Aversive (“short-cut” negations of other modalities)",
+    "description": "厌恶性情态（其他情态的「简替」否定）",
     "gradient_type": "0",
     "cs": "vč",
     "associated_root": false,
     "degrees": [
       null,
-      "forget to",
-      "avoid/shy away from",
-      "fear to / dare not",
-      "hinder, interfere with",
-      "prevent / prohibit / not let",
-      "refrain/abstain from",
-      "dread, not look forward to",
-      "be forced to / coerced to / … unwillingly",
-      "would rather not / prefer not to"
+      "忘记……",
+      "避免/躲避……",
+      "害怕/不敢……",
+      "阻碍/干扰……",
+      "阻止/禁止/不让……",
+      "节制/克制……",
+      "畏惧/不期待……",
+      "被迫/被强迫/不情愿地……",
+      "宁愿不/更不愿……"
     ]
   }
 ]
