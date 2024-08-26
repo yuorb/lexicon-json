@@ -1,238 +1,238 @@
 [
   {
     "name": "BY1",
-    "description": "Bodily Instrumentality = ‘by means of/using …’",
+    "description": "身体手段 1 = 「通过/使用……」",
     "gradient_type": "0",
     "cs": "zb",
     "associated_root": false,
     "degrees": [
       null,
-      "w/a finger",
-      "w/a thumb",
-      "w/one’s fingers",
-      "w/a hand",
-      "w/both hands",
-      "w/an elbow/forearm",
-      "w/both elbows/forearms",
-      "w/an arm / tentacle / primary manipulator appendage",
-      "w/both arms / tentacles / primary manipulator appendages"
+      "用一只手指",
+      "用拇指",
+      "用多只手指",
+      "用单手",
+      "用（双/多）手",
+      "用肘部/前臂",
+      "用（双/多）肘/前臂",
+      "用单臂/触手/主要操控性附器",
+      "用（双/多）臂/触手/主要操控性附器"
     ]
   },
   {
     "name": "BY2",
-    "description": "Bodily Instrumentality 2 = ‘by means of/using …’ (formerly DBI)",
+    "description": "身体手段 2 = 「通过/使用……」（曾名为 DBI）",
     "gradient_type": "0",
     "cs": "zd",
     "associated_root": false,
     "degrees": [
       null,
-      "w/a toe",
-      "w/a big toe",
-      "w/one’s toes",
-      "w/a foot/paw",
-      "w/both feet/paws",
-      "w/a knee",
-      "w/both knees",
-      "w/a leg / primary ambulatory appendage",
-      "w/both legs / primary ambulatory appendages"
+      "用单个脚趾",
+      "用大脚趾",
+      "用多个脚趾",
+      "用脚/爪子",
+      "用（双/多）脚/爪子",
+      "用单膝",
+      "用（双/多）膝",
+      "用单腿/主要行走性附器",
+      "用（双/多）腿/主要行走性附器"
     ]
   },
   {
     "name": "BY3",
-    "description": "Bodily Instrumentality 3 = ‘by means of/using …’",
+    "description": "身体手段 3 = 「通过/使用……」",
     "gradient_type": "0",
     "cs": "zg",
     "associated_root": false,
     "degrees": [
       null,
-      "w/one’s torso/chest/thorax",
-      "w/one’s shoulders",
-      "w/one’s head",
-      "w/one’s ears",
-      "w/one’s eyes",
-      "w/one’s nose/snout/proboscis",
-      "w/one’s teeth/fangs",
-      "w/one’s lips",
-      "w/one’s tongue"
+      "用躯干/胸部/胸腔",
+      "用双肩",
+      "用头",
+      "用（双/多）耳",
+      "用（双/多）眼",
+      "用鼻子/口鼻/（大象、貘等能自动伸缩的）长鼻子、（昆虫的）喙、吻、（蠕虫的）管形吮吸器官",
+      "用牙齿/犬齿",
+      "用（双/多）唇",
+      "用舌头"
     ]
   },
   {
     "name": "BY4",
-    "description": "Bodily Instrumentality 4 = ‘by means of/using …’",
+    "description": "身体手段 4 = 「通过/使用……」",
     "gradient_type": "0",
     "cs": "zk",
     "associated_root": false,
     "degrees": [
       null,
-      "w/one’s mouth/beak",
-      "w/one’s fins/flippers/flukes",
-      "w/one’s stinger",
-      "w/one’s tail",
-      "w/one’s horn/tusk",
-      "w/one’s horns/tusks",
-      "w/one’s whiskers/feelers/antennae",
-      "a fingernail/claw",
-      "w/one’s fingernails/claws"
+      "用嘴/（鸟）喙",
+      "用脚蹼、鳍/鳍肢/尾鳍",
+      "用螫针、螫刺",
+      "用尾巴",
+      "用单角/单（尤指象、海象、野猪的）长牙、獠牙",
+      "用（双/多）角/长牙",
+      "用胡须/触角/触须",
+      "用指甲/爪子",
+      "用（双/多）指甲/爪子"
     ]
   },
   {
     "name": "MEC",
-    "description": "Type of Mechanical Instrumentality = ‘by means of …’",
+    "description": "机械手段的类型 = 「通过/使用……」",
     "gradient_type": "0",
     "cs": "ms",
     "associated_root": false,
     "degrees": [
       null,
-      "w/the body’s natural method of doing so [e.g., on foot, by hand, etc.]",
-      "w/ object employed circumstantially as implement for X-ing",
-      "w/a specialized tool for that specific purpose or activity",
-      "w/a machine or via mechanical means or process",
-      "w/a virtual, electronic means or via engineering",
-      "w/ mental power, force of will, concentration",
-      "w/a redirection or collation of energy specially applied",
-      "w/a coordinated/formal/commercial service dedicated to the task",
-      "w/a collective pooling of electronic/mechanical/engineering resources"
+      "使用身体自然的方法进行 [例如，步行、手工等]",
+      "使用偶然的物体作为从事 X 的工具",
+      "使用专门工具用于特定目的或活动",
+      "使用机器或通过机械手段或过程",
+      "使用虚拟的、电子的手段或通过工程手段",
+      "使用心理力量、意志力、集中注意力",
+      "使用特别应用的能量重新引导或汇聚",
+      "使用专门的协调/正式/商业服务来完成任务",
+      "使用电子/机械/工程资源的集体汇聚"
     ]
   },
   {
     "name": "UTE",
-    "description": "Utilitative or Enabling Resource",
+    "description": "利用性或启用性资源",
     "gradient_type": "0",
     "cs": "bš",
     "associated_root": false,
     "degrees": [
       null,
-      "power/energy source for X(-ing)",
-      "supporting structure, base or platform for X(-ing)",
-      "raw material resource which makes X(-ing) possible",
-      "conduit-like tool through which one X’s",
-      "medium through which one X’s",
-      "covering/protective element employed to allow/permit X(-ing)",
-      "enabling element/device/apparatus to allow/foster X(-ing)",
-      "environment/situation/circumstances/setting which allows/fosters X(-ing)",
-      "FORCE which causes/permits X(-ing)"
+      "（进行） X 所用的动力/能源来源",
+      "（进行） X 所用的支撑性结构、基础或平台",
+      "使 X 可行的原材料资源",
+      "以进行 X 的贯通（水管；水道；管道；导管；渠道）式工具，",
+      "以进行 X 的媒介",
+      "覆盖性/保护性元件，用于允许/许可 X（的进行）",
+      "使能性元件/设备/装置，允许/促进 X（的进行）",
+      "环境/情况/环境/设置，允许/促进 X（的进行）",
+      "导致/许可 X 的不可抗力（语义角色：一类无生性致事者）"
     ]
   },
   {
     "name": "TDM",
-    "description": "Tool/Device/Means",
+    "description": "工具/设备/手段",
     "gradient_type": "0",
     "cs": "čv",
     "associated_root": true,
     "degrees": [
       null,
-      "hand-held / manual tool / utensil / implement for X-ing",
-      "specialized powered tool for X-ing",
-      "device/appliance for X-ing (small, handheld, countertop)",
-      "machine/apparatus for X-ing (large, industrial)",
-      "means/method for X-ing",
-      "procedure for X-ing",
-      "resource/material needed for X-ing",
-      "(quasi-)permanent implement used/left in place after X-ing [e.g., nail, screw, rivet, bolt, staple, clamp, suture, etc.]",
-      "automated process/system for X-ing"
+      "进行 X 所用的手持/手动工具/器具/用具",
+      "进行 X 所用的专用电动工具",
+      "进行 X 所用的设备/器具（小型、手持、台面）",
+      "进行 X 所用的机器/设备（大型、工业）",
+      "进行 X 所用的手段/方法",
+      "进行 X 所用的程序/手续/步骤",
+      "进行 X 所需的资源/材料",
+      "在进行 X 后所用/特地留下的（准）永久工具 [例如，钉子、螺丝、铆钉、螺栓、订书钉、背带；绑带；箍带；夹子；夹钳；夹具、（伤口或外科切口的）缝线等]",
+      "进行 X 所用的自动化过程/系统"
     ]
   },
   {
     "name": "MDI",
-    "description": "Modification (type 2 affixes = specifically designed tool/device)",
+    "description": "用于改进（丙型 = 专门设计的工具/设备）",
     "gradient_type": "D1",
     "cs": "gḑ",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "entity/object used to stop/interrupt (the process/effect of) X",
-        "specifically designed tool/device used to stop/interrupt (the process/effect of) X"
+        "用于停止/中断 X（的过程/效果）的实体/物体",
+        "用于停止/中断 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to lessen/mitigate (the process/effect of) X",
-        "specifically designed tool/device used to lessen/mitigate (the process/effect of) X"
+        "用于减轻/缓和 X（的过程/效果）的实体/物体",
+        "用于减轻/缓和 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to prevent/impede/block (the process/effect of) X",
-        "specifically designed tool/device used to prevent/impede/block (the process/effect of) X"
+        "用于防止/阻碍/封锁 X（的过程/效果）的实体/物体",
+        "用于防止/阻碍/封锁 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to slow down (the process/effect of) X",
-        "specifically designed tool/device used to slow down (the process/effect of) X"
+        "用于减缓 X（的过程/效果）的实体/物体",
+        "用于减缓 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to modify (the process/effect of) X",
-        "specifically designed tool/device used to modify (the process/effect of) X"
+        "用于改进 X（的过程/效果）的实体/物体",
+        "用于改进 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to accelerate/speed up/intensify (the process/effect of) X",
-        "specifically designed tool/device used to accelerate/speed up/intensify (the process/effect of) X"
+        "用于增长/促进/增强 X（的过程/效果）的实体/物体",
+        "用于增长/促进/增强 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to enable/facilitate (the process/effect of) X",
-        "specifically designed tool/device used to enable/facilitate (the process/effect of) X"
+        "用于使能/推动 X（的过程/效果）的实体/物体",
+        "用于使能/推动 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to enhance/magnify (the process/effect) of X",
-        "specifically designed tool/device used to enhance/magnify (the process/effect of) X"
+        "用于提高/扩大 X（的过程/效果）的实体/物体",
+        "用于提高/扩大 X（的过程/效果）的专用工具/设备"
       ],
       [
-        "entity/object used to initiate/start/effectuate (the process/effect of) X",
-        "specifically designed tool/device used to initiate/start/effectuate (the process/effect of) X"
+        "用于启动/开始/实行 X（的过程/效果）的实体/物体",
+        "用于启动/开始/实行 X（的过程/效果）的专用工具/设备"
       ]
     ]
   },
   {
     "name": "SOC",
-    "description": "Type of Social Instrumentality = ‘by means of …’",
+    "description": "社会手段 = 「通过/使用……」",
     "gradient_type": "0",
     "cs": "mz",
     "associated_root": false,
     "degrees": [
       null,
-      "via lackeys, grunt labor, go-fors or henchmen",
-      "by coercion, threat, blackmail",
-      "“fronts”, or disguised go-betweens",
-      "indirectly through actions of others (unbeknownst to them)",
-      "indirectly through actions of others (with their knowledge)",
-      "by leveraging existing resources / personnel (deploying existing methods in a new application)",
-      "via a proxy or proxies",
-      "hired help or staff",
-      "by delegation of task to experts"
+      "通过跟班（侍从）、苦力、跑腿或爪牙（心腹、亲信）",
+      "通过强迫、威胁、敲诈",
+      "通过“幌子”，或伪装的中介",
+      "间接通过他人的行为（在他们不知情的情况下）",
+      "间接通过他人的行为（在他们知情的情况下）",
+      "通过利用现有资源/人手/人员（在新的应用中使用现有的方法）",
+      "通过一个或多个代理",
+      "通过雇员或员工",
+      "通过将任务委托给专家"
     ]
   },
   {
     "name": "OAU",
-    "description": "Origin/Association/Utilization",
+    "description": "起源/关联/利用",
     "gradient_type": "B",
     "cs": "çn",
     "associated_root": true,
     "degrees": [
       null,
-      "entity/thing/phenomenon that hails from X",
-      "entity/thing/phenomenon associated with X",
-      "entity/thing/phenomenon that utilizes X",
-      "person that hails from X",
-      "person associated with X",
-      "person that utilizes X",
-      "idea/practice/custom that hails from X",
-      "idea/practice/custom associated with X",
-      "idea/practice/custom that utilizes X"
+      "源于 X 的实体/事物/现象",
+      "与 X 相关的实体/事物/现象",
+      "利用 X 的实体/事物/现象",
+      "源于 X 的人",
+      "与 X 相关的人",
+      "利用 X 的人",
+      "源于 X 的想法/实践/习俗",
+      "与 X 相关的想法/实践/习俗",
+      "利用 X 的想法/实践/习俗"
     ]
   },
   {
     "name": "AUT",
-    "description": "Authorization",
+    "description": "授权",
     "gradient_type": "0",
     "cs": "pč",
     "associated_root": false,
     "degrees": [
       null,
-      "by being granted a personal privilege / via the generosity or largess ofanother or others",
-      "by inalienable human right / by natural right",
-      "by right of a legal claim / by right of statute or law",
-      "by right of custom or social convention / by right of general agreement or common knowledge",
-      "by granting of a personal favor or claim on a favor owed",
-      "by making of a threat or via a quid-pro-quo agreement",
-      "by one’s own formal authority, rank, or formal position",
-      "by authority of one’s social position, class, or position in informal or subjective hierarchy",
-      "as authorized by a governing entity or formal collective authority"
+      "通过所授个人特权/通过他人的慷慨或宽宏",
+      "通过不可剥夺的人权/通过自然权利",
+      "通过法律主张的权利/通过法律或法规的权利",
+      "通过习俗或社会惯例的权利/通过普遍协议或常识的权利",
+      "通过个人恩惠的授予或对所欠恩惠的要求",
+      "通过威胁或通过对等协议",
+      "通过个人的正式权威、等级或正式职位",
+      "通过个人社会地位、阶层、或非正式/主观层级中的地位的权威",
+      "由地方政府实体或正式集体权威授权"
     ]
   },
   {
@@ -256,97 +256,97 @@
   },
   {
     "name": "MAK",
-    "description": "Making/Constructing",
+    "description": "制造/构建",
     "gradient_type": "0",
     "cs": "ţk",
     "associated_root": true,
     "degrees": [
       null,
-      "the idea/concept of how to make/construct X",
-      "the instructions/plan/blueprint/diagram stating/illustrating how X is (to be) made",
-      "the method(ology) in/with which X is/has been constructed",
-      "the material of which X is made or which X consists of",
-      "a component/ingredient which goes into the making/construction of X",
-      "the mold/model/archetype used to create/construct X",
-      "the making/construction of X",
-      "the physical/structural design in which X is/has been constructed or of which X is an example",
-      "the type/kind/sort/genre of entity of which X is a representative"
+      "关于如何制造/构建 X 的想法/概念",
+      "说明/阐明如何制造 X 的指令/计划/蓝图/图示",
+      "用于构建 X 的方法论",
+      "构成 X 的材料",
+      "用于制造/构建 X 的组成部分/成分",
+      "用于创建/构建 X 的模具/模型/原型",
+      "X 的制造/构建",
+      "构成 X 的、或 X 为其一个例子的物理/结构设计",
+      "以 X 为代表性实体的类型/种类/分类"
     ]
   },
   {
     "name": "CSN",
-    "description": "Cancellation - Suspension - Nullification - Maintenance",
+    "description": "取消 - 暂停 - 撤销 - 维持",
     "gradient_type": "C",
     "cs": "cř",
     "associated_root": false,
     "degrees": [
       null,
-      "(quasi-)permanent suspension/cancellation/nullification of X",
-      "long-term suspension/cancellation/nullification of X",
-      "temporary suspension/cancellation/nullification of X",
-      "almost/near (full/total/complete) suspension/cancellation/nullification of X",
-      "partial suspension/cancellation/nullification/maintaining of X",
-      "almost/near (full/total/complete) maintaining of X",
-      "temporary maintaining of X",
-      "long-term maintaining of X",
-      "(quasi-)permanent maintaining of X"
+      "X 的（准）永久暂停/取消/撤销 X",
+      "X 的长期暂停/取消/撤销 X",
+      "X 的临时暂停/取消/撤销 X",
+      "X 的几乎/接近 (完全/总体/全部) 暂停/取消/撤销",
+      "X 的部分暂停/取消/撤销/维持",
+      "X 的几乎/接近 (完全/总/全部) 维持",
+      "X 的临时维持",
+      "X 的长期维持",
+      "X 的（准）永久维持"
     ]
   },
   {
     "name": "EPS",
-    "description": "Energy/Power Source",
+    "description": "能源/动力源",
     "gradient_type": "0",
     "cs": "sc",
     "associated_root": false,
     "degrees": [
       null,
-      "powered by burning or combustion of fossil fuel",
-      "hydraulic-powered [e.g., water, wind, compressed air, etc.]",
-      "steam-driven",
-      "solar-powered",
-      "electric, electricity-driven, hydro-electric",
-      "powered by stored energy (battery, flywheel)",
-      "atomic-powered, nuclear-powered [e.g., fission, fusion]",
-      "hydrogen-powered",
-      "powered by quantum vacuum energy, zero-point energy"
+      "通过化石燃料的燃烧提供动力",
+      "液压驱动 [例如：水、风、压缩空气等]",
+      "蒸汽驱动",
+      "太阳能驱动",
+      "电力、电驱动、（尤指由建于水坝或堰后的水库）水力发电的",
+      "通过所储存的能量（电池、飞轮）驱动",
+      "原子能驱动、核能驱动 [例如：核裂变、核聚变]",
+      "氢能驱动",
+      "通过量子真空能量、零点能量供电"
     ]
   },
   {
     "name": "LCM",
-    "description": "Life-Cycle of a Mechanism/Device/Fixture/Machine",
+    "description": "机制/设备/装置/机器的生命周期",
     "gradient_type": "A1",
     "cs": "řst",
     "associated_root": false,
     "degrees": [
       null,
-      "designing X, drafting a blueprint of X; to design X, to draft a blueprint/design of X",
-      "constructing/forming/crafting/making X; to make/build/construct/craft X",
-      "determining placement/location of X within/among/in association with its surrounding infrastructure",
-      "installation/connection/set-up of X; to install/connect/set up X",
-      "operational test of X; to test whether X is functioning/operating correctly",
-      "servicing/maintenance of X; to perform maintenance service on X",
-      "repair of X; to repair X",
-      "removal/retirement/discarding of X; remove/retire/discard X",
-      "replacement of X; replace X"
+      "X 的草图绘制/设计，设计 X，草拟/绘制 X 的蓝图/设计",
+      "制造/建造/构造/制作 X",
+      "确定 X 在其周围基设中的位置/放置/设置",
+      "X 的安装/连接/设置；安装/连接/设置 X",
+      "X 的操作测试；测试 X 是否正常运行",
+      "X 的维护/保养；对 X 进行维护服务",
+      "X 的修理；修理 X",
+      "X 的移除/退役/丢弃；移除/退役/丢弃 X",
+      "X 的替换；替换 X"
     ]
   },
   {
     "name": "MNS",
-    "description": "Maintenance of a State",
+    "description": "状态的维护",
     "gradient_type": "0",
     "cs": "zt",
     "associated_root": false,
     "degrees": [
       null,
-      "maintain in pristine/ideal state without needing/applying X",
-      "maintain in pristine/ideal state by requiring/obtaining X",
-      "maintain in pristine/ideal state by applying/providing X",
-      "maintain (in) the state that requires X (where X has not yet occurred or been applied)",
-      "be (in) the state where X must be constantly maintained/present/applied",
-      "maintain (in) the state resulting from X-ing or having X’d / maintain (in) the resulting state after (having) X(’d)",
-      "(able to) maintain (in) the state of X only by constant monitoring and upkeep / maintain (in) the state of X-ing but requiring constant monitoring and upkeep",
-      "(able to) maintain (in) the state of X but requiring periodic monitoring or upkeep / maintain (in) the state of X-ing but requiring periodic monitoring or upkeep",
-      "(able to) maintain (in) the state of X without requiring further monitoring or upkeep / maintain (in) the state of X-ing without requiring further monitoring or upkeep"
+      "在无需/不应用 X 的情况下维持理想状态",
+      "通过需要/获取 X 来维持理想状态",
+      "通过应用/提供 X 来维持理想状态",
+      "维持需要 X 的状态（X 尚未发生或应用）",
+      "处于必须 X 不断受维护/存在/应用的状态",
+      "维持因 X 所导致的状态 / 维持（已）X 后的结果状态",
+      "（能够）只通过持续监控和维护来维持 X 的状态 / 维持 X（进行）的状态但需不断监控和维护",
+      "（能够）维持 X 的状态但需要定期监控或维护/维持 X（进行）的状态但需要定期监控或维护",
+      "（能够）维持 X 的状态而无需进一步监控或维护/维持 X（进行）的状态而无需进一步监控或维护"
     ]
   }
 ]
