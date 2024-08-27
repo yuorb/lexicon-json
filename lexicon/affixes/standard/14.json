@@ -374,7 +374,7 @@
       "in/per nano-second(s) (10×100⁻⁵s = 10⁻⁹s)",
       "in/per micro-second(s) (100⁻³s = 10⁻⁶s)",
       "in/per milli-second(s) (10×100⁻²s = 10⁻³s)",
-      "in/per -second(s) [e.g., with root -**LSTR**- = Hertz]"
+      "in/per second(s) [e.g., with root -**LSTR**- = Hertz]"
     ],
     "notes": "\\* this affix is the measurement counterpart to the UST affix"
   },
@@ -399,7 +399,7 @@
   },
   {
     "name": "LTM",
-    "description": "Long-TermTemp. Meas.",
+    "description": "Long-Term Temp. Meas.",
     "gradient_type": "A1",
     "cs": "rňs",
     "associated_root": false,
@@ -656,7 +656,7 @@
       "Russian ₽",
       "British £",
       "Canadian $",
-      "€",
+      "euro €",
       "Indian ₹",
       "Japanese ¥",
       "Brazilian real",
@@ -695,7 +695,7 @@
       "New Zealand $",
       "₿itcoin",
       "currency used by X",
-      "Israeli ₪",
+      "Israeli new ₪",
       "Polish złoty",
       "Singapore $",
       "Malaysian ringgit"

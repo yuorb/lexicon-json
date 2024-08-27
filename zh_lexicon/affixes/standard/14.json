@@ -1,64 +1,64 @@
 [
   {
     "name": "BAO",
-    "description": "Basic Arithmetical Operations",
+    "description": "基本算术运算",
     "gradient_type": "0",
     "cs": "sd",
     "associated_root": false,
     "degrees": [
       null,
-      "plus X",
-      "minus X",
-      "multiplied by X; times X",
-      "divided by X; 1/X; reciprocal of X",
-      "plus or minus X",
-      "X-Squared",
-      "X-Cubed",
-      "square-root of X",
-      "raised to the Xth power"
+      "加 X",
+      "减 X",
+      "乘以 X；乘 X",
+      "除以 X；1/X；X 的倒数",
+      "加或减 X",
+      "X 的平方",
+      "X 的立方",
+      "X 的平方根",
+      "……的 X 次方"
     ]
   },
   {
     "name": "SMO",
-    "description": "Secondary Mathematical Operations",
+    "description": "次要数学运算",
     "gradient_type": "0",
     "cs": "zp",
     "associated_root": false,
     "degrees": [
       null,
-      "mod X",
-      "absolute value of X; ｜X｜",
-      "natural logarithm of X; log X to the base *e*",
-      "to the base X [logarithmic base]",
-      "base-X [identifies X as the number base for counting/mathematics]",
-      "i・X; X times √-1",
-      "… th root of X",
-      "inverse of X",
-      "X-factorial; X!"
+      "模 X",
+      "X 的绝对值；｜X｜",
+      "X 的自然对数；以 *e* 为底的对数",
+      "以 X 为底 [对数底]",
+      "X 进制 [标识 X 作为计数/数学的基数]",
+      "i・X；X 乘以 √-1",
+      "对 X 开……次根",
+      "的倒数",
+      "X 的阶乘; X!"
     ]
   },
   {
     "name": "MTR",
-    "description": "Mathematical Relations",
+    "description": "数学关系",
     "gradient_type": "0",
     "cs": "jg",
     "associated_root": false,
     "degrees": [
       null,
-      "=; equals",
-      "≠; is not equal to",
-      "≈; is approximately equal to",
-      ">; is greater than",
-      "<; is less than",
-      "≥; is no less than",
-      "≤; is no greater than",
-      "≅; is congruent to",
-      "∝; is proportional to"
+      "=；等于",
+      "≠；不等于",
+      "≈；约等于",
+      ">；大于",
+      "<；小于",
+      "≥；小于等于",
+      "≤；大于等于",
+      "≅；同余于",
+      "∝；成正比于"
     ]
   },
   {
     "name": "TGO",
-    "description": "Trigonometric Operations",
+    "description": "三角函数运算",
     "gradient_type": "0",
     "cs": "ẓb",
     "associated_root": false,
@@ -77,26 +77,26 @@
   },
   {
     "name": "NDB",
-    "description": "Non-Decimal Number Bases (affixed to the standard number roots)",
+    "description": "非十进制数（加到标准数根上）",
     "gradient_type": "D1",
     "cs": "sg",
     "associated_root": false,
     "degrees": [
       null,
-      "in base-2; binary",
-      "in base-3; ternary",
-      "in base-4",
-      "in base-6",
-      "in base-8",
-      "in base-12",
-      "in base-16",
-      "in base-20",
-      "in base-60"
+      "二进制中的",
+      "三进制中的",
+      "四进制中的",
+      "六进制中的",
+      "八进制中的",
+      "十二进制中的",
+      "十六进制中的",
+      "二十进制中的",
+      "六十进制中的"
     ]
   },
   {
     "name": "VAM",
-    "description": "Velocity and Acceleration Measurement",
+    "description": "速度和加速度测量",
     "gradient_type": "D1",
     "cs": "ng",
     "associated_root": false,
@@ -139,566 +139,566 @@
         "miles/hr²"
       ]
     ],
-    "notes": "Use Type-2 affix to indicate time unit squared for measurement of acceleration"
+    "notes": "使用丙型词缀表示测量加速度的时间单位平方"
   },
   {
     "name": "ANG",
-    "description": "Angular Measurement *",
+    "description": "角速度测量 *",
     "gradient_type": "D1",
     "cs": "dg",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(in) points",
-        "(in) points²"
+        "点",
+        "点²"
       ],
       [
-        "(in) hour angles",
-        "(in) hour angles²"
+        "时角",
+        "时角²"
       ],
       [
-        "(in) grads",
-        "(in) grads²"
+        "百分度",
+        "百分度²"
       ],
       [
-        "(in) mils",
-        "(in) mils²"
+        "毫弧度",
+        "毫弧度²"
       ],
       [
-        "(in) radians",
-        "(in) radians² [i.e., steradians]"
+        "弧度",
+        "弧度² [即球面度]"
       ],
       [
-        "(in) sextants",
-        "(in) sextants²"
+        "sextants（圓周的六分之一）",
+        "sextants（圓周的六分之一）²"
       ],
       [
-        "(in) arc-seconds",
-        "(in) arc-seconds²"
+        "角秒",
+        "角秒²"
       ],
       [
-        "(in) arc-minutes",
-        "(in) arc-minutes²"
+        "角分",
+        "角分²"
       ],
       [
-        "(in) degrees",
-        "(in) degrees²"
+        "度",
+        "度²"
       ]
     ],
-    "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., degrees squared, arc-seconds², radians² [i.e., steradians], etc."
+    "notes": "\\* 这些词缀的丙型形式指测量单位的平方，例如、平方度、弧秒²、弧度² [即球面度] 等"
   },
   {
     "name": "LDA",
-    "description": "Linear Dimensional Measurement A *",
+    "description": "线性尺寸测量 A *",
     "gradient_type": "A1",
     "cs": "rtn",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(in) Planck lengths",
-        "(in) Planck lengths²"
+        "普朗克长度",
+        "普朗克长度²"
       ],
       [
-        "(in) angstroms",
-        "(in) angstroms²"
+        "埃（斯特朗）",
+        "埃（斯特朗）²"
       ],
       [
-        "(in) microns",
-        "(in) microns²"
+        "微米",
+        "微米²"
       ],
       [
-        "(in) millimeters",
-        "(in) millimeters²"
+        "毫米",
+        "毫米²"
       ],
       [
-        "(in) meters",
-        "(in) meters²"
+        "米",
+        "米²"
       ],
       [
-        "(in) kilometers",
-        "(in) kilometers²"
+        "千米",
+        "千米²"
       ],
       [
-        "(in) astronomical units (AUs)",
-        "(in) AUs²"
+        "天文单位（AU）",
+        "AU²"
       ],
       [
-        "(in) light-years",
-        "(in) light-years²"
+        "光年",
+        "光年²"
       ],
       [
-        "(in) parsecs",
-        "(in) parsecs²"
+        "秒差距",
+        "秒差距²"
       ]
     ],
-    "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
+    "notes": "\\* 这些词缀的丙型形式指测量单位的平方，例如、平方米、平方秒差距、平方码、平方英里、平方度、弧秒²、球面度"
   },
   {
     "name": "LDB",
-    "description": "Linear Dimensional Measurement B *",
+    "description": "线性尺寸测量 B *",
     "gradient_type": "A1",
     "cs": "rtm",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(in) inches",
-        "(in) inches²"
+        "英寸",
+        "英寸²"
       ],
       [
-        "(in) feet",
-        "(in) feet²"
+        "英尺",
+        "英尺²"
       ],
       [
-        "(in) yards",
-        "(in) yards²"
+        "码（yard）",
+        "码（yard）²"
       ],
       [
-        "(in) fathoms",
-        "(in) fathoms²"
+        "英寻",
+        "英寻²"
       ],
       [
-        "(in) rods",
-        "(in) rods²"
+        "(in) 桿（rod）",
+        "(in) 桿（rod）²"
       ],
       [
-        "(in) furlongs",
-        "(in) furlongs²"
+        "浪或弗隆（furlong）",
+        "浪或弗隆（furlong）²"
       ],
       [
-        "(in) miles",
-        "(in) miles²"
+        "英里",
+        "英里²"
       ],
       [
-        "(in) nautical miles",
-        "(in) nautical miles²"
+        "海里",
+        "海里²"
       ],
       [
-        "(in) leagues",
-        "(in) leagues²"
+        "里格（league）",
+        "里格（league）²"
       ]
     ],
-    "notes": "\\* The Type-2 form of these affixes refers to the measurement unit squared, e.g., square meters, sq. parsecs, sq. yards, sq. miles, degrees squared, arc-seconds², steradians, etc."
+    "notes": "\\* 这些词缀的丙型形式指测量单位的平方，例如、平方米、平方秒差距、平方码、平方英里、平方度、弧秒²、球面度"
   },
   {
     "name": "ARM",
-    "description": "Areal Measurement",
+    "description": "面积测量",
     "gradient_type": "A1",
     "cs": "rtk",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) barns",
-      "(in) squares",
-      "(in) acres",
-      "(in) roods",
-      "(in) hectares",
-      "(in) sq. perches/sq. rods/poles",
-      "(in) tetrads",
-      "(in) townships",
-      "(in) myriads"
+      "靶（恩：barn）",
+      "方（square）=100平方英尺",
+      "英亩",
+      "路得（rood）",
+      "公顷",
+      "平方杆（perch）/平方桿（rod或pole）",
+      "四平方千米（tetrad）",
+      "三十六平方英里（township）",
+      "一万平方千米（myriad）"
     ]
   },
   {
     "name": "VMA",
-    "description": "Volumetric Measurement A",
+    "description": "体积测量 A",
     "gradient_type": "A1",
     "cs": "řw",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) cubic Planck lengths",
-      "(in) cubic angstroms",
-      "(in) cubic microns",
-      "(in) cubic millimeters",
-      "(in) cubic meters",
-      "(in) cubic kilometers",
-      "(in) cubic astronomical units (AUs)",
-      "(in) cubic light-years",
-      "(in) cubic parsecs"
+      "立方普朗克长度",
+      "立方埃（斯特朗）",
+      "立方微米",
+      "立方毫米",
+      "立方米",
+      "立方千米",
+      "立方天文单位（AU）",
+      "立方光年",
+      "立方秒差距"
     ]
   },
   {
     "name": "VMB",
-    "description": "Volumetric Measurement B",
+    "description": "体积测量 B",
     "gradient_type": "A1",
     "cs": "řy",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) cubic inches",
-      "(in) cubic feet",
-      "(in) cubic yards",
-      "(in) cubic fathoms",
-      "(in) cubic rods",
-      "(in) cubic furlongs",
-      "(in) cubic miles",
-      "(in) cubic nautical miles",
-      "(in) cubic leagues"
+      "立方英寸",
+      "立方英尺",
+      "立方码（yard）",
+      "立方英寻",
+      "立方桿（rod）",
+      "立方浪或弗隆（furlong）",
+      "立方英里",
+      "立方海里",
+      "立方里格（league）"
     ]
   },
   {
     "name": "VMC",
-    "description": "Volumetric Measurement C",
+    "description": "体积测量 C",
     "gradient_type": "A1",
     "cs": "řl",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) minims",
-      "(in) fluid drams",
-      "(in) teaspoons",
-      "(in) tablespoons",
-      "(in) milliliters",
-      "(in) liters",
-      "(in) fluid ounces",
-      "(in) gallons",
-      "(in) barrels"
+      "量滴（minim）",
+      "液打兰（fluid dram）",
+      "茶匙（teaspoon）",
+      "大汤匙（tablespoon）",
+      "毫升",
+      "升",
+      "液盎司",
+      "加仑",
+      "桶（barrel）"
     ]
   },
   {
     "name": "USM",
-    "description": "Ultra-Short Temporal Measurement *",
+    "description": "超短时间测量 *",
     "gradient_type": "A1",
     "cs": "řfs",
     "associated_root": false,
     "degrees": [
       null,
-      "in/per yocto-second(s) (100⁻¹²s = 10⁻²⁴s)",
-      "in/per zepto-second(s) (10×100⁻¹¹s = 10⁻²¹s)",
-      "in/per atto-second(s) (100⁻⁹s = 10⁻¹⁸s)",
-      "in/per femto-second(s) (10×100⁻⁸s = 10⁻¹⁵s)",
-      "in/per pico-second(s) (100⁻⁶s = 10⁻¹²s)",
-      "in/per nano-second(s) (10×100⁻⁵s = 10⁻⁹s)",
-      "in/per micro-second(s) (100⁻³s = 10⁻⁶s)",
-      "in/per milli-second(s) (10×100⁻²s = 10⁻³s)",
-      "in/per -second(s) [e.g., with root -**LSTR**- = Hertz]"
+      "以/每幺秒（100⁻¹²秒 = 10⁻²⁴秒）",
+      "以/每泽秒（10×100⁻¹¹秒 = 10⁻²¹秒）",
+      "以/每阿秒（100⁻⁹秒 = 10⁻¹⁸秒）",
+      "以/每飞秒（10×100⁻⁸秒 = 10⁻¹⁵秒）",
+      "以/每皮秒（100⁻⁶秒 = 10⁻¹²秒）",
+      "以/每纳秒（10×100⁻⁵秒 = 10⁻⁹秒）",
+      "以/每微秒（100⁻³秒 = 10⁻⁶秒）",
+      "以/每毫秒（10×100⁻²秒 = 10⁻³秒）",
+      "以/每秒 [例如，搭配词根-**LSTR**- = 赫兹]"
     ],
-    "notes": "\\* this affix is the measurement counterpart to the UST affix"
+    "notes": "\\* 该词缀是词缀 UST 的测量对应物"
   },
   {
     "name": "TPM",
-    "description": "Temporal Measurement",
+    "description": "时间测量",
     "gradient_type": "A1",
     "cs": "rns",
     "associated_root": false,
     "degrees": [
       null,
-      "in/per minute(s)",
-      "in/per hour(s)",
-      "in/per day(s)",
-      "in/per week(s)",
-      "in/per month(s)",
-      "in/per year(s)",
-      "in/per decade(s)",
-      "in (human) generation(s)",
-      "in (human) lifetime(s)"
+      "以/每分钟",
+      "以/每小时",
+      "以/每天",
+      "以/每周",
+      "以/每月",
+      "以/每年",
+      "以/每十年",
+      "以/每（人类）代",
+      "以/每（人类）一生"
     ]
   },
   {
     "name": "LTM",
-    "description": "Long-TermTemp. Meas.",
+    "description": "长期时间测量",
     "gradient_type": "A1",
     "cs": "rňs",
     "associated_root": false,
     "degrees": [
       null,
-      "in/per century(ies)",
-      "in/per millenium(a)",
-      "in/per 100²-year period(s)",
-      "in/per 100,000-year period(s)",
-      "in/per age(s) [i.e., 1 million years]",
-      "in/per epoch(s) [i.e., 10 million years]",
-      "in/per era(s) [i.e., 100 million years]",
-      "in/per eon(s) [i.e. 500 million years]",
-      "in/per thousand-million-year period(s)"
+      "以/每世纪",
+      "以/每千年",
+      "以/每100²年周期",
+      "以/每100,000年周期",
+      "以/每地质期 [即，100万年]",
+      "以/每地质世 [即，1000万年]",
+      "以/每地质代 [即，1亿年]",
+      "以/每地质宙 [即，5亿年]",
+      "以/每十亿年周期"
     ]
   },
   {
     "name": "EMU",
-    "description": "Energy Measurement Units",
+    "description": "能量测量单位",
     "gradient_type": "D1",
     "cs": "ļp",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) Planck energy units",
-      "(in) electronvolts",
-      "(in) ergs",
-      "(in) hartrees",
-      "(in) joules",
-      "(in) therms",
-      "(in) calories",
-      "(in) thermies",
-      "(in) quads"
+      "普朗克能量单位",
+      "电子伏特",
+      "尔格（erg）",
+      "哈特里能量（hartree）",
+      "焦耳",
+      "撒姆（therm）",
+      "卡路里",
+      "thermie",
+      "quad"
     ]
   },
   {
     "name": "FMU",
-    "description": "Force Measurement Units",
+    "description": "力的测量单位",
     "gradient_type": "D1",
     "cs": "ļt",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) Planck force units",
-      "(in) dynes",
-      "(in) poundals",
-      "(in) pound-force",
-      "(in) newtons",
-      "(in) kiloponds",
-      "(in) sthènes",
-      "(in) kips",
-      "(in) ton-forces"
+      "普朗克力单位",
+      "达因（dyne）",
+      "磅达（poundal）",
+      "磅力（pound-force）",
+      "牛顿",
+      "公斤力（kilopond）",
+      "斯坦（sthène）",
+      "基普（kip）",
+      "噸力（ton-force）"
     ]
   },
   {
     "name": "PMU",
-    "description": "Pressure Measurement Units",
+    "description": "压力测量单位",
     "gradient_type": "D1",
     "cs": "ļk",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) bars",
-      "(in) baryes",
-      "(in) psi (pounds per square inch)",
-      "(in) torrs",
-      "(in) pascals",
-      "(in) pièzes",
-      "(in) mmHg (millimeters of mercury)",
-      "(in) inHg (inches of mercury)",
-      "(in) standard atmospheres"
+      "巴（bar）",
+      "巴耶（barye）",
+      "psi（磅每平方英寸）",
+      "托（torr）",
+      "帕斯卡",
+      "皮埃泽（pièze）",
+      "mmHg（毫米汞柱）",
+      "inHg（英寸汞柱）",
+      "标准大气压"
     ]
   },
   {
     "name": "OEM",
-    "description": "Other Energy Measurement Units",
+    "description": "其他能量测量单位",
     "gradient_type": "D1",
     "cs": "ļv",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) watts",
-      "(in) horsepower",
-      "(in) sieverts",
-      "(in) grays",
-      "(in) rads",
-      "(in) poises",
-      "(in) poiseuilles",
-      "(in) rayls",
-      "(in) janskys"
+      "瓦特",
+      "马力",
+      "西弗特（sievert）",
+      "格雷（gray）",
+      "拉德（rad）",
+      "泊（poise）",
+      "泊修（poiseuille）",
+      "雷尔（rayl）",
+      "扬斯基（jansky）"
     ]
   },
   {
     "name": "MAS",
-    "description": "Measurement of Mass",
+    "description": "质量测量",
     "gradient_type": "0",
     "cs": "lps",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) Planck masses",
-      "(in) daltons",
-      "(in) grains",
-      "(in) grams",
-      "(in) kg (kilograms)",
-      "(in) metric tonnes",
-      "(in) pounds",
-      "(in) short tons (= 2000 lbs.)",
-      "(in) solar masses"
+      "普朗克质量",
+      "道尔顿（dalton）",
+      "格令（grain）",
+      "克",
+      "kg（千克）",
+      "公吨",
+      "磅",
+      "短吨 (= 2000 lbs.)",
+      "太阳质量"
     ]
   },
   {
     "name": "TMS",
-    "description": "Temperature Measurement System",
+    "description": "温度测量系统",
     "gradient_type": "0",
     "cs": "šj",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) Planck temperature / (in) *T*ₚ",
-      "(in) degrees Newton / (in) °N",
-      "(in) degrees Celsius / (in) °C",
-      "(in) degrees Rankine / (in) °R",
-      "(in) kelvins",
-      "(in) degrees Delisle / (in) °D",
-      "(in) degrees Fahrenheit / (in) °F",
-      "(in) degrees Rømer / (in) °Rø",
-      "(in) degrees Réaumur / (in) °Ré"
+      "普朗克温度 / *T*ₚ",
+      "牛顿度 / °N",
+      "摄氏度 / °C",
+      "兰氏（Rankine）度 / °R",
+      "开尔文",
+      "德氏（Delisle）度 / °D",
+      "华氏度 / °F",
+      "罗氏（Rømer）度 / °Rø",
+      "列氏（Réaumur）度 / °Ré"
     ]
   },
   {
     "name": "EMA",
-    "description": "Electro-Magnetic Measurement A",
+    "description": "电磁测量 A",
     "gradient_type": "0",
     "cs": "gc",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) amperes",
-      "(in) franklins",
-      "(in) volts",
-      "(in) farads",
-      "(in) coulombs",
-      "(in) unit poles",
-      "(in) webers",
-      "(in) maxwells (or lines)",
-      "(in) henrys"
+      "安培（ampere）",
+      "富兰克林（franklin）",
+      "伏特（volt）",
+      "法拉（farad）",
+      "库仑（coulomb）",
+      "单位极（unit pole）",
+      "韦伯（weber）",
+      "麦克斯韦（maxwell 或 line）",
+      "亨利（henry）"
     ]
   },
   {
     "name": "EMB",
-    "description": "Electro-Magnetic Measurement B",
+    "description": "电磁测量 B",
     "gradient_type": "0",
     "cs": "gč",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) ohms",
-      "(in) ampere-turns",
-      "(in) siemens (or mhos)",
-      "(in) gilberts",
-      "(in) teslas",
-      "(in) nepers",
-      "(in) darafs [i.e., reciprocal of farad]",
-      "(in) oersteds [i.e., amperes per meter]",
-      "(in) ohm meters"
+      "欧姆（ohm）",
+      "安培-匝数",
+      "西门子 siemens（或姆欧 mho）",
+      "吉尔伯特（gilbert）",
+      "特斯拉（tesla）",
+      "奈培（neper）",
+      "达拉夫（daraf 即法拉 farad 的倒数）",
+      "奥斯特（oersted 即安培每米）",
+      "欧姆米（ohm meters）"
     ]
   },
   {
     "name": "EMC",
-    "description": "Electro-Magnetic Measurement C",
+    "description": "电磁测量 C",
     "gradient_type": "0",
     "cs": "gẓ",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) volts per meter",
-      "(in) newtons per coulomb",
-      "(in) coulombs per sq. meter",
-      "(in) coulombs per cu. meter",
-      "(in) amperes per sq. meter",
-      "(in) siemens per meter",
-      "(in) farads per meter",
-      "(in) henrys per meter",
-      "(in) coulombs per kilogram"
+      "伏特每米",
+      "牛顿每库仑",
+      "库仑每平方米",
+      "库仑每立方米",
+      "安培每平方米",
+      "西门子每米",
+      "法拉每米",
+      "亨利每米",
+      "库仑每千克"
     ]
   },
   {
     "name": "LOA",
-    "description": "Luminance & Optics A",
+    "description": "亮度与光学 A",
     "gradient_type": "0",
     "cs": "fẓ",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) candelas",
-      "(in) candle-powers",
-      "(in) lumens (= candela steradians)",
-      "(in) foot-candles",
-      "(in) lux",
-      "(in) nits (= candelas per square meter)",
-      "(in) talbots",
-      "(in) rayleighs",
-      "(in) lux seconds"
+      "坎德拉",
+      "烛光（candle-power）",
+      "流明（=坎德拉⋅球面度）",
+      "英尺烛光",
+      "勒克斯",
+      "尼特 (nit，= 坎德拉每平方米)",
+      "塔尔博特（talbot，= 流明⋅秒）",
+      "瑞利（rayleigh）",
+      "勒克斯·秒"
     ]
   },
   {
     "name": "LOB",
-    "description": "Luminance & Optics B",
+    "description": "亮度与光学 B",
     "gradient_type": "0",
     "cs": "fj",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) lumens per sq. meter",
-      "(in) lumen seconds per cu. meter",
-      "(in) lumens per watt",
-      "(in) lamberts",
-      "(in) foot-lamberts",
-      "(in) stilbs",
-      "(in) diopters",
-      "(in) skots",
-      "(in) brils"
+      "流明每平方米",
+      "流明·秒每立方米",
+      "流明每瓦特",
+      "朗伯（lambert）",
+      "英尺朗伯（foot-lambert）",
+      "熙提（stilb）",
+      "屈光度（diopter）",
+      "斯科特（skot）",
+      "布里尔（bril）"
     ]
   },
   {
     "name": "DMU",
-    "description": "Density-Releated Measurement Units",
+    "description": "密度相关测量单位",
     "gradient_type": "0",
     "cs": "fč",
     "associated_root": false,
     "degrees": [
       null,
-      "(in) moles",
-      "(in) International Units (IU)",
-      "(in) katals (= moles per second)",
-      "(in) moles per cu. meter",
-      "(in) joules per mole",
-      "(in) molar volumes (= cu. meter per mole)",
-      "(in) molals (= mole per kg)",
-      "(in) joules per kelvin mole",
-      "(in) siemens times sq. meter per mole"
+      "摩尔",
+      "国际单位 (IU)",
+      "开特 (= 摩尔每秒)",
+      "摩尔每立方米",
+      "焦耳每摩尔",
+      "摩尔体积 (= 立方米每摩尔)",
+      "摩尔浓度 (= 摩尔每千克)",
+      "摩尔·焦耳每开尔文",
+      "西门子·平方米每摩尔"
     ]
   },
   {
     "name": "CUA",
-    "description": "Currency A",
+    "description": "货币 A",
     "gradient_type": "0",
     "cs": "šf",
     "associated_root": false,
     "degrees": [
       null,
-      "Chinese ¥",
-      "Russian ₽",
-      "British £",
-      "Canadian $",
-      "€",
-      "Indian ₹",
-      "Japanese ¥",
-      "Brazilian real",
-      "U.S. $"
+      "人民币 ¥",
+      "俄罗斯卢布 ₽",
+      "英镑 £",
+      "加元 $",
+      "欧元 €",
+      "印度卢比 ₹",
+      "日元 ¥",
+      "巴西雷亚尔",
+      "美元 $"
     ]
   },
   {
     "name": "CUB",
-    "description": "Currency B",
+    "description": "货币 B",
     "gradient_type": "0",
     "cs": "cf",
     "associated_root": false,
     "degrees": [
       null,
-      "Mexican peso",
-      "Swiss franc",
-      "Turkish ₺",
-      "Chilean peso",
-      "Australian $",
-      "Swedish krona",
-      "Indonesian rupiah",
-      "Saudi ﷼ ",
-      "South Korean ₩"
+      "墨西哥比索",
+      "瑞士法郎",
+      "土耳其里拉 ₺",
+      "智利比索",
+      "澳元 $",
+      "瑞典克朗",
+      "印尼盾",
+      "沙特里亚尔 ﷼ ",
+      "韩元 ₩"
     ]
   },
   {
     "name": "CUC",
-    "description": "Currency C",
+    "description": "货币 C",
     "gradient_type": "0",
     "cs": "čf",
     "associated_root": false,
     "degrees": [
       null,
-      "Thai ฿",
-      "South African rand",
-      "New Zealand $",
-      "₿itcoin",
-      "currency used by X",
-      "Israeli ₪",
-      "Polish złoty",
-      "Singapore $",
-      "Malaysian ringgit"
+      "泰铢 ฿",
+      "南非兰特",
+      "新西兰元 $",
+      "比特币 ₿",
+      "X 所使用的货币",
+      "以色列新谢克尔 ₪",
+      "波兰兹罗提",
+      "新加坡元 $",
+      "马来西亚林吉特"
     ]
   }
 ]
