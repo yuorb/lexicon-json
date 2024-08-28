@@ -1,513 +1,513 @@
 [
   {
     "name": "NEG",
-    "description": "Negation and Negative Coordinatives/Connectives",
+    "description": "否定及否定性并列词/连接词",
     "gradient_type": "D1",
     "cs": "r",
     "associated_root": false,
     "degrees": [
       null,
-      "emphatic relative negation contrary to expectation: on the contrary, … is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!",
-      "emphatic relative negation: … is not/does not X at all!; no X whatsoever!",
-      "relative negation contrary to expectation: on the contrary, … is not/does not X; no X (despite any assertion otherwise)",
-      "relative negation: … is not/does not X; no X",
-      "neither the preceding nor X",
-      "absolute negation: … is not/does not X; no X",
-      "absolute negation contrary to expectation: on the contrary, … is not/does not X; no X whatsoever.",
-      "emphatic absolute negation: … is not/does not X at all!; no X whatsoever!",
-      "emphatic absolute negation contrary to expectation: on the contrary, … is not/does not X at all!; no X whatsoever (despite any assertion otherwise)!"
+      "强调性相对否定，与预期相反：相反，… 完全不 X；根本没有 X（尽管有任何其他的断言）！",
+      "强调性相对否定：… 完全不 X；根本没有 X！",
+      "相对否定，与预期相反：相反，… 不 X；没有 X（尽管有任何其他的断言）",
+      "相对否定：… 不 X；没有 X",
+      "既不前述也不 X",
+      "绝对否定：… 不 X；没有 X",
+      "绝对否定，与预期相反：相反，… 不 X；根本没有 X。",
+      "强调性绝对否定：… 完全不 X；根本没有 X！",
+      "强调性绝对否定，与预期相反：相反，… 完全不 X！根本没有 X（尽管有任何其他的断言）！"
     ]
   },
   {
     "name": "DPC",
-    "description": "Dependent Circumstances (specifies the nature of the dependency signified by the redesigned DEPENDENT case)",
+    "description": "依赖性情况",
     "gradient_type": "0",
     "cs": "ck",
     "associated_root": false,
     "degrees": [
       null,
-      "The contigency occurs if X is true",
-      "The contigency occurs if X is true, not if unknown, maybe if false",
-      "The contigency occurs if X is true, maybe if unknown/false",
-      "The contigency occurs if X is true/unknown, maybe if false",
-      "The contigency occurs regardless of X is true or false",
-      "The contigency occurs if X is true, not if false, maybe if unknown",
-      "The contigency occurs if X is true/unknown, not if false",
-      "The contigency occurs depending (up)on X; however, the dependency value is unknown to speaker",
-      "The contigency occurs in case of X"
+      "仅当 X 为真，则偶发子句成真；前者为假，则后者为假",
+      "当 X 为真，则偶发子句成真；前者真值不定，则后者为假",
+      "当 X 为真，则偶发子句成真；前者真值不定，则后者真值不定",
+      "当 X 为真，则偶发子句成真；前者为假，则后者真值不定",
+      "无论 X 为真为假，偶发子句必然为真",
+      "当 X 为真，则偶发子句成真；前者为假，则后者为假。前者真值不定，则后者真值不定",
+      "当 X 为真，或不定，则偶发子句成真；而前者为假，则后者为假",
+      "偶发子句为真的可能性未知/不可预测，因为 X 的真值未知/不可预测",
+      "偶发子句仅代表一种预防/准备措施，因为 X 的真值未知/不可预测"
     ],
-    "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if …”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\n\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
+    "notes": "请注意，所列举的偶发子句没有涉及否定，即「如果......，X 将不会发生」。这种否定的偶发性是通过简单否定偶发性短语来表达的。同样，如果语义上需要，依赖句（在依赖性情况下表达）也可以被否定。\n\n新依赖格的最大特点是，人们通常可以在不使用 DPC 词缀的情况下，笼统地说「我会来的，视乎星期几」，或者在必要时，通过使用 DPC 词缀来指定依赖关系的性质，例如，「我会来的，但仅当星期几」。"
   },
   {
     "name": "AFM",
-    "description": "Degree of Affirmation",
+    "description": "肯定程度",
     "gradient_type": "C",
     "cs": "čř",
     "associated_root": false,
     "degrees": [
       null,
-      "emphatic relative affirmation contrary to expectation: on the contrary … does (too) / is (too)",
-      "emphatic relative affirmation: does indeed / is indeed / most certainly does/is / truly is/does / really is/does",
-      "relative affirmation contrary to expectation",
-      "relative affirmation",
-      "yes to the preceding and X; yes to all and also X",
-      "absolute affirmation",
-      "absolute affirmation contrary to expectation",
-      "emphatic absolute affirmation: does indeed / is indeed / most certainly does/is",
-      "emphatic absolute affirmation contrary to expectation: on the contrary … does (too) / is (too)"
+      "强调性相对肯定，与预期相反：相反，… 完全/根本就是 X；",
+      "强调性相对肯定：… 完全/的确/非常肯定地/真的 X",
+      "相对肯定，与预期相反",
+      "相对肯定",
+      "对前述内容以及 X 的肯定；对所有内容以及 X 的肯定",
+      "绝对肯定",
+      "绝对肯定，与预期相反",
+      "强调性绝对肯定：… 完全/的确/非常肯定地/真的 X",
+      "强调性绝对肯定，与预期相反：相反，… 完全/根本就是 X；"
     ]
   },
   {
     "name": "SWR",
-    "description": "Switch Reference & Obviative Specification",
+    "description": "切换指代 & 远指细化",
     "gradient_type": "0",
     "cs": "č",
     "associated_root": false,
     "degrees": [
       null,
-      "nearest preceding referent",
-      "2nd nearest preceding referent",
-      "3rd party not previously mentioned",
-      "referring to sentence focus",
-      "first referent mentioned",
-      "referring to sentence topic",
-      "3rd party non-transrelative referent",
-      "2nd order transrelative referent",
-      "higher order transrelative referent"
+      "前面最近的所指",
+      "前面第二近所指",
+      "先前未提及的第三方",
+      "指句子焦点",
+      "提到的第一个所指",
+      "指句子话题",
+      "非标记论元格的所指的第三方",
+      "标记次等论元格的所指",
+      "标记较高等论元格的所指"
     ]
   },
   {
     "name": "TPF",
-    "description": "Topic, Frame and Focus",
+    "description": "话题、框架及焦点",
     "gradient_type": "D1",
     "cs": "n",
     "associated_root": false,
     "degrees": [
       null,
-      "[end of frame]",
-      "[end of frame + head of relative clause]",
-      "[head of relative clause]",
-      "[sentence topic + head of relative clause]",
-      "[sentence topic]",
-      "[sentence topic + end of frame]",
-      "[sentence focus + end of frame + head of rel. clause]",
-      "[sentence focus + end of frame]",
-      "[sentence focus]"
+      "[框架结尾]",
+      "[框架结尾 + 相关子句的中心词]",
+      "[相关子句的中心词]",
+      "[句子话题 + 相关子句的中心词]",
+      "[句子话题]",
+      "[句子话题 + 框架结尾]",
+      "[句子焦点 + 框架结尾 + 相关子句的中心词]",
+      "[句子焦点 + 框架结尾]",
+      "[句子焦点]"
     ]
   },
   {
     "name": "CPP",
-    "description": "Capacity As Patient",
+    "description": "受事能力",
     "gradient_type": "A1",
     "cs": "rks",
     "associated_root": false,
     "degrees": [
       null,
-      "very easily X’d; very readily X’d [i.e., easy for another as Agent to perform/commit/initiate/establish an act/state of X upon one as Patient]",
-      "fairly/rather easily X’d; fairly readily X’d",
-      "not too difficult to be X’d; somewhat easily X’d",
-      "somewhat difficult to be X’d; not too easily X’d",
-      "difficult to be X’d",
-      "rather/quite difficult to be X’d",
-      "extremely difficult to be X’d",
-      "almost impossible to be X’d",
-      "impossible for one to be X’d"
+      "非常容易被 X；非常轻而易举被 X [即，其他施动者很容易对受事者执行/实施/启动/确立 X 的行为/状态]",
+      "相当/比较容易被 X；相当轻而易举被X",
+      "不太难被 X；有些容易被 X",
+      "有些难被 X；不太容易被 X",
+      "难以被 X",
+      "相当/相当难以被 X",
+      "极其难以被 X",
+      "几乎不可能被 X",
+      "不可能被 X"
     ]
   },
   {
     "name": "SIA",
-    "description": "Status of Inferred Arguments",
+    "description": "推断论元状态",
     "gradient_type": "0",
     "cs": "lč",
     "associated_root": false,
     "degrees": [
       null,
-      "only explicitly stated arguments are implied, no unstated arguments should be inferred",
-      "only logically required arguments are implied or should be inferred [e.g., a STIMULUS for a state of external sensory input, a RECIPIENT for an act of transferring possession]; unstated arguments that are logically unnecessary but possible should not be inferred",
-      "logically required arguments should be inferred; logically unnecessary but possible arguments [e.g., INSTRUMENTAL, SITUATIVE, DEPENDENT, or Temporal] may be inferred",
-      "logically unnecessary but possible arguments may be inferred, logically required arguments are ONLY those explicitly stated",
-      "OK to infer an affective STIMULUS only, no other unstated arguments implied",
-      "OK to infer an ERG or EFF agent only, no other unstated arguments implied",
-      "OK to infer a temporal context/argument plus any logically required arguments",
-      "OK to infer an INSTRUMENTAL argument plus any logically required arguments",
-      "OK to infer a SITUATIVE or a DEPENDENT argument [i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame] plus any logically required arguments"
+      "只有明确陈述的论元被暗示；不应推断未明陈述的论元",
+      "只有逻辑上必需的论元被暗示或应推断（例如，外部感官输入状态需要语义角色刺激、转移所有权的行为需要语义角色领事者）；不应推断逻辑上不必要但可能存在的未明陈述的论元",
+      "应推断逻辑上必需的论元；可以推断逻辑上不必要但可能存在的论元 [例如，工具格、处境格、依赖格或时间格]",
+      "可以推断逻辑上不必要但可能存在的论元；逻辑上必需的论元仅限于明确陈述的论元",
+      "仅可以推断情感性语义角色刺激格；不暗示其他未明陈述的论元",
+      "仅可以推断 ERG 或 EFF 施事者；不暗示其他未明陈述的论元",
+      "可以推断时间背景/论元以及任何逻辑上必需的论元",
+      "可以推断工具格论元以及任何逻辑上必需的论元",
+      "可以推断处境格或依赖格论元 [即，可通过处境格或依赖格或格框描述的语境] 以及任何逻辑上必需的论元"
     ]
   },
   {
     "name": "VRF",
-    "description": "Verifiability of Info & Trustworthiness of its Source",
+    "description": "信息的可验证性 & 来源的可信度",
     "gradient_type": "B",
     "cs": "ňç",
     "associated_root": false,
     "degrees": [
       null,
-      "source trustworthy, info verifiable",
-      "source trustworthy, verifiability of info unknown",
-      "source trustworthy, info not verifiable",
-      "trustworthiness of source unknown, but info verifiable",
-      "trustworthiness of source unknown, and verifiability of info unknown",
-      "trustworthiness of source unknown, and info not verifiable",
-      "source untrustworthy, but info verifiable",
-      "source untrustworthy, and verifiability of info unknown",
-      "source untrustworthy, and info not verifiable"
+      "来源可信，信息可验证",
+      "来源可信，信息可验证性未知",
+      "来源可信，信息不可验证",
+      "来源可信性未知，但信息可验证",
+      "来源可信性未知，信息可验证性未知",
+      "来源可信性未知，信息不可验证",
+      "来源不可信，但信息可验证",
+      "来源不可信，信息可验证性未知",
+      "来源不可信，信息不可验证"
     ]
   },
   {
     "name": "IPC",
-    "description": "Unforeseen Implication Contrary to Expectation",
+    "description": "与预期相反的意外含义",
     "gradient_type": "0",
     "cs": "čt",
     "associated_root": false,
     "degrees": [
       null,
-      "this means/implies …",
-      "nevertheless, …",
-      "anyway / at any rate …",
-      "at least …",
-      "by the way … / just to mention …",
-      "not to change the subject, but … / sorry to change the subject, but …",
-      "as a matter of fact …",
-      "well, what do you know … / … after all (who would’ve guessed?)",
-      "like it or not … / well, as much as we didn’t want to believe it could happen …"
+      "这意味着/暗示…",
+      "然而,…",
+      "无论如何 / 不管怎样…",
+      "至少…",
+      "顺便说一下… / 只是提一下…",
+      "不是要转移话题，但… / 为转移话题抱歉，但…",
+      "事实上…",
+      "好吧，你知道… / …毕竟（谁会想到？）",
+      "不管喜欢与否… / 好吧，尽管我们不愿相信它会发生…"
     ]
   },
   {
     "name": "EFE",
-    "description": "Effect of Statement",
+    "description": "声明效果",
     "gradient_type": "D1",
     "cs": "m",
     "associated_root": false,
     "degrees": [
       null,
-      "(potentially) beneficial to speaker",
-      "(potentially) beneficial to listener/addressee",
-      "(potentially) beneficial to 3rd party",
-      "(potentially) beneficial to the formative to which this affix is attached",
-      "effect unknown or yet to be determined",
-      "detrimental to the formative to which this affix is attached",
-      "(potentially) detrimental to 3rd party",
-      "(potentially) detrimental to the listener/addressee",
-      "(potentially) detrimental to the speaker"
+      "（潜在地）对发话者有利",
+      "（潜在地）对听者/受话者有利",
+      "（潜在地）对第三方有利",
+      "（潜在地）对加上该词缀的构形词有利",
+      "效果未知或尚待确定",
+      "对附加加上该词缀的构形词有害",
+      "（潜在地）对第三方有害",
+      "（潜在地）对听者/受话者有害",
+      "（潜在地）对发话者有害"
     ]
   },
   {
     "name": "APP",
-    "description": "Appraisal of Outcome/Effect",
+    "description": "对结果/效果的评价",
     "gradient_type": "D1",
     "cs": "ňt",
     "associated_root": false,
     "degrees": [
       null,
-      "… and that’s the way it HAS to be / … and it can’t be any other way",
-      "… and that’s the way it’s supposed to be / … and that’s the way it works",
-      "… and that’s acceptable / … and that’ll work well enough",
-      "… and even if it’s not supposed to be that way, we’ll find a way to make it work",
-      "unknown or irrelevant if it’s okay that way",
-      "… but we’ll see if we can make it work that way / … but I’m unsure if it’ll work that way",
-      "… and it’s going to be a problem / … but there’s a problem",
-      "… but it shouldn’t be like that / … but it’s not supposed to be like that",
-      "… but it’s all wrong / … but it won’t work"
+      "…这就是必须的方式 / …这不能有其他方式",
+      "…这就是应当的方式 / …这就是它的运作方式",
+      "…这是可以接受的 / …这会有效",
+      "…即使这不是应该的方式，我们也会找到办法使它有效",
+      "如果这样可以的话，未知或无关紧要",
+      "…但我们会看看是否能以这种方式奏效 / …但我不确定它是否会这样奏效",
+      "…这将是个问题 / …但有个问题",
+      "…但不应该是那样 / …但不应该是那样",
+      "…但完全错误 / …但它无法奏效"
     ]
   },
   {
     "name": "LVL",
-    "description": "Alternate forms of Comparison Operators (Levels) *",
+    "description": "比较运算符（级别）的替代形式*",
     "gradient_type": "A1",
     "cs": "řž",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(MINr) Minimal (relative comparison)",
-        "(MINa) Minimal (absolute comparison)"
+        "(MINr) 最小级（相对比较）",
+        "(MINa) 最小级（绝对比较）"
       ],
       [
-        "(SBEr) Subequative (relative comparison)",
-        "(SBEa) Subequative (absolute comparison)"
+        "(SBEr) 低等级（相对比较）",
+        "(SBEa) 低等级（绝对比较）"
       ],
       [
-        "(IFRr) Inferior (relative comparison)",
-        "(IFRa) Inferior (absolute comparison)"
+        "(IFRr) 最低级（相对比较）",
+        "(IFRa) 最低级（绝对比较）"
       ],
       [
-        "(DFCr) Deficient (relative comparison)",
-        "(DFCa) Deficient (absolute comparison)"
+        "(DFCr) 较低级（相对比较）",
+        "(DFCa) 较低级（绝对比较）"
       ],
       [
-        "(EQUr) Equative (relative comparison)",
-        "(EQUa) Equative (absolute comparison)"
+        "(EQUr) 相等级（相对比较）",
+        "(EQUa) 相等级（绝对比较）"
       ],
       [
-        "(SURr) Surpassive (relative comparison)",
-        "(SURa) Surpassive (absolute comparison)"
+        "(SURr) 较高级（相对比较）",
+        "(SURa) 较高级（绝对比较）"
       ],
       [
-        "(SPLr) Superlative (relative comparison)",
-        "(SPLa) Superlativ (absolute comparison)e"
+        "(SPLr) 最高级（相对比较）",
+        "(SPLa) 最高级（绝对比较）e"
       ],
       [
-        "(SPQr) Superequative (relative comparison)",
-        "(SPQa) Superequative (absolute comparison)"
+        "(SPQr) 高等级（相对比较）",
+        "(SPQa) 高等级（绝对比较）"
       ],
       [
-        "(MAXr) Maximal (relative comparison)",
-        "(MAXa) Maximal (absolute comparison)"
+        "(MAXr) 最大级（相对比较）",
+        "(MAXa) 最大级（绝对比较）"
       ]
     ],
-    "notes": "\\* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
+    "notes": "\\* 甲型词缀表示相对比较；乙型词缀表示绝对比较"
   },
   {
     "name": "COS",
-    "description": "Comparison Specifications (Used with Levels)",
+    "description": "比较详述（与级别一起使用）",
     "gradient_type": "0",
     "cs": "lc",
     "associated_root": false,
     "degrees": [
       null,
-      "“more”/“less” = extent/amount/volume",
-      "“harder”/“weaker” = degree of intensity or effort",
-      "“longer”/“shorter” = duration, time spent being/doing",
-      "“better”/“worse” = quality/style",
-      "“more efficiently”/“less efficiently” = effort relative to outcome",
-      "“greater”/“poorer” = relevant outcome/bottom-line result",
-      "“better, efficiently, greater”/“worse, inefficiently, poorer”",
-      "“more, harder, longer”/“less, weaker, shorter”",
-      "“more, harder, longer, better, efficiently, greater”/“less, weaker, shorter, worse, inefficiently, poorer”"
+      "「更多」/「更少」 = 程度/数量/体积",
+      "「更强」/「更弱」 = 强度或努力的程度",
+      "「更长」/「更短」 = 持续时间；所需时间",
+      "「更好」/「更糟」 = 质量/风格",
+      "「更高效」/「更低效」 = 相对于结果的努力程度",
+      "「更大」/「更差」 = 相关结果/最终效果",
+      "「更好、更高效、更大」/「更糟、更低效、更差」",
+      "「更多、更强、更长」/「更少、更弱、更短」",
+      "「更多、更强、更长、更好、更高效、更大」/「更少、更弱、更短、更糟、更低效、更差」"
     ]
   },
   {
     "name": "SCL",
-    "description": "Standards for Comparison for Use with Levels",
+    "description": "与级别一起使用的比较标准",
     "gradient_type": "D1",
     "cs": "mt",
     "associated_root": false,
     "degrees": [
       null,
-      "where X was previously less M (or M’d less) than Y",
-      "where X was previously more M (or M’d more) than Y",
-      "where X is still less M (or M’s less) than Y",
-      "where X is still more M (or M’s more) than Y",
-      "where X is now less M (or M’s less) than Y",
-      "where X is now more M (or M’s more) than Y",
-      "where X was previously as M (or M’d as much) as Y",
-      "where X’s previous state of M-ness (or level of M-ing) relative to Y is unknown",
-      "where X’s previous state of M-ness (or level of M-ing) relative to Y is inapplicable or irrelevant"
+      "X 之前比 Y 更不 M",
+      "X 之前比 Y 更 M",
+      "X 仍然比 Y 更不 M",
+      "X 仍然比 Y 更 M",
+      "X 现在比 Y 更不 M",
+      "X 现在比 Y 更 M",
+      "X 之前和 Y 一样 M",
+      "X 之前相对于 Y 的 M 程度/级别未知",
+      "X 之前相对于 Y 的 M 程度/级别不适用或不相关"
     ],
-    "notes": "[Applied to the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case.]"
+    "notes": "词缀应用于 Y 名词（即比较参照：「比 Y」）。该 Y 名词需标记对比格"
   },
   {
     "name": "XCL",
-    "description": "External Standard for Comparison for Use with Levels",
+    "description": "与级别一起使用的外部比较标准",
     "gradient_type": "D1",
     "cs": "çx",
     "associated_root": false,
     "degrees": [
       null,
-      "… although X (still) isn’t very M compared to some external standard or expectation of M-ness",
-      "… and where X now meets some external standard or expectation of M-ness",
-      "… and where X now exceeds some external standard or expectation of M-ness",
-      "… although neither X nor why are very M compared to some external standard or expectation of M-ness",
-      "… and where both X and Y meet some external standard or expectation of M-ness, where previously only Y met/exceeded it",
-      "… and where both X and Y exceed some external standard or expectation of M-ness, where previously only Y exceeded it",
-      "… and where X’s degree of M-ness exceeds that of Y, but neither is (still) very M compered to some external standard or expectation of M-ness",
-      "… and where X now meets some external standard or expectation of M-ness and Y does not",
-      "… and where X now exceeds some external standard or expectation of M-ness and Y does not"
+      "…尽管相对于某个外部标准/期望的 M 程度，X （仍然）不算很 M",
+      "…并且现在 X 达到了某个外部标准/期望的 M 程度",
+      "…并且现在 X 超过了某个外部标准/期望的 M 程度",
+      "…尽管相对于某个外部标准/期望的 M 程度，X 和 Y 都不算很 M",
+      "…并且现在 X 和 Y 都达到了某个外部标准/期望的 M 程度，之前只有 Y 达到/超过",
+      "…并且现在 X 和 Y 都超过了某个外部标准/期望的 M 程度，之前只有 Y 超过",
+      "…并且 X 的 M 程度超过了 Y 的 M 程度，但相对于某个外部标准/期望的 M 程度，两者都仍然不算很 M",
+      "…并且现在 X 达到了某个外部标准/期望的 M 程度，而 Y 没有达到",
+      "…并且现在 X 超过了某个外部标准/期望的 M 程度，而 Y 没有超过"
     ],
-    "notes": "Applied to either the “X” noun bearing a LEVEL Comparison Operator or the “Y” noun to which something is compared (the “than Y”). The “Y” noun is declined into the COMPARATIVE Case."
+    "notes": "该词缀应用于具有级别比较运算符的 X 名词，或比较参照的 Y 名词。该 Y 名词需标记对比格"
   },
   {
     "name": "VWP",
-    "description": "From Viewpoint/Perspective of",
+    "description": "观点/视角",
     "gradient_type": "D1",
     "cs": "lk",
     "associated_root": false,
     "degrees": [
       null,
-      "from viewpoint/perspective of speaker",
-      "from viewpoint/perspective of 3rd party visible/near speaker",
-      "from viewpoint/perspective of last-mentioned argument/referent",
-      "from viewpoint/perspective of a party other than one under discussion",
-      "from viewpoint/perspective of an as-yet-undetermined 3rd party",
-      "from viewpoint/perspective of 3rd party under discussion",
-      "from viewpoint/perspective of the first-mentioned argument/referent",
-      "from viewpoint/perspective of 3rd party visible/near to listener",
-      "from viewpoint/perspective of listener"
+      "从说者的观点/视角",
+      "从说者附近/可见的第三方的观点/视角",
+      "从最後提及的论元/所指者的观点/视角",
+      "从正在讨论的一方以外的一方的观点/视角",
+      "从尚未确定的第三方的观点/视角",
+      "从正在讨论的第三方的观点/视角",
+      "从第一个提到的论点/所指者的观点/视角",
+      "从听者附近/可见的第三方的观点/视角",
+      "从听者的观点/视角"
     ]
   },
   {
     "name": "ROC",
-    "description": "Result / Outcome / Consequences",
+    "description": "结果 / 后果 / 影响",
     "gradient_type": "C",
     "cs": "zř",
     "associated_root": false,
     "degrees": [
       null,
-      "the result/impact/effect on the ERG/EFF Agent from(performing/doing) X",
-      "the result/impact/effect on the ABS Patient from (performing/doing) X",
-      "the result/impact/effect on the AFF Recipient from (performing/doing) X",
-      "the result/impact/effect on the THM argument from (performing/doing) X",
-      "the result/impact/effect on the INS argument (tools, implements) from(performing/doing) X",
-      "the result/impact/effect on the CSM argument (resources, consumables)from (performing/doing) X",
-      "(a piece/instance/amount of) the resulting physical substance from(performing/doing/finishing) X",
-      "the resulting tangible product from (performing/doing/finishing) X",
-      "the overall circumstances/situation resulting from (performing/doing) X"
+      "（执行/进行）X 所对 ERG/EFF 施事者造成的结果/影响/效果",
+      "（执行/进行）X 所对 ABS 受事者造成的结果/影响/效果",
+      "（执行/进行）X 所对 AFF 感事者造成的结果/影响/效果",
+      "（执行/进行）X 所对 THM 论元造成的结果/影响/效果",
+      "（执行/进行）X 所对 INS 论元（工具、器具）造成的结果/影响/效果",
+      "（执行/进行）X 所对 CSM 论元（资源、消耗品）造成的结果/影响/效果",
+      "（执行/进行/完成）X 后得到的物理物质的（份/实例/量）",
+      "（执行/进行/完成）X 后得到的有形产品",
+      "（执行/进行/完成）X 后所致的总体情况/情境"
     ]
   },
   {
     "name": "SQP",
-    "description": "Sequential Participation",
+    "description": "次序性参与",
     "gradient_type": "0",
     "cs": "ct",
     "associated_root": false,
     "degrees": [
       null,
-      "first one, then the other, and so on / alternating between each party / back and forth",
-      "first one, then the one next to or alongside the first, and so on",
-      "first one, then the one across/opposite/facing the first",
-      "first the primary party, then the secondary party, then the tertiary party, and so on",
-      "alternating between the parties in an agreed-upon/conventionalized/discernible/regular pattern",
-      "alternating between the parties in a complex pattern (apparently) known to the participating parties",
-      "alternating between the parties in what seems a random pattern but is actually non-random",
-      "alternating between the parties in what starts as a random pattern but develops to be non-random",
-      "alternating randomly between the participating parties"
+      "一个接着一个，交替进行 / 各方之间来回交替",
+      "一个接着下一个或旁边的一个，依此类推",
+      "一个接着对面/相对/面对的一个",
+      "首先是主要方，然后是次要方，然后是第三方，依此类推",
+      "在约定/常规/可辨/规则的模式下，各方交替进行",
+      "在参与方（貌似）已知的复杂模式下交替进行",
+      "在看似随机但实际上是非随机的模式下交替进行，",
+      "在开始时是随机但发展为非随机的模式下交替进行",
+      "在参与方之间随机交替"
     ]
   },
   {
     "name": "HG1",
-    "description": "Linguistic Hedges (1st group)",
+    "description": "模糊限制语（第一组）",
     "gradient_type": "0",
     "cs": "sj",
     "associated_root": false,
     "degrees": [
       null,
-      "technically speaking … / context aside for a moment, …",
-      "for all practical purposes / to all intents and purposes / practically / virtually / all but technically",
-      "sort of / kind of",
-      "strictly speaking (= to put it in clinical terms …)",
-      "essentially / in essence / basically",
-      "(what) might as well be",
-      "in one sense",
-      "in some sense",
-      "par excellence"
+      "技术上…… / 暂且脱离语境，……",
+      "在实际意义上 / 从所有意图和目的来看 / 实际上 / 几乎 / 除严格之外",
+      "有点/稍为",
+      "严格来说（= 用临床术语来说……）",
+      "本质上 / 从本质上讲 / 基本上",
+      "不妨/何妨/不如/还不如",
+      "某种意义上（确定）",
+      "某种意义上（不确定）",
+      "特别地/出众地"
     ]
   },
   {
     "name": "HG2",
-    "description": "Linguistic Hedges (2nd group)",
+    "description": "模糊限制语（第二组）",
     "gradient_type": "0",
     "cs": "zj",
     "associated_root": false,
     "degrees": [
       null,
-      "in a manner of speaking, in a sense / in a way",
-      "‘in other words …’, ‘to put it more exactly …’",
-      "more of a ___ than anything else",
-      "(what) can be looked at (as) / (what) can be viewed as / (what) one thinks of(as) / one might say that",
-      "loosely speaking",
-      "so-called",
-      "in name only",
-      "so to say, so to speak",
-      "for all I know / for all one knows"
+      "从某种意义上说，某种程度上 / 以某种方式（确定）",
+      "换句话说…… / 更准确地说……",
+      "没有比这更 …… 的/最 …… 不过了",
+      "可以看作是/可视为/人们认为是/可谓……",
+      "笼统地说",
+      "所谓……/什么……/……什么的",
+      "名义上/表面上/徒有其名地",
+      "可以说是",
+      "就人们/我所知"
     ]
   },
   {
     "name": "AP1",
-    "description": "Aspects I",
+    "description": "时体 I",
     "gradient_type": "0",
     "cs": "mc",
     "associated_root": false,
     "degrees": [
       null,
-      "(RTR) Retrospective",
-      "(PRS) Prospective",
-      "(HAB) Habitual",
-      "(PRG) Progressive",
-      "(IMM) Imminent",
-      "(PCS) Precessive",
-      "(REG) Regulative",
-      "(SMM) Summative ‘have already’",
-      "(ATP) Anticipatory ‘have yet to’"
+      "(RTR) 回顾体",
+      "(PRS) 展望体",
+      "(HAB) 习惯体",
+      "(PRG) 进行体",
+      "(IMM) 将近体",
+      "(PCS) 刚才体",
+      "(REG) 规律体",
+      "(SMM) 已然体",
+      "(ATP) 预期体"
     ]
   },
   {
     "name": "AP2",
-    "description": "Aspects II",
+    "description": "时体 II",
     "gradient_type": "0",
     "cs": "mč",
     "associated_root": false,
     "degrees": [
       null,
-      "(RSM) Resumptive",
-      "(CSS) Cessative",
-      "(PAU) Pausal",
-      "(RGR) Regressive",
-      "(PCL) Preclusive",
-      "(CNT) Continuative",
-      "(ICS) Incessative",
-      "(EXP) Experiential",
-      "(IRP) Interruptive ‘only so far before having to stop’"
+      "(RSM) 接续体",
+      "(CSS) 停止体",
+      "(PAU) 暂停体",
+      "(RGR) 重返体",
+      "(PCL) 专一体",
+      "(CNT) 继续体",
+      "(ICS) 持续体",
+      "(EXP) 曾经体",
+      "(IRP) 中断体"
     ]
   },
   {
     "name": "AP3",
-    "description": "Aspects III",
+    "description": "时体 III",
     "gradient_type": "0",
     "cs": "mẓ",
     "associated_root": false,
     "degrees": [
       null,
-      "(PMP) Preemptive",
-      "(CLM) Climactic",
-      "(DLT) Dilatory ‘over a long period of time’",
-      "(TMP) Temporary",
-      "(XPD) Expenditive (formerly CSM)",
-      "(LIM) Limitative ‘do (just) in time’",
-      "(EPD) Expeditive",
-      "(PTC) Protractive ‘take one’s time’",
-      "(PPR) Preparatory ‘do in advance’"
+      "(PMP) 首发体",
+      "(CLM) 最终体",
+      "(DLT) 久延体",
+      "(TMP) 暂时体",
+      "(XPD) 耗时体",
+      "(LIM) 及时体",
+      "(EPD) 匆忙体",
+      "(PTC) 延长体",
+      "(PPR) 预备体"
     ]
   },
   {
     "name": "AP4",
-    "description": "Aspects IV",
+    "description": "时体 IV",
     "gradient_type": "0",
     "cs": "mj",
     "associated_root": false,
     "degrees": [
       null,
-      "(DCL) Disclusive",
-      "(CCL) Conclusive",
-      "(CUL) Culminative",
-      "(IMD) Intermediative",
-      "(TRD) Tardative",
-      "(TNS) Transitional",
-      "(ITC) Intercommutative",
-      "(MTV) Motive",
-      "(SQN) Sequential"
+      "(DCL) 显发体",
+      "(CCL) 结果体",
+      "(CUL) 结局体",
+      "(IMD) 某刻体",
+      "(TRD) 减退体",
+      "(TNS) 过渡体",
+      "(ITC) 回施体",
+      "(MTV) 去往体",
+      "(SQN) 依序体"
     ]
   },
   {
     "name": "MCS",
-    "description": "Mood and Case-Scoping",
+    "description": "语式和格辖",
     "gradient_type": "D1",
     "cs": "bẓ",
     "associated_root": false,
     "degrees": [
-      "(CCV) Successive Case-Scope",
-      "(SUB) Subjunctive Mood",
-      "(ASM) Assumptive Mood",
-      "(SPC) Speculative Mood",
-      "(COU) Counterfactive Mood",
-      "(HYP) Subjunctive Mood",
-      "(CCA) Antecedent Case-Scope",
-      "(CCS) Subaltern Case-Scope",
-      "(CCQ) Qualifier Case-Scope",
-      "(CCP) Precedent Case-Scope"
+      "(CCV) 接连辖",
+      "(SUB) 虚拟式",
+      "(ASM) 假定式",
+      "(SPC) 推测式",
+      "(COU) 违实式",
+      "(HYP) 假设式",
+      "(CCA) 先行辖",
+      "(CCS) 从属辖",
+      "(CCQ) 修饰辖",
+      "(CCP) 前行辖"
     ]
   },
   {
     "name": "NCD",
-    "description": "Non-Default Context + Non-Default Perspective",
+    "description": "非默认语境 + 非默认视界",
     "gradient_type": "B",
     "cs": "bç",
     "associated_root": false,
@@ -526,7 +526,7 @@
   },
   {
     "name": "NCE",
-    "description": "Non-Default Context + Essence (+ AGGLOMERATIVE Perspective)",
+    "description": "非默认语境 + 本质 (+ 类聚界)",
     "gradient_type": "B",
     "cs": "gç",
     "associated_root": false,
@@ -545,144 +545,144 @@
   },
   {
     "name": "SNC",
-    "description": "Sanction",
+    "description": "言准",
     "gradient_type": "0",
     "cs": "gj",
     "associated_root": false,
     "degrees": [
       null,
-      "(PPS*) Propositional: statement is an ontological assertion based on ontologogical fact",
-      "(EPI*) Epistemic: statement is an epistemic assertion based on conventional (culturally agreed-upon) fact",
-      "(ALG*) Allegative: statement is an allegation expressing one’s belief, subject to rubuttal or refutation",
-      "(IPU*) Imputative: statement is a rebuttable presumption [i.e., to be assumed true until proven otherwise]",
-      "(RFU*) Refutative: statement is a rebuttal/refutation based on epistemic knowledge",
-      "(REB*) Rebutative: statement is a rebuttal/refutation based on ontological fact",
-      "(CJT*) Conjectural: statement is a conjecture/theory/hypothesis that is testable/verifiable",
-      "(EXV*) Expatiative: statement is a conjecture/theory/hypothesis that is not presumably testable/verifiable",
-      "(AXM*) Axiomatic: statement is a conclusive presumption not rationally debatable"
+      "(PPS*) 命题准：话语是体现客观事实的中性命题或主张，不论第三方的想法、信念或诠释。如：那是一座山，我饿了。",
+      "(EPI*) 认识准：话语是关于人类常识或公认的事实，不一定是客观事实或与客观事实无关。如：那座山是富士山，联合国尝试缓解第三世界的饥饿问题。",
+      "(ALG*) 声称准：话语是主观的主张或声称，即表达想法、信念或诠释，能接受质疑或反驳。如：那座山很美丽，美国没有人挨饿。",
+      "(IPU*) 推测准：话语是可反驳的推测，即一个主张被假定为真，不论客观还是依惯例，除非以及直到被足够的反论证或其他证据反驳。如：他会开车 （比如因为他有车），她现在不可能饿 （比如因为我看见她刚从饭馆出来）。",
+      "(RFU*) 反驳准：话语是对另一个主张、声称或假定的反声称、反驳，本身是认识上的，即基于人的常识而不是客观事实。",
+      "(REB*) 辩驳准：话语是基于客观事实的辩驳，不论主观的想法、信念或诠释",
+      "(CJT*) 理论准：话语是可测试的假说或有可能被证实的理论。",
+      "(EXV*) 假说准：话语是未必能被证明或证实的假说或理论",
+      "(AXM*) 公理准：话语是令人信服的假定，即客观、泛经验的事实，不容理性的论证或反驳。如：重力无处不在，饥饿是因为没有足够的食物吃。"
     ],
-    "notes": "\\* This abbreviation for Sanction inherited from Ithkuil III (2011) has been deprecated"
+    "notes": "\\* 继承自 Ithkuil III (2011) 的言准缩写已被弃用"
   },
   {
     "name": "PHS",
-    "description": "Phase",
+    "description": "相位",
     "gradient_type": "0",
     "cs": "bž",
     "associated_root": false,
     "degrees": [
       null,
-      "(PCT) Punctual",
-      "(ITR) Iterative",
-      "(REP) Repetitive",
-      "(IMT) Intermittent",
-      "(RCT) Recurrent",
-      "(FRE) Frequentative",
-      "(FRG) Fragmentative",
-      "(VAC) Vacillative",
-      "(FLC) Fluctuative"
+      "(PCT) 点瞬相",
+      "(ITR) 点复相",
+      "(REP) 重复相",
+      "(IMT) 间歇相",
+      "(RCT) 反复相",
+      "(FRE) 频繁相",
+      "(FRG) 断续相",
+      "(VAC) 摇摆相",
+      "(FLC) 随机相"
     ]
   },
   {
     "name": "AVP",
-    "description": "Misc. Adverbial Phrases (formerly APT)",
+    "description": "杂项状语性短语（曾称为 APT）",
     "gradient_type": "0",
     "cs": "sţ",
     "associated_root": false,
     "degrees": [
       null,
-      "yet, still",
-      "‘even’ [e.g., “I don’t even like them”] = to the slightest extent contrary to expectation",
-      "Contemplative: upon reflection / in hindsight",
-      "upon deep introspection/following careful consideration or meditation on the matter",
-      "on first blush / at first / upon initial impression / [my] first thought is/was …",
-      "natural(ly)/obvious(ly)/clear(ly) [in terms of naturalness, not blatancy]",
-      "clear (case of), clearly / certainly / indeed [in negative sentences = no way / at all]",
-      "as luck would have it / as it so happens … / it just so happens that …",
-      "moreover, and what is more …"
+      "尚且, 仍然",
+      "「甚至」 [例如，“我甚至不喜欢他们”] = 程度上与预期相反的最小程度",
+      "沉思性: 经反思/从回顾中",
+      "在深入自省/在仔细考虑或冥思之后",
+      "初见/起初/初步印象/[我]最初的想法是/曾是 …",
+      "沉思性: 经反思/从回顾中自然(地)/明显(地)/清楚(地) [就自然性而言，而不是公然/露骨/明目张胆性]",
+      "明确的（情况），明确地/确实/的确 [在否定句中 = 不可能/根本]",
+      "正巧/碰巧 … / 就是碰巧 …",
+      "此外，还有 …"
     ]
   },
   {
     "name": "VAL",
-    "description": "Valence",
+    "description": "配价",
     "gradient_type": "0",
     "cs": "ẓk",
     "associated_root": false,
     "degrees": [
       null,
-      "(MNO) Monoactive",
-      "(PRL) Parallel",
-      "(CRO) Corollary",
-      "(RCP) Reciprocal",
-      "(CPL) Complementary",
-      "(DUP) Duplicative",
-      "(DEM) Demonstrative",
-      "(CNG) Contingent",
-      "(PTI) Participatory"
+      "(MNO) 独动价",
+      "(PRL) 共动价",
+      "(CRO) 各动价",
+      "(RCP) 互动价",
+      "(CPL) 补动价",
+      "(DUP) 复动价",
+      "(DEM) 示动价",
+      "(CNG) 接动价",
+      "(PTI) 参动价"
     ]
   },
   {
     "name": "IVL",
-    "description": "Illocution + Validation",
+    "description": "语为与言据",
     "gradient_type": "D1",
     "cs": "nļ",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(ASR) Assertive",
-        "(OBS) Observational"
+        "(ASR) 表述语为",
+        "(OBS) 观察据"
       ],
       [
-        "(DIR) Directive",
-        "(REC) Recollective"
+        "(DIR) 意使语为",
+        "(REC) 回忆据"
       ],
       [
-        "(DEC) Declarative",
-        "(PUP) Purportive"
+        "(DEC) 宣示语为",
+        "(PUP) 声称据"
       ],
       [
-        "(IRG) Interrogative",
-        "(RPR) Reportive"
+        "(IRG) 询问语为",
+        "(RPR) 报告据"
       ],
       [
-        "(VER) Verificative",
-        "(USP) Unspecified"
+        "(VER) 确认语为",
+        "(USP) 未定据"
       ],
       [
-        "(ADM) Admonitive",
-        "(IMA) Imaginary"
+        "(ADM) 劝示语为",
+        "(IMA) 想象据"
       ],
       [
-        "(POT) Potentiative",
-        "(CVN) Conventional"
+        "(POT) 祈愿语为",
+        "(CVN) 公认据"
       ],
       [
-        "(HOR) Hortative",
-        "(ITU) Intuitive"
+        "(HOR) 但愿语为",
+        "(ITU) 直觉据"
       ],
       [
-        "(CNJ) Conjectural",
-        "(INF) Inferential"
+        "(CNJ) 假设语为",
+        "(INF) 推论据"
       ]
     ]
   },
   {
     "name": "PTN",
-    "description": "Potential",
+    "description": "潜在性类型",
     "gradient_type": "D1",
     "cs": "sv",
     "associated_root": false,
     "degrees": [
       null,
-      "whatever X is / whatever X may be ",
-      "whatever X was or may have been (but is no more)",
-      "whatever X will be or may become (but is not yet)",
-      "… or something like/similar to X in function, purpose, or consequence",
-      "… or something like/similar to X in appearance/description",
-      "and whatever else X may be(come)",
-      "and whatever else X entails or carries with it as a consequence",
-      "which(ever) X (it is or may be) [of a known/limited number of possible identifications available to assign to X, the one identification that actually is (chosen as) X]",
-      "what(ever) X (it is or may be) [of an unknown number of possible identifications one might/could assign to X, the one identification that actually is (chosen as) X]"
+      "X（可能）现在所是的任何事物",
+      "X （可能）曾经是但不再所是的任何事物",
+      "X （可能）将来是但仍未所是的任何事物",
+      "……或在功用、目的、结果上与 X 相似的事物",
+      "……或在外观、描述上与 X 相似的事物",
+      "以及 X 可能会变（成）的任何别的事物",
+      "以及 X 带来的任何后果",
+      "无论哪个 X [在数量已知/有限的可供赋予给 X 的识别中，实际上（选择）为 X 的一个识别]",
+      "无论什么 X [在数量未知的可能赋予给 X 的识别中，实际上（选择）为 X 的一个识别]"
     ]
   }
 ]

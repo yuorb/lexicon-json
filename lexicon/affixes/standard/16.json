@@ -243,7 +243,7 @@
       ],
       [
         "(SPLr) Superlative (relative comparison)",
-        "(SPLa) Superlativ (absolute comparison)e"
+        "(SPLa) Superlative (absolute comparison)e"
       ],
       [
         "(SPQr) Superequative (relative comparison)",
@@ -342,9 +342,9 @@
     "associated_root": false,
     "degrees": [
       null,
-      "the result/impact/effect on the ERG/EFF Agent from(performing/doing) X",
+      "the result/impact/effect on the ERG/EFF Agent from (performing/doing) X",
       "the result/impact/effect on the ABS Patient from (performing/doing) X",
-      "the result/impact/effect on the AFF Recipient from (performing/doing) X",
+      "the result/impact/effect on the AFF Experiencer from (performing/doing) X",
       "the result/impact/effect on the THM argument from (performing/doing) X",
       "the result/impact/effect on the INS argument (tools, implements) from(performing/doing) X",
       "the result/impact/effect on the CSM argument (resources, consumables)from (performing/doing) X",
