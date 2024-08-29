@@ -115,7 +115,7 @@
   },
   {
     "name": "AGN",
-    "description": "Degree of Agency, Intent or Effectiveness",
+    "description": "作用、意图或有效性的程度",
     "gradient_type": "C",
     "cs": "nř",
     "associated_root": false,
