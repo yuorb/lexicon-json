@@ -1,6 +1,6 @@
 {
   "name": "cs",
-  "description": "Case-Stacking Affix",
+  "description": "格叠加词缀",
   "gradient_type": "0",
   "cases": [
     {
