@@ -1,1562 +1,1563 @@
 [
   {
     "name": "ACQ",
-    "description": "Acquisition",
+    "description": "获得/习得",
     "gradient_type": "0",
     "cs": "vz",
     "associated_root": false,
     "degrees": [
       null,
-      "acquired by chance/whim/having stumbled upon",
-      "acquired by mental effort/learning/study/creation",
-      "acquired by informal, spur-of-the-moment search",
-      "acquired by trickery/subterfuge",
-      "innate/inherent",
-      "acquired by formal search",
-      "acquired by informal agreement/negotiation",
-      "acquired by formally negotiated trade or deal",
-      "acquired by purchase"
+      "通过偶然/随意获得/无意中发现获得/习得",
+      "通过用心努力/学习/研究/创造获得/习得",
+      "通过非正式的、即兴的搜索获得/习得",
+      "通过欺骗/诡计获得/习得",
+      "天生的/先天的/固有的/内在的/本性的",
+      "通过正式的搜索获得/习得",
+      "通过非正式的协议/谈判获得/习得",
+      "通过正式谈判的交易或交易获得/习得",
+      "通过购买获得/习得"
     ]
   },
   {
     "name": "RNC",
-    "description": "Renunciation",
+    "description": "弃绝",
     "gradient_type": "0",
     "cs": "ňz",
     "associated_root": false,
     "degrees": [
       null,
-      "give up X-ing / give up on X",
-      "lose faith/belief in X(-ing)",
-      "stop trying to",
-      "undermine (efforts to) X",
-      "refuse to X",
-      "lose sense of resolve/commitment to X",
-      "no longer have passion for X / lose passion for X",
-      "lose ability to do/be/make X",
-      "lack means/ability to X"
+      "放弃 X / 对 X 放弃",
+      "失去对（进行）X 的信心/信仰",
+      "停止尝试",
+      "暗中破坏；逐渐削弱（努力去）X",
+      "拒绝 X",
+      "失去对 X 的决心/承诺",
+      "不再对 X 有激情/失去对 X 的激情",
+      "失去做/成为/创造 X 的能力",
+      "缺乏手段/能力进行 X"
     ]
   },
   {
     "name": "INB",
-    "description": "Inability/Incapacity Due To …",
+    "description": "无能/无力原因",
     "gradient_type": "0",
     "cs": "čb",
     "associated_root": false,
     "degrees": [
       null,
-      "inability to [perform/achieve/realize] X so due to absence/loss of resources",
-      "inability to [perform/achieve/realize] X so due to absence/loss of physical means",
-      "inability to [perform/achieve/realize] X so due to absence/loss of skill/knowledge",
-      "inability to [perform/achieve/realize] X so due to blockage/prevention of access to resource(s)",
-      "inability to [perform/achieve/realize] X so due to blockage/prevention of access to physical means",
-      "inability to [perform/achieve/realize] X so due to blockage/prevention of access to skill/knowledge",
-      "inability to [perform/achieve/realize] X so due to psychological disorder or trauma",
-      "inability to [perform/achieve/realize] X so due to physical disorder/illness/injury",
-      "inability to [perform/achieve/realize] X so due to loss/absence of desire"
+      "因缺乏/损失资源而无法[执行/达成/实现]X",
+      "因缺乏/损失物质手段而无法[执行/达成/实现]X",
+      "因缺乏/损失技能/知识而无法[执行/达成/实现]X",
+      "因资源获得机会被阻碍/阻止而无法[执行/达成/实现]X",
+      "因物质手段获得机会被阻碍/阻止而无法[执行/达成/实现]X",
+      "因技能/知识获得机会被阻碍/阻止而无法[执行/达成/实现]X",
+      "因心理障碍或创伤而无法[执行/达成/实现]X",
+      "因身体疾病/受伤而无法[执行/达成/实现]X",
+      "因失去/缺乏欲望而无法[执行/达成/实现]X"
     ]
   },
   {
     "name": "CMF",
-    "description": "Communication Format",
+    "description": "沟通格式",
     "gradient_type": "0",
     "cs": "s",
     "associated_root": false,
     "degrees": [
       null,
-      "via language (in general, whether spoken / written / printed / signed / signaled / broadcast / published / disseminated / streamed, etc.)",
-      "via spoken/vocalized language",
-      "via written language; in writing [for real-time communication to be read directly by the present audience]",
-      "via publication (= in writing for distribution to future audience)",
-      "via electronic distribution/dissemination",
-      "via gesture, pantomime",
-      "via formal sign language",
-      "via pictures/images",
-      "via non-linguistic vocalizations [e.g., grunts, squeals, murmuring, cries, etc.]"
+      "通过语言（一般而言，无论是口头/书面/印刷/手势/信号/广播/发布/传播/流媒体等）",
+      "通过口语（有声）",
+      "通过书面语言；以书面形式[供实时交流直接阅读]",
+      "通过出版物（即以书面形式分发给未来观众）",
+      "通过电子分发/传播",
+      "通过手势，动作",
+      "通过正式的手语",
+      "通过图片/图像",
+      "通过非语言的声音[例如，咕哝、尖叫、低语、叫喊等]"
     ]
   },
   {
     "name": "ENG",
-    "description": "Degree of Engagement/Involvement",
+    "description": "参与/投入程度",
     "gradient_type": "A1",
     "cs": "řns",
     "associated_root": false,
     "degrees": [
       null,
-      "avoiding X(-ing) at all costs / run away from X(-ing) / terrified of X(-ing)",
-      "averse to X(-ing); fear X(-ing) / fear of X(-ing) / afraid of X(-ing) / afraid to X",
-      "shirk involvement in X(-ing); not be/get involved in",
-      "to X for appearance’ sake only; to X solely for show",
-      "lackluster interest/involvement in X(-ing)",
-      "marginal interest/involvement in X(-ing)",
-      "limited/partial involvement in X(-ing)/ like X(-ing) / interested in X(-ing)",
-      "fully involved/engrossed in X(-ing) / love to X",
-      "irreversibly involved/engrossed in X(-ing) / enraptured with X(-ing)"
+      "不惜一切代价避免（进行）X/逃避（进行）X/对（进行）X感到恐惧",
+      "厌恶（进行）X；害怕（进行）X/害怕（进行）X/对（进行）X的害怕/不愿 X",
+      "逃避参与（进行）X；不参与",
+      "仅仅为了表面效果（进行）X；为了作秀而 X",
+      "对（进行）X缺乏兴趣/投入",
+      "对（进行）X有边际兴趣/投入",
+      "有限/部分参与（进行）X/喜欢（进行）X/对（进行）X 感兴趣",
+      "完全参与/全心投入于（进行）X/热爱 X",
+      "不可逆转地参与/全心投入于（进行）X /对（进行）X 着迷"
     ]
   },
   {
     "name": "OSQ",
-    "description": "Opportunity Squandered",
+    "description": "浪费机会",
     "gradient_type": "0",
     "cs": "ňs",
     "associated_root": false,
     "degrees": [
       null,
-      "wished-for or hoped-for but so far has never come to pass",
-      "missed-out on [opportunity has arisen but one isn’t/wasn’t able or permitted to act upon it despite desire to do so]",
-      "missed-out on [opportunity has arisen but is/was passed by or ignored]",
-      "squandered [opportunity has arisen but attempt to act upon it is/was well-done but unsuccessful]",
-      "missed-out on [opportunity has never arisen and is not likely to arise]",
-      "squandered [opportunity has arisen but is/was acted upon incorrectly or incompetently]",
-      "squandered [opportunity has arisen but the attempt to act upon it is/was thwarted by external entities/factors]",
-      "squandered/missed-out on [opportunity passed by due to ignorance or not being informed]",
-      "won and lost [opportunity was acted upon successfully at first but subsequently failed]"
+      "希望或期望但迄今为止从未实现的",
+      "错过了的 [机会出现了但因未能或未被允许采取行动而无法抓住]",
+      "错过了的 [机会出现了但被忽视或放弃]",
+      "浪费了的 [机会出现了但尝试行动虽做得很好但失败]",
+      "错过了的 [机会从未出现且不太可能出现]",
+      "浪费了的 [机会出现了但行动方式不正确或不称职]",
+      "浪费了的 [机会出现了但尝试行动被外部实体/因素挫败]",
+      "浪费了/错过了的 [因无知或未被告知而错过了机会]",
+      "赢得并失去的 [机会最初成功行动但随后失败]"
     ]
   },
   {
     "name": "MEM",
-    "description": "Memory",
+    "description": "记忆",
     "gradient_type": "A1",
     "cs": "rmz",
     "associated_root": false,
     "degrees": [
       null,
-      "always in mind / can’t forget",
-      "never to be forgotten / memorable",
-      "remembered / recalled / remember to …",
-      "(having just been) reminded of X",
-      "on the tip of one’s tongue / almost remembered / on the verge of remembering",
-      "slipped from one’s mind (momentarily); just had it but now can’t remember; momentary lapse in remembering X",
-      "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to …        d",
-      "forgotten, not remembered or recalled [does not occur to try to remember]",
-      "long-forgotten / not currently remembered in general"
+      "始终铭记/无法忘记",
+      "永远不会被忘记/值得铭记",
+      "被记住的/回忆起的/记得去……",
+      "（刚刚）被提醒了 X",
+      "话在嘴边，但一下子想不起来/几乎记起来了/快要记起来",
+      "从脑海中消失（暂时）；刚刚有过，但现在不记得了；暂时忘记 X",
+      "被遗忘了，没有记住或回忆起[尽管尝试记忆/回忆] / 忘记 / 忘记（如何）去……",
+      "被遗忘了，没有记住或回忆起[没有尝试记忆]",
+      "早已遗忘 / 当前一般不记得"
     ]
   },
   {
     "name": "NNN",
-    "description": "N-Numbered Angles/Facets/Faces/Sides/Points/Forms",
+    "description": "以 N 编号的角度/面/侧面/点/形式",
     "gradient_type": "C",
     "cs": "vř",
     "associated_root": false,
     "degrees": [
       null,
-      "uneven/asymmetrical n–sided 2D obtusely angled form [e.g., quadrilateral pentagonoid]",
-      "uneven/asymmetrical n-pointed 2D acutely angled “star” formation",
-      "uneven/asymmetrical n-faceted 3D solid",
-      "uneven/asymmetrical n-faced 3D solid [e.g., n-hedron-like solid]",
-      "having n number of 3D projections/spikes/pointed surfaces",
-      "symmetrical n-faced 3D solid [e.g., tetrahedron, dodecahedron]",
-      "symmetrical n-faceted 3D solid",
-      "symmetrical n-pointed 2D acutely angled “star” formation (can be used with numbers as low as 2, which would refer to an elongated diamond shape)",
-      "symmetrical n–sided 2D form [e.g., square, pentagon, hexagon]"
+      "不规则/不对称的 n 边2D钝角形态[例如，四边类五角形]",
+      "不规则/不对称的 n 点2D锐角“星形”排列",
+      "不规则/不对称的 n 面3D固体",
+      "不规则/不对称的 n 面3D固体[例如，n面体状固体]",
+      "具有 n 个3D投影/尖状物/尖头表面",
+      "对称的 n 面3D固体[例如，四面体，十二面体]",
+      "对称的 n 面3D固体",
+      "对称的 n 点2D锐角“星形”排列（可以用到最小的2，这将指代一个延长的菱形）",
+      "对称的 n 边2D形态 [例如，正方形、五边形、六边形]"
     ]
   },
   {
     "name": "RDT",
-    "description": "Redirection of X to Other Use(s)",
+    "description": "对 X 重新分配至其他用途",
     "gradient_type": "C",
     "cs": "ḑř",
     "associated_root": false,
     "degrees": [
       null,
-      "multiple uses – involuntary",
-      "opposing use – involuntary",
-      "complementary use – involuntary/unpredictable",
-      "unrelated use - involuntary",
-      "not used for traditional purpose – unknown or inapplicable as to whether voluntary or involuntary",
-      "unrelated use - voluntary",
-      "complementary use – voluntary/controlled/predictable",
-      "opposing use – voluntary",
-      "multiple uses – voluntary"
+      "多种用途 – 非自愿",
+      "对立用途 – 非自愿",
+      "互补用途 – 非自愿/不可预测",
+      "无关用途 - 非自愿",
+      "不用于传统目的 – 不知道是否自愿或非自愿",
+      "无关用途 - 自愿",
+      "互补用途 – 自愿/经控制/可预测",
+      "对立用途 – 自愿",
+      "多种用途 – 自愿"
     ]
   },
   {
     "name": "PSS",
-    "description": "Degree of Alienable Possession",
+    "description": "可转让占有程度",
     "gradient_type": "0",
     "cs": "ňš",
     "associated_root": false,
     "degrees": [
       null,
-      "the X which one circumstantially possesses/uses/handles at the moment or with which one is momentarily/circumstantially/informally associated",
-      "the X circumstantially/informally/temporarily taken by, or circumstantially/informally given/assigned/designated to one for their use/possession/responsibility",
-      "the X formally/officially taken by, or formally/officially given/assigned/designated to one for their use/possession/responsibility as per purchase, formal gift, declaration, contract, or other societal convention.",
-      "(one’s) own/(one’s) personal X [informally/circumstantial/temporarily/contextually]",
-      "(one’s) own/(one’s) personal X [formally/officially/contractually/(quasi-)permanently]",
-      "(one’s) own private X",
-      "one’s own private and unique/custom X, known by, but unavailable to others",
-      "one’s own secret and concealed X unknown to others",
-      "one’s own secret and concealed X, unique/custom and unknown to others"
+      "在某种情况下拥有/使用/处理的 X，或暂时/情况/非正式地某人所相关的 X ",
+      "在某种情况下/非正式/临时地被使用或指定给某人的 X",
+      "依据购买、正式赠送、声明、合同或其他社会惯例正式/官方地被某人使用/占有/负责的 X",
+      "（某人）自己的/（某人）个人 X [非正式/情况/临时/语境性]",
+      "（某人）自己的/（某人）个人 X [正式/官方/合同/（准）永久]",
+      "（某人）自己的私人 X",
+      "个人独特且私密的 X，仅自己知道但他人无法获得",
+      "个人秘密且隐蔽的 X，其他人不知道",
+      "个人秘密且隐蔽的 X，独特/定制且其他人不知道"
     ]
   },
   {
     "name": "CLS",
-    "description": "Classification",
+    "description": "分类",
     "gradient_type": "0",
     "cs": "ňž",
     "associated_root": true,
     "degrees": [
       null,
-      "a physical arrangement or discernible pattern/assortment of X for aesthetic reasons",
-      "a physical arrangement or discernible pattern/assortment of X for utilitarian reasons",
-      "X as a member or representative of a certain kind/sort/genre/class of entity",
-      "X as the basis for classifying/sorting/arranging other entities",
-      "X as the representative label of a certain kind/sort/genre/class of entity",
-      "X as the representative label of a (system of) hierarchical ranking",
-      "X as the basis for a (system of) hierarchical ranking",
-      "(hierarchical) ranking of X",
-      "regular(ity) of X; X as a regular(ized) entity"
+      "为了美学原因而进行的对 X 的物理排列或可辨别的模式/分类",
+      "为了实用原因而进行的对 X 的物理排列或可辨别的模式/分类",
+      "作为某种类型/类别/体裁/分类实体的成员或代表的 X ",
+      "作为分类/排序/安排其他实体的基础的 X",
+      "作为某种类型/类别/体裁/分类实体的代表标签的 X",
+      "作为（系统的）层级划分的代表标签的 X",
+      "作为（系统的）层级划分的基础的 X",
+      "对 X的（层级）排序",
+      "X 的规律（性）; 作为规律（化）实体的 X"
     ]
   },
   {
     "name": "BAS",
-    "description": "Basis",
+    "description": "基础",
     "gradient_type": "0",
     "cs": "nš",
     "associated_root": false,
     "degrees": [
       null,
-      "X-based; on the basis of X (= general overall basis for something, i.e., X as both the idea behind and model for something)",
-      "X-based, on the basis of X (= as the intellectual basis for, X as the idea behind something)",
-      "X-based; modeled upon/after X (= in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
-      "X-derived, derived from X",
-      "X-patterned/arranged (not in visual shape/form, but in structural arrangement or structural principles; for visual shape/form patterning, see SHP affix)",
-      "X-inspired, inspired by X",
-      "X-driven, driven/powered by X",
-      "motivated by X",
-      "X-triggered; triggered by X (= X as unwitting/non-causative stimulus for action)"
+      "基于 X; 以 X 为基础 (= 作为某事物的总体基础，即 X 作为某事物的背后思想和模型)",
+      "基于 X; 以 X 为基础 (= 作为思想基础，X 作为某事物的背后思想)",
+      "基于 X; 以 X 为模型 (= 在功能/目的上，而非在形式/形状上; 对于后者，请参见 SHP 词缀)",
+      "源自 X，衍生自 X",
+      "以/按 X 为模式/排列（不是在视觉形状/形式上，而是在结构排列或结构原则上; 对于视觉形状/形式的模式，请参见 SHP 后缀）",
+      "受 X 启发，受到 X 的启发",
+      "受 X 驱动，由 X 驱动/提供动力",
+      "受到 X 的激励/推动",
+      "由 X 引发; 由 X 触发 (= X 作为无意识/非致因的刺激)"
     ]
   },
   {
     "name": "SHP",
-    "description": "Shape or Form",
+    "description": "形状或形式",
     "gradient_type": "C",
     "cs": "fř",
     "associated_root": true,
     "degrees": [
       null,
-      "having the 2-D shape of X; shaped like (an) X",
-      "somewhat or sort of like the 2-D shape of X; reminiscent of the 2-D shape of X",
-      "2-D figure (= outlined/contoured representation) of X",
-      "2-D mold / “stamp” of X",
-      "X-pattern(ed); patterned like/after X (visual shape/pattern/form only; for structural pattern/arrangement, see BAS affix)",
-      "3-D mold/cast of X",
-      "3-D figure (= outlined/conoured representation) of X",
-      "somewhat or sort of like the 3-D form/shape of X; reminiscent of the 3-D shape/form of X",
-      "having/mimicking the 3-D form/shape of X; formed like or modeled after X"
+      "具有 X 的二维形状; 形状像（一个）X",
+      "有些或类似 X 的二维形状; 让人联想到 X 的二维形状",
+      "X 的二维图形（即轮廓/轮廓表示）",
+      "X 的二维模具/“印章”",
+      "以 X 为模式（仅视觉形状/图案/形式; 对于结构图案/排列，请参见 BAS 词缀）",
+      "X 的三维模具/铸型",
+      "X 的三维图形（即轮廓/轮廓表示）",
+      "有些或类似 X 的三维形状/形式; 让人联想到 X 的三维形状/形式",
+      "具有/模仿 X 的三维形状/形式; 形状像或以 X 为模型"
     ]
   },
   {
     "name": "VPF",
-    "description": "Variance From Prototypical 3-D Form",
+    "description": "与原型三维形状的偏差",
     "gradient_type": "0",
     "cs": "ẓt",
     "associated_root": false,
     "degrees": [
       null,
-      "long axis obliquely angled/inclined away from the vertical/right-angled/rectilinear/perpendicular",
-      "elongated lengthwise/heightwise",
-      "elongated widthwise/girthwise",
-      "curved away from right-angled/rectilinear orientation",
-      "truncated at small/pointed/shorter/smaller end at angle parallel to base",
-      "truncated at small/pointed/shorter/smaller end at oblique angle to base",
-      "a quasi-planar longitudinal [i.e., perpendicular to base] slice through 3-D form X",
-      "a quasi-planar oblique slice through 3-D form/shape X",
-      "a quasi-planar latitudinal [i.e., parallel to base] slice through 3-D form X"
+      "长轴倾斜地偏离垂直/直角/直线/正交方向的",
+      "沿长度/高度延长的",
+      "沿宽度/周长延长的",
+      "偏离直角/直线方向弯曲的",
+      "在与基底平行的角度上截断于小的/尖的/较短的/较小的端的",
+      "在与基底倾斜角度上截断于小的/尖的/较短的/较小的端的",
+      "通过三维形状 X 的准平面纵向切片（即与基底正交）",
+      "通过三维形状/形式 X 的准平面倾斜切片",
+      "通过三维形状 X 的准平面纬向切片（即与基底平行）"
     ]
   },
   {
     "name": "TDP",
-    "description": "Three-Dimensional Polyhedral Forms",
+    "description": "三维多面体形状",
     "gradient_type": "C",
     "cs": "ļř",
     "associated_root": false,
     "degrees": [
       null,
-      "symmetrical 3D polyhedron having X-number of triangular faces",
-      "symmetrical 3D polyhedron having X-number of quadrilateral faces",
-      "symmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
-      "symmetrical 3D polyhedron having X-number of mixed polygonal faces",
-      "a 3D form/object whose 2-dimensional/planar outline shape [i.e., against a background] is X",
-      "asymmetrical 3D polyhedron having X-number of mixed polygonal faces",
-      "asymmetrical 3D polyhedron having X-number of mixed triangular and quadrilateral faces",
-      "asymmetrical 3D polyhedron having X-number of quadrilateral faces",
-      "asymmetrical 3D polyhedron having X-number of triangular faces"
+      "对称的三维多面体，具有 X 个三角形面",
+      "对称的三维多面体，具有 X 个四边形面",
+      "对称的三维多面体，具有 X 个混合三角形和四边形的面",
+      "对称的三维多面体，具有 X 个混合多边形面",
+      "一个三维形状/物体，其二维/平面轮廓形状 [即，相对于背景] 为 X",
+      "不对称的三维多面体，具有 X 个混合多边形面",
+      "不对称的三维多面体，具有 X 个混合三角形和四边形的面",
+      "不对称的三维多面体，具有 X 个四边形面",
+      "不对称的三维多面体，具有 X 个三角形面"
     ]
   },
   {
     "name": "CNW",
-    "description": "Conway Polyhedral Mathematical Operations",
+    "description": "康威多面体数学操作",
     "gradient_type": "D1",
     "cs": "ļn",
     "associated_root": false,
     "degrees": [
       null,
-      "dual",
-      "truncated",
-      "subdivided",
-      "augmented",
-      "kis",
-      "beveled",
-      "chamfered",
-      "join",
-      "ambo"
+      "对偶：dual",
+      "截角：truncated",
+      "细分：subdivided",
+      "侧立体：augmented",
+      "n角化：kis",
+      "大斜方：beveled",
+      "倒角：chamfered",
+      "會合：join",
+      "截半：ambo"
     ]
   },
   {
     "name": "PAT",
-    "description": "Common 2-Dimensional Decorative/Featural Patterns",
+    "description": "常见二维装饰/特征图案",
     "gradient_type": "0",
     "cs": "jb",
     "associated_root": false,
     "degrees": [
       null,
-      "checker-patterned; checked",
-      "polka-dotted",
-      "diagonally-striped",
-      "vertically striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
-      "striped",
-      "horizontally striped (relative to natural/default orientation of the striped object or relative to observer if object has no such natural/default orientation)",
-      "vertically & horizontally cross-hatched",
-      "diagonally cross-hatched; diamond-patterned",
-      "grid-like, screen-like (= fine-grained cross-hatching)"
+      "棋盘图案; 方格图案",
+      "圆点图案",
+      "对角线条纹",
+      "垂直条纹（相对于条纹物体的自然/默认方向或如果物体没有自然/默认方向，相对于观察者）",
+      "条纹",
+      "水平条纹（相对于条纹物体的自然/默认方向或如果物体没有自然/默认方向，相对于观察者）",
+      "垂直和水平交叉线条",
+      "对角线交叉线条; 菱形图案",
+      "网格状，屏幕状（= 细颗粒交叉线条）"
     ]
   },
   {
     "name": "PUA",
-    "description": "Private Usage Or Association",
+    "description": "私人使用或关联",
     "gradient_type": "B",
     "cs": "çl",
     "associated_root": false,
     "degrees": [
       null,
-      "for one’s own personal use",
-      "for use by a private/select group",
-      "for use by a specific/particular group",
-      "known only to or familiar only to oneself",
-      "known only to or familiar only to a private/select group",
-      "known only to or familiar only to a specific/particular group",
-      "associated with or having to do with oneself only",
-      "associated with or having to do with a private/select group",
-      "associated with or having to do with a specific/particular group"
+      "供个人使用的",
+      "供私人/选择性群体使用的",
+      "供特定/特有群体使用的",
+      "仅为自己所知或仅对自己熟悉的",
+      "仅为私人/选择性群体所知或仅对私人/选择性群体熟悉的",
+      "仅为特定/特有群体所知或仅对特定/特有群体熟悉的",
+      "与自己相关或仅涉及自己的",
+      "与私人/选择性群体相关或仅涉及私人/选择性群体的",
+      "与特定/特有群体相关或仅涉及特定/特有群体的"
     ]
   },
   {
     "name": "HUM",
-    "description": "Human Usage/Presence/Intervention",
+    "description": "人类使用/存在/干预",
     "gradient_type": "0",
     "cs": "ẓp",
     "associated_root": false,
     "degrees": [
       null,
-      "as associated with human beings",
-      "for the benefit of human beings",
-      "for use by human beings",
-      "as determined/planned by human beings",
-      "as arranged/structured by human beings",
-      "as a product or planned result of human usage/intervention",
-      "as a(n unforeseen) by-product/consequence/vestige of human usage/association/intervention",
-      "as an indicator/clue of human presence/intervention/usage",
-      "as a resource for use by human beings"
+      "与人类相关的",
+      "为人类的利益的",
+      "供人类使用的",
+      "由人类决定/计划的",
+      "由人类安排/构造的",
+      "作为人类使用/干预的产物或计划结果的",
+      "作为人类使用/相关/干预的（意外）副产品/后果/遗迹的",
+      "作为人类存在/干预/使用的指示/线索的",
+      "作为供人类使用的资源的"
     ]
   },
   {
     "name": "KIN",
-    "description": "Kinship Relation",
+    "description": "亲属关系",
     "gradient_type": "0",
     "cs": "cc",
     "associated_root": false,
     "degrees": [
       null,
-      "having a full-blood relationship [i.e., genetically related through both parents]",
-      "half-related [e.g., half-sister, half-cousin], [i.e., genetically related through one parent only]",
-      "paternally related [i.e., through one’s own genetic father]",
-      "maternally related [i.e., through one’s own genetic mother]",
-      "double-relation [i.e., related through both parents via the mating of a set of siblings from one family with a set of siblings of another family]",
-      "in-law relation [i.e., non-blood relation through marriage only]",
-      "parallel-related [i.e., related through a parent’s sibling of the same gender as the parent]",
-      "cross-related [i.e., related through a parent’s sibling of a different gender than the parent]",
-      "legally adopted relation (no genetic relation)"
+      "血亲关系（即，通过父母双方的基因相关）",
+      "继亲关系（例如，继姐妹（同父异母或同母异父）、继的堂表兄弟姐妹），即仅通过父母任意一方的基因与之相关",
+      "父系相关（即，通过自己的生物学父亲）",
+      "母系相关（即，通过自己的生物学母亲）",
+      "双亲关系（即，一个家庭的兄弟姐妹与另一个家庭的兄弟姐妹配对而来的父母，通过双方而与之相关）",
+      "姻亲关系（即，仅通过婚姻而非血缘关系）",
+      "平行相关（即，通过与父母性别相同的父母的兄弟姐妹的关系）",
+      "交叉相关（即，通过与父母性别不同的父母的兄弟姐妹的关系）",
+      "法律收养关系（没有血缘关系）"
     ]
   },
   {
     "name": "KSD",
-    "description": "Generational/Sequential Kinship Descriptions",
+    "description": "世代/次第亲属描述",
     "gradient_type": "D1",
     "cs": "vk",
     "associated_root": false,
     "degrees": [
       null,
-      "of one’s previous generation [i.e., “once removed (upward)”]",
-      "of two generations previous [i.e., “grand-”, “twice removed (upward)”]",
-      "of three generations previous [i.e., “great grand-”, “three times removed (upward)”]",
-      "foster relationship",
-      "common law relationship",
-      "“god-” relative or other pseudo-familial relationship [i.e., non-sanguine person treated like or considered part of sanguine family, e.g., “god”-parent]",
-      "of three generations later [i.e., “great grand-”, “three times removed (downward)”]",
-      "of two generations later [i.e., “grand-”, “twice removed (downward)”]",
-      "of one’s subsequent generation [i.e., “once removed (downward)”]"
+      "上一代的亲属（即，「父母辈」）",
+      "两代以前的亲属（即，「祖父母辈」）",
+      "三代以前的亲属（即，「曾祖父母辈」）",
+      "寄养关系",
+      "普通法关系",
+      "「教父母」亲属或其他伪家庭关系（即，非血缘的人被视为或被认为是血缘家庭的一部分，例如，「教父母」）",
+      "三代以后的亲属（即，「曾孙辈」）",
+      "两代以后的亲属（即，「孙辈」）",
+      "下一代的亲属（即，「子女辈」）"
     ]
   },
   {
     "name": "APV",
-    "description": "Alternate Points of View",
+    "description": "替代观点",
     "gradient_type": "A1",
     "cs": "rps",
     "associated_root": false,
     "degrees": [
       null,
-      "and not even occurring to one to evaluate/consider/analyze a/the situation in any way before deciding/acting",
-      "and not even occurring to one to evaluate/consider (a) point(s) of view other than one’s own",
-      "with alternate point(s) of view blindly dismissed as irrelevant or having no value before even being considered",
-      "with consideration given to alternate point(s) of view but dismissed because one’s own point of view is intransigent/non-negotiable",
-      "with potential seen in other point(s) of view leading to possible tolerance of each other’s viewpoint [i.e., “live and let live” solution]",
-      "with potential seen in other point(s) of view as basis for compromise solution [i.e., where each party makes concessions]",
-      "with potential seen in other point(s) of view as basis for win-win outcome [i.e., where both solutions together are mutually advantageous]",
-      "with potential seen in other point(s) of view as basis for conceding one’s own point of view partially in favor of alternate point(s) of view",
-      "with potential seen in other point(s) of view as basis for conceding one’s own point of view entirely in favor of alternate point(s) of view"
+      "甚至没有想到在决定/行动之前以任何方式评估/考虑/分析情况",
+      "甚至没有想到评估/考虑（一个）观点以外的其他观点",
+      "以盲目忽略其他观点为前提，认为其无关或没有价值",
+      "考虑了替代观点但因个人观点不可调和/不可谈判而被忽视",
+      "看到其他观点的潜力，可能导致对彼此观点的容忍（即，“共存共荣”解决方案）",
+      "看到其他观点的潜力，作为妥协解决方案的基础（即，各方做出让步）",
+      "看到其他观点的潜力，作为双赢结果的基础（即，两种解决方案共同对双方有利）",
+      "看到其他观点的潜力，作为在某种程度上让步于替代观点的基础",
+      "看到其他观点的潜力，作为完全让步于替代观点的基础"
     ]
   },
   {
     "name": "CRD",
-    "description": "Degree of Crowdedness",
+    "description": "拥挤程度",
     "gradient_type": "A1",
     "cs": "řks",
     "associated_root": false,
     "degrees": [
       null,
-      "tightly packed together (“like sardines”) / with no space between components / with no room to move",
-      "packed together touching",
-      "packed together with minimal space between components / with barely enough room to move without touching others",
-      "crowded but with sufficient space to move around / loosely packed",
-      "somewhat crowded",
-      "not too crowded / lightly crowded / sufficient room to move around easily between components",
-      "uncrowded / somewhat sparse",
-      "sparse / spare / uncrowded / light",
-      "utterly sparse, spare, lone, solitary / the only one of / sole / unaccompanied; alone / by -self / on one’s own / unaccompanied / solely"
+      "紧密挤在一起（「像沙丁鱼」）/ 组件之间没有空间/ 没有移动的余地",
+      "挤在一起接触",
+      "挤在一起，组件之间只有最小的空间/ 只有勉强够动而不碰到其他人",
+      "拥挤但有足够的空间移动/ 松散挤在一起",
+      "有些拥挤",
+      "不太拥挤/ 轻微拥挤/ 组件之间有足够的空间轻松移动",
+      "不拥挤/ 稍微稀疏",
+      "稀疏/ 闲置/ 不拥挤/ 轻",
+      "完全稀疏、闲置、孤立/ 独身的/ 唯一/ 没有伴随的；单独/ 自己/ 一人的 / 独自的"
     ]
   },
   {
     "name": "EGY",
-    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State [i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:]",
+    "description": "运动/轨迹/外观/状态变化的启动力量/能量 [即，X的外观/存在/效果/行动结果来自以下初始状态/能量释放行为：]",
     "gradient_type": "0",
     "cs": "kz",
     "associated_root": false,
     "degrees": [
       null,
-      "spring forth (from within), i.e., release pent-up energy into an outward thrusting motion",
-      "release (to lower energy state, e.g., fall, let drop, let go, slide, let out, give out, etc.)",
-      "grow",
-      "wither",
-      "“keep running”, i.e., by either continuous or periodic addition of fuel/energy to flow, as in a water-wheel, a windmill, an engine, staying awake, working, etc.",
-      "spurt, spray, blow out, i.e., release through constriction under pressure",
-      "accumulate, i.e., grow via accretion",
-      "be drawn out or sucked out, i.e., forced translative motion through aperture via low-pressure differential",
-      "become agitated/excited/heated via external energy application"
+      "从内部弹出，即释放积聚的能量以向外冲击的运动",
+      "释放（降低能量状态，例如，掉落、放开、滑动、排出、散发等）",
+      "生长",
+      "凋零",
+      "「继续运行」，即通过不断或周期性地添加燃料/能量来保持流动，如水车、风车、引擎、保持清醒、工作等",
+      "喷发、喷射、吹出，即通过受压的收缩释放",
+      "积累，即通过逐渐增加生长",
+      "被抽出或吸出，即通过低压差通过开口进行强制平移运动",
+      "通过外部能量施加变得受鼓舞/兴奋/加热"
     ]
   },
   {
     "name": "SEX",
-    "description": "Biological [i.e., genetically-determined] Sex",
+    "description": "生物学性别[即，基因所决定]",
     "gradient_type": "D1",
     "cs": "š",
     "associated_root": true,
     "degrees": [
       null,
-      "born biologically/genetically female; of the female sex",
-      "different from / atypical of the female sex",
-      "born biologically/genetically male; of the male sex",
-      "different from / atypical of the male sex",
-      "born intersex / “hermaphrodite”",
-      "whose born sex is indiscernible/hidden/unknown/obscured",
-      "unisex; applying to or inclusive of both sexes",
-      "sex-based; formally differentiated/distinguished based on sex",
-      "sex-neutral; irrelevant in regard to sex"
+      "生为生物学/基因上的女性；生理女性的",
+      "不同于/非典型生理女性",
+      "出生为生物学/基因上的男性；生理男性的",
+      "不同于/非典型生理男性",
+      "生为双性/「雌雄同体」的",
+      "出生性别不可辨别/隐藏/未知/模糊的",
+      "中性；适用于或包含两种性别",
+      "基于性别的；根据性别正式区分/区别的",
+      "性别中立的；与性别无关的"
     ]
   },
   {
     "name": "GID",
-    "description": "Gender Identity [i.e., one’s chosen identification in relation to sex]",
+    "description": "性别认同 [即与性别相关的个人选择的认同]",
     "gradient_type": "D1",
     "cs": "c",
     "associated_root": false,
     "degrees": [
       null,
-      "female (gender identity, not necessarily biological sex)",
-      "intergender / androgynous (gender identity, not necessarily biological sex)",
-      "male (gender identity, not necessarily biological sex)",
-      "third gender [e.g., hijra, māhū, fakaleiti, fa’afafine]",
-      "non-binary gender identification",
-      "genderfluid, of varying gender identification",
-      "bigender, of multiple genders simultaneously",
-      "genderqueer",
-      "agender, without gender or gender identity being inapplicable/irrelevant"
+      "女性（性别认同，不一定是生物学性别）",
+      "间性/雌雄同体（性别认同，不一定是生物学性别）",
+      "男性（性别认同，不一定是生物学性别）",
+      "第三性 [例 Hijra、Māhū、Fakaleiti、Fa'afafine]",
+      "非二元性别认同",
+      "性别流动的，多变的性别认同",
+      "双性，同时具有多种性别的",
+      "性别酷儿",
+      "无性，性别或性别认同不适用/无关"
     ]
   },
   {
     "name": "SID",
-    "description": "Subjective Identity",
+    "description": "主观性身份认同",
     "gradient_type": "B",
     "cs": "lç",
     "associated_root": true,
     "degrees": [
       null,
-      "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
-      "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
-      "Psychologically/subjectively identifying oneself as conforming to one’s culture’s/society’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
-      "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X.",
-      "Psychologically/subjectively identifying oneself as conforming to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
-      "Psychologically/subjectively identifying oneself as conforming to one’s peer’s or community’s expectation of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others.",
-      "Psychologically/subjectively identifying and expressing oneself outward in conformance to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X.",
-      "Psychologically/subjectively identifying oneself as conforming to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity to an exclusive group of others.",
-      "Psychologically/subjectively identifying oneself as conforming to one’s own conception/impression of traits, behaviors and appearance of persons normally identifiable as being X, but only outwardly expressing such identity in private, unbeknownst to others."
+      "在心理上/主观上识别并表达自己，以符合文化/社会对通常被认定为 X 的人的特质、行为和外貌的期望。",
+      "在心理上/主观上识别自己符合文化/社会对通常被认定为 X 的人的特质、行为和外貌的期望，但仅对一个排他性群体外在地表达这种身份。",
+      "在心理上/主观上识别自己符合文化/社会对通常被认定为 X 的人的特质、行为和外貌的期望，但仅在私下里外在地表达这种身份，别人不知道。",
+      "在心理上/主观上识别并外在地表达自己，以符合同龄人或社区对通常被认定为 X 的人的特质、行为和外貌的期望。",
+      "在心理上/主观上识别自己符合同龄人或社区对通常被认定为 X 的人的特质、行为和外貌的期望，但仅对一个排他性群体外在地表达这种身份。",
+      "在心理上/主观上识别自己符合同龄人或社区对通常被认定为 X 的人的特质、行为和外貌的期望，但仅在私下里外在地表达这种身份，别人不知道。",
+      "在心理上/主观上识别并外在地表达自己，以符合自己对通常被认定为 X 的人的特质、行为和外貌的理解/印象。",
+      "在心理上/主观上识别自己符合自己对通常被认定为 X 的人的特质、行为和外貌的理解/印象，但仅对一个排他性群体外在地表达这种身份。",
+      "在心理上/主观上识别自己符合自己对通常被认定为 X 的人的特质、行为和外貌的理解/印象，但仅在私下里外在地表达这种身份，别人不知道。"
     ]
   },
   {
     "name": "CLG",
-    "description": "Cultural or Geo-Demographic Association (primarily used with carrier stems)",
+    "description": "文化或地理人口关联（主要用于载词干）",
     "gradient_type": "0",
     "cs": "ḑc",
     "associated_root": false,
     "degrees": [
       null,
-      "the spoken/written language associated with X",
-      "a historical event associated with X",
-      "the people/culture/society associated with X",
-      "the sense of socio-cultural identity/solidarity associated with X",
-      "a behavioral/personality trait or aesthetic style or physical characteristic associated with X",
-      "a practice/ritual associated with X",
-      "a belief associated with X",
-      "an item/artifact/object/costume/artwork or tangible accomplishment associated with X",
-      "the physical country/land/geographical domain associated with X"
+      "与 X 相关的口语/书面语言",
+      "与 X 相关的历史事件",
+      "与 X 相关的人民/文化/社会",
+      "与 X 相关的社会文化身份/团结感",
+      "与 X 相关的行为/个性特征或审美风格或物理特征",
+      "与 X 相关的实践/仪式",
+      "与 X 相关的信仰",
+      "与 X 相关的物品/工艺品/对象/服饰/艺术品或有形成就",
+      "与 X 相关的实际国家/土地/地理领域"
     ]
   },
   {
     "name": "OGC",
-    "description": "Orientation or Location Relative to a Geographical Central Point",
+    "description": "相对于地理中心点的朝向或位置",
     "gradient_type": "D1",
     "cs": "dn",
     "associated_root": false,
     "degrees": [
       null,
-      "northern",
-      "northwestern",
-      "western",
-      "northeastern",
-      "geographically central",
-      "southwestern",
-      "eastern",
-      "southeastern",
-      "southern"
+      "北方的",
+      "西北方的",
+      "西方的",
+      "东北方的",
+      "地理中心的",
+      "西南方的",
+      "东方的",
+      "东南方的",
+      "南方的"
     ]
   },
   {
     "name": "MSE",
-    "description": "Miscellaneous Entailments Associated with an Entity",
+    "description": "与实体相关的其他涵义",
     "gradient_type": "0",
     "cs": "zẓ",
     "associated_root": false,
     "degrees": [
       null,
-      "X offered/supplied/sold as a commodity",
-      "X packaged/processed for commercial sale/use",
-      "X as a coveted/guarded/protected/limited natural resource",
-      "X as a focal point of political contention",
-      "X as a focal point of geopolitical contention/war",
-      "X as a force of nature",
-      "X as the focal point/key to an inquiry/investigation/mystery",
-      "X as a causal/triggering element/circumstance for a story/plot/series of events",
-      "X as the source of one’s emotional state"
+      "作为商品提供/供应/销售的 X",
+      "作为商业销售/使用的包装/加工品的 X",
+      "作为珍贵/受保护/有限的自然资源的 X",
+      "作为政治争论的焦点的 X",
+      "作为地缘政治争论/战争的焦点的 X",
+      "作为自然力量的 X",
+      "作为调查/研究/谜团的核心/关键的 X",
+      "作为故事/情节/事件系列的因果/触发因素的 X",
+      "作为情感状态的来源的 X"
     ]
   },
   {
     "name": "PCM",
-    "description": "Primary Construction Material",
+    "description": "主要建筑材料",
     "gradient_type": "D1",
     "cs": "bḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "where X is made exclusively or primarily of wood",
-      "where X is made exclusively or primarily of metal",
-      "where X is made exclusively or primarily of ceramic or porcelain",
-      "where X is made exclusively or primarily of rubber",
-      "where X is made exclusively or primarily of glass",
-      "where X is made exclusively of resin or natural secretion",
-      "where X is made exclusively or primarily of plastic",
-      "where X is made exclusively or primarily of anartificial/synthetic material",
-      "where X is made exclusively or primarily of stone"
+      "X 完全或主要由木材制成",
+      "X 完全或主要由金属制成",
+      "X 完全或主要由陶瓷或白瓷制成",
+      "X 完全或主要由橡胶制成",
+      "X 完全或主要由玻璃制成",
+      "X 完全由树脂或自然分泌物制成",
+      "X 完全或主要由塑料制成",
+      "X 完全或主要由人造/合成材料制成",
+      "X 完全或主要由石材制成"
     ]
   },
   {
     "name": "STF",
-    "description": "Miscellaneous Surface Textures or Formations [e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.]",
+    "description": "各种表面纹理或形成 [例如，与表面上的物质或生长/病变相关，如地衣、霉菌、肿瘤等]",
     "gradient_type": "0",
     "cs": "žv",
     "associated_root": false,
     "degrees": [
       null,
-      "fruticose [i.e. structured/formed like a tuft or multiple-branched leafless mini-srub whether upright or hanging down]",
-      "foliose [i.e. structured/formed in 2D flat leaf-like lobes]",
-      "crustose [i.e. crust-like, adhering tightly to a surface/substrate like a thick coat of paint]",
-      "squamulose [i.e. formed of small leaf-like scales crust-like below but free at the tips]",
-      "leprose [i.e., powdery]",
-      "gelatinous [i.e. jelly-like]",
-      "filamentous [i.e. stringy or like matted hair]",
-      "byssoid [i.e. wispy, like teased wool or cotton candy]",
-      "imprinted [i.e. visibly distinct/different from the rest of the surface or substrate but texturally indistinct and imbued into and unseparable from the substrate]"
+      "灌木状[即结构/形成像一个小灌木或多分枝的无叶小灌木，无论是直立还是悬挂]",
+      "叶状[即结构/形成二维平面叶片状的角叶]",
+      "壳状[即壳状，紧紧附着在表面/基底上，如厚厚的一层涂料]",
+      "鳞状[即由小叶片状的鳞片组成，下面像壳状但尖端自由]",
+      "麻风状[即粉末状]",
+      "明胶状[即果冻状]",
+      "丝状[即像绳子或缠结的毛发]",
+      "绒毛状[即轻盈，像被梳理的羊毛或棉花糖]",
+      "印痕状[即明显不同于表面或基底的其他部分，但质地上无显著区别，且不可与基底分离]"
     ]
   },
   {
     "name": "MIA",
-    "description": "Musical Instrument Attributes",
+    "description": "乐器属性",
     "gradient_type": "0",
     "cs": "ţš",
     "associated_root": false,
     "degrees": [
       null,
-      "instrument is non-pitched",
-      "instrument has a (quasi-)fixed pitch but is untunable",
-      "instrument is tunable to a fixed pitch",
-      "instrument is tunable and capable of a controllable range of pitches while being played [e.g., talking drum, banyan drum of a set of tabla, cuica, etc.]",
-      "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch [e.g., tongue drum, steel drum]",
-      "instrument is a set of tunable individual component instruments, each set/tunable to a distinct pitch",
-      "instrument is playable/played using multiple modes of contact [e.g., with both hand or stick, by both bow and hand, by striking and rubbing, etc.]",
-      "instrument’s primary interface is via a keyboard or set of patterned buttons which trigger the actual striking/plucking/air-flow sounding mechanism",
-      "instrument is electrically/electronically amplified"
+      "乐器没有固定音高标准",
+      "乐器具有（准）固定音高但不可调音",
+      "乐器可以调音至固定音高",
+      "乐器可调音并能够在演奏时控制音高范围[例如，传讯鼓、塔布拉鼓组中的巴颜鼓、Cuíca 鼓等]",
+      "乐器是一个具有各种子部件或表面的单一组件，每个子部件或表面都可以调音/调到不同的音高[例如，木鼓、钢鼓]",
+      "乐器是一组可调音的单独组件乐器，每个组件/组都可以调音到不同的音高",
+      "乐器可以使用多种接触方式演奏/演奏[例如，用手或棒，弓和手，敲打和摩擦等]",
+      "乐器的主要接口通过键盘或一组模式按钮，这些按钮触发实际的敲击/拨动/气流发声机制",
+      "乐器是经电气/电子放大的"
     ]
   },
   {
     "name": "CAM",
-    "description": "Customization & Modifications",
+    "description": "定制与修改",
     "gradient_type": "B",
     "cs": "ḑç",
     "associated_root": false,
     "degrees": [
       null,
-      "the largest (bass-oriented) version of the usual X",
-      "a larger (baritone-oriented) version of the usual X",
-      "a smaller (treble- or soprano-oriented) version of the usual X",
-      "a modified/enhanced version of the usual X (to give it a greater note-range)",
-      "a modified/enhanced version of the usual X (to make it louder)",
-      "a modified/enhanced version of the usual X (to give it more power/resonance)",
-      "a modified/customized version of the usual X tailored to the operator’s specifications",
-      "a modified/customized version of the usual X tailored/sized for a child",
-      "a modified/customized version of the usual X tailored/simplified for learning"
+      "通常的 X 的最大（以低音为主）版本",
+      "通常的 X 的较大（以男中音为主）版本",
+      "通常的 X 的较小（以高音或女高音为主）版本",
+      "通常的 X 的改进/增强版（以扩展音域）",
+      "通常的 X 的改进/增强版（以增大音量）",
+      "通常的 X 的改进/增强版（以增强音质/共鸣）",
+      "根据操作员规格定制/修改的通常的 X 版本",
+      "为儿童量身定制/修改的通常的 X 版本",
+      "为学习简化/定制的通常 X 版本"
     ],
-    "notes": "This affix is primarily applied to stems for musical instruments, however it may be used as needed for other devices/objects where applicable."
+    "notes": "此词缀主要应用于音乐乐器的词干，但也可以根据需要用于其他适用的设备/对象。"
   },
   {
     "name": "GAB",
-    "description": "Musical Notes GAB",
+    "description": "音乐音符 GAB",
     "gradient_type": "A1",
     "cs": "řm",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(standard) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)",
-        "(relative) note/tone in A-flat/G-sharp; A♭/G♯ (le/si)"
+        "（标准）音符/音调 A-flat/G-sharp; A♭/G♯ (le/si)",
+        "（相对）音符/音调 A-flat/G-sharp; A♭/G♯ (le/si)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)",
-        "(relative) bending/meend applied to note/tone in A-flat/G-sharp; ~A♭/G♯ (~le/si)"
+        "（标准）弯音/滑音，应用于音符/音调 ~A♭/G♯ (~le/si)",
+        "（相对）弯音/滑音，应用于音符/音调 ~A♭/G♯ (~le/si)"
       ],
       [
-        "(standard) “blue” note/tone between A-flat and A; Aᑯ",
-        "(relative) “blue” note/tone between A-flat and A; Aᑯ"
+        "（标准）「蓝调」音符/音调，在其间：A-flat & A; Aᑯ",
+        "（相对）「蓝调」音符/音调，在其间：A-flat & A; Aᑯ"
       ],
       [
-        "(standard) note/tone in A; A (la)",
-        "(relative) note/tone in A; A (la)"
+        "（标准）音符/音调 A; A (la)",
+        "（相对）音符/音调 A; A (la)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in A; ~A (~la)",
-        "(relative) bending/meend applied to note/tone in A; ~A (~la)"
+        "（标准）弯音/滑音，应用于音符/音调  A; ~A (~la)",
+        "（相对）弯音/滑音，应用于音符/音调  A; ~A (~la)"
       ],
       [
-        "(standard) “blue” note/tone between A and A-sharp/B-flat; A╪",
-        "(relative) “blue” note/tone between A and A-sharp/B-flat; A╪"
+        "（标准）「蓝调」音符/音调，在其间：A & A-sharp/B-flat; A╪",
+        "（相对）「蓝调」音符/音调，在其间：A & A-sharp/B-flat; A╪"
       ],
       [
-        "(standard) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)",
-        "(relative) note/tone in B-flat/A-sharp; B♭/A♯ (te/li)"
+        "（标准）音符/音调 B-flat/A-sharp; B♭/A♯ (te/li)",
+        "（相对）音符/音调 B-flat/A-sharp; B♭/A♯ (te/li)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)",
-        "(relative) bending/meend applied to note/tone in B-flat/A-sharp; ~B♭/A♯ (~te/li)"
+        "（标准）弯音/滑音，应用于音符/音调  B-flat/A-sharp; ~B♭/A♯ (~te/li)",
+        "（相对）弯音/滑音，应用于音符/音调  B-flat/A-sharp; ~B♭/A♯ (~te/li)"
       ],
       [
-        "(standard) “blue” note/tone between B-flat and B; Bᑯ",
-        "(relative) “blue” note/tone between B-flat and B; Bᑯ"
+        "（标准）「蓝调」音符/音调，在其间：B-flat & B; Bᑯ",
+        "（相对）「蓝调」音符/音调，在其间：B-flat & B; Bᑯ"
       ]
     ],
-    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+    "notes": "甲型指的是标准音高（中央C上的A音= 440Hz）；乙型指的是由音乐家确定的相对音高标准。"
   },
   {
     "name": "BCD",
-    "description": "Musical Notes BCD",
+    "description": "音乐音符 BCD",
     "gradient_type": "A1",
     "cs": "řç",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(standard) note/tone in B; B (ti)",
-        "(relative) note/tone in B; B (ti)"
+        "（标准）音符/音调 B; B (ti)",
+        "（相对）音符/音调 B; B (ti)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in B; ~B (~ti)",
-        "(relative) bending/meend applied to note/tone in B; ~B (~ti)"
+        "（标准）弯音/滑音，应用于音符/音调  B; ~B (~ti)",
+        "（相对）弯音/滑音，应用于音符/音调  B; ~B (~ti)"
       ],
       [
-        "(standard) “blue” note/tone between B and C; Cᑯ/B╪",
-        "(relative) “blue” note/tone between B and C; Cᑯ/B╪"
+        "（标准）「蓝调」音符/音调，在其间：B & C; Cᑯ/B╪",
+        "（相对）「蓝调」音符/音调，在其间：B & C; Cᑯ/B╪"
       ],
       [
-        "(standard) note/tone in C; C (do)",
-        "(relative) note/tone in C; C (do)"
+        "（标准）音符/音调 C; C (do)",
+        "（相对）音符/音调 C; C (do)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in C; ~C (~do)",
-        "(relative) bending/meend applied to note/tone in C; ~C (~do)"
+        "（标准）弯音/滑音，应用于音符/音调  C; ~C (~do)",
+        "（相对）弯音/滑音，应用于音符/音调  C; ~C (~do)"
       ],
       [
-        "(standard) “blue” note/tone between C and C-sharp/D-flat; C╪",
-        "(relative) “blue” note/tone between C and C-sharp/D-flat; C╪"
+        "（标准）「蓝调」音符/音调，在其间：C & C-sharp/D-flat; C╪",
+        "（相对）「蓝调」音符/音调，在其间：C & C-sharp/D-flat; C╪"
       ],
       [
-        "(standard) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)",
-        "(relative) note/tone in C-sharp/D-flat; C♯/D♭ (di/ra)"
+        "（标准）音符/音调 C-sharp/D-flat; C♯/D♭ (di/ra)",
+        "（相对）音符/音调 C-sharp/D-flat; C♯/D♭ (di/ra)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)",
-        "(relative) bending/meend applied to note/tone in C-sharp/D-flat ~C♯/D♭ (~di/ra)"
+        "（标准）弯音/滑音，应用于音符/音调  C-sharp/D-flat ~C♯/D♭ (~di/ra)",
+        "（相对）弯音/滑音，应用于音符/音调  C-sharp/D-flat ~C♯/D♭ (~di/ra)"
       ],
       [
-        "(standard) “blue” note/tone between D-flat and D; Dᑯ",
-        "(relative) “blue” note/tone between D-flat and D; Dᑯ"
+        "（标准）「蓝调」音符/音调，在其间：D-flat & D; Dᑯ",
+        "（相对）「蓝调」音符/音调，在其间：D-flat & D; Dᑯ"
       ]
     ],
-    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+    "notes": "甲型指的是标准音高（中央C上的A音= 440Hz）；乙型指的是由音乐家确定的相对音高标准。"
   },
   {
     "name": "DEF",
-    "description": "Musical Notes DEF",
+    "description": "音乐音符 DEF",
     "gradient_type": "A1",
     "cs": "řļ",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(standard) note/tone in D; D (re)",
-        "(relative) note/tone in D; D (re)"
+        "（标准）音符/音调 D; D (re)",
+        "（相对）音符/音调 D; D (re)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in D; ~D (~re)",
-        "(relative) bending/meend applied to note/tone in D; ~D (~re)"
+        "（标准）弯音/滑音，应用于音符/音调  D; ~D (~re)",
+        "（相对）弯音/滑音，应用于音符/音调  D; ~D (~re)"
       ],
       [
-        "(standard) “blue” note/tone between D and D-sharp/E-flat; D╪",
-        "(relative) “blue” note/tone between D and D-sharp/E-flat; D╪"
+        "（标准）「蓝调」音符/音调，在其间：D & D-sharp/E-flat; D╪",
+        "（相对）「蓝调」音符/音调，在其间：D & D-sharp/E-flat; D╪"
       ],
       [
-        "(standard) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)",
-        "(relative) note/tone in E-flat/D-sharp; E♭/D♯ (me/ri)"
+        "（标准）音符/音调 E-flat/D-sharp; E♭/D♯ (me/ri)",
+        "（相对）音符/音调 E-flat/D-sharp; E♭/D♯ (me/ri)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)",
-        "(relative) bending/meend applied to note/tone in E-flat/D-sharp; ~E♭/D♯ (~me/ri)"
+        "（标准）弯音/滑音，应用于音符/音调  E-flat/D-sharp; ~E♭/D♯ (~me/ri)",
+        "（相对）弯音/滑音，应用于音符/音调  E-flat/D-sharp; ~E♭/D♯ (~me/ri)"
       ],
       [
-        "(standard) “blue” note/tone between E-flat and E; Eᑯ",
-        "(relative) “blue” note/tone between E-flat and E; Eᑯ"
+        "（标准）「蓝调」音符/音调，在其间：E-flat & E; Eᑯ",
+        "（相对）「蓝调」音符/音调，在其间：E-flat & E; Eᑯ"
       ],
       [
-        "(standard) note/tone in E; E (mi)",
-        "(relative) note/tone in E; E (mi)"
+        "（标准）音符/音调 E; E (mi)",
+        "（相对）音符/音调 E; E (mi)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in E; ~E (~mi)",
-        "(relative) bending/meend applied to note/tone in E; ~E (~mi)"
+        "（标准）弯音/滑音，应用于音符/音调  E; ~E (~mi)",
+        "（相对）弯音/滑音，应用于音符/音调  E; ~E (~mi)"
       ],
       [
-        "(standard) “blue” note/tone between E and F; E╪/Fᑯ",
-        "(relative) “blue” note/tone between E and F; E╪/Fᑯ"
+        "（标准）「蓝调」音符/音调，在其间：E & F; E╪/Fᑯ",
+        "（相对）「蓝调」音符/音调，在其间：E & F; E╪/Fᑯ"
       ]
     ],
-    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+    "notes": "甲型指的是标准音高（中央C上的A音= 440Hz）；乙型指的是由音乐家确定的相对音高标准。"
   },
   {
     "name": "FGA",
-    "description": "Musical Notes FGA",
+    "description": "音乐音符 FGA",
     "gradient_type": "A1",
     "cs": "rl",
     "associated_root": false,
     "degrees": [
       null,
       [
-        "(standard) note/tone in F; F (fa)",
-        "(relative) note/tone in F; F (fa)"
+        "（标准）音符/音调 F; F (fa)",
+        "（相对）音符/音调 F; F (fa)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in F; ~F (~fa)",
-        "(relative) bending/meend applied to note/tone in F; ~F (~fa)"
+        "（标准）弯音/滑音，应用于音符/音调  F; ~F (~fa)",
+        "（相对）弯音/滑音，应用于音符/音调  F; ~F (~fa)"
       ],
       [
-        "(standard) “blue” note/tone between F and F-sharp/G-flat; F╪",
-        "(relative) “blue” note/tone between F and F-sharp/G-flat; F╪"
+        "（标准）「蓝调」音符/音调，在其间：F & F-sharp/G-flat; F╪",
+        "（相对）「蓝调」音符/音调，在其间：F & F-sharp/G-flat; F╪"
       ],
       [
-        "(standard) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)",
-        "(relative) note tone in F-sharp/G-flat; F♯/G♭ (fi/se)"
+        "（标准）note tone in F-sharp/G-flat; F♯/G♭ (fi/se)",
+        "（相对）note tone in F-sharp/G-flat; F♯/G♭ (fi/se)"
       ],
       [
-        "(standard) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)",
-        "(relative) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
+        "（标准）bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)",
+        "（相对）bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
       ],
       [
-        "(standard) “blue” note/tone between G-flat and G; Gᑯ",
-        "(relative) “blue” note/tone between G-flat and G; Gᑯ"
+        "（标准）「蓝调」音符/音调，在其间：G-flat & G; Gᑯ",
+        "（相对）「蓝调」音符/音调，在其间：G-flat & G; Gᑯ"
       ],
       [
-        "(standard) note/tone in G; G (so)",
-        "(relative) note/tone in G; G (so)"
+        "（标准）音符/音调 G; G (so)",
+        "（相对）音符/音调 G; G (so)"
       ],
       [
-        "(standard) bending/meend applied to note/tone in G; ~G (~so)",
-        "(relative) bending/meend applied to note/tone in G; ~G (~so)"
+        "（标准）弯音/滑音，应用于音符/音调  G; ~G (~so)",
+        "（相对）弯音/滑音，应用于音符/音调  G; ~G (~so)"
       ],
       [
-        "(standard) “blue” note/tone between G and G-sharp/A-flat; G╪",
-        "(relative) “blue” note/tone between G and G-sharp/A-flat; G╪"
+        "（标准）「蓝调」音符/音调，在其间：G & G-sharp/A-flat; G╪",
+        "（相对）「蓝调」音符/音调，在其间：G & G-sharp/A-flat; G╪"
       ]
     ],
-    "notes": "Type-1 refers to standard pitch (the A-note above middle C = 440Hz); Type-2 refers to a relative pitch standard determined by the musician."
+    "notes": "甲型指的是标准音高（中央C上的A音= 440Hz）；乙型指的是由音乐家确定的相对音高标准。"
   },
   {
     "name": "ASC",
-    "description": "Areal/Spatial Scope",
+    "description": "地区/空间性范围",
     "gradient_type": "D1",
     "cs": "vḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "in the easily-accessible or visible vicinity of X; within the readily accessible or readily visible vicinity of X",
-      "in the area/space nearby X, in X’s neighborhood, in X’s general vicinity",
-      "in the quarter/district or general area surrounding X",
-      "local; in X’s locality; in the town where X is; in the place/town/locality/community/area where X is",
-      "regional; in X’s part of the larger geographic or geopolitical entity, e.g., in X’s part of the state, in X’s region, in X’s county/canton",
-      "geopolitically regional; at the state/provincial level; at the level, in X’s state/province, in X’s part of the country; geopolitically sub-national or in the geographically large area of; in the large region of, e.g., in the South, up North, having to do with the mountains/desert/plains, etc.",
-      "at the national level",
-      "international(ly); worldwide",
-      "universal"
+      "在 X 的容易接触或可见的附近；在 X 的易于接触或易于可见的邻近区域",
+      "在 X 附近的区域/空间，X 的邻近区域，X 的一般周围区域",
+      "在 X 周围的区/地区或一般区域",
+      "本地；在 X 的所在地；在 X 所在的城镇；在 X 所在的地方/城镇/社区/区域",
+      "区域；在 X 所在的更大地理或政治实体的部分，例如，X 所在的州、X 所在的区域、X所在的县/区",
+      "地缘政治区域；在国家/省级别；在 X 的州/省，X 所在的国家部分；地缘政治的次国家级别或在地理上大的区域；例如，在南方，在北方，涉及到山区/沙漠/平原等",
+      "在国家级别",
+      "国际（或）；全球",
+      "普遍的/影响全体的"
     ]
   },
   {
     "name": "AAA",
-    "description": "Areal/Cultural Association - East Asia",
+    "description": "区域/文化关联 - 东亚",
     "gradient_type": "D1",
     "cs": "sn",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient China",
-      "originating in, indigenous to, or associated w/ traditional/ancient Japan",
-      "originating in, indigenous to, or associated w/ traditional/ancient Korea",
-      "originating in, indigenous to, or associated w/ traditional/ancient Taiwan",
-      "originating in, indigenous to, or associated w/ East Asia",
-      "originating in, indigenous to, or associated w/ contemporary Taiwan",
-      "originating in, indigenous to, or associated w/ contemporary Korea",
-      "originating in, indigenous to, or associated w/ contemporary Japan",
-      "originating in, indigenous to, or associated w/ contemporary China"
+      "源自于、土生土长于或与之相关的：传统/古代中国",
+      "源自于、土生土长于或与之相关的：传统/古代日本",
+      "源自于、土生土长于或与之相关的：传统/古代朝鲜",
+      "源自于、土生土长于或与之相关的：传统/古代台湾",
+      "源自于、土生土长于或与之相关的：东亚",
+      "源自于、土生土长于或与之相关的：现代台湾",
+      "源自于、土生土长于或与之相关的：现代朝鲜",
+      "源自于、土生土长于或与之相关的：现代日本",
+      "源自于、土生土长于或与之相关的：现代中国"
     ]
   },
   {
     "name": "AAS",
-    "description": "Areal/Cultural Association - South Asia",
+    "description": "区域/文化关联 - 南亚",
     "gradient_type": "D1",
     "cs": "sň",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient India (including the areas comprising modern Pakistan, Bangladesh and Sri Lanka)",
-      "originating in, indigenous to, or associated w/ traditional/ancient Afghanistan",
-      "originating in, indigenous to, or associated w/ traditional/ancient Nepal",
-      "originating in, indigenous to, or associated w/ traditional/ancient Bhutan",
-      "originating in, indigenous to, or associated w/ South Asia",
-      "originating in, indigenous to, or associated w/ contemporary Bhutan",
-      "originating in, indigenous to, or associated w/ contemporary Nepal",
-      "originating in, indigenous to, or associated w/ contemporary Afghanistan",
-      "originating in, indigenous to, or associated w/ contemporary India, Pakistan, Bangladesh, Sri Lanka"
+      "源自于、土生土长于或与之相关的：传统/古代印度（包括现代巴基斯坦、孟加拉国和斯里兰卡）",
+      "源自于、土生土长于或与之相关的：传统/古代阿富汗",
+      "源自于、土生土长于或与之相关的：传统/古代尼泊尔",
+      "源自于、土生土长于或与之相关的：传统/古代不丹",
+      "源自于、土生土长于或与之相关的：南亚",
+      "源自于、土生土长于或与之相关的：现代不丹",
+      "源自于、土生土长于或与之相关的：现代尼泊尔",
+      "源自于、土生土长于或与之相关的：现代阿富汗",
+      "源自于、土生土长于或与之相关的：现代印度、巴基斯坦、孟加拉国、斯里兰卡"
     ]
   },
   {
     "name": "AAI",
-    "description": "Areal/Cultural Association - Southeast Asia / East Indies",
+    "description": "区域/文化关联 - 东南亚/东印度群岛",
     "gradient_type": "D1",
     "cs": "šn",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient eastern mainland Southeast Asia [i.e., Vietnam, Laos, Cambodia]",
-      "originating in, indigenous to, or associated w/ traditional/ancient western mainland Southeast Asia [i.e., Thailand, Myanmar]",
-      "originating in, indigenous to, or associated w/ traditional/ancient East Asian archipelago [i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea]",
-      "originating in, indigenous to, or associated w/ traditional/ancient Philippines",
-      "originating in, indigenous to, or associated w/ Southeast Asia/East Indies",
-      "originating in, indigenous to, or associated w/ contemporary Philippines",
-      "originating in, indigenous to, or associated w/ contemporary East Asian archipelago [i.e., Indonesia, Malaysia, Singapore, Brunei, Timor, Papua New Guinea]",
-      "originating in, indigenous to, or associated w/ contemporary western mainland Southeast Asia [i.e., Thailand, Myanmar]",
-      "originating in, indigenous to, or associated w/ contemporary eastern mainland Southeast Asia [i.e., Vietnam, Laos, Cambodia]"
+      "源自于、土生土长于或与之相关的：传统/古代东南亚大陆东部（即越南、老挝、柬埔寨）",
+      "源自于、土生土长于或与之相关的：传统/古代东南亚大陆西部（即泰国、缅甸）",
+      "源自于、土生土长于或与之相关的：传统/古代东亚群岛（即印度尼西亚、马来西亚、新加坡、文莱、东帝汶、巴布亚新几内亚）",
+      "源自于、土生土长于或与之相关的：传统/古代菲律宾",
+      "源自于、土生土长于或与之相关的：东南亚/东印度群岛",
+      "源自于、土生土长于或与之相关的：现代菲律宾",
+      "源自于、土生土长于或与之相关的：现代东亚群岛（即印度尼西亚、马来西亚、新加坡、文莱、东帝汶、巴布亚新几内亚）",
+      "源自于、土生土长于或与之相关的：现代东南亚大陆西部（即泰国、缅甸）",
+      "源自于、土生土长于或与之相关的：现代东南亚大陆东部（即越南、老挝、柬埔寨）"
     ]
   },
   {
     "name": "AAC",
-    "description": "Areal/Cultural Association - Central Asia (and non-Chinese cultures of the East Asian mainland)",
+    "description": "区域/文化关联 - 中亚（及东亚大陆的非汉文化）",
     "gradient_type": "D1",
     "cs": "šň",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient Tibet",
-      "originating in, indigenous to, or associated w/ traditional/ancient Mongolia",
-      "originating in, indigenous to, or associated w/ traditional/ancient Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen",
-      "originating in, indigenous to, or associated w/ traditional/ancient post-expansion non-Turkic Central Asian cultures [i.e., Tajiks, Dari, Bukhori]",
-      "originating in, indigenous to, or associated w/ Central Asia",
-      "originating in, indigenous to, or associated w/ contemporary non-Turkic Central Asian countries/cultures [i.e., Tajiks, Dari, Bukhori]",
-      "originating in, indigenous to, or associated w/ contemporary Turkic Central Asian countries/cultures[i.e., Kazakhs, Kyrgyz, Uyghurs, Uzbeks, Tatars, Turkmen]",
-      "originating in, indigenous to, or associated w/ contemporary Mongolia",
-      "originating in, indigenous to, or associated w/ contemporary Tibet"
+      "源自于、土生土长于或与之相关的：传统/古代西藏",
+      "源自于、土生土长于或与之相关的：传统/古代蒙古",
+      "源自于、土生土长于或与之相关的：传统/古代哈萨克斯坦、吉尔吉斯斯坦、维吾尔、乌兹别克斯坦、塔塔尔、土库曼斯坦",
+      "源自于、土生土长于或与之相关的：传统/古代扩展后非突厥中亚文化（即塔吉克、达里、布赫拉里）",
+      "源自于、土生土长于或与之相关的：中亚",
+      "源自于、土生土长于或与之相关的：现代非突厥中亚国家/文化（即塔吉克、达里、布赫拉里）",
+      "源自于、土生土长于或与之相关的：现代突厥中亚国家/文化（即哈萨克斯坦、吉尔吉斯斯坦、维吾尔族、乌兹别克斯坦、塔塔尔族、土库曼斯坦）",
+      "源自于、土生土长于或与之相关的：现代蒙古",
+      "源自于、土生土长于或与之相关的：现代西藏"
     ]
   },
   {
     "name": "AAM",
-    "description": "Areal/Cultural Association - Middle-East",
+    "description": "区域/文化关联 - 中东",
     "gradient_type": "D1",
     "cs": "cn",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient Arabian Peninsula",
-      "originating in, indigenous to, or associated w/ traditional/ancient Fertile Crescent & Levant area",
-      "originating in, indigenous to, or associated w/ traditional/ancient Anatolia & Cyprus",
-      "originating in, indigenous to, or associated w/ traditional/ancient Palestine",
-      "originating in, indigenous to, or associated w/ Middle East",
-      "originating in, indigenous to, or associated w/ contemporary Israel & Palestine",
-      "originating in, indigenous to, or associated w/ contemporary Turkey and Cyprus",
-      "originating in, indigenous to, or associated w/ contemporary Levantine and Fertile Crescent countries/cultures [i.e., Syria, Lebanon, Iraq, Iran, Kurdistan]",
-      "originating in, indigenous to, or associated w/ contemporary Arabian Peninsula [i.e., Saudi Arabia, Oman, Yemen, UAE, Bahrain, Qatar]"
+      "源自于、土生土长于或与之相关的：传统/古代阿拉伯半岛",
+      "源自于、土生土长于或与之相关的：传统/古代美索不达米亚弯月地区及黎凡特地区",
+      "源自于、土生土长于或与之相关的：传统/古代安那托利亚及塞浦路斯",
+      "源自于、土生土长于或与之相关的：传统/古代巴勒斯坦",
+      "源自于、土生土长于或与之相关的：中东",
+      "源自于、土生土长于或与之相关的：现代以色列及巴勒斯坦",
+      "源自于、土生土长于或与之相关的：现代土耳其及塞浦路斯",
+      "源自于、土生土长于或与之相关的：现代黎凡特及美索不达米亚弯月地区国家/文化 [即：叙利亚、黎巴嫩、伊拉克、伊朗、库尔德斯坦]",
+      "源自于、土生土长于或与之相关的：现代阿拉伯半岛 [即：沙特阿拉伯、阿曼、也门、阿联酋、巴林、卡塔尔]"
     ]
   },
   {
     "name": "AAH",
-    "description": "Areal/Cultural Association - Northern Africa & Horn of Africa",
+    "description": "区域/文化关联 - 北非及非洲之角",
     "gradient_type": "D1",
     "cs": "zn",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient Egypt and Nile Valley",
-      "originating in, indigenous to, or associated w/ traditional/ancient Horn of Africa",
-      "originating in, indigenous to, or associated w/ traditional/ancient North Africa/Maghreb",
-      "originating in, indigenous to, or associated w/ traditional/ancient Saharan Africa",
-      "originating in, indigenous to, or associated w/ Northern and Eastern Horn of Africa",
-      "originating in, indigenous to, or associated w/ contemporary Saharan Africa [i.e., Mauritania, Mali, Niger, Burkina Faso, Chad, Sudan]",
-      "originating in, indigenous to, or associated w/ contemporary North Africa/Maghreb",
-      "originating in, indigenous to, or associated w/ contemporary Horn of Africa [i.e., Ethiopia, Somalia, Eritrea, Djibouti]",
-      "originating in, indigenous to, or associated w/ contemporary Egypt and Nile Valley"
+      "源自于、土生土长于或与之相关的：传统/古代埃及及尼罗河流域",
+      "源自于、土生土长于或与之相关的：传统/古代非洲之角",
+      "源自于、土生土长于或与之相关的：传统/古代北非/马格里布",
+      "源自于、土生土长于或与之相关的：传统/古代撒哈拉非洲",
+      "源自于、土生土长于或与之相关的：非洲之角北部及东部",
+      "源自于、土生土长于或与之相关的：现代撒哈拉非洲 [即：毛里塔尼亚、马里、尼日尔、布基纳法索、乍得、苏丹]",
+      "源自于、土生土长于或与之相关的：现代北非/马格里布",
+      "源自于、土生土长于或与之相关的：现代非洲之角[即：埃塞俄比亚、索马里、厄立特里亚、吉布提]",
+      "源自于、土生土长于或与之相关的：现代埃及及尼罗河流域"
     ]
   },
   {
     "name": "AAF",
-    "description": "Areal/Cultural Association - Sub-Saharan Africa",
+    "description": "区域/文化关联 - 撒哈拉以南非洲",
     "gradient_type": "D1",
     "cs": "zň",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient West Coast and Benin Coast of Africa",
-      "originating in, indigenous to, or associated w/ traditional/ancient Central Africa",
-      "originating in, indigenous to, or associated w/ traditional/ancient Southern Africa",
-      "originating in, indigenous to, or associated w/ traditional/ancient East African Islands [i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.]",
-      "originating in, indigenous to, or associated w/ Sub-Saharan Africa",
-      "originating in, indigenous to, or associated w/ contemporary East African Islands [i.e., Madagascar, Zanzibar, Mauritius, Reunión, etc.]",
-      "originating in, indigenous to, or associated w/ contemporary Southern Africa [e.g., Namibia, South Africa, Lesotho, Mozambique. Zimbabwe, Zambia, Angola, Malawi]",
-      "originating in, indigenous to, or associated w/ contemporary Central Africa [i.e., Cameroon Central African Republic, Gabon, Congo, DRC, Rwanda, Uganda, Kenya]",
-      "originating in, indigenous to, or associated w/ contemporary West Coast and Benin Coast of Africa [i.e., countries from Senegal to Nigeria]"
+      "源自于、土生土长于或与之相关的：传统/古代非洲西海岸及贝宁海岸",
+      "源自于、土生土长于或与之相关的：传统/古代中部非洲",
+      "源自于、土生土长于或与之相关的：传统/古代南部非洲",
+      "源自于、土生土长于或与之相关的：传统/古代东非岛屿 [即：马达加斯加、桑给巴尔、毛里求斯、留尼汪等]",
+      "源自于、土生土长于或与之相关的：撒哈拉以南非洲",
+      "源自于、土生土长于或与之相关的：现代东非岛屿 [即：马达加斯加、桑给巴尔、毛里求斯、留尼汪等]",
+      "源自于、土生土长于或与之相关的：现代南部非洲 [即：纳米比亚、南非、莱索托、莫桑比克、津巴布韦、赞比亚、安哥拉、马拉维]",
+      "源自于、土生土长于或与之相关的：现代中部非洲 [即：喀麦隆、中非共和国、加蓬、刚果、民主刚果、卢旺达、乌干达、肯尼亚]",
+      "源自于、土生土长于或与之相关的：现代非洲西海岸及贝宁海岸 [即：从塞内加尔到尼日利亚的国家]"
     ]
   },
   {
     "name": "AAN",
-    "description": "Areal/Cultural Association - Northern & Western Europe",
+    "description": "区域/文化关联 - 北欧及西欧",
     "gradient_type": "D1",
     "cs": "žn",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient Celtic Europe (Gaul, Britain, Ireland, Scotland, North Sea and Channel islands)",
-      "originating in, indigenous to, or associated w/ ancent Teutonic Europe (Gothic lands, Norse lands)",
-      "originating in, indigenous to, or associated w/ traditional/ancient Baltic Europe (Estonia, Finland, Latvia, Lithuania, Karelia)",
-      "originating in, indigenous to, or associated w/ traditional/ancient Hungary",
-      "originating in, indigenous to, or associated w/ Northern and Western Europe",
-      "originating in, indigenous to, or associated w/ contemporary Hungary",
-      "originating in, indigenous to, or associated w/ contemporary Baltic countries (Estonia, Finland, Latvia, Lithuania)",
-      "originating in, indigenous to, or associated w/ contemporary Teutonic Europe (England, Teutonic Scandinavia, Germany, Low countries, Switzerland, Austria)",
-      "originating in, indigenous to, or associated w/ contemporary Celtic Europe [i.e., Ireland, Scotland, Wales, Brittany, Manx]"
+      "源自于、土生土长于或与之相关的：传统/古代凯尔特欧洲 (高卢、英国、爱尔兰、苏格兰、北海及海峡群岛)",
+      "源自于、土生土长于或与之相关的：古代条顿欧洲 (哥特土地、诺斯土地)",
+      "源自于、土生土长于或与之相关的：传统/古代波罗的海欧洲 (爱沙尼亚、芬兰、拉脱维亚、立陶宛、卡累利阿)",
+      "源自于、土生土长于或与之相关的：传统/古代匈牙利",
+      "源自于、土生土长于或与之相关的：北欧及西欧",
+      "源自于、土生土长于或与之相关的：现代匈牙利",
+      "源自于、土生土长于或与之相关的：现代波罗的海国家 (爱沙尼亚、芬兰、拉脱维亚、立陶宛)",
+      "源自于、土生土长于或与之相关的：现代条顿欧洲 (英格兰、条顿斯堪的纳维亚、德国、低地国家、瑞士、奥地利)",
+      "源自于、土生土长于或与之相关的：现代凯尔特欧洲 [即：爱尔兰、苏格兰、威尔士、布列塔尼、马恩岛]"
     ]
   },
   {
     "name": "AAE",
-    "description": "Areal/Cultural Association - Southern & Eastern Europe",
+    "description": "区域/文化关联 - 南欧及东欧",
     "gradient_type": "D1",
     "cs": "žň",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient Roman Empire, Iberia, France, Greece, Sicily, Corsica, Sardinia, Malta",
-      "originating in, indigenous to, or associated w/ traditional/ancient Balkans (southeastern Europe, Romania)",
-      "originating in, indigenous to, or associated w/ traditional/ancient Eastern/Slavic Europe other than the Balkans",
-      "originating in, indigenous to, or associated w/ traditional/ancient Caucasus/Caspian/Trans-Caucasia [e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia]",
-      "originating in, indigenous to, or associated w/ Southern and Eastern Europe",
-      "originating in, indigenous to, or associated w/ contemporary Caucasus/Caspian/Trans-Caucasia [e.g., Georgia, Armenia, Azerbaijan, Caucasus Mtns., Kalmykia]",
-      "originating in, indigenous to, or associated w/ contemporary Eastern/Slavic Europe other than the Balkans [e.g., Russia, Ukraine, Belarus, Poland, Czechia, Slovakia]",
-      "originating in, indigenous to, or associated w/ contemporary Balkans (Croatia, Serbia, Slovenia, Montenegro, Bosnia, Bulgaria, N. Macedonia, Romania, Moldova)",
-      "originating in, indigenous to, or associated w/ contemporary Mediterranean Europe [i.e., Iberian Peninsula, Italy, Greece, the Balkan coast, Mediterranean islands]"
+      "源自于、土生土长于或与之相关的：传统/古代罗马帝国、伊比利亚半岛、法国、希腊、西西里、科西嘉、撒丁岛、马耳他",
+      "源自于、土生土长于或与之相关的：传统/古代巴尔干半岛 (东南欧、罗马尼亚)",
+      "源自于、土生土长于或与之相关的：传统/古代东欧/斯拉夫欧洲（巴尔干以外）",
+      "源自于、土生土长于或与之相关的：传统/古代高加索/里海/外高加索 [例如：格鲁吉亚、亚美尼亚、阿塞拜疆、高加索山脉、卡尔梅克]",
+      "源自于、土生土长于或与之相关的：南欧及东欧",
+      "源自于、土生土长于或与之相关的：现代高加索/里海/外高加索 [例如：格鲁吉亚、亚美尼亚、阿塞拜疆、高加索山脉、卡尔梅克]",
+      "源自于、土生土长于或与之相关的：现代东欧/斯拉夫欧洲（巴尔干以外）[例如：俄罗斯、乌克兰、白俄罗斯、波兰、捷克、斯洛伐克]",
+      "源自于、土生土长于或与之相关的：现代巴尔干半岛 (克罗地亚、塞尔维亚、斯洛文尼亚、黑山、波斯尼亚、保加利亚、北马其顿、罗马尼亚、摩尔多瓦)",
+      "源自于、土生土长于或与之相关的：现代地中海欧洲 [即：伊比利亚半岛、意大利、希腊、巴尔干海岸、地中海岛屿]"
     ]
   },
   {
     "name": "AAW",
-    "description": "Areal/Cultural Association - Western Hemisphere",
+    "description": "区域/文化关联 - 西半球",
     "gradient_type": "D1",
     "cs": "jn",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient North America",
-      "originating in, indigenous to, or associated w/ traditional/ancient Central America",
-      "originating in, indigenous to, or associated w/ traditional/ancient Caribbean",
-      "originating in, indigenous to, or associated w/ traditional/ancient South America",
-      "originating in, indigenous to, or associated w/ Western Hemisphere",
-      "originating in, indigenous to, or associated w/ contemporary South America",
-      "originating in, indigenous to, or associated w/ contemporary Caribbean",
-      "originating in, indigenous to, or associated w/ contemporary Central America",
-      "originating in, indigenous to, or associated w/ contemporary North America"
+      "源自于、土生土长于或与之相关的：传统/古代北美洲",
+      "源自于、土生土长于或与之相关的：传统/古代中美洲",
+      "源自于、土生土长于或与之相关的：传统/古代加勒比海地区",
+      "源自于、土生土长于或与之相关的：传统/古代南美洲",
+      "源自于、土生土长于或与之相关的：西半球",
+      "源自于、土生土长于或与之相关的：现代南美洲",
+      "源自于、土生土长于或与之相关的：现代加勒比海地区",
+      "源自于、土生土长于或与之相关的：现代中美洲",
+      "源自于、土生土长于或与之相关的：现代北美洲"
     ]
   },
   {
     "name": "AAO",
-    "description": "Areal/Cultural Association - Other Areas",
+    "description": "区域/文化关联 - 其他地区",
     "gradient_type": "D1",
     "cs": "jň",
     "associated_root": false,
     "degrees": [
       null,
-      "originating in, indigenous to, or associated w/ traditional/ancient Polynesia and Pacific Islands",
-      "originating in, indigenous to, or associated w/ traditional/ancient Australia & New Zealand",
-      "originating in, indigenous to, or associated w/ traditional/ancient Western and Central Siberia",
-      "originating in, indigenous to, or associated w/ traditional/ancient Eastern Siberia",
-      "originating in, indigenous to, or associated w/ Polynesia, Australia, New Zealand, or Siberia",
-      "originating in, indigenous to, or associated w/ contemporary Eastern Siberia",
-      "originating in, indigenous to, or associated w/ contemporary Western and Central Siberia",
-      "originating in, indigenous to, or associated w/ contemporary Australia & New Zealand",
-      "originating in, indigenous to, or associated w/ contemporary Polynesia and Pacific Islands"
+      "源自于、土生土长于或与之相关的：传统/古代波利尼西亚及太平洋岛屿",
+      "源自于、土生土长于或与之相关的：传统/古代澳大利亚及新西兰",
+      "源自于、土生土长于或与之相关的：传统/古代西伯利亚西部及中部",
+      "源自于、土生土长于或与之相关的：传统/古代西伯利亚东部",
+      "源自于、土生土长于或与之相关的：波利尼西亚、澳大利亚、新西兰或西伯利亚",
+      "源自于、土生土长于或与之相关的：现代西伯利亚东部",
+      "源自于、土生土长于或与之相关的：现代西伯利亚西部及中部",
+      "源自于、土生土长于或与之相关的：现代澳大利亚及新西兰",
+      "源自于、土生土长于或与之相关的：现代波利尼西亚及太平洋岛屿"
     ]
   },
   {
     "name": "DDM",
-    "description": "Degree of Domestication",
+    "description": "驯化程度",
     "gradient_type": "D1",
     "cs": "mḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "utterly wild, savage and untamable",
-      "wild/savage unknown if approachable/tamable",
-      "wild/savage but species known to be approachable and potentially tamable",
-      "in the process of domestication, being tamed",
-      "half-savage/half-wild, half-tamed, half-domesticated",
-      "fairly domesticated, fairly tame, but potentially subject to reversion to wild state",
-      "sufficiently domesticated/tamed",
-      "fully domesticated/tamed",
-      "permanently domesticated w/o possibility of returning to a wild state (genetically adapted)"
+      "完全野生、野蛮且无法驯化",
+      "野生/野蛮，未知是否可接近/驯化",
+      "野生/野蛮，但已知物种可接近且有可能驯化",
+      "正在驯化过程中，正在被驯化",
+      "半野生/半驯化",
+      "相当驯化，相当温顺，但可能会重新变回野生状态",
+      "足够驯化",
+      "完全驯化",
+      "永久驯化，无法返回野生状态（经基因适应）"
     ]
   },
   {
     "name": "CVL",
-    "description": "Degree of Civilization",
+    "description": "文明程度",
     "gradient_type": "D1",
     "cs": "řsk",
     "associated_root": false,
     "degrees": [
       null,
-      "hunter-gatherer status with little ability to forestall adversities such as hunger, disease, or invasion/war",
-      "agricultural/agrarian society with limited ability to forestall adversities such as famine, disease, or invasion/war",
-      "transitional society between agrarian and socio-economically complex society, with wide variance in individual socio-economic status, stability, or individual impact of hunger, disease, opportunities, etc.",
-      "socially and economically complex society with sufficient technology to limit the impact of famine, disease, or hardship but unstable due to the continuous impact of politics, war, greed, crime, etc.",
-      "socially and economically complex society with high level of technology and basic human needs met, but still driven by individual agenda and competition",
-      "having achieved a stable and high state of civilization via technology and emotional/psychological maturity/stability and long-term foresight with dual focus on collective security and individual purpose/discovery/potential",
-      "having surmounted the confines/limits of brief lifespan and individual consciousness",
-      "universal; having reached the point of existing beyond the confines/limits of such things as corporeality, time, space — having achieved a universal consciousness",
-      "transcendent; having reached the point of existing beyond the confines/limits of time, space, corporeality, or direct concerns with the material universe"
+      "猎人采集者状态，几乎无法防范饥饿、疾病或入侵/战争等逆境",
+      "农业/农耕社会，能够有限地防范饥荒、疾病或入侵/战争等逆境",
+      "农业与社会经济复杂社会之间的过渡社会，个体社会经济状况、稳定性或饥饿、疾病、机会等的影响差异很大",
+      "社会和经济复杂的社会，具备足够的技术以限制饥荒、疾病或困境的影响，但由于政治、战争、贪婪、犯罪等持续影响而不稳定",
+      "社会和经济复杂的社会，技术水平高，基本人类需求得到满足，但仍由个人议程和竞争驱动",
+      "通过技术和情感/心理成熟/稳定及长期远见，达到了稳定且高水平的文明状态，双重关注集体安全和个人目的/发现/潜力",
+      "已超越短暂寿命和个人意识的限制",
+      "普遍；已达到超越物质性、时间、空间等限制的地步——实现了普遍意识",
+      "超越；已达到超越时间、空间、物质性或对物质宇宙直接关注的地步"
     ]
   },
   {
     "name": "HEA",
-    "description": "State of Health",
+    "description": "健康状态",
     "gradient_type": "0",
     "cs": "žf",
     "associated_root": true,
     "degrees": [
       null,
-      "in the prime of health, completely healthy, without any illness, malady, injury, or incapacity",
-      "suffering from a temporary illness or malady causing some degree of impairment or incapacity",
-      "suffering from a major illness or malady causing significant impairment or incapacity",
-      "malnourished/under-nourished/emaciated, suffering from malnutrition and/or long-term lack of proper care",
-      "suffering from a temporary/mild injury causing some degree of impairment or incapacity",
-      "suffering from a major injury causing significant impairment or incapacity",
-      "permanently impaired/incapacitated due to having suffered a life-altering injury or illness",
-      "chronically sick/ill to the point of (seemingly) permanent decrepitude/impairment",
-      "permanently bed-ridden and incapable of caring for one’s basic needs due to chronic illness or physical decrepitude/incapacity"
+      "健康状态良好，完全健康，没有任何疾病、病症、伤害或失能",
+      "因暂时的疾病或病症而造成某种程度的损害或失能",
+      "因主要疾病或病症而造成显著的损害或失能",
+      "营养不良/营养不足/瘦弱，因营养不良和/或长期缺乏适当照顾而受苦",
+      "因暂时/轻微的伤害而造成某种程度的损害或失能",
+      "因主要伤害而造成显著的损害或失能",
+      "因遭受生活改变性伤害或疾病而永久性失能",
+      "长期生病/虚弱到（似乎）永久性衰弱/损害",
+      "因慢性疾病或身体衰弱/失能而长期卧床不起，无法照顾自身基本需求"
     ]
   },
   {
     "name": "ADI",
-    "description": "Adverse Disease/Disorder/Illness",
+    "description": "不良疾病/失调/疾病",
     "gradient_type": "C",
     "cs": "lkř",
     "associated_root": false,
     "degrees": [
       null,
-      "temporarily asymptomatic despite having [contracted] condition/illness/disorder/pathogen X",
-      "temporarily mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-      "temporarily moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-      "temporarily severely ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-      "dead/deceased due to having [contracted] condition/illness/disorder/pathogen X [CPT=deceased]",
-      "permanently or chronically severely ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-      "permanently or chronically moderately ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-      "permanently or chronically mildly ill/symptomatic due to having [contracted] condition/illness/disorder/pathogen X",
-      "permanently or chronically asymptomatic despite having [contracted] condition/illness/disorder/pathogen X"
+      "尽管已感染条件/疾病/失调/病原体X，但暂时没有症状",
+      "因感染条件/疾病/失调/病原体X而暂时轻度生病/有症状",
+      "因感染条件/疾病/失调/病原体X而暂时中度生病/有症状",
+      "因感染条件/疾病/失调/病原体X而暂时重度生病/有症状",
+      "因感染条件/疾病/失调/病原体 X 而死亡/已故",
+      "因感染条件/疾病/失调/病原体X而长期或慢性重度生病/有症状",
+      "因感染条件/疾病/失调/病原体X而长期或慢性中度生病/有症状",
+      "因感染条件/疾病/失调/病原体X而长期或慢性轻度生病/有症状",
+      "尽管感染了条件/疾病/失调/病原体X，但长期或慢性无症状"
     ]
   },
   {
     "name": "ASP",
-    "description": "Attributes of Sub-Atomic Particles",
+    "description": "亚原子粒子的属性",
     "gradient_type": "0",
     "cs": "xj",
     "associated_root": false,
     "degrees": [
       null,
-      "having opposite charge, antimatter version of X",
-      "super-symmetrical partner of X, “sparticle” counterpart of X, e.g., photino, gluino, gravitino, slepton, squark, sneutrino, etc.",
-      "spin value (intrinsic angular momentum) of particle X",
-      "orbital angular momentum of particle X",
-      "mass of particle X",
-      "isospin of particle X",
-      "parity of particle X",
-      "G-parity of particle X",
-      "C-parity of particle X"
+      "具有 X 的相反电荷/反物质版本",
+      "X 的超对称伴子，例如，光微子、胶子、引力子、轻子、夸克、反轻子等",
+      "粒子 X 的自旋值（固有角动量）",
+      "粒子 X 的轨道角动量",
+      "粒子 X 的质量",
+      "粒子 X 的同位旋",
+      "粒子 X 的宇称",
+      "粒子 X 的G-宇称",
+      "粒子 X 的C-宇称"
     ]
   },
   {
     "name": "CFQ",
-    "description": "“Colors” and “Flavors” of Quarks",
+    "description": "夸克的「色」和「味」",
     "gradient_type": "0",
     "cs": "bj",
     "associated_root": false,
     "degrees": [
       null,
-      "up",
-      "charm",
-      "top",
-      "red",
-      "green",
-      "blue",
-      "bottom",
-      "strange",
-      "down"
+      "上夸克",
+      "魅夸克",
+      "顶夸克",
+      "红",
+      "绿",
+      "蓝",
+      "底夸克",
+      "奇夸克",
+      "下夸克"
     ]
   },
   {
     "name": "ION",
-    "description": "Ionic Compounding Elements",
+    "description": "离子化合元素",
     "gradient_type": "C",
     "cs": "ltř",
     "associated_root": false,
     "degrees": [
       null,
-      "transition metal cation with +1 charge",
-      "transition metal cation with +2 charge",
-      "transition metal cation with +3 charge",
-      "transition metal cation with +4 charge",
-      "hydrogen + anion acid (hydro … ic acid), e.g., when used with chlorine, this results in hydrochloric acid, i.e., hydrochloride / chlorhydrate",
-      "compounding anion with -4 charge",
-      "compounding anion with -3 charge",
-      "compounding anion with -2 charge",
-      "compounding anion with -1 charge"
+      "带+1电荷的过渡金属阳离子",
+      "带+2电荷的过渡金属阳离子",
+      "带+3电荷的过渡金属阳离子",
+      "带+4电荷的过渡金属阳离子",
+      "氢 + 阴离子酸（既 hydro-...-ic acid 氢……酸）例如，与氯一同使用则产生盐酸，即盐酸盐",
+      "带-4电荷的化合阴离子",
+      "带-3电荷的化合阴离子",
+      "带-2电荷的化合阴离子",
+      "带-1电荷的化合阴离子"
     ],
-    "notes": "Ionic Compounds — inorganic compounds between metals [cations] and non-metals [anions] (like English -ide suffix but with electron charge explicitly stated)"
+    "notes": "离子化合物：用于金属[阳离子]和非金属[阴离子]之间的无机化合物（类似于英语中的-ide后缀，但明确指出了电子电荷）。"
   },
   {
     "name": "AMC",
-    "description": "Number of Atoms in a Molecular Compound",
+    "description": "分子化合物的原子数量",
     "gradient_type": "A1",
     "cs": "rtl",
     "associated_root": false,
     "degrees": [
       null,
-      "deca-*",
-      "di-",
-      "tri-",
-      "tetra-",
-      "penta-",
-      "hexa-",
-      "hepta-",
-      "octa-",
-      "nona-"
+      "deca- 十*",
+      "di-  二",
+      "tri- 三",
+      "tetra- 四",
+      "penta- 五",
+      "hexa- 六",
+      "hepta- 七",
+      "octa- 八",
+      "nona- 九"
     ],
-    "notes": "Molecular Compounds — inorganic compounds between nonmetals\n\n* A single atom (equivalent to English “mono-”) is indicated by the absence of the suffix; therefore Degree 1 of this affix is used to signify ten atoms (deca-)."
+    "notes": "分子化合物：非金属之间的无机化合物\n\n* 单个原子（相当于英语中的 mono-）通过没有后缀来表示；因此，这个后缀的程度一用来表示十个原子（deca-）。"
   },
   {
     "name": "PIA",
-    "description": "Polyatomic Ions A",
+    "description": "多原子离子 A",
     "gradient_type": "0",
     "cs": "cţ",
     "associated_root": false,
     "degrees": [
       null,
-      "sulfate",
-      "nitrate",
-      "chlorate",
-      "arsenate",
-      "carbonate",
-      "chromate",
-      "bromate",
-      "phosphate",
-      "iodate"
+      "硫酸根 sulfate",
+      "硝酸根 nitrate",
+      "氯酸根 chlorate",
+      "砷酸根 arsenate",
+      "碳酸根 carbonate",
+      "铬酸根 chromate",
+      "溴酸根 bromate",
+      "磷酸根 phosphate",
+      "碘酸根 iodate"
     ]
   },
   {
     "name": "PIB",
-    "description": "Polyatomic Ions B",
+    "description": "多原子离子 B",
     "gradient_type": "0",
     "cs": "ẓţ",
     "associated_root": false,
     "degrees": [
       null,
-      "sulfite",
-      "nitrite",
-      "chlorite",
-      "arsenite",
-      "hydroxide",
-      "chromite",
-      "bromite",
-      "phosphite",
-      "iodite"
+      "亚硫酸根 sulfite",
+      "亚硝酸根 nitrite",
+      "亚氯酸根 chlorite",
+      "亚砷酸根 arsenite",
+      "氢氧酸根 hydroxide",
+      "亚铬酸根 chromite",
+      "亚溴酸根 bromite",
+      "亚磷酸根 phosphite",
+      "亚碘酸根 iodite"
     ]
   },
   {
     "name": "PIC",
-    "description": "Polyatomic Ions C",
+    "description": "多原子离子 C",
     "gradient_type": "0",
     "cs": "čţ",
     "associated_root": false,
     "degrees": [
       null,
-      "peroxide",
-      "silicate",
-      "citrate",
-      "acetate",
-      "oxide",
-      "cyanide",
-      "tartrate",
-      "formate",
-      "oxalate"
+      "过氧酸根 peroxide",
+      "硅酸根 silicate",
+      "柠檬酸根 citrate",
+      "乙酸根 acetate",
+      "氧酸根 oxide",
+      "氰酸根 cyanide",
+      "酒石酸根 tartrate",
+      "甲酸根 formate",
+      "草酸根 oxalate"
     ]
   },
   {
     "name": "PID",
-    "description": "Polyatomic Ions D",
+    "description": "多原子离子 D",
     "gradient_type": "0",
     "cs": "jţ",
     "associated_root": false,
     "degrees": [
       null,
-      "thiocyanate",
-      "thiosulfate",
-      "glycol",
-      "hexacyanoferrate",
-      "permanganate",
-      "succinate",
-      "azanide / amide",
-      "manganate",
-      "benzoate"
+      "硫氰酸根 thiocyanate",
+      "硫代硫酸根 thiosulfate",
+      "二元醇 glycol",
+      "六氰合铁酸根 hexacyanoferrate",
+      "高锰酸根 permanganate",
+      "琥珀酸根 succinate",
+      "氨酸根 azanide / 酰胺 amide",
+      "锰酸根 manganate",
+      "苯甲酸根 benzoate"
     ]
   },
   {
     "name": "CPI",
-    "description": "Polyatomic Cations",
+    "description": "多原子阳离子",
     "gradient_type": "0",
     "cs": "zţ",
     "associated_root": false,
     "degrees": [
       null,
-      "ammonium",
-      "fluoronium",
-      "hydronium",
-      "pyrylium",
-      "phosphonium",
-      "guanidinium",
-      "tropylium",
-      "triphenylcarbenium",
-      "cyclopropenium"
+      "铵根 ammonium",
+      "氟化氢根 fluoronium",
+      "水合氢离子 hydronium",
+      "吡喃鎓离子 pyrylium",
+      "磷𬭩离子 phosphonium",
+      "胍盐正离子 guanidinium",
+      "环庚三烯正离子 tropylium",
+      "三苯基碳烯正离子 triphenylcarbenium",
+      "环丙烯正离子 cyclopropenium"
     ]
   },
   {
     "name": "API",
-    "description": "Additional Polyatomic Ionic Configurations",
+    "description": "额外多原子离子构型",
     "gradient_type": "0",
     "cs": "žţ",
     "associated_root": false,
     "degrees": [
       null,
-      "-ate (base oxyanion), e.g., sulfate",
-      "-ite [i.e., one less oxyanion than base form], e.g., sulfite",
-      "hypo- … -ite (two less oxyanions than base form), e.g., hyposulfite",
-      "per- … -ate (one more oxyanion than base form), e.g., persulfate",
-      "-ide (anionic element where electron charge not specified), e.g., sulfide",
-      "bi- … -ate / hydrogen … -ate (hydrogen + one oxyanion more than base form), e.g., bisulfate",
-      "dihydrogen … -ate (two hydrogens + one oxyanion more than base form), e.g., dihydrogen phosphate",
-      "di- … -ate (two atoms of an element + one oxyanion more than base form), e.g., dichromate",
-      "di … -ide (two atoms of an element + base oxyanion), e.g., disulfide"
+      "-ate（基础含氧酸阴离子）如硫酸根 sulfate",
+      "-ite（少一个含氧酸阴离子）如亚硫酸根 sulfite",
+      "hypo- … -ite（少两个含氧酸阴离子）如次硫酸根 hyposulfite",
+      "per- … -ate（多一个含氧酸阴离子）如过硫酸根 persulfate",
+      "-ide（阴离子元素，未指定电子电荷）如硫化物 sulfide",
+      "bi- … -ate / hydrogen … -ate（氢+多一个含氧酸阴离子）硫酸氢根 bisulfate",
+      "dihydrogen … -ate（二氢+多一个含氧酸阴离子）如磷酸二氢根 dihydrogen phosphate",
+      "di- … -ate（某元素的两个分子+多一个含氧酸阴离子）重铬酸根 dichromate",
+      "di … -ide（某元素的两个分子+基础含氧酸阴离子）二硫化物 disulfide"
     ],
-    "notes": "Since the abbreviation of this affix in the original pdf conflicts with the abbreviation of -čţ-, a new abbreviation has been unofficially assigned."
+    "notes": "由于原始PDF中该词缀的缩写与-čţ-的缩写冲突，因此已非正式地分配了新的缩写。"
   },
   {
     "name": "GPA",
-    "description": "Functional Group A",
+    "description": "官能团 A",
     "gradient_type": "0",
     "cs": "sḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "alkane, alkyl-, -ane",
-      "alkene, alkenyl-, -ene",
-      "alkyne, alkynyl-, -yne",
-      "benzene deriv., phenyl-, benzene",
-      "halo-, alkyl halide",
-      "fluoro-, alkyl fluoride",
-      "chloro-, alkyl chloride",
-      "bromo-, alkyl bromide",
-      "iodo-, alkyl iodide"
+      "烷烃 alkane, 烷基- alkyl-, -烷 -ane",
+      "烯烃 alkene, 烯基- alkenyl-, -烯 -ene",
+      "炔烃 alkyne, 炔基- alkynyl-, -炔 -yne",
+      "苯衍生物 benzene deriv., 苯基 phenyl-, 苯 benzene",
+      "卤代- halo-, 烷基卤代化合物 alkyl halide",
+      "氟代- fluoro-, 烷基氟化物 alkyl fluoride",
+      "氯代- chloro-, 烷基氯化物 alkyl chloride",
+      "溴代- bromo-, 溴代烷基 alkyl bromide",
+      "碘代- iodo-, 烷基碘化物 alkyl iodide"
     ]
   },
   {
     "name": "GPB",
-    "description": "Functional Group B",
+    "description": "官能团 B",
     "gradient_type": "0",
     "cs": "sļ",
     "associated_root": false,
     "degrees": [
       null,
-      "hydroxil, hydroxy-, -ol",
-      "carbonyl, oxo-, -oyl-, -one",
-      "aldehyde, -formyl-, -al",
-      "haloformyl, carbono- … -oyl-, -oyl halide",
-      "carbonate ester, alkoxycarbonyloxy-, alkyl carbonate",
-      "carboxylate, carboxylato-, -oate",
-      "carboxyl, carboxy-, -oic acid",
-      "carboalcoxy, alkanoyloxy-, alkyl alkanoate",
-      "methoxy, methoxy-"
+      "羟基 hydroxil, 羟基 hydroxy-, 醇 -ol",
+      "羰基 carbonyl, 氧亚基 oxo-, 酰基 -oyl-, 酮 -one",
+      "醛 aldehyde, 甲酰基 -formyl-, 醛 -al",
+      "卤代甲酰基 haloformyl, 羰……甲酰基 carbono...oyl-, 酰卤 -oyl halide",
+      "碳酸酯 carbonate ester, 烷氧羰基氧基 alkoxycarbonyloxy-, 烷基碳酸酯 alkyl carbonate",
+      "羧酸根 carboxylate, 氧负(离子)羰基 carboxy-, 酸(根)负离子 -oate",
+      "羧基 carboxyl, 羧基-(羟羰基-) carboxy-, 羧酸 -oic acid",
+      "碳烷氧基 carboalcoxy, 烷酰氧基- alkanoyloxy-, 烷基烷酰酸(烃)基酯 alkyl alkanoate",
+      "甲氧基 methoxy, methoxy-"
     ]
   },
   {
     "name": "GPC",
-    "description": "Functional Group C",
+    "description": "官能团 C",
     "gradient_type": "0",
     "cs": "šḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "hydroperoxy-, alkyl hydroperoxide",
-      "peroxy-, alkyl peroxide",
-      "ether, alkoxy-, alkyl ether",
-      "hemiacetal, alkoxy -ol, -al alkyl hemiacetal",
-      "hemiketal, alxoxy -ol, -one alkyl hemiketal",
-      "acetal, dialkoxy-, -al dialkyl acetal",
-      "ketal, dialcoxy-, -one dialkyl ketal",
-      "orthoester, -trialkoxy",
-      "orthocarbonate ester, tetralkoxy-, tetraalkyl orthocarbonate"
+      "过羟基- hydroperoxy-, 烷基氢过氧化物 alkyl hydroperoxide",
+      "过氧基 peroxy-, 烷基过氧化物 alkyl peroxide",
+      "醚 ether, 烷氧基 alkoxy-, 烷基醚 alkyl ether",
+      "半缩醛 hemiacetal, 烷氧基……醇 alkoxy -ol, -醛烷基半缩醛 -al alkyl hemiacetal",
+      "半缩酮 hemiketal, 烷氧基……醇 alxoxy -ol, -酮半缩酮 -one alkyl hemiketal",
+      "缩醛 acetal, 二烷氧基- dialkoxy-, -醛二烷基缩醛 -al dialkyl acetal",
+      "缩酮 ketal, 二烷氧基-dialcoxy-, 酮二烷基缩酮 -one dialkyl ketal",
+      "邻酯 orthoester, -三烷氧基 -trialkoxy",
+      "邻碳酸酯 orthocarbonate ester, 四烷氧基- tetralkoxy-, 四烷基邻碳酸酯 tetraalkyl orthocarbonate"
     ]
   },
   {
     "name": "GPD",
-    "description": "Functional Group D",
+    "description": "官能团 D",
     "gradient_type": "0",
     "cs": "šļ",
     "associated_root": false,
     "degrees": [
       null,
-      "methylenedioxy-, -dioxole",
-      "carboxylic anhydride, anhydride",
-      "carboxamide, carboxamido-, carbamoyl-, -amide",
-      "primary amine, amino-, -amine",
-      "secondary amine, amino-, -amine",
-      "tertiary amine, amino-, -amine",
-      "ammonio-, -ammonium",
-      "imide, imido-, -imide",
-      "azide, azido-, alkyl azide"
+      "甲叉二氧基 methylenedioxy-, -二氧杂戊熳环 -dioxole",
+      "甲酸酐 carboxylic anhydride, 酸酐 anhydride",
+      "甲酰胺 carboxamide, 甲酰胺- carboxamido-, 氨基羰基- carbamoyl-, -酰胺 -amide",
+      "伯胺 primary amine, 氨基- amino-, -胺 -amine",
+      "仲胺 secondary amine, 氨基- amino-, -胺 -amine",
+      "叔胺 tertiary amine, 氨基- amino-, -胺 -amine",
+      "铵基- ammonio-, -铵 -ammonium",
+      "二酰亚胺 imide, 氨亚基替 imido-, -二酰亚胺 -imide",
+      "叠氮(化物) azide, 叠氮- azido-, 烷基叠氮化物 alkyl azide"
     ]
   },
   {
     "name": "GPE",
-    "description": "Functional Group E",
+    "description": "官能团 E",
     "gradient_type": "0",
     "cs": "zḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "primary ketimine, imino-, imine",
-      "secondary ketimine, imino-, -imine",
-      "primary aldimine, imino-, imine",
-      "secondary aldimine, imino-, -imine",
-      "azo diimide, azo-, -diazene",
-      "cyanate, cyanato-, alkyl cyanate",
-      "isocyanate, isocyanato-, alkyl isocyanate",
-      "nitrate, nitrooxy-, nitroxy-, alkyl nitrate",
-      "nitrite, nitrosooxy-, alkyl nitrite"
+      "伯酮亚胺 primary ketimine, 氨亚基- imino-, -亚胺 -imine",
+      "仲酮亚胺 secondary ketimine, 氨亚基- imino-, -亚胺 -imine",
+      "伯醛亚胺 primary aldimine, 氨亚基- imino-, -亚胺 -imine",
+      "仲醛亚胺 secondary aldimine, 氨亚基- imino-, -亚胺 -imine",
+      "偶氮二亚胺 azo diimide, 偶氮- azo-, 二氮烯 -diazene",
+      "氰酸酯(盐) cyanate, 氰氧基-cyanato-, 烷基氰酸酯 alkyl cyanate",
+      "异氰酸酯(盐) isocyanate, 氧异氰基- isocyanato-, 烷基异氰酸酯 alkyl isocyanate",
+      "硝酸盐 nitrate, 硝氧基- nitrooxy-, nitroxy-, 烷基硝酸盐 alkyl nitrate",
+      "亚硝酸盐 nitrite, 亚硝氧基- nitrosooxy-, 烷基亚硝酸盐 alkyl nitrite"
     ]
   },
   {
     "name": "GPF",
-    "description": "Functional Group F",
+    "description": "官能团 F",
     "gradient_type": "0",
     "cs": "zļ",
     "associated_root": false,
     "degrees": [
       null,
-      "nitrile, cyano-, alkanenitrile, alkyl cyanide",
-      "isonitrile, isocyano-, alkaneisonitrile, alkyl isocyanide",
-      "nitro compound, nitro-",
-      "nitroso compound, nitroso-, nitrosyl-",
-      "oxime",
-      "pyridyl, 4-pyridyl, 3-pyridyl, 2-pyridyl, -pyridine",
-      "carbamate, -carbamoyloxy-, -carbamate",
-      "phosphine, phosphanyl-, -phosphane",
-      "phosphonic acid, phosphono-, -phosphonic acid"
+      "腈 nitrile, 氰基- cyano-, 烷腈alkanenitrile, 烷基氰化物 alkyl cyanide",
+      "异腈 isonitrile, 异氰基- isocyano-, 烷异腈 alkaneisonitrile, 烷基异氰化物 alkyl isocyanide",
+      "硝基化合物 nitro compound, 硝基- nitro-",
+      "亚硝基化合物 nitroso compound, 亚硝基- nitroso-, nitrosyl-",
+      "肟 oxime",
+      "吡啶基 pyridyl, 4-pyridyl, 3-pyridyl, 2-pyridyl, -pyridine",
+      "氨基甲酸酯 carbamate, -甲酰胺基氧基- -carbamoyloxy-, -carbamate",
+      "磷烷 phosphine, 亚膦基- phosphanyl-, -磷烷 -phosphane",
+      "膦酸 phosphonic acid, phosphono-, -phosphonic acid"
     ]
   },
   {
     "name": "GPG",
-    "description": "Functional Group G",
+    "description": "官能团 G",
     "gradient_type": "0",
     "cs": "žḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "phosphate, phosphonooxy-, O-phospono-, … phosphate",
-      "phosphodiester, hydroxyphosphoryloxy-, di- … -hydrogen phosphate",
-      "boronic acid, borono-, … boronic acid",
-      "boronate, O-alkylboronyl-, … boronic acid di- … ester",
-      "borinic acid, hydroxyborino-, di- … borinic acid",
-      "borinate, O-alkoxydialkylboronyl-, di- … borinic acid … ester",
-      "alkyllithium, -lithium",
-      "alkylmagnesium halide, -magnesium halide",
-      "alkylaluminium, -aluminium / -aluminum"
+      "磷酸盐 phosphate, 膦酸基氧基- phosphonooxy-, O-phospono-, ... phosphate",
+      "磷酸二酯 phosphodiester, 羟基磷酰基氧基- hydroxyphosphoryloxy-, 磷酸二氢根 di...hydrogen phosphate",
+      "有机硼酸 boronic acid, borono-, ... boronic acid",
+      "硼酸盐 boronate, O-alkylboronyl-, ... boronic acid di... ester",
+      "二烃基硼酸 borinic acid, hydroxyborino-, di... borinic acid",
+      "二烃基硼酸酯(盐) borinate, O-alkoxydialkylboronyl-, di... borinic acid ... ester",
+      "烷基锂 alkyllithium, -锂 -lithium",
+      "烷基镁卤代化合物 alkylmagnesium halide, -镁卤代化合物 -magnesium halide",
+      "烷基铝 alkylaluminium, -铝 -aluminium / -aluminum"
     ]
   },
   {
     "name": "GPH",
-    "description": "Functional Group H",
+    "description": "官能团 H",
     "gradient_type": "0",
     "cs": "žļ",
     "associated_root": false,
     "degrees": [
       null,
-      "sulfhydryl, sulfanyl-, -thiol",
-      "sulfide, -sulfanyl-, di- … sulfide",
-      "disulfide, -disulfanyl-, d-i … disulfide",
-      "sulfoxide, -sulfinyl-, di- … sulfoxide",
-      "sulfone, -sulfonyl-, di- … sulfone",
-      "sulfinic acid, sulfino-, -sulfinic acid",
-      "sulfonic acid, sulfo-, -sulfonic acid",
-      "sulfonate ester, alkoxysulfonyl-, -sulfonate",
-      "carbonothioyl, -thioyl-, sulfanylidene-, -thione"
+      "烷基铝 alkylaluminium, -铝 -aluminium / -aluminum",
+      "硫醚 sulfide, -硫烷基- -sulfanyl-, di... sulfide",
+      "过硫化物 disulfide, -二硫烷基 -disulfanyl-, di... disulfide",
+      "亚砜 sulfoxide, -亚磺酰基- -sulfinyl-, di... sulfoxide",
+      "砜 sulfone, -磺酰基- -sulfonyl-, di... sulfone",
+      "亚磺酸 sulfinic acid, sulfino-, -sulfinic acid",
+      "磺酸 sulfonic acid, sulfo-, -sulfonic acid",
+      "磺酸酯 sulfonate ester, 烷氧基磺酰基- alkoxysulfonyl-, -sulfonate",
+      "硫代羰基 carbonothioyl, -硫代- -thioyl-, 硫亚基- sulfanylidene-, 硫酮 -thione"
     ]
   },
   {
     "name": "GPJ",
-    "description": "Functional Group J",
+    "description": "官能团 J",
     "gradient_type": "0",
     "cs": "ẓḑ",
     "associated_root": false,
     "degrees": [
       null,
-      "thiocyanate, thocyanato-, … thiocyanate",
-      "isothiocyanate, isothiocyanato-, … isothiocyanate",
-      "methanethioyl-, -thial",
-      "carbothioic S-acid, mercaptocarbonyl-, -thioic S-acid",
-      "carbothioic O-acid, hydroxythiocarbonyl-, -thioic O-acid",
-      "thioester, S-alkyl-alkane-thioate",
-      "thionoester, O-alkyl-alkane-thioate",
-      "carbodithioic acid, dithiocarboxy-, -dithioic acid",
-      "dithiocarboxylic acid ester, -dithioate"
+      "硫氰酸酯(盐) thiocyanate, 氰硫基- thocyanato-, ...thiocyanate",
+      "异硫氰酸酯(盐) isothiocyanate, 异氰硫基- isothiocyanato-, ...isothiocyanate",
+      "硫代甲爪基- methanethioyl-, -硫醛 -thial",
+      "硫代甲-S-酸 carbothioic S-acid, 巯基甲酰基- mercaptocarbonyl-, -thioic S-acid",
+      "硫代甲-O-酸 carbothioic O-acid, 羟基硫酰基- hydroxythiocarbonyl-, -thioic O-acid",
+      "硫酯 thioester, S-烷基-烷烃-硫代化合物 S-alkyl-alkane-thioate",
+      "硫酮酯 thionoester, O-烷基-烷烃-硫代化合物 O-alkyl-alkane-thioate",
+      "二硫代甲酸 carbodithioic acid, 二硫代羧基- dithiocarboxy-, -dithioic acid",
+      "二硫代甲酸酯 dithiocarboxylic acid ester, -二硫代化合物 -dithioate"
     ]
   },
   {
     "name": "HDM",
-    "description": "Hidden or Double Meaning",
+    "description": "隐含或双重含义",
     "gradient_type": "C",
     "cs": "nkř",
     "associated_root": false,
     "degrees": [
       null,
-      "the hidden, double-, or intended meaning of a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-      "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-      "a clue or unintended piece of information gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-      "a hidden warning/advisory gleaned from a non-verbal signal, gesture, movement, or sign contained in or implied by X",
-      "hidden meaning or double-meaning contained in or implied by X not gleaned/noticed by addressee; addressee fails to read between the lines of X; the hidden meaning implied by X gone over the addressee’s head",
-      "without any hidden or double-meaning being contained in verbal or written communication X",
-      "a clue or unintended piece of information gleaned from verbal or written communication X",
-      "a hidden warning/advisory gleaned from verbal or written communication X",
-      "the hidden, double-, or intended meaning of verbal innuendo X"
+      "X 中包含的或暗示的非语言信号、手势、动作或标志的隐含、双重或预期含义",
+      "从 X 中包含的或暗示的非语言信号、手势、动作或标志中得到的隐含警告/建议",
+      "从 X 中包含的或暗示的非语言信号、手势、动作或标志中得到的线索或无意的信息",
+      "从 X 中包含的或暗示的非语言信号、手势、动作或标志中得到的隐含警告/建议",
+      "X 中隐含的或暗示的隐含含义或双重含义未被听众察觉/注意到; 听众未能读懂 X 的言外之意; X 暗示的隐含含义被听众忽视",
+      "口头或书面交流 X 中没有任何隐含或双重含义",
+      "从口头或书面交流 X 中得到的线索或无意的信息",
+      "从口头或书面交流 X 中得到的隐含警告/建议",
+      "口头暗示 X 的隐含、双重或预期含义"
     ]
   },
   {
     "name": "URS",
-    "description": "Usage of a Resource",
+    "description": "资源的使用",
     "gradient_type": "D1",
     "cs": "lg",
     "associated_root": false,
     "degrees": [
       null,
-      "with X going foolishly unused / with X being needlessly wasted",
-      "with X going unused / with X being wasted",
-      "with (there being) X left over / with X remaining",
-      "with (there being) additional X / with extra X",
-      "with (there being) just the right amount or number of X",
-      "with a decreasing supply/amount of X",
-      "with X being scarce / with X being hard to come by / running short of or on X",
-      "with (there being) not enough X / with (there being) a lack of sufficient X",
-      "with X (having been) foolishly depleted / having run out of X through lack of planning or foresight"
+      "X 被愚蠢地未使用 / X 被无谓地浪费",
+      "X 未被使用 / X 被浪费",
+      "X 剩余 / 还剩下 X",
+      "还有额外的 X / 多余的X",
+      "X 数量或程度刚好合适",
+      "X 的供应/数量减少",
+      "X 稀缺 / X 难以获得 / X 快要用完",
+      "X 不足 / 缺乏足够的X",
+      "X 被愚蠢地耗尽 / 由于缺乏规划或远见而用尽 X"
+
     ]
   },
   {
     "name": "CRE",
-    "description": "Capacity for a Relationship with an Entity",
+    "description": "与实体建立关系的能力",
     "gradient_type": "0",
     "cs": "jf",
     "associated_root": false,
     "degrees": [
       null,
-      "ability/capacity to consider/ponder/analyze X",
-      "ability/capacity to recognize/acknowledge X; ability/capacity to take X seriously",
-      "ability/capacity to understand X",
-      "ability/capacity to withstand/tolerate/hold up/perservere against X",
-      "ability/capacity to appreciate X; ability/capacity to accept how and why X functions or is important",
-      "ability/capacity to practice/perform/participate in X",
-      "ability/capacity to empathize with X; ability/capacity to see X’s point of view or “stand in the shoes” of X",
-      "ability/capacity to socialize with X or allow X to be part of one’s life",
-      "ability/capacity to love X"
+      "考虑/深思/分析 X 的能力",
+      "识别/承认 X 的存在（或真实性）的能力; 认真对待 X 的能力",
+      "理解 X 的能力",
+      "抵御/容忍/承受/坚持 X 的能力",
+      "欣赏 X 的能力; 接受 X 如何运作或其重要性的能力",
+      "实践/执行/参与 X 的能力",
+      "与 X 产生共鸣的能力; 理解 X 的观点或「站在 X 的立场上」",
+      "与 X 社交或允许 X 成为生活一部分的能力",
+      "爱 X 的能力"
     ]
   }
 ]
