@@ -58,7 +58,7 @@
   },
   {
     "name": "DLB",
-    "description": "Degree of Deliberateness/Agency",
+    "description": "有意度",
     "gradient_type": "A1",
     "cs": "rj",
     "associated_root": false,
