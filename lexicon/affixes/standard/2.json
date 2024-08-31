@@ -657,8 +657,8 @@
     "degrees": [
       null,
       "on a scale measurable in yoctoseconds (10⁻²⁴ s)",
-      "on a scale  measurable in zeptoseconds (10⁻²¹ s)",
-      "measurable in attoseconds (10⁻¹⁸ s)",
+      "on a scale measurable in zeptoseconds (10⁻²¹ s)",
+      "on a scale measurable in attoseconds (10⁻¹⁸ s)",
       "on a scale measurable in femtoseconds (10⁻¹⁵ s)",
       "on a scale measurable in picoseconds (10⁻¹² s)",
       "on a scale measurable in nanoseconds (10⁻⁹ s)",
@@ -696,7 +696,7 @@
       null,
       "happening/occurring sometime in the past few days",
       "happening/occurring the day before yesterday",
-      "happening/occurring yesterda",
+      "happening/occurring yesterday",
       "happening/occurring several hours ago, earlier today, earlier this morning",
       "happening/occurring now (having begun hours/a while ago and expected to end hours/a while now)",
       "happening/occurring several hours from now, later today, later tonight",
@@ -766,7 +766,7 @@
     "name": "SPT",
     "description": "Specified Points in Calendrical Time [used with Stem 3 of the number roots to render, e.g., ‘the third day of the week [i.e., Wednesday]’ or ‘20th of May’, etc.]",
     "gradient_type": "A1",
-    "cs": "rw/-ry",
+    "cs": "rw/ry",
     "associated_root": false,
     "degrees": [
       null,

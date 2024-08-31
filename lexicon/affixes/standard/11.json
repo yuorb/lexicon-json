@@ -33,7 +33,7 @@
       "(acting as) side/flank/lateral component of X",
       "(acting as) bottom/lower component relative to gravity or natural vector of movement of X",
       "(acting as) middle or divisional segment or joint [e.g., elbow, knee, knuckle]",
-      "(acting as) wing /  arm / branch / extensor of X",
+      "(acting as) wing / arm / branch / extensor of X",
       "(acting as) end-manipulator, hand of X"
     ]
   },
@@ -71,10 +71,10 @@
       "High-order super-system, consisting of multiple levels of interdependent systems; the super-system manifests synergistic/emergent effects/properties",
       "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate interdependently, & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
       "Higher-order superset containing X based on additional layer of infrastructure or additional order of complexity and the set’s internal sub-sets operate (quasi-)independently & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
-      "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity",
+      "2nd-level superset containing X based on additional layer of infrastructure or additional order of complexity & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties",
       "configurative set of X where the number of individual members/nodes is sufficient to give rise to (sub-)patterns or potential sub-sets within the set & the additional infrastructure/complexity gives rise to synergistic/emergent effects/properties"
     ],
-    "notes": "The affix can be used in conjunction with the specialized Ca-stacking Cs affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree below, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt [i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration]"
+    "notes": "The affix can be used in conjunction with the specialized Ca-stacking Cs affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt [i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration]"
   },
   {
     "name": "DCF",
@@ -228,9 +228,9 @@
       "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes an autopoietic system",
       "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a dynamic/feedback-driven/self-sustaining system",
       "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, where the complexity or natural configuration of the network establishes/constitutes a (quasi-)mechanistic system",
-      "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting, "
+      "an individual entity/element contextually bound to or associated with X within a larger, interconnected/interdependent network of elements, the whole of which forms a niche/milieu/context/situation/setting"
     ],
-    "notes": "Like the SPS affix, the affix can be used in conjunction with the -üa Ca-stacking affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt [i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration]"
+    "notes": "Like the SPS affix, the affix can be used in conjunction with the -üö Ca-stacking affix to specify structures/networks/systems of increasing complexity/dynamism. For each degree, use of Type 2 VxCs affixes indicates that the superset establishes a new gestalt [i.e., a higher-order pattern/configuration more cognitively simple or salient than the lower order pattern/configuration]"
   },
   {
     "name": "SMN",

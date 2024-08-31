@@ -102,8 +102,8 @@
     "associated_root": false,
     "degrees": [
       null,
-      "in supine position [i.e., lying prone, facing upward]",
-      "lying face-downward",
+      "in supine position [i.e., lying supine, facing upward]",
+      "in prone position [i.e. lying prone, facing downward]",
       "lying on one’s right side",
       "lying on one’s left side",
       "upside-down [i.e., with one’s head held/dangling below one’s torso in the direction of gravity]",

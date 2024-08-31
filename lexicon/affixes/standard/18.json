@@ -127,7 +127,7 @@
       "(having just been) reminded of X",
       "on the tip of one’s tongue / almost remembered / on the verge of remembering",
       "slipped from one’s mind (momentarily); just had it but now can’t remember; momentary lapse in remembering X",
-      "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to …        d",
+      "forgotten, not remembered or recalled [despite attempt to remember/recall] / forget / forget (how) to …",
       "forgotten, not remembered or recalled [does not occur to try to remember]",
       "long-forgotten / not currently remembered in general"
     ]
@@ -216,7 +216,7 @@
     "associated_root": false,
     "degrees": [
       null,
-      "X-based; on the basis of X  (= general overall basis for something, i.e., X as both the idea behind and model for something)",
+      "X-based; on the basis of X (= general overall basis for something, i.e., X as both the idea behind and model for something)",
       "X-based, on the basis of X (= as the intellectual basis for, X as the idea behind something)",
       "X-based; modeled upon/after X (= in functionality/purpose, not in form/shape; for the latter, see the SHP affix)",
       "X-derived, derived from X",
@@ -618,7 +618,7 @@
       "instrument is non-pitched",
       "instrument has a (quasi-)fixed pitch but is untunable",
       "instrument is tunable to a fixed pitch",
-      "instrument is tunable and capable of a controllable range of pitches while being played [e.g., talking drum, banyan drum of a set of tabla, cuica, etc.]",
+      "instrument is tunable and capable of a controllable range of pitches while being played [e.g., talking drum, bayan drum of a set of tabla, cuica, etc.]",
       "instrument is a single component with various sub-parts or surfaces each of which is tunable/tuned to a distinct pitch [e.g., tongue drum, steel drum]",
       "instrument is a set of tunable individual component instruments, each set/tunable to a distinct pitch",
       "instrument is playable/played using multiple modes of contact [e.g., with both hand or stick, by both bow and hand, by striking and rubbing, etc.]",
@@ -813,7 +813,7 @@
       ],
       [
         "(standard) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)",
-        "(relative) bending/meend applied to  note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
+        "(relative) bending/meend applied to note tone in F-sharp/G-flat; ~F♯/G♭ (~fi/se)"
       ],
       [
         "(standard) “blue” note/tone between G-flat and G; Gᑯ",
@@ -995,7 +995,7 @@
     "degrees": [
       null,
       "originating in, indigenous to, or associated w/ traditional/ancient Celtic Europe (Gaul, Britain, Ireland, Scotland, North Sea and Channel islands)",
-      "originating in, indigenous to, or associated w/ ancent Teutonic Europe (Gothic lands, Norse lands)",
+      "originating in, indigenous to, or associated w/ ancient Teutonic Europe (Gothic lands, Norse lands)",
       "originating in, indigenous to, or associated w/ traditional/ancient Baltic Europe (Estonia, Finland, Latvia, Lithuania, Karelia)",
       "originating in, indigenous to, or associated w/ traditional/ancient Hungary",
       "originating in, indigenous to, or associated w/ Northern and Western Europe",

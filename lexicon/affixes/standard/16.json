@@ -130,7 +130,7 @@
       "OK to infer an ERG or EFF agent only, no other unstated arguments implied",
       "OK to infer a temporal context/argument plus any logically required arguments",
       "OK to infer an INSTRUMENTAL argument plus any logically required arguments",
-      "OK to infer a SITUATIVE or a DEPENDENT argument  [i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame] plus any logically required arguments"
+      "OK to infer a SITUATIVE or a DEPENDENT argument [i.e., a context describable via the SITUATIVE or DEPENDENT case or case-frame] plus any logically required arguments"
     ]
   },
   {
@@ -243,7 +243,7 @@
       ],
       [
         "(SPLr) Superlative (relative comparison)",
-        "(SPLa) Superlativ (absolute comparison)e"
+        "(SPLa) Superlative (absolute comparison)e"
       ],
       [
         "(SPQr) Superequative (relative comparison)",
@@ -342,9 +342,9 @@
     "associated_root": false,
     "degrees": [
       null,
-      "the result/impact/effect on the ERG/EFF Agent from(performing/doing) X",
+      "the result/impact/effect on the ERG/EFF Agent from (performing/doing) X",
       "the result/impact/effect on the ABS Patient from (performing/doing) X",
-      "the result/impact/effect on the AFF Recipient from (performing/doing) X",
+      "the result/impact/effect on the AFF Experiencer from (performing/doing) X",
       "the result/impact/effect on the THM argument from (performing/doing) X",
       "the result/impact/effect on the INS argument (tools, implements) from(performing/doing) X",
       "the result/impact/effect on the CSM argument (resources, consumables)from (performing/doing) X",
@@ -381,7 +381,7 @@
     "degrees": [
       null,
       "technically speaking … / context aside for a moment, …",
-      "for all practical purposes / to all intents and purposes / practically  / virtually / all but technically",
+      "for all practical purposes / to all intents and purposes / practically / virtually / all but technically",
       "sort of / kind of",
       "strictly speaking (= to put it in clinical terms …)",
       "essentially / in essence / basically",

@@ -168,7 +168,7 @@
     "degrees": [
       null,
       "having a longer-than-average tail",
-      "having a larger-than-average-mouth/beak/gullet",
+      "having a larger-than-average mouth/beak/gullet",
       "having larger-than-average eyes",
       "having larger/longer-than-average wings/wingspan",
       "having larger/longer-than-average nose/snout/proboscis",
@@ -284,7 +284,7 @@
         "the kingdom of which X is a member"
       ]
     ],
-    "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
+    "notes": "Type-2 TXN affixes are used specifically for biological taxonomic classification. The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
   },
   {
     "name": "HSR",
@@ -316,13 +316,13 @@
       null,
       "dominant component/feature/element/life-form/factor",
       "near-dominant",
-      "near-dominant",
       "thriving",
       "up-and-coming, close to thriving",
       "newfound / newly arrived / newly present",
       "declining",
       "threatened",
-      "near-extinct"
+      "near-extinct",
+      "extinct"
     ],
     "notes": "The affix is normally used with the quasi-taxonomic roots/stems denoting biological life-forms, for purposes of designating specific genera, species, or sub-species associated with the particular root/stem. However, the affix is not limited to this usage and may also be used in other contexts as appropriate."
   },

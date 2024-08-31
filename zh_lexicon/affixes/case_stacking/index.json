@@ -1,0 +1,347 @@
+{
+  "name": "cs",
+  "description": "格叠加词缀",
+  "gradient_type": "0",
+  "cases": [
+    {
+      "cs": "lw",
+      "vx": ["a"],
+      "description": "(THM)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ä"],
+      "description": "(INS)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["e"],
+      "description": "(ABS)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["i"],
+      "description": "(AFF)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ëi"],
+      "description": "(STM)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ö"],
+      "description": "(EFF)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["o"],
+      "description": "(ERG)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ü"],
+      "description": "(DAT)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["u"],
+      "description": "(IND)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ai"],
+      "description": "(POS)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["au"],
+      "description": "(PRP)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ei"],
+      "description": "(GEN)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["eu"],
+      "description": "(ATT)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ëu"],
+      "description": "(PDC)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ou"],
+      "description": "(ITP)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["oi"],
+      "description": "(OGN)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["iu"],
+      "description": "(IDP)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ui"],
+      "description": "(PAR)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ia", "uä"],
+      "description": "(APL)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ie", "uë"],
+      "description": "(PUR)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["io", "üä"],
+      "description": "(TRA)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["iö", "üë"],
+      "description": "(DFR)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["eë"],
+      "description": "(CRS)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["uö", "öë"],
+      "description": "(TSP)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["uo", "öä"],
+      "description": "(CMM)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ue", "ië"],
+      "description": "(CMP)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ua", "iä"],
+      "description": "(CSD)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["ao"],
+      "description": "(FUN)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["aö"],
+      "description": "(TFM)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["eo"],
+      "description": "(CLA)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["eö"],
+      "description": "(RSL)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["oë"],
+      "description": "(CSM)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["öe"],
+      "description": "(CON)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["oe"],
+      "description": "(AVR)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["öa"],
+      "description": "(CVS)"
+    },
+    {
+      "cs": "lw",
+      "vx": ["oa"],
+      "description": "(SIT)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["a"],
+      "description": "(PRN)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ä"],
+      "description": "(DSP)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["e"],
+      "description": "(COR)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["i"],
+      "description": "(CPS)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ëi"],
+      "description": "(COM)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ö"],
+      "description": "(UTL)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["o"],
+      "description": "(PRD)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["u"],
+      "description": "(RLT)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ai"],
+      "description": "(ACT)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["au"],
+      "description": "(ASI)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ei"],
+      "description": "(ESS)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["eu"],
+      "description": "(TRM)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ëu"],
+      "description": "(SEL)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ou"],
+      "description": "(CFM)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["oi"],
+      "description": "(DEP)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ui"],
+      "description": "(VOC)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ia", "uä"],
+      "description": "(LOC)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ie", "uë"],
+      "description": "(ATD)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["io", "üä"],
+      "description": "(ALL)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["iö", "üë"],
+      "description": "(ABL)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["eë"],
+      "description": "(ORI)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["uö", "öë"],
+      "description": "(IRL)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["uo", "öä"],
+      "description": "(INV)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ua", "iä"],
+      "description": "(NAV)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["ao"],
+      "description": "(CNR)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["aö"],
+      "description": "(ASS)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["eo"],
+      "description": "(PER)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["eö"],
+      "description": "(PRO)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["oë"],
+      "description": "(PCV)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["öe"],
+      "description": "(PCR)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["oe"],
+      "description": "(ELP)"
+    },
+    {
+      "cs": "ly",
+      "vx": ["oa"],
+      "description": "(PLM)"
+    }
+  ]
+}

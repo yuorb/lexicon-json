@@ -2148,7 +2148,7 @@
   },
   {
     "name": "PFL",
-    "description": "PFL Internal Positional Orientation of a (Quasi-)Flat Object",
+    "description": "Internal Positional Orientation of a (Quasi-)Flat Object",
     "gradient_type": "B",
     "cs": "kç",
     "associated_root": false,
@@ -2160,7 +2160,7 @@
       "with X’s “front/top” side directly facing the observer",
       "with X’s orientation being “edge-on” and at an oblique angle relative to the observer",
       "with X’s “back/bottom” side directly facing the observer",
-      "with X’s “back/bottom” side visible to the observer but somewhat pointed away at an oblique angle",
+      "with X’s “back/bottom” side visible to the observer but ~~somewhat~~ pointed away at an oblique angle",
       "with X’s orientation being “edge-on” and horizontal relative to the observer",
       "with X’s “back/bottom” side visible to the observer but largely pointed away at a severe angle"
     ]
@@ -2175,7 +2175,7 @@
       null,
       "on an atomic/quantum-sized scale in terms of size or areal/volumetric impact",
       "on a very small scale in terms of size or areal/volumetric impact [where the area/volume impacted is from molecular/microscopic to a size where it is still too small to easily manipulate without use of specialized implements e.g., tweezers, magnifying glass, microscope, etc.]",
-      "on a small scale in terms of size or areal/volumetric impact (where the area/volume impacted is within range of manual manipulation by one’s hands/arms/appendages or hand-held implements)",
+      "on a small scale in terms of size or areal/volumetric impact [where the area/volume impacted is within range of manual manipulation by one’s hands/arms/appendages or hand-held implements]",
       "on a somewhat large scale beyond one’s ability to manipulate manually -- requiring mechanical or other assistance in order to manipulate",
       "on a large scale, requiring specialized heavy machinery or industrial-level technology to manipulate",
       "on an enormous scale, requiring massive planning, coordination of resources, and interdependent utilization of various infrastructure to carry out",

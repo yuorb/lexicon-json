@@ -1,0 +1,1033 @@
+{
+  "name": "ia",
+  "description": "反格辅词缀",
+  "gradient_type": "0",
+  "types": [
+    [
+      {
+        "cs": "šw",
+        "vx": ["a"],
+        "description": "(THM)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ä"],
+        "description": "(INS)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["e"],
+        "description": "(ABS)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["i"],
+        "description": "(AFF)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ëi"],
+        "description": "(STM)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ö"],
+        "description": "(EFF)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["o"],
+        "description": "(ERG)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ü"],
+        "description": "(DAT)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["u"],
+        "description": "(IND)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ai"],
+        "description": "(POS)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["au"],
+        "description": "(PRP)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ei"],
+        "description": "(GEN)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["eu"],
+        "description": "(ATT)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ëu"],
+        "description": "(PDC)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ou"],
+        "description": "(ITP)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["oi"],
+        "description": "(OGN)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["iu"],
+        "description": "(IDP)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ui"],
+        "description": "(PAR)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ia", "uä"],
+        "description": "(APL)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ie", "uë"],
+        "description": "(PUR)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["io", "üä"],
+        "description": "(TRA)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["iö", "üë"],
+        "description": "(DFR)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["eë"],
+        "description": "(CRS)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["uö", "öë"],
+        "description": "(TSP)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["uo", "öä"],
+        "description": "(CMM)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ue", "ië"],
+        "description": "(CMP)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ua", "iä"],
+        "description": "(CSD)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["ao"],
+        "description": "(FUN)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["aö"],
+        "description": "(TFM)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["eo"],
+        "description": "(CLA)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["eö"],
+        "description": "(RSL)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["oë"],
+        "description": "(CSM)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["öe"],
+        "description": "(CON)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["oe"],
+        "description": "(AVR)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["öa"],
+        "description": "(CVS)"
+      },
+      {
+        "cs": "šw",
+        "vx": ["oa"],
+        "description": "(SIT)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["a"],
+        "description": "(PRN)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ä"],
+        "description": "(DSP)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["e"],
+        "description": "(COR)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["i"],
+        "description": "(CPS)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ëi"],
+        "description": "(COM)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ö"],
+        "description": "(UTL)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["o"],
+        "description": "(PRD)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["u"],
+        "description": "(RLT)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ai"],
+        "description": "(ACT)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["au"],
+        "description": "(ASI)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ei"],
+        "description": "(ESS)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["eu"],
+        "description": "(TRM)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ëu"],
+        "description": "(SEL)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ou"],
+        "description": "(CFM)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["oi"],
+        "description": "(DEP)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ui"],
+        "description": "(VOC)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ia", "uä"],
+        "description": "(LOC)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ie", "uë"],
+        "description": "(ATD)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["io", "üä"],
+        "description": "(ALL)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["iö", "üë"],
+        "description": "(ABL)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["eë"],
+        "description": "(ORI)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["uö", "öë"],
+        "description": "(IRL)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["uo", "öä"],
+        "description": "(INV)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ua", "iä"],
+        "description": "(NAV)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["ao"],
+        "description": "(CNR)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["aö"],
+        "description": "(ASS)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["eo"],
+        "description": "(PER)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["eö"],
+        "description": "(PRO)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["oë"],
+        "description": "(PCV)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["öe"],
+        "description": "(PCR)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["oe"],
+        "description": "(ELP)"
+      },
+      {
+        "cs": "šy",
+        "vx": ["oa"],
+        "description": "(PLM)"
+      }
+    ],
+    [
+      {
+        "cs": "žw",
+        "vx": ["a"],
+        "description": "(THM)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ä"],
+        "description": "(INS)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["e"],
+        "description": "(ABS)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["i"],
+        "description": "(AFF)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ëi"],
+        "description": "(STM)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ö"],
+        "description": "(EFF)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["o"],
+        "description": "(ERG)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ü"],
+        "description": "(DAT)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["u"],
+        "description": "(IND)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ai"],
+        "description": "(POS)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["au"],
+        "description": "(PRP)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ei"],
+        "description": "(GEN)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["eu"],
+        "description": "(ATT)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ëu"],
+        "description": "(PDC)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ou"],
+        "description": "(ITP)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["oi"],
+        "description": "(OGN)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["iu"],
+        "description": "(IDP)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ui"],
+        "description": "(PAR)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ia", "uä"],
+        "description": "(APL)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ie", "uë"],
+        "description": "(PUR)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["io", "üä"],
+        "description": "(TRA)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["iö", "üë"],
+        "description": "(DFR)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["eë"],
+        "description": "(CRS)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["uö", "öë"],
+        "description": "(TSP)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["uo", "öä"],
+        "description": "(CMM)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ue", "ië"],
+        "description": "(CMP)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ua", "iä"],
+        "description": "(CSD)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["ao"],
+        "description": "(FUN)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["aö"],
+        "description": "(TFM)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["eo"],
+        "description": "(CLA)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["eö"],
+        "description": "(RSL)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["oë"],
+        "description": "(CSM)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["öe"],
+        "description": "(CON)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["oe"],
+        "description": "(AVR)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["öa"],
+        "description": "(CVS)"
+      },
+      {
+        "cs": "žw",
+        "vx": ["oa"],
+        "description": "(SIT)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["a"],
+        "description": "(PRN)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ä"],
+        "description": "(DSP)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["e"],
+        "description": "(COR)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["i"],
+        "description": "(CPS)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ëi"],
+        "description": "(COM)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ö"],
+        "description": "(UTL)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["o"],
+        "description": "(PRD)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["u"],
+        "description": "(RLT)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ai"],
+        "description": "(ACT)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["au"],
+        "description": "(ASI)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ei"],
+        "description": "(ESS)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["eu"],
+        "description": "(TRM)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ëu"],
+        "description": "(SEL)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ou"],
+        "description": "(CFM)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["oi"],
+        "description": "(DEP)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ui"],
+        "description": "(VOC)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ia", "uä"],
+        "description": "(LOC)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ie", "uë"],
+        "description": "(ATD)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["io", "üä"],
+        "description": "(ALL)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["iö", "üë"],
+        "description": "(ABL)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["eë"],
+        "description": "(ORI)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["uö", "öë"],
+        "description": "(IRL)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["uo", "öä"],
+        "description": "(INV)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ua", "iä"],
+        "description": "(NAV)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["ao"],
+        "description": "(CNR)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["aö"],
+        "description": "(ASS)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["eo"],
+        "description": "(PER)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["eö"],
+        "description": "(PRO)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["oë"],
+        "description": "(PCV)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["öe"],
+        "description": "(PCR)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["oe"],
+        "description": "(ELP)"
+      },
+      {
+        "cs": "žy",
+        "vx": ["oa"],
+        "description": "(PLM)"
+      }
+    ],
+    [
+      {
+        "cs": "jw",
+        "vx": ["a"],
+        "description": "(THM)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ä"],
+        "description": "(INS)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["e"],
+        "description": "(ABS)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["i"],
+        "description": "(AFF)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ëi"],
+        "description": "(STM)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ö"],
+        "description": "(EFF)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["o"],
+        "description": "(ERG)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ü"],
+        "description": "(DAT)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["u"],
+        "description": "(IND)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ai"],
+        "description": "(POS)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["au"],
+        "description": "(PRP)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ei"],
+        "description": "(GEN)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["eu"],
+        "description": "(ATT)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ëu"],
+        "description": "(PDC)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ou"],
+        "description": "(ITP)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["oi"],
+        "description": "(OGN)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["iu"],
+        "description": "(IDP)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ui"],
+        "description": "(PAR)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ia", "uä"],
+        "description": "(APL)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ie", "uë"],
+        "description": "(PUR)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["io", "üä"],
+        "description": "(TRA)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["iö", "üë"],
+        "description": "(DFR)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["eë"],
+        "description": "(CRS)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["uö", "öë"],
+        "description": "(TSP)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["uo", "öä"],
+        "description": "(CMM)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ue", "ië"],
+        "description": "(CMP)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ua", "iä"],
+        "description": "(CSD)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["ao"],
+        "description": "(FUN)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["aö"],
+        "description": "(TFM)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["eo"],
+        "description": "(CLA)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["eö"],
+        "description": "(RSL)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["oë"],
+        "description": "(CSM)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["öe"],
+        "description": "(CON)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["oe"],
+        "description": "(AVR)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["öa"],
+        "description": "(CVS)"
+      },
+      {
+        "cs": "jw",
+        "vx": ["oa"],
+        "description": "(SIT)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["a"],
+        "description": "(PRN)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ä"],
+        "description": "(DSP)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["e"],
+        "description": "(COR)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["i"],
+        "description": "(CPS)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ëi"],
+        "description": "(COM)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ö"],
+        "description": "(UTL)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["o"],
+        "description": "(PRD)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["u"],
+        "description": "(RLT)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ai"],
+        "description": "(ACT)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["au"],
+        "description": "(ASI)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ei"],
+        "description": "(ESS)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["eu"],
+        "description": "(TRM)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ëu"],
+        "description": "(SEL)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ou"],
+        "description": "(CFM)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["oi"],
+        "description": "(DEP)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ui"],
+        "description": "(VOC)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ia", "uä"],
+        "description": "(LOC)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ie", "uë"],
+        "description": "(ATD)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["io", "üä"],
+        "description": "(ALL)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["iö", "üë"],
+        "description": "(ABL)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["eë"],
+        "description": "(ORI)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["uö", "öë"],
+        "description": "(IRL)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["uo", "öä"],
+        "description": "(INV)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ua", "iä"],
+        "description": "(NAV)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["ao"],
+        "description": "(CNR)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["aö"],
+        "description": "(ASS)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["eo"],
+        "description": "(PER)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["eö"],
+        "description": "(PRO)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["oë"],
+        "description": "(PCV)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["öe"],
+        "description": "(PCR)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["oe"],
+        "description": "(ELP)"
+      },
+      {
+        "cs": "jy",
+        "vx": ["oa"],
+        "description": "(PLM)"
+      }
+    ]
+  ]
+}
