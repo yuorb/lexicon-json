@@ -7,18 +7,18 @@ import {
 } from "./types.ts";
 import { readJsonFiles } from "./utils.ts";
 
-export async function bundle(): Promise<Lexicon> {
+export async function bundle(langDir: string): Promise<Lexicon> {
   return {
-    roots: (await readJsonFiles<Root[]>("./lexicon/roots")).flat(),
+    roots: (await readJsonFiles<Root[]>(`./lexicon/${langDir}/roots`)).flat(),
     affixes: {
       standard:
-        (await readJsonFiles<StandardAffix[]>("./lexicon/affixes/standard"))
+        (await readJsonFiles<StandardAffix[]>(`./lexicon/${langDir}/affixes/standard`))
           .flat(),
       accessor: await readJsonFiles<CaseAccessorAffix>(
-        "./lexicon/affixes/case_accessor",
+        `./lexicon/${langDir}/affixes/case_accessor`,
       ),
       stacking: await readJsonFiles<CaseStackingAffix>(
-        "./lexicon/affixes/case_stacking",
+        `./lexicon/${langDir}/affixes/case_stacking`,
       ),
     },
   };
