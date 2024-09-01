@@ -21,9 +21,9 @@ jobs:
       - run: git fetch
       - run: git checkout bundled
       # Keep the old file name in order to ensure the backwards compatibility of Enthrirhc
-      - run: mv output/lexicon_en.json lexicon.json
+      - run: cp output/lexicon_en.json lexicon.json
       - run: git add lexicon.json
-      - run: git commit -m "Update bundled lexicon"
+      - run: git commit -m "Update bundled lexicon" || echo "No changes to commit"
       - run: git push origin bundled
       - uses: ncipollo/release-action@v1
         with:
