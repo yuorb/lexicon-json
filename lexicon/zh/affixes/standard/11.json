@@ -137,7 +137,7 @@
   },
   {
     "name": "SEP",
-    "description": "Spatio-Temporal Separability of a Configurative Set",
+    "description": "构型集合成员可分离性",
     "gradient_type": "C",
     "cs": "gř",
     "associated_root": false,
