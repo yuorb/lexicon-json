@@ -121,7 +121,7 @@ type CaseStackingAffix = {
 $ deno task json
 ```
 
-Generate a minified json file to `output/lexicon.json`, which includes all the
+Generate minified json files to `output/lexicon_{LANG}.json`, which includes all the
 roots and affixes.
 
 ### `yaml`
@@ -130,5 +130,5 @@ roots and affixes.
 $ deno task yaml
 ```
 
-Generate a yaml file to `output/lexicon.yaml`, which includes all the roots and
+Generate yaml filea to `output/lexicon_{LANG}.yaml`, which includes all the roots and
 affixes.
