@@ -1956,14 +1956,14 @@
     "stems": [
       {
         "BSC": "(to be/manifest) an instance/act of negation; make something negative; to negate, i.e., to make/render the status of an entity so that it is as if it does not exist / manifest / apply / matter / act / take effect or have relevance [both the act/process of negation and the status of being (rendered) negative]",
-        "CTE": "(to be) an instance/act of denial; to deny -- to act as if something is not true or non-existent or inapplicable",
+        "CTE": "(to be) the state of being (rendered) negative*",
         "CSV": "(to be) the physical/tangible process of negation, whether verbal, physical, by written proclamation, by memory loss, etc.",
         "OBJ": "(to be) that which is negated"
       },
       "(to be) an instance/act of denial; to deny -- to act as if something is not true or non-existent or inapplicable",
       "(to be) an instance of being absent; an absence; to be absent"
     ],
-    "notes": "Affix: **NEG**"
+    "notes": "Affix: **NEG**\n\n* The definition of S2 BSC was incorrectly filled in this entry. This has been corrected."
   },
   {
     "root": "RXW",
