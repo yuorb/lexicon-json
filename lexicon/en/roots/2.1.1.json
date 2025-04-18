@@ -1074,9 +1074,9 @@
     "stems": [
       {
         "BSC": "(be) an act/instance of soaking/sousing [CPT version = saturate]",
-        "CTE": "",
-        "CSV": "",
-        "OBJ": ""
+        "CTE": "(be) a state of being (or having been) soaked/soused",
+        "CSV": "(be) the physical act of soaking/sousing",
+        "OBJ": "(be) a material/object/entity which is soaked/soused"
       },
       "(be) an act/instance of diffusion/suffusion; to diffuse, to suffuse [CPT version = permeate]",
       "(be) an act/instance of osmosis"

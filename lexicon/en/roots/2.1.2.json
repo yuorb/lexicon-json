@@ -642,9 +642,9 @@
     "stems": [
       {
         "BSC": "(to be a) utensil, specialized implement for assisting in refined task",
-        "CTE": "",
-        "CSV": "",
-        "OBJ": ""
+        "CTE": "(to be) a utensil; use a utensil",
+        "CSV": "(to be) the manner/process (i.e., how it works) of using a utensil; to engage in the manner/process of using a utensil",
+        "OBJ": "(to be) the party/entity using a utensil"
       },
       "(to be a) mechanical / motorized / electric / electronic implement/utensil",
       "(to be a) supply-like resource/implement used as fuel or input for a mechanical / electrical / electronic implement/utensil"

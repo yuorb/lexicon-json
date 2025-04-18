@@ -232,9 +232,9 @@
     "stems": [
       {
         "BSC": "(to be) a selection (to be) made (from limited choices); to select/pick (from limited choices) [= both the state of having a selection to make and the choices available to select from] *",
-        "CTE": "(to be in) a state of having to choose; to face a choice; to have a choice to make",
-        "CSV": "(to be) the act/process of choosing from one’s available options/alternatives",
-        "OBJ": "(to be) the choice made; to be the entity/alternative/option chosen or selected"
+        "CTE": "(to be in) a state of having to select/pick; to face a selection; to have a selection to make",
+        "CSV": "(to be) the act/process of selecting from limited choices",
+        "OBJ": "(to be) the selection made; to be the entity/alternative/option selected"
       },
       "(to be) a state of having an alternative or available option; to have an alternative or available option",
       "(to be) an act of voting; to vote"

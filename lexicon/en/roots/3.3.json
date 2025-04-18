@@ -106,8 +106,8 @@
     "root": "FL",
     "refers": "MOTION IN A PLANAR CIRCULAR PATH",
     "stems": [
-      "",
-      "counter-clockwise motion",
+      "motion in a planar circular path",
+      "counter-clockwise motion, relative to the speaker/observer",
       "clockwise motion, relative to the speaker/observer"
     ],
     "see": "TR"

@@ -15,10 +15,10 @@
   },
   {
     "root": "PN",
-    "refers": "UPPER G.I. ORGANS",
+    "refers": "UPPER GASTRO-INTESTINAL ORGANS",
     "stems": [
       "stomach",
-      "esophagus",
+      "esophagus (organ)",
       "pancreas"
     ],
     "see": "GW"
@@ -905,7 +905,7 @@
     "refers": "THE FRONT OF THE EYE",
     "stems": [
       "cornea",
-      "lens",
+      "lens (of an eye)",
       "sclera"
     ],
     "see": "GW"
