@@ -1,4 +1,4 @@
-import { ensureDirSync } from "https://deno.land/std@0.144.0/fs/ensure_dir.ts";
+import { ensureDirSync } from "@std/fs";
 import { bundle } from "../src/index.ts";
 import { Lexicon } from "../src/types.ts";
 

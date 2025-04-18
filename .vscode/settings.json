@@ -1,6 +1,5 @@
 {
   "deno.enable": true,
-  "deno.unstable": true,
   "cSpell.words": [
     "aeroplane",
     "alientating",
