@@ -1,5 +1,5 @@
-import { ensureDirSync } from "https://deno.land/std@0.144.0/fs/ensure_dir.ts";
-import { stringify } from "https://deno.land/std@0.168.0/encoding/yaml.ts";
+import { ensureDirSync } from "@std/fs";
+import { stringify } from "@std/yaml";
 import { bundle } from "../src/index.ts";
 import { Lexicon } from "../src/types.ts";
 
