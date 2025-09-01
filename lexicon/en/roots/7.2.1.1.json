@@ -353,9 +353,9 @@
     "root": "MZX",
     "refers": "LATERAL FOOT MUSCLE",
     "stems": [
-      "abductor digiti minimi",
-      "flexor digiti minimi brevis",
-      "opponens digiti minimi"
+      "abductor digiti minimi (of a foot)",
+      "flexor digiti minimi brevis (of a foot)",
+      "opponens digiti minimi (of a foot)"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
     "see": "GW"
@@ -364,9 +364,9 @@
     "root": "MZXW",
     "refers": "MIDDLE FOOT MUSCLE",
     "stems": [
-      "lumbrical muscle",
+      "lumbrical muscle (of a foot)",
       "plantar interossei",
-      "dorsal interossei"
+      "dorsal interossei (of a foot)"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
     "see": "GW"
@@ -397,9 +397,9 @@
     "root": "MZFW",
     "refers": "MEDIAL HAND (VOLAR) MUSCLE",
     "stems": [
-      "abductor digiti minimi",
-      "flexor digiti minimi brevis",
-      "opponens digiti minimi"
+      "abductor digiti minimi (of a hand)",
+      "flexor digiti minimi brevis (of a hand)",
+      "opponens digiti minimi (of a hand)"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
     "see": "GW"
@@ -408,9 +408,9 @@
     "root": "MZFY",
     "refers": "INTERMEDIATE HAND (VOLAR) MUSCLE",
     "stems": [
-      "lumbrical muscle",
+      "lumbrical muscle (of a hand)",
       "palmar interossei",
-      "dorsal interossei"
+      "dorsal interossei (of a foot)"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
     "see": "GW"
@@ -1299,7 +1299,7 @@
     "root": "VZKY",
     "refers": "“FOOT LIGAMENT” II",
     "stems": [
-      "collateral interphalangeal ligament",
+      "collateral interphalangeal ligament (of a foot)",
       "collateral metatarsophalangeal ligament",
       "collateral tarsometatarsal ligament"
     ],
@@ -1695,7 +1695,7 @@
     "root": "KŢTW",
     "refers": "“HAND LIGAMENT” I",
     "stems": [
-      "collateral interphalangeal ligament",
+      "collateral interphalangeal ligament (of a hand)",
       "collateral metacarpophalangeal ligament",
       "deep transverse metacarpal ligament"
     ],
@@ -1718,7 +1718,7 @@
     "refers": "“HAND LIGAMENT” III",
     "stems": [
       "dorsal carpometacarpal ligament",
-      "radial collateral ligament",
+      "radial collateral ligament (of a hand)",
       "dorsal intercarpal ligament"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
@@ -1729,7 +1729,7 @@
     "refers": "“HAND LIGAMENT” IV",
     "stems": [
       "palmar carpometacarpal ligament",
-      "ulnar collateral ligament",
+      "ulnar collateral ligament (of a hand)",
       "palmar intercarpal ligament"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
@@ -1816,8 +1816,8 @@
     "root": "PŢTR",
     "refers": "“ELBOW LIGAMENT” II",
     "stems": [
-      "radial collateral ligament",
-      "ulnar collateral ligament",
+      "radial collateral ligament (of a elbow)",
+      "ulnar collateral ligament (of a elbow)",
       "capsule of elbow joint"
     ],
     "notes": "DYN Function refers to muscle contraction or ligament tension/pulling.",
