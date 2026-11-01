@@ -96,7 +96,7 @@
   },
   {
     "name": "BOD",
-    "description": "Position Of One’s Core Body [i.e., head and torso, not including limbs]",
+    "description": "Position Of One’s Core Body",
     "gradient_type": "0",
     "cs": "ňẓ",
     "associated_root": false,
@@ -111,7 +111,8 @@
       "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] with right side facing downward",
       "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] facing downward",
       "with body positioned at an angle [i.e., neither lying fully flat, nor fully upright] in supine position [i.e., facing upward]"
-    ]
+    ],
+    "notes": "[i.e., head and torso, not including limbs]"
   },
   {
     "name": "LEG",

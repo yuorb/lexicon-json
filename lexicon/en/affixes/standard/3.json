@@ -1331,7 +1331,7 @@
   },
   {
     "name": "S01",
-    "description": "position between/amidst/among [in a quasi-planar context]",
+    "description": "position between/amidst/among [2D]",
     "gradient_type": "D1",
     "cs": "pk",
     "associated_root": true,
@@ -1346,11 +1346,12 @@
       "movement out of from 2D midst",
       "movement outside around 2D midst",
       "exterior movement alongside around 2D midst"
-    ]
+    ],
+    "notes": "[in a quasi-planar context]"
   },
   {
     "name": "S02",
-    "description": "position between/among [in a linear unidimensional context]",
+    "description": "position between/among [1D]",
     "gradient_type": "D1",
     "cs": "dk",
     "associated_root": true,
@@ -1365,11 +1366,12 @@
       "movement out of from linear midst",
       "movement outside around linear midst",
       "exterior movement alongside around linear midst"
-    ]
+    ],
+    "notes": "[in a linear unidimensional context]"
   },
   {
     "name": "S03",
-    "description": "indefinite position amidst/among [in a 3-D volume]",
+    "description": "indefinite position amidst/among [3D]",
     "gradient_type": "D1",
     "cs": "tk",
     "associated_root": true,
@@ -1384,11 +1386,12 @@
       "movement out of from 3D midst",
       "movement outside around 3D midst",
       "exterior movement alongside around 3D midst"
-    ]
+    ],
+    "notes": "[in a 3-D volume]"
   },
   {
     "name": "S04",
-    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context [individual components separable/extractable]",
+    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context",
     "gradient_type": "D1",
     "cs": "ḑd",
     "associated_root": true,
@@ -1403,11 +1406,12 @@
       "movement out of from separable 2D midst",
       "movement outside around separable 2D midst",
       "exterior movement alongside around separable 2D midst"
-    ]
+    ],
+    "notes": "[individual components separable/extractable]"
   },
   {
     "name": "S05",
-    "description": "position/state intertwined/intermingled/intermixed in 3-D volume [individual components separable/extractable]",
+    "description": "position/state intertwined/intermingled/intermixed in 3-D volume",
     "gradient_type": "D1",
     "cs": "ḑb",
     "associated_root": true,
@@ -1422,11 +1426,12 @@
       "movement out of from separable 3D midst",
       "movement outside around separable 3D midst",
       "exterior movement alongside around separable 3D midst"
-    ]
+    ],
+    "notes": "[individual components separable/extractable]"
   },
   {
     "name": "S06",
-    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context [components inseparable/permanently combined]",
+    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context",
     "gradient_type": "D1",
     "cs": "ḑv",
     "associated_root": true,
@@ -1441,11 +1446,12 @@
       "movement out of from integrated 2D midst",
       "movement outside around integrated 2D midst",
       "exterior movement alongside around integrated 2D midst"
-    ]
+    ],
+    "notes": "[components inseparable/permanently combined]"
   },
   {
     "name": "S07",
-    "description": "position/state intertwined/intermingled/intermixed in 3-D volume [individual components inseparable/permanently combined]",
+    "description": "position/state intertwined/intermingled/intermixed in 3-D volume",
     "gradient_type": "D1",
     "cs": "ḑg",
     "associated_root": true,
@@ -1460,7 +1466,8 @@
       "movement out of from integrated 3D midst",
       "movement outside around integrated 3D midst",
       "exterior movement alongside around integrated 3D midst"
-    ]
+    ],
+    "notes": "[individual components inseparable/permanently combined]"
   },
   {
     "name": "S08",
@@ -1483,7 +1490,7 @@
   },
   {
     "name": "S09",
-    "description": "linear uni-dimensional middle, center [as seen parallel to long axis of entity (or height-axis of a “tall” entity)]",
+    "description": "linear uni-dimensional middle, center",
     "gradient_type": "D1",
     "cs": "cl",
     "associated_root": true,
@@ -1498,11 +1505,12 @@
       "movement out of from lengthwise middle",
       "movement outside around lengthwise middle",
       "exterior movement alongside around lengthwise middle"
-    ]
+    ],
+    "notes": "[as seen parallel to long axis of entity (or height-axis of a “tall” entity)]"
   },
   {
     "name": "S10",
-    "description": "linear uni-dimensional middle, center [as seen perpendicular to long axis of entity (or height-axis of a “tall” entity)]",
+    "description": "linear uni-dimensional middle, center",
     "gradient_type": "D1",
     "cs": "cr",
     "associated_root": true,
@@ -1517,11 +1525,12 @@
       "movement out of from widthwise middle",
       "movement outside around widthwise middle",
       "exterior movement alongside around widthwise middle"
-    ]
+    ],
+    "notes": "[as seen perpendicular to long axis of entity (or height-axis of a “tall” entity)]"
   },
   {
     "name": "S11",
-    "description": "planar 2-dimensional middle, center [running vertically and laterally parallel to long (or tall) side of entity]",
+    "description": "planar 2-dimensional middle, center",
     "gradient_type": "D1",
     "cs": "ẓl",
     "associated_root": true,
@@ -1536,11 +1545,12 @@
       "movement out of from median middle",
       "movement outside around median middle",
       "exterior movement alongside around median middle"
-    ]
+    ],
+    "notes": "[running vertically and laterally parallel to long (or tall) side of entity]"
   },
   {
     "name": "S12",
-    "description": "planar 2-dimensional middle, center [running vertically parallel but laterally perpendicular to long (or tall) side of entity]",
+    "description": "planar 2-dimensional middle, center",
     "gradient_type": "D1",
     "cs": "ẓr",
     "associated_root": true,
@@ -1555,11 +1565,12 @@
       "movement out of from frontal middle",
       "movement outside around frontal middle",
       "exterior movement alongside around frontal middle"
-    ]
+    ],
+    "notes": "[running vertically parallel but laterally perpendicular to long (or tall) side of entity]"
   },
   {
     "name": "S13",
-    "description": "planar 2-dimensional middle, center [running vertically and laterally perpendicular to long (or tall) side of entity]",
+    "description": "planar 2-dimensional middle, center",
     "gradient_type": "D1",
     "cs": "ẓw",
     "associated_root": true,
@@ -1574,7 +1585,8 @@
       "movement out of from transverse middle",
       "movement outside around transverse middle",
       "exterior movement alongside around transverse middle"
-    ]
+    ],
+    "notes": "[running vertically and laterally perpendicular to long (or tall) side of entity]"
   },
   {
     "name": "S14",
@@ -1616,7 +1628,7 @@
   },
   {
     "name": "S16",
-    "description": "front part of an entity [relative to its directional orientation or primary external interface]",
+    "description": "front part of an entity",
     "gradient_type": "D1",
     "cs": "pf",
     "associated_root": true,
@@ -1631,11 +1643,12 @@
       "movement out of from front",
       "movement outside around front",
       "exterior movement alongside around front"
-    ]
+    ],
+    "notes": "[relative to its directional orientation or primary external interface]"
   },
   {
     "name": "S17",
-    "description": "rear/back part of an entity [relative to its directional orientation or primary external interface]",
+    "description": "rear/back part of an entity",
     "gradient_type": "D1",
     "cs": "kf",
     "associated_root": true,
@@ -1650,11 +1663,12 @@
       "movement out of from back",
       "movement outside around back",
       "exterior movement alongside around back"
-    ]
+    ],
+    "notes": "[relative to its directional orientation or primary external interface]"
   },
   {
     "name": "S18",
-    "description": "top/peak/summit of an entity [relative to its typical orientation under gravity]",
+    "description": "top/peak/summit of an entity",
     "gradient_type": "D1",
     "cs": "dy",
     "associated_root": true,
@@ -1669,11 +1683,12 @@
       "movement out of from top",
       "movement outside around top",
       "exterior movement alongside on top"
-    ]
+    ],
+    "notes": "[relative to its typical orientation under gravity]"
   },
   {
     "name": "S19",
-    "description": "bottom/foundation of an entity [relative to its typical orientation under gravity]",
+    "description": "bottom/foundation of an entity",
     "gradient_type": "D1",
     "cs": "dw",
     "associated_root": true,
@@ -1688,11 +1703,12 @@
       "movement out of from bottom",
       "movement outside around bottom",
       "exterior movement alongside on bottom"
-    ]
+    ],
+    "notes": "[relative to its typical orientation under gravity]"
   },
   {
     "name": "S20",
-    "description": "upper part / “half” of an entity [relative to its typical orientation under gravity]",
+    "description": "upper part / “half” of an entity",
     "gradient_type": "D1",
     "cs": "ḑy",
     "associated_root": true,
@@ -1711,7 +1727,7 @@
   },
   {
     "name": "S21",
-    "description": "lower part / “half” of an entity [relative to its typical orientation under gravity]",
+    "description": "lower part / “half” of an entity",
     "gradient_type": "D1",
     "cs": "ḑw",
     "associated_root": true,
@@ -1726,7 +1742,8 @@
       "movement out of from lower half",
       "movement outside around lower half",
       "exterior movement alongside around lower half"
-    ]
+    ],
+    "notes": "[relative to its typical orientation under gravity]"
   },
   {
     "name": "S22",

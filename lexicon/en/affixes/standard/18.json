@@ -438,7 +438,7 @@
   },
   {
     "name": "EGY",
-    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State [i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:]",
+    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State",
     "gradient_type": "0",
     "cs": "kz",
     "associated_root": false,
@@ -453,7 +453,8 @@
       "accumulate, i.e., grow via accretion",
       "be drawn out or sucked out, i.e., forced translative motion through aperture via low-pressure differential",
       "become agitated/excited/heated via external energy application"
-    ]
+    ],
+    "notes": "[i.e., X’s appearance/presence/effect/action results from the following initial state/act of energy-release:]"
   },
   {
     "name": "SEX",
@@ -590,7 +591,7 @@
   },
   {
     "name": "STF",
-    "description": "Miscellaneous Surface Textures or Formations [e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.]",
+    "description": "Miscellaneous Surface Textures or Formations",
     "gradient_type": "0",
     "cs": "žv",
     "associated_root": false,
@@ -605,7 +606,8 @@
       "filamentous [i.e. stringy or like matted hair]",
       "byssoid [i.e. wispy, like teased wool or cotton candy]",
       "imprinted [i.e. visibly distinct/different from the rest of the surface or substrate but texturally indistinct and imbued into and unseparable from the substrate]"
-    ]
+    ],
+    "notes": "[e.g., as associated with substances or growths/lesions on a surface, as in lichens, molds, tumors, etc.]"
   },
   {
     "name": "MIA",

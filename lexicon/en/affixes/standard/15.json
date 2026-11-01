@@ -39,7 +39,7 @@
   },
   {
     "name": "PXR",
-    "description": "Partially Exclusive “OR” [where there are 3 or more coordinative referents]",
+    "description": "Partially Exclusive “OR”",
     "gradient_type": "C",
     "cs": "mř",
     "associated_root": false,
@@ -54,7 +54,8 @@
       "[same as Degree 3 but with the referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]",
       "[same as Degree 2 but with referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]",
       "[same as Degree 1 but with the referents occurring simultaneously/concurrently if, in fact, more than 1 referent occurs.]"
-    ]
+    ],
+    "notes": "[where there are 3 or more coordinative referents]"
   },
   {
     "name": "XOR",

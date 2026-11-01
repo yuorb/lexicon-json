@@ -1346,7 +1346,8 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[处于准平面语境]"
   },
   {
     "name": "S02",
@@ -1365,11 +1366,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[处于线性一维语境]"
   },
   {
     "name": "S03",
-    "description": "当中 [三维]",
+    "description": "当中未定位置 [三维]",
     "gradient_type": "D1",
     "cs": "tk",
     "associated_root": true,
@@ -1384,11 +1386,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[处于三维体积内]"
   },
   {
     "name": "S04",
-    "description": "二维空间中纠缠/混合的位置/状态 [个体可分离/抽取]",
+    "description": "二维空间中纠缠/混合的位置/状态",
     "gradient_type": "D1",
     "cs": "ḑd",
     "associated_root": true,
@@ -1403,11 +1406,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[个体可分离/抽取]"
   },
   {
     "name": "S05",
-    "description": "三维空间中纠缠/混合的位置/状态 [个体可分离/抽取]",
+    "description": "三维空间中纠缠/混合的位置/状态",
     "gradient_type": "D1",
     "cs": "ḑb",
     "associated_root": true,
@@ -1422,11 +1426,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[个体可分离/抽取]"
   },
   {
     "name": "S06",
-    "description": "二维空间中纠缠/混合的位置/状态 [个体恒久结合/不可分离]",
+    "description": "二维空间中纠缠/混合的位置/状态",
     "gradient_type": "D1",
     "cs": "ḑv",
     "associated_root": true,
@@ -1441,11 +1446,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[个体恒久结合/不可分离]"
   },
   {
     "name": "S07",
-    "description": "三维空间中纠缠/混合的位置/状态 [个体恒久结合/不可分离]",
+    "description": "三维空间中纠缠/混合的位置/状态",
     "gradient_type": "D1",
     "cs": "ḑg",
     "associated_root": true,
@@ -1460,7 +1466,8 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[个体恒久结合/不可分离]"
   },
   {
     "name": "S08",
@@ -1483,7 +1490,7 @@
   },
   {
     "name": "S09",
-    "description": "一维中部 [平行于自身长轴]",
+    "description": "一维中部",
     "gradient_type": "D1",
     "cs": "cl",
     "associated_root": true,
@@ -1498,11 +1505,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[平行于自身长轴]"
   },
   {
     "name": "S10",
-    "description": "一维中部 [垂直于自身长轴]",
+    "description": "一维中部",
     "gradient_type": "D1",
     "cs": "cr",
     "associated_root": true,
@@ -1517,11 +1525,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[垂直于自身长轴]"
   },
   {
     "name": "S11",
-    "description": "二维中部 [纵向且侧向平行于自身长轴]",
+    "description": "二维中部",
     "gradient_type": "D1",
     "cs": "ẓl",
     "associated_root": true,
@@ -1536,11 +1545,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[纵向且侧向平行于自身长轴]"
   },
   {
     "name": "S12",
-    "description": "二维中部 [纵向平行而侧向垂直于自身长轴]",
+    "description": "二维中部",
     "gradient_type": "D1",
     "cs": "ẓr",
     "associated_root": true,
@@ -1555,11 +1565,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[纵向平行而侧向垂直于自身长轴]"
   },
   {
     "name": "S13",
-    "description": "二维中部 [纵向且侧向垂直于自身长轴]",
+    "description": "二维中部",
     "gradient_type": "D1",
     "cs": "ẓw",
     "associated_root": true,
@@ -1574,7 +1585,8 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[纵向且侧向垂直于自身长轴]"
   },
   {
     "name": "S14",
@@ -1616,7 +1628,7 @@
   },
   {
     "name": "S16",
-    "description": "前部 [相对于其朝向或主界面]",
+    "description": "前部",
     "gradient_type": "D1",
     "cs": "pf",
     "associated_root": true,
@@ -1631,11 +1643,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[相对于其朝向或主界面]"
   },
   {
     "name": "S17",
-    "description": "后部 [相对于其朝向或主界面]",
+    "description": "后部",
     "gradient_type": "D1",
     "cs": "kf",
     "associated_root": true,
@@ -1650,11 +1663,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[相对于其朝向或主界面]"
   },
   {
     "name": "S18",
-    "description": "顶部 [相对于其重力下典型定向]",
+    "description": "顶部",
     "gradient_type": "D1",
     "cs": "dy",
     "associated_root": true,
@@ -1669,11 +1683,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[相对于其重力下典型定向]"
   },
   {
     "name": "S19",
-    "description": "底部 [相对于其重力下典型定向]",
+    "description": "底部",
     "gradient_type": "D1",
     "cs": "dw",
     "associated_root": true,
@@ -1688,11 +1703,12 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[相对于其重力下典型定向]"
   },
   {
     "name": "S20",
-    "description": "上部 [相对于其重力下典型定向]",
+    "description": "上部",
     "gradient_type": "D1",
     "cs": "ḑy",
     "associated_root": true,
@@ -1711,7 +1727,7 @@
   },
   {
     "name": "S21",
-    "description": "下部 [相对于其重力下典型定向]",
+    "description": "下部",
     "gradient_type": "D1",
     "cs": "ḑw",
     "associated_root": true,
@@ -1726,7 +1742,8 @@
       "退出……此处的移动",
       "在……此处外作移动",
       "在……此处旁的移动"
-    ]
+    ],
+    "notes": "[相对于其重力下典型定向]"
   },
   {
     "name": "S22",

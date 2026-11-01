@@ -172,7 +172,7 @@
   },
   {
     "name": "CHC",
-    "description": "Degree of Choice by Externally-Induced Agent [operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled [i.e., EFFECTUATIVE] act, rather than the Patient of an agential act]",
+    "description": "Degree of Choice by Externally-Induced Agent",
     "gradient_type": "A1",
     "cs": "rz",
     "associated_root": false,
@@ -187,6 +187,7 @@
       "party made/induced by another party/force/situation to initiate an state/act/event - acquiesces/helps/enables outcome against own interest w/o thinking",
       "party made/induced by another party/force/situation to initiate an state/act/event - intentionally acquiesces/helps/enables outcome consciously against own interest",
       "party made/induced by another party/force/situation to initiate an state/act/event - intentionally acquiesces/helps/enables outcome for own benefit"
-    ]
+    ],
+    "notes": "[operates like the existing IMP affix above except that the party is the Agent of an externally-induced or externally-enabled [i.e., EFFECTUATIVE] act, rather than the Patient of an agential act]"
   }
 ]
