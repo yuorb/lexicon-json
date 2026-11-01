@@ -39,7 +39,7 @@
   },
   {
     "name": "PTT",
-    "description": "Non-Contiguous Portion of the Whole",
+    "description": "Non-Contiguous [i.e., Intermixed] Portion of the Whole",
     "gradient_type": "A1",
     "cs": "rţ",
     "associated_root": false,
@@ -54,8 +54,7 @@
       "a whole lot of / a very large amount or number of / immensely, in an incredible amount / so much …; so",
       "most of / mostly",
       "every / all (of) / whole, entirely / in its entirety"
-    ],
-    "notes": "[i.e., Intermixed]"
+    ]
   },
   {
     "name": "EXN",
