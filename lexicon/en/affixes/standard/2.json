@@ -439,7 +439,7 @@
   },
   {
     "name": "UHN",
-    "description": "Uncountably High Number",
+    "description": "Uncountably High Number [e.g., “zillions”, “a myriad of”, etc.]",
     "gradient_type": "0",
     "cs": "vj",
     "associated_root": false,
@@ -455,7 +455,7 @@
       "being/having zillion of nodes/hubs/connections/access points",
       "being/having zillion of hierarchical levels/tiers"
     ],
-    "notes": "[e.g., “zillions”, “a myriad of”, etc.]\n\n\\* i.e., the zillionth member of a set that does something or that something happens to"
+    "notes": "\\* i.e., the zillionth member of a set that does something or that something happens to"
   },
   {
     "name": "TNX",
