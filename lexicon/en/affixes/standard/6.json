@@ -39,7 +39,7 @@
   },
   {
     "name": "VEL",
-    "description": "Degree of Velocity (= Ratio of Distance to Time)",
+    "description": "Degree of Velocity",
     "gradient_type": "D2",
     "cs": "fm",
     "associated_root": true,
@@ -54,11 +54,12 @@
       "fast / quick(ly) / rapid(ly), at fast pace",
       "very fast / very quick(ly) / very rapid(ly) / , at fast pace",
       "too fast / too quick(ly) / too rapid(ly); at fast pace"
-    ]
+    ],
+    "notes": "(= Ratio of Distance to Time)"
   },
   {
     "name": "ITY",
-    "description": "Degree of Intensity (= strength, overtness, or level of impact in which a quality/characteristic/act/process, etc. is manifested)",
+    "description": "Degree of Intensity",
     "gradient_type": "D2",
     "cs": "ţm",
     "associated_root": true,
@@ -73,7 +74,8 @@
       "intense(ly)",
       "very intense(ly)",
       "too intense(ly) / overly intense(ly)"
-    ]
+    ],
+    "notes": "(= strength, overtness, or level of impact in which a quality/characteristic/act/process, etc. is manifested)"
   },
   {
     "name": "RLV",
@@ -438,7 +440,7 @@
   },
   {
     "name": "DIF",
-    "description": "Degree of Difficulty (renamed from EFT)",
+    "description": "Degree of Difficulty",
     "gradient_type": "D2",
     "cs": "čm",
     "associated_root": true,
@@ -453,7 +455,8 @@
       "strained / difficult; strain to / with difficulty / struggle to / to work at X-ing / to X hard",
       "very difficult / so difficult",
       "too difficult / overly difficult"
-    ]
+    ],
+    "notes": "(renamed from EFT)"
   },
   {
     "name": "DSG",
@@ -514,7 +517,7 @@
   },
   {
     "name": "PPF",
-    "description": "Degree of Practice-Based Proficiency (= skill acquired via practice)",
+    "description": "Degree of Practice-Based Proficiency",
     "gradient_type": "A2",
     "cs": "šh",
     "associated_root": false,
@@ -529,11 +532,12 @@
       "proficient(ly)",
       "expert(ly)",
       "too proficient(ly) / overly proficient / with too much expertise"
-    ]
+    ],
+    "notes": "(= skill acquired via practice)"
   },
   {
     "name": "KPF",
-    "description": "Degree of Knowledge-Based Proficiency (= skill acquired via application of learning/knowledge)",
+    "description": "Degree of Knowledge-Based Proficiency",
     "gradient_type": "A2",
     "cs": "žh",
     "associated_root": false,
@@ -548,7 +552,8 @@
       "proficient(ly)",
       "expert(ly)",
       "too proficient(ly) / overly proficient / with too much expertise"
-    ]
+    ],
+    "notes": "(= skill acquired via application of learning/knowledge)"
   },
   {
     "name": "TRS",

@@ -515,7 +515,7 @@
   },
   {
     "name": "CLG",
-    "description": "Cultural or Geo-Demographic Association (primarily used with carrier stems)",
+    "description": "Cultural or Geo-Demographic Association",
     "gradient_type": "0",
     "cs": "ḑc",
     "associated_root": false,
@@ -530,7 +530,8 @@
       "a belief associated with X",
       "an item/artifact/object/costume/artwork or tangible accomplishment associated with X",
       "the physical country/land/geographical domain associated with X"
-    ]
+    ],
+    "notes": "(primarily used with carrier stems)"
   },
   {
     "name": "OGC",

@@ -77,7 +77,7 @@
   },
   {
     "name": "NDB",
-    "description": "Non-Decimal Number Bases (affixed to the standard number roots)",
+    "description": "Non-Decimal Number Bases",
     "gradient_type": "D1",
     "cs": "sg",
     "associated_root": false,
@@ -92,7 +92,8 @@
       "in base-16",
       "in base-20",
       "in base-60"
-    ]
+    ],
+    "notes": "(affixed to the standard number roots)"
   },
   {
     "name": "VAM",

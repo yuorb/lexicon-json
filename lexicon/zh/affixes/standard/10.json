@@ -1,7 +1,7 @@
 [
   {
     "name": "BY1",
-    "description": "身体手段 1 = 「通过/使用……」",
+    "description": "身体手段 1",
     "gradient_type": "0",
     "cs": "zb",
     "associated_root": false,
@@ -16,11 +16,12 @@
       "用（双/多）肘/前臂",
       "用单臂/触手/主要操控性附器",
       "用（双/多）臂/触手/主要操控性附器"
-    ]
+    ],
+    "notes": "「通过/使用……」"
   },
   {
     "name": "BY2",
-    "description": "身体手段 2 = 「通过/使用……」（曾名为 DBI）",
+    "description": "身体手段 2 = 「通过/使用……」",
     "gradient_type": "0",
     "cs": "zd",
     "associated_root": false,
@@ -35,11 +36,12 @@
       "用（双/多）膝",
       "用单腿/主要行走性附器",
       "用（双/多）腿/主要行走性附器"
-    ]
+    ],
+    "notes": "（曾名为 DBI）"
   },
   {
     "name": "BY3",
-    "description": "身体手段 3 = 「通过/使用……」",
+    "description": "身体手段 3",
     "gradient_type": "0",
     "cs": "zg",
     "associated_root": false,
@@ -54,11 +56,12 @@
       "用牙齿/犬齿",
       "用（双/多）唇",
       "用舌头"
-    ]
+    ],
+    "notes": "「通过/使用……」"
   },
   {
     "name": "BY4",
-    "description": "身体手段 4 = 「通过/使用……」",
+    "description": "身体手段 4",
     "gradient_type": "0",
     "cs": "zk",
     "associated_root": false,
@@ -73,11 +76,12 @@
       "用胡须/触角/触须",
       "用指甲/爪子",
       "用（双/多）指甲/爪子"
-    ]
+    ],
+    "notes": "「通过/使用……」"
   },
   {
     "name": "MEC",
-    "description": "机械手段的类型 = 「通过/使用……」",
+    "description": "机械手段的类型",
     "gradient_type": "0",
     "cs": "ms",
     "associated_root": false,
@@ -92,7 +96,8 @@
       "使用特别应用的能量重新引导或汇聚",
       "使用专门的协调/正式/商业服务来完成任务",
       "使用电子/机械/工程资源的集体汇聚"
-    ]
+    ],
+    "notes": "「通过/使用……」"
   },
   {
     "name": "UTE",
@@ -134,7 +139,7 @@
   },
   {
     "name": "MDI",
-    "description": "用于改进（乙型 = 专门设计的工具/设备）",
+    "description": "修改",
     "gradient_type": "D1",
     "cs": "gḑ",
     "associated_root": false,
@@ -176,11 +181,12 @@
         "用于启动/开始/实行 X（的过程/效果）的实体/物体",
         "用于启动/开始/实行 X（的过程/效果）的专用工具/设备"
       ]
-    ]
+    ],
+    "notes": "（乙型 = 专门设计的工具/设备）"
   },
   {
     "name": "SOC",
-    "description": "社会手段 = 「通过/使用……」",
+    "description": "社会手段",
     "gradient_type": "0",
     "cs": "mz",
     "associated_root": false,
@@ -195,7 +201,8 @@
       "通过一个或多个代理",
       "通过雇员或员工",
       "通过将任务委托给专家"
-    ]
+    ],
+    "notes": "「通过/使用……」"
   },
   {
     "name": "OAU",

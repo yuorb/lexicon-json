@@ -77,7 +77,7 @@
   },
   {
     "name": "NDB",
-    "description": "非十进制数（加到标准数根上）",
+    "description": "非十进制数",
     "gradient_type": "D1",
     "cs": "sg",
     "associated_root": false,
@@ -92,7 +92,8 @@
       "十六进制中的",
       "二十进制中的",
       "六十进制中的"
-    ]
+    ],
+    "notes": "（加到标准数根上）"
   },
   {
     "name": "VAM",

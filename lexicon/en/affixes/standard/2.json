@@ -459,7 +459,7 @@
   },
   {
     "name": "TNX",
-    "description": "Multiples of Ten (used with the number roots 0 thru 9 to create the numbers 11 through 99)",
+    "description": "Multiples of Ten",
     "gradient_type": "A1",
     "cs": "rs",
     "associated_root": false,
@@ -475,11 +475,11 @@
       "X plus 80",
       "X plus 90"
     ],
-    "notes": "Add this affix as Type-3 to the XX2, XX3, etc. affixes above to create words meaning “set of thirty-four cats”, for example."
+    "notes": "Add this affix as Type-3 to the XX2, XX3, etc. affixes above to create words meaning “set of thirty-four cats”, for example.\n(used with the number roots 0 thru 9 to create the numbers 11 through 99)"
   },
   {
     "name": "ELA",
-    "description": "Elapsed Time (to be attached to numerical stems or quantitative formatives)",
+    "description": "Elapsed Time",
     "gradient_type": "A1",
     "cs": "rc",
     "associated_root": false,
@@ -494,7 +494,8 @@
       "X number of weeks",
       "X number of months",
       "X number of years"
-    ]
+    ],
+    "notes": "(to be attached to numerical stems or quantitative formatives)"
   },
   {
     "name": "SQC",
@@ -1034,7 +1035,7 @@
   },
   {
     "name": "DTS",
-    "description": "Duration of Shift/Change/Transition (used for both spatial and temporal contexts)",
+    "description": "Duration of Shift/Change/Transition",
     "gradient_type": "D1",
     "cs": "mp",
     "associated_root": false,
@@ -1049,11 +1050,12 @@
       "somewhat lengthy duration in transition period or zone from one state/form/shape/set of circumstances to another",
       "lengthy duration in transition period or zone from one state/form/shape/set of circumstances to another",
       "very gradual/almost imperceptible rate/degree of change/transition from one state/form/shape/set of circumstances to another"
-    ]
+    ],
+    "notes": "(used for both spatial and temporal contexts)"
   },
   {
     "name": "VTS",
-    "description": "Variability of Shift/Change/Transition (used for both spatial and temporal contexts)",
+    "description": "Variability of Shift/Change/Transition",
     "gradient_type": "D1",
     "cs": "ňf",
     "associated_root": false,
@@ -1068,6 +1070,7 @@
       "somewhat smooth, gradual transition period/zone from one state/form/shape/set of circumstances to another",
       "smooth, gradual transition period/zone from one state/form/shape/set of circumstances to another",
       "imperceptibly smooth/gradual transition from one state/form/shape/set of circumstances to another; unnoticeable as to where/how/when transition occurred"
-    ]
+    ],
+    "notes": "(used for both spatial and temporal contexts)"
   }
 ]

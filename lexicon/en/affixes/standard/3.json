@@ -1391,7 +1391,7 @@
   },
   {
     "name": "S04",
-    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context",
+    "description": "position/state intertwined [2D, separable]",
     "gradient_type": "D1",
     "cs": "ḑd",
     "associated_root": true,
@@ -1407,11 +1407,11 @@
       "movement outside around separable 2D midst",
       "exterior movement alongside around separable 2D midst"
     ],
-    "notes": "[individual components separable/extractable]"
+    "notes": "in 2-D context [individual components separable/extractable]"
   },
   {
     "name": "S05",
-    "description": "position/state intertwined/intermingled/intermixed in 3-D volume",
+    "description": "position/state intertwined [3D, separable]",
     "gradient_type": "D1",
     "cs": "ḑb",
     "associated_root": true,
@@ -1427,11 +1427,11 @@
       "movement outside around separable 3D midst",
       "exterior movement alongside around separable 3D midst"
     ],
-    "notes": "[individual components separable/extractable]"
+    "notes": "in 3-D volume [individual components separable/extractable]"
   },
   {
     "name": "S06",
-    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context",
+    "description": "position/state intertwined [2D, inseparable]",
     "gradient_type": "D1",
     "cs": "ḑv",
     "associated_root": true,
@@ -1447,11 +1447,11 @@
       "movement outside around integrated 2D midst",
       "exterior movement alongside around integrated 2D midst"
     ],
-    "notes": "[components inseparable/permanently combined]"
+    "notes": "in 2-D context [components inseparable/permanently combined]"
   },
   {
     "name": "S07",
-    "description": "position/state intertwined/intermingled/intermixed in 3-D volume",
+    "description": "position/state intertwined [3D, inseparable]",
     "gradient_type": "D1",
     "cs": "ḑg",
     "associated_root": true,
@@ -1467,7 +1467,7 @@
       "movement outside around integrated 3D midst",
       "exterior movement alongside around integrated 3D midst"
     ],
-    "notes": "[individual components inseparable/permanently combined]"
+    "notes": "in 3-D volume [individual components inseparable/permanently combined]"
   },
   {
     "name": "S08",
@@ -1590,7 +1590,7 @@
   },
   {
     "name": "S14",
-    "description": "center point of an entity, i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity",
+    "description": "center point of an entity",
     "gradient_type": "D1",
     "cs": "cw",
     "associated_root": true,
@@ -1605,7 +1605,8 @@
       "movement out of from center point",
       "movement outside around center point",
       "exterior movement alongside around center point"
-    ]
+    ],
+    "notes": "i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity"
   },
   {
     "name": "S15",
@@ -1861,7 +1862,7 @@
   },
   {
     "name": "S28",
-    "description": "external attachment point or fastening mechanism of an entity, i.e., handle, hook, latch, velcro patch, knob, peg, etc.",
+    "description": "external attachment point or fastening mechanism of an entity",
     "gradient_type": "D1",
     "cs": "xf",
     "associated_root": true,
@@ -1876,7 +1877,8 @@
       "movement out of from handle/knob attachment",
       "movement outside around handle/knob attachment",
       "exterior movement alongside around handle/knob attachment"
-    ]
+    ],
+    "notes": "i.e., handle, hook, latch, velcro patch, knob, peg, etc."
   },
   {
     "name": "S29",
@@ -1937,7 +1939,7 @@
   },
   {
     "name": "BDM",
-    "description": "IN SITU BODILY MOVEMENTS (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "IN SITU BODILY MOVEMENTS",
     "gradient_type": "B",
     "cs": "çp",
     "associated_root": true,
@@ -1952,11 +1954,12 @@
       "with legs or ambulatory appendages waving/bending",
       "with legs or ambulatory appendages making choppy movements",
       "with legs or ambulatory appendages making (seemingly) random movements"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "ZZG",
-    "description": "Secondary Zigzag Motion (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Secondary Zigzag Motion",
     "gradient_type": "B",
     "cs": "çg",
     "associated_root": false,
@@ -1971,11 +1974,12 @@
       "short-period 2D zigzag motion on horizontal plane parallel to direction of travel",
       "varying-period 2D zigzag motion on horizontal plane parallel to direction of travel",
       "long-period 2D zigzag motion on horizontal plane parallel to direction of travel"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SNW",
-    "description": "Secondary Sine Wave-like Motion (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Secondary Sine Wave-like Motion",
     "gradient_type": "B",
     "cs": "çd",
     "associated_root": false,
@@ -1990,11 +1994,12 @@
       "short-period 2D sine wave-like motion on horizontal plane parallel to direction of travel",
       "varying-period 2D sine wave-like motion on horizontal plane parallel to direction of travel",
       "long-period 2D sine wave-like motion on horizontal plane parallel to direction of travel"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SPR",
-    "description": "Spin/Rotation of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Spin/Rotation of an Object",
     "gradient_type": "B",
     "cs": "çv",
     "associated_root": false,
@@ -2009,11 +2014,12 @@
       "short-period [i.e., fast] spinning motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]",
       "varying-period [i.e., variable-speed] spinning motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]",
       "long-period [i.e., slow] spinning/revolving motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "CRC",
-    "description": "Circular Motion/Path of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Circular Motion/Path of an Object",
     "gradient_type": "B",
     "cs": "çt",
     "associated_root": false,
@@ -2028,11 +2034,12 @@
       "while traveling in (a) short-period [i.e., fast/small] circle(s) on a plane horizontally parallel to the direction of travel [i.e., resulting in a path of moving epicycles / “curlycues”]",
       "while traveling in (a) mid-period [i.e., medium-sized/paced] circle(s) on a plane horizontally parallel to the direction of travel [i.e., a path of moving epicycles / “curlycues”]",
       "while traveling in (a) long-period [i.e., slow/large] circle(s) on a plane horizontally parallel to the direction of travel [i.e., resulting in a path of moving epicycles / “curlycues”]"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SDM",
-    "description": "Miscellaneous In-Situ Motions of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Miscellaneous In-Situ Motions of an Object",
     "gradient_type": "0",
     "cs": "gž",
     "associated_root": false,
@@ -2047,7 +2054,8 @@
       "… while expanding along primary (or longest) axis",
       "… while fluctuating in size along primary (or longest) axis",
       "… while shrinking/contracting along primary (or longest) axis"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SPM",

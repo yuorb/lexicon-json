@@ -20,7 +20,7 @@
   },
   {
     "name": "PWC",
-    "description": "部分/整体的组件性隐喻（替代 Ithkuil 的 PTG 词缀）",
+    "description": "部分/整体的组件性隐喻",
     "gradient_type": "0",
     "cs": "mž",
     "associated_root": false,
@@ -35,7 +35,8 @@
       "（作为）X 的中间或分段部分或关节 [例如：肘部、膝部、指关节]",
       "（作为）X 的翼 / 臂 / 分支 / 伸展部",
       "（作为）X 的末端操控器、手"
-    ]
+    ],
+    "notes": "（替代 Ithkuil 的 PTG 词缀）"
   },
   {
     "name": "SBS",

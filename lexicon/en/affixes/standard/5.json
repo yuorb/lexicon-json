@@ -555,7 +555,7 @@
   },
   {
     "name": "DPY",
-    "description": "Degree of Principality (of an entity within a group or system)",
+    "description": "Degree of Principality",
     "gradient_type": "B",
     "cs": "vç",
     "associated_root": false,
@@ -570,7 +570,8 @@
       "primary, but replaceable",
       "primary / main / principal / chief",
       "primary and irreplaceable / indispensible"
-    ]
+    ],
+    "notes": "(of an entity within a group or system)"
   },
   {
     "name": "DCP",

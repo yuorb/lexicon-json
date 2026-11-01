@@ -230,7 +230,7 @@
   },
   {
     "name": "RCO",
-    "description": "就地反弹（弹回；复位）",
+    "description": "就地反弹",
     "gradient_type": "D2",
     "cs": "zm",
     "associated_root": false,
@@ -245,7 +245,8 @@
       "就地反弹程度很大/很快",
       "就地反弹程度非常大/非常快",
       "就地反弹过多/过快"
-    ]
+    ],
+    "notes": "（弹回；复位）"
   },
   {
     "name": "TFI",
@@ -269,7 +270,7 @@
   },
   {
     "name": "CRI",
-    "description": "原地循环或圆形运动（旋转、回旋）",
+    "description": "原地循环或圆形运动",
     "gradient_type": "D2",
     "cs": "cm",
     "associated_root": false,
@@ -284,7 +285,8 @@
       "循环运动程度很大/很快",
       "循环运动程度非常大/非常快",
       "循环运动过多/过快"
-    ]
+    ],
+    "notes": "（旋转、回旋）"
   },
   {
     "name": "CRV",
@@ -308,7 +310,7 @@
   },
   {
     "name": "MDL",
-    "description": "调整的随机模式（不可预测/不规则）",
+    "description": "调整的随机模式",
     "gradient_type": "D2",
     "cs": "jm",
     "associated_root": false,
@@ -323,7 +325,8 @@
       "随机调整程度很大/很快",
       "随机调整程度非常大/非常快",
       "随机调整过多/过快"
-    ]
+    ],
+    "notes": "（不可预测/不规则）"
   },
   {
     "name": "ICR",

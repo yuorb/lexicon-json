@@ -230,7 +230,7 @@
   },
   {
     "name": "RCO",
-    "description": "Recoil in place (spring back; snap back; fall back into place)",
+    "description": "Recoil in place",
     "gradient_type": "D2",
     "cs": "zm",
     "associated_root": false,
@@ -245,7 +245,8 @@
       "recoil in place to a large degree / rapidly",
       "recoil in place to a very large degree / very rapidly",
       "recoil in place too much / overly / too rapidly"
-    ]
+    ],
+    "notes": "(spring back; snap back; fall back into place)"
   },
   {
     "name": "TFI",
@@ -269,7 +270,7 @@
   },
   {
     "name": "CRI",
-    "description": "Cycle or circular motion in place (spin, revolve)",
+    "description": "Cycle or circular motion in place",
     "gradient_type": "D2",
     "cs": "cm",
     "associated_root": false,
@@ -284,7 +285,8 @@
       "cycle in place to a large degree / rapidly",
       "cycle in place to a very large degree / very rapidly",
       "cycle in place much / overly / too rapidly"
-    ]
+    ],
+    "notes": "(spin, revolve)"
   },
   {
     "name": "CRV",
@@ -308,7 +310,7 @@
   },
   {
     "name": "MDL",
-    "description": "Random pattern of modulation (unpredictable/irregular)",
+    "description": "Random pattern of modulation",
     "gradient_type": "D2",
     "cs": "jm",
     "associated_root": false,
@@ -323,7 +325,8 @@
       "randomly modulate to a large degree / rapidly",
       "randomly modulate to a very large degree / very rapidly",
       "randomly modulate much / overly / too rapidly"
-    ]
+    ],
+    "notes": "(unpredictable/irregular)"
   },
   {
     "name": "ICR",
