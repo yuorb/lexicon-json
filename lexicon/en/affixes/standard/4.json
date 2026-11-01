@@ -96,7 +96,7 @@
   },
   {
     "name": "INL",
-    "description": "Degree Of Inclusion",
+    "description": "Degree of Inclusion",
     "gradient_type": "A1",
     "cs": "řt",
     "associated_root": false,
@@ -115,7 +115,7 @@
   },
   {
     "name": "SUF",
-    "description": "Degree Of Sufficiency of Amount/Impact",
+    "description": "Degree of Sufficiency of Amount/Impact",
     "gradient_type": "A1",
     "cs": "rt",
     "associated_root": true,
@@ -153,7 +153,7 @@
   },
   {
     "name": "ESO",
-    "description": "Extent to Which Something Occurs",
+    "description": "Extent To Which Something Occurs",
     "gradient_type": "A1",
     "cs": "ršk",
     "associated_root": false,
@@ -230,7 +230,7 @@
   },
   {
     "name": "RCO",
-    "description": "Recoil in place",
+    "description": "Recoil In Place",
     "gradient_type": "D2",
     "cs": "zm",
     "associated_root": false,
@@ -250,7 +250,7 @@
   },
   {
     "name": "TFI",
-    "description": "Back & forth; to & fro in place",
+    "description": "Back & Forth; To & Fro In Place",
     "gradient_type": "D2",
     "cs": "žm",
     "associated_root": false,
@@ -270,7 +270,7 @@
   },
   {
     "name": "CRI",
-    "description": "Cycle or circular motion in place",
+    "description": "Cycle or Circular Motion In Place",
     "gradient_type": "D2",
     "cs": "cm",
     "associated_root": false,
@@ -290,7 +290,7 @@
   },
   {
     "name": "CRV",
-    "description": "Cycle or circular motion over linear vector",
+    "description": "Cycle or Circular Motion Over Linear Vector",
     "gradient_type": "D2",
     "cs": "ẓm",
     "associated_root": false,
@@ -310,7 +310,7 @@
   },
   {
     "name": "MDL",
-    "description": "Random pattern of modulation",
+    "description": "Random Pattern of Modulation",
     "gradient_type": "D2",
     "cs": "jm",
     "associated_root": false,
@@ -368,7 +368,7 @@
   },
   {
     "name": "ICD",
-    "description": "Increase then Decrease",
+    "description": "Increase Then Decrease",
     "gradient_type": "D2",
     "cs": "šx",
     "associated_root": false,
@@ -387,7 +387,7 @@
   },
   {
     "name": "DCI",
-    "description": "Decrease then Increase",
+    "description": "Decrease Then Increase",
     "gradient_type": "D2",
     "cs": "dx",
     "associated_root": false,

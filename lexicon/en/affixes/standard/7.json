@@ -1,7 +1,7 @@
 [
   {
     "name": "DSD",
-    "description": "Desiderative modalities",
+    "description": "Desiderative Modalities",
     "gradient_type": "0",
     "cs": "lz",
     "associated_root": false,
@@ -23,7 +23,7 @@
   },
   {
     "name": "CPC",
-    "description": "Capacitative modalities",
+    "description": "Capacitative Modalities",
     "gradient_type": "0",
     "cs": "ž",
     "associated_root": false,
@@ -42,7 +42,7 @@
   },
   {
     "name": "DBV",
-    "description": "Deliberative modalities",
+    "description": "Deliberative Modalities",
     "gradient_type": "0",
     "cs": "čp",
     "associated_root": false,
@@ -61,7 +61,7 @@
   },
   {
     "name": "ATI",
-    "description": "Anticipatory modalities",
+    "description": "Anticipatory Modalities",
     "gradient_type": "0",
     "cs": "fs",
     "associated_root": false,
@@ -80,7 +80,7 @@
   },
   {
     "name": "OBG",
-    "description": "Obligative/necessitative",
+    "description": "Obligative/Necessitative",
     "gradient_type": "0",
     "cs": "lž",
     "associated_root": false,

@@ -153,7 +153,7 @@
   },
   {
     "name": "RDT",
-    "description": "Redirection of X to Other Use(s)",
+    "description": "Redirection of X To Other Use(s)",
     "gradient_type": "C",
     "cs": "ḑř",
     "associated_root": false,
@@ -324,7 +324,7 @@
   },
   {
     "name": "PUA",
-    "description": "Private Usage Or Association",
+    "description": "Private Usage or Association",
     "gradient_type": "B",
     "cs": "çl",
     "associated_root": false,
@@ -438,7 +438,7 @@
   },
   {
     "name": "EGY",
-    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State",
+    "description": "Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-In-State",
     "gradient_type": "0",
     "cs": "kz",
     "associated_root": false,
@@ -535,7 +535,7 @@
   },
   {
     "name": "OGC",
-    "description": "Orientation or Location Relative to a Geographical Central Point",
+    "description": "Orientation or Location Relative To a Geographical Central Point",
     "gradient_type": "D1",
     "cs": "dn",
     "associated_root": false,
@@ -554,7 +554,7 @@
   },
   {
     "name": "MSE",
-    "description": "Miscellaneous Entailments Associated with an Entity",
+    "description": "Miscellaneous Entailments Associated With an Entity",
     "gradient_type": "0",
     "cs": "zẓ",
     "associated_root": false,
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "AMC",
-    "description": "Number of Atoms in a Molecular Compound",
+    "description": "Number of Atoms In a Molecular Compound",
     "gradient_type": "A1",
     "cs": "rtl",
     "associated_root": false,
@@ -1545,7 +1545,7 @@
   },
   {
     "name": "CRE",
-    "description": "Capacity for a Relationship with an Entity",
+    "description": "Capacity For a Relationship With an Entity",
     "gradient_type": "0",
     "cs": "jf",
     "associated_root": false,

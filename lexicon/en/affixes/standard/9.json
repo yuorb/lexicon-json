@@ -20,7 +20,7 @@
   },
   {
     "name": "AR1",
-    "description": "Position Of One’s Arms 1",
+    "description": "Position of One’s Arms 1",
     "gradient_type": "0",
     "cs": "žt",
     "associated_root": false,
@@ -39,7 +39,7 @@
   },
   {
     "name": "AR2",
-    "description": "Position Of One’s Arms 2",
+    "description": "Position of One’s Arms 2",
     "gradient_type": "0",
     "cs": "žk",
     "associated_root": false,
@@ -96,7 +96,7 @@
   },
   {
     "name": "BOD",
-    "description": "Position Of One’s Core Body",
+    "description": "Position of One’s Core Body",
     "gradient_type": "0",
     "cs": "ňẓ",
     "associated_root": false,
@@ -116,7 +116,7 @@
   },
   {
     "name": "LEG",
-    "description": "Position Of One’s Legs",
+    "description": "Position of One’s Legs",
     "gradient_type": "0",
     "cs": "čd",
     "associated_root": false,

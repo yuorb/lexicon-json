@@ -135,7 +135,7 @@
   },
   {
     "name": "VRF",
-    "description": "Verifiability of Info & Trustworthiness of its Source",
+    "description": "Verifiability of Info & Trustworthiness of Its Source",
     "gradient_type": "B",
     "cs": "ňç",
     "associated_root": false,
@@ -154,7 +154,7 @@
   },
   {
     "name": "IPC",
-    "description": "Unforeseen Implication Contrary to Expectation",
+    "description": "Unforeseen Implication Contrary To Expectation",
     "gradient_type": "0",
     "cs": "čt",
     "associated_root": false,
@@ -211,7 +211,7 @@
   },
   {
     "name": "LVL",
-    "description": "Alternate forms of Comparison Operators *",
+    "description": "Alternate Forms of Comparison Operators *",
     "gradient_type": "A1",
     "cs": "řž",
     "associated_root": false,
@@ -278,7 +278,7 @@
   },
   {
     "name": "SCL",
-    "description": "Standards for Comparison for Use with Levels",
+    "description": "Standards For Comparison For Use With Levels",
     "gradient_type": "D1",
     "cs": "mt",
     "associated_root": false,
@@ -298,7 +298,7 @@
   },
   {
     "name": "XCL",
-    "description": "External Standard for Comparison for Use with Levels",
+    "description": "External Standard For Comparison For Use With Levels",
     "gradient_type": "D1",
     "cs": "çx",
     "associated_root": false,
@@ -318,7 +318,7 @@
   },
   {
     "name": "VWP",
-    "description": "From Viewpoint/Perspective of",
+    "description": "From Viewpoint/Perspective Of",
     "gradient_type": "D1",
     "cs": "lk",
     "associated_root": false,

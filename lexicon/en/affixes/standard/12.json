@@ -1,7 +1,7 @@
 [
   {
     "name": "MLR",
-    "description": "Meta-level representation/coordination/analysis",
+    "description": "Meta-Level Representation/Coordination/Analysis",
     "gradient_type": "0",
     "cs": "fš",
     "associated_root": false,
@@ -115,7 +115,7 @@
   },
   {
     "name": "MEA",
-    "description": "Means for Being or Doing",
+    "description": "Means For Being or Doing",
     "gradient_type": "0",
     "cs": "ls",
     "associated_root": false,
@@ -210,7 +210,7 @@
   },
   {
     "name": "KBP",
-    "description": "Basis for System of Knowledge, Belief or Practice",
+    "description": "Basis For System of Knowledge, Belief or Practice",
     "gradient_type": "D1",
     "cs": "zv",
     "associated_root": false,
@@ -364,7 +364,7 @@
   },
   {
     "name": "TRF",
-    "description": "Transformation for Use",
+    "description": "Transformation For Use",
     "gradient_type": "0",
     "cs": "zč",
     "associated_root": false,

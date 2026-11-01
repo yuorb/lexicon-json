@@ -20,7 +20,7 @@
   },
   {
     "name": "RSN",
-    "description": "Reason for an Emotional State or Motivation for an Action",
+    "description": "Reason For an Emotional State or Motivation For an Action",
     "gradient_type": "0",
     "cs": "cb",
     "associated_root": true,
@@ -39,7 +39,7 @@
   },
   {
     "name": "MTA",
-    "description": "Negative Motivation for an Action or State",
+    "description": "Negative Motivation For an Action or State",
     "gradient_type": "0",
     "cs": "sč",
     "associated_root": false,
@@ -134,7 +134,7 @@
   },
   {
     "name": "IMP",
-    "description": "Degree of Impact on Patient/Target or Enablement of Outcome",
+    "description": "Degree of Impact On Patient/Target or Enablement of Outcome",
     "gradient_type": "A1",
     "cs": "řň",
     "associated_root": false,
@@ -153,7 +153,7 @@
   },
   {
     "name": "LET",
-    "description": "‘to let X be/happen/manifest …’",
+    "description": "‘To let X be/happen/manifest …’",
     "gradient_type": "0",
     "cs": "kč",
     "associated_root": false,
@@ -172,7 +172,7 @@
   },
   {
     "name": "CHC",
-    "description": "Degree of Choice by Externally-Induced Agent",
+    "description": "Degree of Choice By Externally-Induced Agent",
     "gradient_type": "A1",
     "cs": "rz",
     "associated_root": false,

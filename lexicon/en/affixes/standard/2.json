@@ -20,7 +20,7 @@
   },
   {
     "name": "SQT",
-    "description": "Sequence Relative to Present Context",
+    "description": "Sequence Relative To Present Context",
     "gradient_type": "D1",
     "cs": "lţ",
     "associated_root": false,
@@ -708,7 +708,7 @@
   },
   {
     "name": "FRQ",
-    "description": "Degree Of Frequency",
+    "description": "Degree of Frequency",
     "gradient_type": "A1",
     "cs": "rp",
     "associated_root": true,
@@ -727,7 +727,7 @@
   },
   {
     "name": "ITN",
-    "description": "Degree Of Iteration",
+    "description": "Degree of Iteration",
     "gradient_type": "D1",
     "cs": "rm",
     "associated_root": false,
@@ -765,7 +765,7 @@
   },
   {
     "name": "SPT",
-    "description": "Specified Points in Calendrical Time",
+    "description": "Specified Points In Calendrical Time",
     "gradient_type": "A1",
     "cs": "rw/ry",
     "associated_root": false,
@@ -863,7 +863,7 @@
   },
   {
     "name": "TPP",
-    "description": "Temporal Position Relative to Present",
+    "description": "Temporal Position Relative To Present",
     "gradient_type": "D1",
     "cs": "kt",
     "associated_root": true,
@@ -882,7 +882,7 @@
   },
   {
     "name": "ANT",
-    "description": "Degree Of Anticipation",
+    "description": "Degree of Anticipation",
     "gradient_type": "D1",
     "cs": "lst",
     "associated_root": true,
@@ -959,7 +959,7 @@
   },
   {
     "name": "TME",
-    "description": "Degree Of Timeliness",
+    "description": "Degree of Timeliness",
     "gradient_type": "D2",
     "cs": "km",
     "associated_root": true,

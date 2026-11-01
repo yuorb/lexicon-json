@@ -98,7 +98,7 @@
   },
   {
     "name": "DCV",
-    "description": "Degree Of Spatio-Temporal Divergence or Convergence",
+    "description": "Degree of Spatio-Temporal Divergence or Convergence",
     "gradient_type": "D1",
     "cs": "ţt",
     "associated_root": false,
@@ -193,7 +193,7 @@
   },
   {
     "name": "ERR",
-    "description": "Degree of Correctness versus Error",
+    "description": "Degree of Correctness Versus Error",
     "gradient_type": "D1",
     "cs": "ňţ",
     "associated_root": true,
@@ -383,7 +383,7 @@
   },
   {
     "name": "CVT",
-    "description": "Degree of Covertness versus Overtness",
+    "description": "Degree of Covertness Versus Overtness",
     "gradient_type": "D2",
     "cs": "nx",
     "associated_root": true,
@@ -595,7 +595,7 @@
   },
   {
     "name": "RSK",
-    "description": "Degree of Risk to a Party",
+    "description": "Degree of Risk To a Party",
     "gradient_type": "B",
     "cs": "çr",
     "associated_root": false,
@@ -653,7 +653,7 @@
   },
   {
     "name": "EFP",
-    "description": "Degree of Effect from Pain or Pleasure",
+    "description": "Degree of Effect From Pain or Pleasure",
     "gradient_type": "D1",
     "cs": "pļ",
     "associated_root": false,
@@ -673,7 +673,7 @@
   },
   {
     "name": "TAL",
-    "description": "Degree of Innate Talent for …",
+    "description": "Degree of Innate Talent For …",
     "gradient_type": "D1",
     "cs": "bň",
     "associated_root": true,
@@ -749,7 +749,7 @@
   },
   {
     "name": "SCS",
-    "description": "Degree of Success versus Failure",
+    "description": "Degree of Success Versus Failure",
     "gradient_type": "D1",
     "cs": "d",
     "associated_root": false,

@@ -115,7 +115,7 @@
   },
   {
     "name": "FAM",
-    "description": "Degree Of Familiarity",
+    "description": "Degree of Familiarity",
     "gradient_type": "A1",
     "cs": "rļ",
     "associated_root": false,
@@ -134,7 +134,7 @@
   },
   {
     "name": "SIM",
-    "description": "Degree Of Similarity",
+    "description": "Degree of Similarity",
     "gradient_type": "A1",
     "cs": "rx",
     "associated_root": true,

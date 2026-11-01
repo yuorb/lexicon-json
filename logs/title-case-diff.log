@@ -1,0 +1,698 @@
+# Title Case Normalization Diff
+
+## BY2
+- **Old**: Bodily Instrumentality 2 = ‘by means of/using …’
++ **New**: Bodily Instrumentality 2 = ‘By means of/using …’
+
+## CGL
+- **Old**: Motive/Reason for Conglomeration of Gestalt Entity
++ **New**: Motive/Reason For Conglomeration of Gestalt Entity
+
+## MLR
+- **Old**: Meta-level representation/coordination/analysis
++ **New**: Meta-Level Representation/Coordination/Analysis
+
+## MEA
+- **Old**: Means for Being or Doing
++ **New**: Means For Being or Doing
+
+## KBP
+- **Old**: Basis for System of Knowledge, Belief or Practice
++ **New**: Basis For System of Knowledge, Belief or Practice
+
+## TRF
+- **Old**: Transformation for Use
++ **New**: Transformation For Use
+
+## EMO
+- **Old**: Emotion Associated with a State, Act, Event
++ **New**: Emotion Associated With a State, Act, Event
+
+## VRF
+- **Old**: Verifiability of Info & Trustworthiness of its Source
++ **New**: Verifiability of Info & Trustworthiness of Its Source
+
+## IPC
+- **Old**: Unforeseen Implication Contrary to Expectation
++ **New**: Unforeseen Implication Contrary To Expectation
+
+## LVL
+- **Old**: Alternate forms of Comparison Operators *
++ **New**: Alternate Forms of Comparison Operators *
+
+## SCL
+- **Old**: Standards for Comparison for Use with Levels
++ **New**: Standards For Comparison For Use With Levels
+
+## XCL
+- **Old**: External Standard for Comparison for Use with Levels
++ **New**: External Standard For Comparison For Use With Levels
+
+## VWP
+- **Old**: From Viewpoint/Perspective of
++ **New**: From Viewpoint/Perspective Of
+
+## PG1
+- **Old**: Physical Features Based on Geography 1 for Species or Sub-Species Differentiation
++ **New**: Physical Features Based On Geography 1 For Species or Sub-Species Differentiation
+
+## PG2
+- **Old**: Physical Features Based on Geography 2 for Species or Sub-Species Differentiation
++ **New**: Physical Features Based On Geography 2 For Species or Sub-Species Differentiation
+
+## GEO
+- **Old**: Geographic or Environmental Niche for Species or Sub-Species Differentiation
++ **New**: Geographic or Environmental Niche For Species or Sub-Species Differentiation
+
+## WBN
+- **Old**: Water-based Environmental Niche for Species or Sub-Species Differentiation
++ **New**: Water-Based Environmental Niche For Species or Sub-Species Differentiation
+
+## OBN
+- **Old**: Ocean-based Environmental Niche for Species or Sub-Species Differentiation
++ **New**: Ocean-Based Environmental Niche For Species or Sub-Species Differentiation
+
+## ENS
+- **Old**: Environmental Niche for Species or Sub-Species Differentiation
++ **New**: Environmental Niche For Species or Sub-Species Differentiation
+
+## DBM
+- **Old**: Distinctive Bodily/Fur Markings for Species or Sub-Species Differentiation
++ **New**: Distinctive Bodily/Fur Markings For Species or Sub-Species Differentiation
+
+## MB1
+- **Old**: Morphological Bodily Distinctions for Species or Sub-Species Differentiation 1
++ **New**: Morphological Bodily Distinctions For Species or Sub-Species Differentiation 1
+
+## MB2
+- **Old**: Morphological Bodily Distinctions for Species or Sub-Species Differentiation 2
++ **New**: Morphological Bodily Distinctions For Species or Sub-Species Differentiation 2
+
+## RES
+- **Old**: Resemblances to Other Species
++ **New**: Resemblances To Other Species
+
+## RDT
+- **Old**: Redirection of X to Other Use(s)
++ **New**: Redirection of X To Other Use(s)
+
+## PUA
+- **Old**: Private Usage Or Association
++ **New**: Private Usage or Association
+
+## EGY
+- **Old**: Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-in-State
++ **New**: Initiating Force/Energy of a Motion/Trajectory/Appearance/Change-In-State
+
+## OGC
+- **Old**: Orientation or Location Relative to a Geographical Central Point
++ **New**: Orientation or Location Relative To a Geographical Central Point
+
+## MSE
+- **Old**: Miscellaneous Entailments Associated with an Entity
++ **New**: Miscellaneous Entailments Associated With an Entity
+
+## AMC
+- **Old**: Number of Atoms in a Molecular Compound
++ **New**: Number of Atoms In a Molecular Compound
+
+## CRE
+- **Old**: Capacity for a Relationship with an Entity
++ **New**: Capacity For a Relationship With an Entity
+
+## SQT
+- **Old**: Sequence Relative to Present Context
++ **New**: Sequence Relative To Present Context
+
+## FRQ
+- **Old**: Degree Of Frequency
++ **New**: Degree of Frequency
+
+## ITN
+- **Old**: Degree Of Iteration
++ **New**: Degree of Iteration
+
+## SPT
+- **Old**: Specified Points in Calendrical Time
++ **New**: Specified Points In Calendrical Time
+
+## TPP
+- **Old**: Temporal Position Relative to Present
++ **New**: Temporal Position Relative To Present
+
+## ANT
+- **Old**: Degree Of Anticipation
++ **New**: Degree of Anticipation
+
+## TME
+- **Old**: Degree Of Timeliness
++ **New**: Degree of Timeliness
+
+## M01
+- **Old**: path-oriented quasi-linear translative motion
++ **New**: Path-Oriented Quasi-Linear Translative Motion
+
+## M01w
+- **Old**: arrive via linear motion
++ **New**: Arrive Via Linear Motion
+
+## M01y
+- **Old**: depart via linear motion
++ **New**: Depart Via Linear Motion
+
+## M02
+- **Old**: vertical quasi-linear translative motion
++ **New**: Vertical Quasi-Linear Translative Motion
+
+## M02w
+- **Old**: ascent/rise
++ **New**: Ascent/Rise
+
+## M02y
+- **Old**: descent
++ **New**: Descent
+
+## M03
+- **Old**: oblique vertical quasi-linear translative motion
++ **New**: Oblique Vertical Quasi-Linear Translative Motion
+
+## M03w
+- **Old**: oblique ascent
++ **New**: Oblique Ascent
+
+## M03y
+- **Old**: oblique descent
++ **New**: Oblique Descent
+
+## M04
+- **Old**: horizontal planar translative motion
++ **New**: Horizontal Planar Translative Motion
+
+## M04w
+- **Old**: approach/getting nearer
++ **New**: Approach/Getting Nearer
+
+## M04y
+- **Old**: recede/getting farther away
++ **New**: Recede/Getting Farther Away
+
+## M05
+- **Old**: [anti]parallel translative motion
++ **New**: (Anti-)Parallel Translative Motion
+
+## M05w
+- **Old**: parallel translative motion
++ **New**: Parallel Translative Motion
+
+## M05y
+- **Old**: antiparallel translative motion
++ **New**: Antiparallel Translative Motion
+
+## M06
+- **Old**: perpendicular-planar translative motion
++ **New**: Perpendicular-Planar Translative Motion
+
+## M06w
+- **Old**: rightward movement
++ **New**: Rightward Movement
+
+## M06y
+- **Old**: leftward movement
++ **New**: Leftward Movement
+
+## M07
+- **Old**: oblique lateral translative motion
++ **New**: Oblique Lateral Translative Motion
+
+## M07w
+- **Old**: oblique approach
++ **New**: Oblique Approach
+
+## M07y
+- **Old**: oblique receding
++ **New**: Oblique Receding
+
+## M08
+- **Old**: horizontal-planar range of motion
++ **New**: Horizontal-Planar Range of Motion
+
+## M08w
+- **Old**: random directed approach in horizontal plane
++ **New**: Random Directed Approach In Horizontal Plane
+
+## M08y
+- **Old**: random directed receding in horizontal plane
++ **New**: Random Directed Receding In Horizontal Plane
+
+## M09
+- **Old**: vertical-planar range of motion
++ **New**: Vertical-Planar Range of Motion
+
+## M09w
+- **Old**: random directed approach in vertical plane
++ **New**: Random Directed Approach In Vertical Plane
+
+## M09y
+- **Old**: random directed receding in vertical plane
++ **New**: Random Directed Receding In Vertical Plane
+
+## M10
+- **Old**: perpendicular-planar range of motion
++ **New**: Perpendicular-Planar Range of Motion
+
+## M10w
+- **Old**: random directed approach in perpendicular plane
++ **New**: Random Directed Approach In Perpendicular Plane
+
+## M10y
+- **Old**: random directed receding in perpendicular plane
++ **New**: Random Directed Receding In Perpendicular Plane
+
+## M11
+- **Old**: motion on parabolic/arc trajectory rel. to gravity
++ **New**: Motion On Parabolic/Arc Trajectory Rel. To Gravity
+
+## M11w
+- **Old**: parabolic approach
++ **New**: Parabolic Approach
+
+## M11y
+- **Old**: parabolic receding
++ **New**: Parabolic Receding
+
+## M12
+- **Old**: motion in a curve
++ **New**: Motion In a Curve
+
+## M12w
+- **Old**: curved approach
++ **New**: Curved Approach
+
+## M12y
+- **Old**: curved receding
++ **New**: Curved Receding
+
+## M13
+- **Old**: motion in a planar circular path
++ **New**: Motion In a Planar Circular Path
+
+## M13w
+- **Old**: counter-clockwise circular motion
++ **New**: Counter-Clockwise Circular Motion
+
+## M13y
+- **Old**: clockwise circular motion
++ **New**: Clockwise Circular Motion
+
+## M14
+- **Old**: generic/oblique 3-D range of motion
++ **New**: Generic/Oblique 3-D Range of Motion
+
+## M14w
+- **Old**: arrive via oblique motions
++ **New**: Arrive Via Oblique Motions
+
+## M14y
+- **Old**: depart via oblique motions
++ **New**: Depart Via Oblique Motions
+
+## P01
+- **Old**: generic spatial position
++ **New**: Generic Spatial Position
+
+## P02
+- **Old**: position at 0 / 0 / 0 — “right here”
++ **New**: Position At 0 / 0 / 0 — “Right here”
+
+## P03
+- **Old**: position at 0 / 0 / +Z — “above”
++ **New**: Position At 0 / 0 / +Z — “Above”
+
+## P04
+- **Old**: position at 0 / 0 / -Z — “below”
++ **New**: Position At 0 / 0 / -Z — “Below”
+
+## P05
+- **Old**: position at 0 / +Y / 0 — “in front”
++ **New**: Position At 0 / +Y / 0 — “In front”
+
+## P06
+- **Old**: position at 0 / -Y / 0 — “behind”
++ **New**: Position At 0 / -Y / 0 — “Behind”
+
+## P07
+- **Old**: position at +X / 0 / 0 — “to the right”
++ **New**: Position At +X / 0 / 0 — “To the right”
+
+## P08
+- **Old**: position at -X / 0 / 0 — “to the left”
++ **New**: Position At -X / 0 / 0 — “To the left”
+
+## P09
+- **Old**: position at 0 / +Y / +Z — “in front & above”
++ **New**: Position At 0 / +Y / +Z — “In front & above”
+
+## P10
+- **Old**: position at 0 / +Y / -Z — “in front & below”
++ **New**: Position At 0 / +Y / -Z — “In front & below”
+
+## P11
+- **Old**: position at 0 / -Y / +Z — “behind & above”
++ **New**: Position At 0 / -Y / +Z — “Behind & above”
+
+## P12
+- **Old**: position at 0 / -Y / -Z — “behind & below”
++ **New**: Position At 0 / -Y / -Z — “Behind & below”
+
+## P13
+- **Old**: position at +X / +Y / 0 — “to the right & in front”
++ **New**: Position At +X / +Y / 0 — “To the right & in front”
+
+## P14
+- **Old**: position at +X / -Y / 0 — “to the right & behind”
++ **New**: Position At +X / -Y / 0 — “To the right & behind”
+
+## P15
+- **Old**: pos. at +X / 0 / +Z - “to the right & above”
++ **New**: Pos. At +X / 0 / +Z - “To the right & above”
+
+## P16
+- **Old**: pos. at +X / 0 / -Z — “to the right & below”
++ **New**: Pos. At +X / 0 / -Z — “To the right & below”
+
+## P17
+- **Old**: pos. at -X / +Y / 0 - “to the left & in front”
++ **New**: Pos. At -X / +Y / 0 - “To the left & in front”
+
+## P18
+- **Old**: pos. at -X / -Y / 0 — “to the left & behind”
++ **New**: Pos. At -X / -Y / 0 — “To the left & behind”
+
+## P19
+- **Old**: pos. at -X / 0 / +Z - “to the left & above”
++ **New**: Pos. At -X / 0 / +Z - “To the left & above”
+
+## P20
+- **Old**: pos. at -X / 0 / -Z — “to the left & below”
++ **New**: Pos. At -X / 0 / -Z — “To the left & below”
+
+## P21
+- **Old**: pos. at +X / +Y / +Z — “to the right, in front & above”
++ **New**: Pos. At +X / +Y / +Z — “To the right, in front & above”
+
+## P22
+- **Old**: pos. at +X / +Y / -Z — “to the right, in front & below”
++ **New**: Pos. At +X / +Y / -Z — “To the right, in front & below”
+
+## P23
+- **Old**: pos. at +X / -Y / +Z — “to the right, behind & above”
++ **New**: Pos. At +X / -Y / +Z — “To the right, behind & above”
+
+## P24
+- **Old**: pos. at +X / -Y / -Z — “to the right, behind & below”
++ **New**: Pos. At +X / -Y / -Z — “To the right, behind & below”
+
+## P25
+- **Old**: pos. at -X / +Y / +Z — “to the left, in front & above”
++ **New**: Pos. At -X / +Y / +Z — “To the left, in front & above”
+
+## P26
+- **Old**: pos. at -X / +Y / -Z — “to the left, in front & below”
++ **New**: Pos. At -X / +Y / -Z — “To the left, in front & below”
+
+## P27
+- **Old**: pos. at -X / -Y / +Z — “to the left, behind & above”
++ **New**: Pos. At -X / -Y / +Z — “To the left, behind & above”
+
+## P28
+- **Old**: pos. at -X / -Y /-Z — “to the left, behind & below”
++ **New**: Pos. At -X / -Y /-Z — “To the left, behind & below”
+
+## S01
+- **Old**: position between/amidst/among [2D]
++ **New**: Position Between/Amidst/Among [2D]
+
+## S02
+- **Old**: position between/among [1D]
++ **New**: Position Between/Among [1D]
+
+## S03
+- **Old**: indefinite position amidst/among [3D]
++ **New**: Indefinite Position Amidst/Among [3D]
+
+## S04
+- **Old**: position/state intertwined [2D, separable]
++ **New**: Position/State Intertwined [2D, separable]
+
+## S05
+- **Old**: position/state intertwined [3D, separable]
++ **New**: Position/State Intertwined [3D, separable]
+
+## S06
+- **Old**: position/state intertwined [2D, inseparable]
++ **New**: Position/State Intertwined [2D, inseparable]
+
+## S07
+- **Old**: position/state intertwined [3D, inseparable]
++ **New**: Position/State Intertwined [3D, inseparable]
+
+## S08
+- **Old**: positionally-defined componential part
++ **New**: Positionally-Defined Componential Part
+
+## S09
+- **Old**: linear uni-dimensional middle, center
++ **New**: Linear Uni-Dimensional Middle, Center
+
+## S10
+- **Old**: linear uni-dimensional middle, center
++ **New**: Linear Uni-Dimensional Middle, Center
+
+## S11
+- **Old**: planar 2-dimensional middle, center
++ **New**: Planar 2-Dimensional Middle, Center
+
+## S12
+- **Old**: planar 2-dimensional middle, center
++ **New**: Planar 2-Dimensional Middle, Center
+
+## S13
+- **Old**: planar 2-dimensional middle, center
++ **New**: Planar 2-Dimensional Middle, Center
+
+## S14
+- **Old**: center point of an entity
++ **New**: Center Point of an Entity
+
+## S15
+- **Old**: side/flank of an entity
++ **New**: Side/Flank of an Entity
+
+## S16
+- **Old**: front part of an entity
++ **New**: Front Part of an Entity
+
+## S17
+- **Old**: rear/back part of an entity
++ **New**: Rear/Back Part of an Entity
+
+## S18
+- **Old**: top/peak/summit of an entity
++ **New**: Top/Peak/Summit of an Entity
+
+## S19
+- **Old**: bottom/foundation of an entity
++ **New**: Bottom/Foundation of an Entity
+
+## S20
+- **Old**: upper part / “half” of an entity
++ **New**: Upper Part / “Half” of an Entity
+
+## S21
+- **Old**: lower part / “half” of an entity
++ **New**: Lower Part / “Half” of an Entity
+
+## S22
+- **Old**: interior/internal volume / “inside(s)”/“innards” of an entity
++ **New**: Interior/Internal Volume / “Inside(s)”/“Innards” of an Entity
+
+## S23
+- **Old**: interior surface or “wall” / internal surface or “wall” / the inside surface or “wall” of an entity
++ **New**: Interior Surface or “Wall” / Internal Surface or “Wall” / the Inside Surface or “Wall” of an Entity
+
+## S24
+- **Old**: exterior/external surface / “outside” / “skin” of an entity
++ **New**: Exterior/External Surface / “Outside” / “Skin” of an Entity
+
+## S25
+- **Old**: external point-like outward-facing vertex / “corner” of an entity
++ **New**: External Point-Like Outward-Facing Vertex / “Corner” of an Entity
+
+## S26
+- **Old**: external quasi-linear edge of an entity
++ **New**: External Quasi-Linear Edge of an Entity
+
+## S27
+- **Old**: external quasi-linear joining of surfaces/“seam” of an entity
++ **New**: External Quasi-Linear Joining of Surfaces/“Seam” of an Entity
+
+## S28
+- **Old**: external attachment point or fastening mechanism of an entity
++ **New**: External Attachment Point or Fastening Mechanism of an Entity
+
+## S29
+- **Old**: internal point-like interior vertex / “corner” of an entity
++ **New**: Internal Point-Like Interior Vertex / “Corner” of an Entity
+
+## S30
+- **Old**: external linear outward-facing “corner” edge or “corner” space of an entity
++ **New**: External Linear Outward-Facing “Corner” Edge or “Corner” Space of an Entity
+
+## S31
+- **Old**: internal linear interior “corner” edge or “corner” space of an entity
++ **New**: Internal Linear Interior “Corner” Edge or “Corner” Space of an Entity
+
+## SNW
+- **Old**: Secondary Sine Wave-like Motion
++ **New**: Secondary Sine Wave-Like Motion
+
+## WAK
+- **Old**: Spread/wake/trail/area/expanse created by passage of entity
++ **New**: Spread/Wake/Trail/Area/Expanse Created By Passage of Entity
+
+## INL
+- **Old**: Degree Of Inclusion
++ **New**: Degree of Inclusion
+
+## SUF
+- **Old**: Degree Of Sufficiency of Amount/Impact
++ **New**: Degree of Sufficiency of Amount/Impact
+
+## ESO
+- **Old**: Extent to Which Something Occurs
++ **New**: Extent To Which Something Occurs
+
+## RCO
+- **Old**: Recoil in place
++ **New**: Recoil In Place
+
+## TFI
+- **Old**: Back & forth; to & fro in place
++ **New**: Back & Forth; To & Fro In Place
+
+## CRI
+- **Old**: Cycle or circular motion in place
++ **New**: Cycle or Circular Motion In Place
+
+## CRV
+- **Old**: Cycle or circular motion over linear vector
++ **New**: Cycle or Circular Motion Over Linear Vector
+
+## MDL
+- **Old**: Random pattern of modulation
++ **New**: Random Pattern of Modulation
+
+## ICD
+- **Old**: Increase then Decrease
++ **New**: Increase Then Decrease
+
+## DCI
+- **Old**: Decrease then Increase
++ **New**: Decrease Then Increase
+
+## STY
+- **Old**: Stylistic thru Time
++ **New**: Stylistic Thru Time
+
+## HRC
+- **Old**: Position on Social, Occupational, or (Para-) Military Hierarchy
++ **New**: Position On Social, Occupational, or (Para-) Military Hierarchy
+
+## DCP
+- **Old**: Degree of Concentration vs. Dissipation
++ **New**: Degree of Concentration Vs. Dissipation
+
+## DCV
+- **Old**: Degree Of Spatio-Temporal Divergence or Convergence
++ **New**: Degree of Spatio-Temporal Divergence or Convergence
+
+## ERR
+- **Old**: Degree of Correctness versus Error
++ **New**: Degree of Correctness Versus Error
+
+## CVT
+- **Old**: Degree of Covertness versus Overtness
++ **New**: Degree of Covertness Versus Overtness
+
+## RSK
+- **Old**: Degree of Risk to a Party
++ **New**: Degree of Risk To a Party
+
+## EFP
+- **Old**: Degree of Effect from Pain or Pleasure
++ **New**: Degree of Effect From Pain or Pleasure
+
+## TAL
+- **Old**: Degree of Innate Talent for …
++ **New**: Degree of Innate Talent For …
+
+## SCS
+- **Old**: Degree of Success versus Failure
++ **New**: Degree of Success Versus Failure
+
+## DSD
+- **Old**: Desiderative modalities
++ **New**: Desiderative Modalities
+
+## CPC
+- **Old**: Capacitative modalities
++ **New**: Capacitative Modalities
+
+## DBV
+- **Old**: Deliberative modalities
++ **New**: Deliberative Modalities
+
+## ATI
+- **Old**: Anticipatory modalities
++ **New**: Anticipatory Modalities
+
+## OBG
+- **Old**: Obligative/necessitative
++ **New**: Obligative/Necessitative
+
+## RSN
+- **Old**: Reason for an Emotional State or Motivation for an Action
++ **New**: Reason For an Emotional State or Motivation For an Action
+
+## MTA
+- **Old**: Negative Motivation for an Action or State
++ **New**: Negative Motivation For an Action or State
+
+## IMP
+- **Old**: Degree of Impact on Patient/Target or Enablement of Outcome
++ **New**: Degree of Impact On Patient/Target or Enablement of Outcome
+
+## LET
+- **Old**: ‘to let X be/happen/manifest …’
++ **New**: ‘To let X be/happen/manifest …’
+
+## CHC
+- **Old**: Degree of Choice by Externally-Induced Agent
++ **New**: Degree of Choice By Externally-Induced Agent
+
+## AR1
+- **Old**: Position Of One’s Arms 1
++ **New**: Position of One’s Arms 1
+
+## AR2
+- **Old**: Position Of One’s Arms 2
++ **New**: Position of One’s Arms 2
+
+## BOD
+- **Old**: Position Of One’s Core Body
++ **New**: Position of One’s Core Body
+
+## LEG
+- **Old**: Position Of One’s Legs
++ **New**: Position of One’s Legs
+
