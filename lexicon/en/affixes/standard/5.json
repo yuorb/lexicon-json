@@ -20,7 +20,7 @@
   },
   {
     "name": "STY",
-    "description": "Stylistic thru Time",
+    "description": "Stylistic Thru Time",
     "gradient_type": "A1",
     "cs": "rč",
     "associated_root": false,
@@ -229,7 +229,7 @@
   },
   {
     "name": "HRC",
-    "description": "Position on Social, Occupational, or (Para-) Military Hierarchy",
+    "description": "Position On Social, Occupational, or (Para-) Military Hierarchy",
     "gradient_type": "A1",
     "cs": "rž",
     "associated_root": false,
@@ -555,7 +555,7 @@
   },
   {
     "name": "DPY",
-    "description": "Degree of Principality (of an entity within a group or system)",
+    "description": "Degree of Principality",
     "gradient_type": "B",
     "cs": "vç",
     "associated_root": false,
@@ -570,11 +570,12 @@
       "primary, but replaceable",
       "primary / main / principal / chief",
       "primary and irreplaceable / indispensible"
-    ]
+    ],
+    "notes": "(of an entity within a group or system)"
   },
   {
     "name": "DCP",
-    "description": "Degree of Concentration vs. Dissipation",
+    "description": "Degree of Concentration Vs. Dissipation",
     "gradient_type": "D1",
     "cs": "xv",
     "associated_root": true,

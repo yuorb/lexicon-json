@@ -1,7 +1,7 @@
 [
   {
     "name": "BY1",
-    "description": "Bodily Instrumentality = ‘by means of/using …’",
+    "description": "Bodily Instrumentality",
     "gradient_type": "0",
     "cs": "zb",
     "associated_root": false,
@@ -16,11 +16,12 @@
       "w/both elbows/forearms",
       "w/an arm / tentacle / primary manipulator appendage",
       "w/both arms / tentacles / primary manipulator appendages"
-    ]
+    ],
+    "notes": "‘by means of/using …’"
   },
   {
     "name": "BY2",
-    "description": "Bodily Instrumentality 2 = ‘by means of/using …’ (formerly DBI)",
+    "description": "Bodily Instrumentality 2 = ‘By means of/using …’",
     "gradient_type": "0",
     "cs": "zd",
     "associated_root": false,
@@ -35,11 +36,12 @@
       "w/both knees",
       "w/a leg / primary ambulatory appendage",
       "w/both legs / primary ambulatory appendages"
-    ]
+    ],
+    "notes": "(formerly DBI)"
   },
   {
     "name": "BY3",
-    "description": "Bodily Instrumentality 3 = ‘by means of/using …’",
+    "description": "Bodily Instrumentality 3",
     "gradient_type": "0",
     "cs": "zg",
     "associated_root": false,
@@ -54,11 +56,12 @@
       "w/one’s teeth/fangs",
       "w/one’s lips",
       "w/one’s tongue"
-    ]
+    ],
+    "notes": "‘by means of/using …’"
   },
   {
     "name": "BY4",
-    "description": "Bodily Instrumentality 4 = ‘by means of/using …’",
+    "description": "Bodily Instrumentality 4",
     "gradient_type": "0",
     "cs": "zk",
     "associated_root": false,
@@ -73,11 +76,12 @@
       "w/one’s whiskers/feelers/antennae",
       "w/a fingernail/claw",
       "w/one’s fingernails/claws"
-    ]
+    ],
+    "notes": "‘by means of/using …’"
   },
   {
     "name": "MEC",
-    "description": "Type of Mechanical Instrumentality = ‘by means of …’",
+    "description": "Type of Mechanical Instrumentality",
     "gradient_type": "0",
     "cs": "ms",
     "associated_root": false,
@@ -92,7 +96,8 @@
       "w/a redirection or collation of energy specially applied",
       "w/a coordinated/formal/commercial service dedicated to the task",
       "w/a collective pooling of electronic/mechanical/engineering resources"
-    ]
+    ],
+    "notes": "‘by means of …’"
   },
   {
     "name": "UTE",
@@ -134,7 +139,7 @@
   },
   {
     "name": "MDI",
-    "description": "Modification (type 2 affixes = specifically designed tool/device)",
+    "description": "Modification",
     "gradient_type": "D1",
     "cs": "gḑ",
     "associated_root": false,
@@ -176,11 +181,12 @@
         "entity/object used to initiate/start/effectuate (the process/effect of) X",
         "specifically designed tool/device used to initiate/start/effectuate (the process/effect of) X"
       ]
-    ]
+    ],
+    "notes": "(type 2 affixes = specifically designed tool/device)"
   },
   {
     "name": "SOC",
-    "description": "Type of Social Instrumentality = ‘by means of …’",
+    "description": "Type of Social Instrumentality",
     "gradient_type": "0",
     "cs": "mz",
     "associated_root": false,
@@ -195,7 +201,8 @@
       "via a proxy or proxies",
       "hired help or staff",
       "by delegation of task to experts"
-    ]
+    ],
+    "notes": "‘by means of …’"
   },
   {
     "name": "OAU",

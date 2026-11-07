@@ -20,7 +20,7 @@
   },
   {
     "name": "PWC",
-    "description": "Part/Whole Componential Metaphors (replaces Ithkuil’s PTG affix)",
+    "description": "Part/Whole Componential Metaphors",
     "gradient_type": "0",
     "cs": "mž",
     "associated_root": false,
@@ -35,7 +35,8 @@
       "(acting as) middle or divisional segment or joint [e.g., elbow, knee, knuckle]",
       "(acting as) wing / arm / branch / extensor of X",
       "(acting as) end-manipulator, hand of X"
-    ]
+    ],
+    "notes": "(replaces Ithkuil’s PTG affix)"
   },
   {
     "name": "SBS",
@@ -118,7 +119,7 @@
   },
   {
     "name": "DPR",
-    "description": "Dispersion or Separability of a Configurative Set (can be used for spatial or temporal contexts)",
+    "description": "Dispersion or Separability of a Configurative Set",
     "gradient_type": "C",
     "cs": "sř",
     "associated_root": false,
@@ -133,7 +134,8 @@
       "not physically connected but with immediate accessibility and knowledge of other member actions [temporary]",
       "non-contiguous but closely connected, interlinked, each linked to adjacent via connecting medium [e.g., a web, branches, vines]; cluster[temporary]",
       "in total contact/contiguous mass of; pile, “ball of …” [temporary]"
-    ]
+    ],
+    "notes": "(can be used for spatial or temporal contexts)"
   },
   {
     "name": "SEP",
@@ -175,7 +177,7 @@
   },
   {
     "name": "CGL",
-    "description": "Motive/Reason for Conglomeration of Gestalt Entity",
+    "description": "Motive/Reason For Conglomeration of Gestalt Entity",
     "gradient_type": "0",
     "cs": "ẓv",
     "associated_root": false,

@@ -20,7 +20,7 @@
   },
   {
     "name": "DPC",
-    "description": "Dependent Circumstances (specifies the nature of the dependency signified by the redesigned DEPENDENT case)",
+    "description": "Dependent Circumstances",
     "gradient_type": "0",
     "cs": "ck",
     "associated_root": false,
@@ -36,7 +36,7 @@
       "The contigency occurs depending (up)on X; however, the dependency value is unknown to speaker",
       "The contigency occurs in case of X"
     ],
-    "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if …”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\n\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’."
+    "notes": "Note there are no negative values for the contingency clauses listed, i.e., “X will NOT occur if …”. Such negative contingencies are expressed by simple negation of the contingency phrase. Similarly, the dependency clause (expressed in the DEPENDENT case) may also be negated if semantically required.\n\nThe best feature of the new DEPENDENT case is that one can normally use it without the DPC affix to say in general ‘I’ll come, depending on what day of the week it is’, or, if necessary, specify the nature of the dependency by using the DPC affix, e.g., ‘I’ll come but only if it’s a certain day of the week’.\n(specifies the nature of the dependency signified by the redesigned DEPENDENT case)"
   },
   {
     "name": "AFM",
@@ -135,7 +135,7 @@
   },
   {
     "name": "VRF",
-    "description": "Verifiability of Info & Trustworthiness of its Source",
+    "description": "Verifiability of Info & Trustworthiness of Its Source",
     "gradient_type": "B",
     "cs": "ňç",
     "associated_root": false,
@@ -154,7 +154,7 @@
   },
   {
     "name": "IPC",
-    "description": "Unforeseen Implication Contrary to Expectation",
+    "description": "Unforeseen Implication Contrary To Expectation",
     "gradient_type": "0",
     "cs": "čt",
     "associated_root": false,
@@ -211,7 +211,7 @@
   },
   {
     "name": "LVL",
-    "description": "Alternate forms of Comparison Operators (Levels) *",
+    "description": "Alternate Forms of Comparison Operators *",
     "gradient_type": "A1",
     "cs": "řž",
     "associated_root": false,
@@ -254,11 +254,11 @@
         "(MAXa) Maximal (absolute comparison)"
       ]
     ],
-    "notes": "\\* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison"
+    "notes": "\\* Type-1 affixes indicate relative comparison; Type-2 affixes indicate absolute comparison\n(Levels)"
   },
   {
     "name": "COS",
-    "description": "Comparison Specifications (Used with Levels)",
+    "description": "Comparison Specifications",
     "gradient_type": "0",
     "cs": "lc",
     "associated_root": false,
@@ -273,11 +273,12 @@
       "“better, efficiently, greater”/“worse, inefficiently, poorer”",
       "“more, harder, longer”/“less, weaker, shorter”",
       "“more, harder, longer, better, efficiently, greater”/“less, weaker, shorter, worse, inefficiently, poorer”"
-    ]
+    ],
+    "notes": "(Used with Levels)"
   },
   {
     "name": "SCL",
-    "description": "Standards for Comparison for Use with Levels",
+    "description": "Standards For Comparison For Use With Levels",
     "gradient_type": "D1",
     "cs": "mt",
     "associated_root": false,
@@ -297,7 +298,7 @@
   },
   {
     "name": "XCL",
-    "description": "External Standard for Comparison for Use with Levels",
+    "description": "External Standard For Comparison For Use With Levels",
     "gradient_type": "D1",
     "cs": "çx",
     "associated_root": false,
@@ -317,7 +318,7 @@
   },
   {
     "name": "VWP",
-    "description": "From Viewpoint/Perspective of",
+    "description": "From Viewpoint/Perspective Of",
     "gradient_type": "D1",
     "cs": "lk",
     "associated_root": false,
@@ -374,7 +375,7 @@
   },
   {
     "name": "HG1",
-    "description": "Linguistic Hedges (1st group)",
+    "description": "Linguistic Hedges",
     "gradient_type": "0",
     "cs": "sj",
     "associated_root": false,
@@ -389,11 +390,12 @@
       "in one sense",
       "in some sense",
       "par excellence"
-    ]
+    ],
+    "notes": "(1st group)"
   },
   {
     "name": "HG2",
-    "description": "Linguistic Hedges (2nd group)",
+    "description": "Linguistic Hedges",
     "gradient_type": "0",
     "cs": "zj",
     "associated_root": false,
@@ -408,7 +410,8 @@
       "in name only",
       "so to say, so to speak",
       "for all I know / for all one knows"
-    ]
+    ],
+    "notes": "(2nd group)"
   },
   {
     "name": "AP1",
@@ -526,7 +529,7 @@
   },
   {
     "name": "NCE",
-    "description": "Non-Default Context + Essence (+ AGGLOMERATIVE Perspective)",
+    "description": "Non-Default Context + Essence",
     "gradient_type": "B",
     "cs": "gç",
     "associated_root": false,
@@ -541,7 +544,8 @@
       "(AMG/NRM)",
       "(AMG/RPV)",
       "(AMG/RPV/G)"
-    ]
+    ],
+    "notes": "(+ AGGLOMERATIVE Perspective)"
   },
   {
     "name": "SNC",
@@ -584,7 +588,7 @@
   },
   {
     "name": "AVP",
-    "description": "Misc. Adverbial Phrases (formerly APT)",
+    "description": "Misc. Adverbial Phrases",
     "gradient_type": "0",
     "cs": "sţ",
     "associated_root": false,
@@ -599,7 +603,8 @@
       "clear (case of), clearly / certainly / indeed [in negative sentences = no way / at all]",
       "as luck would have it / as it so happens … / it just so happens that …",
       "moreover, and what is more …"
-    ]
+    ],
+    "notes": "(formerly APT)"
   },
   {
     "name": "VAL",

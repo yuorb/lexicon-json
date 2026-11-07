@@ -210,7 +210,7 @@
   },
   {
     "name": "PLT",
-    "description": "盈亏度 [即与标准或先前/预期数量比较的相对量]",
+    "description": "盈亏度",
     "gradient_type": "D1",
     "cs": "tļ",
     "associated_root": false,
@@ -225,11 +225,12 @@
       "在几乎被消耗后，X 的恢复性丰盈",
       "丰富的 X / X 的丰盈、X 达到满量/容量",
       "X 的过度丰盈、超过所需或可用的 X"
-    ]
+    ],
+    "notes": "[即与标准或先前/预期数量比较的相对量]"
   },
   {
     "name": "RCO",
-    "description": "就地反弹（弹回；复位）",
+    "description": "就地反弹",
     "gradient_type": "D2",
     "cs": "zm",
     "associated_root": false,
@@ -244,11 +245,12 @@
       "就地反弹程度很大/很快",
       "就地反弹程度非常大/非常快",
       "就地反弹过多/过快"
-    ]
+    ],
+    "notes": "（弹回；复位）"
   },
   {
     "name": "TFI",
-    "description": "来回摆动；原地来回 [例如钟摆、摇尾巴]",
+    "description": "来回摆动；原地来回",
     "gradient_type": "D2",
     "cs": "žm",
     "associated_root": false,
@@ -263,11 +265,12 @@
       "来回摆动程度很大/很快",
       "来回摆动程度非常大/非常快",
       "来回摆动过多/过快"
-    ]
+    ],
+    "notes": "[例如钟摆、摇尾巴]"
   },
   {
     "name": "CRI",
-    "description": "原地循环或圆形运动（旋转、回旋）",
+    "description": "原地循环或圆形运动",
     "gradient_type": "D2",
     "cs": "cm",
     "associated_root": false,
@@ -282,11 +285,12 @@
       "循环运动程度很大/很快",
       "循环运动程度非常大/非常快",
       "循环运动过多/过快"
-    ]
+    ],
+    "notes": "（旋转、回旋）"
   },
   {
     "name": "CRV",
-    "description": "在线性矢量上进行循环或圆形运动 [例如火车轮、自行车轮]",
+    "description": "在线性矢量上进行循环或圆形运动",
     "gradient_type": "D2",
     "cs": "ẓm",
     "associated_root": false,
@@ -301,11 +305,12 @@
       "滚动程度很大/很快",
       "滚动程度非常大/非常快",
       "滚动过多/过快"
-    ]
+    ],
+    "notes": "[例如火车轮、自行车轮]"
   },
   {
     "name": "MDL",
-    "description": "调整的随机模式（不可预测/不规则）",
+    "description": "调整的随机模式",
     "gradient_type": "D2",
     "cs": "jm",
     "associated_root": false,
@@ -320,7 +325,8 @@
       "随机调整程度很大/很快",
       "随机调整程度非常大/非常快",
       "随机调整过多/过快"
-    ]
+    ],
+    "notes": "（不可预测/不规则）"
   },
   {
     "name": "ICR",

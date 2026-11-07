@@ -1,7 +1,7 @@
 [
   {
     "name": "MLR",
-    "description": "Meta-level representation/coordination/analysis",
+    "description": "Meta-Level Representation/Coordination/Analysis",
     "gradient_type": "0",
     "cs": "fš",
     "associated_root": false,
@@ -115,7 +115,7 @@
   },
   {
     "name": "MEA",
-    "description": "Means for Being or Doing",
+    "description": "Means For Being or Doing",
     "gradient_type": "0",
     "cs": "ls",
     "associated_root": false,
@@ -210,7 +210,7 @@
   },
   {
     "name": "KBP",
-    "description": "Basis for System of Knowledge, Belief or Practice",
+    "description": "Basis For System of Knowledge, Belief or Practice",
     "gradient_type": "D1",
     "cs": "zv",
     "associated_root": false,
@@ -305,7 +305,7 @@
   },
   {
     "name": "FMS",
-    "description": "Material States/Forms (solids)",
+    "description": "Material States/Forms",
     "gradient_type": "0",
     "cs": "vš",
     "associated_root": false,
@@ -320,11 +320,12 @@
       "X as block-like or formed pieces",
       "X as hardened/durable substance",
       "X as metal(lic)"
-    ]
+    ],
+    "notes": "(solids)"
   },
   {
     "name": "AMS",
-    "description": "Additional Material States/Forms (malleable solid)",
+    "description": "Additional Material States/Forms",
     "gradient_type": "0",
     "cs": "šč",
     "associated_root": false,
@@ -339,7 +340,8 @@
       "X as soft/flexible quasi-2D substance like cloth or fabric",
       "X as soft/flexible 3D substance like cotton",
       "X as sponge-like (3D resilient, depressable substance)"
-    ]
+    ],
+    "notes": "(malleable solid)"
   },
   {
     "name": "ACS",
@@ -362,7 +364,7 @@
   },
   {
     "name": "TRF",
-    "description": "Transformation for Use",
+    "description": "Transformation For Use",
     "gradient_type": "0",
     "cs": "zč",
     "associated_root": false,

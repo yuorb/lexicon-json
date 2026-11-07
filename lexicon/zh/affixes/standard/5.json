@@ -555,7 +555,7 @@
   },
   {
     "name": "DPY",
-    "description": "（群体或系统内一个实体的）重要度",
+    "description": "重要度",
     "gradient_type": "B",
     "cs": "vç",
     "associated_root": false,
@@ -570,7 +570,8 @@
       "首位，但可替代",
       "首位 / 主要 / 重要 / 首要",
       "首位且不可替代必不可少"
-    ]
+    ],
+    "notes": "（群体或系统内一个实体的）"
   },
   {
     "name": "DCP",

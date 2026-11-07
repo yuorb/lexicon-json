@@ -96,7 +96,7 @@
   },
   {
     "name": "INL",
-    "description": "Degree Of Inclusion",
+    "description": "Degree of Inclusion",
     "gradient_type": "A1",
     "cs": "řt",
     "associated_root": false,
@@ -115,7 +115,7 @@
   },
   {
     "name": "SUF",
-    "description": "Degree Of Sufficiency of Amount/Impact",
+    "description": "Degree of Sufficiency of Amount/Impact",
     "gradient_type": "A1",
     "cs": "rt",
     "associated_root": true,
@@ -153,7 +153,7 @@
   },
   {
     "name": "ESO",
-    "description": "Extent to Which Something Occurs",
+    "description": "Extent To Which Something Occurs",
     "gradient_type": "A1",
     "cs": "ršk",
     "associated_root": false,
@@ -210,7 +210,7 @@
   },
   {
     "name": "PLT",
-    "description": "Pletive [i.e., relative amount compared to a standard or a previous or expected amount]",
+    "description": "Pletive",
     "gradient_type": "D1",
     "cs": "tļ",
     "associated_root": false,
@@ -225,11 +225,12 @@
       "renewed/restored abundance of X after having been (nearly) depleted",
       "abundant X / an abundance of X, X at full amount/capacity",
       "over-abundance of X, more X than needed or can be used"
-    ]
+    ],
+    "notes": "[i.e., relative amount compared to a standard or a previous or expected amount]"
   },
   {
     "name": "RCO",
-    "description": "Recoil in place (spring back; snap back; fall back into place)",
+    "description": "Recoil In Place",
     "gradient_type": "D2",
     "cs": "zm",
     "associated_root": false,
@@ -244,11 +245,12 @@
       "recoil in place to a large degree / rapidly",
       "recoil in place to a very large degree / very rapidly",
       "recoil in place too much / overly / too rapidly"
-    ]
+    ],
+    "notes": "(spring back; snap back; fall back into place)"
   },
   {
     "name": "TFI",
-    "description": "Back & forth; to & fro in place [e.g., pendulum, wagging tail]",
+    "description": "Back & Forth; To & Fro In Place",
     "gradient_type": "D2",
     "cs": "žm",
     "associated_root": false,
@@ -263,11 +265,12 @@
       "go back and forth to a large degree / rapidly",
       "go back and forth to a very large degree / very rapidly",
       "go back and forth much / overly / too rapidly"
-    ]
+    ],
+    "notes": "[e.g., pendulum, wagging tail]"
   },
   {
     "name": "CRI",
-    "description": "Cycle or circular motion in place (spin, revolve)",
+    "description": "Cycle or Circular Motion In Place",
     "gradient_type": "D2",
     "cs": "cm",
     "associated_root": false,
@@ -282,11 +285,12 @@
       "cycle in place to a large degree / rapidly",
       "cycle in place to a very large degree / very rapidly",
       "cycle in place much / overly / too rapidly"
-    ]
+    ],
+    "notes": "(spin, revolve)"
   },
   {
     "name": "CRV",
-    "description": "Cycle or circular motion over linear vector [e.g., train wheels, bike wheels]",
+    "description": "Cycle or Circular Motion Over Linear Vector",
     "gradient_type": "D2",
     "cs": "ẓm",
     "associated_root": false,
@@ -301,11 +305,12 @@
       "roll to a large degree / rapidly",
       "roll to a very large degree / very rapidly",
       "roll much / overly / too rapidly"
-    ]
+    ],
+    "notes": "[e.g., train wheels, bike wheels]"
   },
   {
     "name": "MDL",
-    "description": "Random pattern of modulation (unpredictable/irregular)",
+    "description": "Random Pattern of Modulation",
     "gradient_type": "D2",
     "cs": "jm",
     "associated_root": false,
@@ -320,7 +325,8 @@
       "randomly modulate to a large degree / rapidly",
       "randomly modulate to a very large degree / very rapidly",
       "randomly modulate much / overly / too rapidly"
-    ]
+    ],
+    "notes": "(unpredictable/irregular)"
   },
   {
     "name": "ICR",
@@ -362,7 +368,7 @@
   },
   {
     "name": "ICD",
-    "description": "Increase then Decrease",
+    "description": "Increase Then Decrease",
     "gradient_type": "D2",
     "cs": "šx",
     "associated_root": false,
@@ -381,7 +387,7 @@
   },
   {
     "name": "DCI",
-    "description": "Decrease then Increase",
+    "description": "Decrease Then Increase",
     "gradient_type": "D2",
     "cs": "dx",
     "associated_root": false,

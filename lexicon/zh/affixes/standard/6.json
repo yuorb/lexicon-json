@@ -39,7 +39,7 @@
   },
   {
     "name": "VEL",
-    "description": "速率程度（= 距离与时间的比率）",
+    "description": "速率程度",
     "gradient_type": "D2",
     "cs": "fm",
     "associated_root": true,
@@ -54,11 +54,12 @@
       "快 / 迅速，速度较快",
       "非常快 / 非常迅速，速度非常快",
       "太快 / 太迅速；速度过快"
-    ]
+    ],
+    "notes": "（= 距离与时间的比率）"
   },
   {
     "name": "ITY",
-    "description": "强烈程度（= 质量/特征/行为/过程等表现出来的力量、明显度或影响水平）",
+    "description": "强烈程度",
     "gradient_type": "D2",
     "cs": "ţm",
     "associated_root": true,
@@ -73,7 +74,8 @@
       "强烈",
       "非常强烈",
       "太强烈 / 过于强烈"
-    ]
+    ],
+    "notes": "（= 质量/特征/行为/过程等表现出来的力量、明显度或影响水平）"
   },
   {
     "name": "RLV",
@@ -438,7 +440,7 @@
   },
   {
     "name": "DIF",
-    "description": "难度（重命名自 EFT）",
+    "description": "难度",
     "gradient_type": "D2",
     "cs": "čm",
     "associated_root": true,
@@ -453,7 +455,8 @@
       "费力 / 困难；艰难 / 费劲 / 努力 / 难度较大",
       "非常困难 / 极其困难",
       "过于困难 / 过于艰难"
-    ]
+    ],
+    "notes": "（重命名自 EFT）"
   },
   {
     "name": "DSG",
@@ -514,7 +517,7 @@
   },
   {
     "name": "PPF",
-    "description": "基于实践的熟练（= 通过实践获得的技能）程度",
+    "description": "基于实践的熟练程度",
     "gradient_type": "A2",
     "cs": "šh",
     "associated_root": false,
@@ -529,11 +532,12 @@
       "熟练（地）",
       "专业（地）",
       "过于熟练（地）/ 过度熟练 / 专业知识过多"
-    ]
+    ],
+    "notes": "（= 通过实践获得的技能）"
   },
   {
     "name": "KPF",
-    "description": "基于知识的熟练（= 通过学习/知识应用获得的技能）程度",
+    "description": "基于知识的熟练程度",
     "gradient_type": "A2",
     "cs": "žh",
     "associated_root": false,
@@ -548,7 +552,8 @@
       "熟练（地）",
       "专业（地）",
       "过于熟练（地）/ 过度熟练 / 专业知识过多"
-    ]
+    ],
+    "notes": "（= 通过学习/知识应用获得的技能）"
   },
   {
     "name": "TRS",

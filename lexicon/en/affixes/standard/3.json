@@ -1,7 +1,7 @@
 [
   {
     "name": "M01",
-    "description": "path-oriented quasi-linear translative motion",
+    "description": "Path-Oriented Quasi-Linear Translative Motion",
     "gradient_type": "D1",
     "cs": "tr",
     "associated_root": true,
@@ -20,7 +20,7 @@
   },
   {
     "name": "M01w",
-    "description": "arrive via linear motion",
+    "description": "Arrive Via Linear Motion",
     "gradient_type": "D1",
     "cs": "trw",
     "associated_root": false,
@@ -39,7 +39,7 @@
   },
   {
     "name": "M01y",
-    "description": "depart via linear motion",
+    "description": "Depart Via Linear Motion",
     "gradient_type": "D1",
     "cs": "try",
     "associated_root": false,
@@ -58,7 +58,7 @@
   },
   {
     "name": "M02",
-    "description": "vertical quasi-linear translative motion",
+    "description": "Vertical Quasi-Linear Translative Motion",
     "gradient_type": "D1",
     "cs": "pr",
     "associated_root": true,
@@ -77,7 +77,7 @@
   },
   {
     "name": "M02w",
-    "description": "ascent/rise",
+    "description": "Ascent/Rise",
     "gradient_type": "D1",
     "cs": "prw",
     "associated_root": false,
@@ -96,7 +96,7 @@
   },
   {
     "name": "M02y",
-    "description": "descent",
+    "description": "Descent",
     "gradient_type": "D1",
     "cs": "pry",
     "associated_root": false,
@@ -115,7 +115,7 @@
   },
   {
     "name": "M03",
-    "description": "oblique vertical quasi-linear translative motion",
+    "description": "Oblique Vertical Quasi-Linear Translative Motion",
     "gradient_type": "D1",
     "cs": "kr",
     "associated_root": true,
@@ -134,7 +134,7 @@
   },
   {
     "name": "M03w",
-    "description": "oblique ascent",
+    "description": "Oblique Ascent",
     "gradient_type": "D1",
     "cs": "krw",
     "associated_root": false,
@@ -153,7 +153,7 @@
   },
   {
     "name": "M03y",
-    "description": "oblique descent",
+    "description": "Oblique Descent",
     "gradient_type": "D1",
     "cs": "kry",
     "associated_root": false,
@@ -172,7 +172,7 @@
   },
   {
     "name": "M04",
-    "description": "horizontal planar translative motion",
+    "description": "Horizontal Planar Translative Motion",
     "gradient_type": "D1",
     "cs": "dr",
     "associated_root": true,
@@ -191,7 +191,7 @@
   },
   {
     "name": "M04w",
-    "description": "approach/getting nearer",
+    "description": "Approach/Getting Nearer",
     "gradient_type": "D1",
     "cs": "drw",
     "associated_root": false,
@@ -210,7 +210,7 @@
   },
   {
     "name": "M04y",
-    "description": "recede/getting farther away",
+    "description": "Recede/Getting Farther Away",
     "gradient_type": "D1",
     "cs": "dry",
     "associated_root": false,
@@ -229,7 +229,7 @@
   },
   {
     "name": "M05",
-    "description": "[anti]parallel translative motion",
+    "description": "(Anti-)Parallel Translative Motion",
     "gradient_type": "D1",
     "cs": "fr",
     "associated_root": true,
@@ -248,7 +248,7 @@
   },
   {
     "name": "M05w",
-    "description": "parallel translative motion",
+    "description": "Parallel Translative Motion",
     "gradient_type": "D1",
     "cs": "frw",
     "associated_root": false,
@@ -267,7 +267,7 @@
   },
   {
     "name": "M05y",
-    "description": "antiparallel translative motion",
+    "description": "Antiparallel Translative Motion",
     "gradient_type": "D1",
     "cs": "fry",
     "associated_root": false,
@@ -286,7 +286,7 @@
   },
   {
     "name": "M06",
-    "description": "perpendicular-planar translative motion",
+    "description": "Perpendicular-Planar Translative Motion",
     "gradient_type": "D1",
     "cs": "br",
     "associated_root": true,
@@ -305,7 +305,7 @@
   },
   {
     "name": "M06w",
-    "description": "rightward movement",
+    "description": "Rightward Movement",
     "gradient_type": "D1",
     "cs": "brw",
     "associated_root": false,
@@ -324,7 +324,7 @@
   },
   {
     "name": "M06y",
-    "description": "leftward movement",
+    "description": "Leftward Movement",
     "gradient_type": "D1",
     "cs": "bry",
     "associated_root": false,
@@ -343,7 +343,7 @@
   },
   {
     "name": "M07",
-    "description": "oblique lateral translative motion",
+    "description": "Oblique Lateral Translative Motion",
     "gradient_type": "D1",
     "cs": "gr",
     "associated_root": true,
@@ -362,7 +362,7 @@
   },
   {
     "name": "M07w",
-    "description": "oblique approach",
+    "description": "Oblique Approach",
     "gradient_type": "D1",
     "cs": "grw",
     "associated_root": false,
@@ -381,7 +381,7 @@
   },
   {
     "name": "M07y",
-    "description": "oblique receding",
+    "description": "Oblique Receding",
     "gradient_type": "D1",
     "cs": "gry",
     "associated_root": false,
@@ -400,7 +400,7 @@
   },
   {
     "name": "M08",
-    "description": "horizontal-planar range of motion",
+    "description": "Horizontal-Planar Range of Motion",
     "gradient_type": "D1",
     "cs": "gl",
     "associated_root": true,
@@ -419,7 +419,7 @@
   },
   {
     "name": "M08w",
-    "description": "random directed approach in horizontal plane",
+    "description": "Random Directed Approach In Horizontal Plane",
     "gradient_type": "D1",
     "cs": "glw",
     "associated_root": false,
@@ -438,7 +438,7 @@
   },
   {
     "name": "M08y",
-    "description": "random directed receding in horizontal plane",
+    "description": "Random Directed Receding In Horizontal Plane",
     "gradient_type": "D1",
     "cs": "gly",
     "associated_root": false,
@@ -457,7 +457,7 @@
   },
   {
     "name": "M09",
-    "description": "vertical-planar range of motion",
+    "description": "Vertical-Planar Range of Motion",
     "gradient_type": "D1",
     "cs": "dl",
     "associated_root": true,
@@ -476,7 +476,7 @@
   },
   {
     "name": "M09w",
-    "description": "random directed approach in vertical plane",
+    "description": "Random Directed Approach In Vertical Plane",
     "gradient_type": "D1",
     "cs": "dlw",
     "associated_root": false,
@@ -495,7 +495,7 @@
   },
   {
     "name": "M09y",
-    "description": "random directed receding in vertical plane",
+    "description": "Random Directed Receding In Vertical Plane",
     "gradient_type": "D1",
     "cs": "dly",
     "associated_root": false,
@@ -514,7 +514,7 @@
   },
   {
     "name": "M10",
-    "description": "perpendicular-planar range of motion",
+    "description": "Perpendicular-Planar Range of Motion",
     "gradient_type": "D1",
     "cs": "kl",
     "associated_root": true,
@@ -533,7 +533,7 @@
   },
   {
     "name": "M10w",
-    "description": "random directed approach in perpendicular plane",
+    "description": "Random Directed Approach In Perpendicular Plane",
     "gradient_type": "D1",
     "cs": "klw",
     "associated_root": false,
@@ -552,7 +552,7 @@
   },
   {
     "name": "M10y",
-    "description": "random directed receding in perpendicular plane",
+    "description": "Random Directed Receding In Perpendicular Plane",
     "gradient_type": "D1",
     "cs": "kly",
     "associated_root": false,
@@ -571,7 +571,7 @@
   },
   {
     "name": "M11",
-    "description": "motion on parabolic/arc trajectory rel. to gravity",
+    "description": "Motion On Parabolic/Arc Trajectory Rel. To Gravity",
     "gradient_type": "D1",
     "cs": "pl",
     "associated_root": true,
@@ -590,7 +590,7 @@
   },
   {
     "name": "M11w",
-    "description": "parabolic approach",
+    "description": "Parabolic Approach",
     "gradient_type": "D1",
     "cs": "plw",
     "associated_root": false,
@@ -609,7 +609,7 @@
   },
   {
     "name": "M11y",
-    "description": "parabolic receding",
+    "description": "Parabolic Receding",
     "gradient_type": "D1",
     "cs": "ply",
     "associated_root": false,
@@ -628,7 +628,7 @@
   },
   {
     "name": "M12",
-    "description": "motion in a curve",
+    "description": "Motion In a Curve",
     "gradient_type": "D1",
     "cs": "bl",
     "associated_root": true,
@@ -647,7 +647,7 @@
   },
   {
     "name": "M12w",
-    "description": "curved approach",
+    "description": "Curved Approach",
     "gradient_type": "D1",
     "cs": "blw",
     "associated_root": false,
@@ -666,7 +666,7 @@
   },
   {
     "name": "M12y",
-    "description": "curved receding",
+    "description": "Curved Receding",
     "gradient_type": "D1",
     "cs": "bly",
     "associated_root": false,
@@ -685,7 +685,7 @@
   },
   {
     "name": "M13",
-    "description": "motion in a planar circular path",
+    "description": "Motion In a Planar Circular Path",
     "gradient_type": "D1",
     "cs": "fl",
     "associated_root": true,
@@ -704,7 +704,7 @@
   },
   {
     "name": "M13w",
-    "description": "counter-clockwise circular motion",
+    "description": "Counter-Clockwise Circular Motion",
     "gradient_type": "D1",
     "cs": "flw",
     "associated_root": false,
@@ -723,7 +723,7 @@
   },
   {
     "name": "M13y",
-    "description": "clockwise circular motion",
+    "description": "Clockwise Circular Motion",
     "gradient_type": "D1",
     "cs": "fly",
     "associated_root": false,
@@ -742,7 +742,7 @@
   },
   {
     "name": "M14",
-    "description": "generic/oblique 3-D range of motion",
+    "description": "Generic/Oblique 3-D Range of Motion",
     "gradient_type": "D1",
     "cs": "tl",
     "associated_root": true,
@@ -761,7 +761,7 @@
   },
   {
     "name": "M14w",
-    "description": "arrive via oblique motions",
+    "description": "Arrive Via Oblique Motions",
     "gradient_type": "D1",
     "cs": "tlw",
     "associated_root": false,
@@ -780,7 +780,7 @@
   },
   {
     "name": "M14y",
-    "description": "depart via oblique motions",
+    "description": "Depart Via Oblique Motions",
     "gradient_type": "D1",
     "cs": "tly",
     "associated_root": false,
@@ -799,7 +799,7 @@
   },
   {
     "name": "P01",
-    "description": "generic spatial position",
+    "description": "Generic Spatial Position",
     "gradient_type": "D1",
     "cs": "ţ",
     "associated_root": true,
@@ -818,7 +818,7 @@
   },
   {
     "name": "P02",
-    "description": "position at 0 / 0 / 0 — “right here”",
+    "description": "Position At 0 / 0 / 0 — “Right here”",
     "gradient_type": "D1",
     "cs": "ḑ",
     "associated_root": true,
@@ -837,7 +837,7 @@
   },
   {
     "name": "P03",
-    "description": "position at 0 / 0 / +Z — “above”",
+    "description": "Position At 0 / 0 / +Z — “Above”",
     "gradient_type": "D1",
     "cs": "ţy",
     "associated_root": true,
@@ -856,7 +856,7 @@
   },
   {
     "name": "P04",
-    "description": "position at 0 / 0 / -Z — “below”",
+    "description": "Position At 0 / 0 / -Z — “Below”",
     "gradient_type": "D1",
     "cs": "ţw",
     "associated_root": true,
@@ -875,7 +875,7 @@
   },
   {
     "name": "P05",
-    "description": "position at 0 / +Y / 0 — “in front”",
+    "description": "Position At 0 / +Y / 0 — “In front”",
     "gradient_type": "D1",
     "cs": "p",
     "associated_root": true,
@@ -894,7 +894,7 @@
   },
   {
     "name": "P06",
-    "description": "position at 0 / -Y / 0 — “behind”",
+    "description": "Position At 0 / -Y / 0 — “Behind”",
     "gradient_type": "D1",
     "cs": "k",
     "associated_root": true,
@@ -913,7 +913,7 @@
   },
   {
     "name": "P07",
-    "description": "position at +X / 0 / 0 — “to the right”",
+    "description": "Position At +X / 0 / 0 — “To the right”",
     "gradient_type": "D1",
     "cs": "f",
     "associated_root": true,
@@ -932,7 +932,7 @@
   },
   {
     "name": "P08",
-    "description": "position at -X / 0 / 0 — “to the left”",
+    "description": "Position At -X / 0 / 0 — “To the left”",
     "gradient_type": "D1",
     "cs": "v",
     "associated_root": true,
@@ -951,7 +951,7 @@
   },
   {
     "name": "P09",
-    "description": "position at 0 / +Y / +Z — “in front & above”",
+    "description": "Position At 0 / +Y / +Z — “In front & above”",
     "gradient_type": "D1",
     "cs": "py",
     "associated_root": true,
@@ -970,7 +970,7 @@
   },
   {
     "name": "P10",
-    "description": "position at 0 / +Y / -Z — “in front & below”",
+    "description": "Position At 0 / +Y / -Z — “In front & below”",
     "gradient_type": "D1",
     "cs": "pw",
     "associated_root": true,
@@ -989,7 +989,7 @@
   },
   {
     "name": "P11",
-    "description": "position at 0 / -Y / +Z — “behind & above”",
+    "description": "Position At 0 / -Y / +Z — “Behind & above”",
     "gradient_type": "D1",
     "cs": "ky",
     "associated_root": true,
@@ -1008,7 +1008,7 @@
   },
   {
     "name": "P12",
-    "description": "position at 0 / -Y / -Z — “behind & below”",
+    "description": "Position At 0 / -Y / -Z — “Behind & below”",
     "gradient_type": "D1",
     "cs": "kw",
     "associated_root": true,
@@ -1027,7 +1027,7 @@
   },
   {
     "name": "P13",
-    "description": "position at +X / +Y / 0 — “to the right & in front”",
+    "description": "Position At +X / +Y / 0 — “To the right & in front”",
     "gradient_type": "D1",
     "cs": "fp",
     "associated_root": true,
@@ -1046,7 +1046,7 @@
   },
   {
     "name": "P14",
-    "description": "position at +X / -Y / 0 — “to the right & behind”",
+    "description": "Position At +X / -Y / 0 — “To the right & behind”",
     "gradient_type": "D1",
     "cs": "fk",
     "associated_root": true,
@@ -1065,7 +1065,7 @@
   },
   {
     "name": "P15",
-    "description": "pos. at +X / 0 / +Z - “to the right & above”",
+    "description": "Pos. At +X / 0 / +Z - “To the right & above”",
     "gradient_type": "D1",
     "cs": "fy",
     "associated_root": true,
@@ -1084,7 +1084,7 @@
   },
   {
     "name": "P16",
-    "description": "pos. at +X / 0 / -Z — “to the right & below”",
+    "description": "Pos. At +X / 0 / -Z — “To the right & below”",
     "gradient_type": "D1",
     "cs": "fw",
     "associated_root": true,
@@ -1103,7 +1103,7 @@
   },
   {
     "name": "P17",
-    "description": "pos. at -X / +Y / 0 - “to the left & in front”",
+    "description": "Pos. At -X / +Y / 0 - “To the left & in front”",
     "gradient_type": "D1",
     "cs": "vb",
     "associated_root": true,
@@ -1122,7 +1122,7 @@
   },
   {
     "name": "P18",
-    "description": "pos. at -X / -Y / 0 — “to the left & behind”",
+    "description": "Pos. At -X / -Y / 0 — “To the left & behind”",
     "gradient_type": "D1",
     "cs": "vg",
     "associated_root": true,
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "P19",
-    "description": "pos. at -X / 0 / +Z - “to the left & above”",
+    "description": "Pos. At -X / 0 / +Z - “To the left & above”",
     "gradient_type": "D1",
     "cs": "vy",
     "associated_root": true,
@@ -1160,7 +1160,7 @@
   },
   {
     "name": "P20",
-    "description": "pos. at -X / 0 / -Z — “to the left & below”",
+    "description": "Pos. At -X / 0 / -Z — “To the left & below”",
     "gradient_type": "D1",
     "cs": "vw",
     "associated_root": true,
@@ -1179,7 +1179,7 @@
   },
   {
     "name": "P21",
-    "description": "pos. at +X / +Y / +Z — “to the right, in front & above”",
+    "description": "Pos. At +X / +Y / +Z — “To the right, in front & above”",
     "gradient_type": "D1",
     "cs": "fpy",
     "associated_root": true,
@@ -1198,7 +1198,7 @@
   },
   {
     "name": "P22",
-    "description": "pos. at +X / +Y / -Z — “to the right, in front & below”",
+    "description": "Pos. At +X / +Y / -Z — “To the right, in front & below”",
     "gradient_type": "D1",
     "cs": "fpw",
     "associated_root": true,
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "P23",
-    "description": "pos. at +X / -Y / +Z — “to the right, behind & above”",
+    "description": "Pos. At +X / -Y / +Z — “To the right, behind & above”",
     "gradient_type": "D1",
     "cs": "fky",
     "associated_root": true,
@@ -1236,7 +1236,7 @@
   },
   {
     "name": "P24",
-    "description": "pos. at +X / -Y / -Z — “to the right, behind & below”",
+    "description": "Pos. At +X / -Y / -Z — “To the right, behind & below”",
     "gradient_type": "D1",
     "cs": "fkw",
     "associated_root": true,
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "P25",
-    "description": "pos. at -X / +Y / +Z — “to the left, in front & above”",
+    "description": "Pos. At -X / +Y / +Z — “To the left, in front & above”",
     "gradient_type": "D1",
     "cs": "vby",
     "associated_root": true,
@@ -1274,7 +1274,7 @@
   },
   {
     "name": "P26",
-    "description": "pos. at -X / +Y / -Z — “to the left, in front & below”",
+    "description": "Pos. At -X / +Y / -Z — “To the left, in front & below”",
     "gradient_type": "D1",
     "cs": "vbw",
     "associated_root": true,
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "P27",
-    "description": "pos. at -X / -Y / +Z — “to the left, behind & above”",
+    "description": "Pos. At -X / -Y / +Z — “To the left, behind & above”",
     "gradient_type": "D1",
     "cs": "vgy",
     "associated_root": true,
@@ -1312,7 +1312,7 @@
   },
   {
     "name": "P28",
-    "description": "pos. at -X / -Y /-Z — “to the left, behind & below”",
+    "description": "Pos. At -X / -Y /-Z — “To the left, behind & below”",
     "gradient_type": "D1",
     "cs": "vgw",
     "associated_root": true,
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "S01",
-    "description": "position between/amidst/among [in a quasi-planar context]",
+    "description": "Position Between/Amidst/Among [2D]",
     "gradient_type": "D1",
     "cs": "pk",
     "associated_root": true,
@@ -1346,11 +1346,12 @@
       "movement out of from 2D midst",
       "movement outside around 2D midst",
       "exterior movement alongside around 2D midst"
-    ]
+    ],
+    "notes": "[in a quasi-planar context]"
   },
   {
     "name": "S02",
-    "description": "position between/among [in a linear unidimensional context]",
+    "description": "Position Between/Among [1D]",
     "gradient_type": "D1",
     "cs": "dk",
     "associated_root": true,
@@ -1365,11 +1366,12 @@
       "movement out of from linear midst",
       "movement outside around linear midst",
       "exterior movement alongside around linear midst"
-    ]
+    ],
+    "notes": "[in a linear unidimensional context]"
   },
   {
     "name": "S03",
-    "description": "indefinite position amidst/among [in a 3-D volume]",
+    "description": "Indefinite Position Amidst/Among [3D]",
     "gradient_type": "D1",
     "cs": "tk",
     "associated_root": true,
@@ -1384,11 +1386,12 @@
       "movement out of from 3D midst",
       "movement outside around 3D midst",
       "exterior movement alongside around 3D midst"
-    ]
+    ],
+    "notes": "[in a 3-D volume]"
   },
   {
     "name": "S04",
-    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context [individual components separable/extractable]",
+    "description": "Position/State Intertwined [2D, separable]",
     "gradient_type": "D1",
     "cs": "ḑd",
     "associated_root": true,
@@ -1403,11 +1406,12 @@
       "movement out of from separable 2D midst",
       "movement outside around separable 2D midst",
       "exterior movement alongside around separable 2D midst"
-    ]
+    ],
+    "notes": "in 2-D context [individual components separable/extractable]"
   },
   {
     "name": "S05",
-    "description": "position/state intertwined/intermingled/intermixed in 3-D volume [individual components separable/extractable]",
+    "description": "Position/State Intertwined [3D, separable]",
     "gradient_type": "D1",
     "cs": "ḑb",
     "associated_root": true,
@@ -1422,11 +1426,12 @@
       "movement out of from separable 3D midst",
       "movement outside around separable 3D midst",
       "exterior movement alongside around separable 3D midst"
-    ]
+    ],
+    "notes": "in 3-D volume [individual components separable/extractable]"
   },
   {
     "name": "S06",
-    "description": "position/state intertwined/intermingled/intermixed in 2-D planar context [components inseparable/permanently combined]",
+    "description": "Position/State Intertwined [2D, inseparable]",
     "gradient_type": "D1",
     "cs": "ḑv",
     "associated_root": true,
@@ -1441,11 +1446,12 @@
       "movement out of from integrated 2D midst",
       "movement outside around integrated 2D midst",
       "exterior movement alongside around integrated 2D midst"
-    ]
+    ],
+    "notes": "in 2-D context [components inseparable/permanently combined]"
   },
   {
     "name": "S07",
-    "description": "position/state intertwined/intermingled/intermixed in 3-D volume [individual components inseparable/permanently combined]",
+    "description": "Position/State Intertwined [3D, inseparable]",
     "gradient_type": "D1",
     "cs": "ḑg",
     "associated_root": true,
@@ -1460,11 +1466,12 @@
       "movement out of from integrated 3D midst",
       "movement outside around integrated 3D midst",
       "exterior movement alongside around integrated 3D midst"
-    ]
+    ],
+    "notes": "in 3-D volume [individual components inseparable/permanently combined]"
   },
   {
     "name": "S08",
-    "description": "positionally-defined componential part",
+    "description": "Positionally-Defined Componential Part",
     "gradient_type": "D1",
     "cs": "ţf",
     "associated_root": true,
@@ -1483,7 +1490,7 @@
   },
   {
     "name": "S09",
-    "description": "linear uni-dimensional middle, center [as seen parallel to long axis of entity (or height-axis of a “tall” entity)]",
+    "description": "Linear Uni-Dimensional Middle, Center",
     "gradient_type": "D1",
     "cs": "cl",
     "associated_root": true,
@@ -1498,11 +1505,12 @@
       "movement out of from lengthwise middle",
       "movement outside around lengthwise middle",
       "exterior movement alongside around lengthwise middle"
-    ]
+    ],
+    "notes": "[as seen parallel to long axis of entity (or height-axis of a “tall” entity)]"
   },
   {
     "name": "S10",
-    "description": "linear uni-dimensional middle, center [as seen perpendicular to long axis of entity (or height-axis of a “tall” entity)]",
+    "description": "Linear Uni-Dimensional Middle, Center",
     "gradient_type": "D1",
     "cs": "cr",
     "associated_root": true,
@@ -1517,11 +1525,12 @@
       "movement out of from widthwise middle",
       "movement outside around widthwise middle",
       "exterior movement alongside around widthwise middle"
-    ]
+    ],
+    "notes": "[as seen perpendicular to long axis of entity (or height-axis of a “tall” entity)]"
   },
   {
     "name": "S11",
-    "description": "planar 2-dimensional middle, center [running vertically and laterally parallel to long (or tall) side of entity]",
+    "description": "Planar 2-Dimensional Middle, Center",
     "gradient_type": "D1",
     "cs": "ẓl",
     "associated_root": true,
@@ -1536,11 +1545,12 @@
       "movement out of from median middle",
       "movement outside around median middle",
       "exterior movement alongside around median middle"
-    ]
+    ],
+    "notes": "[running vertically and laterally parallel to long (or tall) side of entity]"
   },
   {
     "name": "S12",
-    "description": "planar 2-dimensional middle, center [running vertically parallel but laterally perpendicular to long (or tall) side of entity]",
+    "description": "Planar 2-Dimensional Middle, Center",
     "gradient_type": "D1",
     "cs": "ẓr",
     "associated_root": true,
@@ -1555,11 +1565,12 @@
       "movement out of from frontal middle",
       "movement outside around frontal middle",
       "exterior movement alongside around frontal middle"
-    ]
+    ],
+    "notes": "[running vertically parallel but laterally perpendicular to long (or tall) side of entity]"
   },
   {
     "name": "S13",
-    "description": "planar 2-dimensional middle, center [running vertically and laterally perpendicular to long (or tall) side of entity]",
+    "description": "Planar 2-Dimensional Middle, Center",
     "gradient_type": "D1",
     "cs": "ẓw",
     "associated_root": true,
@@ -1574,11 +1585,12 @@
       "movement out of from transverse middle",
       "movement outside around transverse middle",
       "exterior movement alongside around transverse middle"
-    ]
+    ],
+    "notes": "[running vertically and laterally perpendicular to long (or tall) side of entity]"
   },
   {
     "name": "S14",
-    "description": "center point of an entity, i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity",
+    "description": "Center Point of an Entity",
     "gradient_type": "D1",
     "cs": "cw",
     "associated_root": true,
@@ -1593,11 +1605,12 @@
       "movement out of from center point",
       "movement outside around center point",
       "exterior movement alongside around center point"
-    ]
+    ],
+    "notes": "i.e., the zero-dimensional point most equidistant from all points on the periphery or surface of an entity"
   },
   {
     "name": "S15",
-    "description": "side/flank of an entity",
+    "description": "Side/Flank of an Entity",
     "gradient_type": "D1",
     "cs": "fḑ",
     "associated_root": true,
@@ -1616,7 +1629,7 @@
   },
   {
     "name": "S16",
-    "description": "front part of an entity [relative to its directional orientation or primary external interface]",
+    "description": "Front Part of an Entity",
     "gradient_type": "D1",
     "cs": "pf",
     "associated_root": true,
@@ -1631,11 +1644,12 @@
       "movement out of from front",
       "movement outside around front",
       "exterior movement alongside around front"
-    ]
+    ],
+    "notes": "[relative to its directional orientation or primary external interface]"
   },
   {
     "name": "S17",
-    "description": "rear/back part of an entity [relative to its directional orientation or primary external interface]",
+    "description": "Rear/Back Part of an Entity",
     "gradient_type": "D1",
     "cs": "kf",
     "associated_root": true,
@@ -1650,11 +1664,12 @@
       "movement out of from back",
       "movement outside around back",
       "exterior movement alongside around back"
-    ]
+    ],
+    "notes": "[relative to its directional orientation or primary external interface]"
   },
   {
     "name": "S18",
-    "description": "top/peak/summit of an entity [relative to its typical orientation under gravity]",
+    "description": "Top/Peak/Summit of an Entity",
     "gradient_type": "D1",
     "cs": "dy",
     "associated_root": true,
@@ -1669,11 +1684,12 @@
       "movement out of from top",
       "movement outside around top",
       "exterior movement alongside on top"
-    ]
+    ],
+    "notes": "[relative to its typical orientation under gravity]"
   },
   {
     "name": "S19",
-    "description": "bottom/foundation of an entity [relative to its typical orientation under gravity]",
+    "description": "Bottom/Foundation of an Entity",
     "gradient_type": "D1",
     "cs": "dw",
     "associated_root": true,
@@ -1688,11 +1704,12 @@
       "movement out of from bottom",
       "movement outside around bottom",
       "exterior movement alongside on bottom"
-    ]
+    ],
+    "notes": "[relative to its typical orientation under gravity]"
   },
   {
     "name": "S20",
-    "description": "upper part / “half” of an entity [relative to its typical orientation under gravity]",
+    "description": "Upper Part / “Half” of an Entity",
     "gradient_type": "D1",
     "cs": "ḑy",
     "associated_root": true,
@@ -1711,7 +1728,7 @@
   },
   {
     "name": "S21",
-    "description": "lower part / “half” of an entity [relative to its typical orientation under gravity]",
+    "description": "Lower Part / “Half” of an Entity",
     "gradient_type": "D1",
     "cs": "ḑw",
     "associated_root": true,
@@ -1726,11 +1743,12 @@
       "movement out of from lower half",
       "movement outside around lower half",
       "exterior movement alongside around lower half"
-    ]
+    ],
+    "notes": "[relative to its typical orientation under gravity]"
   },
   {
     "name": "S22",
-    "description": "interior/internal volume / “inside(s)”/“innards” of an entity",
+    "description": "Interior/Internal Volume / “Inside(s)”/“Innards” of an Entity",
     "gradient_type": "D1",
     "cs": "xw",
     "associated_root": true,
@@ -1749,7 +1767,7 @@
   },
   {
     "name": "S23",
-    "description": "interior surface or “wall” / internal surface or “wall” / the inside surface or “wall” of an entity",
+    "description": "Interior Surface or “Wall” / Internal Surface or “Wall” / the Inside Surface or “Wall” of an Entity",
     "gradient_type": "D1",
     "cs": "xl",
     "associated_root": true,
@@ -1768,7 +1786,7 @@
   },
   {
     "name": "S24",
-    "description": "exterior/external surface / “outside”/“skin” of an entity",
+    "description": "Exterior/External Surface / “Outside” / “Skin” of an Entity",
     "gradient_type": "D1",
     "cs": "xr",
     "associated_root": true,
@@ -1787,7 +1805,7 @@
   },
   {
     "name": "S25",
-    "description": "external point-like outward-facing vertex / “corner” of an entity",
+    "description": "External Point-Like Outward-Facing Vertex / “Corner” of an Entity",
     "gradient_type": "D1",
     "cs": "xḑ",
     "associated_root": true,
@@ -1806,7 +1824,7 @@
   },
   {
     "name": "S26",
-    "description": "external quasi-linear edge of an entity",
+    "description": "External Quasi-Linear Edge of an Entity",
     "gradient_type": "D1",
     "cs": "xt",
     "associated_root": true,
@@ -1825,7 +1843,7 @@
   },
   {
     "name": "S27",
-    "description": "external quasi-linear joining of surfaces/“seam” of an entity",
+    "description": "External Quasi-Linear Joining of Surfaces/“Seam” of an Entity",
     "gradient_type": "D1",
     "cs": "xk",
     "associated_root": true,
@@ -1844,7 +1862,7 @@
   },
   {
     "name": "S28",
-    "description": "external attachment point or fastening mechanism of an entity, i.e., handle, hook, latch, velcro patch, knob, peg, etc.",
+    "description": "External Attachment Point or Fastening Mechanism of an Entity",
     "gradient_type": "D1",
     "cs": "xf",
     "associated_root": true,
@@ -1859,11 +1877,12 @@
       "movement out of from handle/knob attachment",
       "movement outside around handle/knob attachment",
       "exterior movement alongside around handle/knob attachment"
-    ]
+    ],
+    "notes": "i.e., handle, hook, latch, velcro patch, knob, peg, etc."
   },
   {
     "name": "S29",
-    "description": "internal point-like interior vertex / “corner” of an entity",
+    "description": "Internal Point-Like Interior Vertex / “Corner” of an Entity",
     "gradient_type": "D1",
     "cs": "čḑ",
     "associated_root": true,
@@ -1882,7 +1901,7 @@
   },
   {
     "name": "S30",
-    "description": "external linear outward-facing “corner” edge or “corner” space of an entity",
+    "description": "External Linear Outward-Facing “Corner” Edge or “Corner” Space of an Entity",
     "gradient_type": "D1",
     "cs": "xḑr",
     "associated_root": true,
@@ -1901,7 +1920,7 @@
   },
   {
     "name": "S31",
-    "description": "internal linear interior “corner” edge or “corner” space of an entity",
+    "description": "Internal Linear Interior “Corner” Edge or “Corner” Space of an Entity",
     "gradient_type": "D1",
     "cs": "čḑr",
     "associated_root": true,
@@ -1920,7 +1939,7 @@
   },
   {
     "name": "BDM",
-    "description": "IN SITU BODILY MOVEMENTS (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "IN SITU BODILY MOVEMENTS",
     "gradient_type": "B",
     "cs": "çp",
     "associated_root": true,
@@ -1935,11 +1954,12 @@
       "with legs or ambulatory appendages waving/bending",
       "with legs or ambulatory appendages making choppy movements",
       "with legs or ambulatory appendages making (seemingly) random movements"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "ZZG",
-    "description": "Secondary Zigzag Motion (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Secondary Zigzag Motion",
     "gradient_type": "B",
     "cs": "çg",
     "associated_root": false,
@@ -1954,11 +1974,12 @@
       "short-period 2D zigzag motion on horizontal plane parallel to direction of travel",
       "varying-period 2D zigzag motion on horizontal plane parallel to direction of travel",
       "long-period 2D zigzag motion on horizontal plane parallel to direction of travel"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SNW",
-    "description": "Secondary Sine Wave-like Motion (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Secondary Sine Wave-Like Motion",
     "gradient_type": "B",
     "cs": "çd",
     "associated_root": false,
@@ -1973,11 +1994,12 @@
       "short-period 2D sine wave-like motion on horizontal plane parallel to direction of travel",
       "varying-period 2D sine wave-like motion on horizontal plane parallel to direction of travel",
       "long-period 2D sine wave-like motion on horizontal plane parallel to direction of travel"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SPR",
-    "description": "Spin/Rotation of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Spin/Rotation of an Object",
     "gradient_type": "B",
     "cs": "çv",
     "associated_root": false,
@@ -1992,11 +2014,12 @@
       "short-period [i.e., fast] spinning motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]",
       "varying-period [i.e., variable-speed] spinning motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]",
       "long-period [i.e., slow] spinning/revolving motion on parallel-horizontal plane relative to the direction of travel [i.e., horizontally revolving/rotating]"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "CRC",
-    "description": "Circular Motion/Path of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Circular Motion/Path of an Object",
     "gradient_type": "B",
     "cs": "çt",
     "associated_root": false,
@@ -2011,11 +2034,12 @@
       "while traveling in (a) short-period [i.e., fast/small] circle(s) on a plane horizontally parallel to the direction of travel [i.e., resulting in a path of moving epicycles / “curlycues”]",
       "while traveling in (a) mid-period [i.e., medium-sized/paced] circle(s) on a plane horizontally parallel to the direction of travel [i.e., a path of moving epicycles / “curlycues”]",
       "while traveling in (a) long-period [i.e., slow/large] circle(s) on a plane horizontally parallel to the direction of travel [i.e., resulting in a path of moving epicycles / “curlycues”]"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SDM",
-    "description": "Miscellaneous In-Situ Motions of an Object (augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)",
+    "description": "Miscellaneous In-Situ Motions of an Object",
     "gradient_type": "0",
     "cs": "gž",
     "associated_root": false,
@@ -2030,7 +2054,8 @@
       "… while expanding along primary (or longest) axis",
       "… while fluctuating in size along primary (or longest) axis",
       "… while shrinking/contracting along primary (or longest) axis"
-    ]
+    ],
+    "notes": "(augment with Type 3 ITN, RPN and/or Modulative suffixes if necessary)"
   },
   {
     "name": "SPM",
@@ -2186,7 +2211,7 @@
   },
   {
     "name": "WAK",
-    "description": "Spread/wake/trail/area/expanse created by passage of entity",
+    "description": "Spread/Wake/Trail/Area/Expanse Created By Passage of Entity",
     "gradient_type": "B",
     "cs": "çc",
     "associated_root": true,
